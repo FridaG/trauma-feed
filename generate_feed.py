@@ -4,6 +4,7 @@ from datetime import datetime, timedelta
 import re
 import os
 import time
+import json
 
 # ============================================================
 # CONFIGURATION
@@ -312,6 +313,101 @@ def generate_rss(articles, output_path="docs/feed.xml"):
     tree.write(output_path, encoding="unicode", xml_declaration=True)
     print(f"Feed written to {output_path} with {len(articles)} articles")
 
+def generate_json(articles, output_path="docs/articles.json"):
+    """Generate a JSON file with all article data for the Cloudflare Worker."""
+
+    tier1_issns = set(TIER1_JOURNALS.values())
+
+    json_articles = []
+    for article in articles:
+        # Determine which trauma keywords matched
+        text = f"{article['title']} {article['abstract']}"
+        matched_keywords = []
+        for kw, pattern in zip(TRAUMA_KEYWORDS, TRAUMA_PATTERNS):
+            if pattern.search(text):
+                # Clean up the regex for display
+                clean = kw.replace(r"\b", "").replace(r"(", "").replace(r")", "")
+                clean = clean.replace(r"|", "/").replace(r"?", "").replace(r".", " ")
+                matched_keywords.append(clean)
+
+        # Categorise into trauma topics
+        topic_map = {
+            "TBI": [r"traumatic brain", r"head injur", r"intracranial", r"subdural",
+                     r"epidural", r"diffuse axonal", r"decompressive craniectomy",
+                     r"ICP monitoring", r"intracranial pressure"],
+            "Thoracic": [r"haemothorax", r"hemothorax", r"pneumothorax", r"rib fracture",
+                         r"flail chest", r"thoracostomy", r"thoracotomy", r"chest drain",
+                         r"intercostal catheter", r"cardiac tamponade"],
+            "Abdominal": [r"splenic", r"liver laceration", r"hepatic trauma",
+                          r"solid organ", r"diaphragmatic", r"blunt abdominal",
+                          r"emergency laparotomy", r"open abdomen"],
+            "Pelvic": [r"pelvic fracture", r"pelvic binder", r"pelvic ring",
+                       r"pelvic emboli", r"preperitoneal", r"angioembol"],
+            "Haemorrhage": [r"REBOA", r"haemorrhagic shock", r"hemorrhagic shock",
+                            r"massive transfusion", r"massive haemorrhage",
+                            r"massive hemorrhage", r"damage control", r"tranexamic",
+                            r"whole blood", r"permissive hypotension",
+                            r"coagulopathy", r"thromboelastography", r"ROTEM",
+                            r"lethal triad", r"prothrombin", r"junctional"],
+            "Spine": [r"spinal cord", r"spinal injury", r"spinal fracture",
+                      r"cervical spine", r"spinal immobili", r"c-spine",
+                      r"spinal clearance"],
+            "Penetrating": [r"gunshot", r"stab wound", r"penetrating"],
+            "Burns": [r"burn injur", r"thermal injury"],
+            "Orthopaedic": [r"open fracture", r"orthopaedic trauma", r"orthopedic trauma",
+                            r"femur", r"femoral", r"tibial", r"humeral",
+                            r"long bone", r"compartment syndrome", r"rhabdomyolysis"],
+            "Paediatric": [r"paediatric trauma", r"pediatric trauma"],
+            "Facial/Neck": [r"facial fracture", r"maxillofacial", r"Le Fort",
+                            r"mandib", r"orbital", r"globe rupture",
+                            r"neck injur", r"laryngeal", r"tracheal"],
+            "Vascular": [r"vascular injury", r"aortic"],
+            "Imaging": [r"FAST", r"eFAST", r"focused assessment", r"POCUS",
+                        r"whole body CT", r"trauma CT", r"trauma ultrasound"],
+            "Prehospital": [r"prehospital", r"helicopter", r"aeromedical",
+                            r"trauma retrieval", r"ATLS", r"EMST"],
+            "Systems/QI": [r"trauma resuscitation", r"trauma team", r"trauma activation",
+                           r"injury prevention", r"trauma mortality",
+                           r"preventable death", r"trauma registry", r"trauma quality"],
+            "Cardiac Arrest": [r"traumatic cardiac arrest", r"trauma arrest",
+                               r"ECMO", r"ECPR"],
+            "Obstetric": [r"trauma in pregnancy", r"maternal trauma",
+                          r"resuscitative hysterotomy", r"perimortem"],
+        }
+
+        topics = []
+        text_lower = text.lower()
+        for topic, patterns in topic_map.items():
+            for p in patterns:
+                if re.search(p, text, re.IGNORECASE):
+                    topics.append(topic)
+                    break
+
+        json_articles.append({
+            "pmid": article["pmid"],
+            "title": article["title"],
+            "abstract": article["abstract"],
+            "journal": article["journal"],
+            "authors": article["authors"],
+            "date": article["date_str"],
+            "doi": article["doi"],
+            "tier": "core" if article["issn"] in tier1_issns else "filtered",
+            "topics": topics,
+            "matched_keywords": matched_keywords,
+            "link": f"https://pubmed.ncbi.nlm.nih.gov/{article['pmid']}/",
+        })
+
+    output = {
+        "generated": datetime.utcnow().isoformat() + "Z",
+        "total_articles": len(json_articles),
+        "articles": json_articles,
+    }
+
+    os.makedirs(os.path.dirname(output_path), exist_ok=True)
+    with open(output_path, "w") as f:
+        json.dump(output, f, indent=2)
+    print(f"JSON written to {output_path} with {len(json_articles)} articles")
+
 
 # ============================================================
 # MAIN
@@ -369,6 +465,7 @@ def main():
     unique_articles.sort(key=lambda x: int(x["pmid"]), reverse=True)
 
     print(f"\nTotal articles after filtering: {len(unique_articles)}")
+    generate_json(unique_articles)
     generate_rss(unique_articles)
 
 
