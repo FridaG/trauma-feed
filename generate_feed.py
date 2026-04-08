@@ -1,9 +1,9 @@
 import requests
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta
-import json
 import re
 import os
+import time
 
 # ============================================================
 # CONFIGURATION
@@ -45,27 +45,21 @@ TIER2_JOURNALS = {
 }
 
 # Trauma keywords for filtering Tier 2 articles
-# These are checked against title + abstract (case-insensitive)
 TRAUMA_KEYWORDS = [
-    # General trauma
     r"\btrauma\b", r"\bpolytrauma\b", r"\btraumatic\b",
     r"\bmajor trauma\b", r"\bblunt trauma\b", r"\bpenetrating trauma\b",
     r"\binjury severity\b", r"\btrauma cent(er|re)\b",
-    # Thoracic
     r"\bha?emothorax\b", r"\bpneumothorax\b", r"\brib fracture",
     r"\bflail chest\b", r"\bthoracostomy\b", r"\bthoracotomy\b",
     r"\bchest drain\b", r"\bintercostal catheter\b",
     r"\bcardiac tamponade\b",
-    # Abdominal
     r"\bsplenic (injury|laceration|rupture)\b",
     r"\bliver laceration\b", r"\bhepatic trauma\b",
     r"\bsolid organ injury\b", r"\bdiaphragmatic injury\b",
     r"\bblunt abdominal\b",
-    # Pelvic
     r"\bpelvic fracture\b", r"\bpelvic binder\b", r"\bpelvic ring\b",
     r"\bpelvic emboli[sz]ation\b", r"\bpreperitoneal packing\b",
     r"\bangioembol[iz]ation\b",
-    # Haemorrhage / resuscitation
     r"\bREBOA\b", r"\bha?emorrhagic shock\b",
     r"\bmassive transfusion\b", r"\bmassive ha?emorrhage\b",
     r"\bdamage control\b", r"\btranexamic acid\b",
@@ -74,37 +68,29 @@ TRAUMA_KEYWORDS = [
     r"\btrauma.induced coagulopathy\b", r"\bacute traumatic coagulopathy\b",
     r"\bthromboelastography\b", r"\bROTEM\b",
     r"\blethal triad\b", r"\bprothrombin complex\b",
-    # TBI / neuro
     r"\btraumatic brain injur", r"\bhead injur",
     r"\bintracranial ha?emorrhage\b", r"\bsubdural ha?ematoma\b",
     r"\bepidural ha?ematoma\b", r"\bdiffuse axonal\b",
     r"\bdecompressive craniectomy\b", r"\bICP monitoring\b",
     r"\bintracranial pressure monitoring\b",
-    # Spine
     r"\bspinal cord injury\b", r"\bspinal injury\b", r"\bspinal fracture\b",
     r"\bcervical spine (injury|trauma|clearance)\b",
     r"\bspinal immobili[sz]ation\b", r"\bc-spine\b", r"\bspinal clearance\b",
-    # Penetrating / blast / burns
     r"\bgunshot wound", r"\bstab wound", r"\bpenetrating injur",
     r"\bblast injur", r"\bburn injur", r"\bthermal injury\b",
-    # Specific populations
     r"\bpa?ediatric trauma\b", r"\btrauma in pregnancy\b",
     r"\bmaternal trauma\b", r"\bgeriatric trauma\b", r"\belderly trauma\b",
-    # Orthopaedic trauma
     r"\bopen fracture", r"\bortho?pa?edic trauma\b",
     r"\bfemur fracture\b", r"\bfemoral fracture\b",
     r"\btibial fracture\b", r"\bhumeral fracture\b",
     r"\blong bone fracture\b", r"\bcompartment syndrome\b",
     r"\brhabdomyolysis\b", r"\bfat embolism\b",
-    # Facial / neck
     r"\bfacial fracture\b", r"\bmaxillofacial trauma\b",
     r"\bLe Fort\b", r"\bmandib(le|ular) fracture\b",
     r"\borbital fracture\b", r"\bglobe rupture\b",
     r"\bneck injur", r"\blaryngeal injury\b", r"\btracheal injury\b",
-    # Vascular
     r"\bvascular injury\b", r"\baortic (injury|transection)\b",
     r"\bjunctional ha?emorrhage\b",
-    # Procedures / imaging
     r"\bFAST (exam|ultrasound)\b", r"\beFAST\b",
     r"\bfocused assessment with sonography\b",
     r"\btrauma ultrasound\b", r"\bPOCUS\b",
@@ -113,14 +99,12 @@ TRAUMA_KEYWORDS = [
     r"\bemergency laparotomy\b", r"\bopen abdomen\b",
     r"\btemporary abdominal closure\b",
     r"\bresuscitative hysterotomy\b", r"\bperimortem c(ae)?sarean\b",
-    # Systems / quality
     r"\btrauma resuscitation\b", r"\btrauma team\b", r"\btrauma activation\b",
     r"\bprehospital trauma\b", r"\bhelicopter emergency\b",
     r"\baeromedical retrieval\b", r"\btrauma retrieval\b",
     r"\binjury prevention\b", r"\btrauma mortality\b",
     r"\bpreventable death\b", r"\btrauma registry\b", r"\btrauma quality\b",
     r"\bATLS\b", r"\bEMST\b",
-    # Other
     r"\btraumatic cardiac arrest\b", r"\btrauma arrest\b",
     r"\btraumatic amputation\b", r"\bcrush (injury|syndrome)\b",
     r"\bnon.?accidental injury\b", r"\bcode crimson\b",
@@ -129,27 +113,38 @@ TRAUMA_KEYWORDS = [
     r"\banticoagulant reversal\b",
 ]
 
-# Compile regex patterns for performance
 TRAUMA_PATTERNS = [re.compile(kw, re.IGNORECASE) for kw in TRAUMA_KEYWORDS]
 
-# Publication types to exclude
 EXCLUDE_PUB_TYPES = {
     "Comment", "Letter", "Editorial", "Erratum",
     "Published Erratum", "Retraction of Publication",
     "Expression of Concern",
 }
 
-# How many days back to search
 LOOKBACK_DAYS = 14
 
-# NCBI API settings
 NCBI_BASE = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils"
 EMAIL = os.environ.get("NCBI_EMAIL", "your.email@example.com")
-API_KEY = os.environ.get("NCBI_API_KEY", "")  # Optional but recommended
+API_KEY = os.environ.get("NCBI_API_KEY", "")
+
+# Rate limiting: NCBI allows 3/sec without key, 10/sec with key
+REQUEST_DELAY = 0.15 if API_KEY else 0.4
 
 # ============================================================
 # FUNCTIONS
 # ============================================================
+
+def api_get(url, params):
+    """Make a rate-limited GET request to the NCBI API."""
+    if API_KEY:
+        params["api_key"] = API_KEY
+    params["email"] = EMAIL
+
+    time.sleep(REQUEST_DELAY)
+    r = requests.get(url, params=params)
+    r.raise_for_status()
+    return r
+
 
 def search_pubmed(issn, days_back=LOOKBACK_DAYS):
     """Search PubMed for recent articles from a specific journal by ISSN."""
@@ -164,97 +159,87 @@ def search_pubmed(issn, days_back=LOOKBACK_DAYS):
         "maxdate": date_to,
         "retmax": 200,
         "retmode": "json",
-        "email": EMAIL,
     }
-    if API_KEY:
-        params["api_key"] = API_KEY
 
-    r = requests.get(f"{NCBI_BASE}/esearch.fcgi", params=params)
-    r.raise_for_status()
+    r = api_get(f"{NCBI_BASE}/esearch.fcgi", params)
     data = r.json()
     return data.get("esearchresult", {}).get("idlist", [])
 
 
 def fetch_details(pmids):
-    """Fetch article details for a list of PMIDs."""
+    """Fetch article details for a list of PMIDs, in batches to avoid 414 errors."""
     if not pmids:
         return []
 
-    params = {
-        "db": "pubmed",
-        "id": ",".join(pmids),
-        "retmode": "xml",
-        "email": EMAIL,
-    }
-    if API_KEY:
-        params["api_key"] = API_KEY
+    all_articles = []
+    batch_size = 50  # Fetch 50 at a time to keep URLs short
 
-    r = requests.get(f"{NCBI_BASE}/efetch.fcgi", params=params)
-    r.raise_for_status()
+    for i in range(0, len(pmids), batch_size):
+        batch = pmids[i:i + batch_size]
+        params = {
+            "db": "pubmed",
+            "id": ",".join(batch),
+            "retmode": "xml",
+        }
 
-    root = ET.fromstring(r.content)
-    articles = []
+        r = api_get(f"{NCBI_BASE}/efetch.fcgi", params)
+        root = ET.fromstring(r.content)
 
-    for article_elem in root.findall(".//PubmedArticle"):
-        try:
-            pmid = article_elem.findtext(".//PMID")
-            title = article_elem.findtext(".//ArticleTitle") or "No title"
-            abstract_parts = article_elem.findall(".//AbstractText")
-            abstract = " ".join(
-                (part.text or "") for part in abstract_parts
-            )
+        for article_elem in root.findall(".//PubmedArticle"):
+            try:
+                pmid = article_elem.findtext(".//PMID")
+                title = article_elem.findtext(".//ArticleTitle") or "No title"
+                abstract_parts = article_elem.findall(".//AbstractText")
+                abstract = " ".join(
+                    (part.text or "") for part in abstract_parts
+                )
 
-            # Get publication types
-            pub_types = set()
-            for pt in article_elem.findall(".//PublicationType"):
-                if pt.text:
-                    pub_types.add(pt.text)
+                pub_types = set()
+                for pt in article_elem.findall(".//PublicationType"):
+                    if pt.text:
+                        pub_types.add(pt.text)
 
-            # Get journal info
-            journal = article_elem.findtext(".//Journal/ISOAbbreviation") or ""
-            issn_elem = article_elem.find(".//Journal/ISSN")
-            issn = issn_elem.text if issn_elem is not None else ""
+                journal = article_elem.findtext(".//Journal/ISOAbbreviation") or ""
+                issn_elem = article_elem.find(".//Journal/ISSN")
+                issn = issn_elem.text if issn_elem is not None else ""
 
-            # Get date
-            pub_date_elem = article_elem.find(".//PubDate")
-            if pub_date_elem is not None:
-                year = pub_date_elem.findtext("Year") or "2026"
-                month = pub_date_elem.findtext("Month") or "Jan"
-                day = pub_date_elem.findtext("Day") or "1"
-                date_str = f"{year} {month} {day}"
-            else:
-                date_str = "2026 Jan 1"
+                pub_date_elem = article_elem.find(".//PubDate")
+                if pub_date_elem is not None:
+                    year = pub_date_elem.findtext("Year") or "2026"
+                    month = pub_date_elem.findtext("Month") or "Jan"
+                    day = pub_date_elem.findtext("Day") or "1"
+                    date_str = f"{year} {month} {day}"
+                else:
+                    date_str = "2026 Jan 1"
 
-            # Get authors
-            authors = []
-            for author in article_elem.findall(".//Author"):
-                last = author.findtext("LastName") or ""
-                initials = author.findtext("Initials") or ""
-                if last:
-                    authors.append(f"{last} {initials}".strip())
+                authors = []
+                for author in article_elem.findall(".//Author"):
+                    last = author.findtext("LastName") or ""
+                    initials = author.findtext("Initials") or ""
+                    if last:
+                        authors.append(f"{last} {initials}".strip())
 
-            # Get DOI
-            doi = ""
-            for aid in article_elem.findall(".//ArticleId"):
-                if aid.get("IdType") == "doi":
-                    doi = aid.text or ""
+                doi = ""
+                for aid in article_elem.findall(".//ArticleId"):
+                    if aid.get("IdType") == "doi":
+                        doi = aid.text or ""
 
-            articles.append({
-                "pmid": pmid,
-                "title": title,
-                "abstract": abstract,
-                "journal": journal,
-                "issn": issn,
-                "pub_types": pub_types,
-                "date_str": date_str,
-                "authors": authors,
-                "doi": doi,
-            })
-        except Exception as e:
-            print(f"Error parsing article: {e}")
-            continue
+                all_articles.append({
+                    "pmid": pmid,
+                    "title": title,
+                    "abstract": abstract,
+                    "journal": journal,
+                    "issn": issn,
+                    "pub_types": pub_types,
+                    "date_str": date_str,
+                    "authors": authors,
+                    "doi": doi,
+                })
+            except Exception as e:
+                print(f"  Warning: Error parsing article: {e}")
+                continue
 
-    return articles
+    return all_articles
 
 
 def is_trauma_relevant(article):
@@ -268,7 +253,13 @@ def is_trauma_relevant(article):
 
 def is_excluded_pub_type(article):
     """Check if article is a comment, letter, editorial, etc."""
-    return bool(article["pub_types"] & EXCLUDE_PUB_TYPES)
+    if article["pub_types"] & EXCLUDE_PUB_TYPES:
+        return True
+    # Also check title for common patterns (catches unindexed ahead-of-print)
+    title_lower = article["title"].lower()
+    exclude_phrases = ["comment on", "reply to", "erratum", "retraction",
+                       "expression of concern", "correction to"]
+    return any(phrase in title_lower for phrase in exclude_phrases)
 
 
 def generate_rss(articles, output_path="docs/feed.xml"):
@@ -285,16 +276,16 @@ def generate_rss(articles, output_path="docs/feed.xml"):
         "%a, %d %b %Y %H:%M:%S GMT"
     )
 
+    tier1_issns = set(TIER1_JOURNALS.values())
+
     for article in articles:
         item = ET.SubElement(channel, "item")
         ET.SubElement(item, "title").text = article["title"]
 
-        # Link to PubMed
         link = f"https://pubmed.ncbi.nlm.nih.gov/{article['pmid']}/"
         ET.SubElement(item, "link").text = link
         ET.SubElement(item, "guid").text = link
 
-        # Description: authors, journal, abstract snippet
         authors_str = ", ".join(article["authors"][:3])
         if len(article["authors"]) > 3:
             authors_str += " et al."
@@ -311,14 +302,12 @@ def generate_rss(articles, output_path="docs/feed.xml"):
         ET.SubElement(item, "description").text = desc
         ET.SubElement(item, "pubDate").text = article["date_str"]
 
-        # Add category tags
         ET.SubElement(item, "category").text = article["journal"]
-        if article["issn"] in TIER1_JOURNALS.values():
+        if article["issn"] in tier1_issns:
             ET.SubElement(item, "category").text = "Tier 1 - Core Trauma"
         else:
             ET.SubElement(item, "category").text = "Tier 2 - Filtered"
 
-    # Write to file
     os.makedirs(os.path.dirname(output_path), exist_ok=True)
     tree = ET.ElementTree(rss)
     ET.indent(tree, space="  ")
@@ -333,26 +322,40 @@ def generate_rss(articles, output_path="docs/feed.xml"):
 def main():
     all_articles = []
     all_journals = {**TIER1_JOURNALS, **TIER2_JOURNALS}
+    tier1_issns = set(TIER1_JOURNALS.values())
 
     print(f"Searching {len(all_journals)} journals...")
+    print(f"Rate limiting: {REQUEST_DELAY}s between requests")
+    print(f"API key: {'Yes' if API_KEY else 'No'}")
+    print()
 
     for name, issn in all_journals.items():
         print(f"  Searching: {name} ({issn})...")
-        pmids = search_pubmed(issn)
+        try:
+            pmids = search_pubmed(issn)
+        except requests.exceptions.HTTPError as e:
+            print(f"    ERROR searching {name}: {e}")
+            print(f"    Waiting 5 seconds and continuing...")
+            time.sleep(5)
+            continue
+
         print(f"    Found {len(pmids)} articles")
 
         if pmids:
-            articles = fetch_details(pmids)
+            try:
+                articles = fetch_details(pmids)
+            except requests.exceptions.HTTPError as e:
+                print(f"    ERROR fetching details for {name}: {e}")
+                print(f"    Waiting 5 seconds and continuing...")
+                time.sleep(5)
+                continue
 
             for article in articles:
-                # Skip excluded publication types
                 if is_excluded_pub_type(article):
                     continue
 
-                # Tier 1: include all
-                if issn in TIER1_JOURNALS.values():
+                if issn in tier1_issns:
                     all_articles.append(article)
-                # Tier 2: only if trauma-relevant
                 elif is_trauma_relevant(article):
                     all_articles.append(article)
 
