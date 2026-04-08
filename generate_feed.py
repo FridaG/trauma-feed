@@ -293,9 +293,7 @@ def generate_rss(articles, output_path="docs/feed.xml"):
         desc = f"<b>{article['journal']}</b><br/>"
         desc += f"{authors_str}<br/><br/>"
         if article["abstract"]:
-            desc += article["abstract"][:500]
-            if len(article["abstract"]) > 500:
-                desc += "..."
+            desc += article["abstract"]
         else:
             desc += "No abstract available."
 
