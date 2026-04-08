@@ -2,8 +2,9 @@ name: Update Trauma Feed
 
 on:
   schedule:
+    # Runs once daily at 8 PM UTC (6 AM AEST)
     - cron: '0 20 * * *'
-  workflow_dispatch:
+  workflow_dispatch:  # Allows manual trigger
 
 permissions:
   contents: write
@@ -16,7 +17,7 @@ jobs:
   update-feed:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v4
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -39,5 +40,3 @@ jobs:
           git add docs/feed.xml docs/articles.json
           git diff --staged --quiet || git commit -m "Update trauma feed $(date -u +%Y-%m-%dT%H:%M:%SZ)"
           git push
-
-    
