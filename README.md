@@ -345,16 +345,4 @@ Output files (generated, hosted on GitHub Pages):
 This project is provided for personal, non-commercial use. PubMed data is sourced from the [NCBI E-utilities API](https://www.ncbi.nlm.nih.gov/books/NBK25501/) and is subject to NCBI's terms of use.
 ```
 
----
 
-This README covers:
-
-- **What it does** and the architecture
-- **Full deployment walkthrough** (GitHub, Cloudflare, RSS reader)
-- **All configuration options** (lookback window, schedule, journals, keywords, exclusions)
-- **How the matching/scoring works** under the hood
-- **Web interface documentation** with interaction patterns
-- **Direct RSS URL parameter reference** for power users
-- **NCBI compliance** statement
-- **Troubleshooting** table for common issues
-- **File structure** overview
