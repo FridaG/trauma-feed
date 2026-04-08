@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-08T10:58:00.152614Z",
+  "generated": "2026-04-08T12:04:35.903450Z",
   "total_articles": 228,
   "all_topics": [
     "Abdominal",
@@ -22,6 +22,361 @@
     "Thoracic",
     "Vascular"
   ],
+  "all_keywords": [
+    "ATLS",
+    "ECMO",
+    "ECPR",
+    "EMST",
+    "FAST exam",
+    "HEMS",
+    "ICP monitoring",
+    "Le Fort",
+    "MODS",
+    "POCUS",
+    "REBOA",
+    "ROTEM",
+    "acute traumatic coagulopathy",
+    "aeromedical",
+    "angioembolisation",
+    "anticoagulant reversal",
+    "aortic injury",
+    "blast injury",
+    "blood product",
+    "blood transfusion",
+    "blunt abdominal",
+    "blunt trauma",
+    "burn injury",
+    "c-spine",
+    "cardiac tamponade",
+    "cervical spine",
+    "chest drain",
+    "code crimson",
+    "compartment syndrome",
+    "concussion",
+    "cricothyroidotomy",
+    "crush injury",
+    "cryoprecipitate",
+    "damage control",
+    "decompressive craniectomy",
+    "diaphragmatic injury",
+    "diffuse axonal injury",
+    "drowning",
+    "eFAST",
+    "emergency laparotomy",
+    "epidural haematoma",
+    "facial fracture",
+    "fat embolism",
+    "femoral fracture",
+    "femur fracture",
+    "fibrinogen",
+    "flail chest",
+    "focused assessment with sonography",
+    "globe rupture",
+    "gunshot wound",
+    "haemorrhagic shock",
+    "haemothorax",
+    "head injury",
+    "helicopter emergency",
+    "hepatic trauma",
+    "humeral fracture",
+    "hypotensive resuscitation",
+    "injury prevention",
+    "injury severity",
+    "intercostal catheter",
+    "intracranial haemorrhage",
+    "intracranial pressure monitoring",
+    "junctional haemorrhage",
+    "laryngeal injury",
+    "lethal triad",
+    "liver laceration",
+    "long bone fracture",
+    "major trauma",
+    "mandibular fracture",
+    "massive haemorrhage",
+    "massive transfusion",
+    "maternal trauma",
+    "maxillofacial trauma",
+    "multiple organ dysfunction",
+    "neck injury",
+    "non-accidental injury",
+    "open abdomen",
+    "open fracture",
+    "orbital fracture",
+    "orthopaedic trauma",
+    "packed red blood cells",
+    "paediatric trauma",
+    "pelvic binder",
+    "pelvic embolisation",
+    "pelvic fracture",
+    "pelvic ring",
+    "penetrating injury",
+    "penetrating trauma",
+    "perimortem caesarean",
+    "permissive hypotension",
+    "pneumothorax",
+    "polytrauma",
+    "prehospital",
+    "prehospital blood",
+    "prehospital trauma",
+    "preperitoneal packing",
+    "preventable death",
+    "prothrombin complex",
+    "resuscitative hysterotomy",
+    "retrieval medicine",
+    "rhabdomyolysis",
+    "rib fracture",
+    "solid organ injury",
+    "spinal clearance",
+    "spinal cord injury",
+    "spinal fracture",
+    "spinal immobilisation",
+    "spinal injury",
+    "splenic injury",
+    "stab wound",
+    "subdural haematoma",
+    "surgical airway",
+    "temporary abdominal closure",
+    "thermal injury",
+    "thoracostomy",
+    "thoracotomy",
+    "thromboelastography",
+    "tibial fracture",
+    "tourniquet",
+    "tracheal injury",
+    "tranexamic acid",
+    "trauma",
+    "trauma CT",
+    "trauma activation",
+    "trauma arrest",
+    "trauma centre",
+    "trauma in pregnancy",
+    "trauma mortality",
+    "trauma quality",
+    "trauma registry",
+    "trauma resuscitation",
+    "trauma retrieval",
+    "trauma team",
+    "trauma ultrasound",
+    "trauma-induced coagulopathy",
+    "traumatic",
+    "traumatic amputation",
+    "traumatic brain injury",
+    "traumatic cardiac arrest",
+    "vascular injury",
+    "whole blood resuscitation",
+    "whole body CT"
+  ],
+  "topic_keyword_map": {
+    "General Trauma": [
+      "trauma",
+      "polytrauma",
+      "traumatic",
+      "major trauma",
+      "blunt trauma",
+      "drowning",
+      "multiple organ dysfunction",
+      "MODS"
+    ],
+    "Penetrating": [
+      "penetrating trauma",
+      "gunshot wound",
+      "stab wound",
+      "penetrating injury",
+      "blast injury"
+    ],
+    "Systems/QI": [
+      "injury severity",
+      "trauma centre",
+      "injury prevention",
+      "trauma mortality",
+      "preventable death",
+      "trauma registry",
+      "trauma quality",
+      "ATLS",
+      "EMST"
+    ],
+    "Thoracic": [
+      "haemothorax",
+      "pneumothorax",
+      "rib fracture",
+      "flail chest",
+      "thoracostomy",
+      "thoracotomy",
+      "chest drain",
+      "intercostal catheter",
+      "cardiac tamponade"
+    ],
+    "Abdominal": [
+      "splenic injury",
+      "liver laceration",
+      "hepatic trauma",
+      "solid organ injury",
+      "diaphragmatic injury",
+      "blunt abdominal"
+    ],
+    "Pelvic": [
+      "pelvic fracture",
+      "pelvic binder",
+      "pelvic ring",
+      "pelvic embolisation",
+      "preperitoneal packing",
+      "angioembolisation"
+    ],
+    "Haemorrhage": [
+      "REBOA",
+      "haemorrhagic shock",
+      "massive transfusion",
+      "massive haemorrhage",
+      "damage control",
+      "tranexamic acid",
+      "whole blood resuscitation",
+      "permissive hypotension",
+      "hypotensive resuscitation",
+      "trauma-induced coagulopathy",
+      "acute traumatic coagulopathy",
+      "thromboelastography",
+      "ROTEM",
+      "lethal triad",
+      "prothrombin complex",
+      "blood product",
+      "blood transfusion",
+      "packed red blood cells",
+      "prehospital blood",
+      "fibrinogen",
+      "cryoprecipitate",
+      "anticoagulant reversal",
+      "code crimson"
+    ],
+    "TBI": [
+      "traumatic brain injury",
+      "head injury",
+      "intracranial haemorrhage",
+      "subdural haematoma",
+      "epidural haematoma",
+      "diffuse axonal injury",
+      "decompressive craniectomy",
+      "ICP monitoring",
+      "intracranial pressure monitoring",
+      "concussion"
+    ],
+    "Spine": [
+      "spinal cord injury",
+      "spinal injury",
+      "spinal fracture",
+      "cervical spine",
+      "spinal immobilisation",
+      "c-spine",
+      "spinal clearance"
+    ],
+    "Burns": [
+      "burn injury",
+      "thermal injury"
+    ],
+    "Paediatric": [
+      "paediatric trauma",
+      "non-accidental injury"
+    ],
+    "Obstetric": [
+      "trauma in pregnancy",
+      "maternal trauma",
+      "resuscitative hysterotomy",
+      "perimortem caesarean"
+    ],
+    "Orthopaedic": [
+      "open fracture",
+      "orthopaedic trauma",
+      "femur fracture",
+      "femoral fracture",
+      "tibial fracture",
+      "humeral fracture",
+      "long bone fracture",
+      "compartment syndrome",
+      "rhabdomyolysis",
+      "fat embolism"
+    ],
+    "Facial/Neck": [
+      "facial fracture",
+      "maxillofacial trauma",
+      "Le Fort",
+      "mandibular fracture",
+      "orbital fracture",
+      "globe rupture",
+      "neck injury",
+      "laryngeal injury",
+      "tracheal injury"
+    ],
+    "Vascular": [
+      "vascular injury",
+      "aortic injury",
+      "junctional haemorrhage"
+    ],
+    "Imaging": [
+      "FAST exam",
+      "eFAST",
+      "focused assessment with sonography",
+      "trauma ultrasound",
+      "POCUS",
+      "whole body CT",
+      "trauma CT"
+    ],
+    "Procedures": [
+      "cricothyroidotomy",
+      "surgical airway",
+      "emergency laparotomy",
+      "open abdomen",
+      "temporary abdominal closure",
+      "tourniquet"
+    ],
+    "Prehospital": [
+      "trauma resuscitation",
+      "trauma team",
+      "trauma activation",
+      "prehospital trauma",
+      "helicopter emergency",
+      "aeromedical",
+      "trauma retrieval",
+      "retrieval medicine",
+      "HEMS",
+      "prehospital"
+    ],
+    "Cardiac Arrest": [
+      "traumatic cardiac arrest",
+      "trauma arrest",
+      "traumatic amputation",
+      "crush injury",
+      "ECMO",
+      "ECPR"
+    ]
+  },
+  "journal_tiers": {
+    "Injury": "core",
+    "Eur J Trauma Emerg Surg": "core",
+    "J Trauma Acute Care Surg": "core",
+    "Scand J Trauma Resusc Emerg Med": "core",
+    "Trauma Surg Acute Care Open": "core",
+    "World J Emerg Surg": "core",
+    "N Engl J Med": "filtered",
+    "JAMA": "filtered",
+    "Lancet": "filtered",
+    "BMJ": "filtered",
+    "Resuscitation": "filtered",
+    "Ann Emerg Med": "filtered",
+    "Emerg Med J": "filtered",
+    "Emerg Med Australas": "filtered",
+    "Acad Emerg Med": "filtered",
+    "Am J Emerg Med": "filtered",
+    "Crit Care Med": "filtered",
+    "Intensive Care Med": "filtered",
+    "Crit Care": "filtered",
+    "Ann Surg": "filtered",
+    "Br J Surg": "filtered",
+    "JAMA Surg": "filtered",
+    "J Neurosurg": "filtered",
+    "Neurosurgery": "filtered",
+    "Prehosp Emerg Care": "filtered",
+    "J Am Coll Surg": "filtered",
+    "Cochrane Database Syst Rev": "filtered"
+  },
   "articles": [
     {
       "pmid": "41948472",
@@ -39,9 +394,14 @@
       "topics": [
         "General Trauma"
       ],
-      "matched_keywords": [
-        "trauma"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41948472/"
     },
     {
@@ -69,9 +429,14 @@
       "topics": [
         "General Trauma"
       ],
-      "matched_keywords": [
-        "trauma"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41948138/"
     },
     {
@@ -93,12 +458,29 @@
         "General Trauma",
         "Haemorrhage"
       ],
-      "matched_keywords": [
-        "trauma",
-        "tranexamic acid",
-        "blood product",
-        "packed red blood cells"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "tranexamic acid",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "blood product",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "packed red blood cells",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        }
       ],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41947546/"
     },
     {
@@ -119,10 +501,19 @@
       "topics": [
         "Prehospital"
       ],
-      "matched_keywords": [
-        "retrieval medicine",
-        "prehospital"
+      "keyword_matches": [
+        {
+          "keyword": "retrieval medicine",
+          "strength": "strong",
+          "topic": "Prehospital"
+        },
+        {
+          "keyword": "prehospital",
+          "strength": "strong",
+          "topic": "Prehospital"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41947342/"
     },
     {
@@ -146,10 +537,19 @@
         "General Trauma",
         "Spine"
       ],
-      "matched_keywords": [
-        "traumatic",
-        "spinal cord injury"
+      "keyword_matches": [
+        {
+          "keyword": "traumatic",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "spinal cord injury",
+          "strength": "strong",
+          "topic": "Spine"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41947246/"
     },
     {
@@ -176,9 +576,14 @@
       "topics": [
         "General Trauma"
       ],
-      "matched_keywords": [
-        "trauma"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41946226/"
     },
     {
@@ -202,10 +607,19 @@
         "General Trauma",
         "Systems/QI"
       ],
-      "matched_keywords": [
-        "trauma",
-        "trauma centre"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
       ],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41946225/"
     },
     {
@@ -232,10 +646,19 @@
         "General Trauma",
         "Imaging"
       ],
-      "matched_keywords": [
-        "trauma",
-        "POCUS"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "POCUS",
+          "strength": "weak",
+          "topic": "Imaging"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41945976/"
     },
     {
@@ -260,9 +683,14 @@
       "topics": [
         "General Trauma"
       ],
-      "matched_keywords": [
-        "trauma"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41945332/"
     },
     {
@@ -280,9 +708,14 @@
       "topics": [
         "Pelvic"
       ],
-      "matched_keywords": [
-        "pelvic fracture"
+      "keyword_matches": [
+        {
+          "keyword": "pelvic fracture",
+          "strength": "strong",
+          "topic": "Pelvic"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41945320/"
     },
     {
@@ -307,9 +740,14 @@
       "topics": [
         "General Trauma"
       ],
-      "matched_keywords": [
-        "trauma"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41945125/"
     },
     {
@@ -336,13 +774,34 @@
         "General Trauma",
         "Haemorrhage"
       ],
-      "matched_keywords": [
-        "trauma",
-        "polytrauma",
-        "major trauma",
-        "haemorrhagic shock",
-        "damage control"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "polytrauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "major trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "haemorrhagic shock",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "damage control",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41945121/"
     },
     {
@@ -368,13 +827,34 @@
         "Haemorrhage",
         "Prehospital"
       ],
-      "matched_keywords": [
-        "trauma",
-        "major trauma",
-        "massive transfusion",
-        "packed red blood cells",
-        "prehospital"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "major trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "massive transfusion",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "packed red blood cells",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "prehospital",
+          "strength": "weak",
+          "topic": "Prehospital"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41945030/"
     },
     {
@@ -403,15 +883,44 @@
         "Procedures",
         "Systems/QI"
       ],
-      "matched_keywords": [
-        "trauma",
-        "blunt trauma",
-        "injury severity",
-        "penetrating injury",
-        "compartment syndrome",
-        "tourniquet",
-        "prehospital"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "blunt trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "injury severity",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "penetrating injury",
+          "strength": "weak",
+          "topic": "Penetrating"
+        },
+        {
+          "keyword": "compartment syndrome",
+          "strength": "weak",
+          "topic": "Orthopaedic"
+        },
+        {
+          "keyword": "tourniquet",
+          "strength": "weak",
+          "topic": "Procedures"
+        },
+        {
+          "keyword": "prehospital",
+          "strength": "weak",
+          "topic": "Prehospital"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41944883/"
     },
     {
@@ -436,10 +945,19 @@
         "General Trauma",
         "Procedures"
       ],
-      "matched_keywords": [
-        "trauma",
-        "tourniquet"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "tourniquet",
+          "strength": "strong",
+          "topic": "Procedures"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41944821/"
     },
     {
@@ -460,9 +978,14 @@
       "topics": [
         "General Trauma"
       ],
-      "matched_keywords": [
-        "trauma"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41944495/"
     },
     {
@@ -482,9 +1005,14 @@
       "topics": [
         "General Trauma"
       ],
-      "matched_keywords": [
-        "trauma"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        }
       ],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41941383/"
     },
     {
@@ -509,9 +1037,14 @@
       "topics": [
         "General Trauma"
       ],
-      "matched_keywords": [
-        "trauma"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        }
       ],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41941382/"
     },
     {
@@ -528,9 +1061,14 @@
       "topics": [
         "General Trauma"
       ],
-      "matched_keywords": [
-        "trauma"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41941380/"
     },
     {
@@ -562,16 +1100,49 @@
         "Systems/QI",
         "TBI"
       ],
-      "matched_keywords": [
-        "trauma",
-        "traumatic",
-        "injury severity",
-        "haemorrhagic shock",
-        "blood product",
-        "prehospital blood",
-        "traumatic brain injury",
-        "prehospital"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "injury severity",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "haemorrhagic shock",
+          "strength": "strong",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "blood product",
+          "strength": "strong",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "prehospital blood",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "traumatic brain injury",
+          "strength": "weak",
+          "topic": "TBI"
+        },
+        {
+          "keyword": "prehospital",
+          "strength": "strong",
+          "topic": "Prehospital"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41941349/"
     },
     {
@@ -614,12 +1185,29 @@
         "General Trauma",
         "Systems/QI"
       ],
-      "matched_keywords": [
-        "trauma",
-        "blunt trauma",
-        "injury severity",
-        "trauma centre"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "blunt trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "injury severity",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
       ],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41941334/"
     },
     {
@@ -639,9 +1227,14 @@
       "topics": [
         "General Trauma"
       ],
-      "matched_keywords": [
-        "trauma"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        }
       ],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41941333/"
     },
     {
@@ -663,11 +1256,24 @@
         "General Trauma",
         "TBI"
       ],
-      "matched_keywords": [
-        "traumatic",
-        "traumatic brain injury",
-        "concussion"
+      "keyword_matches": [
+        {
+          "keyword": "traumatic",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic brain injury",
+          "strength": "weak",
+          "topic": "TBI"
+        },
+        {
+          "keyword": "concussion",
+          "strength": "strong",
+          "topic": "TBI"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41941197/"
     },
     {
@@ -690,10 +1296,19 @@
         "General Trauma",
         "Systems/QI"
       ],
-      "matched_keywords": [
-        "trauma",
-        "trauma centre"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
       ],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41937190/"
     },
     {
@@ -728,10 +1343,19 @@
         "General Trauma",
         "TBI"
       ],
-      "matched_keywords": [
-        "traumatic",
-        "traumatic brain injury"
+      "keyword_matches": [
+        {
+          "keyword": "traumatic",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic brain injury",
+          "strength": "strong",
+          "topic": "TBI"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41936468/"
     },
     {
@@ -752,10 +1376,19 @@
       "topics": [
         "Orthopaedic"
       ],
-      "matched_keywords": [
-        "open fracture",
-        "femur fracture"
+      "keyword_matches": [
+        {
+          "keyword": "open fracture",
+          "strength": "strong",
+          "topic": "Orthopaedic"
+        },
+        {
+          "keyword": "femur fracture",
+          "strength": "weak",
+          "topic": "Orthopaedic"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41936238/"
     },
     {
@@ -772,7 +1405,8 @@
       "doi": "10.1016/j.injury.2026.113201",
       "tier": "filtered",
       "topics": [],
-      "matched_keywords": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41936237/"
     },
     {
@@ -798,14 +1432,39 @@
         "Systems/QI",
         "Thoracic"
       ],
-      "matched_keywords": [
-        "trauma",
-        "injury severity",
-        "thoracotomy",
-        "damage control",
-        "tranexamic acid",
-        "trauma registry"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "injury severity",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "thoracotomy",
+          "strength": "weak",
+          "topic": "Thoracic"
+        },
+        {
+          "keyword": "damage control",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "tranexamic acid",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "trauma registry",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
       ],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41935297/"
     },
     {
@@ -824,10 +1483,19 @@
       "topics": [
         "General Trauma"
       ],
-      "matched_keywords": [
-        "trauma",
-        "traumatic"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "strong",
+          "topic": "General Trauma"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41934055/"
     },
     {
@@ -849,9 +1517,14 @@
       "topics": [
         "General Trauma"
       ],
-      "matched_keywords": [
-        "drowning"
+      "keyword_matches": [
+        {
+          "keyword": "drowning",
+          "strength": "strong",
+          "topic": "General Trauma"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41932674/"
     },
     {
@@ -878,14 +1551,39 @@
         "Haemorrhage",
         "Systems/QI"
       ],
-      "matched_keywords": [
-        "trauma",
-        "polytrauma",
-        "injury severity",
-        "blood product",
-        "blood transfusion",
-        "trauma quality"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "polytrauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "injury severity",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "blood product",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "blood transfusion",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "trauma quality",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41932264/"
     },
     {
@@ -909,9 +1607,14 @@
       "topics": [
         "General Trauma"
       ],
-      "matched_keywords": [
-        "trauma"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        }
       ],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41932165/"
     },
     {
@@ -931,9 +1634,14 @@
       "topics": [
         "General Trauma"
       ],
-      "matched_keywords": [
-        "trauma"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        }
       ],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41932164/"
     },
     {
@@ -955,9 +1663,14 @@
       "topics": [
         "Orthopaedic"
       ],
-      "matched_keywords": [
-        "compartment syndrome"
+      "keyword_matches": [
+        {
+          "keyword": "compartment syndrome",
+          "strength": "weak",
+          "topic": "Orthopaedic"
+        }
       ],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41932163/"
     },
     {
@@ -982,10 +1695,19 @@
       "topics": [
         "Orthopaedic"
       ],
-      "matched_keywords": [
-        "open fracture",
-        "tibial fracture"
+      "keyword_matches": [
+        {
+          "keyword": "open fracture",
+          "strength": "weak",
+          "topic": "Orthopaedic"
+        },
+        {
+          "keyword": "tibial fracture",
+          "strength": "strong",
+          "topic": "Orthopaedic"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41932162/"
     },
     {
@@ -1009,12 +1731,29 @@
         "General Trauma",
         "TBI"
       ],
-      "matched_keywords": [
-        "trauma",
-        "traumatic",
-        "traumatic brain injury",
-        "maxillofacial trauma"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic brain injury",
+          "strength": "strong",
+          "topic": "TBI"
+        },
+        {
+          "keyword": "maxillofacial trauma",
+          "strength": "weak",
+          "topic": "Facial/Neck"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41931834/"
     },
     {
@@ -1036,9 +1775,14 @@
       "topics": [
         "TBI"
       ],
-      "matched_keywords": [
-        "intracranial haemorrhage"
+      "keyword_matches": [
+        {
+          "keyword": "intracranial haemorrhage",
+          "strength": "strong",
+          "topic": "TBI"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41930955/"
     },
     {
@@ -1090,10 +1834,19 @@
         "General Trauma",
         "Haemorrhage"
       ],
-      "matched_keywords": [
-        "traumatic",
-        "fibrinogen"
+      "keyword_matches": [
+        {
+          "keyword": "traumatic",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "fibrinogen",
+          "strength": "strong",
+          "topic": "Haemorrhage"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41928278/"
     },
     {
@@ -1113,9 +1866,14 @@
       "topics": [
         "General Trauma"
       ],
-      "matched_keywords": [
-        "trauma"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41927435/"
     },
     {
@@ -1141,14 +1899,39 @@
         "Systems/QI",
         "TBI"
       ],
-      "matched_keywords": [
-        "trauma",
-        "traumatic",
-        "injury severity",
-        "trauma centre",
-        "traumatic brain injury",
-        "intracranial pressure monitoring"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "injury severity",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "traumatic brain injury",
+          "strength": "strong",
+          "topic": "TBI"
+        },
+        {
+          "keyword": "intracranial pressure monitoring",
+          "strength": "weak",
+          "topic": "TBI"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41927419/"
     },
     {
@@ -1167,9 +1950,14 @@
       "topics": [
         "General Trauma"
       ],
-      "matched_keywords": [
-        "trauma"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        }
       ],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41927418/"
     },
     {
@@ -1198,10 +1986,19 @@
         "General Trauma",
         "Prehospital"
       ],
-      "matched_keywords": [
-        "trauma",
-        "trauma resuscitation"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "trauma resuscitation",
+          "strength": "strong",
+          "topic": "Prehospital"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41925867/"
     },
     {
@@ -1227,15 +2024,44 @@
         "Prehospital",
         "Systems/QI"
       ],
-      "matched_keywords": [
-        "trauma",
-        "traumatic",
-        "injury severity",
-        "trauma centre",
-        "paediatric trauma",
-        "prehospital",
-        "trauma registry"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "injury severity",
+          "strength": "strong",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "paediatric trauma",
+          "strength": "weak",
+          "topic": "Paediatric"
+        },
+        {
+          "keyword": "prehospital",
+          "strength": "weak",
+          "topic": "Prehospital"
+        },
+        {
+          "keyword": "trauma registry",
+          "strength": "strong",
+          "topic": "Systems/QI"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41925859/"
     },
     {
@@ -1258,9 +2084,14 @@
       "topics": [
         "General Trauma"
       ],
-      "matched_keywords": [
-        "trauma"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        }
       ],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41925829/"
     },
     {
@@ -1288,10 +2119,19 @@
         "General Trauma",
         "Orthopaedic"
       ],
-      "matched_keywords": [
-        "trauma",
-        "fat embolism"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "fat embolism",
+          "strength": "strong",
+          "topic": "Orthopaedic"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41925786/"
     },
     {
@@ -1313,11 +2153,24 @@
         "Paediatric",
         "Systems/QI"
       ],
-      "matched_keywords": [
-        "trauma",
-        "injury severity",
-        "paediatric trauma"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "injury severity",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "paediatric trauma",
+          "strength": "weak",
+          "topic": "Paediatric"
+        }
       ],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41925627/"
     },
     {
@@ -1341,12 +2194,29 @@
         "Prehospital",
         "Systems/QI"
       ],
-      "matched_keywords": [
-        "trauma",
-        "splenic injury",
-        "prehospital",
-        "trauma quality"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "splenic injury",
+          "strength": "weak",
+          "topic": "Abdominal"
+        },
+        {
+          "keyword": "prehospital",
+          "strength": "weak",
+          "topic": "Prehospital"
+        },
+        {
+          "keyword": "trauma quality",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
       ],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41925620/"
     },
     {
@@ -1363,7 +2233,8 @@
       "topics": [
         "General Trauma"
       ],
-      "matched_keywords": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41925573/"
     },
     {
@@ -1394,11 +2265,24 @@
         "General Trauma",
         "Systems/QI"
       ],
-      "matched_keywords": [
-        "trauma",
-        "injury severity",
-        "trauma centre"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "injury severity",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41925571/"
     },
     {
@@ -1415,9 +2299,14 @@
       "topics": [
         "General Trauma"
       ],
-      "matched_keywords": [
-        "trauma"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41925569/"
     },
     {
@@ -1441,17 +2330,54 @@
         "Systems/QI",
         "TBI"
       ],
-      "matched_keywords": [
-        "trauma",
-        "traumatic",
-        "injury severity",
-        "trauma centre",
-        "traumatic brain injury",
-        "ICP monitoring",
-        "intracranial pressure monitoring",
-        "paediatric trauma",
-        "trauma quality"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "injury severity",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "traumatic brain injury",
+          "strength": "strong",
+          "topic": "TBI"
+        },
+        {
+          "keyword": "ICP monitoring",
+          "strength": "weak",
+          "topic": "TBI"
+        },
+        {
+          "keyword": "intracranial pressure monitoring",
+          "strength": "strong",
+          "topic": "TBI"
+        },
+        {
+          "keyword": "paediatric trauma",
+          "strength": "weak",
+          "topic": "Paediatric"
+        },
+        {
+          "keyword": "trauma quality",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41925562/"
     },
     {
@@ -1493,13 +2419,34 @@
         "Paediatric",
         "TBI"
       ],
-      "matched_keywords": [
-        "trauma",
-        "traumatic",
-        "traumatic brain injury",
-        "diffuse axonal injury",
-        "paediatric trauma"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic brain injury",
+          "strength": "strong",
+          "topic": "TBI"
+        },
+        {
+          "keyword": "diffuse axonal injury",
+          "strength": "weak",
+          "topic": "TBI"
+        },
+        {
+          "keyword": "paediatric trauma",
+          "strength": "weak",
+          "topic": "Paediatric"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41925534/"
     },
     {
@@ -1520,7 +2467,8 @@
       "topics": [
         "General Trauma"
       ],
-      "matched_keywords": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41923176/"
     },
     {
@@ -1540,7 +2488,8 @@
       "topics": [
         "General Trauma"
       ],
-      "matched_keywords": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41923167/"
     },
     {
@@ -1563,7 +2512,8 @@
       "doi": "10.1016/j.injury.2026.113181",
       "tier": "filtered",
       "topics": [],
-      "matched_keywords": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41921410/"
     },
     {
@@ -1586,9 +2536,14 @@
       "topics": [
         "TBI"
       ],
-      "matched_keywords": [
-        "head injury"
+      "keyword_matches": [
+        {
+          "keyword": "head injury",
+          "strength": "weak",
+          "topic": "TBI"
+        }
       ],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41919775/"
     },
     {
@@ -1612,9 +2567,14 @@
       "topics": [
         "General Trauma"
       ],
-      "matched_keywords": [
-        "trauma"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41919075/"
     },
     {
@@ -1636,9 +2596,14 @@
       "topics": [
         "General Trauma"
       ],
-      "matched_keywords": [
-        "trauma"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41919074/"
     },
     {
@@ -1659,11 +2624,24 @@
         "General Trauma",
         "TBI"
       ],
-      "matched_keywords": [
-        "trauma",
-        "traumatic",
-        "traumatic brain injury"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic brain injury",
+          "strength": "strong",
+          "topic": "TBI"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41919072/"
     },
     {
@@ -1727,7 +2705,8 @@
       "topics": [
         "General Trauma"
       ],
-      "matched_keywords": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41918023/"
     },
     {
@@ -1748,7 +2727,8 @@
       "doi": "10.1016/j.injury.2026.113185",
       "tier": "filtered",
       "topics": [],
-      "matched_keywords": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41916011/"
     },
     {
@@ -1764,7 +2744,8 @@
       "doi": "10.1016/j.injury.2026.113197",
       "tier": "filtered",
       "topics": [],
-      "matched_keywords": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41916010/"
     },
     {
@@ -1785,10 +2766,19 @@
         "General Trauma",
         "Systems/QI"
       ],
-      "matched_keywords": [
-        "trauma",
-        "trauma centre"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41915155/"
     },
     {
@@ -1815,10 +2805,19 @@
         "General Trauma",
         "Systems/QI"
       ],
-      "matched_keywords": [
-        "trauma",
-        "trauma centre"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
       ],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41915025/"
     },
     {
@@ -1840,10 +2839,19 @@
         "General Trauma",
         "Thoracic"
       ],
-      "matched_keywords": [
-        "traumatic",
-        "rib fracture"
+      "keyword_matches": [
+        {
+          "keyword": "traumatic",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "rib fracture",
+          "strength": "strong",
+          "topic": "Thoracic"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41914895/"
     },
     {
@@ -1860,9 +2868,14 @@
       "topics": [
         "General Trauma"
       ],
-      "matched_keywords": [
-        "trauma"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41914606/"
     },
     {
@@ -1884,12 +2897,29 @@
         "Prehospital",
         "Systems/QI"
       ],
-      "matched_keywords": [
-        "trauma",
-        "injury severity",
-        "helicopter emergency",
-        "HEMS"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "injury severity",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "helicopter emergency",
+          "strength": "weak",
+          "topic": "Prehospital"
+        },
+        {
+          "keyword": "HEMS",
+          "strength": "weak",
+          "topic": "Prehospital"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41913308/"
     },
     {
@@ -1928,12 +2958,29 @@
         "Systems/QI",
         "Vascular"
       ],
-      "matched_keywords": [
-        "trauma",
-        "injury severity",
-        "vascular injury",
-        "prehospital"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "injury severity",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "vascular injury",
+          "strength": "weak",
+          "topic": "Vascular"
+        },
+        {
+          "keyword": "prehospital",
+          "strength": "weak",
+          "topic": "Prehospital"
+        }
       ],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41911230/"
     },
     {
@@ -1986,9 +3033,14 @@
       "topics": [
         "TBI"
       ],
-      "matched_keywords": [
-        "intracranial haemorrhage"
+      "keyword_matches": [
+        {
+          "keyword": "intracranial haemorrhage",
+          "strength": "weak",
+          "topic": "TBI"
+        }
       ],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41910345/"
     },
     {
@@ -2018,9 +3070,14 @@
       "topics": [
         "Haemorrhage"
       ],
-      "matched_keywords": [
-        "blood transfusion"
+      "keyword_matches": [
+        {
+          "keyword": "blood transfusion",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        }
       ],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41905245/"
     },
     {
@@ -2046,9 +3103,14 @@
       "topics": [
         "Orthopaedic"
       ],
-      "matched_keywords": [
-        "femoral fracture"
+      "keyword_matches": [
+        {
+          "keyword": "femoral fracture",
+          "strength": "strong",
+          "topic": "Orthopaedic"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41905180/"
     },
     {
@@ -2070,9 +3132,14 @@
       "topics": [
         "General Trauma"
       ],
-      "matched_keywords": [
-        "trauma"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        }
       ],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41905179/"
     },
     {
@@ -2097,11 +3164,24 @@
         "Systems/QI",
         "TBI"
       ],
-      "matched_keywords": [
-        "trauma",
-        "injury severity",
-        "head injury"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "injury severity",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "head injury",
+          "strength": "strong",
+          "topic": "TBI"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41905178/"
     },
     {
@@ -2122,11 +3202,24 @@
         "General Trauma",
         "Vascular"
       ],
-      "matched_keywords": [
-        "trauma",
-        "traumatic",
-        "vascular injury"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "vascular injury",
+          "strength": "weak",
+          "topic": "Vascular"
+        }
       ],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41905177/"
     },
     {
@@ -2143,7 +3236,8 @@
       "doi": "10.1016/j.injury.2026.113175",
       "tier": "filtered",
       "topics": [],
-      "matched_keywords": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41905176/"
     },
     {
@@ -2161,7 +3255,8 @@
       "doi": "10.1016/j.injury.2026.113193",
       "tier": "filtered",
       "topics": [],
-      "matched_keywords": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41904913/"
     },
     {
@@ -2186,12 +3281,29 @@
         "Prehospital",
         "Thoracic"
       ],
-      "matched_keywords": [
-        "pneumothorax",
-        "eFAST",
-        "POCUS",
-        "prehospital"
+      "keyword_matches": [
+        {
+          "keyword": "pneumothorax",
+          "strength": "weak",
+          "topic": "Thoracic"
+        },
+        {
+          "keyword": "eFAST",
+          "strength": "weak",
+          "topic": "Imaging"
+        },
+        {
+          "keyword": "POCUS",
+          "strength": "weak",
+          "topic": "Imaging"
+        },
+        {
+          "keyword": "prehospital",
+          "strength": "strong",
+          "topic": "Prehospital"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41904499/"
     },
     {
@@ -2221,10 +3333,19 @@
         "General Trauma",
         "Penetrating"
       ],
-      "matched_keywords": [
-        "trauma",
-        "penetrating trauma"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "penetrating trauma",
+          "strength": "weak",
+          "topic": "Penetrating"
+        }
       ],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41903235/"
     },
     {
@@ -2249,12 +3370,29 @@
         "General Trauma",
         "Systems/QI"
       ],
-      "matched_keywords": [
-        "trauma",
-        "major trauma",
-        "injury severity",
-        "trauma centre"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "major trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "injury severity",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41896972/"
     },
     {
@@ -2282,12 +3420,29 @@
         "Prehospital",
         "Systems/QI"
       ],
-      "matched_keywords": [
-        "trauma",
-        "trauma centre",
-        "trauma resuscitation",
-        "trauma team"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "trauma resuscitation",
+          "strength": "weak",
+          "topic": "Prehospital"
+        },
+        {
+          "keyword": "trauma team",
+          "strength": "weak",
+          "topic": "Prehospital"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41896154/"
     },
     {
@@ -2309,10 +3464,19 @@
         "General Trauma",
         "Prehospital"
       ],
-      "matched_keywords": [
-        "traumatic",
-        "prehospital"
+      "keyword_matches": [
+        {
+          "keyword": "traumatic",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "prehospital",
+          "strength": "weak",
+          "topic": "Prehospital"
+        }
       ],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41895637/"
     },
     {
@@ -2334,14 +3498,39 @@
         "Systems/QI",
         "Thoracic"
       ],
-      "matched_keywords": [
-        "trauma",
-        "traumatic",
-        "haemothorax",
-        "pneumothorax",
-        "thoracostomy",
-        "trauma quality"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "haemothorax",
+          "strength": "weak",
+          "topic": "Thoracic"
+        },
+        {
+          "keyword": "pneumothorax",
+          "strength": "weak",
+          "topic": "Thoracic"
+        },
+        {
+          "keyword": "thoracostomy",
+          "strength": "strong",
+          "topic": "Thoracic"
+        },
+        {
+          "keyword": "trauma quality",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41895067/"
     },
     {
@@ -2361,7 +3550,8 @@
       "doi": "10.1016/j.injury.2026.113195",
       "tier": "filtered",
       "topics": [],
-      "matched_keywords": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41894946/"
     },
     {
@@ -2379,7 +3569,8 @@
       "doi": "10.1016/j.injury.2026.113176",
       "tier": "filtered",
       "topics": [],
-      "matched_keywords": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41894945/"
     },
     {
@@ -2400,9 +3591,14 @@
       "topics": [
         "TBI"
       ],
-      "matched_keywords": [
-        "intracranial haemorrhage"
+      "keyword_matches": [
+        {
+          "keyword": "intracranial haemorrhage",
+          "strength": "weak",
+          "topic": "TBI"
+        }
       ],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41894812/"
     },
     {
@@ -2422,10 +3618,19 @@
         "General Trauma",
         "Paediatric"
       ],
-      "matched_keywords": [
-        "trauma",
-        "paediatric trauma"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "paediatric trauma",
+          "strength": "strong",
+          "topic": "Paediatric"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41894599/"
     },
     {
@@ -2451,11 +3656,24 @@
         "General Trauma",
         "TBI"
       ],
-      "matched_keywords": [
-        "trauma",
-        "traumatic",
-        "traumatic brain injury"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic brain injury",
+          "strength": "strong",
+          "topic": "TBI"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41891786/"
     },
     {
@@ -2489,10 +3707,19 @@
         "General Trauma",
         "TBI"
       ],
-      "matched_keywords": [
-        "traumatic",
-        "intracranial haemorrhage"
+      "keyword_matches": [
+        {
+          "keyword": "traumatic",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "intracranial haemorrhage",
+          "strength": "strong",
+          "topic": "TBI"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41891705/"
     },
     {
@@ -2513,7 +3740,8 @@
       "topics": [
         "General Trauma"
       ],
-      "matched_keywords": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41888824/"
     },
     {
@@ -2534,11 +3762,24 @@
         "Paediatric",
         "Systems/QI"
       ],
-      "matched_keywords": [
-        "trauma",
-        "trauma centre",
-        "paediatric trauma"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "paediatric trauma",
+          "strength": "strong",
+          "topic": "Paediatric"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41887088/"
     },
     {
@@ -2562,7 +3803,8 @@
       "doi": "10.1016/j.injury.2026.113187",
       "tier": "filtered",
       "topics": [],
-      "matched_keywords": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41887087/"
     },
     {
@@ -2589,12 +3831,29 @@
         "Penetrating",
         "Systems/QI"
       ],
-      "matched_keywords": [
-        "trauma",
-        "trauma centre",
-        "gunshot wound",
-        "orthopaedic trauma"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "gunshot wound",
+          "strength": "weak",
+          "topic": "Penetrating"
+        },
+        {
+          "keyword": "orthopaedic trauma",
+          "strength": "weak",
+          "topic": "Orthopaedic"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41887086/"
     },
     {
@@ -2612,9 +3871,14 @@
       "topics": [
         "Systems/QI"
       ],
-      "matched_keywords": [
-        "injury severity"
+      "keyword_matches": [
+        {
+          "keyword": "injury severity",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
       ],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41887085/"
     },
     {
@@ -2633,7 +3897,8 @@
       "doi": "10.1016/j.injury.2026.113160",
       "tier": "filtered",
       "topics": [],
-      "matched_keywords": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41887084/"
     },
     {
@@ -2654,7 +3919,8 @@
       "doi": "10.1016/j.injury.2026.113170",
       "tier": "filtered",
       "topics": [],
-      "matched_keywords": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41887083/"
     },
     {
@@ -2678,12 +3944,29 @@
         "Paediatric",
         "TBI"
       ],
-      "matched_keywords": [
-        "trauma",
-        "traumatic",
-        "traumatic brain injury",
-        "paediatric trauma"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic brain injury",
+          "strength": "weak",
+          "topic": "TBI"
+        },
+        {
+          "keyword": "paediatric trauma",
+          "strength": "strong",
+          "topic": "Paediatric"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41887082/"
     },
     {
@@ -2709,9 +3992,14 @@
       "topics": [
         "General Trauma"
       ],
-      "matched_keywords": [
-        "trauma"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41887081/"
     },
     {
@@ -2735,13 +4023,34 @@
         "Orthopaedic",
         "Systems/QI"
       ],
-      "matched_keywords": [
-        "trauma",
-        "major trauma",
-        "trauma centre",
-        "open fracture",
-        "compartment syndrome"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "major trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "open fracture",
+          "strength": "weak",
+          "topic": "Orthopaedic"
+        },
+        {
+          "keyword": "compartment syndrome",
+          "strength": "weak",
+          "topic": "Orthopaedic"
+        }
       ],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41887080/"
     },
     {
@@ -2767,10 +4076,19 @@
         "General Trauma",
         "Orthopaedic"
       ],
-      "matched_keywords": [
-        "trauma",
-        "orthopaedic trauma"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "orthopaedic trauma",
+          "strength": "weak",
+          "topic": "Orthopaedic"
+        }
       ],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41887079/"
     },
     {
@@ -2792,9 +4110,14 @@
       "topics": [
         "Prehospital"
       ],
-      "matched_keywords": [
-        "prehospital"
+      "keyword_matches": [
+        {
+          "keyword": "prehospital",
+          "strength": "strong",
+          "topic": "Prehospital"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41886997/"
     },
     {
@@ -2816,9 +4139,14 @@
       "topics": [
         "Haemorrhage"
       ],
-      "matched_keywords": [
-        "haemorrhagic shock"
+      "keyword_matches": [
+        {
+          "keyword": "haemorrhagic shock",
+          "strength": "strong",
+          "topic": "Haemorrhage"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41885672/"
     },
     {
@@ -2850,9 +4178,14 @@
       "topics": [
         "TBI"
       ],
-      "matched_keywords": [
-        "subdural haematoma"
+      "keyword_matches": [
+        {
+          "keyword": "subdural haematoma",
+          "strength": "weak",
+          "topic": "TBI"
+        }
       ],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41885454/"
     },
     {
@@ -2877,14 +4210,39 @@
         "Haemorrhage",
         "Thoracic"
       ],
-      "matched_keywords": [
-        "trauma",
-        "traumatic",
-        "thoracotomy",
-        "REBOA",
-        "haemorrhagic shock",
-        "traumatic cardiac arrest"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "thoracotomy",
+          "strength": "strong",
+          "topic": "Thoracic"
+        },
+        {
+          "keyword": "REBOA",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "haemorrhagic shock",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "traumatic cardiac arrest",
+          "strength": "weak",
+          "topic": "Cardiac Arrest"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41885281/"
     },
     {
@@ -2903,9 +4261,14 @@
       "topics": [
         "Cardiac Arrest"
       ],
-      "matched_keywords": [
-        "ECMO"
+      "keyword_matches": [
+        {
+          "keyword": "ECMO",
+          "strength": "strong",
+          "topic": "Cardiac Arrest"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41885273/"
     },
     {
@@ -2926,9 +4289,14 @@
       "topics": [
         "Burns"
       ],
-      "matched_keywords": [
-        "burn injury"
+      "keyword_matches": [
+        {
+          "keyword": "burn injury",
+          "strength": "strong",
+          "topic": "Burns"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41885266/"
     },
     {
@@ -2950,9 +4318,14 @@
       "topics": [
         "Systems/QI"
       ],
-      "matched_keywords": [
-        "injury severity"
+      "keyword_matches": [
+        {
+          "keyword": "injury severity",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
       ],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41885265/"
     },
     {
@@ -2979,12 +4352,29 @@
         "General Trauma",
         "Thoracic"
       ],
-      "matched_keywords": [
-        "trauma",
-        "blunt trauma",
-        "rib fracture",
-        "flail chest"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "blunt trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "rib fracture",
+          "strength": "weak",
+          "topic": "Thoracic"
+        },
+        {
+          "keyword": "flail chest",
+          "strength": "weak",
+          "topic": "Thoracic"
+        }
       ],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41881849/"
     },
     {
@@ -3008,13 +4398,34 @@
         "Spine",
         "Systems/QI"
       ],
-      "matched_keywords": [
-        "trauma",
-        "trauma centre",
-        "spinal cord injury",
-        "gunshot wound",
-        "penetrating injury"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "spinal cord injury",
+          "strength": "weak",
+          "topic": "Spine"
+        },
+        {
+          "keyword": "gunshot wound",
+          "strength": "weak",
+          "topic": "Penetrating"
+        },
+        {
+          "keyword": "penetrating injury",
+          "strength": "weak",
+          "topic": "Penetrating"
+        }
       ],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41881752/"
     },
     {
@@ -3037,9 +4448,14 @@
       "topics": [
         "Systems/QI"
       ],
-      "matched_keywords": [
-        "injury prevention"
+      "keyword_matches": [
+        {
+          "keyword": "injury prevention",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
       ],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41881751/"
     },
     {
@@ -3066,12 +4482,29 @@
         "Systems/QI",
         "Thoracic"
       ],
-      "matched_keywords": [
-        "trauma",
-        "trauma centre",
-        "rib fracture",
-        "trauma registry"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "rib fracture",
+          "strength": "weak",
+          "topic": "Thoracic"
+        },
+        {
+          "keyword": "trauma registry",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
       ],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41881750/"
     },
     {
@@ -3098,10 +4531,19 @@
         "General Trauma",
         "Prehospital"
       ],
-      "matched_keywords": [
-        "trauma",
-        "aeromedical"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "aeromedical",
+          "strength": "weak",
+          "topic": "Prehospital"
+        }
       ],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41881749/"
     },
     {
@@ -3122,10 +4564,19 @@
         "General Trauma",
         "Vascular"
       ],
-      "matched_keywords": [
-        "trauma",
-        "vascular injury"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "vascular injury",
+          "strength": "weak",
+          "topic": "Vascular"
+        }
       ],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41880891/"
     },
     {
@@ -3143,7 +4594,8 @@
       "doi": "10.1016/j.injury.2026.113177",
       "tier": "filtered",
       "topics": [],
-      "matched_keywords": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41880890/"
     },
     {
@@ -3167,10 +4619,19 @@
         "Procedures",
         "Systems/QI"
       ],
-      "matched_keywords": [
-        "tourniquet",
-        "injury prevention"
+      "keyword_matches": [
+        {
+          "keyword": "tourniquet",
+          "strength": "weak",
+          "topic": "Procedures"
+        },
+        {
+          "keyword": "injury prevention",
+          "strength": "strong",
+          "topic": "Systems/QI"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41880889/"
     },
     {
@@ -3192,9 +4653,14 @@
       "topics": [
         "Cardiac Arrest"
       ],
-      "matched_keywords": [
-        "crush injury"
+      "keyword_matches": [
+        {
+          "keyword": "crush injury",
+          "strength": "strong",
+          "topic": "Cardiac Arrest"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41880888/"
     },
     {
@@ -3221,9 +4687,14 @@
       "topics": [
         "General Trauma"
       ],
-      "matched_keywords": [
-        "trauma"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        }
       ],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41880887/"
     },
     {
@@ -3243,7 +4714,8 @@
       "doi": "10.1016/j.injury.2026.113159",
       "tier": "filtered",
       "topics": [],
-      "matched_keywords": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41880886/"
     },
     {
@@ -3269,11 +4741,24 @@
         "Systems/QI",
         "Vascular"
       ],
-      "matched_keywords": [
-        "trauma",
-        "aortic injury",
-        "preventable death"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "aortic injury",
+          "strength": "strong",
+          "topic": "Vascular"
+        },
+        {
+          "keyword": "preventable death",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41879864/"
     },
     {
@@ -3293,12 +4778,29 @@
         "General Trauma",
         "Spine"
       ],
-      "matched_keywords": [
-        "trauma",
-        "polytrauma",
-        "traumatic",
-        "spinal cord injury"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "polytrauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "spinal cord injury",
+          "strength": "weak",
+          "topic": "Spine"
+        }
       ],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41879862/"
     },
     {
@@ -3323,11 +4825,24 @@
         "Haemorrhage",
         "Prehospital"
       ],
-      "matched_keywords": [
-        "trauma",
-        "blood transfusion",
-        "prehospital"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "blood transfusion",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "prehospital",
+          "strength": "weak",
+          "topic": "Prehospital"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41879772/"
     },
     {
@@ -3359,14 +4874,39 @@
         "Systems/QI",
         "Thoracic"
       ],
-      "matched_keywords": [
-        "trauma",
-        "polytrauma",
-        "traumatic",
-        "trauma centre",
-        "rib fracture",
-        "thoracotomy"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "polytrauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "rib fracture",
+          "strength": "weak",
+          "topic": "Thoracic"
+        },
+        {
+          "keyword": "thoracotomy",
+          "strength": "weak",
+          "topic": "Thoracic"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41879770/"
     },
     {
@@ -3419,12 +4959,29 @@
         "Paediatric",
         "Thoracic"
       ],
-      "matched_keywords": [
-        "trauma",
-        "thoracotomy",
-        "blood transfusion",
-        "paediatric trauma"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "thoracotomy",
+          "strength": "weak",
+          "topic": "Thoracic"
+        },
+        {
+          "keyword": "blood transfusion",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "paediatric trauma",
+          "strength": "strong",
+          "topic": "Paediatric"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41879753/"
     },
     {
@@ -3446,11 +5003,24 @@
         "Prehospital",
         "Systems/QI"
       ],
-      "matched_keywords": [
-        "trauma",
-        "prehospital",
-        "trauma registry"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "prehospital",
+          "strength": "weak",
+          "topic": "Prehospital"
+        },
+        {
+          "keyword": "trauma registry",
+          "strength": "strong",
+          "topic": "Systems/QI"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41879750/"
     },
     {
@@ -3469,7 +5039,8 @@
       "topics": [
         "General Trauma"
       ],
-      "matched_keywords": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41879740/"
     },
     {
@@ -3494,9 +5065,14 @@
       "topics": [
         "Prehospital"
       ],
-      "matched_keywords": [
-        "prehospital"
+      "keyword_matches": [
+        {
+          "keyword": "prehospital",
+          "strength": "weak",
+          "topic": "Prehospital"
+        }
       ],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41879627/"
     },
     {
@@ -3547,14 +5123,39 @@
         "Prehospital",
         "Systems/QI"
       ],
-      "matched_keywords": [
-        "trauma",
-        "haemorrhagic shock",
-        "blood transfusion",
-        "prehospital blood",
-        "prehospital",
-        "trauma registry"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "haemorrhagic shock",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "blood transfusion",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "prehospital blood",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "prehospital",
+          "strength": "weak",
+          "topic": "Prehospital"
+        },
+        {
+          "keyword": "trauma registry",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
       ],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41878140/"
     },
     {
@@ -3576,7 +5177,8 @@
       "topics": [
         "General Trauma"
       ],
-      "matched_keywords": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41878139/"
     },
     {
@@ -3603,10 +5205,19 @@
         "General Trauma",
         "Prehospital"
       ],
-      "matched_keywords": [
-        "trauma",
-        "trauma resuscitation"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "trauma resuscitation",
+          "strength": "weak",
+          "topic": "Prehospital"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41878138/"
     },
     {
@@ -3627,9 +5238,14 @@
       "topics": [
         "General Trauma"
       ],
-      "matched_keywords": [
-        "trauma"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41878137/"
     },
     {
@@ -3674,9 +5290,14 @@
       "topics": [
         "Cardiac Arrest"
       ],
-      "matched_keywords": [
-        "ECMO"
+      "keyword_matches": [
+        {
+          "keyword": "ECMO",
+          "strength": "strong",
+          "topic": "Cardiac Arrest"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41877285/"
     },
     {
@@ -3702,11 +5323,24 @@
         "General Trauma",
         "Systems/QI"
       ],
-      "matched_keywords": [
-        "trauma",
-        "major trauma",
-        "trauma centre"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "major trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41877236/"
     },
     {
@@ -3733,11 +5367,24 @@
         "Prehospital",
         "Systems/QI"
       ],
-      "matched_keywords": [
-        "trauma",
-        "injury severity",
-        "trauma resuscitation"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "injury severity",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "trauma resuscitation",
+          "strength": "strong",
+          "topic": "Prehospital"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41874661/"
     },
     {
@@ -3763,11 +5410,24 @@
       "topics": [
         "General Trauma"
       ],
-      "matched_keywords": [
-        "trauma",
-        "polytrauma",
-        "traumatic"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "polytrauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "weak",
+          "topic": "General Trauma"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41874649/"
     },
     {
@@ -3790,12 +5450,29 @@
         "Penetrating",
         "Systems/QI"
       ],
-      "matched_keywords": [
-        "trauma",
-        "haemorrhagic shock",
-        "blast injury",
-        "trauma mortality"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "haemorrhagic shock",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "blast injury",
+          "strength": "strong",
+          "topic": "Penetrating"
+        },
+        {
+          "keyword": "trauma mortality",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41874645/"
     },
     {
@@ -3815,7 +5492,8 @@
       "topics": [
         "General Trauma"
       ],
-      "matched_keywords": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41874291/"
     },
     {
@@ -3834,9 +5512,14 @@
       "topics": [
         "General Trauma"
       ],
-      "matched_keywords": [
-        "trauma"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41874290/"
     },
     {
@@ -3854,7 +5537,8 @@
       "topics": [
         "General Trauma"
       ],
-      "matched_keywords": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41874289/"
     },
     {
@@ -3875,10 +5559,19 @@
         "General Trauma",
         "Thoracic"
       ],
-      "matched_keywords": [
-        "traumatic",
-        "haemothorax"
+      "keyword_matches": [
+        {
+          "keyword": "traumatic",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "haemothorax",
+          "strength": "strong",
+          "topic": "Thoracic"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41874288/"
     },
     {
@@ -3899,10 +5592,19 @@
         "General Trauma",
         "Systems/QI"
       ],
-      "matched_keywords": [
-        "trauma",
-        "trauma quality"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "trauma quality",
+          "strength": "strong",
+          "topic": "Systems/QI"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41874287/"
     },
     {
@@ -3928,12 +5630,29 @@
         "Penetrating",
         "Systems/QI"
       ],
-      "matched_keywords": [
-        "trauma",
-        "penetrating trauma",
-        "gunshot wound",
-        "trauma quality"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "penetrating trauma",
+          "strength": "weak",
+          "topic": "Penetrating"
+        },
+        {
+          "keyword": "gunshot wound",
+          "strength": "weak",
+          "topic": "Penetrating"
+        },
+        {
+          "keyword": "trauma quality",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41873860/"
     },
     {
@@ -3954,13 +5673,34 @@
         "Prehospital",
         "Systems/QI"
       ],
-      "matched_keywords": [
-        "trauma",
-        "traumatic",
-        "helicopter emergency",
-        "prehospital",
-        "trauma registry"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "helicopter emergency",
+          "strength": "weak",
+          "topic": "Prehospital"
+        },
+        {
+          "keyword": "prehospital",
+          "strength": "strong",
+          "topic": "Prehospital"
+        },
+        {
+          "keyword": "trauma registry",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41872945/"
     },
     {
@@ -3982,11 +5722,24 @@
       "topics": [
         "Prehospital"
       ],
-      "matched_keywords": [
-        "helicopter emergency",
-        "HEMS",
-        "prehospital"
+      "keyword_matches": [
+        {
+          "keyword": "helicopter emergency",
+          "strength": "weak",
+          "topic": "Prehospital"
+        },
+        {
+          "keyword": "HEMS",
+          "strength": "weak",
+          "topic": "Prehospital"
+        },
+        {
+          "keyword": "prehospital",
+          "strength": "weak",
+          "topic": "Prehospital"
+        }
       ],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41872941/"
     },
     {
@@ -4004,10 +5757,19 @@
         "General Trauma",
         "TBI"
       ],
-      "matched_keywords": [
-        "traumatic",
-        "traumatic brain injury"
+      "keyword_matches": [
+        {
+          "keyword": "traumatic",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic brain injury",
+          "strength": "strong",
+          "topic": "TBI"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41872631/"
     },
     {
@@ -4029,9 +5791,14 @@
       "topics": [
         "Procedures"
       ],
-      "matched_keywords": [
-        "emergency laparotomy"
+      "keyword_matches": [
+        {
+          "keyword": "emergency laparotomy",
+          "strength": "strong",
+          "topic": "Procedures"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41872398/"
     },
     {
@@ -4056,10 +5823,19 @@
       "topics": [
         "Thoracic"
       ],
-      "matched_keywords": [
-        "pneumothorax",
-        "thoracostomy"
+      "keyword_matches": [
+        {
+          "keyword": "pneumothorax",
+          "strength": "weak",
+          "topic": "Thoracic"
+        },
+        {
+          "keyword": "thoracostomy",
+          "strength": "strong",
+          "topic": "Thoracic"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41871946/"
     },
     {
@@ -4081,11 +5857,24 @@
         "General Trauma",
         "TBI"
       ],
-      "matched_keywords": [
-        "trauma",
-        "traumatic",
-        "traumatic brain injury"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic brain injury",
+          "strength": "weak",
+          "topic": "TBI"
+        }
       ],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41870894/"
     },
     {
@@ -4104,9 +5893,14 @@
       "topics": [
         "Cardiac Arrest"
       ],
-      "matched_keywords": [
-        "ECMO"
+      "keyword_matches": [
+        {
+          "keyword": "ECMO",
+          "strength": "strong",
+          "topic": "Cardiac Arrest"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41870561/"
     },
     {
@@ -4129,7 +5923,8 @@
       "topics": [
         "General Trauma"
       ],
-      "matched_keywords": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41870553/"
     },
     {
@@ -4153,17 +5948,54 @@
         "Haemorrhage",
         "Orthopaedic"
       ],
-      "matched_keywords": [
-        "trauma",
-        "polytrauma",
-        "traumatic",
-        "haemorrhagic shock",
-        "damage control",
-        "tranexamic acid",
-        "ROTEM",
-        "fibrinogen",
-        "femur fracture"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "polytrauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "haemorrhagic shock",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "damage control",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "tranexamic acid",
+          "strength": "strong",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "ROTEM",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "fibrinogen",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "femur fracture",
+          "strength": "weak",
+          "topic": "Orthopaedic"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41870350/"
     },
     {
@@ -4182,7 +6014,8 @@
       "topics": [
         "General Trauma"
       ],
-      "matched_keywords": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41870347/"
     },
     {
@@ -4205,9 +6038,14 @@
       "topics": [
         "General Trauma"
       ],
-      "matched_keywords": [
-        "trauma"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        }
       ],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41866521/"
     },
     {
@@ -4233,7 +6071,8 @@
       "topics": [
         "General Trauma"
       ],
-      "matched_keywords": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41864956/"
     },
     {
@@ -4257,7 +6096,8 @@
       "topics": [
         "General Trauma"
       ],
-      "matched_keywords": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41864954/"
     },
     {
@@ -4289,9 +6129,14 @@
       "topics": [
         "Prehospital"
       ],
-      "matched_keywords": [
-        "prehospital"
+      "keyword_matches": [
+        {
+          "keyword": "prehospital",
+          "strength": "weak",
+          "topic": "Prehospital"
+        }
       ],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41862955/"
     },
     {
@@ -4311,9 +6156,14 @@
       "topics": [
         "Orthopaedic"
       ],
-      "matched_keywords": [
-        "open fracture"
+      "keyword_matches": [
+        {
+          "keyword": "open fracture",
+          "strength": "weak",
+          "topic": "Orthopaedic"
+        }
       ],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41861501/"
     },
     {
@@ -4337,12 +6187,29 @@
         "Systems/QI",
         "TBI"
       ],
-      "matched_keywords": [
-        "trauma",
-        "head injury",
-        "prehospital",
-        "trauma registry"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "head injury",
+          "strength": "weak",
+          "topic": "TBI"
+        },
+        {
+          "keyword": "prehospital",
+          "strength": "weak",
+          "topic": "Prehospital"
+        },
+        {
+          "keyword": "trauma registry",
+          "strength": "strong",
+          "topic": "Systems/QI"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41861500/"
     },
     {
@@ -4366,10 +6233,19 @@
         "General Trauma",
         "Haemorrhage"
       ],
-      "matched_keywords": [
-        "trauma",
-        "damage control"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "damage control",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41860711/"
     },
     {
@@ -4391,7 +6267,8 @@
       "topics": [
         "General Trauma"
       ],
-      "matched_keywords": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41860644/"
     },
     {
@@ -4414,9 +6291,14 @@
       "topics": [
         "General Trauma"
       ],
-      "matched_keywords": [
-        "trauma"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41860628/"
     },
     {
@@ -4444,10 +6326,19 @@
         "General Trauma",
         "Systems/QI"
       ],
-      "matched_keywords": [
-        "trauma",
-        "injury severity"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "injury severity",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41860430/"
     },
     {
@@ -4478,16 +6369,49 @@
         "Systems/QI",
         "Vascular"
       ],
-      "matched_keywords": [
-        "trauma",
-        "haemorrhagic shock",
-        "vascular injury",
-        "tourniquet",
-        "prehospital trauma",
-        "prehospital",
-        "trauma registry",
-        "ATLS"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "haemorrhagic shock",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "vascular injury",
+          "strength": "weak",
+          "topic": "Vascular"
+        },
+        {
+          "keyword": "tourniquet",
+          "strength": "weak",
+          "topic": "Procedures"
+        },
+        {
+          "keyword": "prehospital trauma",
+          "strength": "weak",
+          "topic": "Prehospital"
+        },
+        {
+          "keyword": "prehospital",
+          "strength": "weak",
+          "topic": "Prehospital"
+        },
+        {
+          "keyword": "trauma registry",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "ATLS",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
       ],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41860429/"
     },
     {
@@ -4518,9 +6442,14 @@
       "topics": [
         "General Trauma"
       ],
-      "matched_keywords": [
-        "trauma"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        }
       ],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41860388/"
     },
     {
@@ -4550,12 +6479,29 @@
         "General Trauma",
         "Spine"
       ],
-      "matched_keywords": [
-        "trauma",
-        "traumatic",
-        "spinal cord injury",
-        "spinal injury"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "spinal cord injury",
+          "strength": "strong",
+          "topic": "Spine"
+        },
+        {
+          "keyword": "spinal injury",
+          "strength": "weak",
+          "topic": "Spine"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41860348/"
     },
     {
@@ -4593,10 +6539,19 @@
         "Prehospital",
         "Systems/QI"
       ],
-      "matched_keywords": [
-        "prehospital",
-        "preventable death"
+      "keyword_matches": [
+        {
+          "keyword": "prehospital",
+          "strength": "weak",
+          "topic": "Prehospital"
+        },
+        {
+          "keyword": "preventable death",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
       ],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41860329/"
     },
     {
@@ -4639,9 +6594,14 @@
       "topics": [
         "TBI"
       ],
-      "matched_keywords": [
-        "subdural haematoma"
+      "keyword_matches": [
+        {
+          "keyword": "subdural haematoma",
+          "strength": "strong",
+          "topic": "TBI"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41860235/"
     },
     {
@@ -4668,14 +6628,39 @@
         "Systems/QI",
         "TBI"
       ],
-      "matched_keywords": [
-        "trauma",
-        "traumatic",
-        "injury severity",
-        "traumatic brain injury",
-        "decompressive craniectomy",
-        "trauma quality"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "injury severity",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "traumatic brain injury",
+          "strength": "strong",
+          "topic": "TBI"
+        },
+        {
+          "keyword": "decompressive craniectomy",
+          "strength": "weak",
+          "topic": "TBI"
+        },
+        {
+          "keyword": "trauma quality",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41860220/"
     },
     {
@@ -4703,9 +6688,14 @@
       "topics": [
         "Prehospital"
       ],
-      "matched_keywords": [
-        "prehospital"
+      "keyword_matches": [
+        {
+          "keyword": "prehospital",
+          "strength": "strong",
+          "topic": "Prehospital"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41857661/"
     },
     {
@@ -4728,7 +6718,8 @@
       "doi": "10.1016/j.injury.2026.113121",
       "tier": "filtered",
       "topics": [],
-      "matched_keywords": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41855643/"
     },
     {
@@ -4755,9 +6746,14 @@
       "topics": [
         "Prehospital"
       ],
-      "matched_keywords": [
-        "prehospital"
+      "keyword_matches": [
+        {
+          "keyword": "prehospital",
+          "strength": "weak",
+          "topic": "Prehospital"
+        }
       ],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41854499/"
     },
     {
@@ -4785,9 +6781,14 @@
       "topics": [
         "TBI"
       ],
-      "matched_keywords": [
-        "decompressive craniectomy"
+      "keyword_matches": [
+        {
+          "keyword": "decompressive craniectomy",
+          "strength": "strong",
+          "topic": "TBI"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41854265/"
     },
     {
@@ -4805,10 +6806,19 @@
         "General Trauma",
         "TBI"
       ],
-      "matched_keywords": [
-        "traumatic",
-        "traumatic brain injury"
+      "keyword_matches": [
+        {
+          "keyword": "traumatic",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic brain injury",
+          "strength": "strong",
+          "topic": "TBI"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41854247/"
     },
     {
@@ -4829,9 +6839,14 @@
       "topics": [
         "General Trauma"
       ],
-      "matched_keywords": [
-        "trauma"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        }
       ],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41850965/"
     },
     {
@@ -4857,13 +6872,34 @@
         "Spine",
         "Systems/QI"
       ],
-      "matched_keywords": [
-        "trauma",
-        "polytrauma",
-        "injury severity",
-        "trauma centre",
-        "spinal cord injury"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "polytrauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "injury severity",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "spinal cord injury",
+          "strength": "weak",
+          "topic": "Spine"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41850132/"
     },
     {
@@ -4884,9 +6920,14 @@
       "topics": [
         "Prehospital"
       ],
-      "matched_keywords": [
-        "prehospital"
+      "keyword_matches": [
+        {
+          "keyword": "prehospital",
+          "strength": "strong",
+          "topic": "Prehospital"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41849739/"
     },
     {
@@ -4910,9 +6951,14 @@
       "topics": [
         "Prehospital"
       ],
-      "matched_keywords": [
-        "prehospital"
+      "keyword_matches": [
+        {
+          "keyword": "prehospital",
+          "strength": "weak",
+          "topic": "Prehospital"
+        }
       ],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41849737/"
     },
     {
@@ -4949,13 +6995,34 @@
         "Haemorrhage",
         "Thoracic"
       ],
-      "matched_keywords": [
-        "trauma",
-        "thoracotomy",
-        "blood transfusion",
-        "ECMO",
-        "ECPR"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "thoracotomy",
+          "strength": "strong",
+          "topic": "Thoracic"
+        },
+        {
+          "keyword": "blood transfusion",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "ECMO",
+          "strength": "weak",
+          "topic": "Cardiac Arrest"
+        },
+        {
+          "keyword": "ECPR",
+          "strength": "weak",
+          "topic": "Cardiac Arrest"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41849574/"
     },
     {
@@ -4979,11 +7046,24 @@
         "Paediatric",
         "Systems/QI"
       ],
-      "matched_keywords": [
-        "trauma",
-        "trauma centre",
-        "paediatric trauma"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "paediatric trauma",
+          "strength": "weak",
+          "topic": "Paediatric"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41849538/"
     },
     {
@@ -5000,9 +7080,14 @@
       "topics": [
         "Pelvic"
       ],
-      "matched_keywords": [
-        "pelvic fracture"
+      "keyword_matches": [
+        {
+          "keyword": "pelvic fracture",
+          "strength": "strong",
+          "topic": "Pelvic"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41849451/"
     },
     {
@@ -5032,10 +7117,19 @@
         "General Trauma",
         "Haemorrhage"
       ],
-      "matched_keywords": [
-        "trauma",
-        "damage control"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "damage control",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41849445/"
     },
     {
@@ -5060,9 +7154,14 @@
       "topics": [
         "General Trauma"
       ],
-      "matched_keywords": [
-        "trauma"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41849423/"
     },
     {
@@ -5079,7 +7178,8 @@
       "topics": [
         "General Trauma"
       ],
-      "matched_keywords": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41849414/"
     },
     {
@@ -5098,10 +7198,19 @@
         "General Trauma",
         "Prehospital"
       ],
-      "matched_keywords": [
-        "trauma",
-        "trauma team"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "trauma team",
+          "strength": "weak",
+          "topic": "Prehospital"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41848848/"
     },
     {
@@ -5132,10 +7241,19 @@
         "General Trauma",
         "Paediatric"
       ],
-      "matched_keywords": [
-        "trauma",
-        "paediatric trauma"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "paediatric trauma",
+          "strength": "weak",
+          "topic": "Paediatric"
+        }
       ],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41848834/"
     },
     {
@@ -5159,10 +7277,19 @@
       "topics": [
         "General Trauma"
       ],
-      "matched_keywords": [
-        "trauma",
-        "traumatic"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "weak",
+          "topic": "General Trauma"
+        }
       ],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41848395/"
     },
     {
@@ -5186,10 +7313,19 @@
         "Cardiac Arrest",
         "Prehospital"
       ],
-      "matched_keywords": [
-        "prehospital",
-        "ECPR"
+      "keyword_matches": [
+        {
+          "keyword": "prehospital",
+          "strength": "weak",
+          "topic": "Prehospital"
+        },
+        {
+          "keyword": "ECPR",
+          "strength": "weak",
+          "topic": "Cardiac Arrest"
+        }
       ],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41848362/"
     },
     {
@@ -5219,10 +7355,19 @@
       "topics": [
         "Haemorrhage"
       ],
-      "matched_keywords": [
-        "blood product",
-        "fibrinogen"
+      "keyword_matches": [
+        {
+          "keyword": "blood product",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "fibrinogen",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        }
       ],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41847872/"
     },
     {
@@ -5250,13 +7395,34 @@
         "Penetrating",
         "TBI"
       ],
-      "matched_keywords": [
-        "trauma",
-        "traumatic",
-        "penetrating trauma",
-        "traumatic brain injury",
-        "traumatic cardiac arrest"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "penetrating trauma",
+          "strength": "weak",
+          "topic": "Penetrating"
+        },
+        {
+          "keyword": "traumatic brain injury",
+          "strength": "weak",
+          "topic": "TBI"
+        },
+        {
+          "keyword": "traumatic cardiac arrest",
+          "strength": "weak",
+          "topic": "Cardiac Arrest"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41846544/"
     },
     {
@@ -5277,10 +7443,19 @@
         "Abdominal",
         "General Trauma"
       ],
-      "matched_keywords": [
-        "trauma",
-        "blunt abdominal"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "blunt abdominal",
+          "strength": "strong",
+          "topic": "Abdominal"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41846201/"
     },
     {
@@ -5301,12 +7476,29 @@
         "General Trauma",
         "Prehospital"
       ],
-      "matched_keywords": [
-        "trauma",
-        "traumatic",
-        "HEMS",
-        "prehospital"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "HEMS",
+          "strength": "strong",
+          "topic": "Prehospital"
+        },
+        {
+          "keyword": "prehospital",
+          "strength": "strong",
+          "topic": "Prehospital"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41845450/"
     },
     {
@@ -5328,7 +7520,8 @@
       "topics": [
         "General Trauma"
       ],
-      "matched_keywords": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41843140/"
     },
     {
@@ -5351,13 +7544,34 @@
         "Prehospital",
         "Systems/QI"
       ],
-      "matched_keywords": [
-        "trauma",
-        "polytrauma",
-        "trauma centre",
-        "trauma team",
-        "ATLS"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "polytrauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "trauma team",
+          "strength": "weak",
+          "topic": "Prehospital"
+        },
+        {
+          "keyword": "ATLS",
+          "strength": "strong",
+          "topic": "Systems/QI"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41843136/"
     },
     {
@@ -5381,11 +7595,24 @@
         "Abdominal",
         "General Trauma"
       ],
-      "matched_keywords": [
-        "trauma",
-        "blunt abdominal",
-        "MODS"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "blunt abdominal",
+          "strength": "strong",
+          "topic": "Abdominal"
+        },
+        {
+          "keyword": "MODS",
+          "strength": "weak",
+          "topic": "General Trauma"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41843126/"
     },
     {
@@ -5409,9 +7636,14 @@
       "topics": [
         "General Trauma"
       ],
-      "matched_keywords": [
-        "trauma"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41843103/"
     },
     {
@@ -5437,12 +7669,29 @@
         "Haemorrhage",
         "Systems/QI"
       ],
-      "matched_keywords": [
-        "trauma",
-        "injury severity",
-        "trauma centre",
-        "damage control"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "injury severity",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "damage control",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41842986/"
     },
     {
@@ -5495,9 +7744,14 @@
       "topics": [
         "Thoracic"
       ],
-      "matched_keywords": [
-        "pneumothorax"
+      "keyword_matches": [
+        {
+          "keyword": "pneumothorax",
+          "strength": "weak",
+          "topic": "Thoracic"
+        }
       ],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41841715/"
     },
     {
@@ -5541,13 +7795,34 @@
         "Haemorrhage",
         "Prehospital"
       ],
-      "matched_keywords": [
-        "traumatic",
-        "massive transfusion",
-        "blood transfusion",
-        "prehospital",
-        "traumatic cardiac arrest"
+      "keyword_matches": [
+        {
+          "keyword": "traumatic",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "massive transfusion",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "blood transfusion",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "prehospital",
+          "strength": "strong",
+          "topic": "Prehospital"
+        },
+        {
+          "keyword": "traumatic cardiac arrest",
+          "strength": "weak",
+          "topic": "Cardiac Arrest"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41841706/"
     },
     {
@@ -5570,7 +7845,8 @@
       "topics": [
         "General Trauma"
       ],
-      "matched_keywords": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41835489/"
     },
     {
@@ -5589,7 +7865,8 @@
       "topics": [
         "General Trauma"
       ],
-      "matched_keywords": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41835487/"
     },
     {
@@ -5608,7 +7885,8 @@
       "topics": [
         "General Trauma"
       ],
-      "matched_keywords": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41832530/"
     },
     {
@@ -5630,10 +7908,19 @@
         "General Trauma",
         "Procedures"
       ],
-      "matched_keywords": [
-        "trauma",
-        "emergency laparotomy"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "emergency laparotomy",
+          "strength": "weak",
+          "topic": "Procedures"
+        }
       ],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41827068/"
     },
     {
@@ -5693,7 +7980,8 @@
       "topics": [
         "General Trauma"
       ],
-      "matched_keywords": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41827040/"
     },
     {
@@ -5722,7 +8010,8 @@
       "topics": [
         "General Trauma"
       ],
-      "matched_keywords": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41824079/"
     },
     {
@@ -5753,9 +8042,14 @@
       "topics": [
         "Prehospital"
       ],
-      "matched_keywords": [
-        "prehospital"
+      "keyword_matches": [
+        {
+          "keyword": "prehospital",
+          "strength": "weak",
+          "topic": "Prehospital"
+        }
       ],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41823879/"
     },
     {
@@ -5791,9 +8085,14 @@
       "topics": [
         "Prehospital"
       ],
-      "matched_keywords": [
-        "prehospital"
+      "keyword_matches": [
+        {
+          "keyword": "prehospital",
+          "strength": "strong",
+          "topic": "Prehospital"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41823798/"
     },
     {
@@ -5812,9 +8111,14 @@
       "topics": [
         "Prehospital"
       ],
-      "matched_keywords": [
-        "prehospital"
+      "keyword_matches": [
+        {
+          "keyword": "prehospital",
+          "strength": "weak",
+          "topic": "Prehospital"
+        }
       ],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41823796/"
     },
     {
@@ -5839,9 +8143,14 @@
       "topics": [
         "TBI"
       ],
-      "matched_keywords": [
-        "intracranial haemorrhage"
+      "keyword_matches": [
+        {
+          "keyword": "intracranial haemorrhage",
+          "strength": "weak",
+          "topic": "TBI"
+        }
       ],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41823503/"
     },
     {
@@ -5867,9 +8176,14 @@
       "topics": [
         "General Trauma"
       ],
-      "matched_keywords": [
-        "traumatic"
+      "keyword_matches": [
+        {
+          "keyword": "traumatic",
+          "strength": "weak",
+          "topic": "General Trauma"
+        }
       ],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41823425/"
     },
     {
@@ -5895,11 +8209,24 @@
         "General Trauma",
         "TBI"
       ],
-      "matched_keywords": [
-        "traumatic",
-        "traumatic brain injury",
-        "ICP monitoring"
+      "keyword_matches": [
+        {
+          "keyword": "traumatic",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic brain injury",
+          "strength": "strong",
+          "topic": "TBI"
+        },
+        {
+          "keyword": "ICP monitoring",
+          "strength": "weak",
+          "topic": "TBI"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41823399/"
     },
     {
@@ -5926,12 +8253,29 @@
         "General Trauma",
         "Spine"
       ],
-      "matched_keywords": [
-        "trauma",
-        "traumatic",
-        "spinal cord injury",
-        "spinal injury"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "spinal cord injury",
+          "strength": "weak",
+          "topic": "Spine"
+        },
+        {
+          "keyword": "spinal injury",
+          "strength": "strong",
+          "topic": "Spine"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41823274/"
     },
     {
@@ -5961,9 +8305,14 @@
       "topics": [
         "Cardiac Arrest"
       ],
-      "matched_keywords": [
-        "ECMO"
+      "keyword_matches": [
+        {
+          "keyword": "ECMO",
+          "strength": "strong",
+          "topic": "Cardiac Arrest"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41821110/"
     },
     {
@@ -5990,10 +8339,19 @@
         "General Trauma",
         "Haemorrhage"
       ],
-      "matched_keywords": [
-        "trauma",
-        "trauma-induced coagulopathy"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "trauma-induced coagulopathy",
+          "strength": "strong",
+          "topic": "Haemorrhage"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41821101/"
     },
     {
@@ -6019,10 +8377,19 @@
         "General Trauma",
         "Prehospital"
       ],
-      "matched_keywords": [
-        "prehospital",
-        "drowning"
+      "keyword_matches": [
+        {
+          "keyword": "prehospital",
+          "strength": "weak",
+          "topic": "Prehospital"
+        },
+        {
+          "keyword": "drowning",
+          "strength": "strong",
+          "topic": "General Trauma"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41819340/"
     },
     {
@@ -6048,10 +8415,19 @@
         "General Trauma",
         "Prehospital"
       ],
-      "matched_keywords": [
-        "prehospital",
-        "drowning"
+      "keyword_matches": [
+        {
+          "keyword": "prehospital",
+          "strength": "strong",
+          "topic": "Prehospital"
+        },
+        {
+          "keyword": "drowning",
+          "strength": "strong",
+          "topic": "General Trauma"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41819339/"
     },
     {
@@ -6072,11 +8448,24 @@
         "General Trauma",
         "TBI"
       ],
-      "matched_keywords": [
-        "trauma",
-        "traumatic",
-        "traumatic brain injury"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic brain injury",
+          "strength": "strong",
+          "topic": "TBI"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41819051/"
     },
     {
@@ -6099,7 +8488,8 @@
       "doi": "10.1016/j.injury.2026.113138",
       "tier": "filtered",
       "topics": [],
-      "matched_keywords": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41818860/"
     },
     {
@@ -6124,9 +8514,14 @@
       "topics": [
         "General Trauma"
       ],
-      "matched_keywords": [
-        "trauma"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41817744/"
     },
     {
@@ -6146,11 +8541,24 @@
         "General Trauma",
         "Systems/QI"
       ],
-      "matched_keywords": [
-        "trauma",
-        "traumatic",
-        "trauma centre"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41817735/"
     },
     {
@@ -6173,9 +8581,14 @@
       "topics": [
         "General Trauma"
       ],
-      "matched_keywords": [
-        "trauma"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        }
       ],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41817733/"
     },
     {
@@ -6197,7 +8610,8 @@
       "topics": [
         "General Trauma"
       ],
-      "matched_keywords": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41817701/"
     },
     {
@@ -6229,10 +8643,19 @@
       "topics": [
         "Cardiac Arrest"
       ],
-      "matched_keywords": [
-        "ECMO",
-        "ECPR"
+      "keyword_matches": [
+        {
+          "keyword": "ECMO",
+          "strength": "weak",
+          "topic": "Cardiac Arrest"
+        },
+        {
+          "keyword": "ECPR",
+          "strength": "weak",
+          "topic": "Cardiac Arrest"
+        }
       ],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41814357/"
     },
     {
@@ -6280,10 +8703,19 @@
         "Cardiac Arrest",
         "Haemorrhage"
       ],
-      "matched_keywords": [
-        "blood product",
-        "ECMO"
+      "keyword_matches": [
+        {
+          "keyword": "blood product",
+          "strength": "strong",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "ECMO",
+          "strength": "strong",
+          "topic": "Cardiac Arrest"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41814336/"
     },
     {
@@ -6311,11 +8743,24 @@
         "General Trauma",
         "Haemorrhage"
       ],
-      "matched_keywords": [
-        "trauma",
-        "traumatic",
-        "blood transfusion"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "blood transfusion",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41811314/"
     },
     {
@@ -6334,10 +8779,19 @@
         "General Trauma",
         "Haemorrhage"
       ],
-      "matched_keywords": [
-        "trauma",
-        "blood product"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "blood product",
+          "strength": "strong",
+          "topic": "Haemorrhage"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41811305/"
     },
     {
@@ -6365,9 +8819,14 @@
       "topics": [
         "General Trauma"
       ],
-      "matched_keywords": [
-        "trauma"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41810415/"
     },
     {
@@ -6389,9 +8848,14 @@
       "topics": [
         "General Trauma"
       ],
-      "matched_keywords": [
-        "trauma"
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41810413/"
     },
     {
@@ -6411,7 +8875,8 @@
       "topics": [
         "General Trauma"
       ],
-      "matched_keywords": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41808218/"
     },
     {
@@ -6442,9 +8907,14 @@
       "topics": [
         "Prehospital"
       ],
-      "matched_keywords": [
-        "prehospital"
+      "keyword_matches": [
+        {
+          "keyword": "prehospital",
+          "strength": "strong",
+          "topic": "Prehospital"
+        }
       ],
+      "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41807962/"
     },
     {
@@ -6462,9 +8932,14 @@
       "topics": [
         "Prehospital"
       ],
-      "matched_keywords": [
-        "prehospital"
+      "keyword_matches": [
+        {
+          "keyword": "prehospital",
+          "strength": "weak",
+          "topic": "Prehospital"
+        }
       ],
+      "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41807217/"
     }
   ]
