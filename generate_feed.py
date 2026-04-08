@@ -10,6 +10,10 @@ import json
 # CONFIGURATION
 # ============================================================
 
+# How many days back to search PubMed. Change this to adjust the lookback window.
+# Recommended: 28 days (covers indexing delays and biweekly review cycles)
+LOOKBACK_DAYS = 28
+
 # Tier 1: Core trauma journals — ALL articles included
 TIER1_JOURNALS = {
     "Injury": "0020-1383",
@@ -46,83 +50,204 @@ TIER2_JOURNALS = {
 }
 
 # Trauma keywords for filtering Tier 2 articles
-TRAUMA_KEYWORDS = [
-    r"\btrauma\b", r"\bpolytrauma\b", r"\btraumatic\b",
-    r"\bmajor trauma\b", r"\bblunt trauma\b", r"\bpenetrating trauma\b",
-    r"\binjury severity\b", r"\btrauma cent(er|re)\b",
-    r"\bha?emothorax\b", r"\bpneumothorax\b", r"\brib fracture",
-    r"\bflail chest\b", r"\bthoracostomy\b", r"\bthoracotomy\b",
-    r"\bchest drain\b", r"\bintercostal catheter\b",
-    r"\bcardiac tamponade\b",
-    r"\bsplenic (injury|laceration|rupture)\b",
-    r"\bliver laceration\b", r"\bhepatic trauma\b",
-    r"\bsolid organ injury\b", r"\bdiaphragmatic injury\b",
-    r"\bblunt abdominal\b",
-    r"\bpelvic fracture\b", r"\bpelvic binder\b", r"\bpelvic ring\b",
-    r"\bpelvic emboli[sz]ation\b", r"\bpreperitoneal packing\b",
-    r"\bangioembol[iz]ation\b",
-    r"\bREBOA\b", r"\bha?emorrhagic shock\b",
-    r"\bmassive transfusion\b", r"\bmassive ha?emorrhage\b",
-    r"\bdamage control\b", r"\btranexamic acid\b",
-    r"\bwhole blood resuscitation\b", r"\bpermissive hypotension\b",
-    r"\bhypotensive resuscitation\b",
-    r"\btrauma.induced coagulopathy\b", r"\bacute traumatic coagulopathy\b",
-    r"\bthromboelastography\b", r"\bROTEM\b",
-    r"\blethal triad\b", r"\bprothrombin complex\b",
-    r"\btraumatic brain injur", r"\bhead injur",
-    r"\bintracranial ha?emorrhage\b", r"\bsubdural ha?ematoma\b",
-    r"\bepidural ha?ematoma\b", r"\bdiffuse axonal\b",
-    r"\bdecompressive craniectomy\b", r"\bICP monitoring\b",
-    r"\bintracranial pressure monitoring\b",
-    r"\bspinal cord injury\b", r"\bspinal injury\b", r"\bspinal fracture\b",
-    r"\bcervical spine (injury|trauma|clearance)\b",
-    r"\bspinal immobili[sz]ation\b", r"\bc-spine\b", r"\bspinal clearance\b",
-    r"\bgunshot wound", r"\bstab wound", r"\bpenetrating injur",
-    r"\bblast injur", r"\bburn injur", r"\bthermal injury\b",
-    r"\bpa?ediatric trauma\b", r"\btrauma in pregnancy\b",
-    r"\bmaternal trauma\b", r"\bgeriatric trauma\b", r"\belderly trauma\b",
-    r"\bopen fracture", r"\bortho?pa?edic trauma\b",
-    r"\bfemur fracture\b", r"\bfemoral fracture\b",
-    r"\btibial fracture\b", r"\bhumeral fracture\b",
-    r"\blong bone fracture\b", r"\bcompartment syndrome\b",
-    r"\brhabdomyolysis\b", r"\bfat embolism\b",
-    r"\bfacial fracture\b", r"\bmaxillofacial trauma\b",
-    r"\bLe Fort\b", r"\bmandib(le|ular) fracture\b",
-    r"\borbital fracture\b", r"\bglobe rupture\b",
-    r"\bneck injur", r"\blaryngeal injury\b", r"\btracheal injury\b",
-    r"\bvascular injury\b", r"\baortic (injury|transection)\b",
-    r"\bjunctional ha?emorrhage\b",
-    r"\bFAST (exam|ultrasound)\b", r"\beFAST\b",
-    r"\bfocused assessment with sonography\b",
-    r"\btrauma ultrasound\b", r"\bPOCUS\b",
-    r"\bwhole body CT\b", r"\btrauma CT\b",
-    r"\bcricothyr(otomy|oidotomy)\b", r"\bsurgical airway\b",
-    r"\bemergency laparotomy\b", r"\bopen abdomen\b",
-    r"\btemporary abdominal closure\b",
-    r"\bresuscitative hysterotomy\b", r"\bperimortem c(ae)?sarean\b",
-    r"\btrauma resuscitation\b", r"\btrauma team\b", r"\btrauma activation\b",
-    r"\bprehospital trauma\b", r"\bhelicopter emergency\b",
-    r"\baeromedical retrieval\b", r"\btrauma retrieval\b",
-    r"\binjury prevention\b", r"\btrauma mortality\b",
-    r"\bpreventable death\b", r"\btrauma registry\b", r"\btrauma quality\b",
-    r"\bATLS\b", r"\bEMST\b",
-    r"\btraumatic cardiac arrest\b", r"\btrauma arrest\b",
-    r"\btraumatic amputation\b", r"\bcrush (injury|syndrome)\b",
-    r"\bnon.?accidental injury\b", r"\bcode crimson\b",
-    r"\bdrowning\b", r"\bECMO\b", r"\bECPR\b",
-    r"\bmultiple organ (dysfunction|failure)\b", r"\bMODS\b",
-    r"\banticoagulant reversal\b",
+# Each entry is a tuple: (regex_pattern, display_label, parent_topic)
+# Display labels use Australian English spelling
+TRAUMA_KEYWORD_DEFS = [
+    # General trauma
+    (r"\btrauma\b", "trauma", "General Trauma"),
+    (r"\bpolytrauma\b", "polytrauma", "General Trauma"),
+    (r"\btraumatic\b", "traumatic", "General Trauma"),
+    (r"\bmajor trauma\b", "major trauma", "General Trauma"),
+    (r"\bblunt trauma\b", "blunt trauma", "General Trauma"),
+    (r"\bpenetrating trauma\b", "penetrating trauma", "Penetrating"),
+    (r"\binjury severity\b", "injury severity", "Systems/QI"),
+    (r"\btrauma cent(er|re)\b", "trauma centre", "Systems/QI"),
+
+    # Thoracic
+    (r"\bha?emothorax\b", "haemothorax", "Thoracic"),
+    (r"\bpneumothorax\b", "pneumothorax", "Thoracic"),
+    (r"\brib fracture", "rib fracture", "Thoracic"),
+    (r"\bflail chest\b", "flail chest", "Thoracic"),
+    (r"\bthoracostomy\b", "thoracostomy", "Thoracic"),
+    (r"\bthoracotomy\b", "thoracotomy", "Thoracic"),
+    (r"\bchest drain\b", "chest drain", "Thoracic"),
+    (r"\bintercostal catheter\b", "intercostal catheter", "Thoracic"),
+    (r"\bcardiac tamponade\b", "cardiac tamponade", "Thoracic"),
+
+    # Abdominal
+    (r"\bsplenic (injury|laceration|rupture)\b", "splenic injury", "Abdominal"),
+    (r"\bliver laceration\b", "liver laceration", "Abdominal"),
+    (r"\bhepatic trauma\b", "hepatic trauma", "Abdominal"),
+    (r"\bsolid organ injury\b", "solid organ injury", "Abdominal"),
+    (r"\bdiaphragmatic injury\b", "diaphragmatic injury", "Abdominal"),
+    (r"\bblunt abdominal\b", "blunt abdominal", "Abdominal"),
+
+    # Pelvic
+    (r"\bpelvic fracture\b", "pelvic fracture", "Pelvic"),
+    (r"\bpelvic binder\b", "pelvic binder", "Pelvic"),
+    (r"\bpelvic ring\b", "pelvic ring", "Pelvic"),
+    (r"\bpelvic emboli[sz]ation\b", "pelvic embolisation", "Pelvic"),
+    (r"\bpreperitoneal packing\b", "preperitoneal packing", "Pelvic"),
+    (r"\bangioembol[iz]ation\b", "angioembolisation", "Pelvic"),
+
+    # Haemorrhage & Resuscitation
+    (r"\bREBOA\b", "REBOA", "Haemorrhage"),
+    (r"\bha?emorrhagic shock\b", "haemorrhagic shock", "Haemorrhage"),
+    (r"\bmassive transfusion\b", "massive transfusion", "Haemorrhage"),
+    (r"\bmassive ha?emorrhage\b", "massive haemorrhage", "Haemorrhage"),
+    (r"\bdamage control\b", "damage control", "Haemorrhage"),
+    (r"\btranexamic acid\b", "tranexamic acid", "Haemorrhage"),
+    (r"\bwhole blood resuscitation\b", "whole blood resuscitation", "Haemorrhage"),
+    (r"\bpermissive hypotension\b", "permissive hypotension", "Haemorrhage"),
+    (r"\bhypotensive resuscitation\b", "hypotensive resuscitation", "Haemorrhage"),
+    (r"\btrauma.induced coagulopathy\b", "trauma-induced coagulopathy", "Haemorrhage"),
+    (r"\bacute traumatic coagulopathy\b", "acute traumatic coagulopathy", "Haemorrhage"),
+    (r"\bthromboelastography\b", "thromboelastography", "Haemorrhage"),
+    (r"\bROTEM\b", "ROTEM", "Haemorrhage"),
+    (r"\blethal triad\b", "lethal triad", "Haemorrhage"),
+    (r"\bprothrombin complex\b", "prothrombin complex", "Haemorrhage"),
+    (r"\bblood product", "blood product", "Haemorrhage"),
+    (r"\bblood transfusion\b", "blood transfusion", "Haemorrhage"),
+    (r"\bpacked red (blood )?cells?\b", "packed red blood cells", "Haemorrhage"),
+    (r"\bprehospital blood\b", "prehospital blood", "Haemorrhage"),
+    (r"\bfibrinogen\b", "fibrinogen", "Haemorrhage"),
+    (r"\bcryoprecipitate\b", "cryoprecipitate", "Haemorrhage"),
+    (r"\banticoagulant reversal\b", "anticoagulant reversal", "Haemorrhage"),
+
+    # TBI
+    (r"\btraumatic brain injur", "traumatic brain injury", "TBI"),
+    (r"\bhead injur", "head injury", "TBI"),
+    (r"\bintracranial ha?emorrhage\b", "intracranial haemorrhage", "TBI"),
+    (r"\bsubdural ha?ematoma\b", "subdural haematoma", "TBI"),
+    (r"\bepidural ha?ematoma\b", "epidural haematoma", "TBI"),
+    (r"\bdiffuse axonal\b", "diffuse axonal injury", "TBI"),
+    (r"\bdecompressive craniectomy\b", "decompressive craniectomy", "TBI"),
+    (r"\bICP monitoring\b", "ICP monitoring", "TBI"),
+    (r"\bintracranial pressure monitoring\b", "intracranial pressure monitoring", "TBI"),
+    (r"\bconcussion\b", "concussion", "TBI"),
+
+    # Spine
+    (r"\bspinal cord injury\b", "spinal cord injury", "Spine"),
+    (r"\bspinal injury\b", "spinal injury", "Spine"),
+    (r"\bspinal fracture\b", "spinal fracture", "Spine"),
+    (r"\bcervical spine (injury|trauma|clearance)\b", "cervical spine", "Spine"),
+    (r"\bspinal immobili[sz]ation\b", "spinal immobilisation", "Spine"),
+    (r"\bc-spine\b", "c-spine", "Spine"),
+    (r"\bspinal clearance\b", "spinal clearance", "Spine"),
+
+    # Penetrating
+    (r"\bgunshot wound", "gunshot wound", "Penetrating"),
+    (r"\bstab wound", "stab wound", "Penetrating"),
+    (r"\bpenetrating injur", "penetrating injury", "Penetrating"),
+    (r"\bblast injur", "blast injury", "Penetrating"),
+
+    # Burns
+    (r"\bburn injur", "burn injury", "Burns"),
+    (r"\bthermal injury\b", "thermal injury", "Burns"),
+
+    # Paediatric
+    (r"\bpa?ediatric trauma\b", "paediatric trauma", "Paediatric"),
+
+    # Obstetric
+    (r"\btrauma in pregnancy\b", "trauma in pregnancy", "Obstetric"),
+    (r"\bmaternal trauma\b", "maternal trauma", "Obstetric"),
+    (r"\bresuscitative hysterotomy\b", "resuscitative hysterotomy", "Obstetric"),
+    (r"\bperimortem c(ae)?sarean\b", "perimortem caesarean", "Obstetric"),
+
+    # Orthopaedic
+    (r"\bopen fracture", "open fracture", "Orthopaedic"),
+    (r"\bortho?pa?edic trauma\b", "orthopaedic trauma", "Orthopaedic"),
+    (r"\bfemur fracture\b", "femur fracture", "Orthopaedic"),
+    (r"\bfemoral fracture\b", "femoral fracture", "Orthopaedic"),
+    (r"\btibial fracture\b", "tibial fracture", "Orthopaedic"),
+    (r"\bhumeral fracture\b", "humeral fracture", "Orthopaedic"),
+    (r"\blong bone fracture\b", "long bone fracture", "Orthopaedic"),
+    (r"\bcompartment syndrome\b", "compartment syndrome", "Orthopaedic"),
+    (r"\brhabdomyolysis\b", "rhabdomyolysis", "Orthopaedic"),
+    (r"\bfat embolism\b", "fat embolism", "Orthopaedic"),
+
+    # Facial/Neck
+    (r"\bfacial fracture\b", "facial fracture", "Facial/Neck"),
+    (r"\bmaxillofacial trauma\b", "maxillofacial trauma", "Facial/Neck"),
+    (r"\bLe Fort\b", "Le Fort", "Facial/Neck"),
+    (r"\bmandib(le|ular) fracture\b", "mandibular fracture", "Facial/Neck"),
+    (r"\borbital fracture\b", "orbital fracture", "Facial/Neck"),
+    (r"\bglobe rupture\b", "globe rupture", "Facial/Neck"),
+    (r"\bneck injur", "neck injury", "Facial/Neck"),
+    (r"\blaryngeal injury\b", "laryngeal injury", "Facial/Neck"),
+    (r"\btracheal injury\b", "tracheal injury", "Facial/Neck"),
+
+    # Vascular
+    (r"\bvascular injury\b", "vascular injury", "Vascular"),
+    (r"\baortic (injury|transection)\b", "aortic injury", "Vascular"),
+    (r"\bjunctional ha?emorrhage\b", "junctional haemorrhage", "Vascular"),
+
+    # Imaging
+    (r"\bFAST (exam|ultrasound)\b", "FAST exam", "Imaging"),
+    (r"\beFAST\b", "eFAST", "Imaging"),
+    (r"\bfocused assessment with sonography\b", "focused assessment with sonography", "Imaging"),
+    (r"\btrauma ultrasound\b", "trauma ultrasound", "Imaging"),
+    (r"\bPOCUS\b", "POCUS", "Imaging"),
+    (r"\bwhole body CT\b", "whole body CT", "Imaging"),
+    (r"\btrauma CT\b", "trauma CT", "Imaging"),
+
+    # Procedures
+    (r"\bcricothyr(otomy|oidotomy)\b", "cricothyroidotomy", "Procedures"),
+    (r"\bsurgical airway\b", "surgical airway", "Procedures"),
+    (r"\bemergency laparotomy\b", "emergency laparotomy", "Procedures"),
+    (r"\bopen abdomen\b", "open abdomen", "Procedures"),
+    (r"\btemporary abdominal closure\b", "temporary abdominal closure", "Procedures"),
+    (r"\btourniquet\b", "tourniquet", "Procedures"),
+
+    # Prehospital & Retrieval
+    (r"\btrauma resuscitation\b", "trauma resuscitation", "Prehospital"),
+    (r"\btrauma team\b", "trauma team", "Prehospital"),
+    (r"\btrauma activation\b", "trauma activation", "Prehospital"),
+    (r"\bprehospital trauma\b", "prehospital trauma", "Prehospital"),
+    (r"\bhelicopter emergency\b", "helicopter emergency", "Prehospital"),
+    (r"\baeromedical\b", "aeromedical", "Prehospital"),
+    (r"\btrauma retrieval\b", "trauma retrieval", "Prehospital"),
+    (r"\bretrieval medicine\b", "retrieval medicine", "Prehospital"),
+    (r"\bHEMS\b", "HEMS", "Prehospital"),
+    (r"\bprehospital\b", "prehospital", "Prehospital"),
+
+    # Systems/QI
+    (r"\binjury prevention\b", "injury prevention", "Systems/QI"),
+    (r"\btrauma mortality\b", "trauma mortality", "Systems/QI"),
+    (r"\bpreventable death\b", "preventable death", "Systems/QI"),
+    (r"\btrauma registry\b", "trauma registry", "Systems/QI"),
+    (r"\btrauma quality\b", "trauma quality", "Systems/QI"),
+    (r"\bATLS\b", "ATLS", "Systems/QI"),
+    (r"\bEMST\b", "EMST", "Systems/QI"),
+
+    # Cardiac Arrest (Traumatic)
+    (r"\btraumatic cardiac arrest\b", "traumatic cardiac arrest", "Cardiac Arrest"),
+    (r"\btrauma arrest\b", "trauma arrest", "Cardiac Arrest"),
+    (r"\btraumatic amputation\b", "traumatic amputation", "Cardiac Arrest"),
+    (r"\bcrush (injury|syndrome)\b", "crush injury", "Cardiac Arrest"),
+    (r"\bECMO\b", "ECMO", "Cardiac Arrest"),
+    (r"\bECPR\b", "ECPR", "Cardiac Arrest"),
+
+    # Other
+    (r"\bnon.?accidental injury\b", "non-accidental injury", "Paediatric"),
+    (r"\bcode crimson\b", "code crimson", "Haemorrhage"),
+    (r"\bdrowning\b", "drowning", "General Trauma"),
+    (r"\bmultiple organ (dysfunction|failure)\b", "multiple organ dysfunction", "General Trauma"),
+    (r"\bMODS\b", "MODS", "General Trauma"),
 ]
 
-TRAUMA_PATTERNS = [re.compile(kw, re.IGNORECASE) for kw in TRAUMA_KEYWORDS]
+# Build compiled patterns and lookup structures
+TRAUMA_PATTERNS = [(re.compile(pat, re.IGNORECASE), label, topic)
+                   for pat, label, topic in TRAUMA_KEYWORD_DEFS]
+
+# All possible parent topics (used by the web interface to show all chips)
+ALL_TOPICS = sorted(set(topic for _, _, topic in TRAUMA_KEYWORD_DEFS))
 
 EXCLUDE_PUB_TYPES = {
     "Comment", "Letter", "Editorial", "Erratum",
     "Published Erratum", "Retraction of Publication",
     "Expression of Concern",
 }
-
-LOOKBACK_DAYS = 14
 
 NCBI_BASE = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils"
 EMAIL = os.environ.get("NCBI_EMAIL", "your.email@example.com")
@@ -147,14 +272,15 @@ def api_get(url, params):
     return r
 
 
-def search_pubmed(issn, days_back=LOOKBACK_DAYS):
-    """Search PubMed for recent articles from a specific journal by ISSN."""
+def search_pubmed(journal_name, issn, days_back=LOOKBACK_DAYS):
+    """Search PubMed for recent articles from a specific journal by ISSN and name."""
     date_from = (datetime.now() - timedelta(days=days_back)).strftime("%Y/%m/%d")
     date_to = datetime.now().strftime("%Y/%m/%d")
 
+    # Search by both ISSN and journal name to catch articles indexed either way
     params = {
         "db": "pubmed",
-        "term": f'"{issn}"[ISSN]',
+        "term": f'("{issn}"[ISSN] OR "{journal_name}"[Journal])',
         "datetype": "edat",
         "mindate": date_from,
         "maxdate": date_to,
@@ -173,7 +299,7 @@ def fetch_details(pmids):
         return []
 
     all_articles = []
-    batch_size = 50  # Fetch 50 at a time to keep URLs short
+    batch_size = 50
 
     for i in range(0, len(pmids), batch_size):
         batch = pmids[i:i + batch_size]
@@ -190,10 +316,18 @@ def fetch_details(pmids):
             try:
                 pmid = article_elem.findtext(".//PMID")
                 title = article_elem.findtext(".//ArticleTitle") or "No title"
+
+                # Extract structured abstract with section labels
                 abstract_parts = article_elem.findall(".//AbstractText")
-                abstract = " ".join(
-                    (part.text or "") for part in abstract_parts
-                )
+                abstract_sections = []
+                for part in abstract_parts:
+                    label = part.get("Label")
+                    text = part.text or ""
+                    if label:
+                        abstract_sections.append(f"**{label}**: {text}")
+                    else:
+                        abstract_sections.append(text)
+                abstract = "\n\n".join(abstract_sections)
 
                 pub_types = set()
                 for pt in article_elem.findall(".//PublicationType"):
@@ -243,10 +377,23 @@ def fetch_details(pmids):
     return all_articles
 
 
-def is_trauma_relevant(article):
-    """Check if an article matches trauma keywords in title or abstract."""
+def match_trauma_keywords(article):
+    """Return matched keyword labels and parent topics for an article."""
     text = f"{article['title']} {article['abstract']}"
-    for pattern in TRAUMA_PATTERNS:
+    matched_labels = []
+    matched_topics = set()
+    for pattern, label, topic in TRAUMA_PATTERNS:
+        if pattern.search(text):
+            if label not in matched_labels:
+                matched_labels.append(label)
+            matched_topics.add(topic)
+    return matched_labels, sorted(matched_topics)
+
+
+def is_trauma_relevant(article):
+    """Check if an article matches any trauma keyword."""
+    text = f"{article['title']} {article['abstract']}"
+    for pattern, _, _ in TRAUMA_PATTERNS:
         if pattern.search(text):
             return True
     return False
@@ -256,7 +403,6 @@ def is_excluded_pub_type(article):
     """Check if article is a comment, letter, editorial, etc."""
     if article["pub_types"] & EXCLUDE_PUB_TYPES:
         return True
-    # Also check title for common patterns (catches unindexed ahead-of-print)
     title_lower = article["title"].lower()
     exclude_phrases = ["comment on", "reply to", "erratum", "retraction",
                        "expression of concern", "correction to"]
@@ -291,12 +437,24 @@ def generate_rss(articles, output_path="docs/feed.xml"):
         if len(article["authors"]) > 3:
             authors_str += " et al."
 
+        # Format abstract for RSS: convert **Label**: to bold HTML
+        abstract_html = article["abstract"]
+        abstract_html = re.sub(
+            r'\*\*([^*]+)\*\*:',
+            r'<b>\1</b>:',
+            abstract_html
+        )
+        abstract_html = abstract_html.replace("\n\n", "<br/><br/>")
+
         desc = f"<b>{article['journal']}</b><br/>"
         desc += f"{authors_str}<br/><br/>"
-        if article["abstract"]:
-            desc += article["abstract"]
+        if abstract_html:
+            desc += abstract_html
         else:
             desc += "No abstract available."
+
+        if article.get("doi"):
+            desc += f'<br/><br/><a href="https://doi.org/{article["doi"]}">Full text via DOI</a>'
 
         ET.SubElement(item, "description").text = desc
         ET.SubElement(item, "pubDate").text = article["date_str"]
@@ -313,6 +471,7 @@ def generate_rss(articles, output_path="docs/feed.xml"):
     tree.write(output_path, encoding="unicode", xml_declaration=True)
     print(f"Feed written to {output_path} with {len(articles)} articles")
 
+
 def generate_json(articles, output_path="docs/articles.json"):
     """Generate a JSON file with all article data for the Cloudflare Worker."""
 
@@ -320,68 +479,11 @@ def generate_json(articles, output_path="docs/articles.json"):
 
     json_articles = []
     for article in articles:
-        # Determine which trauma keywords matched
-        text = f"{article['title']} {article['abstract']}"
-        matched_keywords = []
-        for kw, pattern in zip(TRAUMA_KEYWORDS, TRAUMA_PATTERNS):
-            if pattern.search(text):
-                # Clean up the regex for display
-                clean = kw.replace(r"\b", "").replace(r"(", "").replace(r")", "")
-                clean = clean.replace(r"|", "/").replace(r"?", "").replace(r".", " ")
-                matched_keywords.append(clean)
+        matched_labels, matched_topics = match_trauma_keywords(article)
 
-        # Categorise into trauma topics
-        topic_map = {
-            "TBI": [r"traumatic brain", r"head injur", r"intracranial", r"subdural",
-                     r"epidural", r"diffuse axonal", r"decompressive craniectomy",
-                     r"ICP monitoring", r"intracranial pressure"],
-            "Thoracic": [r"haemothorax", r"hemothorax", r"pneumothorax", r"rib fracture",
-                         r"flail chest", r"thoracostomy", r"thoracotomy", r"chest drain",
-                         r"intercostal catheter", r"cardiac tamponade"],
-            "Abdominal": [r"splenic", r"liver laceration", r"hepatic trauma",
-                          r"solid organ", r"diaphragmatic", r"blunt abdominal",
-                          r"emergency laparotomy", r"open abdomen"],
-            "Pelvic": [r"pelvic fracture", r"pelvic binder", r"pelvic ring",
-                       r"pelvic emboli", r"preperitoneal", r"angioembol"],
-            "Haemorrhage": [r"REBOA", r"haemorrhagic shock", r"hemorrhagic shock",
-                            r"massive transfusion", r"massive haemorrhage",
-                            r"massive hemorrhage", r"damage control", r"tranexamic",
-                            r"whole blood", r"permissive hypotension",
-                            r"coagulopathy", r"thromboelastography", r"ROTEM",
-                            r"lethal triad", r"prothrombin", r"junctional"],
-            "Spine": [r"spinal cord", r"spinal injury", r"spinal fracture",
-                      r"cervical spine", r"spinal immobili", r"c-spine",
-                      r"spinal clearance"],
-            "Penetrating": [r"gunshot", r"stab wound", r"penetrating"],
-            "Burns": [r"burn injur", r"thermal injury"],
-            "Orthopaedic": [r"open fracture", r"orthopaedic trauma", r"orthopedic trauma",
-                            r"femur", r"femoral", r"tibial", r"humeral",
-                            r"long bone", r"compartment syndrome", r"rhabdomyolysis"],
-            "Paediatric": [r"paediatric trauma", r"pediatric trauma"],
-            "Facial/Neck": [r"facial fracture", r"maxillofacial", r"Le Fort",
-                            r"mandib", r"orbital", r"globe rupture",
-                            r"neck injur", r"laryngeal", r"tracheal"],
-            "Vascular": [r"vascular injury", r"aortic"],
-            "Imaging": [r"FAST", r"eFAST", r"focused assessment", r"POCUS",
-                        r"whole body CT", r"trauma CT", r"trauma ultrasound"],
-            "Prehospital": [r"prehospital", r"helicopter", r"aeromedical",
-                            r"trauma retrieval", r"ATLS", r"EMST"],
-            "Systems/QI": [r"trauma resuscitation", r"trauma team", r"trauma activation",
-                           r"injury prevention", r"trauma mortality",
-                           r"preventable death", r"trauma registry", r"trauma quality"],
-            "Cardiac Arrest": [r"traumatic cardiac arrest", r"trauma arrest",
-                               r"ECMO", r"ECPR"],
-            "Obstetric": [r"trauma in pregnancy", r"maternal trauma",
-                          r"resuscitative hysterotomy", r"perimortem"],
-        }
-
-        topics = []
-        text_lower = text.lower()
-        for topic, patterns in topic_map.items():
-            for p in patterns:
-                if re.search(p, text, re.IGNORECASE):
-                    topics.append(topic)
-                    break
+        # For Tier 1 articles with no keyword matches, tag as "General Trauma"
+        if not matched_topics and article["issn"] in tier1_issns:
+            matched_topics = ["General Trauma"]
 
         json_articles.append({
             "pmid": article["pmid"],
@@ -392,14 +494,15 @@ def generate_json(articles, output_path="docs/articles.json"):
             "date": article["date_str"],
             "doi": article["doi"],
             "tier": "core" if article["issn"] in tier1_issns else "filtered",
-            "topics": topics,
-            "matched_keywords": matched_keywords,
+            "topics": matched_topics,
+            "matched_keywords": matched_labels,
             "link": f"https://pubmed.ncbi.nlm.nih.gov/{article['pmid']}/",
         })
 
     output = {
         "generated": datetime.utcnow().isoformat() + "Z",
         "total_articles": len(json_articles),
+        "all_topics": ALL_TOPICS,
         "articles": json_articles,
     }
 
@@ -418,7 +521,7 @@ def main():
     all_journals = {**TIER1_JOURNALS, **TIER2_JOURNALS}
     tier1_issns = set(TIER1_JOURNALS.values())
 
-    print(f"Searching {len(all_journals)} journals...")
+    print(f"Searching {len(all_journals)} journals (last {LOOKBACK_DAYS} days)...")
     print(f"Rate limiting: {REQUEST_DELAY}s between requests")
     print(f"API key: {'Yes' if API_KEY else 'No'}")
     print()
@@ -426,7 +529,7 @@ def main():
     for name, issn in all_journals.items():
         print(f"  Searching: {name} ({issn})...")
         try:
-            pmids = search_pubmed(issn)
+            pmids = search_pubmed(name, issn)
         except requests.exceptions.HTTPError as e:
             print(f"    ERROR searching {name}: {e}")
             print(f"    Waiting 5 seconds and continuing...")
@@ -465,8 +568,8 @@ def main():
     unique_articles.sort(key=lambda x: int(x["pmid"]), reverse=True)
 
     print(f"\nTotal articles after filtering: {len(unique_articles)}")
-    generate_json(unique_articles)
     generate_rss(unique_articles)
+    generate_json(unique_articles)
 
 
 if __name__ == "__main__":
