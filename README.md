@@ -1,6 +1,3 @@
-Here's a comprehensive README for your repository:
-
-```markdown
 # Trauma Literature RSS Feed
 
 A custom, self-updating RSS feed that aggregates recent trauma medicine literature from PubMed. It monitors core trauma journals in full and filters high-impact general/emergency medicine journals for trauma-relevant articles using keyword matching.
