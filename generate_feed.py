@@ -243,6 +243,17 @@ TRAUMA_PATTERNS = [(re.compile(pat, re.IGNORECASE), label, topic)
 # All possible parent topics (used by the web interface to show all chips)
 ALL_TOPICS = sorted(set(topic for _, _, topic in TRAUMA_KEYWORD_DEFS))
 
+# All possible keyword labels (used by the web interface to show all keywords)
+ALL_KEYWORD_LABELS = sorted(set(label for _, label, _ in TRAUMA_KEYWORD_DEFS))
+
+# Build topic → keyword label mapping
+TOPIC_KEYWORD_MAP = {}
+for _, label, topic in TRAUMA_KEYWORD_DEFS:
+    if topic not in TOPIC_KEYWORD_MAP:
+        TOPIC_KEYWORD_MAP[topic] = []
+    if label not in TOPIC_KEYWORD_MAP[topic]:
+        TOPIC_KEYWORD_MAP[topic].append(label)
+
 EXCLUDE_PUB_TYPES = {
     "Comment", "Letter", "Editorial", "Erratum",
     "Published Erratum", "Retraction of Publication",
@@ -277,7 +288,6 @@ def search_pubmed(journal_name, issn, days_back=LOOKBACK_DAYS):
     date_from = (datetime.now() - timedelta(days=days_back)).strftime("%Y/%m/%d")
     date_to = datetime.now().strftime("%Y/%m/%d")
 
-    # Search by both ISSN and journal name to catch articles indexed either way
     params = {
         "db": "pubmed",
         "term": f'("{issn}"[ISSN] OR "{journal_name}"[Journal])',
@@ -294,7 +304,7 @@ def search_pubmed(journal_name, issn, days_back=LOOKBACK_DAYS):
 
 
 def fetch_details(pmids):
-    """Fetch article details for a list of PMIDs, in batches to avoid 414 errors."""
+    """Fetch article details for a list of PMIDs, in batches."""
     if not pmids:
         return []
 
@@ -378,16 +388,43 @@ def fetch_details(pmids):
 
 
 def match_trauma_keywords(article):
-    """Return matched keyword labels and parent topics for an article."""
-    text = f"{article['title']} {article['abstract']}"
-    matched_labels = []
+    """
+    Return matched keyword info with strength (title vs abstract-only).
+    Returns: (keyword_matches, matched_topics, has_strong_match)
+      keyword_matches: list of {"keyword": str, "strength": "strong"|"weak", "topic": str}
+      matched_topics: sorted list of topic names
+      has_strong_match: True if at least one keyword matched in the title
+    """
+    title_text = article["title"]
+    abstract_text = article["abstract"]
+    full_text = f"{title_text} {abstract_text}"
+
+    keyword_matches = []
     matched_topics = set()
+    seen_labels = set()
+    has_strong_match = False
+
     for pattern, label, topic in TRAUMA_PATTERNS:
-        if pattern.search(text):
-            if label not in matched_labels:
-                matched_labels.append(label)
+        if pattern.search(full_text):
+            if label in seen_labels:
+                continue
+            seen_labels.add(label)
+
+            # Determine strength: title match = strong, abstract-only = weak
+            if pattern.search(title_text):
+                strength = "strong"
+                has_strong_match = True
+            else:
+                strength = "weak"
+
+            keyword_matches.append({
+                "keyword": label,
+                "strength": strength,
+                "topic": topic,
+            })
             matched_topics.add(topic)
-    return matched_labels, sorted(matched_topics)
+
+    return keyword_matches, sorted(matched_topics), has_strong_match
 
 
 def is_trauma_relevant(article):
@@ -426,6 +463,8 @@ def generate_rss(articles, output_path="docs/feed.xml"):
     tier1_issns = set(TIER1_JOURNALS.values())
 
     for article in articles:
+        keyword_matches, matched_topics, has_strong = match_trauma_keywords(article)
+
         item = ET.SubElement(channel, "item")
         ET.SubElement(item, "title").text = article["title"]
 
@@ -437,16 +476,15 @@ def generate_rss(articles, output_path="docs/feed.xml"):
         if len(article["authors"]) > 3:
             authors_str += " et al."
 
-        # Format abstract for RSS: convert **Label**: to bold HTML
         abstract_html = article["abstract"]
-        abstract_html = re.sub(
-            r'\*\*([^*]+)\*\*:',
-            r'<b>\1</b>:',
-            abstract_html
-        )
+        abstract_html = re.sub(r'\*\*([^*]+)\*\*:', r'<b>\1</b>:', abstract_html)
         abstract_html = abstract_html.replace("\n\n", "<br/><br/>")
 
-        desc = f"<b>{article['journal']}</b><br/>"
+        tier_label = "Core Trauma" if article["issn"] in tier1_issns else "Tier 2 Filtered"
+        topic_labels = " [" + ", ".join(matched_topics) + "]" if matched_topics else ""
+        strength_label = " [strong match]" if has_strong else " [weak match]"
+
+        desc = f"<b>{article['journal']}</b> | {tier_label}{topic_labels}{strength_label}<br/>"
         desc += f"{authors_str}<br/><br/>"
         if abstract_html:
             desc += abstract_html
@@ -459,11 +497,21 @@ def generate_rss(articles, output_path="docs/feed.xml"):
         ET.SubElement(item, "description").text = desc
         ET.SubElement(item, "pubDate").text = article["date_str"]
 
+        for topic in matched_topics:
+            ET.SubElement(item, "category").text = topic
+        for km in keyword_matches:
+            ET.SubElement(item, "category").text = f"kw:{km['keyword']}"
+
         ET.SubElement(item, "category").text = article["journal"]
         if article["issn"] in tier1_issns:
             ET.SubElement(item, "category").text = "Tier 1 - Core Trauma"
         else:
             ET.SubElement(item, "category").text = "Tier 2 - Filtered"
+
+        if has_strong:
+            ET.SubElement(item, "category").text = "match:strong"
+        else:
+            ET.SubElement(item, "category").text = "match:weak"
 
     os.makedirs(os.path.dirname(output_path), exist_ok=True)
     tree = ET.ElementTree(rss)
@@ -477,9 +525,16 @@ def generate_json(articles, output_path="docs/articles.json"):
 
     tier1_issns = set(TIER1_JOURNALS.values())
 
+    # Build journal tier mapping for the web interface
+    journal_tiers = {}
+    for name, issn in TIER1_JOURNALS.items():
+        journal_tiers[name] = "core"
+    for name, issn in TIER2_JOURNALS.items():
+        journal_tiers[name] = "filtered"
+
     json_articles = []
     for article in articles:
-        matched_labels, matched_topics = match_trauma_keywords(article)
+        keyword_matches, matched_topics, has_strong = match_trauma_keywords(article)
 
         # For Tier 1 articles with no keyword matches, tag as "General Trauma"
         if not matched_topics and article["issn"] in tier1_issns:
@@ -495,7 +550,8 @@ def generate_json(articles, output_path="docs/articles.json"):
             "doi": article["doi"],
             "tier": "core" if article["issn"] in tier1_issns else "filtered",
             "topics": matched_topics,
-            "matched_keywords": matched_labels,
+            "keyword_matches": keyword_matches,
+            "has_strong_match": has_strong,
             "link": f"https://pubmed.ncbi.nlm.nih.gov/{article['pmid']}/",
         })
 
@@ -503,6 +559,9 @@ def generate_json(articles, output_path="docs/articles.json"):
         "generated": datetime.utcnow().isoformat() + "Z",
         "total_articles": len(json_articles),
         "all_topics": ALL_TOPICS,
+        "all_keywords": ALL_KEYWORD_LABELS,
+        "topic_keyword_map": TOPIC_KEYWORD_MAP,
+        "journal_tiers": journal_tiers,
         "articles": json_articles,
     }
 
