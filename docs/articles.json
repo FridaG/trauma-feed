@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-09T20:41:11.675511Z",
-  "total_articles": 232,
+  "generated": "2026-04-10T20:26:32.339618Z",
+  "total_articles": 236,
   "all_topics": [
     "Abdominal",
     "Burns",
@@ -378,6 +378,326 @@
     "Cochrane Database Syst Rev": "filtered"
   },
   "articles": [
+    {
+      "pmid": "41961320",
+      "title": "Emergency laparotomies in trauma management: a six-year case series.",
+      "abstract": "",
+      "journal": "Eur J Trauma Emerg Surg",
+      "authors": [
+        "Ahrens G",
+        "Hoffmann M",
+        "Proksch N"
+      ],
+      "date": "2026 Apr 10",
+      "doi": "10.1308/rcsann.2023.0081",
+      "tier": "core",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41961320/"
+    },
+    {
+      "pmid": "41961287",
+      "title": "Non-scaphoid carpal fractures: lessons learned from a series of 86 cases.",
+      "abstract": "",
+      "journal": "Eur J Trauma Emerg Surg",
+      "authors": [
+        "Herrero Alonso S",
+        "Fern\u00e1ndez Gonz\u00e1lez-Cuevas J"
+      ],
+      "date": "2026 Apr 10",
+      "doi": "10.1007/s00402-011-1416-0",
+      "tier": "core",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41961287/"
+    },
+    {
+      "pmid": "41961261",
+      "title": "A machine-learning-based tool for stroke risk prediction in blunt cerebrovascular injury: development and preliminary evaluation.",
+      "abstract": "**PURPOSE**: Stroke risk correlates with the Biffl grading system in blunt cerebrovascular injury (BCVI). Although anti-thrombotic therapy is the mainstay of stroke prevention, no point-of-care clinical decision-support tool exists to guide timing for therapy. We sought to develop an interactive online calculator that incorporates patient-specific demographic and injury characteristics to estimate stroke risk and risk reduction with anti-thrombotic (AT) administration.\n\n**METHODS**: Data from BCVI patients (n\u2009=\u20091,197) at a Level I Trauma Center were retrospectively collected. Six machine learning methods were employed to predict stroke risk with and without AT therapy. Class imbalance was addressed using downsampling and/or class weighting. Model performance was assessed using 10-fold cross-validation. The model was implemented as an R-based Shiny online application.\n\n**RESULTS**: Stroke rate among the population was 4%, and the strongest predictors for stroke were the greatest Biffl grade of carotid (aOR [95%CI]\u2009=\u20092.02 [1.62-2.53]) and vertebral injuries (1.44 [1.18-1.77]). The least absolute shrinkage and selection operator (LASSO) model outperformed all others, achieving 66% [33%-100%] sensitivity and 74% [62%-82%] specificity for stroke prediction, with an area under the receiver operating characteristic curve of 0.79 [0.57-0.95]. This model was integrated into an interactive online tool ( https://grady-bcvi-calc.shinyapps.io/calculator/ ), where patient demographic and injury characteristics can be used to compute baseline stroke risk and estimate stroke risk with AT.\n\n**CONCLUSION**: We developed and evaluated a preliminary predictive model for personalized stroke risk assessment in patients with BCVI using key risk factors. The integration of patient-specific risk-benefit assessments into clinical decision-making could optimize and reduce variability in AT therapy. External validation is warranted to prepare this tool for broad clinical applicability.",
+      "journal": "Eur J Trauma Emerg Surg",
+      "authors": [
+        "Wagner V",
+        "Preston JD",
+        "De Leon Castro A",
+        "Mueller WF",
+        "Nguyen J",
+        "Garcia-Toca M",
+        "Benjamin ER",
+        "Todd SR",
+        "Sciarretta JD"
+      ],
+      "date": "2026 Apr 10",
+      "doi": "10.1097/XCS.0000000000000771",
+      "tier": "core",
+      "topics": [
+        "General Trauma",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41961261/"
+    },
+    {
+      "pmid": "41961258",
+      "title": "Association between screw angulation and union after inverted-triangle cannulated screw fixation of femoral neck fractures.",
+      "abstract": "",
+      "journal": "Eur J Trauma Emerg Surg",
+      "authors": [
+        "\u00c7atal T",
+        "Bayrak A",
+        "T\u0131ng\u0131r M",
+        "Sapmaz \u0130E",
+        "K\u0131l\u0131\u00e7kaya ME",
+        "Mercan N",
+        "Kural C",
+        "Duramaz A"
+      ],
+      "date": "2026 Apr 10",
+      "doi": "10.1016/j.injury.2020.01.032",
+      "tier": "core",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41961258/"
+    },
+    {
+      "pmid": "41961098",
+      "title": "A study on prolonged use of resuscitative endovascular balloon of the aorta (REBOA) with shunt flow in a porcine hemorrhagic shock model.",
+      "abstract": "",
+      "journal": "Eur J Trauma Emerg Surg",
+      "authors": [
+        "Kiriu N",
+        "Saitoh D",
+        "Yamamura K",
+        "Sasa R",
+        "Kiyozumi T",
+        "Tomura S"
+      ],
+      "date": "2026 Apr 10",
+      "doi": "10.1097/TA.0000000000000913",
+      "tier": "core",
+      "topics": [
+        "Haemorrhage"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "REBOA",
+          "strength": "strong",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "haemorrhagic shock",
+          "strength": "strong",
+          "topic": "Haemorrhage"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41961098/"
+    },
+    {
+      "pmid": "41960924",
+      "title": "Management and Outcomes of Traumatic Cerebral Venous Sinus Injury Among Patients With Traumatic Brain Injury and Concomitant Intracranial Hemorrhage.",
+      "abstract": "**BACKGROUND AND OBJECTIVES**: Traumatic cerebral venous sinus injury (tCVSI) is a rare but serious complication of traumatic brain injury. Although similar radiographically to spontaneous cerebral venous sinus thrombosis (CVST), tCVSI treatment approaches have not been fully investigated. We characterized complications, clinical outcomes, and recanalization in tCVSI and evaluated treatment approaches.\n\n**METHODS**: In this retrospective review of patients with radiographically confirmed tCVSI across 3 Level 1 trauma centers from 2018 to 2024, we collected patient characteristics, injury patterns, treatment modalities, complications, clinical outcomes, and recanalization data. Primary outcomes were favorable recovery (extended Glasgow Outcome Scale score \u22655) and 30-day mortality. Multivariate regression identified independent predictors of outcomes and recanalization.\n\n**RESULTS**: Among 11\u2009300 patients screened, 254 (2.2%) had tCVSI. Antiplatelet (AP) and anticoagulation (AC) therapy were used in 32% and 19% of patients, respectively. Hemorrhagic complications occurred in 31% of patients treated with AC and 10% receiving AP. Favorable outcomes were achieved in 73.9% of patients, and 30-day mortality was 12.6%. On multivariate analysis, AP (odds ratio [OR] 6.5, 95% CI 2.1-20.0) and AC (OR 4.7, 95% CI 1.3-17.7) therapies were both associated with better outcomes. AP therapy was independently associated with lower 30-day mortality (OR 0.2, 95% CI 0.06-0.66). At the follow-up, 39.9% of patients had complete recanalization of the involved sinus, 17.5% had partial recanalization, and 42.7% were unchanged. Recanalization status on repeat imaging did not correlate with clinical outcomes.\n\n**CONCLUSION**: This multicenter series demonstrates treatment response in patients after tCVSI and describes differences in natural history compared with spontaneous CVST. Both antithrombotic regimens were associated with favorable outcomes, and AP therapy was independently associated with lower mortality, suggesting a potential role in tCVSI management. Recanalization status at follow-up appeared unrelated to clinical outcomes, supporting the need for unique therapeutic approaches for tCVSI compared with spontaneous CVST, particularly in the acute management period.",
+      "journal": "Neurosurgery",
+      "authors": [
+        "Brown J",
+        "Hamrick F",
+        "Abo Kasem R",
+        "Bi P",
+        "Nistal D",
+        "Abecassis IJ",
+        "Sieg EP",
+        "Chen SH",
+        "Bonow RH",
+        "Grandhi R"
+      ],
+      "date": "2026 Apr 10",
+      "doi": "10.1227/neu.0000000000004027",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "TBI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic brain injury",
+          "strength": "strong",
+          "topic": "TBI"
+        },
+        {
+          "keyword": "intracranial haemorrhage",
+          "strength": "strong",
+          "topic": "TBI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41960924/"
+    },
+    {
+      "pmid": "41960794",
+      "title": "The Cost of Choice: Helmet Laws, Trauma Systems, and Who Actually Pays.",
+      "abstract": "",
+      "journal": "J Am Coll Surg",
+      "authors": [
+        "Brown CV"
+      ],
+      "date": "2026 Apr 10",
+      "doi": "10.1097/XCS.0000000000001970",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41960794/"
+    },
+    {
+      "pmid": "41956522",
+      "title": "Non-drug perioperative interventions to reduce postoperative pulmonary complications after abdominal surgery: systematic review and meta-analysis.",
+      "abstract": "**OBJECTIVE**: To evaluate the effectiveness of perioperative non-drug interventions in reducing postoperative pulmonary complications (PPCs) in adults undergoing abdominal surgery.\n\n**DESIGN**: Systematic review and meta-analysis.\n\n**DATA SOURCES**: Ovid MEDLINE, Embase, and Web of Science from database inception to January 2025 and updated in January 2026, with no language restrictions.\n\n**STUDY SELECTION**: Randomised controlled trials assessing the effectiveness of perioperative non-drug interventions for the prevention of PPCs in adults undergoing elective abdominal surgery under general anaesthesia, with clearly defined PPCs.\n\n**MAIN OUTCOME MEASURES**: The primary outcome was the proportion of patients developing PPCs. Secondary outcomes included the proportion of patients with PPC subtypes according to European Perioperative Clinical Outcome definitions (respiratory infection, respiratory failure, pleural effusion, atelectasis, or pneumothorax) and hospital length of stay.\n\n**DATA EXTRACTION AND SYNTHESIS**: Two reviewers independently screened studies, extracted data, and assessed risk of bias with the Cochrane RoB 2.0 tool. Data were synthesised using meta-analyses and trial sequential analyses, with the evidence certainty assessed using the Grading of Recommendations, Assessment, Development and Evaluation (GRADE) approach.\n\n**RESULTS**: 255 trials including 55\u2009260 participants were included, evaluating 10 types of interventions with 39 subtypes for PPC prevention. PPCs occurred in 6467 (11.7%) participants across all included trials. High certainty evidence showed that low fraction of inspired oxygen (FiO\n\n**CONCLUSIONS**: This synthesis establishes an evidence hierarchy for PPC prevention in abdominal surgery. Low FiO\n\n**STUDY REGISTRATION**: PROSPERO CRD42025637449.",
+      "journal": "BMJ",
+      "authors": [
+        "Huang C",
+        "Zhao X",
+        "Geng S",
+        "Sun S",
+        "Mousa NM",
+        "Xia H",
+        "Xu X",
+        "Deng J",
+        "Lu X",
+        "Xu D",
+        "Zhao B",
+        "Lim M",
+        "Li Y",
+        "Tang W",
+        "Chen X",
+        "Smith FG",
+        "Tang C",
+        "Feng X"
+      ],
+      "date": "2026 Apr 09",
+      "doi": "10.1136/bmj-2025-089001",
+      "tier": "filtered",
+      "topics": [
+        "Thoracic"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "pneumothorax",
+          "strength": "weak",
+          "topic": "Thoracic"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41956522/"
+    },
+    {
+      "pmid": "41955820",
+      "title": "Should all displaced femoral neck fractures in young patients have an open reduction?",
+      "abstract": "",
+      "journal": "Injury",
+      "authors": [
+        "Makkar M",
+        "Giordano V",
+        "Buckley R"
+      ],
+      "date": "2026 Apr 05",
+      "doi": "10.1016/j.injury.2026.113200",
+      "tier": "filtered",
+      "topics": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41955820/"
+    },
+    {
+      "pmid": "41955819",
+      "title": "Patient and fracture characteristics associated with six-month patient-reported outcomes following acetabular fracture fixation.",
+      "abstract": "**INTRODUCTION**: Patient-reported outcomes (PROs) after acetabular fracture fixation vary widely, and the influence of demographic, injury, and fracture characteristics on early recovery remains incompletely defined. This study evaluated factors associated with six-month PROs following operative fixation of acetabular fractures. The authors hypothesized that greater injury burden, as measured by Injury Severity Score (ISS), and more complex fracture patterns would be associated with worse six-month PROs.\n\n**METHODS**: Adult patients who underwent operative fixation of acetabular fractures (AO/OTA 62) at a single Level I trauma center (June 2022-October 2024) were retrospectively identified. Patients completing six-month Patient-Reported Outcomes Measurement Information System (PROMIS) domains (Physical Function [PF], Pain Interference [PI], Global Physical Health [GPH], Global Mental Health [GMH], anxiety, depression), Brief Resilience Scale (BRS), and percent of normal function surveys were included. PROs were compared by sex, race, fracture pattern (elementary vs associated), and polytrauma status (ISS > 16). Unadjusted and adjusted analyses were performed controlling for age, sex, race, Letournel classification, concomitant infection, and other orthopaedic injuries.\n\n**RESULTS**: A total of 109 patients completed six-month surveys (mean age 50.6 years; 64.2% male). On unadjusted analysis, female patients reported higher PI (62.5 vs 58.8, p\u00a0=\u00a00.032) and higher depression (58.1 vs 51.7, p\u00a0=\u00a00.009). After adjustment, female sex remained associated with higher PI (p\u00a0=\u00a00.012), worse GPH (p\u00a0=\u00a00.029), higher depression (p\u00a0=\u00a00.032), and lower percent of normal (p\u00a0=\u00a00.037). Nonwhite patients demonstrated worse unadjusted GPH (39.0 vs 43.0, p\u00a0=\u00a00.028), worse GMH (41.5 vs 46.6, p\u00a0=\u00a00.018), higher anxiety (58.9 vs 51.4, p\u00a0=\u00a00.005), and lower BRS (3.2 vs 3.7, p\u00a0=\u00a00.032). After adjustment, nonwhite race remained associated with worse GPH (p\u00a0=\u00a00.014), worse GMH (p\u00a0=\u00a00.029), higher anxiety (p\u00a0=\u00a00.050), higher PI (p\u00a0=\u00a00.039), and lower BRS (p\u00a0=\u00a00.050). No significant differences were observed by polytrauma status or fracture pattern.\n\n**CONCLUSION**: At six months following acetabular fracture fixation, female sex and nonwhite race were associated with worse PROs across multiple domains, while fracture pattern and polytrauma status were not significant after adjustment.",
+      "journal": "Injury",
+      "authors": [
+        "Bhatti HS",
+        "Litten RM",
+        "McConnell MJ",
+        "McIlwain RN",
+        "North DD",
+        "Spitler CA",
+        "Johnson JP"
+      ],
+      "date": "2026 Apr 08",
+      "doi": "10.1016/j.injury.2026.113252",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "polytrauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "injury severity",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41955819/"
+    },
     {
       "pmid": "41954403",
       "title": "Reframing Global Neurosurgery: The Response to Hurricane Melissa in Jamaica as a Model for Action.",
@@ -3139,7 +3459,7 @@
         "Hamed AEM"
       ],
       "date": "2026 Mar 31",
-      "doi": "10.1186/s13017-026-00690-2",
+      "doi": "10.1007/s00464-023-10346-w",
       "tier": "core",
       "topics": [
         "General Trauma"
@@ -3713,7 +4033,7 @@
         "Benoehr P"
       ],
       "date": "2026 Mar 28",
-      "doi": "10.1186/s13049-026-01595-4",
+      "doi": "10.1016/j.echo.2014.05.001",
       "tier": "core",
       "topics": [
         "Imaging",
@@ -3803,7 +4123,7 @@
         "M\u00fchlenfeld N"
       ],
       "date": "2026 Mar 27",
-      "doi": "10.1186/s13049-026-01603-7",
+      "doi": "10.1161/CIRCULATIONAHA.111.067264",
       "tier": "core",
       "topics": [
         "General Trauma",
@@ -6105,7 +6425,7 @@
         "B\u00e4ckstr\u00f6m D"
       ],
       "date": "2026 Mar 24",
-      "doi": "10.1186/s13049-026-01597-2",
+      "doi": "10.1177/1740774515602688",
       "tier": "core",
       "topics": [
         "General Trauma",
@@ -7105,7 +7425,7 @@
     {
       "pmid": "41857661",
       "title": "Prehospital initiation of extracorporeal life support for refractory out-of-hospital cardiac arrest-results of a prospective observational study.",
-      "abstract": "",
+      "abstract": "**BACKGROUND**: Despite advances in cardiopulmonary resuscitation (CPR), survival after out-of-hospital cardiac arrest (OHCA) remains low. Use of veno-arterial extracorporeal membrane oxygenation (VA ECMO) as extracorporeal CPR (ECPR) may improve outcomes in refractory OHCA. We evaluated the effect on hospital discharge rate and neurological function of integrating on-scene ECPR into routine emergency care for refractory OHCA. Besides that we assessed predictors of unfavorable outcomes.\n\n**METHODS**: A prospective observational study was conducted from October 2013 to September 2023 in Regensburg, Germany. A dedicated ECMO team was alerted 24/7 in parallel with standard emergency medical services for suspected OHCA. On-scene VA ECMO was initiated based on predefined inclusion/exclusion criteria. Patients were transported to a university medical center for guideline-based post-resuscitation care. Clinical data, including CPR parameters, initial physiology, and outcomes, were recorded and analyzed.\n\n**RESULTS**: Over ten years, 11,235 alerts resulted in 2,655 (23.6%) on-scene evaluations of OHCA. VA ECMO was initiated in 213 patients with refractory OHCA (8.0% of on-scene CPR evaluations). The median time between beginning of CPR and start of VA ECMO was 45\u00a0min (IQR: 35\u201363). Median ECMO duration was 2 days (IQR 1\u20134). Survival to hospital discharge was 34.7% (74/213), with 89.2% (66/74) achieving a good neurological outcome and an independent daily living. In multivariable analysis restricted to on-scene variables, independently associated with unfavorable outcomes were: bilaterally dilated pupils (OR 5.79 [1.85\u201319.8]; \n\n**CONCLUSIONS**: Prehospital ECPR is feasible and can be integrated into a regional emergency medical system when performed by a highly experienced team. Survival rates in this selected cohort exceeded typical OHCA outcomes, with a high proportion of patients achieving favorable neurological recovery. Early VA ECMO initiation and several on-scene factors are key determinants of prognosis.\n\n**TRIAL REGISTRATION**: German Clinical Trials Register. (DRKS00035400; URL: https://www.drks.de/search/de/trial/DRKS00035400)\n\n**GRAPHICAL ABSTRACT**: [Image: see text]\n\n**SUPPLEMENTARY INFORMATION**: The online version contains supplementary material available at 10.1186/s13054-026-05958-2.",
       "journal": "Crit Care",
       "authors": [
         "Lunz D",
@@ -7122,9 +7442,10 @@
         "M\u00fcller T"
       ],
       "date": "2026 Mar 19",
-      "doi": "10.1186/s13054-026-05958-2",
+      "doi": "10.1016/j.resuscitation.2023.110004",
       "tier": "filtered",
       "topics": [
+        "Cardiac Arrest",
         "Prehospital"
       ],
       "keyword_matches": [
@@ -7132,6 +7453,16 @@
           "keyword": "prehospital",
           "strength": "strong",
           "topic": "Prehospital"
+        },
+        {
+          "keyword": "ECMO",
+          "strength": "weak",
+          "topic": "Cardiac Arrest"
+        },
+        {
+          "keyword": "ECPR",
+          "strength": "weak",
+          "topic": "Cardiac Arrest"
         }
       ],
       "has_strong_match": true,
@@ -8414,7 +8745,7 @@
         "M\u00fcller MP"
       ],
       "date": "2026 Mar 13",
-      "doi": "10.1186/s13049-026-01589-2",
+      "doi": "10.1007/s00291-020-00575-z",
       "tier": "core",
       "topics": [
         "General Trauma"
@@ -8930,232 +9261,6 @@
       "keyword_matches": [],
       "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41818860/"
-    },
-    {
-      "pmid": "41817744",
-      "title": "The future of trauma care in Germany 2030: challenges, opportunities, and strategic directions.",
-      "abstract": "**BACKGROUND**: Trauma care in Germany is a critical component of public healthcare, encompassing preclinical to rehabilitative phases of patient management. Demographic shifts, workforce shortages, and increasing patient complexity challenge the sustainability of trauma care. This study aims to analyze current trauma care structures, forecast future demands, and propose strategies to secure high-quality trauma care in Germany by 2030.\n\n**METHODS**: A mixed-methods approach was employed, combining a quantitative analysis of national hospital and ICD-coded diagnostic data (2010\u20132019) to model infrastructure, analyze patient volumes, and forecast demand to 2030 under different scenarios. This was supplemented with an online survey of 752 trauma surgeons nationwide to assess perceptions of future challenges and professional satisfaction, and a structured expert panel with 23 experts to qualitatively interpret the data and develop strategic recommendations.\n\n**RESULTS**: Survey respondents anticipate a significant rise in age-related trauma cases and a worsening shortage of both medical and non-medical staff. Hospital infrastructure is unevenly distributed, with particular accessibility issues in rural and eastern regions of Germany. Forecasts predict increasing trauma cases in older adults and a reduction in hospital beds, especially in rural areas. The data analysis identified critical areas for intervention including improved training, telemedicine integration, centralized trauma centers, and enhanced image and attractiveness of the trauma surgeon profession.\n\n**CONCLUSIONS**: Ensuring sustainable trauma care in Germany requires structural reforms, sectoral integration, and workforce development. Policy must support case-number independent resource orientated financing, sector-crossing cooperation, and the incorporation of advanced digital technologies. Centralized specialization combined with broad generalist competencies in the field will be essential to meet future demands.",
-      "journal": "Eur J Trauma Emerg Surg",
-      "authors": [
-        "Spering C",
-        "Lemm M",
-        "Finke S",
-        "Wrobel M",
-        "Haering A",
-        "Franke A",
-        "Sprengel K",
-        "Seemann R",
-        "Bieler D"
-      ],
-      "date": "2026 Mar 12",
-      "doi": "10.1007/s00068-026-03102-x",
-      "tier": "core",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41817744/"
-    },
-    {
-      "pmid": "41817735",
-      "title": "Long-term outcomes in physical function and quality of life after traumatic thoracolumbar A3/A4 fractures: a comparison of conservative versus surgical management.",
-      "abstract": "**PURPOSE**: To provide insight into the recovery rates of patient-reported outcome measures (PROMs) in terms of physical functioning and health-related quality of life (QoL) in patients with an A3/A4 thoracolumbar vertebral fracture, compared to the general population. Additionally, differences in outcomes between conservatively and surgically treated patients were assessed.\n\n**METHODS**: A retrospective cohort study with cross-sectional follow-up including patients with thoracolumbar A3/A4 vertebral fractures in a level 1 trauma center between 2010 and 2020. SMFA-NL was used to evaluate physical functioning, and EQ-5D was used to assess QoL. Outcomes were compared with normative data from the Dutch population. Patient-reported outcomes and complication rates were reported for each treatment type. Recovery was defined as reaching the lower limit of the 95% confidence interval of the normative data in all outcome measures.\n\n**RESULTS**: PROMs were available for 98 (37%) of the eligible patients with a median follow-up of 4.5 (IQR\u2009=\u20095.6) years. No significant differences in physical functioning or QoL were found between conservatively and surgically treated patients. The following non-recovery rates were found in the conservatively treated patients: physical functioning\u2009=\u200956\u201374%, QoL\u2009=\u200948% and in the surgically treated patients: physical functioning\u2009=\u200977\u201380%, QoL\u2009=\u200945%. Surgically treated patients showed significantly higher complication rates than conservatively treated patients.\n\n**CONCLUSION**: Thoracolumbar A3 and A4 fractures are associated with long-term reduced physical functioning and quality of life compared with the general population, regardless of treatment strategy. Both surgically and conservatively treated patients showed significantly low recovery rates in comparison with their peers from the general population.",
-      "journal": "Eur J Trauma Emerg Surg",
-      "authors": [
-        "Sienema AS",
-        "Reininga IHF",
-        "Hoekstra J"
-      ],
-      "date": "2026 Mar 12",
-      "doi": "10.1007/s11136-018-2035-9",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "trauma centre",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41817735/"
-    },
-    {
-      "pmid": "41817733",
-      "title": "The pararectus approach in acetabular fracture fixation: evidence of reproducibility and learnability.",
-      "abstract": "**PURPOSE**: The Pararectus approach is an anterior intrapelvic exposure introduced by Keel et al. for the management of anterior acetabular fractures. While its safety and effectiveness have been demonstrated, evidence regarding the learnability of this technically demanding method remains under discussion. This study compares the first fifty consecutive eligible cases treated by the approach's inventor (group A) with the first fifty independent cases performed by a surgeon without prior acetabular subspecialization (group B).\n\n**METHODS**: Consecutive patients representing the first 50 Pararectus cases for displaced acetabular fractures in group A (2009-2013) and group B (2017-2021) were included. Baseline demographics were comparable except for age (64 vs. 73 years, p\u2009=\u20090.001) and trauma mechanism (high-energy trauma more frequent in group A, 46% vs. 12%; p\u2009<\u20090.001). Group A was treated using manually contoured reconstruction and buttress plates, whereas group B was managed with a standardized traction-table setup and a precontoured suprapectineal plate system (p\u2009<\u20090.001). Operative time, intraoperative blood loss, intra- and postoperative complications, CT-based reduction quality, reoperations\u2009\u2264\u200930 days, and conversion to total hip arthroplasty (THA)\u2009\u2264\u200924 months were analyzed.\n\n**RESULTS**: The analyzed outcomes demonstrated comparable operative parameters between both groups: (i) Operative time averaged 172\u00a0min (range 50-339) in group A and 165\u00a0min (90-266) in group B (p\u2009=\u20090.19), (ii) intraoperative blood loss was 1000\u00a0ml (250-6000) in group A and 900\u00a0ml (200-4500) in group B (p\u2009=\u20090.09), (iii) intraoperative complications occurred in 5/50 (10%) in group A compared with 3/50 (6%) in group B (p\u2009=\u20090.71), (iv) CT-based reduction quality was anatomical in 36/50 (72%) in group A and 31/50 (62%) in group B, imperfect in 14/50 (28%) vs. 16/50 (32%), and poor in 0/50 (0%) vs. 3/50 (6%) (overall p\u2009=\u20090.17), (v) postoperative complications occurred in 7/50 (14%) in group A and 5/50 (10%) in group B (p\u2009=\u20090.75), (vi) of these, reoperations\u2009\u2264\u200930 days were required in 7/50 (14%) in group A and 1/50 (2%) in group B (p\u2009=\u20090.066), (vii) conversion to THA\u2009\u2264\u200924 months was required in 5/50 (10%) in group A and 2/50 (6%) in group B (p\u2009=\u20090.70), with a mean time to THA of 13.8 months vs. 5.8 months (p\u2009=\u20090.22).\n\n**CONCLUSION**: Operative parameters, reduction quality, postoperative complications, and conversion to THA\u2009\u2264\u200924 months were comparable between the two surgeons. These findings indicate that, within a standardized workflow and instrumentation, the Pararectus approach can be applied safely and reproducibly even during the early phase of independent practice.",
-      "journal": "Eur J Trauma Emerg Surg",
-      "authors": [
-        "Schaefer RO",
-        "Ivanova S",
-        "Leibold CS",
-        "Egli RJ",
-        "Bonel H",
-        "Keel MJB",
-        "Bastian JD"
-      ],
-      "date": "2026 Mar 12",
-      "doi": "10.1016/j.tcr.2025.101248",
-      "tier": "core",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41817733/"
-    },
-    {
-      "pmid": "41817701",
-      "title": "Is there a difference in plate positioning for clavicle shaft fractures? A retrospective cohort study of 355 cases.",
-      "abstract": "",
-      "journal": "Eur J Trauma Emerg Surg",
-      "authors": [
-        "Hinkelmann MA",
-        "Schibler D",
-        "Frei F",
-        "Allemann F",
-        "Pape HC",
-        "Barthel C"
-      ],
-      "date": "2026 Mar 12",
-      "doi": "10.1016/j.jse.2018.09.018",
-      "tier": "core",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41817701/"
-    },
-    {
-      "pmid": "41814357",
-      "title": "Extracorporeal cardiopulmonary resuscitation in a large tertiary center in the Czech Republic: three years' experience and future directions.",
-      "abstract": "**BACKGROUND**: Extracorporeal resuscitation (ECPR) has been shown to improve outcomes in out-of-hospital cardiac arrest (OHCA). It is, however, not the standard of care. The establishment of new ECPR centers is challenging, even though valuable lessons can be learned from more experienced centers. The primary objective of this study was to assess survival rates and neurological outcomes after ECPR. The secondary objective is to evaluate peri-ECPR parameters in relation to neurological outcomes, and to describe the long-term quality of life six months after ECPR.\n\n**METHODS**: This monocentric study involves patients with refractory OHCA transported to the hospital with ongoing mechanical cardiopulmonary resuscitation (CPR) for ECPR implementation at the extracorporeal membrane oxygenation (ECMO) Center of the University Hospital Ostrava, Czech Republic, from 1 January 2022 until the end of 2024. Outcome was assessed through analysis of data from the Ostrava ECMO Centre registry and long-term outcomes were evaluated using the SF36, EQ-5D-5L, and HADS questionnaires as retrospective study. The indication criteria and care standards were followed according to a local protocol.\n\n**RESULTS**: Over three years, 74 patients met the inclusion criteria for ECPR, with a cannulation success rate exceeding 93%. The median collapse-to-ECMO interval was 75\u00a0min. The survival to discharge from the intensive care unit was 39.1%, with 27.5% of patients discharged home and 33.3% survival after 6\u00a0months. Good neurologic outcome (cerebral performance category, CPC 1-2) on Day 30 post-arrest was observed in 29%. Overall, patients reported only low levels of pain, anxiety, and depression at 6\u00a0months post-arrest. The majority were completely self-sufficient, experiencing only minor problems with mobility or usual activities, with a median Quality-Adjusted Life Year/year of 0.90.\n\n**CONCLUSION**: The outcomes of the ECPR program in Ostrava are comparable with long-standing ECPR centers. Considering the interval collapse to ECMO was 75\u00a0min, the results were favorable, with good overall quality of life.",
-      "journal": "Scand J Trauma Resusc Emerg Med",
-      "authors": [
-        "Bur\u0161a F",
-        "Frelich M",
-        "Sklienka P",
-        "Bebej M",
-        "Rodina J",
-        "Walachov\u00e1 N",
-        "Varady J",
-        "Neiser J",
-        "Swaczyna R",
-        "Ku\u010derov\u00e1 Z",
-        "K\u00e1\u0148ov\u00e1 M",
-        "Hole\u0161 D",
-        "Li\u0161kov\u00e1 M",
-        "Burda M",
-        "Porzer M",
-        "M\u00e1ca J"
-      ],
-      "date": "2026 Mar 12",
-      "doi": "10.1186/s13049-026-01592-7",
-      "tier": "core",
-      "topics": [
-        "Cardiac Arrest"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "ECMO",
-          "strength": "weak",
-          "topic": "Cardiac Arrest"
-        },
-        {
-          "keyword": "ECPR",
-          "strength": "weak",
-          "topic": "Cardiac Arrest"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41814357/"
-    },
-    {
-      "pmid": "41814336",
-      "title": "Major haemorrhage and blood product utilisation in patients receiving VA ECMO for cardiogenic shock: a multicentre observational study (OBLEX).",
-      "abstract": "",
-      "journal": "Crit Care",
-      "authors": [
-        "Buscher H",
-        "Thao LTP",
-        "Martucci G",
-        "Gratz J",
-        "Trummer G",
-        "Schmidt M",
-        "Gautier M",
-        "Serra A",
-        "Takeda K",
-        "Pooth JS",
-        "Rahn K",
-        "Geismann F",
-        "Lubnow M",
-        "Retter A",
-        "Nair P",
-        "Vlok R",
-        "Siriwardena M",
-        "Winearls J",
-        "Walsham J",
-        "Gattas D",
-        "Aneman A",
-        "Fulcher B",
-        "Newman S",
-        "Reynolds C",
-        "Arcadipane A",
-        "Shekar K",
-        "McQuilten Z",
-        "Hodgson C",
-        "Pellegrino V",
-        "Mueller T",
-        "Brodie D"
-      ],
-      "date": "2026 Mar 11",
-      "doi": "10.1186/s13054-026-05900-6",
-      "tier": "filtered",
-      "topics": [
-        "Cardiac Arrest",
-        "Haemorrhage"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "blood product",
-          "strength": "strong",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "ECMO",
-          "strength": "strong",
-          "topic": "Cardiac Arrest"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41814336/"
     }
   ]
 }
