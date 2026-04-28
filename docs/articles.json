@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-27T20:53:48.303977Z",
-  "total_articles": 255,
+  "generated": "2026-04-28T21:00:26.800237Z",
+  "total_articles": 248,
   "all_topics": [
     "Abdominal",
     "Burns",
@@ -379,6 +379,48 @@
   },
   "articles": [
     {
+      "pmid": "42045940",
+      "title": "Impact of transportation methods on pediatric and adolescent severely injured vehicle occupants.",
+      "abstract": "**BACKGROUND**: Road traffic collisions (RTCs) are the leading cause of death globally. Reducing the transportation time to definitive care and training bystanders in trauma management may impact clinical outcome. We aimed to study the impact of transportation methods on pediatric and adolescent severely injured vehicle occupants in Abu Dhabi Emirate, United Arab Emirates.\n\n**METHODS**: The Abu Dhabi Trauma Registry prospectively collects data of all hospitalized trauma patients from seven major trauma centers in Abu Dhabi Emirate. We have studied all severely injured (ISS\u2009\u2265\u200912) road traffic collision patients, who were less than 19 years old (January 2014 to December 2023). Demography and clinical outcome of those transported by ambulance (n\u2009=\u2009466) were compared with those transported by private vehicles (n\u2009=\u200947).\n\n**RESULTS**: Univariate analysis showed that patients who were transferred by private vehicles were significantly younger, (median (IQR range) age: 12 (6-15) years compared with 15.5 (12-17) years, p\u2009<\u20090.001), stayed significantly longer in the Emergency Department (median (IQR range) 275 (186-333) minutes compared with 214 (135-299) minutes, p\u2009=\u20090.01), were admitted significantly less to the ICU (31.9% compared with 51.9%, p\u2009=\u20090.009); and had significantly less hospital stay (median (IQR range) 3.5 (1-8) days compared with 7 (3-14) days, p\u2009=\u20090.003). There was no significant difference in mortality between the two groups (2.1% compared with 6.7%, p\u2009=\u20090.34). Logistic regression showed that mode of arrival did not significantly affect ICU admission (p\u2009=\u20090.26). The most significant factors that affected ICU admission were GCS, p\u2009<\u20090.001, OR 0.66 (95% CI 0.57-0.77) and ISS, p\u2009<\u20090.001, OR 1.12 (95% CI 1.08-1.16). A general linear model showed that GCS (p\u2009=\u20090.022) and RTS (p\u2009=\u20090.006) significantly affected length of hospital stay while mode of arrival did not (p\u2009=\u20090.38).\n\n**CONCLUSIONS**: Private vehicles appear to be safe for the transportation of selected major trauma children and adolescents with no adverse effects on ICU admission, hospital stay, or mortality. The role of bystanders in prehospital management and transportation of RTC victims should be further investigated.",
+      "journal": "World J Emerg Surg",
+      "authors": [
+        "Abu-Zidan FM",
+        "Alao DO"
+      ],
+      "date": "2026 Apr 27",
+      "doi": "10.1186/s13017-026-00699-7",
+      "tier": "core",
+      "topics": [
+        "General Trauma",
+        "Prehospital",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "major trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "prehospital",
+          "strength": "weak",
+          "topic": "Prehospital"
+        },
+        {
+          "keyword": "trauma registry",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42045940/"
+    },
+    {
       "pmid": "42043555",
       "title": "Non-invasive intracranial pressure estimation in the intensive care unit: narrative review of methods and clinical applications.",
       "abstract": "Despite invasive methods are the gold standard for intracranial pressure (ICP) measurement, several non-invasive techniques (nICP) have been proposed as surrogate, although their use remains insufficiently recognized in clinical practice. These include transcranial Doppler blood flow velocity \u00a0assessment (arterial or venous), optic nerve sheath diameter (ONSD), automated pupillometry, measurement of skull expansion and compliance, brain imaging, double-depth ophthalmic artery blood flow velocity, and ultrasound time-of-flight. The main limitations of all indirect methods are calibration and zeroing, which constrain the absolute accuracy of non-invasive ICP monitoring. For transcranial Doppler-based methods, the 95% limits of agreement are approximately\u2009\u00b1\u20097-15\u00a0mmHg, while for ONSD-based techniques they range from\u2009\u00b1\u20097-10\u00a0mmHg. Improved predictive accuracy may be achieved by combining different modalities and applying advanced signal analysis techniques. Importantly, in patients with acute brain injury, nICP can complement invasive monitoring by guiding patient selection for urgent monitoring, facilitating brain assessment in moderate traumatic brain injury, and assisting management in patients with coagulopathy. In the general intensive care population, nICP may provide valuable information after cardiac arrest, liver failure, and sepsis. In the emergency department, early detection of intracranial hypertension helps prevent missing the \"golden hour\" of brain care. Finally, nICP is particularly relevant in low-resource settings, where intensive care facilities are limited.",
@@ -575,7 +617,7 @@
         "Melgaard D"
       ],
       "date": "2026 Apr 1",
-      "doi": "10.1111/acem.70306",
+      "doi": "10.1055/s-0044-1782709",
       "tier": "filtered",
       "topics": [
         "General Trauma",
@@ -837,7 +879,7 @@
         "Kirkpatrick AW"
       ],
       "date": "2026 Apr 24",
-      "doi": "10.1186/s13017-026-00697-9",
+      "doi": "10.1001/archsurg.139.12.1297",
       "tier": "core",
       "topics": [
         "Procedures"
@@ -9814,324 +9856,6 @@
       ],
       "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41913308/"
-    },
-    {
-      "pmid": "41911230",
-      "title": "Law Enforcement Officer Placed Tourniquets, An Important Tool with Opportunities to Improve - A Multi-center, Multicity Study.",
-      "abstract": "**OBJECTIVES**: A previous single center study suggested that both law enforcement officers (LEO) and emergency medical services (EMS) clinicians over-utilize tourniquets (TQs), which has the potential to result in over triage and even harm patients. The aim of this study was to assess the differences in utilization of TQs by LEO versus EMS in a multi-center, multicity review to see if the findings of the previous study are generalizable to the LEO and EMS communities at-large.\n\n**METHODS**: This was an 11-year retrospective, multi-center study of adult patients who had a prehospital TQ placed by LEO or EMS. Data were stratified by responder type. Patient demographics, extremity location where the TQ was placed, location where the TQ was removed, incidence of recurrent bleeding, need for operative control of bleeding, and name of injured vessel were recorded. Data were analyzed using Student's t and \u03c7\n\n**RESULTS**: In total, 956 patients had TQs placed (LEO, 333 (35%); EMS, 623 (65%)). Most were placed on the thigh. There was no difference in body mass index, but the EMS cohort had a higher Injury Severity Score (9.5 vs. 7.3, p < 0.0001) and extremity Abbreviated Injury Scale severity score (2.0 vs. 1.8, p\u2009=\u20090.002). LEO-placed TQs were less likely to involve a major (named) vessel injury (27% vs. 35%, p\u2009=\u20090.02). There were no patient complications clearly attributable to TQ use.\n\n**CONCLUSIONS**: The LEO-applied TQs were less likely have a major vascular injury, and removal was less likely associated with recurrent bleeding compared to TQs applied by EMS. Protocols that allow for TQ conversion by EMS may decrease over-triage and trauma resource utilization.",
-      "journal": "Prehosp Emerg Care",
-      "authors": [
-        "Shukla D",
-        "Buzzetta A",
-        "Lehmann A",
-        "Matecki M",
-        "Zwemer C",
-        "Edwards K",
-        "Leichtle S",
-        "Shapiro G",
-        "Smith ER",
-        "Varga S",
-        "Teicher E",
-        "Ferrada P",
-        "Vercruysse M",
-        "Retz W",
-        "Faustin V",
-        "Bedrin N",
-        "Dellonte K",
-        "Gestring M",
-        "Sarani B",
-        "Dailey MW"
-      ],
-      "date": "2026 Mar 30",
-      "doi": "10.1080/10903127.2026.2646950",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Prehospital",
-        "Systems/QI",
-        "Vascular"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "injury severity",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "vascular injury",
-          "strength": "weak",
-          "topic": "Vascular"
-        },
-        {
-          "keyword": "prehospital",
-          "strength": "weak",
-          "topic": "Prehospital"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41911230/"
-    },
-    {
-      "pmid": "41910345",
-      "title": "Ultrasound-Facilitated, Catheter-Directed Fibrinolysis for Acute Pulmonary Embolism.",
-      "abstract": "**BACKGROUND**: Whether anticoagulation alone is an adequate treatment for acute, intermediate-risk pulmonary embolism is uncertain.\n\n**METHODS**: We conducted a multinational, adaptive-design trial with blinded outcome adjudication. Patients with intermediate-risk pulmonary embolism (with a ratio of right ventricular end-diastolic diameter to left ventricular end-diastolic diameter of \u22651.0 and an elevated troponin level) were eligible if they had at least two indicators of cardiorespiratory distress (systolic blood pressure of \u2264110 mm Hg, a heart rate of \u2265100 beats per minute, or a respiratory rate of >20 breaths per minute). Patients were randomly assigned to undergo ultrasound-facilitated, catheter-directed fibrinolysis with alteplase plus anticoagulation (the intervention group) or anticoagulation alone (the control group) according to prespecified treatment protocols. The primary outcome was a composite of pulmonary embolism-related death, cardiorespiratory decompensation or collapse, or symptomatic recurrence of pulmonary embolism within 7 days.\n\n**RESULTS**: The intention-to-treat population comprised 544 patients: 273 in the intervention group and 271 in the control group. The mean (\u00b1SD) age was 58.2\u00b113.5 years, and 42.6% of the patients were women. A primary-outcome event occurred in 11 patients (4.0%; 95% confidence interval [CI], 2.3 to 7.1) in the intervention group and 28 (10.3%; 95% CI, 7.2 to 14.5) in the control group (relative risk, 0.39; 95% CI, 0.20 to 0.77; P\u2009=\u20090.005). The effect was driven primarily by a lower risk of cardiorespiratory decompensation or collapse in the intervention group. Major bleeding occurred within 7 days after randomization in 11 patients (4.1%) in the intervention group and 6 (2.2%) in the control group (P\u2009=\u20090.32); major bleeding occurred within 30 days in 11 patients (4.1%) and 8 patients (3.0%), respectively (P\u2009=\u20090.64). No substantial between-group differences in the incidence of other serious adverse events were observed up to 30 days after randomization; no intracranial hemorrhage occurred.\n\n**CONCLUSIONS**: In patients with acute, intermediate-risk pulmonary embolism, ultrasound-facilitated, catheter-directed fibrinolysis plus anticoagulation led to a lower risk of the composite of pulmonary embolism-related death, cardiopulmonary decompensation or collapse, or symptomatic recurrence of pulmonary embolism within 7 days than anticoagulation alone. (Funded by Boston Scientific; HI-PEITHO ClinicalTrials.gov number, NCT04790370.).",
-      "journal": "N Engl J Med",
-      "authors": [
-        "Rosenfield K",
-        "Klok FA",
-        "Piazza G",
-        "Sharp ASP",
-        "N\u00ed \u00c1inle F",
-        "Jaff MR",
-        "Barco S",
-        "Goldhaber SZ",
-        "Kucher N",
-        "Lang IM",
-        "Schmidtmann I",
-        "Sterling KM",
-        "Araszkiewicz A",
-        "Arora V",
-        "Cires-Drouet R",
-        "Coghlan J",
-        "Hobohm L",
-        "Ito WD",
-        "Jacobson K",
-        "Kaiser C",
-        "Kopec G",
-        "Marx K",
-        "McElwee S",
-        "Meneveau N",
-        "Monteleone P",
-        "Montero-Cabezas JM",
-        "Olivier CB",
-        "Park J",
-        "Roik M",
-        "Sakhuja R",
-        "Tego A",
-        "Theurl M",
-        "Visveswaran G",
-        "Vos JA",
-        "Young MN",
-        "Asch FM",
-        "Konstantinides SV"
-      ],
-      "date": "2026 Mar 28",
-      "doi": "10.1056/NEJMoa2516567",
-      "tier": "filtered",
-      "topics": [
-        "TBI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "intracranial haemorrhage",
-          "strength": "weak",
-          "topic": "TBI"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41910345/"
-    },
-    {
-      "pmid": "41905245",
-      "title": "Validation and implementation of the FLHASc score for risk stratification of patients with hemoptysis in the emergency department.",
-      "abstract": "**BACKGROUND**: Hemoptysis is a potentially life-threatening symptom that often prompts emergency department (ED) evaluation and hospitalization. Reliable prognostic tools to guide clinical decision-making and optimize resource use are currently lacking.\n\n**OBJECTIVE**: To prospectively validate the Florence Hemoptysis Assessment Score (FLHASc) in patients presenting with hemoptysis to the ED, and to eventually derive and validate an improved version of the score (FLHASc2).\n\n**METHODS**: We analyzed data from the POPEIHE study (NCT06067997), a multicenter prospective cohort of 546 consecutive adult patients presenting with hemoptysis to 9 Italian EDs. The primary outcome was a composite of in-hospital death, need for ventilatory support, intensive care unit (ICU) admission, blood transfusion, or invasive hemostatic procedures. We evaluated the prognostic performance of the original FLHASc, then derived a new model (FLHASc2) using multivariate logistic regression in a randomly selected derivation cohort (n\u00a0=\u00a0321) and validated it in the remaining cohort (n\u00a0=\u00a0225). A simplified version of the score was also tested.\n\n**RESULTS**: The original FLHASc demonstrated moderate discriminatory ability (AUC 0.71; 95% CI: 0.65-0.76) and suboptimal calibration. The FLHASc2 showed improved performance (AUC 0.79, 95% CI: 0.73-0.87 in derivation and 0.81, 95% CI: 0.73-0.88, in validation cohorts; Brier score\u00a0<\u00a00.10 in both). The simplified FLHASc2 (sFLHASc2), assigning one point per variable, maintained comparable accuracy (AUC 0.80, 95% CI: 0.72-0.87) and identified 47.8% of patients as low risk (2.7% event rate). When combined with a negative chest X-ray, the observed event rate in this subgroup dropped to 0.87%, with a negative predictive value of 99.1% (CI 95%, 96.5-100%).\n\n**CONCLUSIONS**: The FLHASc2 and its simplified version are accurate prognostic tools for identifying hemoptysis patients at low risk of short-term adverse outcomes. Use of the sFLHASc2 combined with chest X-ray may allow safe ED discharge in nearly half of cases. A prospective management trial is warranted to confirm its clinical impact.\n\n**TRIAL REGISTRATION NUMBER**: NCT06067997.",
-      "journal": "Am J Emerg Med",
-      "authors": [
-        "Pelagatti L",
-        "Bartalucci P",
-        "Fabiani G",
-        "Giannasi G",
-        "Ruggiano G",
-        "De Curtis E",
-        "di Maria V",
-        "Coppa A",
-        "Pepe G",
-        "Magazzini S",
-        "Voza A",
-        "Morello F",
-        "Nazerian P",
-        "Vanni S"
-      ],
-      "date": "2026 Jun 1",
-      "doi": "10.1016/j.ajem.2026.03.020",
-      "tier": "filtered",
-      "topics": [
-        "Haemorrhage"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "blood transfusion",
-          "strength": "weak",
-          "topic": "Haemorrhage"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41905245/"
-    },
-    {
-      "pmid": "41905180",
-      "title": "Biomechanical analysis of protective plating configurations for interimplant femoral fracture prevention.",
-      "abstract": "**INTRODUCTION**: Interimplant femoral fractures (IFFs), occurring between or adjacent to implants such as hip prostheses and intramedullary nails, pose complex treatment challenges, particularly in osteoporotic patients. Biomechanical research highlights the need to protect the interimplant region from high strains, however, optimal configurations for plate fixation remain unclear. This study analyzes strains in the interimplant region under various protective plate configurations.\n\n**MATERIALS AND METHODS**: Twelve synthetic proximal femora, mimicking osteoporotic bone, were instrumented with a proximal femoral nail (PFN) and a distal femoral nail (DFN) creating a 40\u00a0mm interimplant gap. Four implant configurations were tested: no protective plating (Stage 1), screws placed inside the innermost nail interlocking screws (no overlapping, Stage 2), screws placed outside and close to the innermost nail interlocking screws (short overlapping, Stage 3), and screws placed outside and far from the innermost nail interlocking screws (long overlapping, Stage 4). A non-destructive axial compressive load (200\u00a0N) was applied, and bone surface strains were measured beneath the plate using digital image correlation.\n\n**RESULTS**: Stage 1 (no protective plating) exhibited significantly higher maximum strains versus Stages 2-4 (p\u00a0\u2264\u00a00.015). Stage 2 (no overlapping) showed maximum strains being significantly higher compared to both short and long overlapping (p\u00a0\u2264\u00a00.007), without further significant difference between the latter two (p\u00a0>\u00a00.999). Similar trends were observed for strains at point-specific locations defined intermittently between the innermost nail interlocking screws. The highest point-specific strains were located in the middle of the interimplant region.\n\n**CONCLUSION**: From a biomechanical perspective, the application of a protective plate fixation of the interimplant region significantly reduces strains, with long and short overlapping providing optimal mechanical protection. Adequate protection with plates should be prioritized to mitigate the risk of interimplant fractures.",
-      "journal": "Injury",
-      "authors": [
-        "Llano L",
-        "Ziegler P",
-        "Mischler D",
-        "Baumann P",
-        "Zderic I",
-        "Varga P",
-        "Richards RG",
-        "Gueorguiev B",
-        "H\u00f6ntzsch D",
-        "Stoffel K"
-      ],
-      "date": "2026 Mar 24",
-      "doi": "10.1016/j.injury.2026.113180",
-      "tier": "filtered",
-      "topics": [
-        "Orthopaedic"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "femoral fracture",
-          "strength": "strong",
-          "topic": "Orthopaedic"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41905180/"
-    },
-    {
-      "pmid": "41905179",
-      "title": "Trends in nature and magnitude of industry payments to residency program directors and department chairman in orthopaedic surgery.",
-      "abstract": "**BACKGROUND**: The Physician Payments Sunshine Act was proposed in 2007 and adopted as a part of the Affordable Care Act in 2010 to address the ongoing concerns regarding the monetary relationships between physicians and the medical industry. We aim to identify the prevalence of industry payments to orthopaedic surgery Residency Program Directors (PDs) and Department Chairs. We further aim to quantify the subspecialty among PDs and chairs receiving the largest payments. Additionally, we aim to quantify the categories for which PDs and chairs received the most funding.\n\n**METHODS**: The Centers for Medicare & Medicaid Services Open Payments Database was queried to identify all payments made to orthopaedic surgery residency program directors and residency department chairman from the years 2017-2023 to determine the trends in payments by program. PDs and chairs of orthopaedic residency programs were identified using the Fellowship and Residency Electronic Interactive Database provided by the American Medical Association.\n\n**RESULTS**: A total of 209 PDs and 169 chairs were included in the study of 209 orthopaedic surgery residency programs. There were 41,465 payments totaling $126.3 million over the study period. The majority (95%) of PDs and chairs received industry funding. Smith & Nephew Inc. (26%) and Stryker Co. (21.6%) highly supported residency program directors and residency department chairman. Males (91.1%) and Doctor of Medicine degree holders (MD) (88.9%) received the most industry funding. The majority of payments were for Food and Beverage for PDs (60.7%) and chairs (47.5%).\n\n**CONCLUSIONS**: From 2017 to 2023, the vast majority of orthopaedic surgery residency program directors and department chairs received industry funding. Trauma-trained PDs and Total Joints-trained chairs received the highest average payments, while Trauma subspecialists received the greatest total funding overall. Most payments were under $1000 and primarily for Food & Beverage. Industry support was predominantly from Smith & Nephew Inc. and Stryker Co. Funding was disproportionately directed toward male orthopaedic surgeons and those with MD degrees.",
-      "journal": "Injury",
-      "authors": [
-        "Michelberger M",
-        "Ahmad S",
-        "Levine D",
-        "Harris C",
-        "Fang CJ",
-        "Nelson K"
-      ],
-      "date": "2026 Mar 25",
-      "doi": "10.1016/j.injury.2026.113192",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41905179/"
-    },
-    {
-      "pmid": "41905178",
-      "title": "Household head injuries in infants presenting to a tertiary pediatric emergency: A retrospective study.",
-      "abstract": "**PURPOSE**: Household head injuries in infants are a significant concern due to their high incidence and potential for serious morbidities. Therefore, understanding the patterns, mechanisms, and outcomes of these injuries is crucial for prevention and management. This study aimed to measure domestic head trauma frequency, study the demographic features, and measure outcomes in pediatric patients aged <\u00a02 years at King Fahad Medical City in Riyadh, Saudi Arabia.\n\n**PROCEDURES**: This retrospective observational cohort study included all children aged <\u00a02 years who presented with domestic head trauma at King Fahad Medical City, Riyadh, Saudi Arabia, between June 2018 and June 2022. Associations between age, injury mechanisms, and outcomes were analyzed using descriptive statistics and chi-square tests.\n\n**FINDINGS**: The study included 133 patients (45.1\u00a0% were infants) who presented to the pediatric emergency department with head trauma. Head injuries were due to household falls (42.1\u00a0%), falls with a caregiver (8.3\u00a0%), and falls from baby walkers (8.3\u00a0%). Only 22.6\u00a0% of injured children underwent computed tomography. Of all injured children, 3\u00a0% had complications. A significant relationship was observed between age (months) and cause of head injury and management outcomes among the study participants.\n\n**IMPORTANCE**: Household falls were the most common cause of head injuries in infants and children aged <\u00a02 years. Imaging plays a vital role in assessing head trauma severity. Given the difficulties in assessing head injury severity and the delay in presentation, a diagnostician must be aware of the basic diagnostic methods used in determining brain injury severity.\n\n**LEVEL OF EVIDENCE**: LEVEL IV: Type of Study: Retrospective observational cohort study.",
-      "journal": "Injury",
-      "authors": [
-        "Almasoud M",
-        "Alabdulkarim B",
-        "Almutairi M",
-        "Alrayya S",
-        "Alotaibi O",
-        "Alotaibi S",
-        "Azizialrahman A"
-      ],
-      "date": "2026 Mar 20",
-      "doi": "10.1016/j.injury.2026.113188",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Systems/QI",
-        "TBI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "injury severity",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "head injury",
-          "strength": "strong",
-          "topic": "TBI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41905178/"
-    },
-    {
-      "pmid": "41905177",
-      "title": "Forecasting complications: The role of inflammatory indices in acute peripheral vascular pathologies.",
-      "abstract": "**AIM**: This study aimed to evaluate the association of hematological and biochemical markers with the development of complications and mortality in patients undergoing surgical treatment for acute peripheral arterial thromboembolism or traumatic vascular injury. In addition to classic inflammatory indicators, the prognostic value of derived parameters such as the Inflammatory Burden Index (IBI) and Systemic Immune-Inflammation Index (SII), which have recently gained prominence in the literature and whose clinical applicability is debated, was analyzed.\n\n**METHOD**: A retrospective evaluation was conducted on 86 patients who underwent surgical treatment between 2022 and 2025 (thromboembolism: n\u00a0=\u00a027, trauma: n\u00a0=\u00a059). Patients were subgrouped based on clinical outcomes such as complications, mortality, amputation, and revision. The relationship between these clinical outcomes and inflammatory markers derived from hemogram parameters, including neutrophil-to-lymphocyte ratio (NLR), CRP, IBI, SII, and initial lactate levels, was statistically analyzed. Each group was evaluated internally, and no comparisons were made between groups.\n\n**RESULTS**: In the thromboembolism group, IBI, SII, NLR, and lactate levels were significantly higher in patients who developed mortality (p\u00a0<\u00a00.05). IBI >\u00a0100, SII >\u00a01500, and NLR >\u00a05, along with lactate >\u00a03.5\u00a0mmol/L, were significantly associated with an increased risk of mortality, complications, and amputation, respectively. In the trauma group, IBI, SII, NLR, and lactate levels were significantly higher in patients who developed both mortality and complications (p\u00a0<\u00a00.05). IBI >\u00a050, SII >\u00a01200, and the combination of NLR >\u00a04\u00a0+\u00a0SII >\u00a01200 were associated with an increased risk of amputation, mortality, and revision, respectively.\n\n**CONCLUSION**: IBI, SII, NLR, and lactate levels show a significant association with complications and mortality in thromboembolic and traumatic vascular events. High values of IBI and SII, in particular, emerge as important biomarkers for clinical prognosis. Early evaluation of these parameters may assist in risk stratification and the prediction of potential adverse outcomes.",
-      "journal": "Injury",
-      "authors": [
-        "Akba\u015f A",
-        "Cebe T",
-        "Karako\u00e7 KG",
-        "Y\u0131ld\u0131z B"
-      ],
-      "date": "2026 Mar 24",
-      "doi": "10.1016/j.injury.2026.113167",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Vascular"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "vascular injury",
-          "strength": "weak",
-          "topic": "Vascular"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41905177/"
-    },
-    {
-      "pmid": "41905176",
-      "title": "Disparities in incidence and severity of electric scooter injuries in children.",
-      "abstract": "**INTRODUCTION**: Pediatric electric scooter injuries are increasing alongside expanding availability. Although national data across all ages suggest racial and ethnic disparities, pediatric-specific analyses are limited. We aimed to quantify the burden of e-scooter injuries among pediatric patients, describe trends by age, sex, race/ethnicity, and injury characteristics, and assess disparities in incidence and severity.\n\n**MATERIALS AND METHODS**: We conducted a retrospective cross-sectional study using 2020-2024 data from the National Electronic Injury Surveillance System, a nationally representative sample of U.S. emergency departments. We included patients <\u00a018 years with e-scooter injuries. Injury characteristics were summarized by age, sex, and race/ethnicity. Chi-square tests compared injury patterns, and survey-weighted logistic regression evaluated associations between race/ethnicity and hospitalization or death (severity proxy), adjusting for age and sex.\n\n**RESULTS**: From 2020-2024, there were 2117 pediatric e-scooter injuries, with incidence increasing annually; 42.2% occurred in 2024. Males accounted for 70.1% of injuries, and children aged 11-14 years represented the largest age group (38.3%). Most injuries involved the musculoskeletal system (40.4% fractures, dislocations, strains, or sprains) or soft tissues (36.7%). The weighted hospitalization rate was 7.7%, and 0.3% of cases resulted in death. Black (16.0%) and Hispanic (15.7%) children accounted for a greater proportion of e-scooter injuries compared with their representation among all pediatric injuries. In adjusted analyses, race and ethnicity were not significantly associated with hospitalization (Black vs White: aOR 0.92, 95% CI 0.54-1.56; Non-Hispanic vs Hispanic: aOR 0.63, 95% CI 0.30-1.31).\n\n**CONCLUSIONS**: The incidence of electric scooter injuries is increasing, with younger adolescent males most often impacted. Black and Hispanic children account for a disproportionate share of pediatric e-scooter injuries, although adjusted analyses did not demonstrate significant racial or ethnic differences in hospitalization. Targeted prevention strategies combining educational, legislative, and environmental measures will be essential to curb rising incidence and address disparities.",
-      "journal": "Injury",
-      "authors": [
-        "Howard MB",
-        "Prichett L",
-        "Cohen JS"
-      ],
-      "date": "2026 Mar 26",
-      "doi": "10.1016/j.injury.2026.113175",
-      "tier": "filtered",
-      "topics": [],
-      "keyword_matches": [],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41905176/"
     }
   ]
 }
