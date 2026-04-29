@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-28T21:00:26.800237Z",
-  "total_articles": 248,
+  "generated": "2026-04-29T20:53:55.038995Z",
+  "total_articles": 255,
   "all_topics": [
     "Abdominal",
     "Burns",
@@ -379,6 +379,446 @@
   },
   "articles": [
     {
+      "pmid": "42053154",
+      "title": "E-bikes and E-scooters are not bicycles or motorcycles: The case for a dedicated trauma registry mechanism.",
+      "abstract": "**BACKGROUND**: Powered micromobility devices (PMDs), including electric scooters (e-scooters) and electric bicycles (e-bikes), can operate at speeds approaching those of low-speed motorcycles. Yet PMDs are treated as low-energy mechanisms in trauma surveillance systems and are not classified as distinct mechanisms of injury. Although prior studies report higher head injury rates in PMD crashes than bicycle crashes, injury severity and health care utilization relative to motorcycle crashes are not known. We hypothesized that e-scooter and e-bike crashes demonstrate distinct injury and resource utilization patterns compared with motorcycles and bicycles.\n\n**METHODS**: We performed a retrospective cohort study using the 2023 Florida Agency for Health Care Administration emergency department and inpatient databases. Encounters for motorcycle, bicycle, e-scooter, or e-bike crashes were identified. Patients meeting National Trauma Data Standard criteria were classified as trauma registry-eligible. Multivariable regression evaluated associations between mechanism and severe head and facial injury.\n\n**RESULTS**: Of 50,889 encounters, 10,522 (20.7%) were trauma registry-eligible. Median ISS was highest for motorcyclists [10 (interquartile range: 4-22)], followed by bicyclists [9 (1-14)], e-bike [8 (2-17)], and e-scooter riders [6 (1-15)] (p<0.001). On adjusted analyses, e-scooter and e-bike crashes had no significant differences in adjusted odds ratios (aORs) of severe head injury relative to motorcycle crashes, while e-bike crashes were associated with a higher aOR of severe facial injury (aOR: 1.78, 95% confidence interval: 1.15-2.74). E-bike injuries demonstrated the second-highest intensive care unit utilization and per-encounter hospital charges after motorcycles (both p<0.001).\n\n**CONCLUSIONS**: E-scooter and e-bike crashes demonstrated injury and resource utilization patterns distinct from both traditional bicycles and motorcycles. Head injury risk among PMD riders was similar to that of motorcyclists, while facial injury risk among e-bike riders exceeded that of motorcyclists. Findings highlight the need for improved injury surveillance and evidence-based helmet standards for PMD users, including evaluation of whether full-face protection may be warranted.\n\n**LEVEL OF EVIDENCE**: Prognostic/Epidemiological; Level III.",
+      "journal": "J Trauma Acute Care Surg",
+      "authors": [
+        "Reyes AM",
+        "Arcieri TR",
+        "Hebert AM",
+        "Sanan A",
+        "Byers PM",
+        "Lineen EB",
+        "Lee C",
+        "Namias N",
+        "Proctor KG",
+        "Valenzuela R",
+        "Pust GD",
+        "Meizoso JP",
+        "Valenzuela JY"
+      ],
+      "date": "2026 Apr 29",
+      "doi": "10.1097/TA.0000000000005035",
+      "tier": "core",
+      "topics": [
+        "General Trauma",
+        "Systems/QI",
+        "TBI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "injury severity",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "head injury",
+          "strength": "weak",
+          "topic": "TBI"
+        },
+        {
+          "keyword": "trauma registry",
+          "strength": "strong",
+          "topic": "Systems/QI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42053154/"
+    },
+    {
+      "pmid": "42050826",
+      "title": "Characteristics Associated With Community Violence Prevention Programs in US Hospitals: A Cross-Sectional Survey Analysis.",
+      "abstract": "**BACKGROUND**: Violence is a social determinant of health, and hospitals are well-positioned to promote patient well-being by addressing its root causes. Understanding factors associated with hospital engagement in community violence prevention can guide intervention development and capacity building.\n\n**OBJECTIVE**: To examine hospital and county-level factors associated with the presence of community violence prevention programs (CVPPs) in U.S. hospitals.\n\n**METHODS**: This cross-sectional study linked data from the 2022 American Hospital Association Annual Survey with county-level socioeconomic and demographic data from the US Census Bureau and all-cause homicide rates from the US Centers for Disease Control and Prevention. The sample included general medical and surgical hospitals with Medicare identification numbers. Survey-adjusted logistic regression assessed associations between hospital CVPP presence and all-cause homicide. Our response variable was whether or not the hospital had a CVPP, and our explanatory variable was county-level all-cause homicide rates. We adjusted for hospital characteristics and county-level socio-demographics.\n\n**RESULTS**: Of 4,374 hospitals, 990 (22.6%) reported having CVPPs. Compared to those without CVPPs, hospitals with CVPPs were more likely to be nonprofit (85.0% vs. 62.9%), large (>\u2009500 beds; 16.9% vs. 4.7%), have more annual ED visits (51,873.9 vs. 26,224.5), and be urban (81.1% vs. 51.8%) (all p\u2009<\u20090.001). They also more frequently offered outpatient psychiatric (86.1% vs. 46.9%), substance use (74.4% vs. 23.2%), and pain management (93.1% vs. 65.2%) services. In adjusted models, homicide rates were not associated with CVPP presence (aOR\u2009=\u20091.01, 95% CI [0.99, 1.04]). CVPP presence was independently associated with nonprofit ownership, larger size, trauma designation, and lower social deprivation in urban counties.\n\n**CONCLUSIONS**: Hospital and community characteristics, rather than homicide rates, predict CVPP presence. CVPPs are concentrated in larger, urban, well-resourced hospitals rather than in areas with the highest homicide rates, highlighting potential misalignment between program placement and community need.",
+      "journal": "Acad Emerg Med",
+      "authors": [
+        "Ashok VA",
+        "Yun K",
+        "Klebanoff MJ",
+        "Kaufman E",
+        "Aysola J",
+        "Richmond TS"
+      ],
+      "date": "2026 Apr 1",
+      "doi": "10.1111/acem.70300",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42050826/"
+    },
+    {
+      "pmid": "42048067",
+      "title": "Age-Specific Clinical Biomarker Ranges in Acute Head Injury, Non-TBI Trauma, and Healthy Control Subjects in the Emergency Department.",
+      "abstract": "**OBJECTIVES**: Blood-based biomarkers for traumatic brain injury (TBI) are increasingly integrated into diagnostic algorithms, but their interpretation may be confounded by age-related neurological changes. This study quantified the relative effects of age and TBI on biomarker concentrations to determine whether age-related variation approaches or exceeds that associated with injury.\n\n**METHODS**: Serum biomarkers were analyzed from 762 adults enrolled in the HeadSMART II and HeadSMART Geriatric studies, including healthy controls (n\u2009=\u200988), non-head trauma controls (n\u2009=\u200999), and mild TBI patients (GCS 13-15, n\u2009=\u2009575). Participants were categorized by age (18-40, 41-64, 65-74, \u2265\u200975\u2009years). Six TBI-relevant biomarkers (glial fibrillary acidic protein [GFAP], brain-derived neurotrophic factor [BDNF], neurogranin [NRGN], \u03b1-synuclein [SNCA], suppression of tumorigenicity 2 [ST2], and von Willebrand factor [vWF]) were quantified using validated immunoassays (BRAINBox Solutions). Biomarker levels were compared using two-way ANOVA, and the relative effects of age and injury were estimated using Cohen's f.\n\n**RESULTS**: Age significantly influenced several biomarkers. GFAP showed strong age-related increases, with significant elevations across age strata (p\u2009<\u20090.001), exceeding the effect of head injury alone. vWF also increased significantly with age (p\u2009<\u20090.001), while ST2 did not show a main effect of age (p\u2009=\u20090.404), although age interacted with group (p\u2009<\u20090.001). SNCA demonstrated modest age effects (p\u2009=\u20090.001), particularly in older trauma and TBI participants. NRGN showed no significant age-related changes (p\u2009=\u20090.454), and BDNF exhibited age effects within interaction terms (p\u2009<\u20090.001). Overall, age-associated effect sizes for GFAP and vWF were comparable to, or greater than, those of head injury.\n\n**CONCLUSIONS**: Age exerts substantial influence on circulating biomarker concentrations, particularly GFAP and vWF, often rivaling or exceeding TBI-related changes. Diagnostic algorithms that fail to adjust for age may risk misclassification, especially among older adults, underscoring the need for age-normalized biomarker interpretation.",
+      "journal": "Acad Emerg Med",
+      "authors": [
+        "Mayes KD",
+        "Van Meter TE",
+        "Mirshahi N",
+        "Boyd S",
+        "Sandsmark D",
+        "Rascovsky K",
+        "Diaz-Arrastia R",
+        "Weppner J",
+        "Peacock WF",
+        "Kuehl DR"
+      ],
+      "date": "2026 Apr 1",
+      "doi": "10.3390/ijms20020257",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "TBI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic brain injury",
+          "strength": "weak",
+          "topic": "TBI"
+        },
+        {
+          "keyword": "head injury",
+          "strength": "strong",
+          "topic": "TBI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42048067/"
+    },
+    {
+      "pmid": "42047811",
+      "title": "Predictive performance of ISS and NISS for clinical outcomes in severely injured trauma patients: a retrospective registry study.",
+      "abstract": "**BACKGROUND**: The Injury Severity Score (ISS) and New Injury Severity Score (NISS) are widely used in evaluation of injury severity in trauma patients. The aim of this study is to assess the predictive accuracy of these scoring systems on clinical outcomes.\n\n**METHODS**: We conducted a retrospective registry study of 1,112 severely injured trauma patients (NISS\u2009\u2265\u200916) treated at Tampere University Hospital (TAUH) between 2015 and 2024. Outcomes included in-hospital mortality, prolonged hospital and ICU stay (\u2265\u200975th percentile), in-hospital intubation, and blood transfusions. Predictive performance was assessed using the area under the receiver operating characteristic curve (AUC) and the Hosmer-Lemeshow (H-L) test for calibration. Subgroup analyses were performed for patients with significant (AIS\u2009\u2265\u20093) head, thorax, and extremity injuries.\n\n**RESULTS**: A total of 848 (76%) patients had a higher NISS than ISS with a median increase of 9 points. Both scoring systems generally demonstrated fair to considerable (0.7\u2009<\u2009AUC\u2009<\u20090.9) discrimination for mortality and intubation, and poor to fair (0.6\u2009<\u2009AUC\u2009<\u20090.8) discrimination for blood transfusions and prolonged hospital/ICU stay. ISS had superior discrimination for blood transfusions in the total cohort (AUC: 0.669 vs. 0.630, p\u2009=\u20090.019), head (AUC: 0.737 vs. 0.672, p\u2009=\u20090.004), and thorax (AUC: 0.656 vs. 0.613, p\u2009=\u20090.006) subgroups, and for intubation in the head injury subgroup (AUC: 0.817 vs. 0.787 p\u2009=\u20090.038). Conversely, NISS outperformed ISS for predicting prolonged hospital stay in the extremity subgroup (AUC 0.654 vs. 0.585, p\u2009=\u20090.003).\n\n**CONCLUSIONS**: Contrary to its theoretical advantages, NISS does not broadly outperform ISS in severe trauma. ISS remains an equal or superior scoring system for predicting many clinical outcomes.\n\n**LEVEL OF EVIDENCE**: III.",
+      "journal": "Eur J Trauma Emerg Surg",
+      "authors": [
+        "S\u00e4kkinen A",
+        "Partio N",
+        "Mattila V",
+        "M\u00e4enp\u00e4\u00e4 H",
+        "Riuttanen A"
+      ],
+      "date": "2026 Apr 28",
+      "doi": "10.4103/0972-5229.29839",
+      "tier": "core",
+      "topics": [
+        "General Trauma",
+        "Systems/QI",
+        "TBI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "injury severity",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "head injury",
+          "strength": "weak",
+          "topic": "TBI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42047811/"
+    },
+    {
+      "pmid": "42047781",
+      "title": "Surgical and anesthetic activity in a french emergency field hospital responding to devastating floods.",
+      "abstract": "",
+      "journal": "Eur J Trauma Emerg Surg",
+      "authors": [
+        "Gaudray E",
+        "Brac L",
+        "Agopian P",
+        "Arnaud I",
+        "Ribelles P",
+        "Buland S",
+        "Couret A",
+        "Simonet J",
+        "Teuma M",
+        "Kedzierewicz R",
+        "Yavari O",
+        "Gaujoux S",
+        "Arvieux C"
+      ],
+      "date": "2026 Apr 28",
+      "doi": "10.1016/j.anclin.2012.10.003",
+      "tier": "core",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42047781/"
+    },
+    {
+      "pmid": "42047641",
+      "title": "Management of pediatric high-grade blunt hepatic trauma at adult and pediatric trauma centers: An analysis of the TQIP database.",
+      "abstract": "**BACKGROUND**: Previous data suggest that there may be increased use of invasive interventions for pediatric blunt solid organ injury at nonpediatric trauma centers. In pediatric high-grade (AAST Grades III-V) blunt hepatic injuries (BHI), specifically, previous single-center and state-level studies have demonstrated that presentation to adult trauma centers independently predicts increased use of angioembolization and hemorrhage control laparotomy, but this observation has not been validated using a large, nationwide dataset. This study evaluated the use of invasive interventions (hemorrhage control laparotomy and/or hepatic angioembolization) and mortality in children with BHI across pediatric, adult, and hybrid trauma centers (PTCs, ATCs, and HTCs).\n\n**METHODS**: We retrospectively reviewed children aged 17 and below, with high-grade BHI (AAST Grades III-V, defined by AIS) in the ACS Trauma Quality Improvement Program database from 2017 to 2022. Univariate analyses compared demographics, injury characteristics, management strategies, and outcomes between ATCs, HTCs, and PTCs. Backward stepwise regression evaluated predictors of hemorrhage control laparotomy, angioembolization, and mortality.\n\n**RESULTS**: In total, 5,498 children were included. Children presenting to an ATC were older (p<0.01). There was no difference in the distribution of Grade III, IV, or V injuries between center types (p=0.50). On univariate analyses, PTC-presentation was associated with lower injury severity score, higher rates of isolated injury, lower rates of positive shock index, and lower rates of early blood transfusion (p<0.01). ATC-presentation was associated with higher rates of hepatic angioembolization (ATC: 2.7%, HTC: 1.8%, PTC: 1.0%, p<0.01), hemorrhage control laparotomy (ATC: 3.3%, HTC: 2.3%, PTC: 1.1%, p<0.01), and mortality (ATC: 7.1%, HTC: 5.0%, PTC: 3.2%, p<0.01). However, on regression analysis, trauma center verification status did not independently predict angioembolization, hemorrhage control laparotomy, or mortality.\n\n**CONCLUSIONS**: Contrary to prior data in smaller populations, in this national analysis of high-grade pediatric blunt hepatic trauma, hospital verification status did not independently influence the likelihood of hepatic angioembolization, hemorrhage control laparotomy, or mortality.\n\n**LEVEL OF EVIDENCE**: Cohort Study; Level III.",
+      "journal": "J Trauma Acute Care Surg",
+      "authors": [
+        "Wallace MW",
+        "Wan HY",
+        "Morris D",
+        "Russell KW",
+        "Swendiman RA"
+      ],
+      "date": "2026 Apr 28",
+      "doi": "10.1097/TA.0000000000005031",
+      "tier": "core",
+      "topics": [
+        "Abdominal",
+        "General Trauma",
+        "Haemorrhage",
+        "Paediatric",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "injury severity",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "hepatic trauma",
+          "strength": "strong",
+          "topic": "Abdominal"
+        },
+        {
+          "keyword": "solid organ injury",
+          "strength": "weak",
+          "topic": "Abdominal"
+        },
+        {
+          "keyword": "blood transfusion",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "paediatric trauma",
+          "strength": "strong",
+          "topic": "Paediatric"
+        },
+        {
+          "keyword": "trauma quality",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42047641/"
+    },
+    {
+      "pmid": "42047640",
+      "title": "When does 1:1 resuscitation really matter? An analysis of 4,858 patients from four traumatic hemorrhage studies.",
+      "abstract": "**BACKGROUND**: While supported by a randomized trial and America College of Surgeon Trauma Quality Improvement Program(TQIP) guidelines, the inflection point in transfusion volumes at which balanced ratios (1:1) begin to affect mortality has not been fully explored. We sought to evaluate transfusion volumes at which a difference in mortality is observed.\n\n**METHODS**: Four studies of bleeding trauma patients were analyzed: two conducted before whole blood (WB) availability; a single institution experience (Pre-WB Single Center, 2010-2016) and a randomized, multicenter trial [Pre-WB Pragmatic Randomized Optimal Platelet and Plasma Ratios (PROPPR), 2012-2013] and two conducted with WB use; one single institution experience (WB Single Center 2017-2021) and a prospective, multicenter study [WB Shock, Whole blood And Traumatic brain injury (SWAT), 2018-2021]. Patients were divided into balanced [1:1 or less, red blood cell (RBC):plasma] and unbalanced (>1:1) cohorts. RBC units transfused in the first four hours were evaluated (0-6, 7-10, then 10-unit intervals). Primary outcome was 30-day mortality. Secondary outcomes were four-hour and 24-hour mortality.\n\n**RESULTS**: The Pre-WB Single Center (n = 730 1:1 or less, n = 536 >1:1) and Pre-WB PROPPR (n = 342, n = 338) noted mortality differences once >10 units of RBCs were transfused (11-20 units: 26% vs. 32%, P = 0.151 and 20% vs 30%, P = 0.090; 21-30 units: 43% vs. 71%, P = 0.013 and 32% vs. 61%, P = 0.017). The WB Single Center study (n = 1,239, n = 879) and WB SWAT (n = 447, n = 587) noted outcome separation >6 units (7-10 units: 14% vs. 22%, P = 0.139 and 14% vs. 18%, P = 0.198; 11-20: 28% vs. 41%, P = 0.118 and 17% vs. 31%, P = 0.030). Absolute differences tended to widen with greater units transfused. Differences remained at 24-hours for 7 to 10 units for Pre-WB Single Center and 11 to 20 units for Pre-WB PROPPR, WB Single Center, and WB SWAT studies.\n\n**CONCLUSIONS**: In this analysis of almost 5,000 patients, balanced resuscitation had a protective effect during or after the second transfusion cooler (>6 or >10 units of RBCs). This highlights the need for early 1:1 resuscitation with suspicion for massive hemorrhage, utilizing early WB to stay balanced and storing more immediately available plasma.\n\n**LEVEL OF EVIDENCE**: Retrospective comparative study without negative criteria, Study type: Therapeutic; Level III.",
+      "journal": "J Trauma Acute Care Surg",
+      "authors": [
+        "Clements TW",
+        "Williams J",
+        "Cannon J",
+        "Schreiber M",
+        "Moore E",
+        "Namias N",
+        "Guyette F",
+        "Sperry J",
+        "Cotton BA",
+        "Van Gent JM"
+      ],
+      "date": "2026 Apr 28",
+      "doi": "10.1097/TA.0000000000005037",
+      "tier": "core",
+      "topics": [
+        "General Trauma",
+        "Haemorrhage",
+        "Systems/QI",
+        "TBI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "massive haemorrhage",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "traumatic brain injury",
+          "strength": "weak",
+          "topic": "TBI"
+        },
+        {
+          "keyword": "trauma quality",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42047640/"
+    },
+    {
+      "pmid": "42047633",
+      "title": "Authors' response to letter by Peuker F et al.",
+      "abstract": "",
+      "journal": "J Trauma Acute Care Surg",
+      "authors": [
+        "Bauman ZM",
+        "Sarani B",
+        "Pieracci FM",
+        "Whitbeck SS",
+        "White TW"
+      ],
+      "date": "2026 Apr 03",
+      "doi": "10.1097/TA.0000000000004995",
+      "tier": "core",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42047633/"
+    },
+    {
+      "pmid": "42047632",
+      "title": "Extracorporeal membrane oxygenation in traumatic injuries with acute respiratory distress syndrome.",
+      "abstract": "",
+      "journal": "J Trauma Acute Care Surg",
+      "authors": [
+        "El-Menyar A",
+        "Naduvilekandy M",
+        "Al-Hassani I",
+        "Elmenyar E",
+        "Fawzy I",
+        "Al-Hassani A",
+        "Al-Thani H"
+      ],
+      "date": "2026 Apr 28",
+      "doi": "10.1016/j.ajem.2021.04.083",
+      "tier": "core",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "traumatic",
+          "strength": "strong",
+          "topic": "General Trauma"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42047632/"
+    },
+    {
+      "pmid": "42047630",
+      "title": "\"Do as I say and not as I do: Surgical critical care program directors shape the future\" authors' response to the Letter to the Editor entitled: \"Artificial intelligence literacy and infectious diseases competency: Essential considerations for future revisions of the surgical critical care curriculum\".",
+      "abstract": "",
+      "journal": "J Trauma Acute Care Surg",
+      "authors": [
+        "Jones TJ",
+        "Barry CL",
+        "Davis KA",
+        "Martin ND",
+        "Prendergast CO",
+        "Duncan TK",
+        "Hildreth AN",
+        "Inaba K",
+        "Jensen AR",
+        "Jones AT",
+        "Moran SL",
+        "Palmieri TL",
+        "Stassen NA",
+        "Kaups KL",
+        "Stein DM"
+      ],
+      "date": "2026 Apr 28",
+      "doi": "10.1097/TA.0000000000005024",
+      "tier": "core",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42047630/"
+    },
+    {
+      "pmid": "42047383",
+      "title": "Impact of Smoking Status on Morbidity and Mortality after Lung Cancer Resection: An Analysis of the Society of Thoracic Surgeons General Thoracic Surgery Database.",
+      "abstract": "**BACKGROUND**: Tobacco exposure is the leading cause of lung cancer, with some surgeons and centers requiring smoking cessation before lung resection. The impact of continued smoking on outcomes remains uncertain. We evaluated morbidity and mortality after resection among patients who currently smoke compared with those who formerly smoked.\n\n**METHODS**: We analyzed lung cancer resections (2018-2023) in the Society of Thoracic Surgeons (STS) General Thoracic Surgery Database. Smoking status was defined using STS operational definitions as current (within 1 month of operation) or former (abstinence >1 month). Patients who never smoked were excluded. Primary outcomes were operative or 30-day mortality and postoperative pulmonary complications. Multivariable regression identified predictors of outcomes.This research was determined to be exempt research with a waiver of informed consent from Advarra Institutional Review Board (Mod01760092, Version 1.1, Approval date July 17, 2023).\n\n**RESULTS**: Of 85,124 patients, 28% (n=24,093) currently smoked and 72% (n=61,031) formerly smoked. Patients who currently smoked were younger (65.6 vs 69.6 years; p<0.001), had fewer comorbidities, and included higher proportions of patients who identify as Black (11.5% vs 7.5%; p<0.001). Pulmonary complications were more frequent among patients who currently smoke (34.6% vs 30.5%; p<0.001), but mortality did not differ by smoking status (1.0% vs 1.0%; p=0.52). Male sex, current smoking, greater pack-years, thoracotomy, and more extensive resection independently predicted pulmonary complications.\n\n**CONCLUSIONS**: Patients who currently smoke experienced higher pulmonary morbidity but no increase in mortality. Surgeons should not use smoking status alone when determining if a patient is a candidate for lung cancer resection. Risk assessment should integrate smoking status in combination with a comprehensive range of preoperative factors to guide shared decision-making and ensure access to lung cancer operation.",
+      "journal": "J Am Coll Surg",
+      "authors": [
+        "Kim H",
+        "Viana SW",
+        "Pinkston C",
+        "Pratt CG",
+        "Rai S",
+        "Haugen CE",
+        "Quillin RC",
+        "Starnes SL",
+        "Van Haren RM"
+      ],
+      "date": "2026 Apr 28",
+      "doi": "10.1097/XCS.0000000000002007",
+      "tier": "filtered",
+      "topics": [
+        "Thoracic"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "thoracotomy",
+          "strength": "weak",
+          "topic": "Thoracic"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42047383/"
+    },
+    {
       "pmid": "42045940",
       "title": "Impact of transportation methods on pediatric and adolescent severely injured vehicle occupants.",
       "abstract": "**BACKGROUND**: Road traffic collisions (RTCs) are the leading cause of death globally. Reducing the transportation time to definitive care and training bystanders in trauma management may impact clinical outcome. We aimed to study the impact of transportation methods on pediatric and adolescent severely injured vehicle occupants in Abu Dhabi Emirate, United Arab Emirates.\n\n**METHODS**: The Abu Dhabi Trauma Registry prospectively collects data of all hospitalized trauma patients from seven major trauma centers in Abu Dhabi Emirate. We have studied all severely injured (ISS\u2009\u2265\u200912) road traffic collision patients, who were less than 19 years old (January 2014 to December 2023). Demography and clinical outcome of those transported by ambulance (n\u2009=\u2009466) were compared with those transported by private vehicles (n\u2009=\u200947).\n\n**RESULTS**: Univariate analysis showed that patients who were transferred by private vehicles were significantly younger, (median (IQR range) age: 12 (6-15) years compared with 15.5 (12-17) years, p\u2009<\u20090.001), stayed significantly longer in the Emergency Department (median (IQR range) 275 (186-333) minutes compared with 214 (135-299) minutes, p\u2009=\u20090.01), were admitted significantly less to the ICU (31.9% compared with 51.9%, p\u2009=\u20090.009); and had significantly less hospital stay (median (IQR range) 3.5 (1-8) days compared with 7 (3-14) days, p\u2009=\u20090.003). There was no significant difference in mortality between the two groups (2.1% compared with 6.7%, p\u2009=\u20090.34). Logistic regression showed that mode of arrival did not significantly affect ICU admission (p\u2009=\u20090.26). The most significant factors that affected ICU admission were GCS, p\u2009<\u20090.001, OR 0.66 (95% CI 0.57-0.77) and ISS, p\u2009<\u20090.001, OR 1.12 (95% CI 1.08-1.16). A general linear model showed that GCS (p\u2009=\u20090.022) and RTS (p\u2009=\u20090.006) significantly affected length of hospital stay while mode of arrival did not (p\u2009=\u20090.38).\n\n**CONCLUSIONS**: Private vehicles appear to be safe for the transportation of selected major trauma children and adolescents with no adverse effects on ICU admission, hospital stay, or mortality. The role of bystanders in prehospital management and transportation of RTC victims should be further investigated.",
@@ -575,7 +1015,7 @@
     {
       "pmid": "42043478",
       "title": "Operative burden and resuscitation resource utilisation in patients with traumatic shock requiring urgent surgical or endovascular intervention.",
-      "abstract": "",
+      "abstract": "**BACKGROUND**: Patients with traumatic shock represent a high-risk subgroup within major trauma populations, yet the operative burden and resuscitation resource utilisation associated with urgent surgical and endovascular intervention in trauma systems managing predominantly blunt injury remain incompletely described.\n\n**AIMS**: To describe the epidemiology, resuscitation resource utilisation, and operative burden of patients presenting with traumatic shock who require urgent surgical or endovascular intervention.\n\n**METHODS**: We conducted a retrospective observational study at an Australian level 1 trauma centre using prospectively maintained trauma registries. Adult major trauma patients (\u2265\u200916 years, Injury Severity Score\u2009\u2265\u200913) meeting institutional shocked trauma activation criteria between December 2022 and December 2024 were included. Resource utilisation, blood product transfusion, operative and endovascular interventions, procedural timing, and critical care outcomes were described. Comparisons were performed between shocked patients requiring urgent surgical or endovascular intervention and those managed without urgent procedures.\n\n**RESULTS**: Of 3667 major trauma patients, 324 (8.8%) met shocked trauma criteria, and 138 (42.6% of shocked patients) underwent urgent surgical or endovascular intervention. These patients demonstrated substantial operative complexity; 37.7% required combined multispecialty interventions with 74.6% undergoing two or more operations within the first seven days. Median time to index urgent intervention was 150\u00a0min, and two-thirds of urgent surgical procedures occurred out-of-hours. ICU admission was near universal (94.9%) among patients requiring urgent intervention, with longer ICU LOS (median 8.0 days). Although median transfusion volumes were modest, marked heterogeneity in blood product utilisation was observed. High-volume transfusion (\u2265\u200910 units PRBC within 24\u00a0h) occurred more frequently among patients requiring urgent intervention compared with those managed without urgent procedures (25.4% vs. 8.1%, \n\n**CONCLUSIONS**: In a trauma system where blunt polytrauma predominates, patients with traumatic shock requiring urgent surgical or endovascular intervention represent a small but disproportionately resource-intensive cohort. Care is frequently iterative, multispecialty, and delivered out-of-hours, with substantial transfusion and critical care requirements. These findings highlight the need for sustained 24/7 trauma system capability and may inform future strategies for early risk stratification and resource planning in Australian trauma centres.\n\n**SUPPLEMENTARY INFORMATION**: The online version contains supplementary material available at 10.1007/s00068-026-03197-2.",
       "journal": "Eur J Trauma Emerg Surg",
       "authors": [
         "Noonan M",
@@ -593,13 +1033,51 @@
       "doi": "10.1097/TA.0000000000000453",
       "tier": "core",
       "topics": [
-        "General Trauma"
+        "General Trauma",
+        "Haemorrhage",
+        "Prehospital",
+        "Systems/QI"
       ],
       "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "polytrauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
         {
           "keyword": "traumatic",
           "strength": "strong",
           "topic": "General Trauma"
+        },
+        {
+          "keyword": "major trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "injury severity",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "blood product",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "trauma activation",
+          "strength": "weak",
+          "topic": "Prehospital"
         }
       ],
       "has_strong_match": true,
@@ -3309,8 +3787,8 @@
     },
     {
       "pmid": "42000028",
-      "title": "The Minnesota Mobile Resuscitation Consortium ECMO Truck: A Feasibility Study for ECPR in Refractory Out-of-Hospital Cardiac Arrest.",
-      "abstract": "**BACKGROUND**: Refractory ventricular fibrillation/ventricular tachycardia (VF/VT) out-of-hospital cardiac arrest (OHCA) carries poor survival with conventional resuscitation. Extracorporeal cardiopulmonary resuscitation (ECPR) improves outcomes in selected patients; however, time to reperfusion is the dominant determinant of neurologically intact survival, and geographic distance excludes many otherwise eligible patients. Research Question/Hypothesis: We hypothesized that a purpose-built, fluoroscopy-enabled mobile ECMO truck delivering scene-based ECPR would be feasible and achieve neurologically favorable survival comparable to a mature in-hospital ECPR system when matched on low-flow time. Goals/Aims: To evaluate the feasibility, procedural performance, and clinical outcomes of a sustained prehospital ECPR program integrated within a regional cardiac arrest system of care.\n\n**METHODS**: We performed a single-center retrospective analysis of a prospectively collected registry within the Minnesota Mobile Resuscitation Consortium. Adults (18-75 years) with refractory VF/VT OHCA treated under the ECMO truck protocol were compared with a matched cohort treated under the standard in-hospital ECPR pathway, matched on low-flow time. Baseline characteristics, laboratory values, time intervals, cannulation metrics, and outcomes were compared. The primary outcome was survival to hospital discharge with a favorable neurological status.\n\n**RESULTS**: A total of eight patients underwent ECMO truck activation and were matched to eight in-hospital controls. Baseline characteristics were similar between groups. Total low-flow time was 74.8 [standard deviation (SD) 19.8] minutes in the ECMO truck group and 73.0 (SD 22.9) minutes in controls (p= 0.87). Needle-stick-to-ECMO flow times were 7.5 (SD 3.1) minutes versus 12.0 (SD 10.8) minutes, respectively (p= 0.71). Neurologically favorable survival was 25% in the ECMO truck cohort versus 25% in matched controls (p= >0.99).\n\n**CONCLUSIONS**: A sustained, protocolized prehospital ECPR program using a purpose-built ECMO truck is feasible and achieves outcomes comparable to an established in-hospital ECPR system when matched on low-flow time. This single-center feasibility study demonstrates that a mobile ECPR program using a purpose-built Mobile ECMO Truck can be implemented safely and with acceptable procedural performance.",
+      "title": "The Minnesota Mobile Resuscitation Consortium ECMO truck: a feasibility study for ECPR in refractory out-of-hospital cardiac arrest.",
+      "abstract": "**BACKGROUND**: Refractory ventricular fibrillation/ventricular tachycardia (VF/VT) out-of-hospital cardiac arrest (OHCA) carries poor survival with conventional resuscitation. Extracorporeal cardiopulmonary resuscitation (ECPR) improves outcomes in selected patients; however, time to reperfusion is the dominant determinant of neurologically intact survival, and geographic distance excludes many otherwise eligible patients.\n\n**RESEARCH QUESTION/HYPOTHESIS**: We hypothesized that a purpose-built, fluoroscopy-enabled mobile ECMO truck delivering scene-based ECPR would be feasible and achieve neurologically favorable survival comparable to a mature in-hospital ECPR system when matched on low-flow time.\n\n**GOALS/AIMS**: To evaluate the feasibility, procedural performance, and clinical outcomes of a sustained prehospital ECPR program integrated within a regional cardiac arrest system of care.\n\n**METHODS**: We performed a single-center retrospective analysis of a prospectively collected registry within the Minnesota Mobile Resuscitation Consortium. Adults (18-75\u00a0years) with refractory VF/VT OHCA treated under the ECMO truck protocol were compared with a matched cohort treated under the standard in-hospital ECPR pathway, matched on low-flow time. Baseline characteristics, laboratory values, time intervals, cannulation metrics, and outcomes were compared. The primary outcome was survival to hospital discharge with a favorable neurological status.\n\n**RESULTS**: A total of eight patients underwent ECMO truck activation and were matched to eight in-hospital controls. Baseline characteristics were similar between groups. Total low-flow time was 74.8 [standard deviation (SD) 19.8]\u00a0min in the ECMO truck group and 73.0 (SD 22.9)\u00a0min in controls (p\u00a0=\u00a00.87). Needle-stick-to-ECMO flow times were 7.5 (SD 3.1)\u00a0min versus 12.0 (SD 10.8)\u00a0min, respectively (p\u00a0=\u00a00.71). Neurologically favorable survival was 25% in the ECMO truck cohort versus 25% in matched controls (p\u00a0\u2265\u00a00.99).\n\n**CONCLUSIONS**: A sustained, protocolized prehospital ECPR program using a purpose-built ECMO truck is feasible and achieves outcomes comparable to an established in-hospital ECPR system when matched on low-flow time. This single-center feasibility study demonstrates that a mobile ECPR program using a purpose-built Mobile ECMO Truck can be implemented safely and with acceptable procedural performance.",
       "journal": "Resuscitation",
       "authors": [
         "Rixmann K",
@@ -3357,8 +3835,8 @@
     },
     {
       "pmid": "42000026",
-      "title": "Long-term Neurological Outcomes After Extracorporeal Cardiopulmonary Resuscitation for Refractory Cardiac Arrest: A 14-Year Single-Center Cohort Study.",
-      "abstract": "**BACKGROUND**: Extracorporeal Cardiopulmonary Resuscitation (ECPR) via Veno-Arterial Extracorporeal Membrane Oxygenation (ECMO) is a viable treatment for refractory cardiac arrest (r-CA). Data on long-term outcomes and predictors of favourable neurological prognosis remain limited, and definitive patient-selection recommendations are lacking.\n\n**METHODS**: We conducted a retrospective observational study of adult patients treated with ECPR for in-hospital (IHCA) and out-of-hospital (OHCA) r-CA at an Italian ECMO centre between 2011 and 2024. The primary outcome was long-term neurological performance, measured by the Cerebral Performance Category (CPC) scale six months after hospital discharge. Multivariable and latent class analyses assessed independent predictors and explored distinct pre-ECPR phenotypes.\n\n**RESULTS**: Among 295 consecutive patients (117 IHCA; 178 OHCA), 17.3% achieved CPC 1-2 at six months (28.2% IHCA vs 10.1% OHCA; p<0.0001), and 4.4% survived with severe long-term neurological sequelae (CPC 3-4). Independent predictors of CPC 1-2 were younger age (OR 0.95 per year, 95% CI 0.92-0.98), an initial shockable rhythm (aOR 2.7; 95% CI 1.11-7.04), and shorter low-flow duration (OR 0.95 per minute increase, 95% CI 0.93-0.97). Stepwise selection based on these criteria progressively increased the proportion of favourable survivors but excluded a small proportion who might have recovered. Conclusions These results emphasise the importance of establishing pre-treatment selection criteria to optimise ECPR use and enhance long-term neurological outcomes. Age, initial rhythm, and low-flow time are key determinants, and exploratory phenotype-based analyses suggest multidimensional patient characterisation may complement traditional selection criteria.",
+      "title": "Long-term neurological outcomes after extracorporeal cardiopulmonary resuscitation for refractory cardiac arrest: a 14-year single-centre cohort study.",
+      "abstract": "**BACKGROUND**: Extracorporeal Cardiopulmonary Resuscitation (ECPR) via Veno-Arterial Extracorporeal Membrane Oxygenation (ECMO) is a viable treatment for refractory cardiac arrest (r-CA). Data on long-term outcomes and predictors of favourable neurological prognosis remain limited, and definitive patient-selection recommendations are lacking.\n\n**METHODS**: We conducted a retrospective observational study of adult patients treated with ECPR for in-hospital (IHCA) and out-of-hospital (OHCA) r-CA at an Italian ECMO centre between 2011 and 2024. The primary outcome was long-term neurological performance, measured by the Cerebral Performance Category (CPC) scale six months after hospital discharge. Multivariable and latent class analyses assessed independent predictors and explored distinct pre-ECPR phenotypes.\n\n**RESULTS**: Among 295 consecutive patients (117 IHCA; 178 OHCA), 17.3% achieved CPC 1-2 at six months (28.2% IHCA vs 10.1% OHCA; p\u00a0<\u00a00.0001), and 4.4% survived with severe long-term neurological sequelae (CPC 3-4). Independent predictors of CPC 1-2 were younger age (OR 0.95 per year, 95% CI 0.92-0.98), an initial shockable rhythm (aOR 2.7; 95% CI 1.11-7.04), and shorter low-flow duration (OR 0.95 per minute increase, 95% CI 0.93-0.97). Stepwise selection based on these criteria progressively increased the proportion of favourable survivors but excluded a small proportion who might have recovered.\n\n**CONCLUSIONS**: These results emphasise the importance of establishing pre-treatment selection criteria to optimise ECPR use and enhance long-term neurological outcomes. Age, initial rhythm, and low-flow time are key determinants, and exploratory phenotype-based analyses suggest multidimensional patient characterisation may complement traditional selection criteria.",
       "journal": "Resuscitation",
       "authors": [
         "Pozzi M",
@@ -3368,7 +3846,7 @@
         "Redaelli G",
         "Scanziani M",
         "Annoni A",
-        "Frate ED",
+        "Del Frate E",
         "Costa C",
         "Marchetto G",
         "Sangalli F",
@@ -5757,6 +6235,73 @@
       ],
       "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41968395/"
+    },
+    {
+      "pmid": "41968326",
+      "title": "Critical care resource disparities in China: a nationwide survey and policy recommendations for health equity.",
+      "abstract": "**BACKGROUND**: Critical care medicine plays a pivotal role in addressing life-threatening conditions; however, its development in China is hindered by resource scarcity and inequitable distribution. Existing studies have mostly focused on ICU bed numbers or selected regions, and have rarely provided a comprehensive, nationwide assessment of ICU beds, staffing and equipment using standardized methods, nor have they systematically quantified population-based equity of ICU resources. To address this evidence gap and describe the current landscape of critical care capacity in China, we conducted a nationwide survey of critical care resources. The survey aimed to describe the current status of resources, quantify population-based equity, and explore regional and hierarchical disparities that may affect access to critical care.\n\n**METHODS**: This cross-sectional survey was conducted from January 1, 2021, to December 31, 2023, encompassing public comprehensive hospitals, private hospitals, and specialty hospitals across 31 provinces (including municipalities) in China. A total of 4,744 hospitals with a comprehensive ICU provided valid responses and were included in the analysis; the overall response rate among eligible hospitals invited through provincial health authorities was approximately 89.80%. The study focused on institutions with comprehensive intensive care units (ICUs). Hospitals were stratified by level, including tertiary A and B, secondary A and B, and county-level hospitals. Data were collected using the \u201cCritical Care Medicine Resource Survey Form\u201d via Wenjuanxing, an online survey platform. The survey evaluated spatial distribution (bed count and density), equipment availability (ventilators, ECMO, and CRRT), and human resources (staffing and qualification disparities). Responses were analyzed to identify regional and hierarchical variations in resource allocation and utilization.\n\n**FINDINGS**: Among the 4,744 hospitals, there were 83,632 operational ICU beds, corresponding to a national average of 5.95 ICU beds per 100,000 population. The total ICU workforce comprised 46,137 physicians (a physician-to-bed ratio of 0.55:1) and 134,056 nurses (a nurse-to-bed ratio of 1.60:1). Key equipment included 74,842 invasive ventilators, 13,389 non-invasive ventilators, 2,328 ECMO devices and 12,346 CRRT machines. ICU bed density varied from 2.29 to 10.53 beds per 100,000 population across provinces. The Gini coefficients for ICU beds, physicians and nurses allocated by population were all <\u20090.2, and there were no statistically significant differences in ICU beds or physician numbers per 100,000 population across provincial GDP or GDP per capita tiers. From 2015 to 2023, ICU beds increased by 80.0%, physicians by 73.4%, nurses by 61.5%, and ECMO devices by 512.8%. Although population-based distribution appeared relatively equitable, regions differed in absolute bed density, staffing ratios and geographic accessibility, and advanced technologies such as ECMO were available in 29.2% of hospitals.\n\n**INTERPRETATION**: Despite remarkable progress and optimization in ICU resource expansion, substantial gaps remain in China compared to developed countries, particularly regarding ICU bed densities and staffing ratios. Our analysis indicates relatively equitable distribution of ICU beds, physicians and nurses across provinces when assessed on a per population basis, as reflected by low Gini coefficients, but this population-based equity does not account for differences in disease burden, age structure, urban-rural composition or geographic accessibility. Accordingly, population-based equity of resources does not necessarily imply equity of access or adequacy of care. Moreover, this survey focused on resource quantity and did not assess perceived adequacy, organizational models or clinical outcomes, so no direct conclusions can be drawn about quality of care.These findings suggest that efforts to strengthen critical care in China should focus on improving resource density and staffing in underserved regions, enhancing accessibility in geographically vast areas, and promoting efficient use and regional sharing of advanced technologies such as ECMO through organized referral networks.",
+      "journal": "Crit Care",
+      "authors": [
+        "Zhang X",
+        "Chen Y",
+        "Liu R",
+        "Fang W",
+        "Qin B",
+        "Jiang R",
+        "Gao Y",
+        "Li W",
+        "Wu J",
+        "Zhao M",
+        "Yang Y",
+        "Ma X",
+        "Du B",
+        "Liu J",
+        "Song X",
+        "Zhang D",
+        "Gao X",
+        "Jin X",
+        "Liu J",
+        "Liu F",
+        "Liu L",
+        "Li J",
+        "Ma S",
+        "Peng Z",
+        "Sun Y",
+        "Shi S",
+        "Shen F",
+        "Shao H",
+        "Qin T",
+        "Wan X",
+        "Wang J",
+        "Wang H",
+        "Wu W",
+        "Wu H",
+        "Xu F",
+        "Xiong B",
+        "Yu X",
+        "Yang X",
+        "Zhang L",
+        "Zhao H",
+        "Zhang L",
+        "Guan X",
+        "Kang Y",
+        "Chen D"
+      ],
+      "date": "2026 Apr 12",
+      "doi": "10.1146/annurev.publhealth.23.100901.140540",
+      "tier": "filtered",
+      "topics": [
+        "Cardiac Arrest"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "ECMO",
+          "strength": "weak",
+          "topic": "Cardiac Arrest"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41968326/"
     },
     {
       "pmid": "41968311",
@@ -9682,180 +10227,6 @@
       "keyword_matches": [],
       "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41916010/"
-    },
-    {
-      "pmid": "41915155",
-      "title": "Association between fracture location and one-year mortality in patients aged 65 years and older after lower extremity trauma: a retrospective cohort study.",
-      "abstract": "**PURPOSE**: Fractures in older patients are associated with increased mortality. Our study evaluated 30-day and one-year mortality among older patients based on fracture location.\n\n**METHODS**: A descriptive retrospective cohort analysis was conducted including all patients aged 65 years or older hospitalized at a level I trauma center with a pelvic or lower extremity fracture between January 1, 2016 and December 31, 2019. Mortality rates were compared with age- and gender-matched data from the Swiss general population. In addition, an exploratory multivariable logistic regression analysis was performed to assess the association between fracture location and one-year mortality, adjusting for age and sex.\n\n**RESULTS**: A total of 1,739 patients were included. The overall 30-day mortality rate was 12%, and the one-year mortality rate was 34%. In comparison, the age- and gender-matched one-year mortality rate of the general Swiss population was 8% (\n\n**CONCLUSION**: One-year mortality in geriatric patients differed substantially by fracture location. After adjustment for age and sex, fracture location remained associated with one-year mortality, with the highest mortality observed after femur and pelvic fractures. These findings suggest that fracture location represents a clinically relevant marker associated with mortality risk in older patients after lower extremity trauma.",
-      "journal": "Eur J Trauma Emerg Surg",
-      "authors": [
-        "Helen A",
-        "Michelle Z",
-        "Christoph H",
-        "Thomas L"
-      ],
-      "date": "2026 Mar 31",
-      "doi": "10.1177/1071100715573707",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "trauma centre",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41915155/"
-    },
-    {
-      "pmid": "41915025",
-      "title": "Proximal femoral replacement for oncologic and non-oncologic indications: a retrospective study over a 13-year period.",
-      "abstract": "**BACKGROUND**: Proximal femoral replacement (PFR) is a critical limb-salvage strategy for managing massive proximal femoral bone loss due to oncologic and non-oncologic conditions. Although oncologic outcomes are well described, evidence surrounding PFR for infection, periprosthetic fracture, and mechanical failure remains limited. This study evaluates short- to mid-term outcomes following PFR for multiple indications and compares primary with revision procedures.\n\n**METHODS**: We retrospectively reviewed all patients undergoing PFR at a Level I trauma center from 2009 to 2023. Cases were categorized by procedure type (primary vs. revision) and indication (tumor, infection, other causes). Outcomes included operative time, complications according to the Henderson classification, reoperation rates, and functional outcomes.\n\n**RESULTS**: A total of 81 patients (84 procedures) were included with a median follow-up of 7 months (IQR 0\u201331); 57.1% were lost to follow-up. The overall complication rate was 42.9%, significantly higher in revision procedures than in primary PFRs. Infection (Henderson Type IV) was the most frequent complication and occurred predominantly in revision surgeries. No cases of aseptic loosening (Type II) were identified. Reoperation was required in 29% of all procedures, with the highest rates observed in infection cases.\n\n**CONCLUSIONS**: PFR remains a reliable limb-salvage option for extensive proximal femoral deficiency. Revision procedures, especially infection-related cases, carry substantially higher risks of complications and reoperation. In contrast, primary oncologic PFRs showed comparatively favorable outcomes. Infection remains the principal barrier to durable results, underscoring the need for optimized perioperative strategies.\n\n**LEVEL OF EVIDENCE**: Therapeutic Level III (retrospective cohort study).\n\n**SUPPLEMENTARY INFORMATION**: The online version contains supplementary material available at 10.1007/s00068-026-03151-2.",
-      "journal": "Eur J Trauma Emerg Surg",
-      "authors": [
-        "Ram\u00f3n R",
-        "G\u00f6kmen A",
-        "Mayor J",
-        "\u00d6zbek H",
-        "Niemann A",
-        "Mar\u00edn L",
-        "Omar Pacha T",
-        "Omar M",
-        "Ezechieli M",
-        "Graulich T"
-      ],
-      "date": "2026 Mar 31",
-      "doi": "10.1302/0301-620X.99B3.BJJ-2016-0822.R1",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "trauma centre",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41915025/"
-    },
-    {
-      "pmid": "41914895",
-      "title": "Single-Shot Regional Anesthesia for Early Rib Fracture-Associated Pain Management: Systematic Review and Network Meta-Analysis.",
-      "abstract": "**STUDY OBJECTIVE**: Regional anesthesia techniques for traumatic rib fractures are rapidly being adopted by clinicians in emergency medicine to augment early pain management; however, the impact of \"single-shot\" techniques remains unclear. This systematic review and network meta-analysis was designed to identify the most effective single-shot regional anesthesia (SSRA) techniques on early pain reduction and other outcomes in adult patients with rib fractures.\n\n**METHODS**: We searched PubMed, MEDLINE, EMBASE, CINAHL, and CENTRAL for randomized clinical trials that compared SSRA techniques for the purpose of rib fracture management. The primary outcome was pain score reported at 4-8 h. Secondary outcomes included pain scores to 24 h, respiratory function, opioid requirements, respiratory and procedural complications, hospital length of stay, and mortality. A random-effects meta-analysis was performed on pooled data for each pairwise comparison with effect sizes expressed as weighted mean differences (MD). Network meta-analysis was conducted using a Bayesian framework to simultaneously compare multiple treatments via a common comparator (standard care).\n\n**RESULTS**: We included nine randomized clinical trials with 738 patients. The pooled estimated MD in pain scores at 4-8 h for SSRA techniques compared to standard care -1.81 (95% credible interval [CrI], -2.11 to -1.51; moderate certainty). SSRA was also associated with a significant reduction in opioid requirements at 24 h (MD, -9.35 [95% CrI -11.1 to -7.59]; moderate certainty). NMA failed to demonstrate that any one SSRA technique was more conclusively beneficial than another. Confidence in these results was moderate to low, due to inconsistency in the control arms, imprecision of results, and substantial heterogeneity.\n\n**CONCLUSION**: The use of SSRA techniques compared to standard care or placebo likely reduces pain scores in the early phase of management of patients with rib fractures. Further studies using standardized controls are required to delineate superiority between different SSRA techniques.\n\n**TRIAL REGISTRATION**: PROSPERO Registration: CRD420251003934.",
-      "journal": "Acad Emerg Med",
-      "authors": [
-        "Partyka C",
-        "Farenden S",
-        "Tian D",
-        "Delaney A",
-        "Curtis K"
-      ],
-      "date": "2026 Apr 1",
-      "doi": "10.1111/acem.70277",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Thoracic"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "traumatic",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "rib fracture",
-          "strength": "strong",
-          "topic": "Thoracic"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41914895/"
-    },
-    {
-      "pmid": "41914606",
-      "title": "From Assessment to Action: Five Years of Progress in Trauma System Strengthening in Hawassa, Ethiopia.",
-      "abstract": "",
-      "journal": "J Am Coll Surg",
-      "authors": [
-        "Tefera G"
-      ],
-      "date": "2026 Mar 31",
-      "doi": "10.1097/XCS.0000000000001955",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41914606/"
-    },
-    {
-      "pmid": "41913308",
-      "title": "Helicopter versus GROUND emergency medical services in mountainous trauma care: a comparative cohort study on time efficiency, golden hour achievement, and clinical outcomes in the Qinba region.",
-      "abstract": "**OBJECTIVE**: To compare the time efficiency and clinical outcomes of helicopter emergency medical services (HEMS) versus ground emergency medical services (GROUND) for severe trauma in the mountainous Qinba region, with a focus on achieving the \"golden hour\" and its impact on patient prognosis.\n\n**METHODS**: This single-center retrospective cohort study included severe trauma patients (Injury Severity Score [ISS]\u2009\u2265\u200916) transported by HEMS or GROUND between January 2018 and September 2025. Propensity score matching (1:1) was performed using age, sex, APACHE II, and ISS scores to control for confounding. The primary outcome was a composite of major in-hospital complications. \"Golden hour\" compliance was defined as completion of critical imaging (FAST/CT) and admission to the operating room or intensive care unit within 60\u00a0min of the emergency call. Time metrics, mortality, organ dysfunction (SOFA), length of stay, and discharge neurological status (GOS) were compared.\n\n**RESULTS**: After matching, 77 well-balanced pairs were formed. HEMS achieved a significantly higher golden hour compliance rate than GROUND (71.43% vs. 2.60%, p\u2009<\u20090.001). HEMS significantly reduced transport time (median 15 vs. 105\u00a0min, p\u2009<\u20090.001) and total call-to-hospital arrival time (46 vs. 158\u00a0min, p\u2009<\u20090.001). Clinically, HEMS was associated with lower 24-h mortality (1.30% vs. 10.39%, p\u2009=\u20090.039), lower composite major complication rate (7.88% vs. 26.33%, p\u2009=\u20090.026), lower SOFA scores (median 12 vs. 20, p\u2009<\u20090.001), shorter ICU (5.62 vs. 9.78\u00a0days, p\u2009<\u20090.001) and hospital stays (13.44 vs. 21.34\u00a0days, p\u2009<\u20090.001), and higher GOS scores at discharge (4.0 vs. 2.64, p\u2009<\u20090.001). Multivariable Cox regression identified HEMS as an independent protective factor for better outcomes. ROC analysis showed perfect discrimination of HEMS vs. GROUND by transport time and total arrival time (AUC\u2009=\u20091.000).\n\n**CONCLUSION**: In mountainous regions, HEMS markedly improves golden hour attainment, translating into reduced early mortality, fewer complications, milder organ dysfunction, shorter hospitalizations, and better neurological recovery. These findings support the integration of HEMS into trauma systems in geographically challenging areas.",
-      "journal": "Scand J Trauma Resusc Emerg Med",
-      "authors": [
-        "Bai Y",
-        "Yang K",
-        "Gao J",
-        "Guo W"
-      ],
-      "date": "2026 Mar 30",
-      "doi": "10.1186/s13049-026-01604-6",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "Prehospital",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "injury severity",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "helicopter emergency",
-          "strength": "weak",
-          "topic": "Prehospital"
-        },
-        {
-          "keyword": "HEMS",
-          "strength": "weak",
-          "topic": "Prehospital"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41913308/"
     }
   ]
 }
