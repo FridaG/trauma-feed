@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-02T20:32:40.091676Z",
-  "total_articles": 254,
+  "generated": "2026-05-03T20:34:07.151349Z",
+  "total_articles": 251,
   "all_topics": [
     "Abdominal",
     "Burns",
@@ -378,6 +378,135 @@
     "Cochrane Database Syst Rev": "filtered"
   },
   "articles": [
+    {
+      "pmid": "42069650",
+      "title": "Renal replacement therapy in patients under extracorporeal membrane oxygenation: a narrative review.",
+      "abstract": "**BACKGROUND**: The use of extracorporeal membrane oxygenation (ECMO) has expanded for severe respiratory and circulatory failure. Acute kidney injury (AKI) is one of the most frequent complications. Up to 85% of ECMO patients develop AKI and approximately half of them require renal replacement therapy (RRT) making a comprehensive understanding of both therapies and their interaction essential for patient management. However, evidence to guide ECMO-specific RRT strategies remains limited.\n\n**MAIN BODY**: ECMO-related AKI arises from a complex interplay between patient and circuit factors that promote inflammation, endothelial injury, and tubular damage. Timing of RRT initiation in ECMO patients often relies on criteria used in the general critically ill population. Fluid overload is consistently associated with worse outcomes, and observational data suggest that earlier RRT, primarily to control fluid balance, may improve survival although randomized trials in ECMO patients are lacking. All RRT modalities can theoretically be used, but continuous techniques are preferred. RRT can be delivered via a parallel circuit using a dedicated venous catheter or integrated into the ECMO circuit. Integrated configurations reduce the need for additional vascular access and may prolong filter lifespan but require careful pressure management and team expertise to avoid alarms, hemolysis, and air embolism. Anticoagulation strategies must balance bleeding and thrombosis risk across both circuits; unfractionated heparin remains standard, while regional citrate anticoagulation can safely extend filter lifespan in selected patients although data is lacking in patients under veno-arterial ECMO. RRT during ECMO is associated with higher short-term mortality and an increased burden of chronic kidney disease among survivors.\n\n**CONCLUSIONS**: The management of AKI in ECMO patients remains a major clinical challenge. While RRT is often required in this population, optimal strategies for its initiation, modality selection, and integration with ECMO circuits are still evolving. Current evidence underscores the need for individualized approaches based on patient characteristics. Future research should focus on defining standardized protocols for RRT implementation in ECMO, use of regional citrate anticoagulation, optimizing patient selection, and evaluating long-term renal and survival outcomes.",
+      "journal": "Crit Care",
+      "authors": [
+        "Tomovic F",
+        "Thibault-Baum A",
+        "Glogonjac N",
+        "Martens CP",
+        "Sajinovic S",
+        "Premuzic V",
+        "Bell M",
+        "Forni L",
+        "Schneider A",
+        "Rimmel\u00e9 T",
+        "Bidar F"
+      ],
+      "date": "2026 May 02",
+      "doi": "10.1186/s13054-026-06033-6",
+      "tier": "filtered",
+      "topics": [
+        "Cardiac Arrest"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "ECMO",
+          "strength": "weak",
+          "topic": "Cardiac Arrest"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42069650/"
+    },
+    {
+      "pmid": "42069492",
+      "title": "Emergency medical services response times to motor vehicle crashes increased in the USA over the period 1987-2020.",
+      "abstract": "**INTRODUCTION**: The timing of Emergency Medical Services (EMS) notification, crash scene arrival, and hospital arrival may impact motor vehicle fatalities. We examined EMS response time intervals over the past three decades, considering the effects of weather, vehicles involved, time of day, and location.\n\n**METHODS**: We used the Fatal Accident Reporting System to compute and describe annual (1987-2020) EMS response time intervals. This included total time (i.e., crash-to-hospital), as well as the intervals between four key timepoints: crash, crash notification, crash scene arrival, and hospital arrival. We examined the proportion of fatal crashes with total intervals under 60\u00a0min (i.e., the \"golden hour\"), and where the crash arrival-to-hospital interval was under 30\u00a0min (the \"beneficial timeframe\"). Additionally, analyses were stratified by crash factors including weather (poor/clear) number of vehicles involved (single/multiple), time of day (early morning/rest of the day), and location (urban/rural).\n\n**RESULTS**: A total of 310,001 fatal crashes were analyzed. Between 1987-1994 total median response times ranged between 40 and 42\u00a0min. By 1999, intervals had increased to 45\u00a0min; elevated intervals were evident through 2009. By 2020, observed intervals had returned to 41\u00a0min. Paralleling this pattern, crashes with \"golden hour\" intervals decreased from 77.0% in 1987 to 72.4% in 2009 and increased to 78.0% by 2020. Similarly, crashes with a \"beneficial timeframe\" decreased from 60% in 1987 to 52% in 2009 and increased to 56.0% by 2020. The largest discrepancies for crash strata were evident for location: rural crash total response time intervals were 15-23\u00a0min longer than urban.\n\n**CONCLUSIONS**: From 1987-2020, the total time response interval following a fatal crash remained relatively stable. However, steady increases in intervals between crash notification and both crash scene and hospital arrival are evident.\n\n**PRACTICAL APPLICATIONS**: Future research should focus on approaches to reduce response time intervals.",
+      "journal": "Injury",
+      "authors": [
+        "Dubois S",
+        "Gravelle P",
+        "Savage DW",
+        "Maxwell H",
+        "B\u00e9dard M"
+      ],
+      "date": "2026 Apr 23",
+      "doi": "10.1016/j.injury.2026.113300",
+      "tier": "filtered",
+      "topics": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42069492/"
+    },
+    {
+      "pmid": "42069039",
+      "title": "Prediction of Shock-refractory Ventricular Fibrillation in Patients with Out-of-Hospital Cardiac Arrest: External Validation of an ECG-based Approach.",
+      "abstract": "**BACKGROUND**: Shock-refractory ventricular fibrillation (VF) patients can be defined as those requiring at least three defibrillation attempts. Patients with refractory VF may benefit from personalized resuscitation treatments. We sought to externally validate a previously described electrocardiogram (ECG) feature calculation and analysis strategy for predicting refractory VF in an Asian out-of-hospital cardiac arrest (OHCA) cohort.\n\n**METHODS**: We conducted a retrospective cohort study using the Seoul OHCA registry (2020-2023). We included patients with an initial shockable rhythm and 3-second ECG segments before and after the initial shock. Refractory VF was defined by patients requiring \u22653 total shocks (primary definition) or \u22653 consecutive shocks (alternative definition). We trained a logistic model to predict refractory VF based on 25 previously-described ECG scalogram features calculated from ECG segments before and after the first shock. Performance was quantified by the area under the receiver operating characteristic curve (AUC) evaluated via leave-one-out cross-validation (LOOCV), and was compared against the original study's reported AUC.\n\n**RESULTS**: Of the 428 included OHCA patients with initial shockable rhythm, 202 (47.2%) received \u22653 shocks during prehospital resuscitation. The logistic combination of 25 ECG features demonstrated good performance, with LOOCV AUCs of 0.782 [95% CI 0.736-0.828] for predicting \u22653 total shocks and 0.805 [95% CI 0.762-0.858] for \u22653 consecutive shocks. These AUCs were not significantly different versus the original study's AUC of 0.846 (P=0.06 and P=0.22 for respective differences).\n\n**CONCLUSION**: A strategy using ECG features surrounding initial shock showed robust performance for predicting refractory VF in a distinct patient population.",
+      "journal": "Resuscitation",
+      "authors": [
+        "Park JH",
+        "Coult J",
+        "Choi DH",
+        "Hong KJ",
+        "Song KJ",
+        "Rea TD",
+        "Sayre M",
+        "Shin SD"
+      ],
+      "date": "2026 Apr 30",
+      "doi": "10.1016/j.resuscitation.2026.111114",
+      "tier": "filtered",
+      "topics": [
+        "Prehospital"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "prehospital",
+          "strength": "weak",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42069039/"
+    },
+    {
+      "pmid": "42068850",
+      "title": "The fracture orthopedic risk of non-home discharge (FORD) score: A novel bedside predictive tool for non-home discharge in orthopedic trauma patients.",
+      "abstract": "**INTRODUCTION**: Non-home discharge after orthopedic trauma is associated with worse outcomes, increased costs, and greater resource utilization. Existing prediction tools often rely on hospital course variables unavailable at presentation or are limited to specific fracture populations. This study aimed to develop and validate the Fracture Orthopedic Risk of Non-Home Discharge (FORD) Score, a bedside tool using only emergency department-available variables to predict non-home discharge in adult fracture patients.\n\n**METHODS**: A retrospective cohort study was conducted of adult fracture patients treated at an ACS-verified Level I trauma center from 2015 to 2023. Patients were randomly split into derivation (67%) and validation (33%) cohorts. Candidate predictors available immediately upon patient arrival were evaluated using univariate logistic regression, followed by multivariate logistic regression after collinearity assessment. Independent predictors were converted into an integer-based point system to construct the FORD Score. Model discrimination, calibration, and classification performance were assessed in the validation cohort and compared with established trauma severity measures.\n\n**RESULTS**: The final cohort included 8422 patients, of whom 8.1% had non-home discharge. Fifteen independent predictors comprised the FORD Score, including age, physiologic abnormalities, fracture characteristics, and transport mode. In the validation cohort, FORD demonstrated good discrimination (AUROC 0.818, 95% CI 0.791-0.846) and excellent calibration. At the optimal threshold (score \u22654), sensitivity was 74.1%, specificity 75.8%, PPV 21.3%, and NPV 97.1%. FORD outperformed GTOS-II (AUROC 0.777; DeLong p\u00a0=\u00a00.018) and TRIAGES (AUROC 0.746; p\u00a0<\u00a00.001). Non-home discharge rates ranged from 1.7% in the lowest risk group to 34.1% in the highest, a 20-fold gradient.\n\n**CONCLUSION**: The FORD Score is a validated bedside tool that accurately predicts non-home discharge in adult orthopedic trauma patients using only admission data, enabling early discharge planning and optimized resource allocation.",
+      "journal": "Injury",
+      "authors": [
+        "Salman SG",
+        "Phadke R",
+        "Carlin T",
+        "Rana A",
+        "Dawson JR",
+        "Fitzgerald CA",
+        "Seger CP",
+        "Zielinski MD",
+        "Dumas RP"
+      ],
+      "date": "2026 Apr 28",
+      "doi": "10.1016/j.injury.2026.113301",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Orthopaedic",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "orthopaedic trauma",
+          "strength": "strong",
+          "topic": "Orthopaedic"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42068850/"
+    },
     {
       "pmid": "42067940",
       "title": "Association of mortality and neurological outcomes with hypocapnia in adult patients with acute brain injury: an updated meta-analysis.",
@@ -9860,249 +9989,6 @@
       ],
       "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41935297/"
-    },
-    {
-      "pmid": "41934055",
-      "title": "Delivering psychosocial care and support in traumatic injury follow-up: A qualitative study of clinician's experiences.",
-      "abstract": "**INTRODUCTION**: The purpose of trauma follow-up care after hospital discharge is to support patients with serious injuries recover to their fullest extent. Whilst the physical health of patients is a central focus of follow-up care, psychosocial support is described as challenging and inadequate, with few trauma follow-up services able to provide integrated psychosocial support inclusive of routine access to psychosocial experts. As trauma follow-up care within Australia and New Zealand (Australia and New Zealand) is predominantly provided by nursing and medical trauma clinicians, exploring how psychosocial care and support is provided by these clinicians is warranted. The broad aim of this qualitative study was to explore trauma clinicians' experiences in providing trauma follow-up care with this paper focusing on the provision of psychosocial care and support.\n\n**METHODS**: Semi-structured interviews were used to explore the experiences of trauma clinicians in providing follow-up care after hospital discharge to patients who have experienced serious injury. Twenty participants were purposively selected from public hospitals throughout Australia and New Zealand who provided trauma follow-up care after hospital discharge. Qualitative data were transcribed verbatim and analysed using inductive content analysis.\n\n**RESULTS**: Psychosocial care and support provided by trauma service clinicians during follow-up appointments to patients who have experienced serious injuries can be separated into three categories: (i) recognising the importance of psychosocial health after injury; (ii) components of psychosocial care which has three sub-categories of (a) comprehensive psychosocial care and support; (b) variability in assessment; (c) health care practitioner preparedness to provide psychosocial support; and (iii) access to psychological services.\n\n**CONCLUSION**: Trauma clinicians recognise the importance of providing psychosocial care and support to patients who experience serious injury. In the absence of routine access to expert psychosocial/psychological practitioners, trauma clinicians provided psychosocial support using a variety of approaches which results in disparities in how psychosocial care is provided to patients in Australia and New Zealand. Implementation of a standardised assessment to psychosocial health, in conjunction with an anticipatory framework to assist trauma clinicians in providing psychosocial care and support, may provide a partial solution, and reduce the incidence of psychosocial issues and improve an individual's quality of life following serious injury.",
-      "journal": "Injury",
-      "authors": [
-        "Wake E",
-        "Ranse J",
-        "Marshall AP"
-      ],
-      "date": "2026 Apr 01",
-      "doi": "10.1016/j.injury.2026.113198",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic",
-          "strength": "strong",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41934055/"
-    },
-    {
-      "pmid": "41932674",
-      "title": "Effect of bystander cardiopulmonary resuscitation type on 1-month survival in drowning following out-of-hospital cardiac arrest in natural water bodies: a nationwide retrospective cohort study.",
-      "abstract": "**AIM**: This study aimed to examine the total causal effect of bystander cardiopulmonary resuscitation (BCPR) type and 1-month survival in cases of drowning following out-of-hospital cardiac arrest (OHCA) in natural water bodies.\n\n**METHODS**: This retrospective cohort study used the Utstein style database and the Emergency Transport Registry of Japan from 2016 to 2022. We included cases of drowning following OHCA in natural water bodies (e.g., sea, river/pond). BCPR was categorized as no-BCPR, hands-only CPR (chest compressions only), and conventional CPR (chest compressions with rescue breathing). Multivariable logistic regression analysis was used to estimate adjusted odds ratios (AORs) and 95% confidence intervals (CIs).\n\n**RESULTS**: A total of 3914 patients were eligible for analysis (no-BCPR, n\u00a0=\u00a02633 [67.3%]; hands-only CPR, n\u00a0=\u00a01049 [26.8%]; conventional CPR, n\u00a0=\u00a0232 [5.9%]). The proportion of 1-month survival was 2.7% for no-BCPR, 9.4% for hands-only CPR, 24.1% for conventional CPR. Multivariable logistic regression analysis revealed that compared with no-BCPR, both conventional CPR (AOR [95% CI], 3.70 [2.31-5.93]) and hands-only CPR (AOR [95% CI], 1.74 [1.19-2.54]) were positively associated with 1-month survival. Furthermore, hands-only CPR and conventional CPR was positively associated with 1-month survival (AOR [95% CI], 2.13 [1.41-3.23]).\n\n**CONCLUSION**: In cases of drowning following OHCA in natural water bodies, both conventional CPR and hands-only CPR indicated a beneficial causal effect on 1-month survival compared to no-BCPR, with conventional CPR showing greater causal effect. These findings support prioritizing conventional CPR for drowning following OHCA in natural water bodies.",
-      "journal": "Resuscitation",
-      "authors": [
-        "Abe Y",
-        "Kimura R",
-        "Nakagawa K",
-        "Kinoshi T",
-        "Ishikawa T",
-        "Tanaka H"
-      ],
-      "date": "2026 Apr 01",
-      "doi": "10.1016/j.resuscitation.2026.111079",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "drowning",
-          "strength": "strong",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41932674/"
-    },
-    {
-      "pmid": "41932264",
-      "title": "Evaluating maternal mortality, risk factors, and emergency c-section timing in polytrauma pregnant patients.",
-      "abstract": "**BACKGROUND**: Trauma is a leading non-obstetric cause of maternal morbidity and mortality, yet standardized guidelines for the management of pregnant polytrauma patients remain limited. Physiologic changes of pregnancy may alter trauma response and complication risk, but data guiding risk stratification and time-sensitive interventions are sparse.\n\n**OBJECTIVE**: To evaluate maternal mortality and complications among pregnant polytrauma patients, with particular focus on maternal age, early blood transfusion, and timing of emergency cesarean section.\n\n**METHODS**: This retrospective cohort study analyzed data from the American College of Surgeons Trauma Quality Improvement Program Participant Use File (ACS-TQIP-PUF) from 2017 to 2023. Pregnant trauma patients aged 18-45\u00a0years with moderate to severe injuries (ISS \u22659) were included. Maternal outcomes were assessed across subgroups stratified by maternal age, receipt of blood products within 4\u00a0h of hospital presentation, and timing of emergency cesarean section (\u22644\u00a0h vs >4\u00a0h).\n\n**RESULTS**: Among 2086 pregnant polytrauma patients, maternal age was not independently associated with statistically significant differences in mortality or major complications; however, older patients demonstrated higher point estimates for thromboembolic complications and longer ICU length of stay. Receipt of blood products within 4\u00a0h was strongly associated with increased 24-h mortality (aOR 10.923, p\u00a0=\u00a00.003) and in-hospital mortality (aOR 15.033, p\u00a0=\u00a00.005). Emergency cesarean section after 4\u00a0h of admission was associated with a significantly shorter ICU length of stay (\u03b2: -3.196, 95% CI: -6.25 to -0.14, p\u00a0=\u00a00.040).\n\n**CONCLUSIONS**: In pregnant polytrauma patients, early blood transfusion identified a subgroup at markedly increased risk of early and in-hospital mortality, underscoring injury severity and resuscitation needs as primary drivers of adverse outcomes rather than maternal age alone. These findings emphasize the importance of timely, multidisciplinary trauma-obstetric decision-making & risk-stratification approach to optimize maternal outcomes.",
-      "journal": "Am J Emerg Med",
-      "authors": [
-        "Indorewala Y",
-        "Prashar S",
-        "Lee P",
-        "Nasef Y",
-        "Nishida C",
-        "Yates Z",
-        "Elangovan D",
-        "Hersperger SG",
-        "Elkbuli A"
-      ],
-      "date": "2026 Mar 26",
-      "doi": "10.1016/j.ajem.2026.03.023",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Haemorrhage",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "polytrauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "injury severity",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "blood product",
-          "strength": "weak",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "blood transfusion",
-          "strength": "weak",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "trauma quality",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41932264/"
-    },
-    {
-      "pmid": "41932165",
-      "title": "The need for long-term support: Five-year outcomes after severe injury in older adults.",
-      "abstract": "**BACKGROUND**: While the short-term risks of severe injury among older adults (age\u226565) are well studied, little is known about long-term functional outcomes in this population. This knowledge gap impacts clinicians' ability to counsel patients and provide care aligned with their values. Our objective was to evaluate the association between severe injury and the likelihood of an older adult remaining alive and living in their own home five years later.\n\n**METHODS**: This was a retrospective, matched, population-based cohort study using administrative health data in a large regional trauma system (2006-2019). Community-dwelling older adults presenting with severe injury were matched with uninjured controls from the general population on age, sex, rurality, social determinants of health, comorbidity, and frailty. Time from injury to nursing home admission or death was compared between injured patients and matched controls using Kaplan-Meier analysis and extended Cox models.\n\n**RESULTS**: A total of 20,217 older adults admitted with severe injury were identified and matched with controls. Median ISS was 16 (IQR 16-21), and in-hospital mortality was 22.8% (n\u00a0=\u00a04615). After five years, the probability of remaining alive and home was 40% for all included cases and 64% for controls. Median time spent alive and home for cases was 2.7 years and exceeded the 5-year follow-up period for controls. While the risk of nursing home admission or death decreased over time, cases remained at elevated risk compared to controls for at least 5 years (years 2-5, HR 1.18, 95% CI 1.13-1.24).\n\n**CONCLUSION**: Most severely injured older adults survive to live in their own home for several years following injury. Nonetheless, patients who survive their injury have an increased risk of nursing home admission or death for at least five years. Long-term supports are necessary to ensure that patients remain alive and independent for years following their injury.",
-      "journal": "Injury",
-      "authors": [
-        "Guttman MP",
-        "Williams PJ",
-        "Tillmann BW",
-        "Nathens AB",
-        "Scales DC",
-        "Wong CL",
-        "Gotlib Conn L",
-        "Haas B"
-      ],
-      "date": "2026 Mar 25",
-      "doi": "10.1016/j.injury.2026.113194",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41932165/"
-    },
-    {
-      "pmid": "41932164",
-      "title": "The evaluation of sexual dysfunction in patients with spinopelvic dissociation underwent triangular osteosynthesis: A single-center retrospective study.",
-      "abstract": "**BACKGROUND**: Spinopelvic dissociation (SPD) is an infrequent high-energy injury, which is often associated with lumbosacral plexus and cauda equina deficits Sexual dysfunction (SD) is a common comorbidity of the SPD, caused by direct or indirect trauma to the neurovascular structures within the pelvic cavity. The objective of this retrospective study was to to compare the sexual functions of patients with SPD underwent triangular osteosynthesis (TOS) with the normal population.\n\n**METHODS**: The study was approved by the medical school's institutional review board (IRB). Between 2012 and 2023, 23 consecutive patients (9 women and 14 men) with SPD (16H-type and 7 U-type) were treated using TOS with a minimum follow- up of 36 months. The sexual functions of the patients were evaluated and compared with the Female Sexual Functional Index (FSFI) questionnaires for women and the International Index of Erectile Function (IIEF) questionnaires for men. A control group was formed from the normal population of the same age and gender group as these patients.\n\n**RESULTS**: The average age of patients was 31.9 years (range, 18-65 years). Mean follow-up was 37.8 months (range 36-51 months). No significant difference was found in the male gender group compared to the normal population in terms of erectile function (P\u00a0>\u00a00.05), but a significant difference was found in orgasmic function, sexual desire, sexual satisfaction, and general satisfaction (P\u00a0<\u00a00.05). In the female gender group, no significant difference was found in sexual desire, lubrication, and pain during intercourse compared to the normal population (P\u00a0>\u00a00.05), but a significant difference was found in sexual arousal, orgasmic function, satisfaction, and total score (P\u00a0<\u00a00.05).\n\n**CONCLUSION**: Compared to the normal population, sexual functions can be preserved partially in patients with SPD underwent TOS. The results of our preliminary data did not demonstrate a significant association between neurogenic etiology and sexual dysfunction following SPD.",
-      "journal": "Injury",
-      "authors": [
-        "Erkan S",
-        "Kurt C",
-        "Ka\u00e7maz SE",
-        "Okcu G"
-      ],
-      "date": "2026 Mar 31",
-      "doi": "10.1016/j.injury.2026.113165",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41932164/"
-    },
-    {
-      "pmid": "41932163",
-      "title": "Early cost-effectiveness analysis of continuous compartment pressure monitoring modelled in patients with a fracture of the tibial diaphysis.",
-      "abstract": "**BACKGROUND**: The aim of this study was to model the cost-effectiveness of continuous pressure monitoring (CPM) in a hypothetical cohort of patients with a fracture of the tibial diaphysis.\n\n**METHODS**: Decision-tree model structure was utilised to capture 60-day costs and health related quality of life (HRQoL) following a fracture of the tibial diaphysis. Depending on the effectiveness of the diagnostic method, patients were allocated to one of six validated outcome grades for acute compartment syndrome (ACS). Mean costs, utilities, and hospital length of stay were applied to each of these grades. Parameter inputs and costs were obtained from UK-specific published literature where possible. Analysis was performed from the UK National Health Service (NHS) perspective to determine the estimated impact in a hypothetical cohort of 1000 patients with a tibial diaphyseal fracture using CPM versus current standard diagnostic methods for ACS.\n\n**RESULTS**: Base case results indicated that the utilisation of CPM was associated with significant cost savings of \u00a3\u00a0452/patient when compared with the standard care of clinical assessment and/or single point pressure measurement (SPPM). An associated additional 2733 NHS bed days were saved. Incremental quality-adjusted life year (QALY) gain of 0.02 was found, resulting in a dominant incremental cost effectiveness ratio (ICER). When analyses were performed considering different diagnostic outcome grade distributions and for a varying time horizon, CPM was found to have both increased cost savings and cost-efficacy.\n\n**CONCLUSIONS**: This early economic model suggests that CPM of patients with a tibial diaphyseal fracture could be a cost-effective diagnostic option, although more data is required in order to validate the model assumptions. However, given the established evidence demonstrating the superior diagnostic performance characteristics of CPM when compared to clinical symptoms and/or SPPM, this economic data adds further support to the use of CPM as an essential diagnostic adjunct in patients at risk of ACS.",
-      "journal": "Injury",
-      "authors": [
-        "Duckworth AD",
-        "Williamson TR",
-        "Harper S",
-        "Buckley C",
-        "Sackier J",
-        "Bouklouch Y"
-      ],
-      "date": "2026 Mar 20",
-      "doi": "10.1016/j.injury.2026.113166",
-      "tier": "filtered",
-      "topics": [
-        "Orthopaedic"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "compartment syndrome",
-          "strength": "weak",
-          "topic": "Orthopaedic"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41932163/"
-    },
-    {
-      "pmid": "41932162",
-      "title": "The environmental impact of tibial fracture-related infections.",
-      "abstract": "**BACKGROUND**: Healthcare is an energy and resource intensive sector, imparting significant environmental burden on a global scale. Minimizing avoidable resource utilization within hospitals can help achieve environmental sustainability amongst healthcare systems. Reducing surgical complications, such as tibial fracture-related infections (FRIs), which require resource-rich healthcare activities can be an impactful approach to achieve environmental sustainability, while maintaining or advancing patient health outcomes. The objective of this study was to leverage healthcare resource utilization data to evaluate the environmental impact of tibial FRIs amongst patients undergoing surgical treatment.\n\n**METHODS**: An environmental model was developed using inputs informed from a systematic literature review and synthesized in a meta-analysis. Healthcare resource utilization data were used to compare the environmental impact for patients with and without a tibial FRI in relation to key healthcare activities such as hospital length of stay, reoperations, antibiotic therapy, and emergency room visits. A subgroup analysis was conducted to understand the environmental implications of more severe open fractures complicated by FRI, to supplement the mixed (open/closed) fracture population presented in the base case. Sustainability data was obtained from the Sustainable Healthcare Coalition's Care Pathways Guidance document and other published sources. Outcomes assessed were greenhouse gas (GHG) emissions, water use, and waste generated.\n\n**RESULTS**: The results of this environmental impact assessment demonstrated that effectively preventing tibial FRIs can lead to a substantial reduction in carbon footprint. Preventing one FRI may result in an average reduction of 1025.3\u00a0kg CO\n\n**CONCLUSION**: Preventing tibial FRIs may have a substantial environmental impact leading to a reduction in GHG emissions, water use, and waste generation. Interventions that reduce the incidence of tibial FRIs may contribute to the global goal of environmental sustainability. The results of this study are intended to empower healthcare providers and decision makers within the healthcare sector to make informed decisions that contribute to improved environmental sustainability, while maintaining or advancing patient health outcomes.",
-      "journal": "Injury",
-      "authors": [
-        "Giannoudis PV",
-        "Trouiller JB",
-        "Kocaman M",
-        "Walczyk-Mooradally A",
-        "Battaglia S",
-        "Kane S",
-        "Tong C",
-        "Blauth M",
-        "Metsemakers WJ"
-      ],
-      "date": "2026 Mar 25",
-      "doi": "10.1016/j.injury.2026.113191",
-      "tier": "filtered",
-      "topics": [
-        "Orthopaedic"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "open fracture",
-          "strength": "weak",
-          "topic": "Orthopaedic"
-        },
-        {
-          "keyword": "tibial fracture",
-          "strength": "strong",
-          "topic": "Orthopaedic"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41932162/"
     }
   ]
 }
