@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-03T20:34:07.151349Z",
+  "generated": "2026-05-04T20:59:45.339550Z",
   "total_articles": 251,
   "all_topics": [
     "Abdominal",
@@ -378,6 +378,74 @@
     "Cochrane Database Syst Rev": "filtered"
   },
   "articles": [
+    {
+      "pmid": "42081012",
+      "title": "Transferrals and clinical pathways of unstable pelvic fractures over the last 10 years - a retrospective analysis of the Trauma Register DGU",
+      "abstract": "**PURPOSE**: Pelvic fractures are classified as stable or unstable. They correlate with a severity of trauma and the initial medical treatment is decisive. This study evaluated the transferrals of such fractures and described the initial treatment as well as the clinical course.\n\n**METHODS**: We analysed retrospective data from a large cohort of the TraumaRegister DGU\n\n**RESULTS**: The majority of the patients was male and about 53 years old. Blunt trauma was the leading trauma mechanism. Concomitant injuries (AIS 2+) affected thorax (56%), spinal cord (41%), lower extremities (38%), head (31%) and abdomen (24%). Among primary admitted cases with pelvic fractures (n\u2009=\u200936,398), 21,091 cases (57.9%) had an unstable pelvic fracture (AIS pelvis 3-5). Level 1 trauma centers not only treated 12,836 primary admitted cases with unstable pelvic fractures (83.5%) but also received 2,365 patients (15.4%) from other hospitals via transfer; while only 1% of cases were transferred out early (n\u2009=\u2009170). Transfusion was administered in 5,984 patients (16.5%) (AIS 2-5). A pelvic binder was applied in 7,096 (36.3%) patients and surgical stabilisation was performed in 4,075 (14.9%) patients. The length of stay on intensive care unit was highest in AIS 5 with 6 days. The mortality rate was 38.5% in AIS 5, and 9.9% in AIS 2.\n\n**CONCLUSION**: Over the course of the last 10 years, the prevalence of unstable pelvic ring fractures (AIS 3-5) constantly remained around 9%. Unstable pelvic fractures were increasingly transferred to a Level I trauma center. Unstable pelvic fractures correlated with a high Injury Severity Score (ISS). The early treatment involved the transfusion of packed red blood cells, the application of a pelvic binder and the surgical stabilisation. Though, these tools were increasingly utilized with the severity of trauma.",
+      "journal": "Eur J Trauma Emerg Surg",
+      "authors": [
+        "Weuster M",
+        "Pfeifer R",
+        "Seekamp A",
+        "Lippross S",
+        "Lefering R",
+        "Dgu T",
+        "Menzdorf L"
+      ],
+      "date": "2026 May 04",
+      "doi": "10.1007/s00402-025-05782-3",
+      "tier": "core",
+      "topics": [
+        "General Trauma",
+        "Haemorrhage",
+        "Pelvic",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "blunt trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "injury severity",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "pelvic fracture",
+          "strength": "weak",
+          "topic": "Pelvic"
+        },
+        {
+          "keyword": "pelvic binder",
+          "strength": "weak",
+          "topic": "Pelvic"
+        },
+        {
+          "keyword": "pelvic ring",
+          "strength": "weak",
+          "topic": "Pelvic"
+        },
+        {
+          "keyword": "packed red blood cells",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42081012/"
+    },
     {
       "pmid": "42069650",
       "title": "Renal replacement therapy in patients under extracorporeal membrane oxygenation: a narrative review.",
@@ -9931,64 +9999,6 @@
       "keyword_matches": [],
       "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41936237/"
-    },
-    {
-      "pmid": "41935297",
-      "title": "Outcomes of emergency department and operating room preperitoneal pelvic packing in hemodynamically unstable severe pelvic fractures: a retrospective risk-adjusted observational study.",
-      "abstract": "**BACKGROUND**: Hemodynamically unstable patients with pelvic fractures have a high mortality rate. Most bleeding from pelvic fractures originates from venous and bony sources; therefore, direct compression of the pelvic wall can be effective, and preperitoneal pelvic packing (PPP) should be considered as a first-line intervention. PPP can be performed in both the emergency department (ED) and the operating room (OR). However, outcomes according to the location of PPP have not been clearly established. This study evaluated the outcomes of ED-PPP and OR-PPP based on the location where the surgery was performed.\n\n**METHODS**: This single-center, retrospective, observational study included patients who underwent PPP for pelvic fractures with an Abbreviated Injury Scale score of \u2265\u20094 from July 2015 to June 2025. Data were collected from a prospectively maintained trauma registry. Patients were categorized into ED-PPP and OR-PPP groups according to the site of PPP. Baseline characteristics, injury severity (Injury Severity Score, Revised Trauma Score, and Trauma and Injury Severity Score), and interventions, including ED thoracotomy, resuscitative endovascular balloon occlusion of the aorta, tranexamic acid administration, and time to PPP and transfusion, were compared. Mortality outcome measures were evaluated at 24\u00a0h, 7 days, and as overall in-hospital mortality and were risk-adjusted using W- and Z-statistic.\n\n**RESULTS**: Fifty patients were included, with 17 and 33 in the ED-PPP and OR-PPP groups, respectively. Patients in the ED-PPP group were more critically ill at presentation, with lower systolic blood pressure, lower Glasgow Coma Scale scores, and a higher incidence of cardiac arrest before PPP. Time from scene to PPP (114.4\u2009\u00b1\u200968.6 vs. 284.3\u2009\u00b1\u2009186.9\u00a0min) and to transfusion (84.5\u2009\u00b1\u200953.3 vs. 126.3\u2009\u00b1\u200972.5\u00a0min) was shorter in the ED-PPP group. The W-statistic demonstrated a greater number of actual survivors than expected in the ED-PPP and OR-PPP groups at 24\u00a0h (38.31 vs. 29.69) and 7 days (26.55 vs. 17.57), despite the high crude mortality rates (76.5% vs. 27.3%). Risk-adjusted in-hospital mortality showed no significant difference (W-statistic 3.02 vs. 5.45).\n\n**CONCLUSION**: PPP is associated with improved early and intermediate survival. ED-PPP significantly reduces the time to hemorrhagic control and should be strongly considered as an important rescue damage control intervention for patients with life-threatening pelvic bleeding.",
-      "journal": "World J Emerg Surg",
-      "authors": [
-        "Lee SH",
-        "Kim JT",
-        "Choi S",
-        "Keum MA",
-        "Lee EJ",
-        "Lee H",
-        "Kyoung KH"
-      ],
-      "date": "2026 Apr 04",
-      "doi": "10.1186/s13017-026-00695-x",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "Haemorrhage",
-        "Systems/QI",
-        "Thoracic"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "injury severity",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "thoracotomy",
-          "strength": "weak",
-          "topic": "Thoracic"
-        },
-        {
-          "keyword": "damage control",
-          "strength": "weak",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "tranexamic acid",
-          "strength": "weak",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "trauma registry",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41935297/"
     }
   ]
 }
