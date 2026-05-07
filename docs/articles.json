@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-06T21:04:00.199542Z",
-  "total_articles": 248,
+  "generated": "2026-05-07T20:58:39.666704Z",
+  "total_articles": 256,
   "all_topics": [
     "Abdominal",
     "Burns",
@@ -379,6 +379,554 @@
   },
   "articles": [
     {
+      "pmid": "42096239",
+      "title": "Adjunctive Intra-Arterial Alteplase After Successful Thrombectomy for Acute Ischemic Stroke: The CHOICE-2 Randomized Clinical Trial.",
+      "abstract": "**IMPORTANCE**: Despite high recanalization rates with endovascular thrombectomy for acute ischemic stroke due to large vessel occlusion, functional outcomes remain suboptimal. The benefit of adjunctive intra-arterial thrombolysis after successful thrombectomy is uncertain.\n\n**OBJECTIVE**: To assess whether adjunctive intra-arterial alteplase after successful thrombectomy improves functional outcomes and cerebral reperfusion.\n\n**DESIGN, SETTING, AND PARTICIPANTS**: Randomized, open-label trial with blinded outcome assessment conducted at 14 stroke centers in Spain from December 11, 2023, through November 26, 2025. A total of 440 patients with acute ischemic stroke due to large vessel occlusion treated with thrombectomy within 24 hours and achieving an expanded Treatment in Cerebral Ischemia score of 2b50 to 3 were randomized.\n\n**INTERVENTIONS**: Thrombectomy plus intra-arterial alteplase (0.225 mg/kg; maximum dose, 20 mg/kg) infused over 15 minutes (n\u2009=\u2009221) or thrombectomy alone (n\u2009=\u2009219).\n\n**MAIN OUTCOMES AND MEASURES**: The primary outcome was an excellent functional outcome at 90 days, which was defined as a modified Rankin Scale score of 0 or 1. There were 6 secondary outcomes, including residual hypoperfusion on follow-up computed tomography perfusion. The safety outcomes included symptomatic intracranial hemorrhage and death.\n\n**RESULTS**: Of 3786 patients treated with thrombectomy, 2776 (73%) fulfilled angiographic criteria and 440 (12%) were randomized. There were 433 patients who were treated as randomized (median age, 76 [IQR, 75-78] years; 51% female). At 90 days, 57.5% of patients (123/214) in the thrombectomy plus intra-arterial alteplase group had a modified Rankin Scale score of 0 or 1 vs 42.5% of patients (93/219) in the thrombectomy alone group (adjusted risk difference, 15.0% [95% CI, 5.7% to 24.3%]; P\u2009=\u2009.002). Of 6 secondary outcomes, 4 showed no significant between-group differences. Residual hypoperfusion occurred in 28.6% (55/192) of patients in the thrombectomy plus intra-arterial alteplase group vs 50.5% (96/190) of patients in the thrombectomy alone group (adjusted risk difference, -22.0% [95% CI, -31.5% to -12.4%]; P\u2009<\u2009.001) and symptomatic intracranial hemorrhage occurred in 1.4% (3/214) vs 0.5% (1/219), respectively (adjusted odds ratio, 3.10 [95% CI, 0.32 to 30.0]; P\u2009=\u2009.33). Mortality at 90 days was 12.1% (26/214) in the thrombectomy plus intra-arterial alteplase group vs 6.4% (14/219) in the thrombectomy alone group (adjusted risk difference, 5.9% [95% CI, 0.5% to 11.3%]; P\u2009=\u2009.03).\n\n**CONCLUSIONS AND RELEVANCE**: Among patients with acute ischemic stroke and successful thrombectomy, adjunctive intra-arterial alteplase increased the proportion achieving excellent functional outcome at 90 days without a significant increase in symptomatic intracranial hemorrhage. Higher mortality in the thrombectomy plus intra-arterial alteplase group warrants further study.\n\n**TRIAL REGISTRATION**: ClinicalTrials.gov Identifier: NCT05797792.",
+      "journal": "JAMA",
+      "authors": [
+        "Ren\u00fa A",
+        "Fern\u00e1ndez-Couto MD",
+        "de la Riva P",
+        "Delgado-Mederos R",
+        "Herrera M",
+        "Morales A",
+        "Terce\u00f1o M",
+        "L\u00f3pez-Hern\u00e1ndez N",
+        "Mart\u00ednez-Gald\u00e1mez M",
+        "Dorado L",
+        "Vega P",
+        "Morales-Caba L",
+        "Gonz\u00e1lez E",
+        "Alonso M",
+        "Barredo Ben\u00edtez P",
+        "Bermejo R",
+        "Cabero-Arnold A",
+        "Cabrera-Maqueda JM",
+        "Vargas M",
+        "Calleja Bonilla \u00c1",
+        "Calleja S",
+        "D\u00edaz-P\u00e9rez J",
+        "Rudilosso S",
+        "Doncel-Moriano A",
+        "Feal MJ",
+        "Gallego JI",
+        "Hurtado P",
+        "Laredo C",
+        "Llull L",
+        "Bartolom\u00e9 I",
+        "Mart\u00ednez-Calvo A",
+        "Ortega-S\u00e1nchez \u00c1",
+        "Rodr\u00edguez-V\u00e1zquez A",
+        "Rodr\u00edguez-Caama\u00f1o I",
+        "Singla A",
+        "Silva Y",
+        "Tarruella Hern\u00e1ndez D",
+        "Oleaga L",
+        "San Rom\u00e1n Manzanera L",
+        "Serena J",
+        "Freijo MM",
+        "P\u00e9rez de la Ossa N",
+        "Castellanos M",
+        "Arenillas-Lara JF",
+        "Torres F",
+        "Leira EC",
+        "Amaro S",
+        "Urra X",
+        "Chamorro \u00c1"
+      ],
+      "date": "2026 May 07",
+      "doi": "10.1001/jama.2026.5164",
+      "tier": "filtered",
+      "topics": [
+        "TBI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "intracranial haemorrhage",
+          "strength": "weak",
+          "topic": "TBI"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42096239/"
+    },
+    {
+      "pmid": "42095559",
+      "title": "Stick Or Switch: The Diminishing Returns Of Repeated Peripheral Intravenous Access Attempts In Hypotensive Trauma Patients.",
+      "abstract": "**BACKGROUND**: Peripheral intravenous (PIV) access is the first-line approach to vascular access in trauma patients. There is no evidence to guide clinicians on when to abandon PIV attempts in favor of alternative access. We sought to characterize PIV success rates, identify factors associated with success, and determine the marginal yield of sequential PIV attempts in hypotensive trauma patients.\n\n**STUDY DESIGN**: We analyzed data from audiovisual recordings of trauma resuscitations from a multicenter prospective study of vascular access in hypotensive (SBP <90mmHg) patients. The primary outcome was PIV attempt success rate. Secondary outcomes included attempt duration and cumulative patient-level success across sequential attempts. Generalized estimating equations with exchangeable correlation structure were used to account for clustering of attempts within patients.\n\n**RESULTS**: A total of 886 PIV attempts occurred in 471 patients across 18 centers. The overall PIV success rate was 67.1%. Male patient sex (adjusted OR 1.92, 95% CI 1.22-3.03, p=0.005) and the presence of a measurable initial systolic blood pressure (adjusted OR 1.84, 95% CI 1.06-3.20, p=0.03) were independently associated with PIV success. The first PIV attempt was successful in 70% of patients, and cumulative success reached 83% by the second attempt. The marginal success rate among patients without prior success dropped from 70% on the first attempt to 54% on the second and 39% on the third.\n\n**CONCLUSIONS**: PIV access in hypotensive trauma patients succeeds approximately two-thirds of the time. The marginal yield of sequential PIV attempts declines substantially after two failed attempts. These findings support a practice in which alternate vascular access such as intraosseous access is actively considered after a single failed PIV attempt in patients without a measurable blood pressure.",
+      "journal": "J Am Coll Surg",
+      "authors": [
+        "Dumas RP",
+        "Succar B",
+        "Vella MA",
+        "Maiga A",
+        "Holena DN"
+      ],
+      "date": "2026 May 07",
+      "doi": "10.1097/XCS.0000000000002027",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42095559/"
+    },
+    {
+      "pmid": "42094758",
+      "title": "Take a deep breath: managing the challenges of acute respiratory distress syndrome cases.",
+      "abstract": "Acute respiratory distress syndrome (ARDS) remains a major challenge in trauma care, with high morbidity and mortality. Current management emphasizes lung-protective ventilation, careful fluid balance, and a multidisciplinary approach. New areas of discovery, such as ARDS phenotyping, precision medicine, ECMO innovations, and evolving adjunctive therapies, are reshaping practice and offering opportunities for improved outcomes. This comprehensive review highlights the current understanding of ARDS and management essentials and underscores the importance of emerging therapies that offer the clearest path to further reduce ARDS morbidity and mortality.",
+      "journal": "Trauma Surg Acute Care Open",
+      "authors": [
+        "Castillo-Angeles M",
+        "Salim A"
+      ],
+      "date": "2026 Jan 1",
+      "doi": "10.1016/j.chest.2021.07.009",
+      "tier": "core",
+      "topics": [
+        "Cardiac Arrest",
+        "General Trauma"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "ECMO",
+          "strength": "weak",
+          "topic": "Cardiac Arrest"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42094758/"
+    },
+    {
+      "pmid": "42094757",
+      "title": "TCCACS and MDR 2026 introduction.",
+      "abstract": "",
+      "journal": "Trauma Surg Acute Care Open",
+      "authors": [
+        "Allen M",
+        "Patel PP",
+        "Mattox KL"
+      ],
+      "date": "2026 Jan 1",
+      "doi": "10.1136/tsaco-2026-002312",
+      "tier": "core",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42094757/"
+    },
+    {
+      "pmid": "42094756",
+      "title": "Mental health after the sirens: moral injury in responders and survivors of disaster, mass casualty, and crisis care.",
+      "abstract": "Healthcare professionals responding to disasters, mass casualty incidents, pandemics, and sustained high-acuity clinical environments face extraordinary ethical and emotional demands. While burnout and post-traumatic stress disorder (PTSD) have historically framed clinician distress, these constructs incompletely capture the moral and existential harm experienced when clinicians are forced to act in ways that conflict with deeply held professional and ethical values. Moral injury has emerged as a distinct framework to explain this phenomenon. This review synthesizes current understanding of moral injury in disaster, mass casualty, and crisis care settings, distinguishing it from burnout and PTSD, examines prevalence and impact on clinicians and healthcare systems, identifies unique individual, organizational, and situational risk factors, and reviews mitigation and recovery strategies across the disaster continuum. Critical gaps in measurement and research are highlighted, particularly in command-driven healthcare environments. Addressing moral injury requires system-level interventions, ethical transparency, and leadership accountability to sustain the healthcare workforce beyond the immediate crisis.",
+      "journal": "Trauma Surg Acute Care Open",
+      "authors": [
+        "Keric N",
+        "Tiko-Okoye C",
+        "Wang G",
+        "Thomas IJ",
+        "Patel PP"
+      ],
+      "date": "2026 Jan 1",
+      "doi": "10.1111/joim.12752",
+      "tier": "core",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "traumatic",
+          "strength": "weak",
+          "topic": "General Trauma"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42094756/"
+    },
+    {
+      "pmid": "42094755",
+      "title": "Regional, multimodal, and opioid-sparing strategies after trauma: a review.",
+      "abstract": "Effective analgesia is fundamental in the management of trauma, critical care, and emergency surgical patients. However, historical reliance on opioid-based pain management strategies can be associated with adverse effects, including respiratory depression, delirium, and prolonged opioid exposure after discharge, leading to dependence. In response, multimodal analgesia strategies emphasizing non-opioid and regional techniques have become an important adjunct in trauma care pathways. This review summarizes current evidence supporting neuraxial anesthesia, peripheral and truncal nerve blocks, and non-opioid pharmacological agents as components of opioid-sparing analgesic techniques in injured and critically ill patients. Collectively, these pain management strategies support an evidence-based approach to analgesia that reduces opioid exposure and optimizes early walking and functional recovery in postoperative patients. Integration of these modalities into protocolized and perioperative pathways represents a critical step toward more effective analgesia for patients.",
+      "journal": "Trauma Surg Acute Care Open",
+      "authors": [
+        "Hancin E",
+        "Patel PP",
+        "Egodage T"
+      ],
+      "date": "2026 Jan 1",
+      "doi": "10.1097/EJA.0000000000001633",
+      "tier": "core",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42094755/"
+    },
+    {
+      "pmid": "42094754",
+      "title": "\"Do Everything\" versus realistic surgical interventions: navigating the road to shared decision-making in trauma surgery.",
+      "abstract": "\"DO EVERYTHING!!\" How many times have you heard that phrase from a distressed family member? We routinely receive this desperate plea, and our knee-jerk reaction is to press on, push harder, be more aggressive. We, as acute care surgeons, have spent our lives learning a craft geared towards \"doing everything\" to heal patients so this response comes naturally. However, how do we respond to \"do everything\" when the probability of a meaningful recovery is extremely low or non-existent? These situations create moral tension for surgeons who must reconcile the desire to preserve life with the obligation to avoid harm, respect patient values, and provide care that is medically appropriate. We will explore three components of this challenging topic: (1) the utility and limitations of risk calculators and prognostic tools in trauma, (2) the best case/worst case model as a structured communication strategy and (3) approaches to counseling families when expectations for recovery are not realistic. Together, these elements provide a framework for decision-making that is compassionate, ethically grounded, and anchored in clinical reality.",
+      "journal": "Trauma Surg Acute Care Open",
+      "authors": [
+        "Wagner VE",
+        "Karpe AS",
+        "Blakely ML",
+        "Kao LS",
+        "Puzio TJ"
+      ],
+      "date": "2026 Jan 1",
+      "doi": "10.1177/0272989X9501500105",
+      "tier": "core",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42094754/"
+    },
+    {
+      "pmid": "42094753",
+      "title": "Precision hemostasis: how viscoelastic testing guides real-time decision-making in trauma.",
+      "abstract": "Viscoelastic testing is an old but evolving technology that is commonly used in the management of trauma patients. Unlike conventional coagulation studies that provide information on specific parts of the clotting process, viscoelastic testing gives a more global view of clotting. The two currently used forms of viscoelastic testing are rotational thromboelastometry (ROTEM) and thromboelastography (TEG). This review will outline the history, technical aspects, and clinical data for ROTEM and TEG in the context of managing traumatic injury.",
+      "journal": "Trauma Surg Acute Care Open",
+      "authors": [
+        "Brito AMP",
+        "Schreiber MA"
+      ],
+      "date": "2026 Jan 1",
+      "doi": "10.1002/ajh.70074",
+      "tier": "core",
+      "topics": [
+        "General Trauma",
+        "Haemorrhage"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "thromboelastography",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "ROTEM",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42094753/"
+    },
+    {
+      "pmid": "42094752",
+      "title": "Ghost in the Machine: Leveraging artificial intelligence in the trauma bay.",
+      "abstract": "The first hour after injury, often termed the 'golden hour,' relies on rapid and accurate decision making to ensure timely delivery of trauma care. Coordination of prehospital resources, triage, resuscitation, and imaging is critical to patient outcomes. Unlike static algorithms or prediction scores, artificial intelligence (AI) models can integrate large volumes of data to provide actionable decision support. This narrative review explores current and emerging applications of AI in trauma care, specifically focusing on its role within the trauma bay.",
+      "journal": "Trauma Surg Acute Care Open",
+      "authors": [
+        "Burke EG",
+        "Nobuhara C",
+        "Lee AH",
+        "Villarreal JA",
+        "Fitzgerald CA",
+        "Dumas RP"
+      ],
+      "date": "2026 Jan 1",
+      "doi": "10.1186/s44158-025-00306-2",
+      "tier": "core",
+      "topics": [
+        "General Trauma",
+        "Prehospital"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "prehospital",
+          "strength": "weak",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42094752/"
+    },
+    {
+      "pmid": "42094751",
+      "title": "Crossing the blood-brain barrier: neurotrauma in disasters and resource-limited settings.",
+      "abstract": "Traumatic brain injury (TBI) is a major cause of morbidity and mortality in natural disasters, armed conflict, and other resource-limited settings, where advanced imaging, invasive neuromonitoring, and specialized neurosurgical care, common in high-resource environments, are often unavailable. This narrative review summarizes the global health impact of TBI in austere conditions and outlines key management strategies and ethical considerations relevant to these contexts. Evidence from civilian disaster responses, military conflicts, and global health guidelines highlight the need for adaptable, physiology-driven approaches that prioritize prevention of secondary brain injury through avoidance of hypoxia, hypotension, and uncontrolled intracranial hypertension. In settings with constrained resources, clinicians rely heavily on neurological examinations and local imaging capabilities for the initial diagnosis and management. Low-cost interventions, including hyperventilation, raising the head of bed, and hyperosmolar therapy are first-line measures in response to clinical deterioration, whereas damage control neurosurgery incorporating rapid hemorrhage control, hematoma evacuation, and infection prevention is reserved for severe cases with prolonged transport times. Neurotrauma in disaster and resource-limited settings remains a significant global health challenge. Meaningful improvements in survival and outcomes for patients with TBI can be achieved through early resuscitation, vigilant clinical assessment, and timely surgical intervention, even in the absence of advanced neuromonitoring. Adaptable, resource-appropriate strategies are essential to optimizing neurotrauma care in austere environments.",
+      "journal": "Trauma Surg Acute Care Open",
+      "authors": [
+        "Anstadt MJ",
+        "Egodage T",
+        "Martin MJ",
+        "Patel PP"
+      ],
+      "date": "2026 Jan 1",
+      "doi": "10.1186/s13017-022-00468-2",
+      "tier": "core",
+      "topics": [
+        "General Trauma",
+        "Haemorrhage",
+        "TBI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "traumatic",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "damage control",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "traumatic brain injury",
+          "strength": "weak",
+          "topic": "TBI"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42094751/"
+    },
+    {
+      "pmid": "42094750",
+      "title": "Fueling recovery: evidence-based ICU nutrition and immunonutrition strategies in 2026.",
+      "abstract": "Our understanding of the metabolic response to critical illness continues to evolve and delivery of nutrition therapy in the intensive care unit (ICU) has become more nuanced. Both underfeeding and overfeeding have recognized harms, and it is often challenging to provide the right dose at the right time by the right route to the right patient. The historic 'ebb and flow' model of critical illness metabolism has been replaced by a modern model describing early and late acute phase, chronic phase and convalescent phase. Macronutrient delivery should be tailored to not only the patient but also the phase of critical illness. In the absence of contraindications to enteral nutrition (EN), trophic rate EN should begin when acute resuscitation is complete, typically within 48\u2009hours of ICU admission. During the first week or early acute phase of critical illness, energy delivery should be limited to no more than 70%-80% of 'full' nutrition because of the unavoidable presence of endogenous glucose production. Similarly, protein delivery should be limited to \u22641.2\u2009g/kg/day. After the early acute phase, both energy and protein prescription should increase to 100% 'full' nutrition and 1.2-2.0\u2009g/kg/day. In the chronic convalescent and post-ICU phase, even higher energy and protein prescriptions may be necessary to regain lost muscle mass and function. Early physical therapy or neuromuscular stimulation is safe, feasible and likely beneficial. Although intravenous glutamine and arginine are no longer recommended, there may be a role for intravenous fish oil and enteral glutamine (only for burns >20%\u2009Total Body Surface Area (TBSA)).",
+      "journal": "Trauma Surg Acute Care Open",
+      "authors": [
+        "Yeh DD"
+      ],
+      "date": "2026 Jan 1",
+      "doi": "10.1186/s12970-017-0184-9",
+      "tier": "core",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42094750/"
+    },
+    {
+      "pmid": "42094749",
+      "title": "Contemporary diagnosis and management of patients with adhesive small bowel obstruction.",
+      "abstract": "Adhesive small bowel obstruction (aSBO) remains one of the most common causes of surgical admission and morbidity. With advancements in imaging and the advent of water-soluble contrast, management has become increasingly non-operative. Although this is successful in a majority of patients, patients who fail this trial without operation may face worse outcomes. Delays to surgical intervention are associated with increased rates of bowel ischemia, resection, infectious complications, and mortality. Optimal management therefore depends on early risk stratification, disciplined non-operative trials, and timely escalation to operation when indicated. This review summarizes contemporary evidence regarding pathogenesis, pathophysiology, epidemiology, diagnostic evaluation, management, and outcomes of aSBO, with a focus on practical decision-making. The evaluation of each patient's obstruction consists of subjective clinical findings in combination with objective data including labs and imaging. CT with intravenous contrast remains a cornerstone of diagnosis, allowing identification of obstruction severity and features concerning for ischemic physiology that mandates immediate operative exploration. In the absence of these findings, a structured trial of non-operative management may be pursued, including nasogastric decompression, intravenous resuscitation, electrolyte correction, and inpatient admission with close oversight from a surgical team. Water-soluble contrast studies serve as both a prognostic and therapeutic adjunct, as failure of contrast to reach the colon within 24 hours is strongly predictive of unsuccessful non-operative management. Operative management should be undertaken promptly in patients with clinical deterioration, imaging evidence of ischemia, or failure of non-operative therapy. Although open laparotomy remains the standard approach, laparoscopy may be considered in carefully selected patients in experienced hands. Across management strategies, early surgical ownership and avoidance of prolonged non-operative trials in high-risk patients are critical to optimizing outcomes. aSBO is best managed through structured algorithms that prioritize early diagnosis, time-sensitive reassessment, and decisive operative intervention when indicated.",
+      "journal": "Trauma Surg Acute Care Open",
+      "authors": [
+        "Du Cruz B",
+        "Nelson KM",
+        "Brown CVR"
+      ],
+      "date": "2026 Jan 1",
+      "doi": "10.1007/s11605-019-04156-6",
+      "tier": "core",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42094749/"
+    },
+    {
+      "pmid": "42094748",
+      "title": "Ransomware attacks and cybersecurity concerns in modern hospitals: vulnerabilities and impacts on trauma centers and patient care.",
+      "abstract": "Healthcare facilities and systems are at extremely high risk of cyberattacks, with ransomware posing a significant threat to hospital operations and patient safety. Trauma centers are at particular risk for the many potential adverse impacts of a ransomware attack given the time and resource dependency of emergency trauma and surgical care. This review highlights current knowledge on ransomware, its mechanisms, types of attacks, prevention strategies, immediate and delayed response protocols, and the emerging role of artificial intelligence in both cybersecurity attacks and defensive efforts. Emphasis is placed on the unique vulnerabilities of healthcare systems, including legacy IT infrastructure and human factors, and on best practices to mitigate risks. Effective prevention strategies include regular employee training programs to heighten awareness, implementation of robust backup and recovery systems to minimize downtime, and continuous updating of IT infrastructure to close security gaps. The review highlights lessons learned from recent ransomware attacks against trauma centers, including the critical importance of institutional leadership, employee training, and robust backup systems to ensure resilience against ransomware incidents.",
+      "journal": "Trauma Surg Acute Care Open",
+      "authors": [
+        "Martin MJ",
+        "Patel PP",
+        "Egodage T"
+      ],
+      "date": "2026 Jan 1",
+      "doi": "10.62458/jafess.160224.6(2)19-29",
+      "tier": "core",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42094748/"
+    },
+    {
+      "pmid": "42093721",
+      "title": "Surgical urgency and outcomes in nonagenarian and centenarian patients admitted to the ICU after hip replacement: a binational multicenter cohort study.",
+      "abstract": "**INTRODUCTION**: The global population of nonagenarians and centenarians is expected to quadruple by 2050, resulting in increasing numbers of the oldest-old undergoing procedures such as hip replacement to maintain mobility and independence. Despite this trend, evidence on how surgical urgency affects outcomes in this population remains limited.\n\n**METHODS**: We conducted a retrospective cohort study using data from the ANZICS Adult Patient Database (2010-2023), which captures 98% of intensive care units (ICUs) in Australia and 68% in New Zealand. The study included 1,578 nonagenarian and centenarian patients who underwent non-traumatic hip replacement and were admitted to intensive care. Outcomes examined were mortality at three time intervals (<30\u2009days, 30-365 days and >365\u2009days) and ICU and hospital length of stay. Analytical methods included propensity score matching, Cox regression, Kaplan-Meier curves and time-dependent area under the receiver operating characteristic curve analyses to assess the prognostic value of clinical scores and biomarkers.\n\n**RESULTS**: Non-elective operation was associated with significantly higher mortality across all time points (HR 2.87 at <30\u2009days; 3.02 at 30-365 days; 1.84 beyond 365 days). It was also linked to a 13.1% longer ICU stay (p=0.034). Acute Physiology and Chronic Health Evaluation III and Sequential Organ Failure Assessment scores showed strong predictive performance for short-term mortality, whereas age and sex had minimal prognostic value.\n\n**CONCLUSION**: Among nonagenarians and centenarians undergoing hip replacement, non-elective procedures were consistently associated with poorer outcomes, including higher mortality and longer ICU stay. Early risk stratification using routine clinical markers, together with proactive goals-of-care discussions, may improve perioperative management in this vulnerable population.\n\n**LEVEL OF EVIDENCE**: Level II Therapeutic/Care Management.",
+      "journal": "Trauma Surg Acute Care Open",
+      "authors": [
+        "Suh JM",
+        "Lee DK",
+        "Yoon A",
+        "Raykateeraroj N",
+        "Hardidge A",
+        "Grobler S",
+        "Kwon G",
+        "Pilcher D",
+        "Weinberg L"
+      ],
+      "date": "2026 Jan 1",
+      "doi": "10.1186/s12877-023-04460-6",
+      "tier": "core",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "traumatic",
+          "strength": "weak",
+          "topic": "General Trauma"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42093721/"
+    },
+    {
+      "pmid": "42093038",
+      "title": "The role of tactical police medics in the prehospital environment: results from an interview study.",
+      "abstract": "**BACKGROUND**: The Swedish tactical police unit is a highly trained team specialized in managing complex situations and tactically demanding operations. Each tactical police group includes a designated medic who completes a 10-week basic training program in tactical medicine, followed by various forms of additional training. The medical aspects of police work are strictly regulated by medical authorities, and among other restrictions, the medics' authorizations apply only when providing care to fellow officers. The purpose of this study was to explore tactical police medics' perceptions of their work in relation to training, competencies, tactics, and the provision of practical medical care.\n\n**METHOD**: The study employed a qualitative design in which 13 medics from the tactical police unit were interviewed using a semi-structured interview protocol. They were asked questions about their perceived preparedness for the role, their training, and real-life situations in which they had acted as medics. All interviews were digitally recorded and transcribed verbatim. The transcripts were then coded and analysed thematically following Braun and Clarke's model of thematic analysis.\n\n**RESULT**: The results indicated that the medics were generally satisfied with their training and education in tactical medicine. However, there was a clear discrepancy between what they had been trained to do and the tasks they actually performed in their roles. They also expressed frustration about how their mission is defined by medical authorities, particularly the restriction that prevents them from applying their medical authorizations to injured third parties. Collaboration with civilian healthcare was described as inconsistent; cooperation with prehospital physicians was generally viewed positively, whereas the relationship with ambulance personnel was perceived as more challenging.\n\n**CONCLUSIONS**: The tactical police medics represent a highly trained and competent group that is not being utilized to its full potential. They could be deployed more extensively in situations requiring tactical medical care and rescue operations. Achieving this would require stronger and more effective collaboration with civilian healthcare services.",
+      "journal": "Scand J Trauma Resusc Emerg Med",
+      "authors": [
+        "Widman L",
+        "Hagiwara MA",
+        "Lindell F",
+        "Wildar C",
+        "B\u00e4ckstr\u00f6m D"
+      ],
+      "date": "2026 May 06",
+      "doi": "10.1001/jama.2013.281053",
+      "tier": "core",
+      "topics": [
+        "Prehospital"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "prehospital",
+          "strength": "strong",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42093038/"
+    },
+    {
+      "pmid": "42091208",
+      "title": "Prehospital prediction of clinical course in patients with suspected sepsis: a prospective cohort study.",
+      "abstract": "**BACKGROUND**: Early prediction of the clinical course may aid clinical decisions for patients with suspected sepsis. We examined how variables observed by ambulance personnel predicted the clinical course in patients with suspected sepsis.\n\n**METHODS**: We prospectively collected prehospital data from patients with suspected sepsis in the ambulance service and supplemented the data with in-hospital findings. Prehospital data were used to calculate outputs of quick Sequential Organ Failure Assessment (qSOFA) and National Early Warning Score-2 (NEWS2). Outcomes were (1) sepsis severity after hospital admission, measured by Sequential Organ Failure Assessment (SOFA) score; (2) development of septic shock, defined by need for intravenous fluid resuscitation and pressors; and (3) 30-day all-cause mortality. Factors that predicted the three outcomes were identified with regression analysis. We performed receiver operating characteristic curve analysis to find the discriminatory abilities of prehospital scores.\n\n**RESULTS**: We included 398\u2009patients with a median age of 76 years and a 30-day all-cause mortality of 10.1%. Oxygen saturation, systolic blood pressure and qSOFA were associated with sepsis severity and septic shock; Glasgow Coma Score and male sex with sepsis severity and mortality; age with sepsis severity; ashen or marbled skin and focus of infection with septic shock; cyanosis, nursing home resident and comorbidity with mortality. No variable predicted all three outcomes. Area under the curve (AUC) for septic shock was higher for qSOFA than for NEWS2 (p=0.033). AUC for septic shock was higher for males than for females if NEWS2 score was used (p=0.049), indicating that NEWS2 is better at predicting shock among males compared with females.\n\n**CONCLUSIONS**: While there may be a role for the use of prehospital scoring systems in patients who are critically ill on presentation, established clinical decision aids must be used with caution and predictive information is lost if the tools are applied alone.",
+      "journal": "Emerg Med J",
+      "authors": [
+        "Andersson LJ",
+        "Simonsen GS",
+        "Sollig\u00e5rd E",
+        "Fredriksen K"
+      ],
+      "date": "2026 May 06",
+      "doi": "10.1136/emermed-2025-215135",
+      "tier": "filtered",
+      "topics": [
+        "Prehospital"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "prehospital",
+          "strength": "strong",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42091208/"
+    },
+    {
+      "pmid": "42091207",
+      "title": "Clinical decision rules for obtaining chest radiography in adult patients presenting to the emergency department with non-traumatic chest pain: a systematic review and meta-analysis.",
+      "abstract": "**INTRODUCTION**: Chest pain is the second leading emergency department (ED) presentation, with its associated diagnostics requiring ED resource utilisation. Radiography is used in 70% of cases but identifies clinically significant findings in only 1.5%-2.1%. The predominance of non-actionable imaging results, combined with paucity of decision rules, prompted this systematic review to inform the development of a new clinical decision rule (CDR).\n\n**METHODS**: Four bibliographical databases were searched, including: PubMed, MEDLINE, EMBASE and COCHRANE. Study selection, extraction and quality assessment were conducted independently by two reviewers via Covidence. Studies using a shared clinical decision tool were pooled to calculate sensitivity, specificity, likelihood ratios and false-positive rates using Meta-DiSc V.2.0. Univariate and, where possible, bivariate analyses generated forest plots and summary receiver operating characteristics curves. Heterogeneity was quantified by I\u00b2, and methodological bias assessed via the Prediction model study Risk of Bias Assessment Tool (PROBAST).\n\n**RESULTS**: From 626 records, 7 studies (6654 ED patients, Canada, Australia, USA) met inclusion. Of these, further analysis was undertaken of four validation studies. Two studies examined the Hess CDR reporting 98.3% sensitivity (95%\u2009CI 17% to 100%)\u2009and 47.6% specificity (95%\u2009CI 43.8% to 51.3%). Two studies examined the Rothrock CDR and reported 88.6% sensitivity (95%\u2009CI 80.1% to 93.7%) and 73% specificity (95%\u2009CI 17.7% to 97.2%). Hess had a negative likelihood ratio of 0.04 (95% CI 0 to 9.17) compared with Rothrock (0.156, 95%\u2009CI 0.06 to 0.38)\u2009and Rothrock had a positive likelihood ratio of 3.3 (95% CI 0.52 to 20.95) compared with Hess (1.9, 95%\u2009CI 1.67 to 2.11). Meta-analysis showed high heterogeneity with low bias as per PROBAST criteria.\n\n**CONCLUSIONS**: A systematic review and meta-analysis of two chest X-ray decision rules for non-traumatic chest pain found the Hess ",
+      "journal": "Emerg Med J",
+      "authors": [
+        "Al Fathil Y",
+        "Rotella JA"
+      ],
+      "date": "2026 May 06",
+      "doi": "10.1136/emermed-2025-215673",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "traumatic",
+          "strength": "strong",
+          "topic": "General Trauma"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42091207/"
+    },
+    {
+      "pmid": "42090794",
+      "title": "Cerebral Amyloid Angiopathy.",
+      "abstract": "Cerebral amyloid angiopathy is a major cause of hemorrhagic stroke, a frequent contributor to age-related cognitive impairment, and a key component in adverse responses to beta-amyloid (A\u03b2) immunotherapy. Defined by pathological deposition of A\u03b2 in the small blood vessels of the brain, cerebral amyloid angiopathy is most often diagnosed on the basis of magnetic resonance imaging studies showing multiple hemorrhages or leptomeningeal blood products within or overlying the cerebral cortex. The disorder typically manifests as hemorrhagic stroke or as a contributing factor to cognitive decline and, less commonly, with transient focal neurologic symptoms or a cerebral inflammatory autoimmune syndrome. The high risk of recurrent hemorrhagic strokes associated with cerebral amyloid angiopathy poses a particular challenge in patients with indications for antithrombotic therapy and dictates a carefully individualized weighing of risks and benefits. Ongoing research is focused on tools to aid in risk prediction, early diagnostic markers, and identification of key pathogenic steps as targets for disease-modifying therapies.",
+      "journal": "N Engl J Med",
+      "authors": [
+        "Greenberg SM"
+      ],
+      "date": "2026 May 07",
+      "doi": "10.1056/NEJMra2411298",
+      "tier": "filtered",
+      "topics": [
+        "Haemorrhage"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "blood product",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42090794/"
+    },
+    {
       "pmid": "42090008",
       "title": "From fracture to joint injury: association between CT-based fracture characteristics and surgically treated non-bony injuries in tibial plateau fractures.",
       "abstract": "**PURPOSE**: Tibial plateau fractures (TPF) are often associated with non-bony injuries that may impair knee stability and long-term outcomes. However, it remains unclear in which patients preoperative MRI is indicated to detect these injuries, and clear recommendations for surgical decision making are lacking. This study aimed to develop a CT-based predictor of surgically relevant non-bony injuries.\n\n**METHODS**: This retrospective single-center study included all intra-articular TPF treated between January 2022 and May 2025 at a Level I trauma center. Fractures were classified according to the 10-segment and three-column classifications. Operative reports were reviewed to identify non-bony injuries requiring surgical treatment. Descriptive statistics and multivariate logistic regression were performed to determine predictors of surgically relevant non-bony injuries.\n\n**RESULTS**: Among 243 patients (mean age 49,3 \u00b1 14,9 years), 34,6% had at least one surgically treated non-bony injury. Posterior column involvement was significantly associated with a higher injury rate (41,4%), particularly affecting meniscus (20,7%), Anterior cruciate ligament (ACL) (17,2%), and medial collateral ligament (MCL) (12,3%). The posterolateral-central (PLC) segment showed the highest segment-specific injury rate (37,6%) and was an independent predictor of ACL injury. Increasing fracture complexity was associated with a higher incidence of soft tissue injuries.\n\n**CONCLUSION**: TPF should be regarded as complex intra-articular injuries rather than simple bone fractures. This study provides a CT-based tool to identify fracture patterns associated with surgically relevant non-bony injuries. These findings may support indications for preoperative MRI, guide treatment strategies, and help prevent poor outcomes and post-traumatic osteoarthritis.",
@@ -439,7 +987,7 @@
         "Holmes JF"
       ],
       "date": "2026 May 1",
-      "doi": "10.1111/acem.70308",
+      "doi": "10.1097/PCC.0000000000003551",
       "tier": "filtered",
       "topics": [
         "Abdominal",
@@ -1012,7 +1560,7 @@
         "Turgeon AF"
       ],
       "date": "2026 May 04",
-      "doi": "10.1186/s13054-026-06036-3",
+      "doi": "10.1002/acn3.50872",
       "tier": "filtered",
       "topics": [
         "General Trauma",
@@ -5033,7 +5581,7 @@
     },
     {
       "pmid": "42009598",
-      "title": "Preinjury, injury and postinjury factors leading to death in children and young people who were victims of knife crime in England between 2019 and 2024: a review of the National Child Mortality Database.",
+      "title": "Preinjury, injury and post-injury factors leading to death in children and young people who were victims of knife crime in England between 2019 and 2024: a review of the National Child Mortality Database.",
       "abstract": "**BACKGROUND**: Knife-related deaths in children present a serious public health challenge. This study reports the demographics and preinjury, injury and postinjury factors associated with death in children and young people (CYP), under the age of 18 years, who died of knife wounds in England between 2019 and 2024.\n\n**METHODS**: A retrospective cohort review of the English National Child Mortality Database between April 2019 and March 2024. Rates of death were corrected for population size using the 2021 census. Preinjury, injury and postinjury factors associated with death are reported descriptively.\n\n**RESULTS**: 145 CYP died of knife wounds. The mean age was 14.4 years (SD 4.2) and 90.3% (n=131) were male. The rates of death per 100 000 CYP, per year were highest in children of 'Black/Black British' ethnicity (1.40 (95% CI 1.03 to 1.86)), with an incidence rate ratio (IRR) of 13.29 (95% CI 8.23 to 20.00), compared with CYP of 'White' ethnicity. Children living in the most deprived areas, had a greater than seven times higher risk of death (IRR 7.48 (95% CI 3.22 to 17.29), compared to CYP living in the least deprived areas. Of the 57\u2009cases available for detailed analysis, injuries to the chest and neck were responsible for the fatal injuries in 75.9% of cases (n=44) and 60.3% (n=35) died before reaching hospital. A thoracotomy was performed in 56.9% (n=33) of cases. Prior to death, 75.4% (n=43) had been known to social services and 57.9% (n=33) had experienced domestic violence and abuse. Neurodiversity or mental health concerns were reported in 50.9% (n=29) of CYP.\n\n**CONCLUSIONS**: Death of CYP secondary to knife wounds occurred in all regions of England. Many children are exposed to adverse childhood experiences before death and known to statutory services. The identification of interventions to decrease the risk to children from knife violence remains a priority.",
       "journal": "Emerg Med J",
       "authors": [
@@ -5049,7 +5597,7 @@
         "Luyt K",
         "Carlton E"
       ],
-      "date": "2026 Apr 20",
+      "date": "2026 May 06",
       "doi": "10.1136/emermed-2025-215154",
       "tier": "filtered",
       "topics": [
@@ -5933,7 +6481,7 @@
     {
       "pmid": "41996547",
       "title": "Intranasal Versus Intramuscular Midazolam in Pediatric Seizure Control: A Systematic Review and Meta-Analysis.",
-      "abstract": "**OBJECTIVES**: Rapid termination of pediatric seizures is a critical determinant of neurological outcomes. Benzodiazepines are the established first-line therapy, yet intravenous (IV) access is frequently unavailable at initial presentation, necessitating reliance on non-IV routes. However, the optimal non-IV route remains controversial. We aimed to perform a meta-analysis comparing intranasal (IN) and intramuscular (IM) midazolam administration to determine which route is associated with more rapid and reliable seizure control in pediatric patients.\n\n**METHODS**: We searched PubMed, Embase, and Cochrane Library for studies comparing IN and IM midazolam in pediatric patients with seizures. Pooled risk ratios (RR) and mean differences (MD) were calculated using a random-effects model, with heterogeneity quantified using the I\n\n**RESULTS**: Five studies comprising 3,933 pediatric patients requiring pharmacological intervention for seizures were included, of whom 97.9% were managed in the prehospital setting. IM midazolam was associated with a lower likelihood of requiring rescue therapy overall (RR 1.29; 95% CI 1.15-1.45; p\u2009=\u20090.004; I\n\n**CONCLUSIONS**: Among pediatric patients with acute seizures managed in settings where IV access is not established, particularly the prehospital environment, IM midazolam was associated with more rapid seizure termination and lower rescue therapy use than IN midazolam and represents a reasonable first-line option in these settings.",
+      "abstract": "**OBJECTIVES**: Rapid termination of pediatric seizures is a critical determinant of neurological outcomes. Benzodiazepines are the established first-line therapy, yet intravenous (IV) access is frequently unavailable at initial presentation, necessitating reliance on non-IV routes. However, the optimal non-IV route remains controversial. We aimed to perform a meta-analysis comparing intranasal (IN) and intramuscular (IM) midazolam administration to determine which route is associated with more rapid and reliable seizure control in pediatric patients.\n\n**METHODS**: We searched PubMed, Embase, and Cochrane Library for studies comparing IN and IM midazolam in pediatric patients with seizures. Pooled risk ratios (RR) and mean differences (MD) were calculated using a random-effects model, with heterogeneity quantified using the I\n\n**RESULTS**: Five studies comprising 3,933 pediatric patients requiring pharmacological intervention for seizures were included, of whom 97.9% were managed in the prehospital setting. IM midazolam was associated with a lower likelihood of requiring rescue therapy overall (RR 1.29; 95% CI 1.15-1.45; \n\n**CONCLUSIONS**: Among pediatric patients with acute seizures managed in settings where IV access is not established, particularly the prehospital environment, IM midazolam was associated with more rapid seizure termination and lower rescue therapy use than IN midazolam and represents a reasonable first-line option in these settings.",
       "journal": "Prehosp Emerg Care",
       "authors": [
         "Mohnkern JD",
@@ -5943,9 +6491,9 @@
         "Chierighini PP",
         "Ria\u00f1o AS",
         "Ajibade T",
-        "Shehan TSM"
+        "Martins Shehan TS"
       ],
-      "date": "2026 Apr 17",
+      "date": "2026 May 06",
       "doi": "10.1080/10903127.2026.2658592",
       "tier": "filtered",
       "topics": [
@@ -9458,381 +10006,6 @@
       "keyword_matches": [],
       "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41950582/"
-    },
-    {
-      "pmid": "41950410",
-      "title": "Paramedics' Decisions to Withhold Resuscitation in Traumatic Cardiac Arrest: Accuracy of Paramedic Assessments Compared with Autopsy Findings.",
-      "abstract": "**OBJECTIVES**: Trauma remains the leading cause of death among Canadians under 45, with over 70% of these deaths occurring in the prehospital setting. In Ontario, Canada, paramedics' decision to initiate or withhold resuscitation in traumatic cardiac arrest (TCA) is governed by basic life support (BLS) and advanced life support (ALS) patient care standards. This study explores paramedics' decisions to withhold cardiopulmonary resuscitation (CPR) in cases of prehospital TCA.\n\n**METHODS**: We conducted a retrospective review of case files relating to coroner investigations of prehospital TCA across two emergency medical services (EMS) covering a mixed urban/suburban region in Ontario, Canada, with a population of approximately 4.3 million people, from January 2018 to July 2022. We reviewed all deaths where EMS records were available in the death investigation files and where paramedics did not provide CPR. Paramedics' documentation of reasons to withhold CPR was reviewed and compared to postmortem findings. Descriptive statistics were used to describe the findings.\n\n**RESULTS**: We identified 90 cases of prehospital TCA where no CPR was provided by paramedics. Of these, 55 cases (61%) had documented, injuries incompatible with life (decapitation, open head or torso wounds with visible outpouring of brain or abdominal contents) or signs of irreversible death (rigor mortis, lividity, decomposition). Postmortem examination confirmed paramedics' findings of injuries incompatible with life in 29 cases (89%). For the remaining 35 cases (39%), CPR was withheld due to a combination of prolonged time from TCA to EMS contact, severity of injuries deemed non-survivable, significant external blood loss, and following remote physician agreement in 31 (89%) cases. Of these, 29 (83%) had postmortem findings demonstrating anatomical injuries that made the TCA irreversible.\n\n**CONCLUSIONS**: The majority of decisions to withhold CPR in prehospital TCA cases are based on signs that are clearly incompatible with life, identified by paramedics with high specificity. In the absence of such findings, paramedics consider factors like prolonged time intervals, overall injury severity, and seek guidance through remote physician supervision before deciding whether to withhold resuscitation efforts.",
-      "journal": "Prehosp Emerg Care",
-      "authors": [
-        "Koyya R",
-        "O'Brien C",
-        "Drennan IR",
-        "Cheskes S",
-        "von Vopelius-Feldt J"
-      ],
-      "date": "2026 May 05",
-      "doi": "10.1080/10903127.2026.2655289",
-      "tier": "filtered",
-      "topics": [
-        "Cardiac Arrest",
-        "General Trauma",
-        "Prehospital",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "injury severity",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "prehospital",
-          "strength": "weak",
-          "topic": "Prehospital"
-        },
-        {
-          "keyword": "traumatic cardiac arrest",
-          "strength": "strong",
-          "topic": "Cardiac Arrest"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41950410/"
-    },
-    {
-      "pmid": "41949492",
-      "title": "A retrospective observational study on management of penetrating gunshot and migrating projectile injuries to the heart during the war in Ukraine.",
-      "abstract": "**BACKGROUND**: Penetrating cardiac injuries caused by firearms are associated with extremely high prehospital and early in-hospital mortality. During wartime, civilian cardiac surgery centers are increasingly involved in the management of complex gunshot and fragment-related cardiac injuries, yet published evidence from nonmilitary practice remains limited.\n\n**METHODS**: We conducted a retrospective observational study of civilian and military patients with penetrating cardiac gunshot or fragment injuries treated surgically at a tertiary civilian cardiac surgery center between February 2022 and December 2025. Patients with severe cardiogenic shock or rapidly progressing tamponade were typically managed at frontline hospitals; referred patients who survived initial resuscitation underwent definitive cardiac surgery at our institution. Demographic, clinical, imaging, operative, and outcome data were analyzed descriptively.\n\n**RESULTS**: Among 69 patients undergoing cardiac surgery for combat-related injuries, 25 required surgical removal of intracardiac foreign bodies. Median age was 38 years [interquartile range (IQR): 32-47], and 92% were males; 72% were military personnel. Metallic fragments accounted for 92% of foreign bodies, most commonly located in the ventricles. All procedures were performed in a hybrid operating room; cardiopulmonary bypass was used in 32% of cases, while 68% were managed off-pump with bypass standby. Neodymium magnet-assisted extraction was used in 80% of procedures. Median operative time was 117 minutes (IQR: 89-133). Median intensive care unit stay was 3 days (IQR: 2-5), and hospital stay was 13 days (IQR: 8-17). In-hospital and 30-day mortality were both 4%.\n\n**CONCLUSIONS**: Surgical management of penetrating cardiac gunshot and fragment injuries can be safely performed in civilian cardiac surgery centers during wartime. A multimodal imaging strategy, individualized use of cardiopulmonary bypass, hybrid operating room infrastructure, and adjunctive magnet-assisted techniques facilitate effective treatment with favorable early outcomes. (J Trauma Acute Care Surg. 2026;00: 00-00. Copyright \u00a9 2026 Wolters Kluwer Health, Inc. All rights reserved.).\n\n**LEVEL OF EVIDENCE**: Therapeutic/care management, Level IV.",
-      "journal": "J Trauma Acute Care Surg",
-      "authors": [
-        "Maruniak S",
-        "Hutsuliak Y",
-        "Mokryk I",
-        "Zelenchuk O",
-        "Sudakevych S",
-        "Kuzmich I",
-        "Batchinsky A",
-        "Swol J",
-        "Todurov B"
-      ],
-      "date": "2026 Apr 08",
-      "doi": "10.1097/TA.0000000000004999",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "Prehospital"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "prehospital",
-          "strength": "weak",
-          "topic": "Prehospital"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41949492/"
-    },
-    {
-      "pmid": "41949482",
-      "title": "A new pediatric trauma center quality benchmarking metric: Center-level variability in postinjury functional impairment using the Functional Status Scale (FSS).",
-      "abstract": "**BACKGROUND**: Over 7 million children are injured annually in the United States, leading to 500,000 disability-adjusted life years. Functional outcomes after injury, however, are not routinely measured. Whether disability is modifiable by trauma center care remains unclear. The purpose of this study was to assess variability between trauma centers in functional impairment rates.\n\n**METHODS**: The \"Assessment of Health-Related Quality of Life and Functional Outcomes after Pediatric Trauma\" prospective observational dataset was analyzed. Functional status among injured children (\u226414\u00a0y) was assessed at discharge and 6-month follow-up using the Functional Status Scale (FSS). Multivariable logistic regression was used to calculate variability in FSS explained by nonmodifiable patient and injury characteristics. Propensity score modeling was used to estimate the expected functional impairment rates for each trauma center based on age, GCS, injury mechanism, number of body regions injured, and the presence of serious body region-specific injuries. Observed impairment rates were used to calculate observed-to-expected (O:E) ratios for risk-adjusted comparison between centers.\n\n**RESULTS**: The cohort included 427 patients from seven centers. Functional impairment (FSS \u2265 7) occurred in 217 (51%) children at discharge and in 81 of 324 (25%) at follow-up. Patient and injury characteristics explained 55% of the variability in FSS at discharge and 14% at follow-up. Unadjusted functional impairment differed between centers at discharge (range 36-70%, p=0.03), but not significantly at 6-month follow-up (range 12-36%, p=0.06). One high-impairment outlier center [O:E 1.38 (1.01, 1.84)] at discharge and one low-impairment outlier center [O:E 0.50 (0.23, 0.94)] at 6-month follow-up were identified.\n\n**CONCLUSIONS**: Most functional impairment after pediatric injury is explained by patient and injury characteristics, but variability in functional impairment exists between trauma centers after adjusting for these factors. Differences in functional outcomes between centers suggest that these outcomes are modifiable and are associated with the quality of trauma center care. (J Trauma Acute Care Surg. 2026;00:00-00. Copyright \u00a9 2026 Wolters Kluwer Health, Inc. All rights reserved.).\n\n**LEVEL OF EVIDENCE**: Prognostic/Epidemiological; Level III.",
-      "journal": "J Trauma Acute Care Surg",
-      "authors": [
-        "Castro MR",
-        "Shui A",
-        "Lee C",
-        "Niedzwecki C",
-        "Nathens AB",
-        "Burd RS",
-        "Jensen AR"
-      ],
-      "date": "2026 Mar 30",
-      "doi": "10.1097/TA.0000000000004956",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "Paediatric",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "trauma centre",
-          "strength": "strong",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "paediatric trauma",
-          "strength": "strong",
-          "topic": "Paediatric"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41949482/"
-    },
-    {
-      "pmid": "41948472",
-      "title": "Small bowel obstruction patient education series: understanding trauma and emergency surgery conditions.",
-      "abstract": "",
-      "journal": "Trauma Surg Acute Care Open",
-      "authors": [
-        "Kratzke I",
-        "Smith CB",
-        "Gallaher JR"
-      ],
-      "date": "2026 Jan 1",
-      "doi": "10.1136/tsaco-2025-001778",
-      "tier": "core",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41948472/"
-    },
-    {
-      "pmid": "41948138",
-      "title": "Post-intensive Care Syndrome (PICS): an American Association for the Surgery of Trauma Critical Care Committee Consensus Guideline - Defining, Recognizing, and Managing PICS Associated Physical Impairment, Cognitive Dysfunction, and Thromboinflammatory Dysregulation.",
-      "abstract": "",
-      "journal": "Trauma Surg Acute Care Open",
-      "authors": [
-        "Anderson J",
-        "Nohra EA",
-        "Liveris A",
-        "Appelbaum R",
-        "Ratnasekera A",
-        "Peralta R",
-        "Young J",
-        "Kirsch JM",
-        "Jawa R",
-        "McLean S",
-        "Robinson B",
-        "Cuschieri J"
-      ],
-      "date": "2026 Jan 1",
-      "doi": "10.1056/NEJMp1212324",
-      "tier": "core",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41948138/"
-    },
-    {
-      "pmid": "41947546",
-      "title": "One-Year Retrospective Evaluation of Blood Administration Practices Within LifeFlight Medicine.",
-      "abstract": "**OBJECTIVE**: To define and compare the incidence, patient demographics, tasking characteristics, and clinical features associated with packed red blood cell (PRBC) administration within the LifeFlight Medical Services (LFM) retrieval network during the 2024 calendar year.\n\n**METHODS**: A retrospective cohort study examined all LFM missions in 2024 involving PRBC administration. Missions were included when PRBCs were administered by, or at the direction of, an LFM doctor. Primary missions and interfacility transfers (IFT) were analysed and compared with the overall mission cohort. Collected variables included transport platform, indication for transfusion, patient demographics, blood product utilisation, wastage, and compliance with adjunctive therapies.\n\n**RESULTS**: Among 7791 missions, PRBCs were administered on 226 missions (2.9% of all missions), including 100 primary missions (7.6% of all primary missions) and 126 IFT's (1.9% of all IFT's). A total of 492\u2009units were transfused, with 3.0% wastage. Primary trauma accounted for 59% of transfusions and medical/surgical causes for 41%, most commonly upper gastrointestinal bleeding. Rotary-wing and road-based platforms demonstrated the highest transfusion incidence. No significant age differences were identified between transfused and non-transfused patients. Compliance with blood warming, tranexamic acid, and calcium administration was high at 81%, 83%, and 85%, respectively. Use of O-positive blood in females under 50\u2009years was rare, occurring in 0.3% of primary missions.\n\n**CONCLUSIONS**: PRBC transfusion within LFM is infrequent but essential across all missions. This analysis provides the first comprehensive Australian description of real-world PRBC utilisation across retrieval platforms, supporting transfusion governance, operational planning, and future outcome-focused research within Australia.",
-      "journal": "Emerg Med Australas",
-      "authors": [
-        "Richardson BR",
-        "Pidgeon T",
-        "Cramb S",
-        "Powell B",
-        "Aston B"
-      ],
-      "date": "2026 Apr 1",
-      "doi": "10.1111/1742-6723.70253",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Haemorrhage"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "tranexamic acid",
-          "strength": "weak",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "blood product",
-          "strength": "weak",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "packed red blood cells",
-          "strength": "weak",
-          "topic": "Haemorrhage"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41947546/"
-    },
-    {
-      "pmid": "41947342",
-      "title": "Safety of Peripheral Vasoactive Drug Administration in Prehospital and Retrieval Medicine (SPOTLESS-2): A Prospective Observational Cohort Study.",
-      "abstract": "**INTRODUCTION**: Adrenaline and noradrenaline are cornerstones of critical care. Traditionally, delivery of these drugs has been through central venous access due to concerns over the safety of peripheral venous access. However, central venous access also may lead to delays and complications, so there is increasing use of peripheral vasoactive drugs. There is evidence for the safety of peripheral administration in controlled theatre and intensive care settings but limited evidence in Prehospital and Retrieval Medicine.\n\n**METHODS**: We conducted a prospective, observational cohort study including patients transferred by Lifeflight Medicine from April 2022 to August 2023. The primary outcome was to establish the safety of peripheral adrenaline and noradrenaline. Patients receiving adrenaline or noradrenaline via peripheral intravenous cannula were included and data on venous access, drug delivery, and complications during transfer was collected. Patients were followed to 24\u2009h post arrival to the receiving facility.\n\n**RESULTS**: A total of 656 patients were screened, 468 met the inclusion criteria. Patients were predominantly men (60%), median age of 64, 74% of patients were transferred by rotary wing. Noradrenaline was the most common infusion (72%) with a median dose of 0.1\u2009\u03bcg/kg/min, and 0.13\u2009\u03bcg/kg/min for adrenaline. The anterior cubital fossa was the most common infusion site (78%). Septic shock was the most common indication (47%). The median duration of infusion was 85\u2009min. 93.4% of patients experienced no events with the peripheral infusion; of the remaining 31 patients, 13 (2.8%) had minor technical issues with drug delivery, 14 (3%) had minor complications affecting patient care and 4 (0.8%) required conversion to central access in transit. There were no tissue complications at 24\u2009h follow-up.\n\n**CONCLUSION**: Our data suggests that adrenaline and noradrenaline may be safely administered peripherally in Prehospital and Retrieval Medicine environments, with a low overall risk of complications.\n\n**TRIAL REGISTRATION**: The study was pre-registered on the Australian and New Zealand Clinical Trials Registry (ACTRN12622000404729).",
-      "journal": "Acad Emerg Med",
-      "authors": [
-        "Greaves RL",
-        "Quay A",
-        "Bolot R",
-        "King J",
-        "Gibbs C"
-      ],
-      "date": "2026 Apr 1",
-      "doi": "10.1111/acem.70271",
-      "tier": "filtered",
-      "topics": [
-        "Prehospital"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "retrieval medicine",
-          "strength": "strong",
-          "topic": "Prehospital"
-        },
-        {
-          "keyword": "prehospital",
-          "strength": "strong",
-          "topic": "Prehospital"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41947342/"
-    },
-    {
-      "pmid": "41947246",
-      "title": "Effects of early acute in-bed leg cycling initiated from the intensive care unit following severe traumatic spinal cord injury: final results from the PROMPT-SCI trial.",
-      "abstract": "",
-      "journal": "Crit Care",
-      "authors": [
-        "Dionne A",
-        "Magnuson DSK",
-        "Richard-Denis A",
-        "Bernard F",
-        "Barth\u00e9l\u00e9my D",
-        "Petit Y",
-        "Mac-Thiong JM"
-      ],
-      "date": "2026 Apr 07",
-      "doi": "10.1186/s13054-026-06010-z",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Spine"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "traumatic",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "spinal cord injury",
-          "strength": "strong",
-          "topic": "Spine"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41947246/"
-    },
-    {
-      "pmid": "41946226",
-      "title": "Glenoid fracture morphology predicts associated trauma and patient-reported outcome measures (PROMs); A multicenter evaluation.",
-      "abstract": "**PURPOSE**: Although glenoid fractures are relatively uncommon, they may be associated with severe concomitant injuries, including thoracic, vertebral, and neurovascular trauma. Large-scale studies evaluating the relationship between fracture morphology, associated injuries, and functional outcomes remain limited. The purpose of this multicenter study was to classify glenoid fractures according to the Ideberg Classification system, identify associated injuries, and investigate their relationship with functional outcomes.\n\n**METHODS**: In this retrospective multicenter cohort study, 242 patients diagnosed with glenoid fractures across five trauma centers were evaluated. Glenoid fractures were classified according to the Ideberg and AO/OTA systems by five independent observers. For statistical analyses, the Ideberg classification was grouped into three categories (Type I, Type II-III, and Type IV-V). Data on associated injuries (including extremity, thoracic, abdominal, craniospinal, and neurovascular injuries) were obtained from hospital records. Functional outcomes were assessed using the Constant-Murley (CM) and American Shoulder and Elbow Surgeons (ASES) scores.\n\n**RESULTS**: The mean age of the cohort was 51.5 \u00b1 18.1 years, and 66.9% of the patients were male. Ideberg Type I fractures were the most frequent (59%), whereas Type V fractures were the least common (8%). Glenohumeral dislocation was the most common associated pathology, observed in 70.2% of patients, particularly in Type I fractures (88%; p\u00a0<\u00a00.001). In contrast, thoracic injuries (31.4%), vertebral fractures (8.3%), and brachial plexus injuries (2.5%) were significantly more frequent in Type IV-V fractures (all p\u00a0<\u00a00.001). At a mean follow-up of 21.9 \u00b1 13.0 months, the mean ASES score was 88.5 \u00b1 10.1 and the mean CM score was 90.0 \u00b1 10.5. Both functional scores decreased significantly with increasing Ideberg fracture severity from Type I to Type V (p\u00a0<\u00a00.001).\n\n**CONCLUSION**: Fracture morphology in glenoid fractures has a substantial impact on both the severity of associated injuries and functional outcomes. While Type I fractures are commonly associated with glenohumeral dislocation, Type IV-V fractures reflect higher-energy trauma and are frequently accompanied by thoracic, vertebral, and neurovascular injuries, resulting in poorer functional outcomes. Therefore, a systematic trauma assessment should be performed in patients with glenoid fractures, and fracture morphology should be considered a key parameter in treatment planning.",
-      "journal": "Injury",
-      "authors": [
-        "B\u00fcy\u00fcktop\u00e7u \u00d6",
-        "\u015eahbat Y",
-        "Ko\u00e7 E",
-        "Altay N",
-        "Be\u015fer F",
-        "Keskin A",
-        "Alt\u0131n YF",
-        "Kendirci A\u015e",
-        "\u00c7a\u011flar C",
-        "G\u00fcler Y",
-        "Er\u015fen A"
-      ],
-      "date": "2026 Apr 03",
-      "doi": "10.1016/j.injury.2026.113236",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41946226/"
-    },
-    {
-      "pmid": "41946225",
-      "title": "Three-year outcomes following retained intramedullary nails (DAIR) in early fracture related infections: A prospective case series.",
-      "abstract": "**OBJECTIVES**: To evaluate whether early implant retention using the Debridement Antibiotics Implant Retention (DAIR) protocol results in sustained infection remission at three years in patients with early fracture related infection (FRI) following intramedullary nailing of diaphyseal femoral and tibial fractures.\n\n**METHODS**: Design: Prospective observational cohort study.\n\n**SETTING**: Single-center, academic Level I trauma centre. Patient selection criteria: Patients with early FRI (\u2264 2 weeks from index surgery) following intramedullary nailing for OTA/AO classified femoral or tibial diaphyseal fractures (32 and 42), open and closed, treated between 2015 and 2017. Exclusion criteria included infections >\u00a02 weeks post-surgery or less than three years follow-up. Outcome measure and comparisons: Primary outcome was infection remission, defined as the absence of clinical, radiographic, or surgical signs of infection at one, two, and three years. Statistical analysis assessed association between recurrence and demographic, surgical, or microbiological variables. Secondary outcome included fracture healing. Analyses were descriptive and exploratory due to the small cohort size.\n\n**RESULTS**: Eleven patients (9 male; mean age 42.3 \u00b1 14.1 years) were included. The tibia was affected in seven patients (63.6%) and the femur in four (36.4%). At one year, all patients achieved infection remission. However, six patients (54.6%) had infection recurrence by year two, requiring nail removal. At three years, four of these six were infection-free, two had persistent infection, with remission after treatment. At six months, fracture union was observed in nine patients: two required secondary procedures for delayed union. All eleven patients achieved fracture union by 12 months. No statistically significant associations were found between infection recurrence and any measured variables, including age, BMI, OTA/AO classification, closed or open, microbial species, or antibiotic duration (all p\u00a0>\u00a00.05).\n\n**CONCLUSIONS**: DAIR achieved complete infection remission at one year in patients with early FRI after intramedullary nailing; however, more than half of the patients developed late recurrence during longer follow-up. Despite these recurrences, fracture union was achieved in all cases. These findings suggest that early remission may overestimate the long-term effectiveness of nail retention and that prolonged follow-up is essential when evaluating treatment success.\n\n**LEVEL OF EVIDENCE**: Level II, prospective case series.",
-      "journal": "Injury",
-      "authors": [
-        "Kojima KE",
-        "Gon\u00c7alves MAM",
-        "Leonhardt MC",
-        "Oliveira PR",
-        "Carvalho VC",
-        "Lima ALL",
-        "Silva JDS"
-      ],
-      "date": "2026 Apr 03",
-      "doi": "10.1016/j.injury.2026.113235",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "trauma centre",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41946225/"
     }
   ]
 }
