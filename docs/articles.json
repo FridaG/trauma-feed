@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-07T20:58:39.666704Z",
-  "total_articles": 256,
+  "generated": "2026-05-08T20:49:10.049748Z",
+  "total_articles": 244,
   "all_topics": [
     "Abdominal",
     "Burns",
@@ -379,6 +379,339 @@
   },
   "articles": [
     {
+      "pmid": "42101680",
+      "title": "Small traumatic intracranial hemorrhages identified in routine radiology reports are associated with a low risk of adverse events: a retrospective cohort study.",
+      "abstract": "**PURPOSE**: To determine whether routinely available radiology reports, together with basic clinical data, can identify patients with traumatic intracranial hemorrhage (TICH) who are at low risk of adverse events.\n\n**METHODS**: This retrospective cohort study of adults with TICH in Region J\u00f6nk\u00f6ping, Sweden (2019-2021). Clinical data, findings from radiology reports and outcomes were extracted from medical records. Hemorrhage size was classified as small (\u2264\u20094\u00a0mm or described as minimal/very small/discrete) or larger. Adverse events were defined as neurosurgical intervention or death directly attributable to the TICH. Risk difference (RD), relative risk (RR), and Firth's penalized logistic regression were used to assess associations with adverse events.\n\n**RESULTS**: Among 527 included patients, 195 (37%) had small TICHs. None of these patients experienced adverse events, compared with 13.6% neurosurgical interventions and 13.0% trauma-related deaths in the group with larger TICHs (RD 24.5% points, 95% CI 18.4-29.6; RR 97.1, 95% CI 6.1-1557.1; p\u2009<\u20090.001). Small TICH size had the strongest association with absence of adverse events. Normal neurological status and GCS 14-15 were also associated with a low risk of adverse events. Anticoagulant or antiplatelet therapy showed no significant association with adverse events.\n\n**CONCLUSION**: Routinely available radiology reports, combined with basic clinical data, can identify a low-risk subgroup of patients with small TICHs. Hemorrhage size appears to be a useful factor for risk stratification, but the findings require internal and external prospective validation before implementation in clinical practice.",
+      "journal": "Eur J Trauma Emerg Surg",
+      "authors": [
+        "Gerd\u00e5s K",
+        "Wigermo A",
+        "Offenbartl M",
+        "Vestlund S",
+        "Rezk F",
+        "Vedin T"
+      ],
+      "date": "2026 May 08",
+      "doi": "10.1007/s00068-022-02016-8",
+      "tier": "core",
+      "topics": [
+        "General Trauma",
+        "TBI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "intracranial haemorrhage",
+          "strength": "weak",
+          "topic": "TBI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42101680/"
+    },
+    {
+      "pmid": "42100960",
+      "title": "Intravenous Tirofiban After Tenecteplase in Acute Ischemic Stroke: The INSTANT Randomized Clinical Trial.",
+      "abstract": "**IMPORTANCE**: Although recent trials have shown benefit with early tirofiban after thrombolysis, its efficacy remains uncertain in patients with acute ischemic stroke who do not have a large or medium vessel occlusion or a cardioembolic source and who show an inadequate clinical response to intravenous tenecteplase.\n\n**OBJECTIVE**: To assess the efficacy and safety of intravenous tirofiban administered after an inadequate response to intravenous tenecteplase in this specific patient population.\n\n**DESIGN, SETTING, AND PARTICIPANTS**: Investigator-initiated, randomized, double-blind, placebo-controlled trial conducted at 37 hospitals in China, enrolling 359 patients with acute ischemic stroke, without large or medium vessel occlusion or cardioembolic etiology, and with an insufficient clinical response to intravenous tenecteplase (defined as no significant change from baseline, neurological deterioration, or neurological fluctuation based on serial assessment of the National Institutes of Health Stroke Scale score within 4-24 hours after infusion). Recruitment took place between April 24, 2024, and July 16, 2025, with final follow-up on October 11, 2025.\n\n**INTERVENTIONS**: Intravenous tirofiban (n\u2009=\u2009177), administered as a 0.3-\u03bcg/kg/min bolus over 30 minutes, followed by a continuous infusion of 0.075 \u03bcg/kg/min for up to 47.5 hours, or matching placebo (n\u2009=\u2009182), initiated within 4 to 24 hours after intravenous tenecteplase. Oral antiplatelet therapy (aspirin and/or clopidogrel) was started 24 hours after thrombolysis in the placebo group and 44 hours after thrombolysis in the tirofiban group and continued in all patients through 90-day follow-up.\n\n**MAIN OUTCOMES AND MEASURES**: The primary outcome was an excellent outcome (defined as a score of 0 or 1 on the modified Rankin Scale; range, 0-6, with higher scores indicating more severe disability) at 90 days. Safety outcomes included incidence of symptomatic intracranial hemorrhage within 48 hours and 90-day mortality.\n\n**RESULTS**: Among 359 patients randomized (mean age, 66 years; 141 females [39.3%]), 358 (99.7%) completed the trial. An excellent outcome at 90 days was observed in 113 patients (63.8%) in the tirofiban group and in 95 patients (52.2%) in the placebo group (risk ratio, 1.22; 95% CI, 1.02-1.46; P\u2009=\u2009.03). Symptomatic intracranial hemorrhage within 48 hours occurred in 1 patient (0.9%) in the tirofiban group and no patients in the placebo group; 90-day mortality was 0.6% and 1.6%, respectively.\n\n**CONCLUSIONS AND RELEVANCE**: Among patients with acute ischemic stroke without large or medium vessel occlusion or a cardioembolic source who had an inadequate clinical response to intravenous tenecteplase, adjunctive intravenous tirofiban increased the likelihood of an excellent outcome at 90 days.\n\n**TRIAL REGISTRATION**: ClinicalTrials.gov Identifier: NCT05604638.",
+      "journal": "JAMA",
+      "authors": [
+        "Liu X",
+        "Zhang F",
+        "Zhang C",
+        "Li Z",
+        "Yuan G",
+        "Kong D",
+        "Xie S",
+        "Zhou M",
+        "Ye J",
+        "Lai Z",
+        "Li D",
+        "Xu H",
+        "Chen L",
+        "Cheng F",
+        "Shi Y",
+        "Chen B",
+        "Hu W",
+        "Liu H",
+        "Yin Y",
+        "Deng X",
+        "Xie Z",
+        "Li C",
+        "Shi J",
+        "Mei D",
+        "Liu B",
+        "Wang B",
+        "Zhou R",
+        "Liu J",
+        "Shen L",
+        "Hu H",
+        "Xiao G",
+        "Guan X",
+        "Yuan S",
+        "Lv X",
+        "Liang S",
+        "Zeng X",
+        "Chen Y",
+        "Cao W",
+        "Zheng C",
+        "Liu Y",
+        "Li J",
+        "Guan B",
+        "Lai T",
+        "Sun W",
+        "Zeng H",
+        "Zhang J",
+        "Li S",
+        "Sang H",
+        "Tang Y",
+        "Wang D",
+        "Lu M",
+        "Kaesmacher J",
+        "Yogendrakumar V",
+        "Pan S",
+        "Nogueira RG",
+        "Hong D",
+        "Goyal M",
+        "Thomalla G",
+        "Nguyen TN",
+        "Saver JL",
+        "Yang Q",
+        "Qiu Z",
+        "Zeng G"
+      ],
+      "date": "2026 May 08",
+      "doi": "10.1001/jama.2026.5245",
+      "tier": "filtered",
+      "topics": [
+        "TBI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "intracranial haemorrhage",
+          "strength": "weak",
+          "topic": "TBI"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42100960/"
+    },
+    {
+      "pmid": "42099212",
+      "title": "Intravenous Tenecteplase Prior to Endovascular Treatment for Ischemic Stroke at 4.5 to 24 Hours: The TNK-PLUS Randomized Clinical Trial.",
+      "abstract": "**IMPORTANCE**: Whether intravenous tenecteplase prior to endovascular treatment (EVT) for ischemic stroke reduces disability in the late time window is unclear.\n\n**OBJECTIVE**: To investigate the adverse events and efficacy of tenecteplase prior to EVT in patients 4.5 to 24 hours after ischemic stroke onset due to proximal middle cerebral artery (MCA) occlusion.\n\n**DESIGN, SETTING, AND PARTICIPANTS**: Multicenter, phase 3, randomized, open-label, blinded end point, superiority trial conducted at 40 centers in China. Adult (\u226518 years) patients with acute ischemic stroke 4.5 to 24 hours after last known to be well due to MCA-M1 or proximal M2 occlusion with salvageable brain tissue (ischemic core volume <70 mL, mismatch ratio \u22651.8, and mismatch volume \u226515 mL) identified on computed tomography-perfusion or magnetic resonance-perfusion-diffusion imaging were enrolled from January 25, 2024, through July 21, 2025, and followed up for 90 days. Final follow-up occurred on October 14, 2025.\n\n**INTERVENTIONS**: Eligible patients were randomly assigned in a 1:1 ratio to receive intravenous tenecteplase (0.25 mg/kg; maximum dose, 25 mg) before EVT (n\u2009=\u2009199) or EVT alone (n\u2009=\u2009192).\n\n**MAIN OUTCOMES AND MEASURES**: The primary outcome was functional independence, defined as a score of 0 to 2 on the modified Rankin Scale (range, 0-6, with higher scores indicating greater disability) at 90 days. Adverse events outcomes included symptomatic intracranial hemorrhage and death.\n\n**RESULTS**: All of the 391 patients enrolled (median age, 68 years [IQR, 59-75]; 155 [39.6%] females) completed the trial. Functional independence at 90 days occurred in 88 patients (44.2%) in the tenecteplase before EVT group and 83 patients (43.2%) in the EVT alone group (adjusted relative rate, 1.01 [95% CI, 0.83-1.24]; P\u2009=\u2009.89; risk difference, 0.99% [95% CI, -8.84% to 10.83%]). Mortality within 90 days was 12.7% (25/197) in the tenecteplase before EVT group and 14.2% (27/190) in the EVT alone group. Symptomatic intracranial hemorrhage within 36 hours was 5.1% (10/197) and 2.6% (5/190), respectively.\n\n**CONCLUSIONS AND RELEVANCE**: In patients presenting to EVT-capable centers 4.5 to 24 hours after stroke onset with proximal MCA occlusion, intravenous tenecteplase before EVT did not improve clinical outcomes vs EVT alone.\n\n**TRIAL REGISTRATION**: ClinicalTrials.gov Identifier: NCT06221371.",
+      "journal": "JAMA",
+      "authors": [
+        "Xiong Y",
+        "Che F",
+        "Wang H",
+        "Hao M",
+        "Nguyen TN",
+        "Fisher M",
+        "Jin A",
+        "Cao Z",
+        "Wang Z",
+        "Yao X",
+        "Feng G",
+        "Xu Y",
+        "Guo S",
+        "Qin H",
+        "Huang X",
+        "Xu J",
+        "Chen Z",
+        "Yuan J",
+        "Li W",
+        "Hu W",
+        "Feng X",
+        "Zong L",
+        "Ye W",
+        "Duan C",
+        "Wang L",
+        "Wu S",
+        "Campbell BCV",
+        "Wang Y"
+      ],
+      "date": "2026 May 08",
+      "doi": "10.1001/jama.2026.4292",
+      "tier": "filtered",
+      "topics": [
+        "TBI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "intracranial haemorrhage",
+          "strength": "weak",
+          "topic": "TBI"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42099212/"
+    },
+    {
+      "pmid": "42098869",
+      "title": "Prophylaxis of opioid-induced nausea in helicopter emergency medical service: a prospective quasi-experimental study.",
+      "abstract": "**OBJECTIVE**: In prehospital emergency medicine, opioids are usually used to treat acute traumatic pain. A common side effect of opioids is nausea. To prevent this, the prophylactic administration of 5-HT\n\n**METHODS**: Patients over the age of 16 who received opioid therapy due to acute traumatic pain by the crews of a total of six HEMS bases between February 2024 and April 2025 were prospectively included. Nausea prophylaxis after opioid-based pain therapy was performed according to a fixed rotating 7-day schedule: no nausea prophylaxis, medication-based nausea prophylaxis with ondansetron 4\u00a0mg intravenously, and aromatherapy-based nausea prophylaxis by inhalation of isopropanol. A nausea score was evaluated at the time of opioid administration and upon handover at the destination hospital, using a numeric rating scale (NRS) between 0 (no nausea) and 10 (maximum nausea). Primary endpoint was the change in NRS between the time before opioid administration and the time of patient handover at the emergency department. Secondary endpoints were incidence of moderate and severe nausea (defined as an NRS\u2009>\u20093), the incidence of vomiting during prehospital patient care and need of rescue medication (ondansetron for therapeutic use).\n\n**RESULTS**: A total of 205 patients were included in the analysis. Eighty-six in the \"no prophylaxis\" group, 64 in the ondansetron group, and 55 in the aromatherapy group. We found a median change in NRS of 0 (interquartile range 0-0) points across all groups. An increase in NRS was observed in 15% of patients in the no prophylaxis group, 14% in the ondansetron group, and 15% in the aromatherapy group. An NRS\u2009>\u20093 was observed in 14% of patients in the no prophylaxis group and in 11% of patients in both the ondansetron and aromatherapy groups. Vomiting occurred in 4% of patients in the no prophylaxis group, 2% in the ondansetron group, and in none of the aromatherapy group. Therapeutic administration of ondansetron was necessary in 4 patients in the \"no prophylaxis\" group and in one patient in the aromatherapy group. None of the patients experienced any improvement in nausea as a result, three of these patients from the \"no prophylaxis\" group vomited after ondansetron administration.\n\n**CONCLUSION**: Neither the prophylactic administration of ondansetron nor aromatherapy seem to be beneficial for the prevention of opioid-induced nausea in unselected patients in the setting of prehospital emergency medicine. Larger randomized controlled trials are needed to clarify whether certain subgroups may benefit.\n\n**TRIAL REGISTRATION**: Not applicable.",
+      "journal": "Scand J Trauma Resusc Emerg Med",
+      "authors": [
+        "Knapp J",
+        "Strohm R",
+        "Huber M",
+        "Albrecht R",
+        "Pietsch U"
+      ],
+      "date": "2026 May 07",
+      "doi": "10.1186/s13049-026-01626-0",
+      "tier": "core",
+      "topics": [
+        "General Trauma",
+        "Prehospital"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "traumatic",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "helicopter emergency",
+          "strength": "strong",
+          "topic": "Prehospital"
+        },
+        {
+          "keyword": "HEMS",
+          "strength": "weak",
+          "topic": "Prehospital"
+        },
+        {
+          "keyword": "prehospital",
+          "strength": "weak",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42098869/"
+    },
+    {
+      "pmid": "42098795",
+      "title": "Civilian penetrating traumatic brain injury in South-East Norway.",
+      "abstract": "**BACKGROUND**: Civilian penetrating traumatic brain injury (cpTBI) is a rare entity associated with severe and often devastating consequences. Guidelines recommend CT angiography (CTA), prophylactic antibiotics (AB) and antiseizure medication (ASM), early surgical revision with dural closure whenever feasible, and intracranial pressure (ICP)-guided therapy. The study aimed to investigate guideline compliance, as well as outcome after cpTBI for patients admitted to Oslo University Hospital (OUH).\n\n**METHODS**: We identified and included cpTBI patients admitted to OUH between 2015 and 2023 through the Oslo TBI Registry - Neurosurgery. Guideline adherence was assessed and variables associated with 30-day mortality and Glasgow Outcome Scale (GOS) were examined using standard uni- and multivariable techniques.\n\n**RESULTS**: The incidence of cpTBI was 1.9/1.000.000 with a 30-day mortality rate of 42.3%. Among the survivors, 70% achieved a favourable outcome (GOS 4 and 5) at 6 months. CTA was obtained at an acceptable rate (81%) in concordance with guidelines, but the guideline compliance for AB (12%) and ASM (29%) was substantially lower-than-expected. Surgery started within 12\u00a0h after injury in 58%, and ICP was monitored in 53.5% of patients with GCS\u2009<\u20099.\n\n**CONCLUSIONS**: Despite high mortality in cpTBI, most survivors achieved favourable outcome. We found a lower-than-expected guideline compliance for prophylactic AB and ASM, ICP monitoring, and surgical revision within 12\u00a0h. Thus, we identified several key factors that can improve cpTBI treatment at our institution. For patients considered potential survivors, management should be aggressive and aligned with established TBI treatment principles, including early vascular imaging with CTA, prompt wound debridement with dural closure, and prophylactic administration of AB and ASM.",
+      "journal": "Scand J Trauma Resusc Emerg Med",
+      "authors": [
+        "Aarhus M",
+        "Netteland DF",
+        "Tverdal C",
+        "Stenset V",
+        "R\u00f8nning P",
+        "Helseth E"
+      ],
+      "date": "2026 May 07",
+      "doi": "10.1186/s13049-026-01623-3",
+      "tier": "core",
+      "topics": [
+        "General Trauma",
+        "TBI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "traumatic",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic brain injury",
+          "strength": "strong",
+          "topic": "TBI"
+        },
+        {
+          "keyword": "ICP monitoring",
+          "strength": "weak",
+          "topic": "TBI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42098795/"
+    },
+    {
+      "pmid": "42098731",
+      "title": "Predictive value of carotid artery Doppler ultrasound for resuscitation outcomes in patients with cardiac arrest.",
+      "abstract": "**OBJECTIVE**: Carotid artery Doppler ultrasound, as a non-invasive monitoring method, offers higher clinical utility during cardiopulmonary resuscitation (CPR) compared to invasive techniques. This study aimed to investigate the application of real-time carotid Doppler ultrasound in CPR patients and analyze the predictive efficacy of waveform-derived parameters for return of spontaneous circulation (ROSC).\n\n**METHODS**: This prospective observational study consecutively enrolled adult patients who underwent CPR in the emergency department of a tertiary hospital in Zhejiang Province between March 2024 and March 2025. ROSC was defined as the first documented confirmation at a scheduled pulse/rhythm check, independent of Doppler findings. Patients were divided into ROSC and non-ROSC groups based on whether ROSC was obtained. Baseline characteristics and carotid Doppler parameters were analyzed to evaluate their prognostic value. Univariate analysis compared baseline characteristics, CPR data, and carotid Doppler parameters between groups. Receiver operating characteristic (ROC) curves were plotted to assess the predictive value of statistically significant indicators for ROSC.\n\n**RESULTS**: Among 51 patients (23 in the ROSC group, 28 in the non-ROSC group). Significant differences were observed in carotid blood flow parameters between groups, including VTI\u3001Vmax\u3001Vmin\u3001TAV\u3001MD*\u3001RI\u3001dv.MAX (all P\u2009<\u20090.05). ROC analysis showed AUC values of 0.811 (VTI), 0.758 (Vmax), 0.727 (Vmin), 0.751 (cMD*) and 0.72 (dv.MAX), with optimal cutoffs of 18.8 87.1,19, 2318 and 8.75, respectively. Because ROSC was adjudicated at scheduled pulse/rhythm checks, the prespecified 60-second Doppler window before documented ROSC may have partially overlapped with spontaneous rather than purely compression-generated flow.\n\n**CONCLUSION**: Carotid Doppler parameters (VTI\u3001Vmax\u3001Vmin\u3001TAV\u3001MD*\u3001RI\u3001dv.MAX) significantly differ between ROSC and non-ROSC groups. These parameters may provide objective hemodynamic insights during CPR. However, these findings should be interpreted cautiously because the Doppler window preceding documented ROSC may have partially included ROSC-transition flow; therefore, the results are exploratory and require prospective multicenter validation.",
+      "journal": "Scand J Trauma Resusc Emerg Med",
+      "authors": [
+        "Zhou S",
+        "Wang S",
+        "Xu S",
+        "Fang J",
+        "Zhang R",
+        "Yan D",
+        "Liu Y",
+        "Wang M",
+        "Wang Y"
+      ],
+      "date": "2026 May 07",
+      "doi": "10.1186/s13049-026-01620-6",
+      "tier": "core",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42098731/"
+    },
+    {
+      "pmid": "42096610",
+      "title": "Can a Large Language Model Grounded in Text-Based Agency-Specific Prehospital Protocols Provide Accurate Care Recommendations?",
+      "abstract": "**OBJECTIVES**: Large language models (LLMs) using a retrieval-augmented generation (RAG) approach have the ability to respond to user queries with answers grounded in specific sources. We conducted an exploratory evaluation of the accuracy of a RAG-based LLM to provide care recommendations for prehospital scenarios based on the emergency medical services (EMS) policies and treatment protocols (TPs).\n\n**METHODS**: We conducted a non-human, simulation-based experimental study by uploading all text-based policies/TPs from a single large EMS system into Google's NotebookLM platform, which uses a RAG-based LLM (Gemini 2.5 Flash) framework to generate grounded responses. We developed six clinical scenario prompts, including adult patient scenarios (i.e., ventricular fibrillation out-of-hospital cardiac arrest [OHCA], blunt head trauma, stroke, hazardous materials exposure mass-casualty incident) and pediatric patient scenarios (i.e., pulseless electrical activity OHCA, traumatic penetrating extremity hemorrhagic shock). For each scenario, we used all relevant policies/TPs to create a specific set of expected patient care actions. We categorized actions as procedures/interventions, medications, and destination guidance. Medication grading included dose/route for all patients and weight-based dosing for pediatrics. After providing the LLM with the prompts, two investigators independently graded the LLM responses and evaluated for LLM \"hallucinations\". Missing actions were categorized by investigators based on applicability to the case and potential safety risk (e.g., 'non-applicable,' 'minor miss,' 'major miss'). The primary outcome was model recommendation accuracy, defined as the percentage of all actions correctly provided in the model's response. We reported descriptive statistics.\n\n**RESULTS**: The LLM recommended 127 (75%) of 169 patient care actions across all cases. There were 42 missed actions. Nine of the 169 actions (5%) were categorized as 'major misses,' 13 (8%) as 'minor misses', and 20 (12%) as non-applicable to the specific case. Five of nine major misses occurred during the pediatric OHCA case; the majority of these resulted from failure to prompt for evaluation of secondary treatable causes. We identified 12 hallucinations; none were judged to endanger patient safety.\n\n**CONCLUSION**: We found that a RAG-based LLM demonstrated 75% accuracy across various prehospital scenarios when providing responses grounded in the policies/TPs of a single large EMS agency.",
+      "journal": "Prehosp Emerg Care",
+      "authors": [
+        "Wang CG",
+        "Bosson N",
+        "Rahimian R",
+        "Schlesinger S",
+        "Whitfield D",
+        "Toy J"
+      ],
+      "date": "2026 May 07",
+      "doi": "10.1080/10903127.2026.2668008",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Haemorrhage",
+        "Prehospital"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "haemorrhagic shock",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "prehospital",
+          "strength": "strong",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42096610/"
+    },
+    {
       "pmid": "42096239",
       "title": "Adjunctive Intra-Arterial Alteplase After Successful Thrombectomy for Acute Ischemic Stroke: The CHOICE-2 Randomized Clinical Trial.",
       "abstract": "**IMPORTANCE**: Despite high recanalization rates with endovascular thrombectomy for acute ischemic stroke due to large vessel occlusion, functional outcomes remain suboptimal. The benefit of adjunctive intra-arterial thrombolysis after successful thrombectomy is uncertain.\n\n**OBJECTIVE**: To assess whether adjunctive intra-arterial alteplase after successful thrombectomy improves functional outcomes and cerebral reperfusion.\n\n**DESIGN, SETTING, AND PARTICIPANTS**: Randomized, open-label trial with blinded outcome assessment conducted at 14 stroke centers in Spain from December 11, 2023, through November 26, 2025. A total of 440 patients with acute ischemic stroke due to large vessel occlusion treated with thrombectomy within 24 hours and achieving an expanded Treatment in Cerebral Ischemia score of 2b50 to 3 were randomized.\n\n**INTERVENTIONS**: Thrombectomy plus intra-arterial alteplase (0.225 mg/kg; maximum dose, 20 mg/kg) infused over 15 minutes (n\u2009=\u2009221) or thrombectomy alone (n\u2009=\u2009219).\n\n**MAIN OUTCOMES AND MEASURES**: The primary outcome was an excellent functional outcome at 90 days, which was defined as a modified Rankin Scale score of 0 or 1. There were 6 secondary outcomes, including residual hypoperfusion on follow-up computed tomography perfusion. The safety outcomes included symptomatic intracranial hemorrhage and death.\n\n**RESULTS**: Of 3786 patients treated with thrombectomy, 2776 (73%) fulfilled angiographic criteria and 440 (12%) were randomized. There were 433 patients who were treated as randomized (median age, 76 [IQR, 75-78] years; 51% female). At 90 days, 57.5% of patients (123/214) in the thrombectomy plus intra-arterial alteplase group had a modified Rankin Scale score of 0 or 1 vs 42.5% of patients (93/219) in the thrombectomy alone group (adjusted risk difference, 15.0% [95% CI, 5.7% to 24.3%]; P\u2009=\u2009.002). Of 6 secondary outcomes, 4 showed no significant between-group differences. Residual hypoperfusion occurred in 28.6% (55/192) of patients in the thrombectomy plus intra-arterial alteplase group vs 50.5% (96/190) of patients in the thrombectomy alone group (adjusted risk difference, -22.0% [95% CI, -31.5% to -12.4%]; P\u2009<\u2009.001) and symptomatic intracranial hemorrhage occurred in 1.4% (3/214) vs 0.5% (1/219), respectively (adjusted odds ratio, 3.10 [95% CI, 0.32 to 30.0]; P\u2009=\u2009.33). Mortality at 90 days was 12.1% (26/214) in the thrombectomy plus intra-arterial alteplase group vs 6.4% (14/219) in the thrombectomy alone group (adjusted risk difference, 5.9% [95% CI, 0.5% to 11.3%]; P\u2009=\u2009.03).\n\n**CONCLUSIONS AND RELEVANCE**: Among patients with acute ischemic stroke and successful thrombectomy, adjunctive intra-arterial alteplase increased the proportion achieving excellent functional outcome at 90 days without a significant increase in symptomatic intracranial hemorrhage. Higher mortality in the thrombectomy plus intra-arterial alteplase group warrants further study.\n\n**TRIAL REGISTRATION**: ClinicalTrials.gov Identifier: NCT05797792.",
@@ -449,34 +782,6 @@
       ],
       "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/42096239/"
-    },
-    {
-      "pmid": "42095559",
-      "title": "Stick Or Switch: The Diminishing Returns Of Repeated Peripheral Intravenous Access Attempts In Hypotensive Trauma Patients.",
-      "abstract": "**BACKGROUND**: Peripheral intravenous (PIV) access is the first-line approach to vascular access in trauma patients. There is no evidence to guide clinicians on when to abandon PIV attempts in favor of alternative access. We sought to characterize PIV success rates, identify factors associated with success, and determine the marginal yield of sequential PIV attempts in hypotensive trauma patients.\n\n**STUDY DESIGN**: We analyzed data from audiovisual recordings of trauma resuscitations from a multicenter prospective study of vascular access in hypotensive (SBP <90mmHg) patients. The primary outcome was PIV attempt success rate. Secondary outcomes included attempt duration and cumulative patient-level success across sequential attempts. Generalized estimating equations with exchangeable correlation structure were used to account for clustering of attempts within patients.\n\n**RESULTS**: A total of 886 PIV attempts occurred in 471 patients across 18 centers. The overall PIV success rate was 67.1%. Male patient sex (adjusted OR 1.92, 95% CI 1.22-3.03, p=0.005) and the presence of a measurable initial systolic blood pressure (adjusted OR 1.84, 95% CI 1.06-3.20, p=0.03) were independently associated with PIV success. The first PIV attempt was successful in 70% of patients, and cumulative success reached 83% by the second attempt. The marginal success rate among patients without prior success dropped from 70% on the first attempt to 54% on the second and 39% on the third.\n\n**CONCLUSIONS**: PIV access in hypotensive trauma patients succeeds approximately two-thirds of the time. The marginal yield of sequential PIV attempts declines substantially after two failed attempts. These findings support a practice in which alternate vascular access such as intraosseous access is actively considered after a single failed PIV attempt in patients without a measurable blood pressure.",
-      "journal": "J Am Coll Surg",
-      "authors": [
-        "Dumas RP",
-        "Succar B",
-        "Vella MA",
-        "Maiga A",
-        "Holena DN"
-      ],
-      "date": "2026 May 07",
-      "doi": "10.1097/XCS.0000000000002027",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42095559/"
     },
     {
       "pmid": "42094758",
@@ -1009,33 +1314,6 @@
       "link": "https://pubmed.ncbi.nlm.nih.gov/42089861/"
     },
     {
-      "pmid": "42089542",
-      "title": "Facial Trauma, To Transfer or Not to Transfer?",
-      "abstract": "",
-      "journal": "J Am Coll Surg",
-      "authors": [
-        "Shettig A",
-        "Nguyen PD",
-        "Jebbia M",
-        "Nahmias J"
-      ],
-      "date": "2026 May 06",
-      "doi": "10.1097/XCS.0000000000002024",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42089542/"
-    },
-    {
       "pmid": "42087223",
       "title": "Prehospital resuscitative endovascular balloon occlusion of the aorta in non-traumatic out-of-hospital cardiac arrest (REBOARREST): an international, multicentre, open label, pragmatic, randomised, controlled trial.",
       "abstract": "**BACKGROUND**: Most patients with out-of-hospital cardiac arrest do not achieve sustained return of spontaneous circulation (ROSC). Resuscitative endovascular balloon occlusion of the aorta (REBOA) may increase blood pressure proximal to the ballon. If this technique is used during advanced life support (ALS), and occlusion is performed in the thoracic aorta, it may augment aortic pressure and coronary perfusion pressure. We investigated whether prehospital REBOA as an adjunct to ALS increased the rate of ROSC.\n\n**METHODS**: REBOARREST was a pragmatic, parallel-group, multicentre, randomised controlled trial conducted at 12 sites in Norway, Denmark, and Italy. Adult patients (18-80 years) with non-traumatic out-of-hospital cardiac arrest were randomly assigned (1:1) to either a control group that received ALS or to an intervention group that received ALS combined with REBOA as an adjunct. Fulfilment of eligibility criteria was determined by the physician on scene and sealed envelopes were used to allocate patients. The statistician that performed the analyses was blinded for group allocation. The primary outcome was sustained ROSC, defined as lasting\u2009\u2265\u200920\u00a0min, assessed in the intention-to-treat population.\n\n**RESULTS**: From June 7, 2021, to June 28, 2025, 200 patients were randomly assigned to the study groups. Due to lack of consent 21 patients dropped out of the trial, hence data from 179 patients are presented, 88 in the intervention group and 91 in the control group. Most patients were male (76%), with median age of 68 years (IQR 58-74). Median time from arrest to randomisation was 33\u00a0min (IQR 23-39) in the intervention group and 29\u00a0min (IQR 23-38) in the control group. Twenty-five of 88 patients (28%) in the intervention group and 24 of 91 patients (26%) in the control group achieved sustained ROSC (adjusted risk difference 1.8% [-11, 15, 95% CI], p\u2009=\u20090.78). Adverse events were registered in 19 patients.\n\n**CONCLUSIONS**: Among patients with non-traumatic out-of-hospital cardiac arrest, a strategy of prehospital deployment of REBOA as an adjunct to ALS was feasible but did not significantly improve rates of sustained ROSC compared to ALS alone. Deployment of prehospital REBOA is safe and manageable in a two-person team with low procedure time.\n\n**TRIAL REGISTRATION**: Clinicaltrials.gov ID NCT04596514. Registered 22.10.2020.",
@@ -1411,99 +1689,6 @@
       ],
       "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/42084378/"
-    },
-    {
-      "pmid": "42084239",
-      "title": "Early Chemoprophylaxis in Spinal Injury Patients Reduces Deep Venous Thrombosis, Pulmonary Embolism, and Mortality.",
-      "abstract": "",
-      "journal": "J Am Coll Surg",
-      "authors": [
-        "Warshauer AK",
-        "Lynch SN",
-        "Burlew CC"
-      ],
-      "date": "2026 May 05",
-      "doi": "10.1097/XCS.0000000000002022",
-      "tier": "filtered",
-      "topics": [
-        "Spine"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "spinal injury",
-          "strength": "strong",
-          "topic": "Spine"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42084239/"
-    },
-    {
-      "pmid": "42084227",
-      "title": "Volume Is Not Enough: Chest Wall Injury as a Test Case for Performance-Based Trauma Center Verification.",
-      "abstract": "",
-      "journal": "J Am Coll Surg",
-      "authors": [
-        "Forrester JD",
-        "Bauman ZM",
-        "Eriksson EA",
-        "Warriner ZD",
-        "Whitbeck S",
-        "White TW"
-      ],
-      "date": "2026 May 05",
-      "doi": "10.1097/XCS.0000000000002014",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "trauma centre",
-          "strength": "strong",
-          "topic": "Systems/QI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42084227/"
-    },
-    {
-      "pmid": "42084226",
-      "title": "Expanding Procedural Metrics: Rib Fixation as an Additional Surrogate of Trauma Center Performance.",
-      "abstract": "",
-      "journal": "J Am Coll Surg",
-      "authors": [
-        "Joseph B",
-        "Castillo-Diaz F",
-        "Magnotti LJ"
-      ],
-      "date": "2026 May 05",
-      "doi": "10.1097/XCS.0000000000002015",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "trauma centre",
-          "strength": "strong",
-          "topic": "Systems/QI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42084226/"
     },
     {
       "pmid": "42083084",
@@ -3099,38 +3284,6 @@
       "keyword_matches": [],
       "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/42047630/"
-    },
-    {
-      "pmid": "42047383",
-      "title": "Impact of Smoking Status on Morbidity and Mortality after Lung Cancer Resection: An Analysis of the Society of Thoracic Surgeons General Thoracic Surgery Database.",
-      "abstract": "**BACKGROUND**: Tobacco exposure is the leading cause of lung cancer, with some surgeons and centers requiring smoking cessation before lung resection. The impact of continued smoking on outcomes remains uncertain. We evaluated morbidity and mortality after resection among patients who currently smoke compared with those who formerly smoked.\n\n**METHODS**: We analyzed lung cancer resections (2018-2023) in the Society of Thoracic Surgeons (STS) General Thoracic Surgery Database. Smoking status was defined using STS operational definitions as current (within 1 month of operation) or former (abstinence >1 month). Patients who never smoked were excluded. Primary outcomes were operative or 30-day mortality and postoperative pulmonary complications. Multivariable regression identified predictors of outcomes.This research was determined to be exempt research with a waiver of informed consent from Advarra Institutional Review Board (Mod01760092, Version 1.1, Approval date July 17, 2023).\n\n**RESULTS**: Of 85,124 patients, 28% (n=24,093) currently smoked and 72% (n=61,031) formerly smoked. Patients who currently smoked were younger (65.6 vs 69.6 years; p<0.001), had fewer comorbidities, and included higher proportions of patients who identify as Black (11.5% vs 7.5%; p<0.001). Pulmonary complications were more frequent among patients who currently smoke (34.6% vs 30.5%; p<0.001), but mortality did not differ by smoking status (1.0% vs 1.0%; p=0.52). Male sex, current smoking, greater pack-years, thoracotomy, and more extensive resection independently predicted pulmonary complications.\n\n**CONCLUSIONS**: Patients who currently smoke experienced higher pulmonary morbidity but no increase in mortality. Surgeons should not use smoking status alone when determining if a patient is a candidate for lung cancer resection. Risk assessment should integrate smoking status in combination with a comprehensive range of preoperative factors to guide shared decision-making and ensure access to lung cancer operation.",
-      "journal": "J Am Coll Surg",
-      "authors": [
-        "Kim H",
-        "Viana SW",
-        "Pinkston C",
-        "Pratt CG",
-        "Rai S",
-        "Haugen CE",
-        "Quillin RC",
-        "Starnes SL",
-        "Van Haren RM"
-      ],
-      "date": "2026 Apr 28",
-      "doi": "10.1097/XCS.0000000000002007",
-      "tier": "filtered",
-      "topics": [
-        "Thoracic"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "thoracotomy",
-          "strength": "weak",
-          "topic": "Thoracic"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42047383/"
     },
     {
       "pmid": "42045940",
@@ -4754,60 +4907,6 @@
       ],
       "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/42023932/"
-    },
-    {
-      "pmid": "42023740",
-      "title": "Where Should We Put Prehospital Blood?",
-      "abstract": "",
-      "journal": "J Am Coll Surg",
-      "authors": [
-        "Holcomb JB"
-      ],
-      "date": "2026 Apr 23",
-      "doi": "10.1097/XCS.0000000000001999",
-      "tier": "filtered",
-      "topics": [
-        "Haemorrhage",
-        "Prehospital"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "prehospital blood",
-          "strength": "strong",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "prehospital",
-          "strength": "strong",
-          "topic": "Prehospital"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42023740/"
-    },
-    {
-      "pmid": "42023721",
-      "title": "Readiness Requires Repetition: Why Daily Trauma Care is the Foundation of Military Surge Capacity.",
-      "abstract": "",
-      "journal": "J Am Coll Surg",
-      "authors": [
-        "Kerby JD"
-      ],
-      "date": "2026 Apr 23",
-      "doi": "10.1097/XCS.0000000000001997",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42023721/"
     },
     {
       "pmid": "42023551",
@@ -6986,51 +7085,6 @@
       "link": "https://pubmed.ncbi.nlm.nih.gov/41989358/"
     },
     {
-      "pmid": "41989287",
-      "title": "Building Trauma Care Capacity in Ethiopia: A 5-Year Assessment of the Hawassa University and Multi-Institutional American College of Surgeons Health Outreach Program for Equity in Global Surgery Partnership.",
-      "abstract": "**BACKGROUND**: Traumatic injury is a significant global cause of mortality and disability with a particularly high burden in southern Ethiopia. Hawassa University Comprehensive Specialized Hospital (HUCSH) partnered with the American College of Surgeons Health Outreach Program for Equity in Global Surgery to improve access to surgical care, including trauma care. This study evaluates changes in trauma care capacity during the first 5 years of this collaboration.\n\n**STUDY DESIGN**: A comprehensive trauma capacity assessment was conducted at HUCSH in 2019 and repeated in 2024 using a 481-item tool designed for low-resource settings. The tool evaluates 5 major domains of trauma care: provider knowledge, infrastructure, human resources, supplies, and hospital processes, plus injury-specific and administrative categories. Each item was scored on a 0 to 3 ordinal scale during detailed hospital walkthroughs. Paired item-level comparisons were made with Wilcoxon signed-rank tests with Hodges-Lehmann estimates of change. Qualitative feedback was collected by direct observation and staff interviews.\n\n**RESULTS**: Scores improved in provider knowledge, infrastructure, supplies, and hospital processes, driven in part by the development of a prehospital system. Human resources showed no change and remained the lowest-scoring domain in 2024. Although administrative and process improvements were substantial, measured gains in clinical care for specific injury types were limited. Qualitative feedback aligned with these quantitative findings.\n\n**CONCLUSIONS**: Trauma care capacity at HUCSH, as measured by this assessment, improved during 5 years of a multi-institutional international partnership. Opportunities exist for investment in hospital infrastructure, workforce retention, and standardized clinical protocols. This model may guide capacity-building efforts in other low-resource settings, serve as a framework for iterative trauma capacity assessment, and monitor progression toward National Surgical, Obstetric, and Anesthesia Plans.",
-      "journal": "J Am Coll Surg",
-      "authors": [
-        "Alexander KJ",
-        "Lee M",
-        "Tesfaye Shimber E",
-        "Mellese Abebe B",
-        "Gebremeskel Z",
-        "Woisha B",
-        "Goshu YT",
-        "Ergete AM",
-        "Jinadasa SP",
-        "Aboutanos M",
-        "Rodas EB"
-      ],
-      "date": "2026 May 01",
-      "doi": "10.1097/XCS.0000000000001717",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Prehospital"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "prehospital",
-          "strength": "weak",
-          "topic": "Prehospital"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41989287/"
-    },
-    {
       "pmid": "41989256",
       "title": "Noninvasive respiratory support strategies in chest trauma: A systematic review and network meta-analysis.",
       "abstract": "**BACKGROUND**: Chest trauma often causes respiratory impairment and carries substantial mortality, particularly among intubated patients. Although guidelines recommend noninvasive ventilation (NIV) for hypoxemic respiratory failure, high flow nasal cannula (HFNC) is increasingly used despite limited comparative evidence. The objective was to compare the effects of conventional oxygen therapy (COT), HFNC, and NIV on escalation of respiratory support and in-hospital outcomes in adults with hypoxemic respiratory failure after chest trauma.\n\n**METHODS**: We conducted a systematic review and network meta-analysis registered in UMIN (UMIN000059126) and reported according to PRISMA-NMA. MEDLINE, Cochrane Central, Cumulative Index to Nursing and Allied Health Literature, WHO International Clinical Trials Registry Platform, and ClinicalTrials.gov were searched from January 2000 to July 2025. Randomized controlled trials and high-quality observational studies were eligible if they compared at least two of COT, HFNC, and NIV in adults with hypoxemia due to chest trauma. The primary outcome was escalation of respiratory support; secondary outcomes were in-hospital mortality and length of hospital stay. A random-effects frequentist network meta-analysis was performed.\n\n**RESULTS**: Four studies met eligibility criteria (three randomized trials and one observational study), including 3,270 patients: 1,465 received NIV, 1,613 HFNC, and 192 COT. Compared with COT, NIV was associated with a lower risk of escalation of respiratory support [odds ratio (OR), 0.42; 95% CI, 0.20-0.85] and a lower escalation risk than HFNC (OR, 0.72; 95% CI, 0.58-0.89). HFNC showed uncertain benefit relative to COT (OR, 0.58; 95% CI, 0.29-1.16). NIV was also associated with lower in-hospital mortality and shorter hospital stay than both COT and HFNC. Reported device-related and clinical complications were uncommon.\n\n**CONCLUSIONS**: In adults with hypoxemic respiratory failure after chest trauma, NIV appears more effective than HFNC and COT in preventing escalation of respiratory support and improving in-hospital outcomes.(J Trauma Acute Care Surg. 2026;00:000-000. Copyright \u00a9 2026 Wolters Kluwer Health, Inc. All rights reserved.).\n\n**LEVEL OF EVIDENCE**: Systematic review/meta-analyses; Level II.",
@@ -7086,67 +7140,6 @@
       ],
       "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41989245/"
-    },
-    {
-      "pmid": "41989040",
-      "title": "Geo-Mapping Using In-Hospital Massive Transfusion Data as a Method for Prehospital Blood Management for Trauma Patients.",
-      "abstract": "**BACKGROUND**: Prehospital whole blood (PHWB) transfusion improves outcomes in trauma patients, but blood products are a scarce and costly resource. We hypothesized that massive transfusion protocol (MTP) activation could be an indicator for trauma patients who might benefit from PHWB, and we used geo-mapping to identify high need zones.\n\n**STUDY DESIGN**: We retrospectively analyzed trauma registry data from five trauma centers in Omaha and Lincoln, Nebraska, including all patients who had MTP activated in the trauma bay from 6/1/2019-3/31/2025. Assault and motor vehicle crash (MVC) data was collected from the Nebraska Department of Transportation and local police databases. Incidence of MTP, assaults, and MVCs was mapped to identify the highest need zones. Chi-square tests of independence and Pearson and Spearman correlations compared MTP incidence by ZIP Code Tabulated Areas (ZCTA's) with known trauma events.\n\n**RESULTS**: A total of 338 MTP patients from Omaha and 89 from Lincoln were included. Geo-mapping revealed a greater need for PHWB in the downtown centers of both cities. Tests of independence showed significant associations between MTP incidence (Omaha: \u03c7\u00b2 = 741.22, df = 28, p < 0.001; Lincoln: \u03c7\u00b2 = 43.75, df = 13, p < 0.001). Spearman and Pearson correlations showed a positive linear correlation between MTP incidence and trauma incidence.\n\n**CONCLUSION**: Geo-mapping MTP data strongly correlated with known traumas, supporting MTP activation as a surrogate marker for PHWB need. This offers a novel method for cities to plan PHWB programs by determining high need zones and ensuring equitable and cost-effective distribution of scarce resources.",
-      "journal": "J Am Coll Surg",
-      "authors": [
-        "Barmettler NK",
-        "Knapp C",
-        "Raposo-Hadley AA",
-        "Kuncir EJ",
-        "Kemp K",
-        "Barrett C",
-        "Maginot ER",
-        "Boever J",
-        "Evans CH",
-        "Henry R"
-      ],
-      "date": "2026 Apr 16",
-      "doi": "10.1097/XCS.0000000000001896",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Haemorrhage",
-        "Prehospital",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "massive transfusion",
-          "strength": "strong",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "blood product",
-          "strength": "weak",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "prehospital blood",
-          "strength": "strong",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "prehospital",
-          "strength": "strong",
-          "topic": "Prehospital"
-        },
-        {
-          "keyword": "trauma registry",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41989040/"
     },
     {
       "pmid": "41987276",
@@ -9571,30 +9564,6 @@
       "link": "https://pubmed.ncbi.nlm.nih.gov/41960924/"
     },
     {
-      "pmid": "41960794",
-      "title": "The Cost of Choice: Helmet Laws, Trauma Systems, and Who Actually Pays.",
-      "abstract": "",
-      "journal": "J Am Coll Surg",
-      "authors": [
-        "Brown CV"
-      ],
-      "date": "2026 Apr 10",
-      "doi": "10.1097/XCS.0000000000001970",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41960794/"
-    },
-    {
       "pmid": "41956522",
       "title": "Non-drug perioperative interventions to reduce postoperative pulmonary complications after abdominal surgery: systematic review and meta-analysis.",
       "abstract": "**OBJECTIVE**: To evaluate the effectiveness of perioperative non-drug interventions in reducing postoperative pulmonary complications (PPCs) in adults undergoing abdominal surgery.\n\n**DESIGN**: Systematic review and meta-analysis.\n\n**DATA SOURCES**: Ovid MEDLINE, Embase, and Web of Science from database inception to January 2025 and updated in January 2026, with no language restrictions.\n\n**STUDY SELECTION**: Randomised controlled trials assessing the effectiveness of perioperative non-drug interventions for the prevention of PPCs in adults undergoing elective abdominal surgery under general anaesthesia, with clearly defined PPCs.\n\n**MAIN OUTCOME MEASURES**: The primary outcome was the proportion of patients developing PPCs. Secondary outcomes included the proportion of patients with PPC subtypes according to European Perioperative Clinical Outcome definitions (respiratory infection, respiratory failure, pleural effusion, atelectasis, or pneumothorax) and hospital length of stay.\n\n**DATA EXTRACTION AND SYNTHESIS**: Two reviewers independently screened studies, extracted data, and assessed risk of bias with the Cochrane RoB 2.0 tool. Data were synthesised using meta-analyses and trial sequential analyses, with the evidence certainty assessed using the Grading of Recommendations, Assessment, Development and Evaluation (GRADE) approach.\n\n**RESULTS**: 255 trials including 55\u2009260 participants were included, evaluating 10 types of interventions with 39 subtypes for PPC prevention. PPCs occurred in 6467 (11.7%) participants across all included trials. High certainty evidence showed that low fraction of inspired oxygen (FiO\n\n**CONCLUSIONS**: This synthesis establishes an evidence hierarchy for PPC prevention in abdominal surgery. Low FiO\n\n**STUDY REGISTRATION**: PROSPERO CRD42025637449.",
@@ -9698,314 +9667,6 @@
       ],
       "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41955819/"
-    },
-    {
-      "pmid": "41954403",
-      "title": "Reframing Global Neurosurgery: The Response to Hurricane Melissa in Jamaica as a Model for Action.",
-      "abstract": "Hurricane Melissa struck Jamaica on October 28, 2025, devastating the health care infrastructure and causing a surge of traumatic spinal injuries referred to the University Hospital of the West Indies (UHWI). Although UHWI neurosurgeons possessed the expertise to manage these cases, a shortage of spinal implant systems threatened the delivery of definitive care. This mismatch between clinical capability and material resources reflects a fundamental yet overlooked barrier in global neurosurgery. We describe a real-time, multi-institutional response involving neurosurgical leaders in Jamaica and across the United States, in collaboration with industry, government, and philanthropic institutions to facilitate an emergency donation of cervical and thoracolumbar spinal instrumentation. This response inverted the traditional global surgery paradigms by emphasizing logistical amplification rather than personnel deployment. US neurosurgical partners facilitated industry engagement, through Medtronic, to assemble hardware tailored precisely to UHWI's operative needs; the American Friends of Jamaica, a nonprofit organization, enabled compliant philanthropic transfer; and Jamaica's Ministry of Health expedited regulatory approval and customs clearance during a period of disaster-related congestion. Numerous patients received timely stabilization who otherwise risked prolonged immobilization and neurological deterioration. The Hurricane Melissa response offers a scalable blueprint for disaster-related neurosurgical support. This effort demonstrates a maturing model of global neurosurgery in which high-income country partners act not as visiting surgeons but as resource mobilizers. By reframing global neurosurgery around the principle of amplifying existing strengths, international partners can respond more effectively during crises and promote a more equitable paradigm for global surgical collaboration.",
-      "journal": "Neurosurgery",
-      "authors": [
-        "Parker T",
-        "Lawrence P",
-        "Walcott D",
-        "Barth\u00e9lemy E",
-        "Shankar GM",
-        "Khalessi A",
-        "Bisson E",
-        "Ghogawala Z",
-        "Carter B",
-        "Bruce C"
-      ],
-      "date": "2026 Apr 09",
-      "doi": "10.1227/neu.0000000000004043",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "traumatic",
-          "strength": "weak",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41954403/"
-    },
-    {
-      "pmid": "41954385",
-      "title": "Global Neurosurgical Advocacy at the 78th World Health Assembly: Critical Collaboration at a Time of Geopolitical Change.",
-      "abstract": "This article is part of an ongoing initiative to provide peer-reviewed updates to neurosurgeons on pertinent activities and initiatives at the annual World Health Assembly (WHA). The 78th WHA, which convened in Geneva, Switzerland, from May 19 to 27, 2025, presented a crucial platform for global neurosurgical advocacy after the recent withdrawal of the United States from the World Health Organization. Neurosurgical care was featured throughout the advocacy agenda, with neurosurgical delegates from nine countries driving collaborative discussions and educational events throughout the week. We reviewed and synthesized the WHA resolutions and side events most relevant to global neurosurgical care. Key neurosurgical advances during WHA78 included: (1) the call to action to recognize traumatic brain injury as a chronic and notifiable condition, (2) the first biennial update on folic acid fortification implementation working toward next year's progress report, and (3) the expansion of sustainable catalytic financing systems for surgical care.",
-      "journal": "Neurosurgery",
-      "authors": [
-        "Dange RM",
-        "Perez-Chadid DA",
-        "Garc\u00eda R",
-        "Hutchinson PJA",
-        "Park KB",
-        "Mediratta S",
-        "Venturini S",
-        "Servadei F",
-        "Vaughan KA",
-        "Barth\u00e9lemy EJ",
-        "Ghotme KA",
-        "Khan T",
-        "Khattak AF",
-        "Moser R",
-        "Haglund MM",
-        "Mbanje C",
-        "Alesawy N",
-        "Reddy R",
-        "Johnson W",
-        "Borrero A",
-        "Blount JP",
-        "Arynchyna-Smith A",
-        "Gonzalez-Gomez M",
-        "Hereford W",
-        "Hale AT",
-        "Jarram A",
-        "Ibbotson G",
-        "Dodgion CM",
-        "\u00d6cal E",
-        "Sheneman N",
-        "Wetzig NR",
-        "Rosseau GL"
-      ],
-      "date": "2026 Apr 09",
-      "doi": "10.1227/neu.0000000000004032",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "TBI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "traumatic",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic brain injury",
-          "strength": "weak",
-          "topic": "TBI"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41954385/"
-    },
-    {
-      "pmid": "41954279",
-      "title": "Modern management of abdominal aortic injuries: What you need to know.",
-      "abstract": "Abdominal aortic injury is a rare but deadly traumatic insult that occurs in <0.1% of trauma patients but carries a mortality rate of 29% to 70%. Penetrating injuries usually present with shock and require rapid hemorrhage control through open abdominal exploration. Blunt injuries are increasingly being managed nonoperatively and with endovascular techniques. Both mechanisms are commonly associated with other severe intra- and extra-abdominal injuries. The trauma surgeon must be prepared to promptly evaluate for intra-abdominal hemorrhage and choose the appropriate clinical pathway to diagnose and manage abdominal aortic injury. (J Trauma Acute Care Surg. 2026;00: 00-00. Copyright \u00a9 2026 Wolters Kluwer Health, Inc. All rights reserved.).",
-      "journal": "J Trauma Acute Care Surg",
-      "authors": [
-        "Perkins L",
-        "Kobayashi L",
-        "Coimbra R"
-      ],
-      "date": "2026 Apr 09",
-      "doi": "10.1097/TA.0000000000004815",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "Penetrating",
-        "Vascular"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "penetrating injury",
-          "strength": "weak",
-          "topic": "Penetrating"
-        },
-        {
-          "keyword": "aortic injury",
-          "strength": "weak",
-          "topic": "Vascular"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41954279/"
-    },
-    {
-      "pmid": "41954278",
-      "title": "Impact of frailty and physiological severity on early and medium-term surgical outcomes after open abdomen.",
-      "abstract": "**BACKGROUND**: Open abdomen (OA), mainly indicated for sepsis and second-look surgery, may entail severe complications that translate into high morbidity and mortality. Following the World Society of Emergency Surgery 2018 Guidelines leads to an improvement in surgical outcomes. However, how baseline status and fragility might determine patient\u00b4s morbidity and survival has not been described yet.\n\n**METHODS**: Retrospective analysis of a prospectively maintained registry of patients undergoing emergency laparotomy with temporary abdominal closure (January 2020-December 2022) and \u226512-month follow-up. Demographics, surgical features, surgical outcomes, and survival were compared across APACHE II and frailty strata. Frailty was assessed using both the Modified Frailty Index-5 and Modified Frailty Index-11 instruments. The APACHE II cutoff was derived by Youden Index; survival was analyzed with Kaplan-Meier/log-rank.\n\n**RESULTS**: Of 3,103 emergency laparotomies, 115 patients (3.7%) required OA (69.6% males; median age: 62\u00a0y). The main indications were septic abdomen 44.3%, second-look 31.3%. All received negative-pressure therapy; 73.9%, in addition, underwent mesh-mediated fascial traction. Median time to definitive closure was three days (IQR: 2-4.75). Complication rates were 72% for surgical and 83.5% for systemic complications, Clavien-Dindo III-IV complications were present in 50 (43.5%) patients. In-hospital mortality was 47%; overall 49.6%, including 22.6% within 48 hours. APACHE II \u226516 (Youden cutoff) was associated with lower survival (log-rank p = 0.004) and higher mortality (22.84 \u00b1 8.77 vs 17.98 \u00b1 8.99; p = 0.003). Frailty indices showed no significant association with mortality or survival (p = 0.11; p = 0.081).\n\n**CONCLUSIONS**: Preoperative physiological status acts as a major determinant of systemic complications and mortality in patients requiring OA. The APACHE II score proved to be an independent prognostic factor and could be integrated into routine clinical decision-making.\n\n**LEVEL OF EVIDENCE**: Level III.",
-      "journal": "J Trauma Acute Care Surg",
-      "authors": [
-        "\u00c1lvarez-Aguilera M",
-        "Dur\u00e1n Mu\u00f1oz-Cruzado Md V",
-        "Bravo Rat\u00f3n P",
-        "Mart\u00ednez-Casas I",
-        "Perea Del Pozo E",
-        "Padillo Ruiz J",
-        "Pareja Ciur\u00f3 F"
-      ],
-      "date": "2026 Apr 09",
-      "doi": "10.1097/TA.0000000000005006",
-      "tier": "core",
-      "topics": [
-        "Procedures"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "emergency laparotomy",
-          "strength": "weak",
-          "topic": "Procedures"
-        },
-        {
-          "keyword": "open abdomen",
-          "strength": "strong",
-          "topic": "Procedures"
-        },
-        {
-          "keyword": "temporary abdominal closure",
-          "strength": "weak",
-          "topic": "Procedures"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41954278/"
-    },
-    {
-      "pmid": "41952177",
-      "title": "Risk assessment reasoning and decision-making by ambulance professionals in patients with a transient loss of consciousness: a qualitative study.",
-      "abstract": "**BACKGROUND**: Patients with a transient loss of consciousness (T-LOC) present a complex clinical situation for ambulance professionals. The challenge arises from the complexity of the diverse aetiologies associated with T-LOC and the demanding nature of the pre-hospital work environment. Insights into the experiences, dilemmas, and challenges faced by ambulance professionals in the risk assessment and decision-making in this patient category could help to understand the support they need. Our study aimed to explore the risk assessment reasoning and decision-making process of ambulance professionals in patients with a T-LOC in current practice.\n\n**METHODS**: We conducted a qualitative study with focus group interviews in an emergency medical services (EMS) organisation in the Netherlands. Through purposive sampling, ambulance professionals were recruited for two online focus group interviews. An interview guide, based on literature and preliminary individual interviews, was used. The focus group interviews were transcribed verbatim and analysed using thematic analysis.\n\n**RESULTS**: A total of eleven participants participated in two focus group interviews. Three main themes emerged: (1) Clinical reasoning covering the (initial) approach of ambulance professionals on scene, the T-LOC specific assessment, complexity of the aetiology of T-LOC, and the medical conveyance decision, (2) Collaboration describing the difficulties and facilitating factors in the interprofessional collaboration with other healthcare professionals in the chain of emergency care (e.g., general practitioners, emergency physicians, etc.) and the involvement of patients and relatives, (3) Professionalism describing the influence of professionals' experiences (e.g. professional maturity), the sense of responsibility and accountability of the ambulance professional, and their subsequent need for reflection.\n\n**CONCLUSION**: Ambulance professionals follow a structured approach for the clinical assessment of a patient with a T-LOC. In addition to their professional experience, the complexity of the symptom and the patient's context play a crucial role in the risk assessment reasoning and decision-making process. Ambulance professionals collaborate with other healthcare professionals to enhance their process, with varying experiences. There is a delicate balance between professionals' sense of responsibility and accountability. A non-conveyance decision is considered precarious by professionals, and adequate support from management, education and interprofessional collaboration is required to feel confident in their decision-making.",
-      "journal": "Scand J Trauma Resusc Emerg Med",
-      "authors": [
-        "Uit Het Broek-Creemers LG",
-        "Vloet LCM",
-        "Vermeulen H",
-        "Berben SAA"
-      ],
-      "date": "2026 Apr 09",
-      "doi": "10.1186/s13049-026-01598-1",
-      "tier": "core",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41952177/"
-    },
-    {
-      "pmid": "41951238",
-      "title": "Airway management of adults in the acute care setting.",
-      "abstract": "Airway management is an important skill for clinicians who care for adults who are acutely ill. Tracheal intubation can be life saving, but also carries a high rate of complications. Numerous tools are available to assess the difficulty of bag-valve-mask ventilation, intubation, and cricothyroidotomy; however, these tools currently have limited predictive value. Preparation, preoxygenation with non-invasive positive pressure ventilation, and physiological optimization are therefore essential steps to all airways. Drugs for induction and paralysis should be tailored to the patient. If rapid sequence intubation is performed, video laryngoscopy is preferred over direct laryngoscopy because it increases the likelihood of first pass success. Confirmation should include capnography or point-of-care ultrasound. Clinicians should ensure adequate analgesia and sedation to avoid patients experiencing awareness with paralysis, but this must be balanced with avoiding oversedation. This review summarizes the current data and provides an evidence based approach to airway management in the acute care setting.",
-      "journal": "BMJ",
-      "authors": [
-        "Gottlieb M",
-        "DeMasi SC",
-        "Casey JD",
-        "Semler MW",
-        "Buell KG"
-      ],
-      "date": "2026 Apr 08",
-      "doi": "10.1136/bmj-2025-086612",
-      "tier": "filtered",
-      "topics": [
-        "Procedures"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "cricothyroidotomy",
-          "strength": "weak",
-          "topic": "Procedures"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41951238/"
-    },
-    {
-      "pmid": "41950714",
-      "title": "A POCUS stewardship framework for optimizing pediatric FAST in trauma: A conceptual model and evidence synthesis.",
-      "abstract": "**OBJECTIVE**: The Focused Assessment with Sonography in Trauma (FAST) exam is widely used in adult trauma, but its role in pediatric blunt abdominal trauma remains uncertain due to variability in diagnostic accuracy. Point-of-care ultrasound (POCUS) stewardship offers a framework to potentially optimize pediatric FAST (FAST-P) by integrating clinical context, such as indication, pre-test probability, patient stability, and injury severity. This study evaluates how applying POCUS stewardship principles may potentially improve FAST-P diagnostic performance and utility in children.\n\n**METHODS**: We developed a conceptual POCUS stewardship framework based on established stewardship principles, then synthesized current literature to support and refine the model. Studies on FAST-P in pediatric blunt trauma published from January 2000 through December 2025 were reviewed, focusing on four framework components: clinical indication, pre-test probability, hemodynamic status, and injury severity with free fluid volume. Diagnostic performance and CT utilization were analyzed when available.\n\n**RESULTS**: POCUS stewardship provides a framework that may enhance diagnostic value by aligning FAST-P use with clinical context. Intervention likelihood rose from 0.4% in children with <1% pre-test probability to 41.4% in those with >50%, supporting the importance of proper indication and risk assessment. FAST-P performed best in unstable patients (sensitivity 78.6%, specificity up to 100%), and less effectively in stable ones (sensitivity 50-64%, specificity 83-95%). Adding physical exam findings and risk stratification improved accuracy, with combined approaches achieving up to 96.9% sensitivity and 98.6% negative predictive value. Sensitivity and specificity were highest with large fluid volumes (89%, 99%). FAST-P reduced CT rates from 22.5% to 18.6% in <1% risk patients, and from 92.3% to 78.9% in 6-10% risk.\n\n**CONCLUSIONS**: Integrating POCUS stewardship may potentially improve FAST-P diagnostic utility in pediatric trauma by aligning its use with clinical risk and reducing unnecessary imaging. This conceptual framework requires prospective validation but offers a structured approach to optimizing FAST-P application in clinical practice.",
-      "journal": "Am J Emerg Med",
-      "authors": [
-        "Montoya K",
-        "Weinstein R",
-        "Kharasch S",
-        "Gottlieb M",
-        "Shokoohi H"
-      ],
-      "date": "2026 Apr 01",
-      "doi": "10.1016/j.ajem.2026.03.031",
-      "tier": "filtered",
-      "topics": [
-        "Abdominal",
-        "General Trauma",
-        "Imaging",
-        "Paediatric",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "blunt trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "injury severity",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "blunt abdominal",
-          "strength": "weak",
-          "topic": "Abdominal"
-        },
-        {
-          "keyword": "paediatric trauma",
-          "strength": "weak",
-          "topic": "Paediatric"
-        },
-        {
-          "keyword": "focused assessment with sonography",
-          "strength": "weak",
-          "topic": "Imaging"
-        },
-        {
-          "keyword": "POCUS",
-          "strength": "strong",
-          "topic": "Imaging"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41950714/"
-    },
-    {
-      "pmid": "41950582",
-      "title": "Wound complications after cast immobilization compared to early functional treatment in surgical fixation of ankle fractures: A systematic review and meta-analysis of randomized controlled trials.",
-      "abstract": "**BACKGROUND**: with the advance of early functional treatment, the use of post-operative cast immobilization of ankle fractures has decreased significantly. However, limited evidence suggests an increase in wound complications with early functional treatment.\n\n**OBJECTIVE**: to perform a systematic review and meta-analysis of randomized controlled trials to determine the incidence of wound complications after cast immobilization compared to early functional treatment in surgical fixation of ankle fractures in skeletally mature patients.\n\n**METHODS**: a systematic search of PubMed, Embase and Cochrane libraries was performed from 2000 to 2025 to identify randomized controlled trials comparing cast immobilization (> two weeks) with early functional treatment (\u2264 two weeks cast immobilization) after surgical fixation of ankle fractures in skeletally mature patients. Methodological quality was assessed using the RoB-2 for randomized controlled trials. The primary outcome was a composite overall incidence of any wound complication. Secondary outcome measures included 1) impaired wound healing (e.g. wound dehiscence, wound necrosis), 2) superficial infection, 3) deep infection, and 4) wound-related reoperations. Outcomes were pooled using a random-effects model to determine relative risks (RRs) with 95% confidence intervals (CIs).\n\n**RESULTS**: a total of 10 randomized controlled trials with 1142 skeletally mature patients were included. The cast immobilization group consisted of 544 patients and the early functional treatment group of 598 patients. Wound complications occurred in 35 (6%) patients in the cast immobilization group and 85 (14%) in the early functional treatment group (RR 2.14; CI 95% 1.38-3.34). Similarly, higher risk of impaired wound healing (10 [2%] vs. 26 [4%]; RR 2.03; CI 95% 1.36-3.01), superficial infection (23 [4%] vs. 49 [8%]; RR 1.87; CI 95% 1.21-2.89), but not for deep infection (2 [<1%] vs 10 [2%]; RR 1.83; CI 95% 0.94-3.57) and wound-related reoperations (3 [<1%] vs. 8 [1%]; RR 1.53 CI 95% 0.92-2.53) was observed after early functional treatment.\n\n**CONCLUSION**: post-operative cast immobilization reduced the risk of wound complications compared to early functional treatment in skeletally mature patients undergoing surgical fixation of an ankle fracture.",
-      "journal": "Injury",
-      "authors": [
-        "Spaans AW",
-        "Baltes TPA",
-        "Bij de Weg FSF",
-        "Wagner RK",
-        "Janssen SJ"
-      ],
-      "date": "2026 Apr 03",
-      "doi": "10.1016/j.injury.2026.113230",
-      "tier": "filtered",
-      "topics": [],
-      "keyword_matches": [],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41950582/"
     }
   ]
 }
