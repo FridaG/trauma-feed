@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-09T20:35:50.321091Z",
-  "total_articles": 243,
+  "generated": "2026-05-10T20:39:01.290643Z",
+  "total_articles": 247,
   "all_topics": [
     "Abdominal",
     "Burns",
@@ -379,6 +379,186 @@
   },
   "articles": [
     {
+      "pmid": "42106863",
+      "title": "Intracranial compliance monitoring using pulse shape index in traumatic brain injury: relation to cerebral physiology and clinical outcome.",
+      "abstract": "**BACKGROUND**: The intracranial pressure (ICP) pulse waveform reflects intracranial compliance. The pulse shape index (PSI), an artificial intelligence (AI)-based metric ranging from 1 (normal) to 4 (disturbed), quantifies morphological waveform pathologies. Early findings in smaller cohorts indicate that elevated PSI is associated with mass lesions, aging, higher ICP, and worse outcome. This study examined how PSI relates to other markers of intracranial compliance, the risk of ICP crisis, and clinical outcome in a large traumatic brain injury (TBI) cohort.\n\n**METHODS**: This retrospective study included 321 TBI patients with \u2265\u200912\u00a0h of ICP/PSI monitoring. PSI was analysed in relation to ICP, ICP pulse amplitude (AmpICP), the moving correlation coefficient between mean ICP and ICP amplitude (RAP index), and arterial blood pressure (ABP) using generalised additive models (GAMs). Linear mixed-effects models assessed whether PSI during preceding hours predicted later ICP elevations (e.g., ICP\u2009>\u200920/22 mmHg). The prognostic value of PSI was tested using univariable Mann-Whitney U test and multivariable (after adjustment for age, Glasgow Coma Scale, ICP, CPP, and PRx) logistic regression for mortality (Glasgow Outcome Scale\u2009=\u20091) and favourable outcome (Glasgow Outcome Scale\u2009=\u20094-5).\n\n**RESULTS**: PSI increased with higher ICP, AmpICP, RAP, and ABP. PSI during the preceding hour predicted increased ICP burden above 20 mmHg (marginal R\n\n**CONCLUSIONS**: PSI was linked to established indicators of intracranial compliance and provided early warning of impending intracranial hypertension. While PSI showed univariable associations with outcome, these did not remain in multivariable models. Retrospectively, PSI does not appear to have independent prognostic value, but rather a complementary value. Prospectively, it may serve as a dynamic marker of deteriorating intracranial compliance and an early signal for future ICP crisis.",
+      "journal": "Crit Care",
+      "authors": [
+        "Svedung Wettervik T",
+        "Beqiri E",
+        "H\u00e5nell A",
+        "Kazimierska A",
+        "Kasprowicz M",
+        "Smielewski P"
+      ],
+      "date": "2026 May 09",
+      "doi": "10.1186/s13054-026-06071-0",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "TBI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "traumatic",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic brain injury",
+          "strength": "strong",
+          "topic": "TBI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42106863/"
+    },
+    {
+      "pmid": "42106843",
+      "title": "Eye-related emergency calls and prehospital management in region Zealand, Danmark: a register-based cohort study.",
+      "abstract": "**BACKGROUND**: Eye-related symptoms ranging from mild irritation to acute vision loss can lead to emergency calls. While many cases are benign, others involve chemical exposures or trauma requiring urgent care to prevent permanent damage. Prehospital characteristics, dispatch categorization, and early management of eye-related emergencies remain unexplored. The aim of this study was to provide a systematic description of eye-related emergency calls, including patient characteristics, dispatch categorization, and prehospital management, within the framework of the Danish Index for Emergency Care.\n\n**METHODS**: We conducted a retrospective cohort study of all emergency calls [1-1-2] in Region Zealand, Denmark, from November 2017 to June 2025, describing eye symptoms. We linked data from the Computer-Aided Dispatch (CAD) system, the Prehospital Patient Records (PPJ), and the Danish National Patient Registry (NPR). Patient demographics, paramedic assessment of primary problem, on-scene symptoms, prehospital treatments and hospital outcomes were analysed using descriptive statistics.\n\n**RESULTS**: A total of 376 patients were identified calling 1-1-2 and registered with eye related symptoms as the main complaint. Of these, 36 (9.6%) were excluded due to missing patient identifiers or prehospital patient records, leaving 340 in the cohort. Median age was 49.5 years (IQR 29-68), and 62.1% were male. Most calls were categorized as priority B (urgent situation not assessed as acute life-threatening) (70.9%). The leading primary problems were chemical exposures (31.5%), vision loss (25.9%), and ocular trauma (18.2%). Vision disturbance (54.4%) was the most frequently prehospital reported symptom. Prehospital interventions were rarely documented, with irrigation being the most reported procedure (27.1%). Notably, 39 of 340 patients (11.5%) were suspected of stroke prehospitally, and among 283 admitted to hospital, 21 (7.4%) received a confirmed TIA or stroke diagnosis. The median length of stay was 3.7\u00a0h (IQR 2.0-7.7). Most frequent discharge diagnoses were injury of the eye and orbit (17.7%), burn and corrosion confined to eye and adnexa (9.9%), and foreign body on external eye (7.8%).\n\n**CONCLUSION**: Eye-related emergency calls were primarily caused by chemical exposures, vision loss, and trauma, with relatively short hospital stays. Several patients classified as eye-related problems were later diagnosed with stroke, highlighting the need for better dispatcher recognition of visual stroke symptoms.\n\n**CLINICAL TRIAL NUMBER**: Not applicable.",
+      "journal": "Scand J Trauma Resusc Emerg Med",
+      "authors": [
+        "Jensen N",
+        "Blomberg SNF",
+        "S\u00f8rensen TL",
+        "Thiele-Nygaard AE",
+        "M\u00f8ller TP",
+        "Rafner M",
+        "Blomberg AM",
+        "Christensen HC"
+      ],
+      "date": "2026 May 09",
+      "doi": "10.1186/s13049-026-01618-0",
+      "tier": "core",
+      "topics": [
+        "General Trauma",
+        "Prehospital"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "prehospital",
+          "strength": "strong",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42106843/"
+    },
+    {
+      "pmid": "42106780",
+      "title": "Etiology- and age-specific timing of death by neurologic criteria evaluation and declaration in clinical practice.",
+      "abstract": "**BACKGROUND**: The timing of declaration of death by neurologic criteria (DNC) after acute brain injury varies in clinical practice. However, large-scale data describing etiology- and age-specific timing of DNC evaluation and declaration are limited. This study aimed to characterize these timing patterns in a cohort of patients with DNC.\n\n**METHODS**: Retrospective cohort study using registry data from German hospitals reporting cases of guideline-confirmed DNC to the national organ procurement organization. Included were adults (\u2265\u200918 years) who were declared DNC between April 1, 2020, and August 31, 2025. Brain injury was categorized by ICD-10 as traumatic brain injury (TBI), intracerebral hemorrhage (ICH), subarachnoid hemorrhage (SAH), acute ischemic stroke (AIS), hypoxic-ischemic encephalopathy (HIE). The primary outcome was time from initiation of mechanical ventilation to DNC declaration; time to first clinical examination fulfilling criteria for DNC was analyzed as a secondary outcome. Time-to-event distributions were summarized using cumulative incidence estimates, and associations of timing with etiology, age, and selected clinical variables were explored using random survival forests.\n\n**RESULTS**: Among 6,701 patients with DNC from 716 hospitals, 6,397 had complete timing data (median age, 59 years [IQR, 46-69]; 54% male). Median time to DNC differed across etiologies (p\u2009<\u20090.001): 55.5\u00a0h for ICH, 58.4\u00a0h for TBI, 65.9\u00a0h for SAH, 89.9\u00a0h for HIE and 96.8\u00a0h for AIS. By 72\u00a0h of ventilation, cumulative incidence of DNC was 64.5% (95%CI, 61.3-67.5) in TBI, 62.4% (95%CI, 59.9-64.7) in ICH, 53.7% (95%CI, 50.9-56.4) in SAH, 36.7% (95%CI, 34.4-38.9) in HIE and 31.9% (95%CI, 28.3-35.4) in AIS. By 120\u00a0h, cumulative incidence reached 83.9% (95%CI, 81.3-86.1) in TBI, 81.5% (95%CI, 79.5-83.4) in ICH, 69.0% (95%CI, 66.4-71.5) in SAH, 67.3% (95%CI, 65.0-69.4) in HIE and 65.7% (95%CI, 61.9-69.1) in AIS. Older age was associated with shorter time to DNC in TBI and ICH, whereas associations were minimal in AIS and HIE.\n\n**CONCLUSIONS**: The timing of DNC evaluation and declaration varies substantially across etiologies and age groups. These findings may help to better understand temporal patterns of DNC determination among patients with DNC in clinical practice.",
+      "journal": "Crit Care",
+      "authors": [
+        "Barlinn K",
+        "Schoene D",
+        "Pleul K",
+        "Roessler M",
+        "Worm A",
+        "Diel NJ",
+        "Schramm P",
+        "Pfeifer F",
+        "Huttner HB",
+        "Rahmel A"
+      ],
+      "date": "2026 May 09",
+      "doi": "10.1186/s13054-026-06069-8",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "TBI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "traumatic",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic brain injury",
+          "strength": "weak",
+          "topic": "TBI"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42106780/"
+    },
+    {
+      "pmid": "42105687",
+      "title": "Clinical and functional outcomes of primary bipolar hip arthroplasty: A prospective observational study.",
+      "abstract": "**PURPOSE**: Primary bipolar hip arthroplasty is commonly used to manage displaced femoral neck fractures in elderly patients, offering early mobilization and reduced surgical burden compared with total hip arthroplasty. However, long-term functional outcomes and predictors of recovery remain variable. This study aimed to prospectively evaluate the clinical and functional outcomes of primary bipolar hip arthroplasty.\n\n**METHODS**: This prospective observational study included 196 patients who underwent primary bipolar hip arthroplasty between January 2016 and September 2024 in three university-affiliated teaching hospitals. Functional outcomes were assessed using the Harris Hip Score (HHS), while postoperative complications were recorded for one year. Patients were stratified by age (<60 vs. \u226560 years) to examine the impact of demographic factors on outcomes. Statistical analysis included correlation and subgroup comparisons with significance set at p\u00a0<\u00a00.05.\n\n**RESULTS**: The mean age of participants was 68.7 \u00b1 11.9 years, and the mean follow-up was 46.97 \u00b1 25.21 months. No major complications or revision surgeries occurred; 4.0% of patients developed superficial wound infections. Overall, the mean HHS was 50.51 \u00b1 18.59, with 79.6% of patients achieving poor scores. Younger patients (<60 years) demonstrated better functional outcomes, particularly in mobility-related domains (p\u00a0=\u00a00.06), while most older patients (\u226560 years) had poor long-term functional results. A significant negative correlation was observed between age and HHS (r\u00a0=\u00a0-0.379, p\u00a0=\u00a00.007).\n\n**CONCLUSIONS**: Bipolar hemiarthroplasty is a safe procedure with low complication and revision rates. However, long-term functional outcomes are modest, especially in elderly patients, likely influenced by age, comorbidities, preoperative status, and acetabular erosion. Individualized patient selection and long-term monitoring of hip function are recommended to optimize recovery.",
+      "journal": "Injury",
+      "authors": [
+        "Azar MS",
+        "Kargar-Soleimanabad S",
+        "Kalteh M"
+      ],
+      "date": "2026 Apr 10",
+      "doi": "10.1016/j.injury.2026.113278",
+      "tier": "filtered",
+      "topics": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42105687/"
+    },
+    {
+      "pmid": "42105686",
+      "title": "Establishing synergistic role of acacia honey and vitamin C: A promising strategy for faster wound tissue regeneration.",
+      "abstract": "Being established as an important natural component for wound healing, acacia honey (AH) in combination with ascorbic acid (AA) was evaluated for its tissue regenerative properties to establish a synergistic effect. A thermosensitive hydrogel formulation was developed and characterized for viscosity, mucoadhesion, moisture retention, pH, and morphology, where the parameters were found to be favourable for topical application and longer retention. The porosity and swelling of the hydrogel matrix allow for prolonged and sustained release of AH and AA. The release patterns of AH and AA from the gel matrix followed the Korsmeyer-Peppas and Michaelis-Menten patterns, respectively, indicating sustained release. The optimized formulation revealed antimicrobial properties, as evidenced by the significant increase (p\u00a0<\u00a00.05) in the diameter of the zone of inhibition. Scratch wound assay using HaCaT cell line showed wound healing potential of 90.6\u00b14.5% for the co-loaded formulation. Furthermore, the wound healing potential of the co-loaded hydrogel in the excision wound model in experimental rats could be linked to increased vascularization due to the daily application of the formulation at the wound site. The antioxidant capacity was demonstrated by decreased IC",
+      "journal": "Injury",
+      "authors": [
+        "Majie A",
+        "Roy K",
+        "Jha B",
+        "Lim WM",
+        "Gorain B"
+      ],
+      "date": "2026 May 04",
+      "doi": "10.1016/j.injury.2026.113339",
+      "tier": "filtered",
+      "topics": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42105686/"
+    },
+    {
+      "pmid": "42105435",
+      "title": "Etiology-specific predictors for short-term functional outcomes of OHCA: A Japanese Nationwide registry study.",
+      "abstract": "**BACKGROUND**: Out-of-hospital cardiac arrest (OHCA) functional outcomes vary widely by etiology, but cerebrovascular-origin OHCA remains poorly characterized. This study aimed to identify etiology-specific predictors of favorable functional outcomes after OHCA using a nationwide Japanese registry.\n\n**METHODS**: We analyzed 392,770 adult OHCA cases (311,632 cardiac-origin and 81,138 cerebrovascular-origin) recorded between 2005 and 2023 using data from the All-Japan Utstein Registry, a prospective nationwide population-based registry. Favorable outcome was defined as CPC 1-2 and OPC 1-2 at 30\u00a0days. Demographic, clinical, and time variables were evaluated using multivariable logistic regression. Missing time data were treated as an \"unknown\" category. A sensitivity analysis using Firth's penalized likelihood regression was performed on subgroups with recorded time data.\n\n**RESULTS**: Favorable outcomes were observed in 9.7% of cardiac-origin and 2.5% of cerebrovascular-origin OHCA. In cardiac-origin OHCA, early defibrillation (<5\u00a0min) was a strong predictor. Cerebrovascular OHCA showed a negligible association with age (OR 1.00, 95% CI 0.99-1.00), and defibrillation at 5-10\u00a0min was paradoxically associated with better outcomes. Time to ROSC >15\u00a0min was consistently associated with poor outcomes in both groups. Crucially, the sensitivity analysis demonstrated that the paradoxical associations were no longer statistically significant after applying Firth's correction.\n\n**CONCLUSIONS**: Determinants of favorable outcomes may differ fundamentally. The findings suggest that prognosis after cerebrovascular-origin OHCA may be largely influenced by the initial severity of cerebral injury, rather than by the timing of prehospital resuscitation efforts. However, given the limitation of registry-based research, prospective studies are warranted to confirm these observations.",
+      "journal": "Am J Emerg Med",
+      "authors": [
+        "Hanada S",
+        "Nakai M",
+        "Koyama S",
+        "Iwakiri H",
+        "Kaikita K",
+        "Yonemoto N",
+        "Matoba T",
+        "Tahara Y"
+      ],
+      "date": "2026 Apr 23",
+      "doi": "10.1016/j.ajem.2026.04.035",
+      "tier": "filtered",
+      "topics": [
+        "Prehospital"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "prehospital",
+          "strength": "weak",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42105435/"
+    },
+    {
       "pmid": "42104446",
       "title": "Robotic surgery in colorectal emergencies: a systematic review of current evidence.",
       "abstract": "**BACKGROUND**: Although laparoscopy continues to be the predominant minimally invasive approach in most emergency settings, the advantages of robotics, well established in elective surgery, are currently being explored in selected scenarios and specialized centres.\n\n**METHODS**: A systematic review was conducted using PubMed, Cochrane Library and Scopus databases until January 2025. Primary outcome was safety and feasibility of robotics in emergency colorectal surgery. Secondary endpoints included perioperative and postoperative outcomes.\n\n**RESULTS**: Fifteen articles were included with a total of 46 robotic emergency colorectal surgical procedures. Most were performed in a tertiary centre with a da Vinci system. Most common procedures were robotic right hemicolectomy for colon cancer and sigmoid colectomy for acute diverticulitis. Mean operating time for robotic right hemicolectomy was 134\u00a0min for benign cases and 241\u2009\u00b1\u20097\u00a0min for malignant cases; robotic sigmoid colectomy showed a mean operating time of 171\u2009\u00b1\u20093\u00a0min. No intraoperative complications were recorded. One case required conversion. Intracorporeal anastomosis was performed in most cases (n\u2009=\u200913). Mean length of stay was 5\u00a0days. No Clavien-Dindo grade\u2009\u2265\u20093 complications, reoperation or readmission were reported. Five complete mesocolic excisions (CMEs) were performed. Pathology outcomes were available for four CMEs: showing R0 resection with a mean lymph node harvest of 54\u2009\u00b1\u200913. In four CMEs, the involved team included an on-call robotic colorectal surgeon and an experience theatre team including experienced anaesthetist in robotic procedures.\n\n**CONCLUSIONS**: Robotics in emergency settings is feasible and safe but requires additional training and dedicated teams for optimal outcomes.",
@@ -556,7 +736,7 @@
         "Zeng G"
       ],
       "date": "2026 May 08",
-      "doi": "10.1001/jama.2026.5245",
+      "doi": "10.1056/NEJMoa2214299",
       "tier": "filtered",
       "topics": [
         "TBI"
@@ -607,7 +787,7 @@
         "Wang Y"
       ],
       "date": "2026 May 08",
-      "doi": "10.1001/jama.2026.4292",
+      "doi": "10.1056/NEJMoa1214300",
       "tier": "filtered",
       "topics": [
         "TBI"
@@ -9482,87 +9662,6 @@
       ],
       "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41965242/"
-    },
-    {
-      "pmid": "41963996",
-      "title": "Revised french military transfusion doctrine for large-scale combat operations: a consensus framework.",
-      "abstract": "**BACKGROUND**: Large-scale combat operations (LSCO) pose unique logistical and clinical challenges to haemorrhagic casualty management. The existing French military transfusion doctrine, originally designed for low-intensity conflicts (LIC), does not meet the demands of LSCO. This work aimed to develop a revised, consensus-based transfusion doctrine integrating operational, medical, and safety requirements for LSCO environments.\n\n**METHODS**: At the request of the Central Directorate of the Military Health Service, a Delphi-based consensus process was conducted between November 2024 and April 2025. Eight senior military physicians\u2014anaesthesiologist-intensivists, emergency and operational clinicians, and medical biologists with over five years of specialty experience\u2014reviewed eleven thematic domains identified for revision. Drafts, developed from doctrinal texts, operational feedback, and international literature (including systematic reviews), were iteratively refined through three Delphi cycles until full consensus (100%) was reached. This consensus reflects expert doctrinal guidance for LSCO operational preparedness under limited/heterogeneous evidence rather than proof of clinical efficacy. The resulting doctrine was compared with the previous LIC framework and international LSCO transfusion strategies.\n\n**RESULTS**: The new doctrine establishes a scalable, safety-focused system integrating forward whole-blood resuscitation, enhanced logistical autonomy, and reinforced haemovigilance. Cold-stored whole blood will be prioritised as the primary resuscitation product for Roles 1 and 2, while Role 3 will employ component therapy. A new dedicated operational medical unit will oversee in-theatre collection, testing, and distribution. Forward transfusion by trained nurses using universal blood products under predefined criteria will be authorised, with strict traceability and targeted training ensuring transfusion safety in LSCO.\n\n**CONCLUSIONS**: This consensus defines the modern French transfusion doctrine for LSCO, combining operational flexibility with rigorous safety oversight and alignment with international standards.",
-      "journal": "Crit Care",
-      "authors": [
-        "Pons S",
-        "Frattini B",
-        "Daniel Y",
-        "Derkenne C",
-        "Chueca M",
-        "Cardinale M",
-        "Libert N",
-        "Bordes J",
-        "Meaudre \u00c9"
-      ],
-      "date": "2026 Apr 10",
-      "doi": "10.1097/SHK.0000000000001685",
-      "tier": "filtered",
-      "topics": [
-        "Haemorrhage"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "blood product",
-          "strength": "weak",
-          "topic": "Haemorrhage"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41963996/"
-    },
-    {
-      "pmid": "41962529",
-      "title": "Controlled thoracic drainage with intermittent clamping during resuscitation of critically unstable patient before surgery: A potentially lifesaving strategy for massive hemothorax in a conflict zone mass casualty incident.",
-      "abstract": "**BACKGROUND**: Massive hemothorax after penetrating trauma is a rapidly lethal condition. Standard management calls for immediate chest tube drainage, that aims for lung expansion tamponading bleeding vessels. Paradoxically, draining a massive hemothorax that is resulting from heart, major vessels or deep lung parenchyma laceration may abolish tamponade and precipitate catastrophic hemorrhage before surgical control is achieved. In resource-limited settings or mass casualty incidents (MCIs), surgical delay compounds this risk.\n\n**CASE PRESENTATION**: A 30-year-old male sustained a gunshot injury during a conflict-zone MCI, presenting with hypotension (weak radial pulse, HR 90) and right massive hemothorax confirmed by e-FAST. With no immediate surgical access and ongoing blood product preparation, controlled thoracic drainage was initiated. The chest tube was clamped twice. This strategy preserved temporary tamponade, allowed time for transfusion and operative preparation, and enabled safe transfer to definitive surgery. Surgery revealed a 10\u00a0cm right lower lobe laceration, which went on to receive primary repair. The patient survived without major complications and remains under follow-up.\n\n**CONCLUSION**: This case should open discussion about the heterogencity of interathoracic bleeding and its source. In some cases, controlled drainage with intermittent clamping may balance preservation of tamponade effect and hemorrhage control: this provides a vital bridge in resource-constrained environment with delayed access to thoracotomy. Incorporating this approach in trauma protocols should be further investigated and considered.",
-      "journal": "Am J Emerg Med",
-      "authors": [
-        "AbuMousa MS",
-        "Alslaibi KM",
-        "Alharazin JO"
-      ],
-      "date": "2026 Mar 19",
-      "doi": "10.1016/j.ajem.2026.03.010",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Haemorrhage",
-        "Penetrating",
-        "Thoracic"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "penetrating trauma",
-          "strength": "weak",
-          "topic": "Penetrating"
-        },
-        {
-          "keyword": "haemothorax",
-          "strength": "strong",
-          "topic": "Thoracic"
-        },
-        {
-          "keyword": "thoracotomy",
-          "strength": "weak",
-          "topic": "Thoracic"
-        },
-        {
-          "keyword": "blood product",
-          "strength": "weak",
-          "topic": "Haemorrhage"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41962529/"
     }
   ]
 }
