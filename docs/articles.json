@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-11T21:11:28.570248Z",
-  "total_articles": 254,
+  "generated": "2026-05-12T21:10:09.384746Z",
+  "total_articles": 250,
   "all_topics": [
     "Abdominal",
     "Burns",
@@ -378,6 +378,311 @@
     "Cochrane Database Syst Rev": "filtered"
   },
   "articles": [
+    {
+      "pmid": "42115111",
+      "title": "Turret truck-related head and neck injuries in a Japanese wholesale market: Clinical characteristics, risk factors, and the need for preventive measures.",
+      "abstract": "**BACKGROUND**: Turret trucks are widely used to handle cargo in Japanese wholesale markets. Under Japanese law, helmet use is not mandatory for turret truck operators, which potentially increases the risk of head and neck injuries. This study aimed to describe the clinical characteristics, risk factors, and outcomes of turret truck-related head and neck injuries as the first reported analysis of this injury mechanism.\n\n**METHODS**: We conducted a retrospective observational study of patients with turret truck-related head and neck injuries who were transported to St. Luke's International Hospital between January 2011 and June 2024. Demographic data, injury characteristics, and outcomes were collected. The primary outcome was the necessity for hospital admission, and the secondary outcome was functional status at discharge, measured using the modified Rankin Scale (mRS).\n\n**RESULTS**: Of the 67 patients analyzed, 48 (72%) were turret drivers and 19 (28%) were non-drivers. The cohort was predominantly male (97%) with a median age of 64 years. Twenty-four patients (36%) required hospital admission, with a higher proportion among turret drivers (44%) than among non-drivers (16%). Among turret drivers, all patients with severe injuries (Injury Severity Score \u226516) and those with significant head and neck injuries (Abbreviated Injury Scale \u22653) required hospitalization. Despite injury severity, most patients achieved favorable functional outcomes, with 97% having an mRS score of 0-2 at discharge. One fatality occurred in a 70-year-old female passenger without helmet who fell from a turret truck.\n\n**CONCLUSIONS**: Although most turret truck-related head and neck injuries result in favorable outcomes, a substantial proportion of patients require hospitalization. Given the predominantly older male population and the occurrence of fatal outcomes even at low speeds without helmet protection, mandatory helmet use and comprehensive safety measures should be considered to reduce injury severity in this population.",
+      "journal": "Injury",
+      "authors": [
+        "Kushi K",
+        "Hifumi T",
+        "Kamijo E",
+        "Ito K",
+        "Shirasaki K",
+        "Ro B",
+        "Mochizuki T",
+        "Nonaka T",
+        "Shimizu M",
+        "Ryu B",
+        "Sato S",
+        "Inoue T",
+        "Tsutsumi Y",
+        "Otani N",
+        "Kawashima A",
+        "Niimi Y"
+      ],
+      "date": "2026 May 02",
+      "doi": "10.1016/j.injury.2026.113337",
+      "tier": "filtered",
+      "topics": [
+        "Facial/Neck",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "injury severity",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "neck injury",
+          "strength": "strong",
+          "topic": "Facial/Neck"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42115111/"
+    },
+    {
+      "pmid": "42114550",
+      "title": "Ticagrelor with aspirin dual antiplatelet therapy combined with intravenous thrombolysis in patients with ischaemic stroke in China (TAPIS): a multicentre, double-blind, randomised controlled trial.",
+      "abstract": "**BACKGROUND**: Evidence supporting the early addition of antiplatelet therapy to intravenous thrombolysis in patients with acute ischaemic stroke remains inconclusive. We aimed to investigate the efficacy and safety of early oral dual antiplatelet therapy (DAPT), started within 6 h of onset, as an adjunct to intravenous thrombolysis.\n\n**METHODS**: TAPIS was a randomised, double-blind, placebo-controlled trial done in 60 hospitals across China. We enrolled patients treated with intravenous thrombolysis for ischaemic stroke, with a National Institutes of Health Stroke Scale score of 4-10. We randomly assigned (1:1) patients to receive oral aspirin plus ticagrelor (DAPT group) or corresponding placebo within 6 h of stroke onset, either before, during, or after receiving thrombolysis. Ticagrelor or placebo was continued for days 2-7 in each group, with open-label aspirin administered for days 2-90. Patients, clinicians, and investigators were masked to the group assignment. The primary efficacy outcome was an excellent functional outcome (modified Rankin Scale score 0-1) at 90 days. The primary safety outcome was symptomatic intracranial haemorrhage within 36 h. This trial was registered with ClinicalTrials.gov (NCT06316570) and is completed.\n\n**FINDINGS**: Between April 3, 2024, and Sept 30, 2025, we randomly assigned 1382 patients to the early DAPT (n=690 [49\u00b79%]) or placebo (n=692 [50\u00b71%]) groups. The median age was 65\u00b76 years (IQR 58\u00b73-72\u00b70), 991 (71\u00b77%) were men, and 391 (28\u00b73%) were women. At 90 days, 474 (68\u00b77%) patients in the early DAPT group and 429 (62\u00b70%) in the placebo group achieved excellent functional outcomes (risk ratio 1\u00b711 [95% CI 1\u00b703-1\u00b720; p=0\u00b70089). Symptomatic intracranial haemorrhage within 36 h occurred in six (0\u00b79%) patients in the early DAPT group versus five (0\u00b77%) in the control group (risk ratio 1\u00b720 [95% CI 0\u00b737-3\u00b793; p=0.76).\n\n**INTERPRETATION**: Among patients treated with intravenous thrombolysis for moderate ischaemic stroke, initiation of oral DAPT within 6 h of onset improved the likelihood of excellent functional outcomes at 90 days. Although no significant between-group difference in symptomatic intracranial haemorrhage was detected, wide CIs precluded exclusion of a small increased risk.\n\n**FUNDING**: National Natural Science Foundation of China, Capital's Funds for Health Improvement and Research, Noncommunicable Chronic Diseases-National Science and Technology Major Project, Beijing Municipal Science & Technology Commission, and the New Cornerstone Science Foundation.",
+      "journal": "Lancet",
+      "authors": [
+        "Wang A",
+        "Xia X",
+        "Tang Y",
+        "Zhang F",
+        "Han X",
+        "Li J",
+        "Zhang X",
+        "Wang J",
+        "Song Y",
+        "Che F",
+        "Bei Y",
+        "He Y",
+        "Jing W",
+        "Hao J",
+        "He J",
+        "Yang H",
+        "Chen S",
+        "Wu W",
+        "Li Y",
+        "Dai H",
+        "Yang C",
+        "Sun Z",
+        "Li L",
+        "Chen Y",
+        "Bath PM",
+        "Turc G",
+        "Wang Y"
+      ],
+      "date": "2026 May 08",
+      "doi": "10.1016/S0140-6736(26)00757-9",
+      "tier": "filtered",
+      "topics": [
+        "TBI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "intracranial haemorrhage",
+          "strength": "weak",
+          "topic": "TBI"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42114550/"
+    },
+    {
+      "pmid": "42114386",
+      "title": "The prevalence of life-threatening diagnoses in emergency department patients with chest pain in a national group.",
+      "abstract": "**OBJECTIVE**: We describe the prevalence of seven life-threatening diagnoses in Emergency Department (ED) patients with chest pain in a national ED group.\n\n**METHODS**: Using data from 141 EDs staffed by US Acute Care Solutions (USACS) from January 2021 to December 2024 in 17\u00a0U.S. states, we used descriptive statistics to tabulate prevalences of seven life-threatening conditions in ED patients with atraumatic chest pain: acute coronary syndrome (ACS), pulmonary embolism (PE), pneumothorax, thoracic aortic dissection (TAD), esophageal rupture, pericardial tamponade, and ruptured aortic aneurysm. We used logistic regression to estimate the association between ACS, PE, or any life-threatening diagnosis with ED visit and site characteristics.\n\n**RESULTS**: In 13,744,869 ED encounters, 951,152 (6.9%) had a complaint of atraumatic chest pain with 52,410 (5.5%) of these diagnosed with a life-threatening condition in the ED. ACS was most common (4.5%), followed by PE (0.78%), pneumothorax (0.13%), TAD (0.09%), esophageal rupture (0.007%), pericardial tamponade (0.005%), and ruptured aortic aneurysm (0.002%). The prevalence of life-threatening diagnoses was higher in patients who were older, male, covered by commercial insurance, who had higher-acuity triage emergency severity index (ESI) levels, arrived by ambulance, and were seen in western U.S. EDs.\n\n**CONCLUSION**: Approximately 1 in 18 ED patients with atraumatic chest pain presents with a life-threatening condition. ACS is the most common followed by PE, pneumothorax and TAD. Other diagnoses are very rare. These data may serve as a priori pre-test probabilities for ED clinicians in the evaluation of chest pain.",
+      "journal": "Am J Emerg Med",
+      "authors": [
+        "Rice DR",
+        "Pallaci MJ",
+        "Weinstock MB",
+        "Cray SS",
+        "Foster KM",
+        "Oskvarek JJ",
+        "Bedolla JJ",
+        "Aldeen AZ",
+        "Pines JM"
+      ],
+      "date": "2026 May 05",
+      "doi": "10.1016/j.ajem.2026.05.006",
+      "tier": "filtered",
+      "topics": [
+        "Thoracic"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "pneumothorax",
+          "strength": "weak",
+          "topic": "Thoracic"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42114386/"
+    },
+    {
+      "pmid": "42114385",
+      "title": "Association of four or more rib fractures with complications in isolated blunt chest trauma.",
+      "abstract": "**INTRODUCTION**: Rib fractures are common in blunt chest trauma and are associated with significant morbidity. Although increasing rib fracture count has been linked to worse outcomes, a clear and clinically applicable threshold for complication risk remains uncertain. This study aimed to evaluate the predictive value of rib fracture burden in patients with isolated blunt chest trauma and to identify a clinically meaningful cut-off.\n\n**METHODS**: This retrospective observational study included adult patients with isolated blunt chest trauma presenting between January 2021 and December 2025 at a tertiary care center. Patients with radiologically confirmed rib fractures were analyzed. The primary outcome was the development of thoracic complications. Multivariable logistic regression was performed to identify factors independently associated with complications. Receiver operating characteristic (ROC) analysis was used to determine the optimal cut-off value of rib fracture count.\n\n**RESULTS**: A total of 184 patients were included. The median number of rib fractures was 3.0 (IQR: 2.0-4.0). Complications were significantly associated with a higher number of rib fractures (median 4 vs 2, p\u00a0<\u00a00.001). In multivariable analysis, age (OR\u00a0=\u00a01.07, 95% CI: 1.03-1.12), rib fracture count (OR\u00a0=\u00a033.23, 95% CI: 11.13-99.18), and displaced fractures (OR\u00a0=\u00a0161.48, 95% CI: 21.24-1227.78) were independently associated with complications. ROC analysis demonstrated strong predictive performance (AUC\u00a0=\u00a00.872, 95% CI: 0.814-0.920). The optimal threshold was \u22654 rib fractures, with 65% sensitivity and 98% specificity.\n\n**CONCLUSION**: Rib fracture count is strongly associated with complications in isolated blunt chest trauma. A threshold of \u22654 rib fractures may provide a simple and clinically useful tool for early risk stratification.",
+      "journal": "Am J Emerg Med",
+      "authors": [
+        "Haberal MA",
+        "Demirci H",
+        "\u00c7olak MA"
+      ],
+      "date": "2026 May 06",
+      "doi": "10.1016/j.ajem.2026.05.010",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Thoracic"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "rib fracture",
+          "strength": "strong",
+          "topic": "Thoracic"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42114385/"
+    },
+    {
+      "pmid": "42114384",
+      "title": "Association between prehospital time and trauma outcomes: A multicenter cohort study from the Pan-Asian Trauma Outcomes Study (PATOS).",
+      "abstract": "**BACKGROUND**: Prehospital time is a critical determinant of trauma outcomes, yet its optimal duration remains unclear.\n\n**OBJECTIVES**: To summarize the patterns of prehospital time across countries and determine the association between prehospital time and mortality in trauma patients.\n\n**METHODS**: We conducted a cross-national, multicenter retrospective cohort study of trauma patients who received EMS care and were ground-transported to hospitals between January 2019 and December 2022 using the Pan-Asia Trauma Outcomes Study (PATOS) database. Prehospital time was categorized into response time (RT), on-scene time (OST), transport time (TT), and total prehospital time (TPT). Outcomes were in-hospital mortality and poor functional outcome. Multivariable logistic regression adjusted for confounders, with subgroup analysis by injury mechanism.\n\n**RESULTS**: A total of 8968 patients from Taiwan, Malaysia, Korea, and Thailand were included; 376 (4.2%) died in hospital. Mean RT, OST, TT, and TPT were 16.2, 9.6, 9.9, and 35.7\u00a0min, respectively. Longer RT (adjusted odds ratio [aOR] 1.03, 95% CI 1.01-1.04) and OST (aOR 1.03, 95% CI 1.02-1.05) were independently associated with increased in-hospital mortality, whereas TT was not. Prolonged OST and TT were associated with poor functional outcomes. Among patients with traffic-related injuries, longer RT and OST remained significantly associated with mortality.\n\n**CONCLUSION**: Prehospital time varies across EMS systems. Prolonged RT and OST were associated with increased mortality, while extended OST and TT were associated with poor functional outcomes. However, these associations may reflect more severely ill patients requiring additional care.",
+      "journal": "Am J Emerg Med",
+      "authors": [
+        "Usawasuraiin P",
+        "Angkurawaranon C",
+        "Tangsuwanaruk T",
+        "Aramrat C",
+        "Meelarp N",
+        "Wiwatkunupakarn N",
+        "Sairai R",
+        "Shin SD",
+        "Chiang WC",
+        "Tianwibool P"
+      ],
+      "date": "2026 May 06",
+      "doi": "10.1016/j.ajem.2026.05.013",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Prehospital"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "prehospital",
+          "strength": "strong",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42114384/"
+    },
+    {
+      "pmid": "42114383",
+      "title": "Pediatric secondary transports within a regional emergency medical services system.",
+      "abstract": "**OBJECTIVE**: Secondary transport, defined as transferring a patient to a different hospital after initial EMS transport and hospital evaluation, is increasingly used in the care of ill and injured children. We described pediatric secondary transport within a regional EMS system, identified prehospital factors associated with its use, and characterized children meeting established higher level of care criteria.\n\n**METHODS**: We performed a multi-EMS agency and multicenter study of pediatric transports from scene to one of 17 hospitals within an integrated health system. We described the longitudinal movement of encounters from the initial prehospital contact, the initial ED visit, and secondary transport and used a generalized linear mixed model to characterize factors associated with secondary transport. We identified the number of encounters meeting consensus criteria for requiring a higher level of care.\n\n**RESULTS**: We included 68,890 pediatric EMS transports (median age 7.8\u00a0years [IQR 2.2-14.5]). Of the 21,879 (31.8%) evaluated in a non-pediatric community or tertiary hospital, secondary transport occurred in 6.3%. Older children had lower odds of secondary transport (ORs 0.74-0.84). Secondary transport was more common with neurologic (1.44, 95% CI 1.16-1.78), respiratory (1.52, 95% CI 1.19-1.95), toxicology/ingestion (3.26, 95% CI 2.44-4.36), and psychiatric encounters (4.99, 95% CI 3.91-6.36) relative to trauma; occurred more when there was greater distance to the children's hospital; and occurred more in children with abnormal vital signs or impaired consciousness. Overall, 6.0% of encounters met at least one criterion requiring a higher level of care. The most common criteria met were the use of one of the medications in the Pediatric Advanced Life Support guideline (2.8% of all encounters), and airway management (1.6%).\n\n**CONCLUSIONS**: Approximately 6% of children evaluated at non-pediatric hospitals underwent secondary transport, particularly those with neurologic, respiratory, psychiatric, or toxicologic conditions. One-fifth who met higher-level care criteria were transported, underscoring the need to refine criteria, improve EMS triage, and develop standardized decision support.",
+      "journal": "Am J Emerg Med",
+      "authors": [
+        "Ramgopal S",
+        "Janofsky SJ",
+        "Gorski JK",
+        "Macy ML",
+        "Michelson KA",
+        "Horvat CM",
+        "Cash RE",
+        "Martin-Gill C"
+      ],
+      "date": "2026 May 05",
+      "doi": "10.1016/j.ajem.2026.05.009",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Prehospital"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "prehospital",
+          "strength": "weak",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42114383/"
+    },
+    {
+      "pmid": "42114054",
+      "title": "Professionalism in Emergency Medical Services: A People-Centered Approach to Prehospital Care-A Position Statement and Resource Document.",
+      "abstract": "Professionalism is an important construct in emergency medical services (EMS) clinical practice. It encompasses a broad range of characteristics in the affective domain and is critical to the creation of effective EMS clinical and administrative teams. Prehospital clinicians play a unique role on the health care team. They are called to a variety of locations for serious illness or injury at a time a patient or a family member is experiencing a crisis in their lives. Patients trust EMS professionals to enter their home, to respect their autonomy, to provide expert medical care, and to transport them to the right place at the right time.Patient-centered care is the 'north star' for EMS clinicians and maintaining professionalism is the core value that allows for quality care of all patients 24/7/365. Under stressful conditions, EMS personnel must manage their attitudes, skills, and abilities to advocate for patients and provide the right interventions. Professional behavior at all levels of the EMS organizational structure leads to confidence in the system, support of the professionals providing care, promotion of teamwork within the health care continuum, public trust, a capable and sustainable workforce, and delivery of excellent patient care.The National Association of EMS Physicians (NAEMSP) recommends:Professionalism should be a core competency of EMS practice for EMS clinicians, educators, medical directors, administrators, and support staff (\"EMS personnel\").Professionalism should provide the framework for prehospital clinical care and builds public trust in EMS systems.Professionalism should be incorporated in initial training and in continuing education for all levels of EMS professionals.Professional behaviors should be modeled by EMS administrative staff, educators, and medical directors.Professionalism should be incorporated into daily interactions of the EMS workforce with staff, colleagues, patients and families.Professionalism should be measured and incorporated into quality and performance improvement plans within EMS systems.",
+      "journal": "Prehosp Emerg Care",
+      "authors": [
+        "Gausche-Hill M",
+        "Pelletier M",
+        "Adams B",
+        "Arab B",
+        "Jenkins JW",
+        "Kipust A",
+        "Li J",
+        "Colucci L",
+        "Fagan E",
+        "Jura KF",
+        "Sparkman M",
+        "Platt TE",
+        "Warrick C"
+      ],
+      "date": "2026 May 11",
+      "doi": "10.1080/10903127.2026.2669615",
+      "tier": "filtered",
+      "topics": [
+        "Prehospital"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "prehospital",
+          "strength": "strong",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42114054/"
+    },
+    {
+      "pmid": "42114053",
+      "title": "The Role of Emergency Medical Services in Addressing Opioid Use Disorder - A Position Statement and Resource Document of NAEMSP.",
+      "abstract": "Opioid overdose remains one of the most urgent public health crises in the United States, and for many individuals, the first and sometimes only encounter with health care comes through emergency medical services (EMS). As a result, the role of EMS has evolved far beyond reversing overdoses in the moment. Opioid use disorder (OUD) is a treatable medical disease with effective treatment, and EMS agencies are uniquely positioned to partner with local community resources and hospitals to combine efforts in implementing harm-reduction and treatment strategies. This document provides specific guidance for EMS agencies seeking to build or expand comprehensive programs addressing OUD through a variety of evidence-based approaches.The National Association of EMS Physicians recommends:State and local EMS oversight entities should ensure that EMS clinician scope of practice allows for administration of medications for opioid use disorder (MOUD), specifically buprenorphine.EMS Systems should establish low-barrier program and protocols for prehospital administration of medications for opioid use disorder (MOUD), specifically buprenorphine, and integrate the program with available community resources.EMS Medical Directors should collaborate with other system leaders to implement validated protocols for the treatment and safe disposition of patients including navigation of patients to alternate destinations or treatment in place.EMS Systems should collaborate with other system leaders on harm reduction strategies, including opioid education and naloxone distribution.EMS Systems should consider community engagement and input into the design, implementation, and quality improvement efforts for programs to address opioid use disorder, andEMS clinicians should receive comprehensive and adaptive education programs that address the pharmacological and biopsychosocial aspects of OUD and reducing stigma.",
+      "journal": "Prehosp Emerg Care",
+      "authors": [
+        "Glenn MJ",
+        "Mercer MP",
+        "Murrell A",
+        "Simpson N",
+        "Knotts MC",
+        "Crowe R",
+        "Weston BW",
+        "Caba\u00f1as JG",
+        "Cage TM",
+        "Hickerson M",
+        "Joiner AP"
+      ],
+      "date": "2026 May 11",
+      "doi": "10.1080/10903127.2026.2668009",
+      "tier": "filtered",
+      "topics": [
+        "Prehospital"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "prehospital",
+          "strength": "weak",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42114053/"
+    },
     {
       "pmid": "42113323",
       "title": "Trauma team activation for pediatric patients in Denmark: a multicenter study of criteria, organization, and injury severity.",
@@ -937,7 +1242,7 @@
         "Parker BM"
       ],
       "date": "2026 Jan 1",
-      "doi": "10.1136/tsaco-2025-002026",
+      "doi": "10.1053/j.jvca.2023.04.001",
       "tier": "core",
       "topics": [
         "General Trauma"
@@ -1082,7 +1387,7 @@
         "Smielewski P"
       ],
       "date": "2026 May 09",
-      "doi": "10.1186/s13054-026-06071-0",
+      "doi": "10.1089/neu.2020.7249",
       "tier": "filtered",
       "topics": [
         "General Trauma",
@@ -1158,7 +1463,7 @@
         "Rahmel A"
       ],
       "date": "2026 May 09",
-      "doi": "10.1186/s13054-026-06069-8",
+      "doi": "10.1212/WNL.0000000000007009",
       "tier": "filtered",
       "topics": [
         "General Trauma",
@@ -2975,8 +3280,8 @@
     },
     {
       "pmid": "42069039",
-      "title": "Prediction of Shock-refractory Ventricular Fibrillation in Patients with Out-of-Hospital Cardiac Arrest: External Validation of an ECG-based Approach.",
-      "abstract": "**BACKGROUND**: Shock-refractory ventricular fibrillation (VF) patients can be defined as those requiring at least three defibrillation attempts. Patients with refractory VF may benefit from personalized resuscitation treatments. We sought to externally validate a previously described electrocardiogram (ECG) feature calculation and analysis strategy for predicting refractory VF in an Asian out-of-hospital cardiac arrest (OHCA) cohort.\n\n**METHODS**: We conducted a retrospective cohort study using the Seoul OHCA registry (2020-2023). We included patients with an initial shockable rhythm and 3-second ECG segments before and after the initial shock. Refractory VF was defined by patients requiring \u22653 total shocks (primary definition) or \u22653 consecutive shocks (alternative definition). We trained a logistic model to predict refractory VF based on 25 previously-described ECG scalogram features calculated from ECG segments before and after the first shock. Performance was quantified by the area under the receiver operating characteristic curve (AUC) evaluated via leave-one-out cross-validation (LOOCV), and was compared against the original study's reported AUC.\n\n**RESULTS**: Of the 428 included OHCA patients with initial shockable rhythm, 202 (47.2%) received \u22653 shocks during prehospital resuscitation. The logistic combination of 25 ECG features demonstrated good performance, with LOOCV AUCs of 0.782 [95% CI 0.736-0.828] for predicting \u22653 total shocks and 0.805 [95% CI 0.762-0.858] for \u22653 consecutive shocks. These AUCs were not significantly different versus the original study's AUC of 0.846 (P=0.06 and P=0.22 for respective differences).\n\n**CONCLUSION**: A strategy using ECG features surrounding initial shock showed robust performance for predicting refractory VF in a distinct patient population.",
+      "title": "Prediction of shock-refractory ventricular fibrillation in patients with out-of-hospital cardiac arrest: external validation of an ECG-based approach.",
+      "abstract": "**BACKGROUND**: Shock-refractory ventricular fibrillation (VF) patients can be defined as those requiring at least three defibrillation attempts. Patients with refractory VF may benefit from personalized resuscitation treatments. We sought to externally validate a previously described electrocardiogram (ECG) feature calculation and analysis strategy for predicting refractory VF in an Asian out-of-hospital cardiac arrest (OHCA) cohort.\n\n**METHODS**: We conducted a retrospective cohort study using the Seoul OHCA registry (2020-2023). We included patients with an initial shockable rhythm and 3-s ECG segments before and after the initial shock. Refractory VF was defined by patients requiring \u22653 total shocks (primary definition) or \u22653 consecutive shocks (alternative definition). We trained a logistic model to predict refractory VF based on 25 previously-described ECG scalogram features calculated from ECG segments before and after the first shock. Performance was quantified by the area under the receiver operating characteristic curve (AUC) evaluated via leave-one-out cross-validation (LOOCV), and was compared against the original study's reported AUC.\n\n**RESULTS**: Of the 428 included OHCA patients with initial shockable rhythm, 202 (47.2%) received \u22653 shocks during prehospital resuscitation. The logistic combination of 25 ECG features demonstrated good performance, with LOOCV AUCs of 0.782 [95% CI 0.736-0.828] for predicting \u22653 total shocks and 0.805 [95% CI 0.762-0.858] for \u22653 consecutive shocks. These AUCs were not significantly different versus the original study's AUC of 0.846 (P\u00a0=\u00a00.060 and P\u00a0=\u00a00.22 for respective differences).\n\n**CONCLUSION**: A strategy using ECG features surrounding initial shock showed robust performance for predicting refractory VF in a distinct patient population.",
       "journal": "Resuscitation",
       "authors": [
         "Park JH",
@@ -3176,19 +3481,19 @@
     },
     {
       "pmid": "42066240",
-      "title": "Emergency Medicine Residents in the Prehospital Setting: Does this Augment Training?",
-      "abstract": "**OBJECTIVES**: Emergency medicine (EM) residency curricula are designed to prepare future physicians for independent practice. Although the Accreditation Council for Graduate Medical Education requires that EM residents have prehospital experiences, very few programs augment this experience with a dedicated resident response vehicle. There are minimal data demonstrating the utility of such an approach. Our residency program staffs a dedicated response vehicle with a PGY-2/3 resident 24/7/365 to respond to high-acuity emergency medical services (EMS) calls. Additionally, from 0800 to 2300, the on-duty resident provides on-line medical control (OLMC) for the county. Each resident averages one 24-hour shift per 4-week EM block. The purpose of this study is to describe the prehospital educational experiences and curricular contributions that this program provides.\n\n**METHODS**: We used a retrospective observational study design of administrative patient care records over a 5-year period. The primary outcomes were the number of unique encounters and patient experiences per resident per cohort year. The secondary outcomes included characterization of the prehospital experiences among all residents: physician role, patient age-group and sex, problem type, scene location, and procedures. Descriptive statistics were computed to quantify the number, type, and characteristics of the prehospital encounters.\n\n**RESULTS**: Ninety unique resident users were identified in the charting system. The mean number of encounters per resident was grouped by graduation year and spanned from 28.7 (SD 15) for 2018 to 79.2 (SD 49.2) for 2022, with a range of 2 to 222 encounters per resident documented. Over the study period, our residents managed 1313 out-of-hospital cardiac arrests (34 pediatric), 1048 refusals, 596 death pronouncements, 172 critical trauma patients, and answered 2053 complex OLMC consults.\n\n**CONCLUSIONS**: This study quantified the prehospital experiences of our senior EM residents with the addition of a physician response vehicle to our longitudinal EMS curriculum. This has allowed our residents to gain valuable first-hand exposure to out-of-hospital adult and pediatric cardiac arrests, refusals of care, altered mental status, and respiratory emergencies, in addition to prehospital scenarios not likely to be seen within the hospital walls, including motor vehicle collisions with entrapment and mass casualty incidents.",
+      "title": "Emergency Medicine Residents in the Prehospital Setting: Does This Augment Training?",
+      "abstract": "**OBJECTIVES**: Emergency medicine (EM) residency curricula are designed to prepare future physicians for independent practice. Although the Accreditation Council for Graduate Medical Education requires that EM residents have prehospital experiences, very few programs augment this experience with a dedicated resident response vehicle. There are minimal data demonstrating the utility of such an approach. Our residency program staffs a dedicated response vehicle with a PGY-2/3 resident 24/7/365 to respond to high-acuity emergency medical services (EMS) calls. Additionally, from 0800 to 2300, the on-duty resident provides on-line medical control (OLMC) for the county. Each resident averages one 24-h shift per 4-week EM block. The purpose of this study is to describe the prehospital educational experiences and curricular contributions that this program provides.\n\n**METHODS**: We used a retrospective observational study design of administrative patient care records over a 5-year period. The primary outcomes were the number of unique encounters and patient experiences per resident per cohort year. The secondary outcomes included characterization of the prehospital experiences among all residents: physician role, patient age-group and sex, problem type, scene location, and procedures. Descriptive statistics were computed to quantify the number, type, and characteristics of the prehospital encounters.\n\n**RESULTS**: Ninety unique resident users were identified in the charting system. The mean number of encounters per resident was grouped by graduation year and spanned from 28.7 (SD 15) for 2018 to 79.2 (SD 49.2) for 2022, with a range of 2-222 encounters per resident documented. Over the study period, our residents managed 1313 out-of-hospital cardiac arrests (34 pediatric), 1048 refusals, 596 death pronouncements, 172 critical trauma patients, and answered 2053 complex OLMC consults.\n\n**CONCLUSIONS**: This study quantified the prehospital experiences of our senior EM residents with the addition of a physician response vehicle to our longitudinal EMS curriculum. This has allowed our residents to gain valuable first-hand exposure to out-of-hospital adult and pediatric cardiac arrests, refusals of care, altered mental status, and respiratory emergencies, in addition to prehospital scenarios not likely to be seen within the hospital walls, including motor vehicle collisions with entrapment and mass casualty incidents.",
       "journal": "Prehosp Emerg Care",
       "authors": [
         "Mastenbrook JD",
         "Pazderka PA",
         "Redinger KE",
-        "R Bon E",
+        "Bon ER",
         "Clifton CF",
         "Hoyle JD",
         "Overton DT"
       ],
-      "date": "2026 May 01",
+      "date": "2026 May 12",
       "doi": "10.1080/10903127.2026.2666138",
       "tier": "filtered",
       "topics": [
@@ -8983,7 +9288,7 @@
         "Zuelzer DA",
         "Potter BK"
       ],
-      "date": "2026 Apr 15",
+      "date": "2026 May 12",
       "doi": "10.1128/CMR.1.1.54",
       "tier": "filtered",
       "topics": [
@@ -9515,512 +9820,6 @@
       ],
       "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41974224/"
-    },
-    {
-      "pmid": "41973937",
-      "title": "Performance of Machine Learning Models for Sepsis and Stroke Detection Using EMS Data.",
-      "abstract": "**OBJECTIVES**: Early sepsis and stroke recognition by emergency medical services (EMS) improves triage, treatment, and patient outcomes. Machine learning (ML) may enhance EMS sepsis and stroke screening by connecting complex patterns in routinely collected EMS electronic health record (EHR) data, yet research on the application of ML to EMS remains limited. This study evaluated the feasibility and performance of ML sepsis and stroke detection models designed for hospital emergency department (ED) triage data when applied to EMS EHR data.\n\n**METHODS**: This retrospective analysis included adult ED patients transported by EMS to a single hospital between July 1, 2021, and June 30, 2024, with linked EMS and ED records. Hospital ML models were applied to the EMS EHR data through feature mapping, including vital signs, chief complaints and EMS impressions. ED physician diagnosis served as the reference standard. Given serial EMS vital sign entries for each patient, the ML models could make multiple predictions for each patient: One approach to analysis required a majority of predictions to be indicative of sepsis or stroke; another approach allowed any single prediction to be indicative. Additional analyses allowed the ML models to incorporate the EMS free-text narratives. Model performance was assessed using traditional diagnostic measures (sensitivity, specificity, likelihood ratios (LRs)) and common ML metrics (accuracy, F1 score).\n\n**RESULTS**: Among 27,936 included EMS transports, there were 1,497 (5.4%) sepsis and 729 (2.6%) stroke diagnoses. The primary analysis (\"majority of predictions\") model for sepsis demonstrated 68% sensitivity and 86% specificity (+LR: 5, -LR: 0.4; accuracy: 85%, F1: 0.33). The primary analysis stroke model demonstrated 71% sensitivity and 94% specificity (+LR: 11, -LR: 0.3; accuracy: 93%, F1: 0.34). The secondary analysis (\"any prediction\") models increased sensitivity (sepsis 75%, stroke 72%) but decreased specificity (sepsis 80%; stroke 93%). Incorporating free-text narratives further increased sensitivity with corresponding decreases in specificity.\n\n**CONCLUSIONS**: This study demonstrates the feasibility of applying machine learning models trained on ED triage data to prehospital EMS data for the early identification of stroke and sepsis. Future work should focus on model retraining using EMS-specific data, prospective validation, and real-world implementation strategies.",
-      "journal": "Prehosp Emerg Care",
-      "authors": [
-        "Brown LH",
-        "Crowe RP",
-        "Ivanov O",
-        "Green A",
-        "Reily CP",
-        "Myers JB"
-      ],
-      "date": "2026 Apr 13",
-      "doi": "10.1080/10903127.2026.2653091",
-      "tier": "filtered",
-      "topics": [
-        "Prehospital"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "prehospital",
-          "strength": "weak",
-          "topic": "Prehospital"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41973937/"
-    },
-    {
-      "pmid": "41973406",
-      "title": "Determining Access for a City-Wide Extracorporeal Cardiopulmonary Resuscitation (ECPR) Initiative Using Geospatial Analysis.",
-      "abstract": "**BACKGROUND**: In select situations, patients experiencing out-of-hospital cardiac arrest (OHCA) may be candidates for extracorporeal cardiopulmonary resuscitation (ECPR). Eligibility criteria for ECPR typically include a maximum time (usually 30\u2009min) from arrest to arrival at an ECPR-capable center, which may exclude populations based on geographic factors.\n\n**METHODS**: Using geospatial modeling, we calculated drive times to ECPR-capable hospitals in Boston utilizing census block group centroid coordinates as proxy sites for OHCA locations. We used a fixed dispatch-to-scene arrival time of 7.4\u2009min, extrapolated from Boston EMS median transport time data. We set conditions at the 50th (24\u2009min), 25th (18\u2009min), and 10th (13\u2009min) percentiles for EMS on-scene time and, for each condition, determined access to ECPR with an arrest to arrival criterion of less than 30\u2009min. We analyzed the effect of high- versus low-traffic conditions and then derived the arrest to arrival time necessary to achieve access for 90% of the city.\n\n**RESULTS**: The entire City of Boston was excluded from ECPR with median times and current eligibility criteria. Decreasing time-on-scene to the 25th percentile led to increased access: 16% of block groups with low traffic and 6% of block groups with high traffic. At the 10th percentile for time-on-scene, 55% of block groups had access with low traffic and 28% had access with high traffic. To achieve access for 90% of the city under high-traffic conditions at the 50th percentile for time-on-scene, the criterion for arrest to arrival would need to be extended to 55.8\u2009min.\n\n**CONCLUSIONS**: The current arrest to arrival criterion for ECPR excludes the entire City of Boston using median transportation and on-scene times. Increasing access to ECPR should include efforts to decrease prehospital duration, such as minimizing time-on-scene for potential OHCA cases. Future study should examine potential levers to improve access, such as novel prehospital ECPR delivery models, air-based transport, and liberalized arrest to arrival criteria.",
-      "journal": "Acad Emerg Med",
-      "authors": [
-        "Prucnal CK",
-        "Meeker MA",
-        "Cash RE",
-        "Nelson EL",
-        "Greenough PG",
-        "Hallisey SD",
-        "Ilg AM",
-        "Kabrhel C",
-        "Seethala RR",
-        "Jansson PS"
-      ],
-      "date": "2026 Apr 1",
-      "doi": "10.1111/acem.70288",
-      "tier": "filtered",
-      "topics": [
-        "Cardiac Arrest",
-        "Prehospital"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "prehospital",
-          "strength": "weak",
-          "topic": "Prehospital"
-        },
-        {
-          "keyword": "ECPR",
-          "strength": "strong",
-          "topic": "Cardiac Arrest"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41973406/"
-    },
-    {
-      "pmid": "41972955",
-      "title": "Hypothermia on trauma center arrival has a much greater impact on outcomes at the extremes of age.",
-      "abstract": "**BACKGROUND**: Hypothermia is a potentially modifiable risk factor for poor outcomes in trauma; differences in impact of hypothermia on different age groups are not well-defined. This study characterized the effects of varying levels of hypothermia on injured patients by age. We hypothesized that pediatric and geriatric trauma patients would be disproportionately impacted by hypothermia.\n\n**METHODS**: This retrospective cohort study included all patients with a valid arrival temperature from the 2020 to 2023 Trauma Quality Improvement Program database. Patients were categorized by arrival temperature: normothermia (36 to 38\u00b0C), mild hypothermia (35 to 35.9\u00b0C), severe hypothermia (<35\u00b0C), or hyperthermia (>38\u00b0C), and by age group (\u22645, 6 to 11, 12 to 15, 16 to 17, 18 to 39, 40 to 64, 65 to 79, or >80\u00a0y). Outcomes were in-hospital mortality and early (<4\u00a0h) blood transfusion. Multivariable logistic regression evaluated the combined effects of arrival temperature and age group on outcomes, adjusting for confounding variables.\n\n**RESULTS**: Of 4,135,371 patients, 244,203 (5.9%) had mild and 37,839 (0.9%) severe hypothermia. Mortality was 28.1% in severe hypothermia versus 8.8% mild hypothermia versus 1.9% normothermia (P<0.0001); early transfusion occurred for 30.0% in severe hypothermia versus 13.5% mild hypothermia versus 3.2% normothermia (P<0.0001). Multivariable logistic regression demonstrated that hypothermia had different effects on different age groups. Odds of mortality showed a U-shaped distribution across the age spectrum, with children and elderly patients experiencing the highest impact of hypothermia (odds ratios 17.3 for age <5, 12.1 for 6 to 11, 9.7 for 12 to 15, 6.1 for 16 to 17, 4.8 for 18 to 39, 4.6 for 40 to 64, 5.4 for 65 to 79, and 7.1 for >80 years with severe hypothermia). Early blood transfusion showed similar patterns.\n\n**CONCLUSIONS**: Hypothermia disproportionately affects pediatric and elderly patients, exacerbating their risk of mortality and early blood transfusion. The findings highlight the importance of recognizing and responding to hypothermia at the extremes of age. Strategies to mitigate traumatic hypothermia should be further investigated and optimized based on age group. (J Trauma Acute Care Surg. 2026;00: 00-00. Copyright \u00a9 2026 Wolters Kluwer Health, Inc. All rights reserved.).\n\n**LEVEL OF EVIDENCE**: Prognostic/Epidemiologic; Level III.",
-      "journal": "J Trauma Acute Care Surg",
-      "authors": [
-        "Crosier CJ",
-        "Rempson CM",
-        "Green A",
-        "Pracht EE",
-        "Snyder CW"
-      ],
-      "date": "2026 Apr 13",
-      "doi": "10.1097/TA.0000000000004982",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "Haemorrhage",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "trauma centre",
-          "strength": "strong",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "blood transfusion",
-          "strength": "weak",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "trauma quality",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41972955/"
-    },
-    {
-      "pmid": "41972944",
-      "title": "Developing a high-fidelity trauma surgery simulation to enhance team performance: Lessons learned from a complex implementation.",
-      "abstract": "**BACKGROUND**: Effective trauma care depends on technical proficiency and teamwork under pressure. While simulation has become integral to trauma education, few reports detail the methodological processes and lessons learned from developing highly complex operative simulations designed to both assess and improve team performance.\n\n**METHODS**: We developed and implemented a high-fidelity trauma surgery simulation to evaluate multidisciplinary intraoperative team performance. Twenty-two surgical teams-each composed of an attending surgeon, resident, anesthesiologist, circulating nurse, and scrub technician-completed two trauma scenarios requiring surgical intervention for a patient presenting in hemorrhagic shock: Scenario 1-liver/iliac injuries; Scenario 2-kidney/spleen injuries. Scenario development incorporated multidisciplinary perspectives, high-fidelity simulators, and iterative pilot testing. A dual-layer performance framework was created to operationalize measurement of taskwork and teamwork, using time-stamped video analysis and validated postsimulation surveys assessing teamwork, psychological safety, and shared mental models.\n\n**RESULTS**: Through iterative refinement, rater calibration, and multidisciplinary collaboration, the team established a feasible framework for delivering complex, realistic, surgical trauma team simulations. Challenges and lessons learned are described.\n\n**CONCLUSIONS**: This methods paper outlines the development and execution of a high-fidelity trauma surgery simulation aimed at enhancing operative team readiness. Lessons learned underscore the importance of deliberate scenario design, planning, and multidisciplinary coordination to optimize outcomes. The framework described provides a reproducible model for institutions seeking to implement simulation-based trauma training and performance assessment programs.\n\n**LEVEL OF EVIDENCE**: Prognostic/Epidemiological; Level IV.",
-      "journal": "J Trauma Acute Care Surg",
-      "authors": [
-        "Cohen TN",
-        "Marselian A",
-        "Kanji F",
-        "Ravi H",
-        "Metcalfe Smith R",
-        "Dodd B",
-        "Lazzara EH",
-        "Keebler JR",
-        "Perlman R",
-        "Gewertz BL",
-        "Barmparas G"
-      ],
-      "date": "2026 Apr 10",
-      "doi": "10.1097/TA.0000000000005011",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "Haemorrhage",
-        "Prehospital"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "haemorrhagic shock",
-          "strength": "weak",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "trauma team",
-          "strength": "weak",
-          "topic": "Prehospital"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41972944/"
-    },
-    {
-      "pmid": "41971763",
-      "title": "Rapid prediction of cerebral edema on CT scan after traumatic brain injury.",
-      "abstract": "**BACKGROUND**: Traumatic brain injury (TBI) affects 1.7\u2009million individuals annually in the USA, with cerebral edema (CE) as a critical determinant of outcomes and neurosurgical interventions. Delays in TBI diagnosis and triage in prehospital or resource-limited settings contribute to suboptimal care. This study evaluated the predictive potential of machine learning models using clinical and physiological data to detect CE on initial head CT scans, addressing this gap.\n\n**METHODS**: We conducted a mixed retrospective and prospective study of 1222 suspected TBI patients. Data included clinical characteristics, radiographic scores (Marshall and Rotterdam), and physiological features derived from ECG and photoplethysmography signals collected within 1\u2009hour of admission. Statistical models employed logistic regression and gradient boosting, using Shapley additive explanations for feature importance. Model performance was assessed using the area under the receiver operating characteristic curve (AUROC).\n\n**RESULTS**: The models demonstrated high predictive accuracy for CE-related radiographic features, including midline shift and cisternal abnormalities (AUROC: 0.79-0.85). Clinical features such as Glasgow Coma Scale components and intubation status, combined with physiological variables like heart rate variability, contributed significantly to predictions. In contrast, predictions for other findings (eg, epidural hematoma) showed lower discriminatory power. Prehospital applicability was highlighted by the reliance on readily available physiological data.\n\n**CONCLUSIONS**: Machine learning models effectively predict CE prior to CT scans, offering a rapid decision support tool for triage and neurosurgical prioritization in austere and resource-limited settings. Early identification of CE could improve patient outcomes by optimizing transport and treatment strategies. Future research should focus on multicenter validation and streamlined data collection to enhance generalizability and clinical utility.\n\n**LEVEL OF EVIDENCE**: Level III, Prognostic.",
-      "journal": "Trauma Surg Acute Care Open",
-      "authors": [
-        "Felix RB",
-        "Podell J",
-        "Urquizo K",
-        "Alamdeen Y",
-        "Beagan D",
-        "Cheema M",
-        "Parikh GY",
-        "Teeter W",
-        "Chen H",
-        "Chen LK",
-        "Vesselinov R",
-        "Fisher JP",
-        "Yang S",
-        "Hu P",
-        "Badjatia N"
-      ],
-      "date": "2026 Jan 1",
-      "doi": "10.22037/aaem.v13i1.2411",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "Prehospital",
-        "TBI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "traumatic",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic brain injury",
-          "strength": "strong",
-          "topic": "TBI"
-        },
-        {
-          "keyword": "epidural haematoma",
-          "strength": "weak",
-          "topic": "TBI"
-        },
-        {
-          "keyword": "prehospital",
-          "strength": "weak",
-          "topic": "Prehospital"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41971763/"
-    },
-    {
-      "pmid": "41971761",
-      "title": "Perforated ulcer: patient education series understanding trauma and emergency surgery conditions.",
-      "abstract": "",
-      "journal": "Trauma Surg Acute Care Open",
-      "authors": [
-        "Kelley KM",
-        "Foster SM"
-      ],
-      "date": "2026 Jan 1",
-      "doi": "10.1136/tsaco-2025-002011",
-      "tier": "core",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41971761/"
-    },
-    {
-      "pmid": "41968395",
-      "title": "Retrospective Evaluation of the STONE Score and Modified Stone Score for Prediction of Renal Tract Stones.",
-      "abstract": "**OBJECTIVE**: Computed tomography (CT) imaging remains the gold standard for diagnosis of renal tract stones; however, recurrence is common leading to the risk of radiation exposure with repeated scans. Predictive scoring systems have been suggested to aid decision-making and reduce unnecessary imaging; however, their accuracy has been challenged. This study aimed to assess the diagnostic performance of the STONE score and modified STONE score (MSS) in predicting ureteric calculi in an Australian population.\n\n**METHODS**: Retrospective cohort study of patients aged >\u200918\u2009years, who were suspected of having ureteric colic and underwent CT renal tract. Patients were excluded if they had fever, recent urological surgery or trauma, active cancer or unstable vital signs. Score performance was evaluated by clinical performance analysis and receiver operating curve (ROC) analysis.\n\n**RESULTS**: 191 patients were studied; 62.3% had confirmed urolithiasis and 6.3% had a confirmed alternative diagnosis. The STONE score demonstrated an AUC of 0.806 (95% CI 0.745-0.862), and the MSS had an AUC of 0.796 (0.734-0.858) for predicting ureteric stones. If the high score (high probability urolithiasis) group patients had not undergone a CT scan, 8.9% of scans could have been avoided if the STONE score was applied compared to 54.8% with the MSS (p\u2009=\u20090.0004). There was poor classification agreement between the scores (Cohen's kappa -0.03; p\u2009=\u20091).\n\n**CONCLUSION**: Both the STONE and MSS demonstrated moderate accuracy in predicting ureteric stones in an Australian emergency department (ED) population; however, the proportion of scans potentially avoided was markedly different. It is not clear whether these scores are superior to clinician gestalt.",
-      "journal": "Emerg Med Australas",
-      "authors": [
-        "Mansfield K",
-        "Kelly AM",
-        "Resendez F"
-      ],
-      "date": "2026 Apr 1",
-      "doi": "10.1111/1742-6723.70259",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41968395/"
-    },
-    {
-      "pmid": "41968326",
-      "title": "Critical care resource disparities in China: a nationwide survey and policy recommendations for health equity.",
-      "abstract": "**BACKGROUND**: Critical care medicine plays a pivotal role in addressing life-threatening conditions; however, its development in China is hindered by resource scarcity and inequitable distribution. Existing studies have mostly focused on ICU bed numbers or selected regions, and have rarely provided a comprehensive, nationwide assessment of ICU beds, staffing and equipment using standardized methods, nor have they systematically quantified population-based equity of ICU resources. To address this evidence gap and describe the current landscape of critical care capacity in China, we conducted a nationwide survey of critical care resources. The survey aimed to describe the current status of resources, quantify population-based equity, and explore regional and hierarchical disparities that may affect access to critical care.\n\n**METHODS**: This cross-sectional survey was conducted from January 1, 2021, to December 31, 2023, encompassing public comprehensive hospitals, private hospitals, and specialty hospitals across 31 provinces (including municipalities) in China. A total of 4,744 hospitals with a comprehensive ICU provided valid responses and were included in the analysis; the overall response rate among eligible hospitals invited through provincial health authorities was approximately 89.80%. The study focused on institutions with comprehensive intensive care units (ICUs). Hospitals were stratified by level, including tertiary A and B, secondary A and B, and county-level hospitals. Data were collected using the \u201cCritical Care Medicine Resource Survey Form\u201d via Wenjuanxing, an online survey platform. The survey evaluated spatial distribution (bed count and density), equipment availability (ventilators, ECMO, and CRRT), and human resources (staffing and qualification disparities). Responses were analyzed to identify regional and hierarchical variations in resource allocation and utilization.\n\n**FINDINGS**: Among the 4,744 hospitals, there were 83,632 operational ICU beds, corresponding to a national average of 5.95 ICU beds per 100,000 population. The total ICU workforce comprised 46,137 physicians (a physician-to-bed ratio of 0.55:1) and 134,056 nurses (a nurse-to-bed ratio of 1.60:1). Key equipment included 74,842 invasive ventilators, 13,389 non-invasive ventilators, 2,328 ECMO devices and 12,346 CRRT machines. ICU bed density varied from 2.29 to 10.53 beds per 100,000 population across provinces. The Gini coefficients for ICU beds, physicians and nurses allocated by population were all <\u20090.2, and there were no statistically significant differences in ICU beds or physician numbers per 100,000 population across provincial GDP or GDP per capita tiers. From 2015 to 2023, ICU beds increased by 80.0%, physicians by 73.4%, nurses by 61.5%, and ECMO devices by 512.8%. Although population-based distribution appeared relatively equitable, regions differed in absolute bed density, staffing ratios and geographic accessibility, and advanced technologies such as ECMO were available in 29.2% of hospitals.\n\n**INTERPRETATION**: Despite remarkable progress and optimization in ICU resource expansion, substantial gaps remain in China compared to developed countries, particularly regarding ICU bed densities and staffing ratios. Our analysis indicates relatively equitable distribution of ICU beds, physicians and nurses across provinces when assessed on a per population basis, as reflected by low Gini coefficients, but this population-based equity does not account for differences in disease burden, age structure, urban-rural composition or geographic accessibility. Accordingly, population-based equity of resources does not necessarily imply equity of access or adequacy of care. Moreover, this survey focused on resource quantity and did not assess perceived adequacy, organizational models or clinical outcomes, so no direct conclusions can be drawn about quality of care.These findings suggest that efforts to strengthen critical care in China should focus on improving resource density and staffing in underserved regions, enhancing accessibility in geographically vast areas, and promoting efficient use and regional sharing of advanced technologies such as ECMO through organized referral networks.",
-      "journal": "Crit Care",
-      "authors": [
-        "Zhang X",
-        "Chen Y",
-        "Liu R",
-        "Fang W",
-        "Qin B",
-        "Jiang R",
-        "Gao Y",
-        "Li W",
-        "Wu J",
-        "Zhao M",
-        "Yang Y",
-        "Ma X",
-        "Du B",
-        "Liu J",
-        "Song X",
-        "Zhang D",
-        "Gao X",
-        "Jin X",
-        "Liu J",
-        "Liu F",
-        "Liu L",
-        "Li J",
-        "Ma S",
-        "Peng Z",
-        "Sun Y",
-        "Shi S",
-        "Shen F",
-        "Shao H",
-        "Qin T",
-        "Wan X",
-        "Wang J",
-        "Wang H",
-        "Wu W",
-        "Wu H",
-        "Xu F",
-        "Xiong B",
-        "Yu X",
-        "Yang X",
-        "Zhang L",
-        "Zhao H",
-        "Zhang L",
-        "Guan X",
-        "Kang Y",
-        "Chen D"
-      ],
-      "date": "2026 Apr 12",
-      "doi": "10.1146/annurev.publhealth.23.100901.140540",
-      "tier": "filtered",
-      "topics": [
-        "Cardiac Arrest"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "ECMO",
-          "strength": "weak",
-          "topic": "Cardiac Arrest"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41968326/"
-    },
-    {
-      "pmid": "41968311",
-      "title": "Full percutaneous decannulation of VA-ECMO using MANTA",
-      "abstract": "",
-      "journal": "Crit Care",
-      "authors": [
-        "Berg E",
-        "Juvin C",
-        "De Chambrun MP",
-        "Nazoiri C",
-        "Nardone N",
-        "Danial P",
-        "D'Alessandro C",
-        "Carillion A",
-        "Combes A",
-        "Leprince P",
-        "Bougle A",
-        "Lebreton G"
-      ],
-      "date": "2026 Apr 12",
-      "doi": "10.1186/s13054-026-06012-x",
-      "tier": "filtered",
-      "topics": [
-        "Cardiac Arrest"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "ECMO",
-          "strength": "strong",
-          "topic": "Cardiac Arrest"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41968311/"
-    },
-    {
-      "pmid": "41967757",
-      "title": "Healthcare costs of expedited transport compared with standard care following out-of-hospital cardiac arrest: results from the EVIDENCE randomised controlled trial.",
-      "abstract": "**INTRODUCTION**: We aimed to determine whether health system costs differed between two pre-hospital transportation processes for cardiac arrest; and by the timing of out of hospital cardiac arrest (OHCA): inside or outside business hours when extracorporeal cardio-pulmonary resuscitation (ECPR) was available.\n\n**METHODS**: A prospective costing analysis was undertaken from a health system perspective, alongside the EVIDENCE trial conducted across Greater Sydney, Australia. Healthcare use reflected all medical interventions for patients from paramedic contact to hospital discharge or death. Mean total and per-participant healthcare use and costs were reported by trial allocation, with differences assessed using non-parametric Kruskal-Wallis tests.\n\n**RESULTS**: All 197 randomised participants in EVIDENCE were included in the costing analysis (102 in the expedited arm; 95 patients in the standard care arm; mean age 55\u00a0years, 82% males). Mean hospital length of stay from admission to discharge: 15\u00a0days (SD: 23) for expedited; 17\u00a0days (SD: 26) for standard care; and 17\u00a0days (SD: 28) for admissions during ECPR hours, 14\u00a0days (SD: 19) outside hours. Mean costs per patient were AUD$60,780 (SD: $122,520) for the expedited group and $67,579 (SD: $135,326) for standard care. The difference in mean costs (-$6799) was not significant (95% CI: -$44,014 to $30,416). Mean costs per participant were $36,182 higher within ECPR hours, compared with outside ECPR hours (95% CI: $1554-72,918).\n\n**CONCLUSIONS**: Health system costs of expedited transport and standard care for patients with OHCA were comparable. Patients transported within, rather than outside, hospital business hours incurred greater healthcare costs.\n\n**TRIAL REGISTRATION**: ACTRN12621000668808.",
-      "journal": "Resuscitation",
-      "authors": [
-        "Jang K",
-        "Morton RL",
-        "Burns B",
-        "Zhan X",
-        "Nikolovski J",
-        "Taing C",
-        "Packham N",
-        "Keech A",
-        "Dennis M",
-        "Tran AD"
-      ],
-      "date": "2026 Apr 10",
-      "doi": "10.1016/j.resuscitation.2026.111083",
-      "tier": "filtered",
-      "topics": [
-        "Cardiac Arrest"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "ECPR",
-          "strength": "weak",
-          "topic": "Cardiac Arrest"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41967757/"
-    },
-    {
-      "pmid": "41967756",
-      "title": "Factors associated with hospital transport in emergency medical services-attended out-of-hospital cardiac arrest.",
-      "abstract": "**BACKGROUND**: Reported out-of-hospital cardiac arrest epidemiology reflects transported, emergency medical services-treated cases, whereas non-transported out-of-hospital cardiac arrest remains under-described. This study quantified non-transported out-of-hospital cardiac arrest and investigated factors associated with the decision to transport after emergency medical services recognition of out-of-hospital cardiac arrest.\n\n**METHODS**: We conducted a retrospective, population-based cohort study of emergency medical services-attended non-traumatic adult out-of-hospital cardiac arrests in Hsinchu City and Hsinchu County, Taiwan, from January 1, 2022, to December 31, 2024. Canceled activations, patients not found, support-ambulance duplicate runs, and age younger than 18\u00a0years were excluded. The outcome was hospital transport after initiation of resuscitation. Univariable and multivariable logistic regression evaluated associations, including the interaction between the sex of the on-scene surrogate decision-maker and the sex of the patient.\n\n**RESULTS**: Among 3504 emergency medical services-attended out-of-hospital cardiac arrests, 3339 were eligible; 2299 (68.9%) were non-transported out-of-hospital cardiac arrests and 1040 (31.1%) were transported. In multivariable analysis, transport was associated with witnessed arrest (adjusted odds ratio 1.754), bystander cardiopulmonary resuscitation (adjusted odds ratio 2.191), hypertension (adjusted odds ratio 1.406), and shorter or unknown last known normal condition versus more than 8\u00a0h (less than 2\u00a0h: adjusted odds ratio 7.073; 2-8\u00a0h: adjusted odds ratio 3.244; unknown: adjusted odds ratio 2.278). Transport was inversely associated with age (adjusted odds ratio 0.969 per year), malignancy (adjusted odds ratio 0.638), prior cerebrovascular accident (adjusted odds ratio 0.623), and arrest at home (adjusted odds ratio 0.320). Compared with male decision-maker/male patient dyads, transport odds were higher in all other decision-maker-patient sex dyads.\n\n**CONCLUSIONS**: Hospital transport after out-of-hospital cardiac arrest was associated with both recognizable markers of potential reversibility and decision-maker-patient sex dyads. Non-transported out-of-hospital cardiac arrest constituted a substantial proportion of emergency medical services-attended arrests in this system.",
-      "journal": "Resuscitation",
-      "authors": [
-        "Sung CW",
-        "Fan CY",
-        "Jhang HT",
-        "Liu MZ",
-        "Chen CH",
-        "Hung TH",
-        "Wang TH",
-        "Huang EP",
-        "Chen JW"
-      ],
-      "date": "2026 Apr 10",
-      "doi": "10.1016/j.resuscitation.2026.111088",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "traumatic",
-          "strength": "weak",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41967756/"
-    },
-    {
-      "pmid": "41967754",
-      "title": "Effect of vascular access strategy on long-term outcomes in patients with out-of-hospital cardiac arrest: a randomised clinical trial.",
-      "abstract": "**OBJECTIVE**: The Intravenous versus Intraosseous Vascular Access for Out-of-Hospital Cardiac Arrest (IVIO) trial was a randomised clinical trial that investigated initial vascular access strategy for out-of-hospital cardiac arrest. The current manuscript presents outcomes at 6\u00a0months and 1\u00a0year.\n\n**METHODS**: Adults with non-traumatic out-of-hospital cardiac arrest, in whom vascular access was indicated, were randomised to initial intraosseous or intravenous access. The allocated method was attempted up to two times. Prespecified 6-months and 1-year outcomes included survival, survival with a favourable neurological outcome, defined as a modified Rankin Scale score of 0-3, and health-related quality-of-life assessed using the EuroQoL 5-Dimension 5-Level questionnaire on domains of mobility, self-care, usual activities, pain/discomfort, and anxiety/depression.\n\n**RESULTS**: Of the 1479 patients included in the main manuscript primary analyses, three were lost to follow-up for 1-year survival. At 1\u00a0year, 82 patients (11%) in the intraosseous group and 68 patients (9%) in the intravenous group were alive (risk ratio 1.24; 95% confidence interval 0.91-1.67). Survival with a favourable neurological outcome was observed in 76 patients (10%) and 61 patients (8%), respectively (risk ratio 1.28; 95% confidence interval 0.93-1.77). Among survivors, the mean EQ-5D-5L numeric score was 83 in the intraosseous group and 76 in the intravenous group (mean difference 7; 95% confidence interval 1-13).\n\n**CONCLUSION**: Long-term outcomes were similar between patients who received initial intraosseous versus intravenous vascular access during adult out-of-hospital cardiac arrest. These findings do not support a difference in patient outcomes between the two vascular access strategies.\n\n**TRIAL REGISTRATION**: EU Clinical Trials number 2022-500744-38-00; ClinicalTrials.gov number NCT05205031.",
-      "journal": "Resuscitation",
-      "authors": [
-        "Vallentin MF",
-        "Holmberg MJ",
-        "Granfeldt A",
-        "Klitgaard TL",
-        "Mikkelsen S",
-        "Folke F",
-        "Christensen HC",
-        "Povlsen AL",
-        "Petersen AH",
-        "Winther S",
-        "Frilund LW",
-        "Meilandt C",
-        "Winther KB",
-        "Bach A",
-        "Dissing TH",
-        "Terkelsen CJ",
-        "Christensen S",
-        "Rasmussen LK",
-        "Mortensen LR",
-        "Elkmann T",
-        "Nielsen AG",
-        "Runge C",
-        "Kl\u00e6strup E",
-        "Holm JH",
-        "Bak M",
-        "Nielsen LR",
-        "Pedersen M",
-        "Kj\u00e6rgaard-Andersen G",
-        "Hansen PM",
-        "Br\u00f8chner AC",
-        "Christensen EF",
-        "Nielsen FM",
-        "Nissen CG",
-        "Bj\u00f8rn JW",
-        "Burholt P",
-        "Obling LER",
-        "Duus Holle SL",
-        "Russell L",
-        "Alstr\u00f8m H",
-        "Hestad S",
-        "Hove Buciek JU",
-        "Jakobsen K",
-        "Krag M",
-        "Sandgaard M",
-        "Sindberg B",
-        "Andersen LW"
-      ],
-      "date": "2026 Apr 10",
-      "doi": "10.1016/j.resuscitation.2026.111087",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "traumatic",
-          "strength": "weak",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41967754/"
     }
   ]
 }
