@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-12T21:10:09.384746Z",
-  "total_articles": 250,
+  "generated": "2026-05-13T21:19:00.957352Z",
+  "total_articles": 253,
   "all_topics": [
     "Abdominal",
     "Burns",
@@ -379,6 +379,203 @@
   },
   "articles": [
     {
+      "pmid": "42126572",
+      "title": "Changes in operative and in-hospital outcome of proximal femoral fractures before and after the implementation of work hour restrictions in Switzerland.",
+      "abstract": "**PURPOSE**: Surgeon fatigue is a recognized risk factor for patient safety; however, reduced working hours may limit surgical training exposure. In 2005, Switzerland introduced a maximum 50-hour workweek for resident surgeons. In view of current discussions on further reductions (42\u2009+\u20094\u00a0h), concerns persist regarding training quality and workforce capacity. This study evaluates the impact of the 2005 Swiss labor law on patient outcomes, operative characteristics, and intraoperative teaching utilizing a standardized trauma procedure.\n\n**METHODS**: A retrospective analysis of anonymized data from a national database was performed. All patients undergoing operative fixation of trochanteric femur fractures (ICD-10 S72.1) were included. Two four-year periods were compared: pre-regulation (2001-2004) and post-regulation (2016-2019). Primary endpoints were in-hospital complications, mortality, and length of stay. Secondary endpoints included patient characteristics, surgeon seniority, teaching status, operative duration, and time to surgery.\n\n**RESULTS**: Post-regulation patients were older and exhibited higher American Society of Anesthesiologists classifications despite fewer comorbidities. Complications increased from 9.1% to 17.7%, and mortality from 1.6% to 3.5%. Length of stay decreased from 14 to 9 days. Operative duration decreased by 10\u00a0min across all surgeon levels. Resident surgeons independently performed 10% fewer procedures, but teaching operations increased significantly among resident surgeons.\n\n**CONCLUSION**: Following the introduction of working hour limitations, supervised teaching increased substantially. Although complication and mortality rates rose-likely reflecting an older and more complex patient population-hospital stays shortened. The proposed 42\u2009+\u20094-hour model will require targeted compensatory measures to maintain surgical training quality and patient safety.",
+      "journal": "Eur J Trauma Emerg Surg",
+      "authors": [
+        "Tewes A",
+        "Canal C",
+        "Sch\u00f6b O",
+        "Neuhaus V"
+      ],
+      "date": "2026 May 13",
+      "doi": "10.1007/s00423-024-03385-x",
+      "tier": "core",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42126572/"
+    },
+    {
+      "pmid": "42126542",
+      "title": "Early discharges in severely injured patients by ISS score: exploring injury patterns and coding practices.",
+      "abstract": "**PURPOSE**: This study examines the prevalence of early discharge (ED) among patients classified as severely injured in the Dutch National Trauma Registry (DNTR) and evaluates whether identifiable patient-, injury-, and system-related factors are associated with the occurrence of ED in this population.\n\n**METHODS**: This retrospective cohort study analyzed DNTR data from 2015 to 2022, focusing on severely injured patients (Injury Severity Score [ISS]\u2009\u2265\u200916). Patients were grouped as early discharge (ED; discharged within 48\u00a0h without in-hospital mortality) or non-ED (NED). Patients' characteristics were compared using descriptive statistics, and a mixed-effect model identified factors associated with ED.\n\n**RESULTS**: From 2015 to 2022, a total of 37,626 severely injured patients were registered including 1,454 (3.9%) ED patients. This proportion increased from 3.2% in 2015 to 4.8% in 2022. ED was more common in younger patients, males, general practitioner (GP) or self-referred cases, those with severe head injury (Abbreviated Injury Scale [AIS]\u2009\u2265\u20093) and fewer registered injury codes. In the mixed-effects model, younger age (OR up to 2.0), increasing head injury severity (OR: 1.16 per AIS point), less than 3 registered AIS codes (OR: 0.60), referral by a general practitioner (OR 1.68) or self-referral (OR 1.92), and admission year (OR: 1.08 per year) independently predicted early discharge. Subdural hematoma (small-medium) was the most frequent severe injury code among ED patients.\n\n**CONCLUSION**: The prevalence of early discharge among patients classified as severely injured has increased in the Netherlands over time. Early discharge was more frequently observed in patients with severe head injuries, those who were self- or general practitioner-referred, and varied across regions. These patterns may reflect differences in clinical practice, trauma system organization, or limitations in AIS/ISS-based injury classification rather than a single cause. Greater attention to coding specificity and injury classification may improve the interpretation of registry-based outcome evaluations.\n\n**CLINICAL TRIAL NUMBER**: Not applicable.",
+      "journal": "Eur J Trauma Emerg Surg",
+      "authors": [
+        "Parouei F",
+        "Kr\u00fcsemann EJZ",
+        "Poeze M",
+        "de Jongh MAC",
+        "Hietbrink F"
+      ],
+      "date": "2026 May 13",
+      "doi": "10.3390/ijerph15112426",
+      "tier": "core",
+      "topics": [
+        "General Trauma",
+        "Systems/QI",
+        "TBI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "injury severity",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "head injury",
+          "strength": "weak",
+          "topic": "TBI"
+        },
+        {
+          "keyword": "subdural haematoma",
+          "strength": "weak",
+          "topic": "TBI"
+        },
+        {
+          "keyword": "trauma registry",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42126542/"
+    },
+    {
+      "pmid": "42120216",
+      "title": "Early operative management in trauma: A nationwide comparison of time to surgery and survival at trauma centers and non-trauma centers.",
+      "abstract": "**BACKGROUND**: Trauma is a leading cause of death and disability, both in Sweden and globally. Timely surgical intervention and level of care have been identified as important determinants of outcome, yet it is not known whether time to surgery differs between trauma centers and non-trauma centers in Sweden, or whether previously observed survival differences also apply to patients undergoing early operative management.\n\n**METHODS**: This retrospective national cohort study included adult trauma patients (\u226518 years) who underwent surgery within six hours of hospital arrival between 1 January 2019 and 21 March 2023. Data were obtained from Swedish national quality registries and administrative registers held by the National Board of Health and Welfare (Socialstyrelsen). The primary outcome was time from hospital arrival to initiation of surgery. Secondary outcomes were time to urgent surgery and 30-day mortality. Associations between trauma center status and outcomes were examined using regression models adjusted for demographic and injury-related factors.\n\n**RESULTS**: A total of 1129 adult trauma patients who underwent surgery within six hours of hospital arrival were included, the majority presenting with moderate to severe injuries; of whom 659 (58.4%) were treated at trauma centers and 470 (41.6%) at non-trauma centers. Patients treated at trauma centers had higher injury severity and greater physiological compromise. Trauma center care was associated with shorter time to surgery; the fully adjusted mean difference was 0.68\u00a0h compared with non-trauma centers. Crude 30-day mortality was higher at trauma centers, but after full adjustment for case-mix, trauma center care was associated with lower mortality.\n\n**CONCLUSION**: Among trauma patients undergoing early surgery, treatment at trauma centers was associated with shorter time to surgery and improved adjusted survival. Further research is needed to identify which patient groups may benefit most from direct transport to trauma centers.",
+      "journal": "Injury",
+      "authors": [
+        "Eriksson J",
+        "Mattsson A",
+        "Larsson E",
+        "Oldner A",
+        "Oelreich EV"
+      ],
+      "date": "2026 May 08",
+      "doi": "10.1016/j.injury.2026.113350",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "injury severity",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42120216/"
+    },
+    {
+      "pmid": "42119541",
+      "title": "Wound complications following calcaneal fracture surgery using sinus tarsi approach.",
+      "abstract": "**INTRODUCTION**: The sinus tarsi approach (STA) has gained popularity as a minimally invasive alternative to the extensile lateral approach for displaced intra-articular calcaneal fractures (DIACFs), yet wound complications remain a concern. This study aimed to determine the incidence and predictors of wound complications following STA fixation.\n\n**METHODS**: A retrospective multicenter cohort study was conducted across four tertiary referral hospitals, including all surgically treated DIACFs managed with STA between 2018 and 2022. Demographic, injury-related, and operative variables were extracted from medical records. The primary outcome was wound complications within eight postoperative weeks, defined as inflammation, necrosis, or persistent wound leakage >2 weeks. Secondary outcomes included reoperation and identification of risk factors.\n\n**RESULTS**: 148 fractures in 143 patients were included. Wound complications occurred in 13 cases (9%), with only one requiring surgical revision; eight were treated with antibiotics. Reoperation within one year occurred in 10% of cases, with a higher, though not statistically significant, rate among patients with wound complications (21% vs. 7.5%). Significant risk factors for wound complications were psychiatric comorbidity (p\u00a0=\u00a00.012), open fractures (p\u00a0=\u00a00.032), and concomitant fractures (p\u00a0=\u00a00.021). Trends toward higher complication rates were observed with screw fixation and Sanders type III-IV fractures. No associations were found with smoking, diabetes, alcohol use, or time to surgery.\n\n**CONCLUSION**: STA for DIACFs is associated with a low wound complication rate, with few cases requiring reoperation. Open fractures, psychiatric disorders, and concomitant injuries significantly increase the risk of wound complications, whereas traditional risk factors known from extensile approaches-such as smoking and diabetes-were not associated with adverse outcomes. These findings support the safety of STA and highlight the importance of recognizing patient- and injury-related risk factors in perioperative planning.",
+      "journal": "Injury",
+      "authors": [
+        "Larsen MS",
+        "Viberg B",
+        "Singh UM",
+        "Lind M",
+        "Penny J\u00d8",
+        "Wals\u00f8e L",
+        "Gundtoft PH"
+      ],
+      "date": "2026 May 05",
+      "doi": "10.1016/j.injury.2026.113340",
+      "tier": "filtered",
+      "topics": [
+        "Orthopaedic"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "open fracture",
+          "strength": "weak",
+          "topic": "Orthopaedic"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42119541/"
+    },
+    {
+      "pmid": "42119276",
+      "title": "Prehospital identification of hypoglycemia-induced seizure using a smartphone-linked continuous glucose monitoring application.",
+      "abstract": "Seizures are a common reason for emergency medical service (EMS) activation. Among various etiologies, hypoglycemia is relatively rare in prehospital settings, and blood glucose measurements at symptom onset are often unavailable. Continuous glucose monitoring (CGM) devices synchronized with smartphone applications can provide real-time or retrospective glucose data, potentially supporting prehospital clinical assessment. This case report describes a 37-year-old man with type 1 diabetes mellitus who experienced a generalized tonic-clonic seizure while shopping with his seven-year-old son. Using a smartphone application linked to the patient's CGM device, the child identified a critically low glucose level at seizure onset. Based on this information, emergency medical services were promptly contacted. Upon EMS arrival, the seizure had resolved; however, the patient remained mildly agitated. Oral carbohydrate was administered, and subsequent point-of-care testing showed improvement in blood glucose levels. On arrival at the emergency department, no focal neurological deficits were observed. Clinical findings, together with CGM data, supported a diagnosis of hypoglycemia-induced seizure. This case highlights two important aspects of both prehospital care and emergency settings. First, smartphone applications linked to CGM devices can provide valuable information regarding glucose trends during transient neurological events. Second, such applications can be effectively used even by individuals without medical training, including children, to recognize abnormal glucose patterns and facilitate appropriate emergency response. Awareness of this novel use of CGM technology may help both prehospital and hospital-based providers better interpret prehospital information.",
+      "journal": "Am J Emerg Med",
+      "authors": [
+        "Harada K",
+        "Okazaki Y",
+        "Ichiba T"
+      ],
+      "date": "2026 May 10",
+      "doi": "10.1016/j.ajem.2026.05.021",
+      "tier": "filtered",
+      "topics": [
+        "Prehospital"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "prehospital",
+          "strength": "strong",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42119276/"
+    },
+    {
+      "pmid": "42119225",
+      "title": "Recurrent subcutaneous hemorrhage and leg weakness: A case of scurvy presenting as simple Purpura.",
+      "abstract": "Although uncommon, scurvy can still occur in developed contries and can cause substantial morbidity and be life threatening if untreated. An impoverished 68-year-old woman with a low intake of fruit and vegetables presented with weakness and painful purpura on both legs, having experienced a similar episode 3\u00a0years previously. Laboratory tests revealed anemia, coagulopathy, a low folic acid concentration, and serum vitamin C concentration below the limit of detection. She was admitted and treated with transfusions of packed red blood cells and fresh frozen plasma owing to the coagulopathy, and vitamin C and folic acid were administered to correct the micronutrient deficiencies. Her clinical condition improved within a few days, and she was discharged ambulatory on hospital day 14. Clinicians should maintain a high index of suspicion for scurvy in patients with unexplained purpura and social risk factors.",
+      "journal": "Am J Emerg Med",
+      "authors": [
+        "Miyaguchi K",
+        "Urushidani S"
+      ],
+      "date": "2026 May 07",
+      "doi": "10.1016/j.ajem.2026.05.014",
+      "tier": "filtered",
+      "topics": [
+        "Haemorrhage"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "packed red blood cells",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42119225/"
+    },
+    {
       "pmid": "42115111",
       "title": "Turret truck-related head and neck injuries in a Japanese wholesale market: Clinical characteristics, risk factors, and the need for preventive measures.",
       "abstract": "**BACKGROUND**: Turret trucks are widely used to handle cargo in Japanese wholesale markets. Under Japanese law, helmet use is not mandatory for turret truck operators, which potentially increases the risk of head and neck injuries. This study aimed to describe the clinical characteristics, risk factors, and outcomes of turret truck-related head and neck injuries as the first reported analysis of this injury mechanism.\n\n**METHODS**: We conducted a retrospective observational study of patients with turret truck-related head and neck injuries who were transported to St. Luke's International Hospital between January 2011 and June 2024. Demographic data, injury characteristics, and outcomes were collected. The primary outcome was the necessity for hospital admission, and the secondary outcome was functional status at discharge, measured using the modified Rankin Scale (mRS).\n\n**RESULTS**: Of the 67 patients analyzed, 48 (72%) were turret drivers and 19 (28%) were non-drivers. The cohort was predominantly male (97%) with a median age of 64 years. Twenty-four patients (36%) required hospital admission, with a higher proportion among turret drivers (44%) than among non-drivers (16%). Among turret drivers, all patients with severe injuries (Injury Severity Score \u226516) and those with significant head and neck injuries (Abbreviated Injury Scale \u22653) required hospitalization. Despite injury severity, most patients achieved favorable functional outcomes, with 97% having an mRS score of 0-2 at discharge. One fatality occurred in a 70-year-old female passenger without helmet who fell from a turret truck.\n\n**CONCLUSIONS**: Although most turret truck-related head and neck injuries result in favorable outcomes, a substantial proportion of patients require hospitalization. Given the predominantly older male population and the occurrence of fatal outcomes even at low speeds without helmet protection, mandatory helmet use and comprehensive safety measures should be considered to reduce injury severity in this population.",
@@ -695,7 +892,7 @@
         "Raaber N"
       ],
       "date": "2026 May 11",
-      "doi": "10.1007/s00068-026-03208-2",
+      "doi": "10.1001/jamanetworkopen.2023.56472",
       "tier": "core",
       "topics": [
         "General Trauma",
@@ -795,7 +992,7 @@
         "Nau C"
       ],
       "date": "2026 May 11",
-      "doi": "10.1007/s00068-026-03203-7",
+      "doi": "10.1007/s00402-010-1211-3",
       "tier": "core",
       "topics": [
         "General Trauma"
@@ -9653,173 +9850,6 @@
       ],
       "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41980475/"
-    },
-    {
-      "pmid": "41979694",
-      "title": "Effect of head injury on blood transfusion requirements in severe trauma: a post-hoc analysis of the RESTRIC trial.",
-      "abstract": "**PURPOSE**: To evaluate whether head-region injury, as defined by Abbreviated Injury Scale (AIS) coding, is associated with transfusion requirements in patients with severe trauma.\n\n**METHODS**: This study is a post-hoc analysis of the RESTRIC trial, a multicentre, cluster-randomised, crossover, non-inferiority trial comparing restrictive (7\u20139\u00a0g/dL) and liberal (10\u201312\u00a0g/dL) blood transfusion strategies for patients with severe haemorrhagic trauma. Adult patients with severe trauma anticipated to require transfusion were included. Head injury was defined as an AIS score\u2009\u2265\u20092 in the head region. The primary outcome was cumulative red blood cell (RBC) transfusion volume within 28 days. Key secondary outcomes included RBC transfusion volume within 24 and 48\u00a0h. Propensity score matching (PSM) was used to balance baseline injury severity using Injury Severity Score (ISS) and, separately, AIS scores for body regions excluding the head. Sensitivity analyses were conducted using generalised linear mixed models (GLMM) with random intercepts for study centre.\n\n**RESULTS**: Among the 411 patients, 157 (38.2%) had head AIS\u2009\u2265\u20092. In unadjusted analyses, 28-day RBC transfusion volumes were similar between patients with and without head injury (median 10 vs. 10 units). After adjustment using PSM and GLMM, no evidence of an independent association between head-region injury and RBC transfusion volume was observed at 24\u00a0h, 48\u00a0h, or cumulatively at 28 days (IRR 0.97, 95% CI 0.78\u20131.21). In contrast, transfusion strategy, abdominal or limb injury, and early interventions were consistently associated with increased transfusion requirements.\n\n**CONCLUSION**: In this post-hoc analysis of a randomised transfusion trial, we found no evidence of an independent association between head-region injury and transfusion requirements within the limits of statistical power and exposure definition. These findings should be interpreted as an absence of evidence rather than evidence of no effect and should not be extrapolated to isolated intracranial traumatic brain injury. Further studies incorporating precise identification of intracranial injury and coagulation phenotypes are warranted.\n\n**SUPPLEMENTARY INFORMATION**: The online version contains supplementary material available at 10.1007/s00068-026-03141-4.",
-      "journal": "Eur J Trauma Emerg Surg",
-      "authors": [
-        "Nagasawa H",
-        "Omori K",
-        "Tanaka N",
-        "Maekawa C",
-        "Hamada M",
-        "Ota S",
-        "Ohsaka H",
-        "Yanagawa Y",
-        "Kondo Y"
-      ],
-      "date": "2026 Apr 14",
-      "doi": "10.1186/s40001-025-02498-3",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "Haemorrhage",
-        "Systems/QI",
-        "TBI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "injury severity",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "blood transfusion",
-          "strength": "strong",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "traumatic brain injury",
-          "strength": "weak",
-          "topic": "TBI"
-        },
-        {
-          "keyword": "head injury",
-          "strength": "strong",
-          "topic": "TBI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41979694/"
-    },
-    {
-      "pmid": "41975464",
-      "title": "Consensus statement from the 2025 Delphi panel on cerebral microdialysis in critical care.",
-      "abstract": "**PURPOSE**: Secondary brain injury is a common cause of poor outcome after trauma, subarachnoid hemorrhage, and intracerebral hemorrhage, and optimizing treatment requires real-time insight into cerebral metabolism. Cerebral microdialysis (CMD) uniquely provides key related information, yet consensus on its use has not been updated since publication of the consensus statement from the 2014 International Microdialysis Forum. We aimed to assess expert consensus on the use of CMD in critical care and provide contemporary guidance to standardize practice and advance clinical implementation.\n\n**METHODS**: We conducted a 3-round modified Delphi study with international experts in CMD and neurocritical care. Consensus was defined as \u2265\u200975% agreement among non-abstaining respondents, with a minimum of 30 non-abstaining respondents required per statement. Statements not reaching consensus were iteratively revised based on panelist feedback.\n\n**RESULTS**: Forty of 67 invited experts (60%) from 9 countries participated. Sixty of 62 individual items achieved consensus (97%) across 9 domains: indications and patient selection, technical and procedural considerations, detecting deterioration and secondary injury, metabolic interpretation, treatment algorithms, glucose management, sampling frequency, core reporting items, and barriers to clinical implementation.\n\n**CONCLUSION**: This consensus statement provides updated, evidence-informed recommendations for the use of CMD in critical care. The panel reaffirmed many core recommendations from the 2014 consensus while making targeted advances: cautious extension of guidance to intracerebral hemorrhage, comprehensive reporting guidance addressing frequently omitted elements (19 items vs. 6 in 2014), and identification of 10 key barriers to routine clinical adoption.",
-      "journal": "Crit Care",
-      "authors": [
-        "Helmy A",
-        "Baker MS",
-        "Chen PM",
-        "Quinn A",
-        "Jalloh I",
-        "Roberts L",
-        "Badjatia N",
-        "Belli A",
-        "Boutelle MG",
-        "Bullock MR",
-        "Claassen J",
-        "Coles JP",
-        "Dahyot-Fizelier C",
-        "Ercole A",
-        "Foreman B",
-        "Gallagher C",
-        "Gilmore EJ",
-        "Gupta AK",
-        "Gupta D",
-        "Helbok R",
-        "Leroux P",
-        "Magnoni S",
-        "Mangat HS",
-        "Marklund N",
-        "Mazzeo AT",
-        "Menon DK",
-        "Nelson DW",
-        "Newcombe V",
-        "Oddo M",
-        "O'Phelan K",
-        "Petrone P",
-        "Poca MA",
-        "Puccio AM",
-        "Robertson CS",
-        "Rostami E",
-        "Sahuquillo J",
-        "Stovell MG",
-        "Strong AJ",
-        "Svedung Wettervik T",
-        "Thelin EP",
-        "Timofeev IS",
-        "Torn\u00e9 R",
-        "Valadka A",
-        "Venturini S",
-        "Vespa P",
-        "Zimphango C",
-        "Carpenter KLH",
-        "Chen JW",
-        "Hutchinson PJ"
-      ],
-      "date": "2026 Apr 13",
-      "doi": "10.1186/s13054-026-05993-z",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41975464/"
-    },
-    {
-      "pmid": "41974224",
-      "title": "Geographic inequalities in prehospital critical care for cardiac arrest: a spatial analysis of deprivation and service configuration.",
-      "abstract": "**BACKGROUND**: Prehospital critical care is associated with improved outcomes after out-of-hospital cardiac arrest (OHCA) but appear less likely to attend patients in more deprived neighbourhoods.\n\n**AIM**: To determine how the geographical distribution of prehospital critical care bases influences the relationship between neighbourhood deprivation and attendance of prehospital critical care teams to OHCA patients.\n\n**METHODS**: Prehospital critical care was defined as any provider with clinical competencies beyond that of standard paramedics following Joint Royal Colleges Ambulance Liaison Committee guidelines and dispatched to critically ill patients. All OHCA patients treated by three neighbouring ambulance services in England between 2018 and 2023 were included. Data were aggregated at the neighbourhood level to produce continuous variables. Neighbourhood index of multiple deprivation decile was obtained. Data were mapped, geographical clusters identified using Moran's I, and spatial autocorrelation calculated. Explicit spatial modelling accounted for spatial dependence.\n\n**RESULTS**: Data from 57,601 patients were included, covering 9,639 neighbourhoods. Prehospital critical care attendance varied geographically, with a median neighbourhood attendance of 25.0%. Distance to the nearest prehospital critical care base was significantly associated with attendance. There was strong evidence of positive spatial autocorrelation and clustering of attendance. Accounting for spatial dependence removed the association with neighbourhood deprivation, whilst clinical variables, as well as distance to nearest prehospital critical care base and a daytime emergency call were the major drivers of prehospital critical care attendance.\n\n**CONCLUSION**: Observed inequalities in prehospital critical care attendance are explained by spatial factors and the geographic configuration of services rather than deprivation alone. Optimising the location of prehospital critical care assets represents an opportunity to reduce inequalities.",
-      "journal": "Resuscitation",
-      "authors": [
-        "Boulton AJ",
-        "Lang N",
-        "Miller J",
-        "Whitley GA",
-        "Zorab O",
-        "de Paeztron A",
-        "Leech C",
-        "Gill P",
-        "Perkins GD",
-        "Brown TP",
-        "Yeung J",
-        "Porto de Albuquerque J"
-      ],
-      "date": "2026 Apr 11",
-      "doi": "10.1016/j.resuscitation.2026.111093",
-      "tier": "filtered",
-      "topics": [
-        "Prehospital"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "prehospital",
-          "strength": "strong",
-          "topic": "Prehospital"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41974224/"
     }
   ]
 }
