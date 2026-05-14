@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-13T21:19:00.957352Z",
-  "total_articles": 253,
+  "generated": "2026-05-14T21:03:50.029073Z",
+  "total_articles": 249,
   "all_topics": [
     "Abdominal",
     "Burns",
@@ -378,6 +378,291 @@
     "Cochrane Database Syst Rev": "filtered"
   },
   "articles": [
+    {
+      "pmid": "42130336",
+      "title": "Early surgical stabilization of multiple rib fractures: A data-derived timing threshold and the case for systems-based chest wall care.",
+      "abstract": "",
+      "journal": "J Trauma Acute Care Surg",
+      "authors": [
+        "Shaikh FA",
+        "Charles EJ",
+        "Curran T",
+        "Nemeth ZH"
+      ],
+      "date": "2026 May 13",
+      "doi": "10.1097/TA.0000000000005004",
+      "tier": "core",
+      "topics": [
+        "Thoracic"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "rib fracture",
+          "strength": "strong",
+          "topic": "Thoracic"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42130336/"
+    },
+    {
+      "pmid": "42130329",
+      "title": "The extended postoperative complication score: A dual-axis reporting plan for general surgery.",
+      "abstract": "**BACKGROUND**: Grading surgical complications and sequelae is of paramount importance for analyzing results and improving patient care and system performance and in optimizing resource allocation and use. Existing systems for surgical complication classification do not consistently account for baseline physiologic vulnerability and often conflate treatment intensity with clinical severity. This limitation reduces interpretability across diverse patient populations, particularly in emergency and elective general surgery.\n\n**METHODS**: A multidisciplinary expert panel conducted a modified Delphi process to develop a dual-axis classification system, the Extended Postoperative Complication Score (EPCS). This system stratifies patients preoperatively into three baseline classes (A, B, C) reflecting physiologic reserve and immunocompetence. Postoperative events are then graded by physiologic impact from Grade 0 (minor, no impact) to Grade IV (death). Sequelae, defined as anticipated events related to underlying pathology or chronic disease, are separately categorized. Representatives of the most relevant international emergency and trauma surgical associations were involved (World Society of Emergency Surgery, European Society for Trauma and Emergency Surgery, American Association for the Surgery of Trauma, Panamerican Trauma Society, EndoVascular and Trauma Management Society, Global Alliance for Infections in Surgery).\n\n**RESULTS**: The EPCS yields 18 mutually exclusive strata, combining five complication grades and three baseline classes, plus three sequelae codes. The matrix enables interpretable outcome reporting across settings, accounting for both event severity and host vulnerability. Expert consensus confirmed conceptual clarity and operational feasibility. The system allows applications to elective, urgent, and emergent operations, and is compatible with clinical audit, observational research, and pragmatic trials.\n\n**CONCLUSIONS**: The EPCS provides a structured, physiologically anchored method for postoperative complication stratification. Its dual-axis design may improve the validity of outcome comparisons and support real-world evaluation of surgical quality. Further validation is warranted through prospective multicenter implementation and time-bound observational methodologies. (J Trauma Acute Care Surg. 2026;100:700-706. Copyright \u00a9 2026 The Author(s). Published by Wolters Kluwer Health, Inc. on behalf of the American Association for the Surgery of Trauma.).",
+      "journal": "J Trauma Acute Care Surg",
+      "authors": [
+        "Coccolini F",
+        "Cicuttin E",
+        "Chirica M",
+        "Reva V",
+        "Coimbra R",
+        "Sartelli M",
+        "Isik A",
+        "Biffl WL",
+        "Cremonini C",
+        "Colli A",
+        "Besola L",
+        "Mariani D",
+        "Kluger Y",
+        "Ceresoli M",
+        "Kurihara H",
+        "Cimino M",
+        "Moore EE",
+        "Kessel B",
+        "Horer T",
+        "Ferrada P",
+        "Kirkpatrick AW",
+        "Pikoulis M",
+        "Catena F",
+        "Bass G"
+      ],
+      "date": "2026 May 13",
+      "doi": "10.1097/TA.0000000000005014",
+      "tier": "core",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42130329/"
+    },
+    {
+      "pmid": "42129916",
+      "title": "Organ donation after ECPR: ethical challenges and clinical implications.",
+      "abstract": "Extracorporeal cardiopulmonary resuscitation (ECPR) offers a life-saving option for select patients with refractory cardiac arrest, yet a substantial proportion suffer devastating neurological injury and die despite extracorporeal support. In this context, organ donation may emerge as a potential downstream pathway, introducing complex ethical tensions at the intersection of life-sustaining treatment, end-of-life care, and organ preservation. This narrative review examines the ethical challenges associated with organ donation following ECPR, with particular attention to the transition from resuscitative intent to donation-oriented care. We discuss the clinical and ethical challenges of ECPR programs related to patient autonomy, informed consent, conflicts of interest, and equity of access in both adult and paediatric populations. Building on core principles of biomedical ethics, we propose a structured ethical model to guide clinicians and institutions navigating these scenarios. Central elements include strict separation between resuscitative and donation-related decision-making, transparent prognostication, robust safeguards around treatment intent, and early integration of ethics consultation and structured communication processes. We extend the prior evidence by offering ECPR-specific considerations, including concrete governance triggers, bedside tools, the integration of paediatric perspectives, and the translation of ethical principles into operational guidance. By defining clear ethical boundaries and governance mechanisms, this review aims to support the responsible integration of organ donation pathways following ECPR, while preserving public trust and reaffirming the primacy of patient-centred care.",
+      "journal": "Crit Care",
+      "authors": [
+        "Rajsic S",
+        "Argudo E",
+        "Hofheinz SMB",
+        "Mart\u00ednez MM",
+        "Delgado A",
+        "Wulczy\u0148sk\u00e1 S",
+        "Breitkopf R",
+        "Putzer G",
+        "Rubin J",
+        "Mendonca M",
+        "Antonini MV",
+        "Swol J",
+        "Belliato M",
+        "B\u011blohl\u00e1vek J"
+      ],
+      "date": "2026 May 13",
+      "doi": "10.1186/s13054-026-06072-z",
+      "tier": "filtered",
+      "topics": [
+        "Cardiac Arrest"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "ECPR",
+          "strength": "strong",
+          "topic": "Cardiac Arrest"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42129916/"
+    },
+    {
+      "pmid": "42129914",
+      "title": "ExtracorporeaL life support and Modification Of Hemostasis: the ELMOH trial: hemostatic changes during the first 48\u00a0h of VV- and VA-ECMO: a prospective multicenter cohort study.",
+      "abstract": "**BACKGROUND**: Anticoagulation during extracorporeal membrane oxygenation (ECMO) requires balancing thrombotic and bleeding risks, yet early coagulation dynamics may differ between venovenous (VV) and venoarterial (VA) support. This study prospectively characterized standard coagulation tests and viscoelastic profiles during the first 48\u00a0h of ECMO and related these to early bleeding and transfusion need.\n\n**METHODS**: Multicenter, prospective cohort in four Belgian ICUs (03/2021-01/2023; NCT04912336). Adults initiated on VV- or VA-ECMO were enrolled immediately before cannulation and sampled at inclusion, +\u20092\u00a0h, +\u200924\u00a0h, and +\u200948\u00a0h. Laboratory tests (aPTT, PT/INR, fibrinogen, platelets, anti-Xa, D-dimer, AT), ROTEM, bleeding (BARC, GUSTO), and transfusions were recorded.\n\n**RESULTS**: Forty-three patients were included (23 VV, 20 VA). At inclusion, platelet counts were higher in VV than in VA (median 292 vs. 145\u00b710\n\n**CONCLUSIONS**: Early hemostatic profiles differed markedly between patients requiring ECMO for circulatory failure and those supported for isolated respiratory failure. VA-ECMO showed lower platelet counts and a more hypocoagulable profile early after initiation that partially improved within 48\u00a0h, whereas VV-ECMO remained relatively hypercoagulable. These findings support the importance of individualized hemostatic monitoring and anticoagulation management.",
+      "journal": "Crit Care",
+      "authors": [
+        "Peperstraete H",
+        "Vandewiele K",
+        "Devreese KMJ",
+        "Massion P",
+        "Piagnerelli M",
+        "Raes M",
+        "Depuydt P",
+        "Hoste E"
+      ],
+      "date": "2026 May 13",
+      "doi": "10.1053/j.jvca.2021.12.027",
+      "tier": "filtered",
+      "topics": [
+        "Cardiac Arrest",
+        "Haemorrhage"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "ROTEM",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "fibrinogen",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "ECMO",
+          "strength": "strong",
+          "topic": "Cardiac Arrest"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42129914/"
+    },
+    {
+      "pmid": "42128454",
+      "title": "Prophylactic tranexamic acid for the prevention of postpartum haemorrhage in women with placenta praevia: multicentre, double blind, randomised, placebo controlled, phase 3 trial.",
+      "abstract": "**OBJECTIVE**: To investigate whether prophylactic tranexamic acid reduces the incidence of postpartum haemorrhage in women with placenta praevia compared with placebo.\n\n**DESIGN**: Randomised, double blind, placebo controlled, phase 3 study.\n\n**SETTING**: 24 maternity units across China between July 2023 and March 2025.\n\n**PARTICIPANTS**: 1732 women with placenta praevia undergoing caesarean delivery.\n\n**INTERVENTIONS**: Participants were randomly (1:1) assigned to receive prophylactic oxytocin and either tranexamic acid (1 g in 10 mL) or placebo (10 mL normal saline) diluted in 40 mL normal saline intravenously over 10 minutes, initiated within five minutes of umbilical cord clamping.\n\n**MAIN OUTCOME MEASURES**: The primary outcome was postpartum haemorrhage, defined as calculated estimated blood loss \u22651000 mL or as red cell transfusion within two days after delivery. Serious adverse events included thromboembolic events, seizures, acute kidney or liver injury, and maternal death.\n\n**RESULTS**: Of 1732 women with placenta praevia who were randomised, 38 were excluded because they withdrew consent or were determined to be ineligible after randomisation. Primary outcome data were available for 99.8% (1691/1694) of the remaining women. Placenta accreta spectrum was diagnosed in 303 participants (17.9%). The primary outcome occurred in 29.7% (251/845) of the tranexamic acid group and 35.1% (297/846) of the placebo group (relative risk 0.85, 95.2% confidence interval (CI) 0.75 to 0.96; P=0.01). The rates of serious adverse events were similar between the tranexamic acid group and placebo group (0.5% (4 of 837) \n\n**CONCLUSIONS**: In women with placenta praevia who underwent caesarean delivery and received prophylactic oxytocin, treatment with tranexamic acid resulted in a statistically significant yet modest reduction in the incidence of postpartum haemorrhage, with no signal of increased serious adverse events.\n\n**TRIAL REGISTRATION**: ClinicalTrials.gov NCT05811676.",
+      "journal": "BMJ",
+      "authors": [
+        "Zhang L",
+        "Bi S",
+        "Chen L",
+        "Du L",
+        "He F",
+        "Qiao Y",
+        "Li Z",
+        "Zeng W",
+        "Zhao X",
+        "Chen X",
+        "Li X",
+        "Ding G",
+        "Zhou W",
+        "Sun B",
+        "Guo Q",
+        "Guo X",
+        "Jin F",
+        "Wang X",
+        "Zhu Q",
+        "Sun Q",
+        "Jiang S",
+        "Wang X",
+        "Cai F",
+        "Jiang Y",
+        "Gao J",
+        "Wang Z",
+        "Wang Z",
+        "Zhang L",
+        "Liu JM",
+        "Huang L",
+        "Yu L",
+        "Chen J",
+        "Zhang S",
+        "Poon LC",
+        "Li HT",
+        "Chen D"
+      ],
+      "date": "2026 May 13",
+      "doi": "10.1136/bmj-2026-089636",
+      "tier": "filtered",
+      "topics": [
+        "Haemorrhage"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "tranexamic acid",
+          "strength": "strong",
+          "topic": "Haemorrhage"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42128454/"
+    },
+    {
+      "pmid": "42127389",
+      "title": "Endovascular Treatment of Medium-Vessel-Occlusion Strokes.",
+      "abstract": "**BACKGROUND**: Endovascular thrombectomy for acute ischemic stroke due to medium-vessel occlusion has had varying results across trials. Whether thrombectomy improves functional outcomes in patients with medium-vessel occlusion and moderate-to-severe deficits is unclear.\n\n**METHODS**: We conducted an open-label, randomized trial with blinded outcome assessment at 48 centers in China. Eligible patients were adults who presented within 24 hours after the onset of a moderate-to-severe stroke (National Institutes of Health Stroke Scale [NIHSS] score, \u22656; scale, 0 to 42, with higher scores indicating greater neurologic deficits) due to occlusion of a medium vessel. Patients were assigned in a 1:1 ratio to thrombectomy plus medical management (thrombectomy group) or medical management alone (control group). The primary outcome was functional disability as measured by the shift in the modified Rankin scale score (scale, 0 [no disability] to 6 [death]) at 90 days. Violation of the proportional-odds assumption precluded the use of shift in the modified Rankin scale score, so as prespecified, functional independence (modified Rankin scale score of 0, 1, or 2) at 90 days was used as the primary outcome. Safety outcomes were symptomatic intracranial hemorrhage and 90-day mortality.\n\n**RESULTS**: Among 280 patients in the thrombectomy group and 283 in the control group, the median age was 71 years, the median NIHSS score was 10 (range, 3 to 36), and 42.8% were women; 36.6% received intravenous thrombolysis. Functional independence at 90 days was seen in 58.6% of the patients in the thrombectomy group and in 46.6% of those in the control group (adjusted rate ratio, 1.24; 95% confidence interval, 1.07 to 1.44; P\u2009=\u20090.004). The incidence of symptomatic intracranial hemorrhage was 4.7% in the thrombectomy group and 2.2% in the control group; 90-day mortality was 11.1% and 10.2%, respectively.\n\n**CONCLUSIONS**: Among patients with acute ischemic stroke due to medium-vessel occlusion and moderate-to-severe deficits, thrombectomy led to a greater likelihood of functional independence than medical management alone but also to a higher risk of symptomatic intracranial hemorrhage. (Funded by the National Natural Science Foundation of China and the Noncommunicable Chronic Diseases-National Science and Technology Major Project; ORIENTAL-MeVO ClinicalTrials.gov number, NCT06146790.).",
+      "journal": "N Engl J Med",
+      "authors": [
+        "Hu W",
+        "Jing X",
+        "Chen Z",
+        "Zheng J",
+        "Yi T",
+        "Zheng T",
+        "Li Z",
+        "Liu J",
+        "Cui T",
+        "Wen J",
+        "Feng G",
+        "Song C",
+        "Yang L",
+        "Jiang S",
+        "Tong L",
+        "Jiang C",
+        "Ruan Z",
+        "Zhou P",
+        "Wang S",
+        "Wang T",
+        "Zhou Z",
+        "Ren Y",
+        "Qiu T",
+        "Zheng C",
+        "Wang H",
+        "Liu Y",
+        "Luo Y",
+        "Wang J",
+        "Ma Z",
+        "Mei B",
+        "Liang Y",
+        "Zhu Y",
+        "Li R",
+        "Sun J",
+        "Wang L",
+        "Zhang C",
+        "Liu T",
+        "Song J",
+        "Tao C",
+        "Wang A",
+        "Wang J",
+        "Xu P",
+        "Guo X",
+        "Shu L",
+        "Qureshi AI",
+        "Nguyen TN",
+        "AbdalKader M",
+        "Saver JL",
+        "Chen W",
+        "Nogueira RG"
+      ],
+      "date": "2026 May 14",
+      "doi": "10.1056/NEJMoa2514120",
+      "tier": "filtered",
+      "topics": [
+        "TBI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "intracranial haemorrhage",
+          "strength": "weak",
+          "topic": "TBI"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42127389/"
+    },
     {
       "pmid": "42126572",
       "title": "Changes in operative and in-hospital outcome of proximal femoral fractures before and after the implementation of work hour restrictions in Switzerland.",
@@ -3149,7 +3434,7 @@
     {
       "pmid": "42084378",
       "title": "Lumbar Puncture Opening Pressure and Continuous Intracranial Pressure Monitoring: Concordance and Clinical Implications in Idiopathic Intracranial Hypertension.",
-      "abstract": "**BACKGROUND AND OBJECTIVES**: Lumbar puncture (LP) remains a standard diagnostic tool for assessing intracranial pressure (ICP) in idiopathic intracranial hypertension (IIH), yet it provides only a single static measurement that may not reflect dynamic pressure fluctuations. Although continuous ICP monitoring (ICPm) offers real-time assessment of postural and circadian variability, the relationship between LP and ICPm measurements done after nondiagnostic LP remains unclear.\n\n**METHODS**: We retrospectively reviewed adult patients with IIH at a single center (2016-2023) who underwent ICPm within 9 months of an LP without intervening therapies affecting ICP. Continuous ICPm recordings were analyzed across postures and tilt angles and compared with LP opening pressures using Spearman correlation, Bland-Altman analysis, and categorical concordance of normal, high-, and low-pressure classifications.\n\n**RESULTS**: Eighty-one patients met inclusion criteria (mean age 38.1 \u00b1 11.8 years, 87.7% female, mean body mass index 34.7 \u00b1 8.8 kg/m2). LP identified elevated pressure in 32 (39.5%) patients, while m categorized 10 (12.3%) as high, 18 (22.2%) as low, 8 (9.9%) as mixed, and 45 (55.6%) as normal. LP and ICPm values demonstrated only moderate correlation (\u03c1 = 0.37-0.51, P \u2264 .014) with a consistent negative bias, as LP pressures were 10 to 27 mm Hg higher than observed for ICPm. Discordance was notable in patients with low or mixed ICP profiles, in whom LP frequently yielded normal or elevated readings.\n\n**CONCLUSION**: LP and continuous ICPm are not interchangeable, as LP systematically overestimates parenchymal ICP and fails to capture postural and circadian variability. While LP remains useful for initial diagnosis, continuous ICPm provides a more comprehensive physiological assessment and may better guide management in IIH patients with persistent or ambiguous symptoms.",
+      "abstract": "**BACKGROUND AND OBJECTIVES**: Lumbar puncture (LP) remains a standard diagnostic tool for assessing intracranial pressure (ICP) in idiopathic intracranial hypertension (IIH), yet it provides only a single static measurement that may not reflect dynamic pressure fluctuations. Although continuous ICP monitoring (ICPm) offers real-time assessment of postural and circadian variability, the relationship between LP and ICPm measurements done after nondiagnostic LP remains unclear.\n\n**METHODS**: We retrospectively reviewed adult patients with IIH at a single center (2016-2023) who underwent ICPm within 9 months of an LP without intervening therapies affecting ICP. Continuous ICPm recordings were analyzed across postures and tilt angles and compared with LP opening pressures using Spearman correlation, Bland-Altman analysis, and categorical concordance of normal, high-, and low-pressure classifications.\n\n**RESULTS**: Eighty-one patients met inclusion criteria (mean age 38.1 \u00b1 11.8 years, 87.7% female, mean body mass index 34.7 \u00b1 8.8 kg/m 2 ). LP identified elevated pressure in 32 (39.5%) patients, while m categorized 10 (12.3%) as high, 18 (22.2%) as low, 8 (9.9%) as mixed, and 45 (55.6%) as normal. LP and ICPm values demonstrated only moderate correlation (\u03c1 = 0.37-0.51, P \u2264 .014) with a consistent negative bias, as LP pressures were 10 to 27 mm Hg higher than observed for ICPm. Discordance was notable in patients with low or mixed ICP profiles, in whom LP frequently yielded normal or elevated readings.\n\n**CONCLUSION**: LP and continuous ICPm are not interchangeable, as LP systematically overestimates parenchymal ICP and fails to capture postural and circadian variability. While LP remains useful for initial diagnosis, continuous ICPm provides a more comprehensive physiological assessment and may better guide management in IIH patients with persistent or ambiguous symptoms.",
       "journal": "Neurosurgery",
       "authors": [
         "Maroufi SF",
@@ -9301,555 +9586,6 @@
       ],
       "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41985386/"
-    },
-    {
-      "pmid": "41984450",
-      "title": "Intrawound Tobramycin Plus Vancomycin to Prevent Surgical Site Infection in Tibial Fractures: The TOBRA Randomized Clinical Trial.",
-      "abstract": "**IMPORTANCE**: Previous research has suggested that intrawound vancomycin powder reduces deep surgical site infections among patients with periarticular tibial fractures at high risk of infection. It is unknown whether the addition of tobramycin powder further decreases infection rates.\n\n**OBJECTIVE**: To compare whether the combination of tobramycin plus vancomycin vs vancomycin alone delivered as intrawound powder at the time of definitive fixation reduces deep surgical site infections.\n\n**DESIGN, SETTING, AND PARTICIPANTS**: Open-label, assessor-masked, randomized clinical trial conducted at 39 US trauma centers. Eligible patients were adults with an operatively treated periarticular tibial fracture (either tibial plateau or pilon) who met 1 of 3 criteria for elevated infection risk. Enrollment occurred between June 18, 2021, and December 12, 2024 (final follow-up, July 15, 2025).\n\n**INTERVENTIONS**: Intrawound tobramycin (1.2 g) plus vancomycin (1.0 g) powder vs intrawound vancomycin (1.0 g) powder delivered at the time of definitive fixation.\n\n**MAIN OUTCOMES AND MEASURES**: The primary outcome was a deep surgical site infection requiring surgical management within 182 days of definitive fracture fixation. Secondary outcomes included deep surgical site infections with pathogens that were gram-negative only, deep surgical site infections with at least 1 pathogen that was gram-positive, deep surgical site infections with polymicrobial cultures, deep surgical site infections with negative culture results, and cellulitis or skin infections treated only with antibiotics.\n\n**RESULTS**: Among the 1660 participants randomized, 1528 (mean age, 47.0 [SD, 14.3] years; 603 female [39.5%]; 925 male [60.5%]) were included in the primary analysis. Deep surgical site infections occurred in 51 of 753 participants (182-day probability, 7.4%) in the tobramycin plus vancomycin group and 47 of 775 participants (182-day probability, 6.6%) in the vancomycin alone group (hazard ratio, 1.11; 95% bayesian credible interval, 0.75-1.66; posterior probability of superiority, 29.7%). The threshold required for superiority was not reached for any secondary outcome.\n\n**CONCLUSIONS AND RELEVANCE**: Among patients with operatively treated periarticular tibial fractures at high risk of infection, adding intrawound tobramycin powder to vancomycin powder at the time of definitive fixation did not reduce deep surgical site infections compared with vancomycin powder alone.\n\n**TRIAL REGISTRATION**: ClinicalTrials.gov Identifier: NCT02227446.",
-      "journal": "JAMA",
-      "authors": [
-        "O'Toole RV",
-        "O'Hara NN",
-        "Carlini AR",
-        "Schrank GM",
-        "Chung S",
-        "Gary JL",
-        "Obremskey W",
-        "Matuszewski PE",
-        "Teague D",
-        "Natoli RM",
-        "Gitajn IL",
-        "Weaver MJ",
-        "Renninger CH",
-        "Levack AE",
-        "Degani Y",
-        "Collins SC",
-        "Weston-Farber E",
-        "Howe AL",
-        "Thompson RE",
-        "Castillo RC",
-        "Karunakar MA",
-        "Blum L",
-        "Harmer L",
-        "Hsu JR",
-        "Kempton LB",
-        "Phelps KD",
-        "Seymour RB",
-        "Sims SH",
-        "Acharya MS",
-        "Callahan H",
-        "Chavez-Araujo LM",
-        "Churchill C",
-        "Gambuzza MP",
-        "Haim KR",
-        "Ishman E",
-        "Kendall JS",
-        "Mullis ND",
-        "Young C",
-        "Pilson HT",
-        "Carroll EA",
-        "Goodman JB",
-        "Holden MB",
-        "Jones AL",
-        "Moon C",
-        "Lin CA",
-        "Marecek GS",
-        "Moffitt GB",
-        "Conlan T",
-        "George AV",
-        "Fisher LA",
-        "Mullin DS",
-        "Recendez CL",
-        "Aneja A",
-        "Brameier DT",
-        "Heng M",
-        "Ly TV",
-        "Stenquist DS",
-        "Suneja N",
-        "Wignakumar T",
-        "Borgida JS",
-        "Policicchio TJ",
-        "Hanson GR",
-        "Alese OM",
-        "Ricci WM",
-        "Behrens SB",
-        "Dvorzhinskiy A",
-        "Bilodeau RE",
-        "Klinger CE",
-        "Mullis BH",
-        "Jang Y",
-        "Lopas LA",
-        "McKinley TO",
-        "O'Neill DC",
-        "Szatkowski JP",
-        "Virkus WW",
-        "Hill LC",
-        "Gaski G",
-        "Hymes RA",
-        "Ahn J",
-        "Goch AM",
-        "Holzman M",
-        "Malekzadeh AS",
-        "Schulman JE",
-        "Rivera JC",
-        "Krause PC",
-        "Bridgman C",
-        "Cohen J",
-        "Eikani C",
-        "Chavez M",
-        "Kudulis M",
-        "Warner SJ",
-        "Achor TS",
-        "Choo A",
-        "Eastman JG",
-        "Kellam PJ",
-        "Boutte SJ",
-        "Guevara KD",
-        "Reid KR",
-        "Vallier HA",
-        "Tucci AV",
-        "Davis JM",
-        "Bell AC",
-        "Bonyun ME",
-        "Healey K",
-        "Li V",
-        "McKibben NS",
-        "Nascone J",
-        "Okhuereigbe D",
-        "Sciadini MF",
-        "Slobogean G",
-        "Zingas N",
-        "Kovvur M",
-        "Lawrence JE",
-        "Phipps H",
-        "Rudnicki J",
-        "Turner KE",
-        "Hayda R",
-        "Evans AR",
-        "Quinnan S",
-        "Benitez A",
-        "Rehman S",
-        "Soderquist MC",
-        "Townsend CB",
-        "Caroom C",
-        "Collins AC",
-        "Okwumabua E",
-        "Shaikh HS",
-        "Spitler CA",
-        "Agarwal A",
-        "Johnson MD",
-        "Haller JM",
-        "Marchand LS",
-        "Alfonso NA",
-        "Gorman MA",
-        "Charlton WM",
-        "Scott BR",
-        "Kraus KM",
-        "Meredith SJ",
-        "Talwar S",
-        "Bergin PF",
-        "Jha AJ",
-        "McGee S",
-        "Nehete PV",
-        "Pryor TA",
-        "Spears I",
-        "Chen AT",
-        "Kelley B",
-        "Nez NR",
-        "Ertl WJ",
-        "Hull BR",
-        "Blumenthal S",
-        "Patterson JT",
-        "Flynn C",
-        "Ross RC",
-        "Agarwal A",
-        "Weiss DB",
-        "Hadeed MM",
-        "Yarboro SR",
-        "Daoud T",
-        "McVey ED",
-        "Whiting PS",
-        "Domes C",
-        "Goodspeed DC",
-        "Kuhn GR",
-        "Boyce R",
-        "Libos A",
-        "Mitchell PM",
-        "Moreno-Diaz AF",
-        "Ponce RB",
-        "Stinner DJ",
-        "Tatman LM",
-        "Velasco-Castro J",
-        "Trochez K",
-        "Satpathy J",
-        "Zuelzer DA",
-        "Potter BK"
-      ],
-      "date": "2026 May 12",
-      "doi": "10.1128/CMR.1.1.54",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Orthopaedic"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "tibial fracture",
-          "strength": "weak",
-          "topic": "Orthopaedic"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41984450/"
-    },
-    {
-      "pmid": "41984218",
-      "title": "Comparison of CATCH, PECARN and CHALICE rules in children with minor head trauma.",
-      "abstract": "**PURPOSE**: The aim of this study is to prospectively compare the diagnostic performance of the PECARN, CATCH, and CHALICE clinical decision rules in pediatric patients presenting with minor head trauma, within a rural secondary-level emergency department characterized by limited resources, high patient volume, and restricted access to specialist physicians.\n\n**METHODS**: The study was designed as a prospective observational study. The PECARN, CATCH, and CHALICE clinical decision rules were applied to the patients included in the study, and the data were recorded. The data included in the study were statistically analyzed using the SPSS (Statistical Package for Social Sciences; SPSS Inc., Chicago, IL) 27 program. A value of p\u2009<\u20090.05 was considered statistically significant.\n\n**RESULTS**: A total of 1,032 patients were included in the study. The PECARN did not miss any of the 15 patients with pathological brain CT and had 100% sensitivity and 52.1% specificity. CATCH failed to detect pathological brain CT in 1 patient and had 93.3% sensitivity and 53.3% specificity. CHALICE failed to detect pathological brain CT in 2 patients, with 86.7% sensitivity and 87.8% specificity. Overall, PECARN was more successful in detecting pathological brain CT, but it also had a high false-positive brain CT rate.\n\n**CONCLUSION**: PECARN criteria are more sensitive than other criteria in predicting brain CT pathology, but they lead to a large number of brain CT scans. While the CHALICE criteria are beneficial in reducing unnecessary brain CT scans, they may miss positive cases.",
-      "journal": "Eur J Trauma Emerg Surg",
-      "authors": [
-        "Ferhatlar ME",
-        "Cumhur BA",
-        "Koca Y",
-        "Bozan O",
-        "Kalkan A"
-      ],
-      "date": "2026 Apr 15",
-      "doi": "10.1007/s00068-021-01859-x",
-      "tier": "core",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41984218/"
-    },
-    {
-      "pmid": "41983739",
-      "title": "Timely diagnosis and surgical source control remain the fundamental determinants of outcome in necrotizing soft tissue infections.",
-      "abstract": "",
-      "journal": "J Trauma Acute Care Surg",
-      "authors": [
-        "Sartelli M",
-        "Vallicelli C",
-        "Podda M",
-        "Coccolini F",
-        "Catena F"
-      ],
-      "date": "2026 Apr 15",
-      "doi": "10.1097/TA.0000000000004993",
-      "tier": "core",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41983739/"
-    },
-    {
-      "pmid": "41983720",
-      "title": "Hospital-based psychological consultation relates to post-discharge treatment engagement following violent injury.",
-      "abstract": "**BACKGROUND**: The field of trauma surgery has recognized the significant psychological distress and psychiatric comorbidity of trauma patients, and, increasingly, the critical role that psychological factors play in patients' long-term adjustment to injury. Patients experiencing violence-related injuries are at added risk of poor mental health outcomes. The current study sought to better understand the association between contact with a psychology consultation service during hospitalization for violently injured patients and post-discharge health care utilization.\n\n**METHODS**: A retrospective cohort study from 2016 to 2022 of adults older than or equal to 18 years with traumatic injuries was conducted at a level I trauma center in the US Midwest from 2017 to 2022. Trauma Registry and Electronic Medical Record (EMR) data were pulled for injury characteristics (injury severity score, length of hospital stay), receipt of inpatient psychological consultation, the total time spent with psychology services during the hospitalization, hospital readmission, emergency department visits, and outpatient injury-related and mental health visits. Four analyses of covariance (ANCOVA) examined differences in health care utilization outcomes between patients who received psychology consultations and those who did not. Further, linear regressions examined if total amount of psychology service time was associated with outcomes.\n\n**RESULTS**: A total of 3,322 patients (M age =34.55, SD=13.23) were admitted for a violence-related injury between 2016 and 2022. The results demonstrated that those with psychological consultations had more post-discharge injury-related appointments, mental health appointments, and ED visits, but not readmissions. Further, total time with inpatient mental health service predicted post-discharge injury-related and mental health service utilization.\n\n**CONCLUSIONS**: Results indicate that involvement with inpatient psychology services post-injury was associated with follow-up care attendance. With prior research showing patient engagement improving recovery outcomes, embedded psychological care may aid in reducing barriers to treatment both inpatient and post-discharge. ( J Trauma Acute Care Surg . 2026;00: 00-00. Copyright \u00a9 2026 Wolters Kluwer Health, Inc. All rights reserved).\n\n**LEVEL OF EVIDENCE**: Level III.",
-      "journal": "J Trauma Acute Care Surg",
-      "authors": [
-        "Timmer-Murillo SC",
-        "Bird CM",
-        "Schramm AT",
-        "McBain S",
-        "Jayan D",
-        "Schumann NR",
-        "Marks MR",
-        "Geier TJ"
-      ],
-      "date": "2026 Apr 15",
-      "doi": "10.1097/TA.0000000000004998",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "injury severity",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "trauma centre",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "trauma registry",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41983720/"
-    },
-    {
-      "pmid": "41983689",
-      "title": "The Fast and the Fragile: Neurosurgical Trauma in the Age of Micromobility.",
-      "abstract": "**BACKGROUND AND OBJECTIVES**: The rapid rise of electric and mechanical bikes and scooters has transformed urban transportation, but their neurosurgical consequences remain underexplored. This study aimed to evaluate micromobility-related injuries over time, examining mechanisms of injury, patient risk factors, injury patterns, and associated clinical outcomes at a Level-1 trauma center over a 5-year period.\n\n**METHODS**: We performed a retrospective review of patients who sustained micromobility-related injuries and presented to the Bellevue Hospital Center between 2018 and 2023. The cohort included riders of electric or mechanical bikes and scooters, as well as pedestrians struck by these devices. Key clinical variables and outcomes were compared across device types, both before and after propensity score matching. Unlike national database studies, this hospital-based analysis provides detailed clinical and neurosurgical outcome data.\n\n**RESULTS**: A total of 914 patients presented with micromobility-related injuries, accounting for 6.9% of all trauma admissions. Annual case volume and electric device involvement increased over time. The most common mechanism was collision with a motor vehicle (49.9%). Most patients (68.7%) required admission; 30.2% required intensive care. The median length of hospital stay was 3 days [IQR 1-5]. Half underwent a surgical intervention or procedure, and the overall mortality was 1.2%. Helmet use was low (31.7%). Pedestrians experienced the most severe outcomes, particularly when struck by electric devices. Injuries clustered during evening hours, suggesting modifiable environmental and behavioral risk factors.\n\n**CONCLUSION**: Micromobility-related trauma imposes a substantial neurosurgical burden, with frequent traumatic brain injury, intensive care unit utilization, and operative intervention. Unlike previous database studies, this hospital-based analysis provides detailed neurosurgical outcome data and identifies prevention targets-including helmet use, intoxication, and urban infrastructure-to reduce morbidity and resource utilization.",
-      "journal": "Neurosurgery",
-      "authors": [
-        "Weiss H",
-        "Ber R",
-        "Blacker M",
-        "Kim N",
-        "Orillac C",
-        "Balucani C",
-        "Huang PP"
-      ],
-      "date": "2026 May 01",
-      "doi": "10.1227/neu.0000000000003995",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Systems/QI",
-        "TBI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "trauma centre",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "traumatic brain injury",
-          "strength": "weak",
-          "topic": "TBI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41983689/"
-    },
-    {
-      "pmid": "41981632",
-      "title": "Fentanyl or Morphine? a qualitative investigation of solo responding paramedics\u00b4 decision-making in prehospital care.",
-      "abstract": "**BACKGROUND**: Solo responding unit (SRU) paramedics at Oslo University Hospital (OUH) can administer either morphine or fentanyl for prehospital pain management. Although both opioids are available, the choice between them is made by individual clinicians in time-critical situations, often with limited information, variable transport conditions, and minimal organisational feedback. Existing research has primarily focused on comparative efficacy and safety, while less attention has been paid to how paramedics reason in practice. This study explores the clinical, logistical, and organisational factors that influence SRU paramedics' opioid selection, how advantages and disadvantages of morphine and fentanyl are perceived, and how local norms and decision-making support shape practice.\n\n**METHODS**: This qualitative descriptive study employed three face-to-face focus groups with a total of 11 participants. The sessions were recorded, transcribed, and analysed thematically. The first author's dual role as an SRU paramedic was acknowledged and used reflexively to enhance the interpretation of the findings.\n\n**RESULTS**: The participants (1 female, 10 male, mean age 42\u00a0years, mean 19.6\u00a0years of ambulance experience from urban and rural regions within OUH) emphasised the role of personal experience and intuitive judgement in selecting between morphine and fentanyl. Fentanyl was favoured for rapid onset in acute traumatic pain or short transports, while morphine was selected for its longer duration in frail patients or lengthy transports. \"Ambulance truths\", informal, station-specific beliefs, filled gaps where formal guidance was lacking. Safety concerns existed for both drugs, although severe adverse events were rarely experienced by participants.\n\n**CONCLUSION**: SRU paramedics' opioid selection is shaped by an interplay of pharmacological reasoning, familiarity, organisational protocols, and cultural norms. The findings suggest that formalised training, streamlined documentation, and structured feedback mechanisms may support more consistent decision-making in prehospital analgesia.",
-      "journal": "Scand J Trauma Resusc Emerg Med",
-      "authors": [
-        "Gustavsen A",
-        "Simensen R"
-      ],
-      "date": "2026 Apr 15",
-      "doi": "10.1002/emp2.12940",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "Prehospital"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "traumatic",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "prehospital",
-          "strength": "strong",
-          "topic": "Prehospital"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41981632/"
-    },
-    {
-      "pmid": "41980803",
-      "title": "Telesimulation as a digital strategy for scaling trauma skills training for reach: a global partnership case study from India.",
-      "abstract": "Injuries account for 8.5% of global deaths, with 83% occurring in low and middle-income countries (LMICs). India faces a significant trauma burden, with 153\u2009972 road traffic fatalities in 2021, alongside a pronounced shortage of trained emergency care providers. Existing trauma training models, such as WHO-ICRC Basic Emergency Care and the Advanced Trauma Life Support course, while valuable, are resource-intensive. The COVID-19 pandemic has accelerated the adoption of virtual education, presenting an opportunity to scale trauma training in LMICs.This paper describes a novel, gamified trauma telesimulation activity designed to address these challenges. Using the each, Effectiveness, Adoption, Implementation and Maintenance framework, we assessed its reach, effectiveness, adoption, implementation and potential for maintenance. The activity involved 20 emergency medicine residents across four hospitals in India who participated in a competitive, single-elimination trauma simulation via Zoom. Scenarios focused on managing paediatric head trauma and adult polytrauma. A further 159 residents from 13 remote sites observed and contributed to scoring and debrief discussions. The initiative reached 179 trainees across 17 hospitals in 12 cities, spanning distances of over 2000 km. Adoption was facilitated by familiarity with online platforms, English as a shared language and stable connectivity. The model demonstrated feasibility for scaling trauma skills training in resource-limited settings. Future work should include mixed-methods evaluation, tracking clinical outcomes and establishing frameworks for local faculty to sustain delivery. Integrating telesimulation into national programmes and trauma registries may support broader health system strengthening. This model offers a promising, low-cost strategy to help address critical gaps in trauma training and workforce capacity in LMICs.",
-      "journal": "Emerg Med J",
-      "authors": [
-        "Gidwani S",
-        "Owens S",
-        "Mittal V",
-        "Varghese J",
-        "Jena NN",
-        "Ahluwalia T",
-        "Douglass K"
-      ],
-      "date": "2026 Apr 14",
-      "doi": "10.1136/emermed-2025-215074",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "polytrauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41980803/"
-    },
-    {
-      "pmid": "41980477",
-      "title": "Pelvic embolization in severely traumatized patients in hemorrhagic shock with pelvic fractures without contrast extravasation on the initial CT scan: A retrospective comparative study between three French centers.",
-      "abstract": "**INTRODUCTION**: Pelvic fractures complicated by hemorrhagic shock represent a major challenge in trauma management, particularly in the absence of active arterial bleeding (e.g., contrast extravasation or \"blush\") on computed tomography (CT). In this context, some teams advocate for non-selective arterial embolization, whereas others favor a watchful waiting strategy. The aim of this study was to compare, in patients with severe pelvic trauma and hemorrhagic shock, the impact of two strategies (i.e., non-interventional management versus systematic embolization) on red blood cell transfusion requirements within the first 24\u00a0h following admission.\n\n**MATERIALS AND METHODS**: This multicenter retrospective cohort study included adult patients (\u226518 years) admitted to the trauma resuscitation unit of three level-1 trauma centers. Patients were included in the study if they received at least two units of packed red blood cells (PRBCs) within 4\u00a0h of admission and if they had surrogates of shock (a lactate level > 5\u00a0mmol/L at admission or if they required vasopressor support within 4\u00a0h of injury). The exclusion criterion was the presence of arterial contrast extravasation (\"blush\") on CT. The primary outcome was the number of PRBC units transfused within the first 24\u00a0h. Secondary outcomes included 48-hour mortality, 30-day mortality, length of stay in the intensive care unit, total hospital length of stay, and duration of vasopressor therapy.\n\n**RESULTS**: A total of 165 patients were included between January 2015 and September 2022. In multivariable analysis, no significant difference was observed in the median number of PRBC units transfused within 24\u00a0h between the two strategies (3.0 [2.0; 6.5] vs. 3.0 [2.0;4.0]; p\u00a0=\u00a00.872). Similarly, no difference in 30-day mortality was identified (odds ratio 0.62, 95% confidence interval 0.25-1.67; p\u00a0=\u00a00.310). No significant differences were found in the duration of shock, vasopressor support, or early mortality.\n\n**CONCLUSION**: In patients with pelvic fractures complicated by hemorrhagic shock and without evidence of active arterial bleeding on CT, this study did not demonstrate the superiority of systematic embolization over a non-interventional management in terms of transfusion requirements or clinical outcomes.",
-      "journal": "Injury",
-      "authors": [
-        "Asselin E",
-        "Four\u00e9 G",
-        "Cont\u00e9 M",
-        "L'Huillier R",
-        "Lukaszewicz AC",
-        "Perez P",
-        "Lasocki S",
-        "Bouhours G",
-        "L\u00e9ger M",
-        "David JS",
-        "Abrard S"
-      ],
-      "date": "2026 Jun 1",
-      "doi": "10.1016/j.injury.2026.113273",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Haemorrhage",
-        "Pelvic",
-        "Prehospital"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "pelvic embolisation",
-          "strength": "strong",
-          "topic": "Pelvic"
-        },
-        {
-          "keyword": "haemorrhagic shock",
-          "strength": "strong",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "packed red blood cells",
-          "strength": "weak",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "trauma resuscitation",
-          "strength": "weak",
-          "topic": "Prehospital"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41980477/"
-    },
-    {
-      "pmid": "41980476",
-      "title": "The pararectus approach is a complementary option for lower lumbar vertebral body replacement: Clinical feasibility and anatomical considerations.",
-      "abstract": "**PURPOSE**: Lumbar vertebral body replacement (VBR) is indicated in unstable lumbar fractures with anterior column compromise but is technically demanding at the L4-L5 level due to high iliac crest position, large psoas muscle mass, and complex vascular anatomy. These factors may limit conventional lateral or direct anterior approaches. This study evaluated the feasibility, safety, anatomical characteristics, and radiographic outcomes of lumbar VBR performed via the pararectus approach.\n\n**METHODS**: We performed a retrospective single-center cohort study of adult patients undergoing lumbar VBR at L4 or L5 using the pararectus approach between 2013 and 2024. Clinical data included operative time, blood loss, perioperative complications, neurological outcomes, and reoperations. Preoperative computed tomography and serial radiographs (postoperative, 6 weeks, and 12 months) were analyzed to characterize psoas muscle morphology, vascular anatomy, iliac crest height, and radiographic stability, including lumbar lordosis, segmental alignment, and adjacent disc height indices.\n\n**RESULTS**: Seventeen patients (mean age 55 years) were included; indications were trauma in 8 patients (47%), deformity in 7 (41%), and tumor in 2 (12%). Mean isolated anterior operative time was 131\u00a0min and mean blood loss was 535\u00a0mL. No approach-related complications occurred, including neurovascular, urogenital, or peritoneal injuries. No new postoperative neurological deficits or ipsilateral hip flexor weakness were observed. One late revision for posterior rod failure occurred and was not attributable to the anterior approach. Anatomical analysis demonstrated large psoas cross-sectional areas, limited psoas-to-vessel distances, frequent high iliac crest overlap, and predominantly complex vascular configurations. Radiographic parameters, including lumbar lordosis, segmental sagittal and coronal alignment, and adjacent segment disc height indices, remained stable through 12 months, with no implant migration or cage protrusion.\n\n**CONCLUSIONS**: Lumbar VBR via the pararectus approach is feasible and safe in anatomically challenging cases, with low perioperative morbidity and maintenance of radiographic stability at mid-term follow-up. The pararectus approach represents a valuable complementary anterior option for lower lumbar VBR when conventional lateral or direct anterior techniques are limited.",
-      "journal": "Injury",
-      "authors": [
-        "Tinner C",
-        "Nachtsheim J",
-        "St\u00f6rrle P",
-        "H\u00e4ckel S",
-        "Keel MJB",
-        "Gewiess J"
-      ],
-      "date": "2026 Jun 1",
-      "doi": "10.1016/j.injury.2026.113279",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41980476/"
-    },
-    {
-      "pmid": "41980475",
-      "title": "Effectiveness of indocyanine green in assessing tissue perfusion in lower limb open fractures: A prospective pilot study.",
-      "abstract": "**BACKGROUND**: Lower limb open fractures (LLOFs) represent complex injuries in which accurate intraoperative assessment of tissue viability is crucial to prevent infection, necrosis, and delayed healing. Clinical evaluation of perfusion is subjective and may underestimate ischemic areas, especially in high-energy trauma. Indocyanine green (ICG) fluorescence angiography provides a real-time, objective visualization of tissue perfusion and may optimize surgical decision-making during debridement.\n\n**MATERIALS AND METHODS**: This prospective, single-center case series included patients with Gustilo-Anderson type III open fractures and/or severe degloving injuries who underwent bone and soft-tissue reconstruction between March 2024 and July 2025. Tissue viability was first assessed clinically and then with ICG fluorescence angiography (SPY/Spy-PHI\u00ae system). Areas with <\u00a040% relative fluorescence were considered hypoperfused. Discrepancies between clinical and ICG-defined debridement margins were measured, and postoperative outcomes were recorded.\n\n**RESULTS**: Eight patients (ten traumatic wounds) were included. In six wounds, ICG-guided assessment modified surgical debridement compared with clinical evaluation, while two showed identical margins and two were treated by clinical assessment alone. The mean ICG-defined area was 114% larger than the clinically defined area (95% CI 7.8-220.6; p\u00a0=\u00a00.038). Postoperative skin necrosis occurred in 3 of 10 wounds (30%): 2 of 2 managed clinically and 1 of 8 managed with ICG guidance. No ICG-related adverse events were recorded. At four weeks, 6 of 8 wounds (75%) in the ICG-guided group achieved complete healing, whereas none in the clinical group did. All soft-tissue defects healed within six months, and radiographic union occurred in 9 of 10 fractures.\n\n**DISCUSSION**: ICG fluorescence angiography enhanced intraoperative discrimination of viable from hypoperfused tissue, expanding debridement where occult ischemia was present and avoiding unnecessary excision of viable tissue. The technique improved early wound healing and reduced necrosis compared with standard clinical assessment, though the sample size limits statistical power and generalizability.\n\n**CONCLUSIONS**: ICG fluorescence angiography is a safe, feasible, and objective adjunct to clinical evaluation in the management of LLOFs. Its integration into orthoplastic trauma surgery may reduce early complications and improve wound outcomes. Larger controlled studies are warranted to validate perfusion thresholds and confirm clinical benefit.",
-      "journal": "Injury",
-      "authors": [
-        "Cetani E",
-        "Iurilli M",
-        "Ramella V",
-        "Canton G",
-        "Trobec B",
-        "Zanata A",
-        "Papa G",
-        "Murena L",
-        "Ratti C"
-      ],
-      "date": "2026 Jun 1",
-      "doi": "10.1016/j.injury.2026.113259",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Orthopaedic"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "open fracture",
-          "strength": "strong",
-          "topic": "Orthopaedic"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41980475/"
     }
   ]
 }
