@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-14T21:03:50.029073Z",
-  "total_articles": 249,
+  "generated": "2026-05-15T20:52:35.542686Z",
+  "total_articles": 242,
   "all_topics": [
     "Abdominal",
     "Burns",
@@ -379,6 +379,131 @@
   },
   "articles": [
     {
+      "pmid": "42135853",
+      "title": "Non-elective colectomy for diverticulitis in the U.S.: a retrospective comparison of robotic, laparoscopic, and open approaches.",
+      "abstract": "**BACKGROUND**: Minimally invasive techniques are increasingly used in emergency surgery, including in acute diverticulitis. While studies have shown that laparoscopic colectomy in the emergent/urgent management of acute diverticulitis has better outcomes compared to open surgery, data on robotic surgery outcomes remain limited. This study aims to compare the outcomes of patients with acute diverticulitis requiring non-elective operations across open, laparoscopic, and robotic surgical approaches.\n\n**METHODS**: A retrospective analysis from the Premier healthcare database (2019-2023) was conducted, including patients undergoing non-elective left or sigmoid colectomy for acute diverticulitis. Emergency surgery was defined as colectomy performed within 48\u00a0h from admission; urgent surgery was defined as colectomy performed between 2 and 12\u00a0days after admission. Our primary outcome was conversion to open surgery. Secondary outcomes included anastomotic leak, stoma creation during the index operation, stoma creation within 30\u00a0days from surgery, hospital length of stay, readmission and reoperation rates. Propensity Score Matching (PSM) 1:1 was applied to adjust for patient demographics, comorbidities, disease severity and hospital/surgeon characteristics.\n\n**RESULTS**: A total of 28,456 patients were included in the analysis [17,934 (63%) emergent; 10,522 (37%) urgent surgery]. Open surgery was the predominant modality (77.6% emergent; 63.2% urgent) with robotic surgery use increasing threefold during the study period. On univariate analysis, emergent surgery was more common in patients requiring ICU admission and patients with associated peritoneal abscess. Robotic surgery was more common in younger patients, with fewer comorbidities, as well as in urban mid-size institutions. After PSM, robotic surgery was associated with lower rates of conversion to open surgery compared to laparoscopic surgery (emergent setting: 10.2% vs 22.6%, p-value\u2009<\u20090.001; urgent setting: 13% vs 27.8%, p-value\u2009<\u20090.001). Patients undergoing robotic surgery also had lower rates of stoma creation at index operation, and shorter hospital stay compared to laparoscopic surgery (emergent and urgent operations). In emergent colectomies only, robotic surgery was associated with a 29% relative-risk reduction of anastomotic leaks [laparoscopic 9.6% vs. 6.8%, p-value\u2009=\u20090.029].\n\n**CONCLUSIONS**: The robotic platform is expanding rapidly within the emergency general surgery patient population. Robotic colectomy for non-elective diverticulitis is a safe and feasible option with improved post-operative outcomes when compared to laparoscopic surgery.",
+      "journal": "World J Emerg Surg",
+      "authors": [
+        "Naar L",
+        "Waghmare PH",
+        "Shih IF",
+        "Wren SM"
+      ],
+      "date": "2026 May 14",
+      "doi": "10.1186/s13017-026-00700-3",
+      "tier": "core",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42135853/"
+    },
+    {
+      "pmid": "42135838",
+      "title": "Severity-guided management of esophageal perforation: a retrospective cohort study supporting a pragmatic treatment algorithm.",
+      "abstract": "**BACKGROUND**: Esophageal perforation is a rare but life-threatening condition associated with high morbidity and mortality. Optimal management remains controversial, particularly regarding the indications for conservative, endoscopic, and surgical strategies.\n\n**METHODS**: We conducted a retrospective single-center cohort study including adult patients treated for esophageal perforation between January 2018 and November 2023. Patients were categorized into conservative management (CM) or surgical management (SM). Clinical presentation, etiology, treatment modalities, complications, and mortality were analyzed. A subgroup analysis compared esophageal preservation with esophagectomy within the surgical group.\n\n**RESULTS**: Fifty-eight patients were included (CM: n\u2009=\u200930; SM: n\u2009=\u200928). Patients in the SM group presented with significantly greater severity, including higher rates of mediastinitis (96.4% vs. 40%, p\u2009<\u20090.001), tachycardia (82.1% vs. 33.3%, p\u2009<\u20090.001), and vasopressor requirement (71.4% vs. 13.3%, p\u2009<\u20090.001). Severe complications were more frequent in the SM group (100% vs. 46.6%, p\u2009<\u20090.001), as was prolonged hospitalization (82.1% vs. 36.7%, p\u2009<\u20090.001). In-hospital mortality was similar between groups (21.4% vs. 20%, p\u2009=\u20090.89). Among surgically treated patients, esophagectomy was associated with higher mortality than esophageal preservation (50% vs. 10%, p\u2009=\u20090.02), likely reflecting greater baseline severity.\n\n**CONCLUSIONS**: Management of esophageal perforation is primarily driven by initial clinical severity and the extent of contamination. Stable patients may be successfully managed with conservative or endoscopic approaches, whereas surgery is required in unstable patients or in the presence of extensive contamination. When surgery is indicated, esophageal preservation should be preferred whenever feasible.",
+      "journal": "World J Emerg Surg",
+      "authors": [
+        "Poon C",
+        "Giger-Pabst U",
+        "Breteau I",
+        "Levesque E",
+        "Moussata D",
+        "Ephrem S",
+        "Ouaissi M",
+        "Michot N"
+      ],
+      "date": "2026 May 14",
+      "doi": "10.1186/s13017-026-00702-1",
+      "tier": "core",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42135838/"
+    },
+    {
+      "pmid": "42135805",
+      "title": "The role of freeze-dried plasma in a world of whole blood: a Canadian prehospital and transport perspective.",
+      "abstract": "**BACKGROUND**: Hemorrhage is the leading preventable cause of trauma death, and timely transfusion remains a major challenge in Canada, particularly in rural and remote regions where long transport times create \"blood deserts.\" Whole blood has re-emerged as the gold standard for resuscitation, but donor limitations, short shelf-life, and cold-chain requirements restrict its universal deployment.\n\n**ROLE OF FREEZE-DRIED PLASMA**: Freeze-dried plasma (FDP) offers a complementary solution with unique advantages for Canadian prehospital and transport systems. FDP is pathogen-reduced, shelf-stable for up to two years at room temperature, lightweight, and rapidly reconstituted at the point of care. Evidence from military and civilian studies demonstrates its logistical feasibility and safety, particularly in settings with prolonged transport times. FDP has been successfully integrated into NATO and Canadian Armed Forces operations and is increasingly recognized internationally as a practical adjunct to whole blood. In Canada, heterogeneous access to prehospital transfusion, high wastage rates of thawed plasma, and the inequities faced by Indigenous and remote communities highlight the urgent need for alternative strategies.\n\n**CONCLUSION**: FDP and whole blood are not competing but rather they are complementary therapies in a prehospital transfusion system. FDP represents a scalable, equitable, and operationally feasible option to extend balanced resuscitation to patients in rural and remote Canada. A coordinated national strategy, including regulatory approval, pilot projects, and outcome evaluation through networks such as CAN-PATT, is essential to move FDP from battlefield innovation to civilian standard of care.",
+      "journal": "Scand J Trauma Resusc Emerg Med",
+      "authors": [
+        "Peddle M",
+        "Trojanowski J",
+        "Nolan B"
+      ],
+      "date": "2026 May 14",
+      "doi": "10.1186/s13049-026-01629-x",
+      "tier": "core",
+      "topics": [
+        "General Trauma",
+        "Prehospital"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "prehospital",
+          "strength": "strong",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42135805/"
+    },
+    {
+      "pmid": "42135791",
+      "title": "Airway management skills and devices on Italian helicopter emergency medical service: a national survey.",
+      "abstract": "**BACKGROUND**: Airway management is a critical priority for HEMS teams, as failure to secure the airway remains a major determinant of mortality and long-term disability. The present study was designed to evaluate the variability of advanced airway management devices and medications availability across all HEMS units in Italy. In addition, crew composition and specialty training of HEMS personnel were assessed. As a whole, this survey aims at highlighting areas for improvement of airway management during HEMS operations.\n\n**METHODS**: This observational cross-sectional study was carried out between May and September 2024. A web-based questionnaire was distributed to all active HEMS bases in Italy. The questionnaire consisted of two main sections: Section A addressed the availability of basic and advanced airway management equipment and medications, whereas Section B focused on crew characteristics, including number, role, experience, and training. A composite index to capture \"airway preparedness\"\u00a0(API) was designed based on Difficult Airway Society 2025 guidelines. Selected items were assigned a weighted value and the final score ranged 0-40.\n\n**RESULTS**: Of 55 active HEMS bases, 48 completed the questionnaire (response rate: 87%). Manual ventilation devices, a direct laryngoscope, a complete set of Macintosh adult blades, an end-tidal CO\u2082 monitoring device, and supraglottic airway devices were consistently available. A videolaryngoscope was present in most bases (39, 81%). Either surgical or Seldinger cricothyroidotomy kits were present in 94%. Medications for rapid sequence intubation were universally available, although sugammadex was stocked in only 36 bases (75%). A physician was present in all surveyed units (100%). However, specific training in airway management was not provided in 37 bases (77%), and 44% did not require a minimum number of prior endotracheal intubations for new personnel. Only 13 bases (27%) reported the adoption of airway management guidelines for prehospital care. The mean\u2009\u00b1\u2009SD national API was 25.7\u2009\u00b1\u20097.4, ranging from a regional mean of 37\u2009\u00b1\u20091.4 to a regional mean of 11.2\u2009\u00b1\u20095.3.\n\n**CONCLUSION**: The study demonstrated substantial heterogeneity in equipment, personnel background, and training across Italian HEMS bases. Although only few bases reported adherence to specific guidelines, the devices and medications recommended in the literature for the management of unexpected difficult airways were widely available.",
+      "journal": "Scand J Trauma Resusc Emerg Med",
+      "authors": [
+        "Crimaldi F",
+        "Pastore M",
+        "Agarossi A",
+        "Stucchi R",
+        "Fiameni R",
+        "Perotti G",
+        "Fumagalli R",
+        "Ripoll-Gallardo A"
+      ],
+      "date": "2026 May 14",
+      "doi": "10.1186/s13049-026-01625-1",
+      "tier": "core",
+      "topics": [
+        "Prehospital",
+        "Procedures"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "cricothyroidotomy",
+          "strength": "weak",
+          "topic": "Procedures"
+        },
+        {
+          "keyword": "helicopter emergency",
+          "strength": "strong",
+          "topic": "Prehospital"
+        },
+        {
+          "keyword": "HEMS",
+          "strength": "weak",
+          "topic": "Prehospital"
+        },
+        {
+          "keyword": "prehospital",
+          "strength": "weak",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42135791/"
+    },
+    {
       "pmid": "42130336",
       "title": "Early surgical stabilization of multiple rib fractures: A data-derived timing threshold and the case for systems-based chest wall care.",
       "abstract": "",
@@ -408,7 +533,7 @@
     {
       "pmid": "42130329",
       "title": "The extended postoperative complication score: A dual-axis reporting plan for general surgery.",
-      "abstract": "**BACKGROUND**: Grading surgical complications and sequelae is of paramount importance for analyzing results and improving patient care and system performance and in optimizing resource allocation and use. Existing systems for surgical complication classification do not consistently account for baseline physiologic vulnerability and often conflate treatment intensity with clinical severity. This limitation reduces interpretability across diverse patient populations, particularly in emergency and elective general surgery.\n\n**METHODS**: A multidisciplinary expert panel conducted a modified Delphi process to develop a dual-axis classification system, the Extended Postoperative Complication Score (EPCS). This system stratifies patients preoperatively into three baseline classes (A, B, C) reflecting physiologic reserve and immunocompetence. Postoperative events are then graded by physiologic impact from Grade 0 (minor, no impact) to Grade IV (death). Sequelae, defined as anticipated events related to underlying pathology or chronic disease, are separately categorized. Representatives of the most relevant international emergency and trauma surgical associations were involved (World Society of Emergency Surgery, European Society for Trauma and Emergency Surgery, American Association for the Surgery of Trauma, Panamerican Trauma Society, EndoVascular and Trauma Management Society, Global Alliance for Infections in Surgery).\n\n**RESULTS**: The EPCS yields 18 mutually exclusive strata, combining five complication grades and three baseline classes, plus three sequelae codes. The matrix enables interpretable outcome reporting across settings, accounting for both event severity and host vulnerability. Expert consensus confirmed conceptual clarity and operational feasibility. The system allows applications to elective, urgent, and emergent operations, and is compatible with clinical audit, observational research, and pragmatic trials.\n\n**CONCLUSIONS**: The EPCS provides a structured, physiologically anchored method for postoperative complication stratification. Its dual-axis design may improve the validity of outcome comparisons and support real-world evaluation of surgical quality. Further validation is warranted through prospective multicenter implementation and time-bound observational methodologies. (J Trauma Acute Care Surg. 2026;100:700-706. Copyright \u00a9 2026 The Author(s). Published by Wolters Kluwer Health, Inc. on behalf of the American Association for the Surgery of Trauma.).",
+      "abstract": "**BACKGROUND**: Grading surgical complications and sequelae is of paramount importance for analyzing results and improving patient care and system performance and in optimizing resource allocation and use. Existing systems for surgical complication classification do not consistently account for baseline physiologic vulnerability and often conflate treatment intensity with clinical severity. This limitation reduces interpretability across diverse patient populations, particularly in emergency and elective general surgery.\n\n**METHODS**: A multidisciplinary expert panel conducted a modified Delphi process to develop a dual-axis classification system, the Extended Postoperative Complication Score (EPCS). This system stratifies patients preoperatively into three baseline classes (A, B, C) reflecting physiologic reserve and immunocompetence. Postoperative events are then graded by physiologic impact from Grade 0 (minor, no impact) to Grade IV (death). Sequelae, defined as anticipated events related to underlying pathology or chronic disease, are separately categorized. Representatives of the most relevant international emergency and trauma surgical associations were involved (World Society of Emergency Surgery, European Society for Trauma and Emergency Surgery, American Association for the Surgery of Trauma, Panamerican Trauma Society, EndoVascular and Trauma Management Society, Global Alliance for Infections in Surgery).\n\n**RESULTS**: The EPCS yields 18 mutually exclusive strata, combining five complication grades and three baseline classes, plus three sequelae codes. The matrix enables interpretable outcome reporting across settings, accounting for both event severity and host vulnerability. Expert consensus confirmed conceptual clarity and operational feasibility. The system allows applications to elective, urgent, and emergent operations, and is compatible with clinical audit, observational research, and pragmatic trials.\n\n**CONCLUSIONS**: The EPCS provides a structured, physiologically anchored method for postoperative complication stratification. Its dual-axis design may improve the validity of outcome comparisons and support real-world evaluation of surgical quality. Further validation is warranted through prospective multicenter implementation and time-bound observational methodologies. ( J Trauma Acute Care Surg . 2026;100:700-706. Copyright \u00a9 2026 The Author(s). Published by Wolters Kluwer Health, Inc. on behalf of the American Association for the Surgery of Trauma.).",
       "journal": "J Trauma Acute Care Surg",
       "authors": [
         "Coccolini F",
@@ -939,7 +1064,7 @@
         "Turc G",
         "Wang Y"
       ],
-      "date": "2026 May 08",
+      "date": "2026 May 16",
       "doi": "10.1016/S0140-6736(26)00757-9",
       "tier": "filtered",
       "topics": [
@@ -8177,7 +8302,7 @@
         "Bartos J",
         "Yannopoulos D"
       ],
-      "date": "2026 Apr 16",
+      "date": "2026 Jun 1",
       "doi": "10.1016/j.resuscitation.2026.111089",
       "tier": "filtered",
       "topics": [
@@ -8225,7 +8350,7 @@
         "Giani M",
         "Foti G"
       ],
-      "date": "2026 Apr 16",
+      "date": "2026 Jun 1",
       "doi": "10.1016/j.resuscitation.2026.111095",
       "tier": "filtered",
       "topics": [
@@ -9143,449 +9268,6 @@
       ],
       "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/41989245/"
-    },
-    {
-      "pmid": "41989040",
-      "title": "Geo-Mapping Using In-Hospital Massive Transfusion Data as a Method for Prehospital Blood Management for Trauma Patients.",
-      "abstract": "**BACKGROUND**: Prehospital whole blood (PHWB) transfusion improves outcomes in trauma patients, but blood products are a scarce and costly resource. We hypothesized that massive transfusion protocol (MTP) activation could be an indicator for trauma patients who might benefit from PHWB, and we used geo-mapping to identify high need zones.\n\n**STUDY DESIGN**: We retrospectively analyzed trauma registry data from five trauma centers in Omaha and Lincoln, Nebraska, including all patients who had MTP activated in the trauma bay from 6/1/2019-3/31/2025. Assault and motor vehicle crash (MVC) data was collected from the Nebraska Department of Transportation and local police databases. Incidence of MTP, assaults, and MVCs was mapped to identify the highest need zones. Chi-square tests of independence and Pearson and Spearman correlations compared MTP incidence by ZIP Code Tabulated Areas (ZCTA's) with known trauma events.\n\n**RESULTS**: A total of 338 MTP patients from Omaha and 89 from Lincoln were included. Geo-mapping revealed a greater need for PHWB in the downtown centers of both cities. Tests of independence showed significant associations between MTP incidence (Omaha: \u03c7\u00b2 = 741.22, df = 28, p < 0.001; Lincoln: \u03c7\u00b2 = 43.75, df = 13, p < 0.001). Spearman and Pearson correlations showed a positive linear correlation between MTP incidence and trauma incidence.\n\n**CONCLUSION**: Geo-mapping MTP data strongly correlated with known traumas, supporting MTP activation as a surrogate marker for PHWB need. This offers a novel method for cities to plan PHWB programs by determining high need zones and ensuring equitable and cost-effective distribution of scarce resources.",
-      "journal": "J Am Coll Surg",
-      "authors": [
-        "Barmettler NK",
-        "Knapp C",
-        "Raposo-Hadley AA",
-        "Kuncir EJ",
-        "Kemp K",
-        "Barrett C",
-        "Maginot ER",
-        "Boever J",
-        "Evans CH",
-        "Henry R"
-      ],
-      "date": "2026 Apr 16",
-      "doi": "10.1097/XCS.0000000000001896",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Haemorrhage",
-        "Prehospital",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "massive transfusion",
-          "strength": "strong",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "blood product",
-          "strength": "weak",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "prehospital blood",
-          "strength": "strong",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "prehospital",
-          "strength": "strong",
-          "topic": "Prehospital"
-        },
-        {
-          "keyword": "trauma registry",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41989040/"
-    },
-    {
-      "pmid": "41987276",
-      "title": "Sonorheometry to detect traumatic induced coagulopathy during initial management of trauma patients: an observational, multi-center study.",
-      "abstract": "**BACKGROUND**: In severe trauma 30% of the patients develop a trauma-induced coagulopathy (TIC), which is associated with higher mortality, massive transfusion and prolonged intensive care stay. Conventional coagulation assays present limitations to detect TIC, primarily due to delayed turnaround time. To enhance early management of TIC viscoelastic tests have been included into guidelines as a standard of care. The Quantra device, based on sonorheometry analysis, offers a rapid bedside assessment of coagulation but lacks validation in a trauma population. The aim of this study was to validate Quantra to detect TIC compared with standard blood coagulation test in severe trauma patients.\n\n**METHODS**: We performed a multicenter analysis of prospectively collected data (January 1, 2022-December 31, 2024) across four level-1 trauma centers. Trauma patients\u2009>\u200916 years underwent simultaneous Quantra and standard laboratory testing at hospital admission. Diagnostic performance for prespecified thresholds-activated partial thromboplastin time (aPTT) ratio\u2009>\u20091.5, prothrombin time ratio (PTr)\u2009>\u20091.5, fibrinogen\u2009\u2264\u20091.5 g/L, and platelet concentration\u2009\u2264\u200950,\u2009\u2264\u2009100, and\u2009\u2264\u2009150 G/L-was assessed by receiver operating characteristic curves in a derivation cohort, with Youden-optimized cutoffs applied to an external validation cohort to determine their specific positive and negative predictive values.\n\n**RESULTS**: The derivation and validation cohorts included 285 and 219 patients, respectively. In the derivation cohort, the areas under the curve (AUCs) were 0.91 [0.84-0.98] for clot time to predict an aPTT ratio\u2009>\u20091.5 with a best cutoff of 144.5s; 0.82 [0.75-0.90] for clot stiffness to predict a PTr\u2009>\u20091.5 (best cutoff 15.4hPa); 0.87 [0.81-0.93] for fibrinogen contribution to clot stiffness to predict a fibrinogen concentration\u2009<\u20091.5g/L (best cutoff 1.1hPa); 0.90 [0.84-0.95] for platelet contribution to clot stiffness to predict a platelets count\u2009\u2264\u2009100G/L (best cutoff 12.4hPa). In the validation cohort, positive predictive and negative predictive values for best cutoffs were 0.67 [0.50-0.80] and 1.00 [0.98-1.00] for clot time, 0.50 [0.39-0.61] and 0.88 [0.80-0.93] for clot stiffness, 0.58 [0.44-0.70] and 0.91 [0.85-0.95] for fibrinogen contribution to clot stiffness, 0.13 [0.24-0.99] and 0.99 [0.96-1.00] for platelets contribution to clot stiffness.\n\n**CONCLUSION**: Early Quantra analysis seems to provide rapid and reliable exclusion of TIC. Prospective investigations remain required to determine usefulness in TIC management.",
-      "journal": "Scand J Trauma Resusc Emerg Med",
-      "authors": [
-        "Duclos G",
-        "Seube Remy PA",
-        "Willig M",
-        "Boucekine M",
-        "Deregnaucourt C",
-        "Grosdidier C",
-        "Leblanc P",
-        "Garrigue D",
-        "Leone M"
-      ],
-      "date": "2026 Apr 15",
-      "doi": "10.1186/s13049-026-01610-8",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "Haemorrhage"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "massive transfusion",
-          "strength": "weak",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "trauma-induced coagulopathy",
-          "strength": "weak",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "fibrinogen",
-          "strength": "weak",
-          "topic": "Haemorrhage"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41987276/"
-    },
-    {
-      "pmid": "41986918",
-      "title": "The Impact of Trauma Center Care on One-Year Outcomes Among Injured Older Adults: A Population-Based Cohort Study.",
-      "abstract": "**OBJECTIVE**: To evaluate the impact of trauma center care on one-year mortality among injured older adults.\n\n**BACKGROUND**: Older adults represent the fastest growing population of injured patients, however the long-term benefit of trauma center care among these patients is unknown.\n\n**METHODS**: We performed a population-based cohort study of individuals age \u2265 65 with moderate or severe injuries (presence of an American College of Surgeons defined critical injury, Injury Severity Score [ISS] \u2265 9, or death within 24hrs) who presented to a hospital in Ontario, Canada between 2009-2020. Patients with isolated hip fractures were excluded. Differential distance between the nearest trauma and non-trauma centers was used in an adjusted instrumental variable analysis to estimate the impact of trauma center care on mortality. Stratified analyses were performed to evaluate the effect of age, injury severity, and isolated severe head injuries on the relationship between trauma center care and one-year outcomes.\n\n**RESULTS**: Among 55,799 injured older adults, 15,857 (28.4%) were treated at a trauma center. The overall one-year mortality was 27.4% (n=15,285). Adjusted analysis demonstrated that trauma center care was associated with a 3.5% (95% CI: 1.2-5.8%) absolute decrease in one-year mortality. The beneficial effect of trauma center care was consistent across age groups and both moderate and severe injuries. However, patients with isolated brain injuries appeared to derive no benefit from trauma center care (one-year mortality difference -1.3% [95% CI -4.1-1.5%]).\n\n**CONCLUSION AND RELEVANCE**: Among older adults with moderate or severe injuries, trauma center care was associated with reduced one-year mortality. These findings highlight the importance of trauma center care among older adults and suggest that a lower threshold for transfer of these patients may be beneficial.",
-      "journal": "Ann Surg",
-      "authors": [
-        "Tillmann BW",
-        "Guttman MP",
-        "Nathens AB",
-        "Mason SA",
-        "Pequeno P",
-        "Scales DC",
-        "Ho VP",
-        "Pechlivanoglou P",
-        "Haas B"
-      ],
-      "date": "2026 Apr 16",
-      "doi": "10.1097/SLA.0000000000007068",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Systems/QI",
-        "TBI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "injury severity",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "trauma centre",
-          "strength": "strong",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "head injury",
-          "strength": "weak",
-          "topic": "TBI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41986918/"
-    },
-    {
-      "pmid": "41986702",
-      "title": "Rethinking routine chest radiography after central venous catheterisation: a rapid review of current evidence and alternatives.",
-      "abstract": "",
-      "journal": "Eur J Trauma Emerg Surg",
-      "authors": [
-        "Orso D",
-        "Guglielmo N",
-        "Pangallo R",
-        "Montanar V",
-        "Favaro S",
-        "Bove T"
-      ],
-      "date": "2026 Apr 15",
-      "doi": "10.12788/jhm.2784",
-      "tier": "core",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41986702/"
-    },
-    {
-      "pmid": "41986106",
-      "title": "Diagnostic accuracy of the G-FAST score for detecting large vessel occlusion in suspected stroke patients: a systematic review and network meta-analysis.",
-      "abstract": "**BACKGROUND**: Early and accurate detection of large vessel occlusion (LVO) is essential for timely endovascular thrombectomy in acute ischaemic stroke. The Gaze-Face-Arm-Speech-Time (G-FAST) scale has been proposed as a potential prehospital screening tool for LVO than the Cincinnati Prehospital Stroke Scale (CPSS). This study systematically evaluates the diagnostic performance of G-FAST and compares it with CPSS.\n\n**METHODS**: A systematic review and network meta-analysis were conducted. A comprehensive literature search in PubMed, Embase and Scopus was performed up to 31 December 2024. Pooled sensitivity, specificity and area under the receiver operating characteristic curve (AUC) were estimated. Network meta-analysis was used to compare diagnostic performance across G-FAST\u22653, CPSS\u22652 and CPSS\u22653.\n\n**RESULTS**: 13 studies involving 12\u2009414 patients were eligible for inclusion in the meta-analysis of G-FAST. G-FAST \u22653 demonstrated pooled sensitivity and specificity of 73.3% (95% CI 66.2% to 79.4%) and 74.3% (95% CI 65.3% to 81.6%), respectively, with an AUC of 0.80. In the network meta-analysis (six studies, 7012 participants), CPSS \u22652 showed the highest pooled sensitivity (79.0%, 95%\u2009CI 60.4% to 90.3%) and pooled specificity (66.1%, 95%\u2009CI 40.6% to 84.7%), whereas CPSS \u22653 demonstrated higher specificity (83.8%, 95%\u2009CI 63.6% to 93.9%) but reduced sensitivity (63.4%, 95%\u2009CI 40.1% to 81.7%). G-FAST \u22653 showed a more balanced performance between sensitivity (71.6%, 95%\u2009CI 51.4% to 85.7%) and specificity (76.4%, 95%\u2009CI 53.8% to 90.0%), with a numerically higher specificity than CPSS \u22652. Overall, there were no statistically significant differences in diagnostic performance among the scales.\n\n**CONCLUSIONS**: G-FAST demonstrates moderate diagnostic accuracy for prehospital LVO detection, with performance comparable to traditional scales. Its use provides a feasible alternative for pre-hospital stroke triage, though further large-scale validation is warranted.\n\n**PROSPERO REGISTRATION NUMBER**: CRD42023477601.",
-      "journal": "Emerg Med J",
-      "authors": [
-        "Wang JJ",
-        "Lin HA",
-        "Huang HC",
-        "Lin YC",
-        "Lin SF"
-      ],
-      "date": "2026 Apr 15",
-      "doi": "10.1136/emermed-2025-215449",
-      "tier": "filtered",
-      "topics": [
-        "Prehospital"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "prehospital",
-          "strength": "weak",
-          "topic": "Prehospital"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41986106/"
-    },
-    {
-      "pmid": "41985614",
-      "title": "Hemodynamic effects of TEE-guided adjustment of the area of the maximal compressions during cardiopulmonary resuscitation.",
-      "abstract": "**BACKGROUND**: Real-time evidence on left ventricular (LV) parameters during cardiopulmonary resuscitation (CPR), especially before and after adjusting the area of maximal compression (AMC), is limited. This study used three-dimensional transesophageal echocardiography (3D-TEE) to assess LV parameters during resuscitation with and without AMC adjustment.\n\n**METHODS**: Adult patients with non-traumatic out-of-hospital cardiac arrest (OHCA) were prospectively enrolled. The AMC was identified by two-dimensional (2D)-TEE and LV end-diastolic volume (EDV), and end-systolic volume (ESV) were measured by 3D-TEE to derive stroke volume (SV) and ejection fraction (EF). If AMC aligned with the LV (AMC-LV group), chest compressions were continued; otherwise, the site was adjusted (AMC-non-LV group) for optimal LV alignment and measurements repeated. End-tidal carbon dioxide (EtCO\n\n**RESULTS**: Nineteen patients were included. The AMC was located over the LV in 4 patients (21%), while 15 patients (79%) required TEE-guided AMC adjustment. In the AMC-non-LV group, SV (9 vs. 28.6\u202fmL, p\u202f=\u202f0.004), EF (20.4 vs. 60.8%, p\u202f<\u202f0.0001) and EtCO2 (19 vs. 42\u202fmmHg, p\u202f<\u202f0.0001) increased significantly post-adjustment, reaching values comparable to the AMC-LV group. ROSC rates did not differ between the AMC-LV and AMC-non-LV groups (75% vs. 53%, p\u202f=\u202f0.603).\n\n**CONCLUSIONS**: 2D-TEE-guided identification and adjustment of AMC allowed targeted optimization of chest compressions. Approximately 80% of patients required AMC adjustment. 3D-TEE was used to quantify LV parameters. In patients undergoing AMC adjustment, significant improvements in SV and EF were observed, reaching levels comparable to those without adjustment.",
-      "journal": "Resuscitation",
-      "authors": [
-        "Chen CC",
-        "Chen TY",
-        "Lin LC",
-        "Wu CY",
-        "Wu MC",
-        "Hsu SH",
-        "Tay J",
-        "Lien WC"
-      ],
-      "date": "2026 Apr 14",
-      "doi": "10.1016/j.resuscitation.2026.111097",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "traumatic",
-          "strength": "weak",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41985614/"
-    },
-    {
-      "pmid": "41985390",
-      "title": "Invisible traces after traffic accidents: Psychological and behavioral consequences of physical Injuries.",
-      "abstract": "Road traffic crashes are sudden and traumatic events that extend beyond physical injuries, exerting profound adverse effects on individuals' cognitive, emotional, and social functioning. The literature demonstrates that survivors of road traffic crashes may develop a wide range of psychological responses, including Posttraumatic Stress Disorder (PTSD), Acute Stress Disorder, depression, anxiety, traumatic grief, dissociative disorders, sleep disturbances, and avoidance behaviors. The severity and course of these reactions vary depending on multiple factors, such as the nature and intensity of the crash, prior trauma history, personality traits, level of social support, and demographic characteristics. This narrative review examines the psychological and behavioral responses observed in traffic crash survivors, highlighting how these responses differ across developmental stages, the risk factors that contribute to their emergence, and the ways in which psychological intervention needs are shaped. Findings indicate that children and adolescents are particularly vulnerable to the psychological consequences of traffic crashes due to their developmental characteristics. Among psychosocial intervention methods, trauma-focused cognitive-behavioral therapy, Eye Movement Desensitization and Reprocessing (EMDR), group therapy, virtual reality-based exposure techniques, and psychoeducation programs have been found to be effective. Early psychological assessment, timely referral to appropriate intervention programs, and strengthening social support networks are crucial for preventing chronicity and promoting well-being. In conclusion, this review underscores that traffic crashes generate not only physical but also significant psychological and societal consequences. The assessment of multidimensional post-traumatic responses, the identification of risk and protective factors, and the implementation of evidence-based interventions address critical gaps in the literature and make substantial contributions to reducing the psychosocial burden associated with traffic accidents.",
-      "journal": "Injury",
-      "authors": [
-        "Erdo\u011fan-Y\u0131ld\u0131r\u0131m Z",
-        "Karaca S",
-        "Demir FC",
-        "Deke Z"
-      ],
-      "date": "2026 Jun 1",
-      "doi": "10.1016/j.injury.2026.113277",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic",
-          "strength": "weak",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41985390/"
-    },
-    {
-      "pmid": "41985389",
-      "title": "Duration of intensive care unit admission to maintain mean arterial pressure goals following acute traumatic spinal cord injury.",
-      "abstract": "**BACKGROUND**: Acute spinal cord injuries (SCIs) remain a devastating consequence of trauma. Treatment may involve administration of neuroprotective agents, surgery, and hemodynamic management. Hemodynamic management entails setting specific mean arterial pressure (MAP) goals to optimize perfusion of the spinal cord. Maintenance of MAP typically requires monitoring in the intensive care unit (ICU) and may necessitate vasopressor medications. This treatment utilizes significant resources. The objective of this study was to determine whether vasopressor requirements during the initial days of ICU admission are predictive of future need for these medications to maintain MAP goals in patients with SCI.\n\n**METHODS**: A retrospective review of a prospective database was performed to identify all adult patients who presented to a Level 1 academic medical center with SCI between 2016 and 2024. Patients were included if they were between the ages of 18 and 89, had a cervical or thoracic spinal cord injury, and were managed with a MAP goal of at least 85\u00a0mmHg for five days. Patients with injury to the conus medullaris or cauda equina were excluded. Data collected included baseline demographics, mechanism of injury, ICU admission details, MAP measurements, and vasopressor use. Fisher's exact test was used to calculate predicted probabilities for subsequent vasopressor administration.\n\n**RESULTS**: A total of 98 patients (median age 62.5 years, range: 18-89 years) were identified. Most patients (90.1%, n\u00a0=\u00a082) had an SCI involving the cervical spine. The median ICU length of stay was 6 days (range: 1-92 days). Among patients who did not require vasopressors within the first two days of ICU admission (n\u00a0=\u00a027), 88.9% (n\u00a0=\u00a024) did not require them subsequently. Furthermore, all patients (n\u00a0=\u00a024, 24.5%) who did not require vasopressors within the first three days of ICU admission did not need them thereafter.\n\n**CONCLUSION**: Patients with SCI who did not require vasopressors to maintain a MAP of at least 85\u00a0mmHg during the initial two days of ICU stay were unlikely to subsequently need them. This finding can assist providers in improving resource allocation and bed assignment for patients with SCI in the ICU.\n\n**LEVEL OF EVIDENCE**: III.",
-      "journal": "Injury",
-      "authors": [
-        "Puvanesarajah V",
-        "Goheer HE",
-        "Botros M",
-        "Yang PT",
-        "Ramirez G",
-        "Papadakos PJ",
-        "Rubery PT"
-      ],
-      "date": "2026 Jun 1",
-      "doi": "10.1016/j.injury.2026.113283",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Spine"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "spinal cord injury",
-          "strength": "strong",
-          "topic": "Spine"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41985389/"
-    },
-    {
-      "pmid": "41985388",
-      "title": "Variations in the length and anatomy of the common iliac vessels and their clinical consideration during anterior pelvic approaches.",
-      "abstract": "The bifurcation and confluence of the common iliac vessels and their course are critical considerations for safe surgical acetabular fracture repair. Anatomical variations in the expected placement of these vessels have been associated with intraoperative complications, including hemorrhage. The purpose of this study was therefore to define vertebral levels of bifurcation and confluence of the common iliac vessels and trace their passage across the quadrilateral plate, a surgically significant landmark. The findings revealed 57% and 11% of bifurcation and confluence, respectively, were located at vertebral levels higher than the commonly reported level of L4. Variations were also more common than previous reports, with the current study observing cases of absent common iliac veins and aberrant communicating veins. The course trajectories revealed 10.6% of the study sample would have been predisposed to surgical complications involving the common iliac vessels.",
-      "journal": "Injury",
-      "authors": [
-        "Cronj\u00e9 J",
-        "Naicker J",
-        "Matshidza S",
-        "Tshabalala ZN",
-        "Mogale N"
-      ],
-      "date": "2026 Jun 1",
-      "doi": "10.1016/j.injury.2026.113284",
-      "tier": "filtered",
-      "topics": [],
-      "keyword_matches": [],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41985388/"
-    },
-    {
-      "pmid": "41985387",
-      "title": "Post pelvic binder radiograph can identify bladder injury associated with pelvic trauma: A multi-centre observational study.",
-      "abstract": "**BACKGROUND**: As per current British Orthopaedic Association Standards for Trauma (BOAST), all patients presenting with pelvic fractures should undergo a contrasted Computer Tomography (CT) scan and post binder removal X-ray (PBXR). According to those guidelines, retrograde cystography is recommended to investigate suspected bladder injury. However, retrograde cystography is an invasive procedure that is not easy to perform in polytrauma patients. We hypothesise that timely PBXR can show contrast accumulation in the bladder which may help detect bladder or urethra injuries.\n\n**AIM**: This paper evaluates whether patterns of contrast within the bladder or extravasating on the PBXR indicate associated urological injury. It also examines if catheterisation and timing of the PBXR affects diagnostic ability.\n\n**METHODS**: Patients with pelvic ring and/or acetabulum fractures were retrospectively identified from Electronic Patient Records of two Level 1 Trauma centres (July 2021 to December 2024). PBXRs were analysed to determine the contrast pattern and to look for extravasation. Patterns were correlated with bladder injury findings from urological investigations or intra-operative findings. Catheterisation and CT-PBXR time interval were recorded.\n\n**RESULTS**: Of the 601 patients with pelvic fracture, 186 underwent a CT scan followed by PBXR. Five (2.69%) patients had confirmed bladder injury. Contrast extravasation was visible on PBXR in 4 (80%) patients with bladder injury (p\u00a0<\u00a00.001). Of the 181 patients without bladder injury, none of them showed contrast extravasation and 122 (67%) had contrast visible within the bladder. In patients without bladder injury, 47 (25.97%) were catheterised, which was associated with less commonly seeing contrast filling the bladder when compared to those without a catheter (p\u00a0=\u00a00.005). PBXR performed within 10\u00a0h of CT scan was associated with a significantly higher rate of contrast-filled bladder (85.82%) than those performed more than 10\u00a0h after CT scan (14.89%) (p\u00a0<\u00a00.001). There was also significant correlation between those with a catheter and having a bladder injury (p\u00a0=\u00a00.021).\n\n**CONCLUSIONS**: Visible contrast extravasation on PBXR correlates strongly with bladder injury associated with pelvic trauma. This is more reliable when patients are not catheterised and PBXR is performed within 10\u00a0h of CT scan. Timely PBXR after contrasted CT can identify patients who would benefit from expedited urological referral. Further prospective investigation is warranted.",
-      "journal": "Injury",
-      "authors": [
-        "Butler A",
-        "Sanchez-Cozar L",
-        "Heathcote C",
-        "Ahmed E",
-        "Hassan S",
-        "Smith SR",
-        "Moore K",
-        "Kempanna V",
-        "Gill I",
-        "Iqbal M",
-        "Alsousou J"
-      ],
-      "date": "2026 Jun 1",
-      "doi": "10.1016/j.injury.2026.113272",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Pelvic"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "polytrauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "pelvic fracture",
-          "strength": "weak",
-          "topic": "Pelvic"
-        },
-        {
-          "keyword": "pelvic binder",
-          "strength": "strong",
-          "topic": "Pelvic"
-        },
-        {
-          "keyword": "pelvic ring",
-          "strength": "weak",
-          "topic": "Pelvic"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41985387/"
-    },
-    {
-      "pmid": "41985386",
-      "title": "Incidence and independent predictors of heterotopic ossification after posterior acetabular fixation without routine prophylaxis: A large cohort study.",
-      "abstract": "**INTRODUCTION**: Heterotopic ossification (HO) is a frequent complication of acetabular fracture fixation; however, the optimal strategy for prophylaxis remains controversial. This study aimed to evaluate the incidence and clinical course of HO after posterior acetabular fixation performed without routine prophylaxis, and to identify independent predictors of its development.\n\n**MATERIALS AND METHODS**: A cohort of 257 consecutive patients who underwent acetabular fracture fixation via the Kocher-Langenbeck approach between 2001 and 2023 at a Level I trauma center was retrospectively analyzed. No routine postoperative prophylaxis with non-steroidal anti-inflammatory drugs or radiation therapy was administered. The patients were followed up for a minimum of 12 months (mean, 53 months). HO was graded according to the Brooker classification. Potential risk factors for HO development were examined using univariate and multivariate logistic regression analyses.\n\n**RESULTS**: HO developed in 34 (13.2%) patients, with 23 (9.0%) demonstrating clinically significant HO (Brooker grade III or IV). Radiographic HO was first detected at a mean of 6.7 weeks postoperatively. Among the patients with HO, seven (20.6%) developed painful ankylosis requiring surgical excision at a mean of 11.5 months after diagnosis: one had Brooker grade III HO and six had grade IV HO. Univariate analysis demonstrated significant associations between HO and traumatic brain injury, mechanical ventilation, traumatic hip dislocation, femoral head fracture, and retained intra-articular debris (all p\u00a0<\u00a00.05). After adjustment for confounding factors, traumatic brain injury (odds ratio [OR], 6.98; 95% confidence interval [CI] 3.03-16.08), mechanical ventilation (OR, 9.49; 95% CI, 3.70-24.32), and retained intra-articular debris (OR, 7.42; 95% CI, 3.01-18.29) remained independent predictors, whereas hip dislocation and femoral head fracture were no longer significant.\n\n**DISCUSSION**: In this cohort, posterior acetabular fixation without routine prophylaxis was associated with a relatively low incidence of clinically significant HO, comparable to the rates reported in a contemporary series. HO development is primarily associated with markers of systemic injury severity and the presence of retained intra-articular debris. These findings suggest that risk stratification based on injury severity and meticulous intra-articular management may be appropriate for determining the need for HO prophylaxis.",
-      "journal": "Injury",
-      "authors": [
-        "Yoon YC",
-        "Oh CW",
-        "Han SR",
-        "Son SW",
-        "Kim JW"
-      ],
-      "date": "2026 Jun 1",
-      "doi": "10.1016/j.injury.2026.113264",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Systems/QI",
-        "TBI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "injury severity",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "trauma centre",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "traumatic brain injury",
-          "strength": "weak",
-          "topic": "TBI"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41985386/"
     }
   ]
 }
