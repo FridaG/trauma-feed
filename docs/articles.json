@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-17T20:40:00.150321Z",
-  "total_articles": 224,
+  "generated": "2026-05-18T21:03:08.063175Z",
+  "total_articles": 219,
   "all_topics": [
     "Abdominal",
     "Burns",
@@ -379,6 +379,134 @@
   },
   "articles": [
     {
+      "pmid": "42149249",
+      "title": "What is your diagnosis? Severe barotrauma supported with VV-ECMO.",
+      "abstract": "",
+      "journal": "Intensive Care Med",
+      "authors": [
+        "Presa Orue A",
+        "Lasa-Berasain P",
+        "Ruiz Lucea J",
+        "P\u00e9rez Del Barrio A",
+        "Mart\u00ednez San Jos\u00e9 N"
+      ],
+      "date": "2026 May 18",
+      "doi": "10.1053/j.jvca.2023.12.025",
+      "tier": "filtered",
+      "topics": [
+        "Cardiac Arrest"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "ECMO",
+          "strength": "strong",
+          "topic": "Cardiac Arrest"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42149249/"
+    },
+    {
+      "pmid": "42148586",
+      "title": "When Seconds Matter: Rethinking Persistence in Peripheral Intravenous Access Attempt for Trauma Patients in Hemorrhagic Shock.",
+      "abstract": "",
+      "journal": "J Am Coll Surg",
+      "authors": [
+        "Gallagher SP",
+        "Puzio TJ"
+      ],
+      "date": "2026 May 18",
+      "doi": "10.1097/XCS.0000000000002041",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Haemorrhage"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "haemorrhagic shock",
+          "strength": "strong",
+          "topic": "Haemorrhage"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42148586/"
+    },
+    {
+      "pmid": "42145275",
+      "title": "Thromboelastography (TEG) or thromboelastometry (ROTEM) to monitor haemostatic treatment versus usual care in adults or children with bleeding.",
+      "abstract": "**BACKGROUND**: Severe bleeding and coagulopathy are serious clinical conditions that are associated with high mortality. Thromboelastography (TEG) and thromboelastometry (ROTEM) are increasingly used to guide transfusion strategy, but their roles remain disputed. This is an update of a review that was first published in 2011 and updated in January 2016.\n\n**OBJECTIVES**: The objective was to evaluate the benefits and harms of TEG-/ROTEM-guided transfusion strategies for bleeding in adults and children by comparing TEG-ROTEM-guided transfusion with standard treatment.\n\n**SEARCH METHODS**: In this updated review, we identified randomised controlled trials (RCTs) from the following electronic databases: Cochrane Central Register of Controlled Trials (CENTRAL); Ovid MEDLINE(R) ALL; Embase; Web of Science Core Collection and Biosis Previews via Clarivate; CINAHL EBSCO; and the WHO Global Index Medicus incl. LILACS (from 2015 up to 5 January 2025). We searched for ongoing clinical trials and unpublished studies in the following registries during the aforementioned period: ISRCTN, ClinicalTrials.gov, CentreWatch, and UMIN-CTR. We contacted trial authors, authors of previous reviews, and manufacturers in the field. The original searches were run in October 2010 and January 2016.\n\n**SELECTION CRITERIA**: We included all RCTs, irrespective of blinding or language, that compared transfusion guided by TEG or ROTEM to transfusion guided by clinical judgement, guided by standard laboratory tests, or a combination. We also included interventional algorithms including both TEG and ROTEM in combination with standard laboratory tests or other devices. The primary analysis included trials on TEG or ROTEM versus any comparator.\n\n**DATA COLLECTION AND ANALYSIS**: Two review authors independently abstracted data; we resolved any disagreements by discussion. We presented pooled estimates of the intervention effects on dichotomous outcomes as risk ratios (RRs) with 95% confidence intervals (CIs). Due to skewed data, meta-analysis was not provided for continuous outcome data. Our primary outcome measure was all-cause mortality. We performed subgroup and sensitivity analyses to assess the effect of a TEG- or ROTEM-guided algorithm in adults and children on various clinical and physiological outcomes. We evaluated potential bias by examining trial methodological components using the Cochrane Risk of Bias 1 and assessed the risk of random error through Trial Sequential Analysis (TSA).\n\n**MAIN RESULTS**: This systematic review included 35 randomised trials (n = 3096), with most involving patients undergoing elective cardiac surgery. Hence, 18 trials and 1603 participants were added since the previous update of this review. TEG-/ROTEM-guided transfusion algorithms may be associated with a reduction in mortality (RR 0.76, 95% CI 0.63 to 0.92; 19 trials; 1865 participants, I\n\n**AUTHORS' CONCLUSIONS**: TEG-/ROTEM-guided transfusion algorithms may reduce the risk of mortality, bleeding volume, and the need for fresh frozen plasma, platelets, and surgical re-intervention, but the evidence is very uncertain. Furthermore, the results were primarily based on the adult population undergoing elective cardiac surgery. Hence, the conclusion remains unchanged from the previous update of this review. There is a need for large, low risk of bias randomised controlled trials evaluating TEG/ROTEM across diverse clinical settings, including paediatric and neonatal populations, sepsis, trauma, obstetrics, and high-risk surgical and critically ill cohorts requiring major transfusion. Future studies should be adequately powered and prioritise patient-centred outcomes such as long-term survival, adverse events, cost-effectiveness, and the role of TEG/ROTEM in coagulopathy and severe haemorrhage.",
+      "journal": "Cochrane Database Syst Rev",
+      "authors": [
+        "Kvisselgaard AD",
+        "Wolthers SA",
+        "Wikkels\u00f8 AJ",
+        "Holst LB",
+        "Drivenes B",
+        "Afshari A"
+      ],
+      "date": "2026 May 18",
+      "doi": "10.1002/14651858.CD007871.pub4",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Haemorrhage"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "thromboelastography",
+          "strength": "strong",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "ROTEM",
+          "strength": "strong",
+          "topic": "Haemorrhage"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42145275/"
+    },
+    {
+      "pmid": "42144263",
+      "title": "E(co)-health evolution: comparative life-cycle assessment of the virtual fracture clinic versus conventional inperson follow-up.",
+      "abstract": "**BACKGROUND**: The Virtual Fracture Care (VFC) method is designed to minimise follow-up visits for trauma patients seen in the emergency department (ED) with non-complex and stable injuries by adopting a risk-sharing model. Given the healthcare sector's significant carbon footprint, this study aims to assess the environmental impact of VFC-pathway direct discharge with the standard pathway with inpatient follow-up, focusing on the treatment and follow-up of torus/greenstick fractures.\n\n**METHODS**: A comparative cradle-to-grave life-cycle assessment was conducted at a Dutch ED. Data for material use, waste, packaging, transport, energy consumption, and staff and patient travel are included. Carbon footprints were calculated using SimaPro software with the ReCiPe 2016 method. The study compared the carbon footprints of the VFC pathway and standard pathway, identified key contributors, and performed a sensitivity and uncertainty analysis.\n\n**RESULTS**: The VFC pathway resulted in a reduction of 2.8 (95% CI 2.1 to 3.9)\u2009kilograms of carbon dioxide equivalent greenhouse gas emissions (kg CO\n\n**CONCLUSION**: The VFC pathway reduces the CO",
+      "journal": "Emerg Med J",
+      "authors": [
+        "Lub FT",
+        "van Vlijmen NFM",
+        "van Bree EM",
+        "Snijder L",
+        "Twigt B",
+        "Baden DN"
+      ],
+      "date": "2026 May 17",
+      "doi": "10.1136/emermed-2025-215217",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42144263/"
+    },
+    {
       "pmid": "42139773",
       "title": "Texas emergency department visits for firearm injury: Trends & correlates 2016-2022.",
       "abstract": "**PURPOSE**: Understanding the nature and scope of fatal and nonfatal firearm injury in Texas is a necessary precursor to preventing firearm injuries statewide, however, Texas is frequently excluded from firearm injury research due to limitations in commonly used data sources.\n\n**METHODS**: Outcomes of interest were (1) emergency department (ED) utilization for firearm injuries and (2) associated charges in Texas 2016-2022. For both outcomes, this study examined longitudinal trends by patient demographics, payer, admission status, and county characteristics; and generated estimates for the association with county firearm ownership tercile. All Texas ED visits 2016-2022 (regardless of patient survival) with at least one salient ICD-10 external cause code (W32-W33, X72-X74, X93-X95, Y22-Y24, Y35) were compiled. Longitudinal associations were estimated using time series negative binomial regressions, with Poisson models for robustness.\n\n**RESULTS**: Overall firearm injury ED utilization remained stable; however, injury severity may have increased, as the proportion of visits resulting in hospital admission rose and average total charges more than doubled in Texas 2016-2022. Each increase in county firearm ownership tercile was associated with more than a 10% increase in expected firearm injury ED visits.\n\n**CONCLUSION**: Firearm injuries are a growing health and fiscal burden for Texas patients and taxpayers.",
@@ -468,7 +596,7 @@
     {
       "pmid": "42138510",
       "title": "Characterization of the binding of skeletal muscle myosin to fibrin in trauma.",
-      "abstract": "**BACKGROUND**: The procoagulant phenotype of skeletal muscle myosin (SkM) includes the promotion of thrombin generation to form fibrin, and subsequent increased resistance of fibrin clots to fibrinolysis. The release of SkM into circulation following localized tissue injury is hypothesized to promote systemic hypercoagulation. Yet, in trauma patients and in animal models of tissue injury, an unexplained decrease in SkM levels has been observed.\n\n**METHODS**: Plasma samples were collected from orthopedic trauma patients at admission and 6 weeks later and from pigs subjected to experimentally extensive muscle injury. Plasma SkM and myoglobin levels were measured. The binding of SkM to fibrin was quantified in vitro using fluorescence imaging assays. Fibrinolysis was measured using turbidimetric assays and thromboelastography.\n\n**RESULTS**: SkM plasma levels in trauma patients were lower at admission compared to 6 weeks later, while plasma myoglobin levels were higher at admission than at 6 weeks. In the pig injury model, plasma SkM levels at 24 hours after injury were decreased, while myoglobin levels were increased. In vitro, SkM bound to fibrin, but not fibrinogen, with an apparent Kd of 0.18\u00a0\u03bcM and was associated with a decrease in the level of SkM in solution. Fluorescence imaging of the fibrin clots confirmed the presence of SkM within fibrin clots, which increased the resistance of the fibrin clot to fibrinolysis.\n\n**CONCLUSIONS**: Direct binding of SkM to fibrin may explain the reduced circulating SkM levels observed after trauma and may help identify potential roles for SkM in trauma-associated coagulopathy. (J Trauma Acute Care Surg. 2026;00:00-00. Copyright \u00a9 2026 Wolters Kluwer Health, Inc. All rights reserved.).\n\n**LEVEL OF EVIDENCE**: Prognostic; Level III.",
+      "abstract": "**BACKGROUND**: The procoagulant phenotype of skeletal muscle myosin (SkM) includes the promotion of thrombin generation to form fibrin, and subsequent increased resistance of fibrin clots to fibrinolysis. The release of SkM into circulation following localized tissue injury is hypothesized to promote systemic hypercoagulation. Yet, in trauma patients and in animal models of tissue injury, an unexplained decrease in SkM levels has been observed.\n\n**METHODS**: Plasma samples were collected from orthopedic trauma patients at admission and 6 weeks later and from pigs subjected to experimentally extensive muscle injury. Plasma SkM and myoglobin levels were measured. The binding of SkM to fibrin was quantified in vitro using fluorescence imaging assays. Fibrinolysis was measured using turbidimetric assays and thromboelastography.\n\n**RESULTS**: SkM plasma levels in trauma patients were lower at admission compared to 6 weeks later, while plasma myoglobin levels were higher at admission than at 6 weeks. In the pig injury model, plasma SkM levels at 24 hours after injury were decreased, while myoglobin levels were increased. In vitro, SkM bound to fibrin, but not fibrinogen, with an apparent Kd of 0.18\u00a0\u03bcM and was associated with a decrease in the level of SkM in solution. Fluorescence imaging of the fibrin clots confirmed the presence of SkM within fibrin clots, which increased the resistance of the fibrin clot to fibrinolysis.\n\n**CONCLUSIONS**: Direct binding of SkM to fibrin may explain the reduced circulating SkM levels observed after trauma and may help identify potential roles for SkM in trauma-associated coagulopathy. ( J Trauma Acute Care Surg . 2026;00:00-00. Copyright \u00a9 2026 Wolters Kluwer Health, Inc. All rights reserved.).\n\n**LEVEL OF EVIDENCE**: Prognostic; Level III.",
       "journal": "J Trauma Acute Care Surg",
       "authors": [
         "Yang CJ",
@@ -8333,320 +8461,6 @@
       "keyword_matches": [],
       "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/42002754/"
-    },
-    {
-      "pmid": "42001174",
-      "title": "ECMO PAL VV: using deep neural networks for survival prognostication in venovenous extracorporeal membrane oxygenation.",
-      "abstract": "",
-      "journal": "Crit Care",
-      "authors": [
-        "Stephens AF",
-        "\u0160eman M",
-        "Hackwill R",
-        "Diehl A",
-        "Pilcher D",
-        "Barbaro RP",
-        "Brodie D",
-        "Pellegrino V",
-        "Kaye DM",
-        "Gregory SD",
-        "Hodgson CL"
-      ],
-      "date": "2026 Apr 18",
-      "doi": "10.1186/s13054-026-06032-7",
-      "tier": "filtered",
-      "topics": [
-        "Cardiac Arrest"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "ECMO",
-          "strength": "strong",
-          "topic": "Cardiac Arrest"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42001174/"
-    },
-    {
-      "pmid": "42000674",
-      "title": "Quantity matters: Impact of PIT deployment on advanced imaging utilization.",
-      "abstract": "**INTRODUCTION**: To determine the impact of Provider-in-Triage (PIT) deployment on advanced imaging utilization, including amongst patients presenting with abdominal pain.\n\n**METHODS**: This single-center retrospective study at a tertiary academic center evaluated changes in advanced imaging utilization following implementation of a PIT \"split-flow\" model in July 2023. Imaging incidence amongst adult Emergency Department (ED) patients was compared during the 18\u00a0months before and 18\u00a0months after PIT implementation using regression analysis adjusted for admission proportion and emergency severity index score. Additionally, patients presenting with abdominal pain in 2024 were evaluated for PIT exposure and computed tomography (CT) utilization adjusting for the covariates of age, sex, race, and admission disposition. CT positivity rates were compared between PIT and no-PIT cohorts.\n\n**RESULTS**: There were 76,731 adult ED visits in the pre-PIT period and 89,105 in the PIT period. CT utilization increased from 0.36 to 0.49 studies per ED visit, with the PIT period associated with an absolute increase of 0.135 CTs per visit (p\u00a0<\u00a00.001). Smaller increases were observed for magnetic resonance imaging and radiology ultrasound, while point-of-care ultrasound (POCUS) showed a non-significant decrease. In the 2024 abdominal pain analysis, PIT was independently associated with increased CT utilization (OR 1.27, 95% CI 1.01-1.60). CT positivity was lower in the PIT cohort (38.7% vs 46.9%; absolute risk difference 8.2%, p\u00a0=\u00a00.03).\n\n**CONCLUSION**: The deployment of PIT was associated with increased advanced imaging utilization. Patients exposed to PIT when arriving with a chief complaint of abdominal pain undergo more CT scans. Further work is needed to explore any possible causal relationship between PIT and advanced imaging utilization.",
-      "journal": "Am J Emerg Med",
-      "authors": [
-        "Thom C",
-        "Spirek B",
-        "Mullins C",
-        "Moak J"
-      ],
-      "date": "2026 Apr 08",
-      "doi": "10.1016/j.ajem.2026.04.009",
-      "tier": "filtered",
-      "topics": [
-        "Imaging"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "POCUS",
-          "strength": "weak",
-          "topic": "Imaging"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42000674/"
-    },
-    {
-      "pmid": "42000478",
-      "title": "Clinical outcomes and Quality-Adjusted Life Years (QALY) after femoral head fractures: A retrospective cohort study of 101 patients.",
-      "abstract": "**BACKGROUND**: Even though the radiological and functional outcomes following femoral head fractures have been reported earlier, Quality Adjusted Life Years (QALY) after fixation of these fractures has not yet been studied. This study aims at a subgroup analysis of the Pipkins classification of fractures, radiological and functional outcomes, and the burden of femoral head fractures by QALY.\n\n**METHODS**: A retrospective analysis of 101 patients with femoral head fractures was performed between 2008 and 2022 with a minimum follow-up of 2 years and maximum of 15 years. Serial radiographs were studied from PACS (radiological outcome) and the patients were interviewed using Harris Hip Score (functional outcome) and the EuroQoL EQ-5D-3L questionnaires to assess the Quality Adjusted Life Years (QALY).\n\n**RESULTS**: Patients who underwent immediate reduction of the hip joint (<6\u00a0h) demonstrated better QALY in the long term follow up. Those with Pipkins type 3 (n\u00a0=\u00a010) fractures who had to undergo Primary THR showed the best functional outcomes, followed by types 4,1, and 2. Infra foveal fractures gave a better outcome than supra foveal fractures. Heterotopic ossification (7%), AVN (4%), and the need for conversion to secondary THR (3%) was more common in patients who had a prolonged injury to reduction interval or a comminuted fracture of the femoral head. Despite a 2% incidence of infection, short-term functional outcomes remained positive in these patients.\n\n**CONCLUSION**: In this cohort, well-fixed femoral head fractures across Pipkin subtypes showed satisfactory radiological and functional outcomes with acceptable long-term health utility. Pipkin type II fractures with extensive comminution and Pipkin type III fractures appeared to have better outcomes with primary total hip replacement, potentially reducing the need for secondary surgery.",
-      "journal": "Injury",
-      "authors": [
-        "Devendra A",
-        "Vanamala SK",
-        "Imran A",
-        "Ramesh P",
-        "Velmurugesan PS",
-        "Mohamed Z",
-        "Dheenadhayalan J",
-        "Rajasekaran S"
-      ],
-      "date": "2026 Jun 1",
-      "doi": "10.1016/j.injury.2026.113267",
-      "tier": "filtered",
-      "topics": [],
-      "keyword_matches": [],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42000478/"
-    },
-    {
-      "pmid": "42000477",
-      "title": "Barriers to care and intimate partner violence screen in orthopaedic trauma clinic.",
-      "abstract": "**OBJECTIVES**: To evaluate the prevalence of barriers to care and IPV risk and assessed associations between economic hardship and violence.\n\n**METHODS**: A prospective, cross-sectional survey was performed recruiting adult orthopedic trauma patients presenting for clinical follow up at one Level 1 orthopaedic trauma center. Primary outcomes were SDoH domains and IPV risk. Associations between patient characteristics, barriers to care, and IPV risk were analyzed using Fisher's exact tests with false discovery rate control.\n\n**RESULTS**: Among 261 respondents, 50.6% reported difficulty paying for basic needs, while 26.2% reported food insecurity and 25.2% transportation barriers. Positive IPV screens were driven largely by emotional abuse (17.7%), compared with physical hurt (3.3%). Financial hardship was the strongest predictor of barriers to care (OR 48.8, p\u00a0<\u00a00.001) and was associated with overall IPV risk (OR 3.31, p\u00a0<\u00a00.001), increasing the odds of threats of harm by over 28-fold. Tobacco use (OR 3.35, p\u00a0<\u00a00.001) and monthly alcohol use (OR 3.26, p\u00a0=\u00a00.01) were also associated with IPV risk. Nearly one-third of patients (28.8%) requested connection to supportive resources.\n\n**CONCLUSIONS**: Orthopaedic trauma patients experience a substantial burden of unmet social needs and IPV risk. Financial hardship and substance use are associated with barriers to care and IPV exposure, and many patients desired connection to resources. Trauma clinics represent a critical point for identification, but screening alone is insufficient without embedded referral pathways to provide timely support.\n\n**LEVEL OF EVIDENCE**: Level II; survey study.",
-      "journal": "Injury",
-      "authors": [
-        "Lutnick E",
-        "Rick T",
-        "Frappa N",
-        "Acharya A",
-        "Bousleiman JJ",
-        "Goehle S",
-        "Pavlesen S",
-        "Anders M",
-        "Daoust S"
-      ],
-      "date": "2026 Jun 1",
-      "doi": "10.1016/j.injury.2026.113286",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Orthopaedic",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "trauma centre",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "orthopaedic trauma",
-          "strength": "strong",
-          "topic": "Orthopaedic"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42000477/"
-    },
-    {
-      "pmid": "42000475",
-      "title": "Paralyzing herniated disc: To operate or not to operate, and when is the right time?",
-      "abstract": "**PURPOSE**: This study investigates the pathophysiological mechanisms, risk factors, and conditions contributing to the occurrence of paralyzing disc herniation (PDH) following L4-L5 disc herniation surgery. Despite the significance of PDH, comprehensive understanding remains limited due to the inherent challenges in recruiting patients with neurologic deficits and the variability in research methodologies.\n\n**METHODS**: Our retrospective analysis includes 1285 patients who underwent surgery for disc herniation over a decade, identifying an incidence rate of 7.69% for PDH among the cohort. Notable risk factors include age, obesity, diabetes mellitus, a narrow lumbar canal, and trauma.\n\n**RESULTS**: The recovery rate of 66.66% observed in our study aligns with existing literature, indicating a comparable average age of participants (48.64 years).\n\n**CONCLUSIONS**: The restricted volume of research focusing on postoperative outcomes has resulted in a lack of consensus on optimal management strategies for PDH. Consequently, the timing of intervention remains ambiguous, aside from recognized emergency situations. Our study underscores the need for further prospective research to enhance understanding and establish definitive management protocols for PDH.",
-      "journal": "Injury",
-      "authors": [
-        "Mostofi K",
-        "Shirbache K",
-        "Shirbacheh A",
-        "Peyravi M",
-        "Nikmaram N"
-      ],
-      "date": "2026 Jun 1",
-      "doi": "10.1016/j.injury.2026.113260",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42000475/"
-    },
-    {
-      "pmid": "42000208",
-      "title": "Alternative trials of recipient site vessel in maxillomandibular reconstruction with multisegment fibular flaps including only one pedicle anastomosis.",
-      "abstract": "**BACKGROUNDS**: The objective of this study is to closely examine the preferred anastomoses of the superior thyroid artery, facial artery, lingual artery, maxillary artery, and superficial temporal artery anastomoses for the reconstruction of maxillomandibular defects caused by firearm injuries. The study will also examine the reasons for choosing these arteries, their advantages and disadvantages, surgical techniques, complications, and their postoperatively clinically and\u00a0scintigraphically\u00a0assessable viability.\n\n**METHODS**: The present study encompasses a cohort of ten patients who sustained maxillomandibular injuries and underwent surgical intervention employing a multisegment fibular flap. In all cases, following bone fixation, microvascular anastomoses were sutured under a microscope using 9-0 nylon sutures. Flap viability was initially assessed clinically; in addition, all patients underwent a bone scan on the fifth day after surgery using an intravenous infusion of Tc-99m methylene diphosphonate (MDP).\n\n**RESULTS**: In the study, 10 patients who underwent maxillomandibular multisegment flap surgery received the most appropriate microvascular anastomosis for their pathology. Of these patients, the six most demonstrative cases, which best represent the relevant artery used for anastomosis, have been detailed.\n\n**CONCLUSIONS**: Although the aim of this study was not to establish a definitive algorithm based on the 10 cases presented, it is hypothesised that the findings may provide some guidance to surgeons working in this field.",
-      "journal": "Injury",
-      "authors": [
-        "Akbay E",
-        "G\u00fclmez M\u0130"
-      ],
-      "date": "2026 Apr 15",
-      "doi": "10.1016/j.injury.2026.113287",
-      "tier": "filtered",
-      "topics": [],
-      "keyword_matches": [],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42000208/"
-    },
-    {
-      "pmid": "42000207",
-      "title": "An epidemiological analysis of extracorporeal membrane oxygenation use in trauma.",
-      "abstract": "**BACKGROUND**: Trauma is the leading cause of death in younger adults and children. Severe polytrauma predisposes patients to the failure of multiple organ systems, including the cardiovascular and respiratory systems, at times necessitating extracorporeal membrane oxygenation (ECMO). ECMO use in the setting of trauma is increasing, yet little data exists describing current practice patterns. We performed an epidemiological analysis of ECMO use and outcomes in trauma patients.\n\n**STUDY DESIGN AND METHODS**: We analyzed data from the Trauma Quality Improvement Program Registry from 2017 to 2023. Procedure codes were used to identify the application of ECMO. Pediatric patients were those <\u00a018 years of age. We analyzed two groups from this data set: one including all patients who required ECMO and a separate group including only pediatric cases. We used descriptive and inferential statistical methods.\n\n**RESULTS**: There were 8,014,737 encounters of which 1919 had documented ECMO use. Within that group, 224 were <\u00a018 years of age. The median time from hospital arrival to the first initiation of ECMO was 44\u00a0h (interquartile range [IQR] 5-147). The incidence per year ranged from 1.9 to 2.9 events per 10,000 encounters. Survival ranged from 59% to 68% per year. The number of facilities with documented ECMO use annually ranged from 103 to 158 and overall increased during the time of the study. Interfacility transfer was common but was not related to survival.\n\n**DISCUSSION**: ECMO use demonstrated steady growth in the number of performing facilities throughout the study period. Survival was similar to previous reports. Our findings will help inform targeted clinical guidelines for the use of ECMO in adult and pediatric trauma populations.",
-      "journal": "Injury",
-      "authors": [
-        "Wallis MC",
-        "Rizzo JA",
-        "O'Neil ER",
-        "Sams VG",
-        "Schauer SG"
-      ],
-      "date": "2026 Apr 11",
-      "doi": "10.1016/j.injury.2026.113271",
-      "tier": "filtered",
-      "topics": [
-        "Cardiac Arrest",
-        "General Trauma",
-        "Paediatric",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "polytrauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "paediatric trauma",
-          "strength": "weak",
-          "topic": "Paediatric"
-        },
-        {
-          "keyword": "trauma quality",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "ECMO",
-          "strength": "weak",
-          "topic": "Cardiac Arrest"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42000207/"
-    },
-    {
-      "pmid": "42000028",
-      "title": "The Minnesota Mobile Resuscitation Consortium ECMO truck: a feasibility study for ECPR in refractory out-of-hospital cardiac arrest.",
-      "abstract": "**BACKGROUND**: Refractory ventricular fibrillation/ventricular tachycardia (VF/VT) out-of-hospital cardiac arrest (OHCA) carries poor survival with conventional resuscitation. Extracorporeal cardiopulmonary resuscitation (ECPR) improves outcomes in selected patients; however, time to reperfusion is the dominant determinant of neurologically intact survival, and geographic distance excludes many otherwise eligible patients.\n\n**RESEARCH QUESTION/HYPOTHESIS**: We hypothesized that a purpose-built, fluoroscopy-enabled mobile ECMO truck delivering scene-based ECPR would be feasible and achieve neurologically favorable survival comparable to a mature in-hospital ECPR system when matched on low-flow time.\n\n**GOALS/AIMS**: To evaluate the feasibility, procedural performance, and clinical outcomes of a sustained prehospital ECPR program integrated within a regional cardiac arrest system of care.\n\n**METHODS**: We performed a single-center retrospective analysis of a prospectively collected registry within the Minnesota Mobile Resuscitation Consortium. Adults (18-75\u00a0years) with refractory VF/VT OHCA treated under the ECMO truck protocol were compared with a matched cohort treated under the standard in-hospital ECPR pathway, matched on low-flow time. Baseline characteristics, laboratory values, time intervals, cannulation metrics, and outcomes were compared. The primary outcome was survival to hospital discharge with a favorable neurological status.\n\n**RESULTS**: A total of eight patients underwent ECMO truck activation and were matched to eight in-hospital controls. Baseline characteristics were similar between groups. Total low-flow time was 74.8 [standard deviation (SD) 19.8]\u00a0min in the ECMO truck group and 73.0 (SD 22.9)\u00a0min in controls (p\u00a0=\u00a00.87). Needle-stick-to-ECMO flow times were 7.5 (SD 3.1)\u00a0min versus 12.0 (SD 10.8)\u00a0min, respectively (p\u00a0=\u00a00.71). Neurologically favorable survival was 25% in the ECMO truck cohort versus 25% in matched controls (p\u00a0\u2265\u00a00.99).\n\n**CONCLUSIONS**: A sustained, protocolized prehospital ECPR program using a purpose-built ECMO truck is feasible and achieves outcomes comparable to an established in-hospital ECPR system when matched on low-flow time. This single-center feasibility study demonstrates that a mobile ECPR program using a purpose-built Mobile ECMO Truck can be implemented safely and with acceptable procedural performance.",
-      "journal": "Resuscitation",
-      "authors": [
-        "Rixmann K",
-        "Gottula AL",
-        "Wilcox A",
-        "Sipprell K",
-        "Weiner J",
-        "Rees P",
-        "Kalra R",
-        "Bruen C",
-        "Schick A",
-        "Peterson B",
-        "Kolbet K",
-        "Harkins K",
-        "Bartos J",
-        "Yannopoulos D"
-      ],
-      "date": "2026 Jun 1",
-      "doi": "10.1016/j.resuscitation.2026.111089",
-      "tier": "filtered",
-      "topics": [
-        "Cardiac Arrest",
-        "Prehospital"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "prehospital",
-          "strength": "weak",
-          "topic": "Prehospital"
-        },
-        {
-          "keyword": "ECMO",
-          "strength": "strong",
-          "topic": "Cardiac Arrest"
-        },
-        {
-          "keyword": "ECPR",
-          "strength": "strong",
-          "topic": "Cardiac Arrest"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42000028/"
-    },
-    {
-      "pmid": "42000026",
-      "title": "Long-term neurological outcomes after extracorporeal cardiopulmonary resuscitation for refractory cardiac arrest: a 14-year single-centre cohort study.",
-      "abstract": "**BACKGROUND**: Extracorporeal Cardiopulmonary Resuscitation (ECPR) via Veno-Arterial Extracorporeal Membrane Oxygenation (ECMO) is a viable treatment for refractory cardiac arrest (r-CA). Data on long-term outcomes and predictors of favourable neurological prognosis remain limited, and definitive patient-selection recommendations are lacking.\n\n**METHODS**: We conducted a retrospective observational study of adult patients treated with ECPR for in-hospital (IHCA) and out-of-hospital (OHCA) r-CA at an Italian ECMO centre between 2011 and 2024. The primary outcome was long-term neurological performance, measured by the Cerebral Performance Category (CPC) scale six months after hospital discharge. Multivariable and latent class analyses assessed independent predictors and explored distinct pre-ECPR phenotypes.\n\n**RESULTS**: Among 295 consecutive patients (117 IHCA; 178 OHCA), 17.3% achieved CPC 1-2 at six months (28.2% IHCA vs 10.1% OHCA; p\u00a0<\u00a00.0001), and 4.4% survived with severe long-term neurological sequelae (CPC 3-4). Independent predictors of CPC 1-2 were younger age (OR 0.95 per year, 95% CI 0.92-0.98), an initial shockable rhythm (aOR 2.7; 95% CI 1.11-7.04), and shorter low-flow duration (OR 0.95 per minute increase, 95% CI 0.93-0.97). Stepwise selection based on these criteria progressively increased the proportion of favourable survivors but excluded a small proportion who might have recovered.\n\n**CONCLUSIONS**: These results emphasise the importance of establishing pre-treatment selection criteria to optimise ECPR use and enhance long-term neurological outcomes. Age, initial rhythm, and low-flow time are key determinants, and exploratory phenotype-based analyses suggest multidimensional patient characterisation may complement traditional selection criteria.",
-      "journal": "Resuscitation",
-      "authors": [
-        "Pozzi M",
-        "Sola M",
-        "Maggioni E",
-        "Cortinovis B",
-        "Redaelli G",
-        "Scanziani M",
-        "Annoni A",
-        "Del Frate E",
-        "Costa C",
-        "Marchetto G",
-        "Sangalli F",
-        "Avalli L",
-        "Giani M",
-        "Foti G"
-      ],
-      "date": "2026 Jun 1",
-      "doi": "10.1016/j.resuscitation.2026.111095",
-      "tier": "filtered",
-      "topics": [
-        "Cardiac Arrest"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "ECMO",
-          "strength": "weak",
-          "topic": "Cardiac Arrest"
-        },
-        {
-          "keyword": "ECPR",
-          "strength": "weak",
-          "topic": "Cardiac Arrest"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42000026/"
     }
   ]
 }
