@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-18T21:03:08.063175Z",
-  "total_articles": 219,
+  "generated": "2026-05-19T21:12:27.649121Z",
+  "total_articles": 222,
   "all_topics": [
     "Abdominal",
     "Burns",
@@ -379,6 +379,295 @@
   },
   "articles": [
     {
+      "pmid": "42154050",
+      "title": "The real-world management of acute mesenteric ischemia in Spain: results from a multicenter national survey.",
+      "abstract": "**BACKGROUND**: Acute mesenteric ischemia (AMI) remains one of the most lethal vascular emergencies, with in-hospital mortality rates frequently exceeding 50%. Although early diagnosis and timely revascularization are critical, clinical practice remains highly variable. This study aimed to evaluate the real-world management of AMI in Spain, identifying gaps in resources, protocols, and interhospital coordination.\n\n**METHODS**: A national cross-sectional survey was conducted between March and August 2024 using the Survio\n\n**RESULTS**: A total of 291 surgeons responded. The median age was 40 years (IQR: 17). Most were consultants (76.3%) working in tertiary (42.6%), secondary (33%), or community hospitals (24.4%). While 97.6% reported access to 24/7 multiphasic CT and 90.4% to round-the-clock radiology, only 51.9% had 24/7 interventional radiology and 60.1% vascular surgery. Just 26.8% had institutional AMI protocols. The median distance to a referral center was 25\u00a0km (range: 2-250\u00a0km), and 68.4% reported difficulty in patient transfers. While 96.9% felt competent managing AMI, only 36.4% were familiar with the term \"intestinal stroke.\" A total of 76.3% expressed interest in joining a national AMI registry.\n\n**CONCLUSIONS**: Spanish surgeons report high self-perceived clinical competence in AMI management, but systemic fragmentation, lack of protocols, and logistical barriers limit optimal care. These findings underscore the urgent need for coordinated regional networks, standardized care pathways, and multidisciplinary collaboration to improve outcomes in acute mesenteric ischemia across European healthcare systems.\n\n**TRIAL REGISTRATION**: Retrospectively registred and recorded in Clinical Trials. NCT06428240, registration date on 20th/05/2024.",
+      "journal": "Eur J Trauma Emerg Surg",
+      "authors": [
+        "Gonz\u00e1lez-Castillo AM",
+        "Calsina Juscafresa L",
+        "Gelabert A",
+        "Velescu A",
+        "Marrano E",
+        "Vikatmaa P",
+        "Tolonen M"
+      ],
+      "date": "2026 May 19",
+      "doi": "10.1016/j.ejvs.2021.03.019",
+      "tier": "core",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42154050/"
+    },
+    {
+      "pmid": "42153383",
+      "title": "Readiness accelerators for military general surgeons: Insights from acute care surgery fellowship programs.",
+      "abstract": "**BACKGROUND**: Maintaining expeditionary surgical readiness during peacetime is a persistent Military Health System challenge, particularly for general surgeons assigned to low-volume military treatment facilities. Knowledge, Skills, and Abilities-Clinical Activity (KSA-CA) metrics quantify procedural readiness against operational benchmarks, yet many active-duty surgeons do not meet established thresholds. The American Association for the Surgery of Trauma (AAST) Acute Care Surgery (ACS) fellowship includes a dedicated operative year with high-volume trauma and emergency general surgery exposure that could offer insights for how to accelerate procedural readiness, but its performance against KSA-CA standards has not been evaluated.\n\n**METHODS**: We performed a retrospective, cross-sectional analysis of procedural case logs from fellows enrolled in AAST ACS fellowship programs between February 2021 and April 2023, limited to procedures performed during the 12-month ACS operative year. Each logged Current Procedural Terminology code was scored using the general surgery KSA-CA algorithm, which maps >2,000 Current Procedural Terminology codes to 49 procedure groups. Readiness was defined as achieving a KSA-CA score at or above the established threshold.\n\n**RESULTS**: Case logs from 26 of 32 approved AAST ACS fellowship sites contained eligible entries, representing 102 fellows and 24,493 logged procedures. Among fellows meeting inclusion criteria (n = 73), the median cumulative KSA-CA score was 25,464 (IQR, 7,132-42,415). All fellows who completed the ACS year achieved the KSA-CA readiness threshold (100%); 95% achieved readiness before the end of the year, and 93% met readiness within 6 months. Top contributing procedure groups included intra-abdominal open hollow viscus operations, thoracic (or \"pneumonectomy\" group in KSA nomenclature), and debridement of muscle and fascia.\n\n**CONCLUSIONS**: The AAST ACS fellowship curriculum reliably meets military procedural readiness standards as measured by KSA-CA metrics in 12 months or less. The ACS fellowship sites and curricular structure have the potential to accelerate expeditionary readiness among Military Health System general surgeons. (J Trauma Acute Care Surg. 2026;000: 000-000. Copyright \u00a9 2026 Wolters Kluwer Health, Inc. All rights reserved.).\n\n**LEVEL OF EVIDENCE**: Diagnostic Tests or Criteria, Level IV.",
+      "journal": "J Trauma Acute Care Surg",
+      "authors": [
+        "Dilday JC",
+        "Fannon EEH",
+        "Remick K",
+        "De Moya M",
+        "Gurney J",
+        "Jurkovich GJ",
+        "Galante JM",
+        "Elster E",
+        "Knudson M",
+        "Russo RM"
+      ],
+      "date": "2026 May 19",
+      "doi": "10.1097/TA.0000000000005058",
+      "tier": "core",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42153383/"
+    },
+    {
+      "pmid": "42152115",
+      "title": "Impact of extracorporeal membrane oxygenation on antimicrobial exposure in critically ill patients: a prospective observational study.",
+      "abstract": "**BACKGROUND**: Antimicrobial pharmacokinetics (PK) in patients receiving extracorporeal membrane oxygenation (ECMO) remains poorly defined. Drug sequestration within the ECMO circuit has been reported; however, existing evidence is primarily based on ex vivo studies and small clinical series, resulting in conflicting findings with limited clinical applicability. This study aimed to characterize antimicrobial sequestration within different ECMO circuit components and to describe the PK of meropenem, piperacillin/tazobactam, linezolid, and ceftaroline in critically ill patients receiving ECMO support.\n\n**METHODS**: We conducted a prospective, single-center observational study in critically ill patients receiving ECMO (veno-venous (VV) or veno-arterial (VA)) and treated with meropenem, piperacillin/tazobactam, linezolid, or ceftaroline. Serial blood samples were collected simultaneously from the patient's arterial line and from pre- and post-membrane oxygenator sampling sites. Non-compartmental analysis was used to derive PK measures, and concentration differences across sampling sites were analyzed to estimate circuit-related drug sequestration. Antimicrobial target attainment was assessed according to established PKPD targets.\n\n**RESULTS**: A total of 237 samples from 8 patients (4 VV, 4 VA) were analyzed. Limited, component-specific sequestration was observed in the membrane oxygenator for meropenem (9.28% \u00b1 21.6%, p\u2009=\u20090.046) and ceftaroline (14.6% \u00b1 17.5%, p\u2009=\u20090.010), for linezolid it was also identified (10.1% \u00b1 12.3%, p\u2009=\u20090.005), but in tubing and connectors. Piperacillin/tazobactam showed negligible retention. However, when considering the ECMO circuit as a whole, no statistically significant reductions in systemic concentrations were observed for any antimicrobial. PK measures were generally consistent across sampling sites. In 20% of treatments, predefined PKPD efficacy targets were not achieved.\n\n**CONCLUSIONS**: Antimicrobial sequestration within the ECMO circuit is detectable and drug- and component-specific. However, overall impact on systemic antimicrobial exposure appears limited. Inadequate PKPD target attainment in a subset of antimicrobial treatments likely reflects the marked PK variability of critical illness rather than ECMO-related drug loss alone. These exploratory results support the use of therapeutic drug monitoring to individualize antimicrobial therapy in ECMO-supported patients and the need to conduct further population PK studies to better characterize determinants of antimicrobial exposure and to clarify the clinical relevance of circuit-related drug sequestration.",
+      "journal": "Crit Care",
+      "authors": [
+        "Escol\u00e0-Rodr\u00edguez A",
+        "Sandoval E",
+        "Rigo-Bonnin R",
+        "T\u00e9llez Santoyo A",
+        "Herrera S",
+        "Hern\u00e1ndez Meneses M",
+        "Carrami\u00f1ana A",
+        "Sainz de Medrano JI",
+        "Brunet Serra M",
+        "Mois\u00e9s J",
+        "Roca C",
+        "Castro P",
+        "Soy Muner D",
+        "Bastida C"
+      ],
+      "date": "2026 May 18",
+      "doi": "10.1186/s13054-026-06076-9",
+      "tier": "filtered",
+      "topics": [
+        "Cardiac Arrest"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "ECMO",
+          "strength": "weak",
+          "topic": "Cardiac Arrest"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42152115/"
+    },
+    {
+      "pmid": "42150936",
+      "title": "Insurance-based disparities in traumatic brain injury length of stay and discharge dispositions: A retrospective cohort analysis of the national trauma data bank.",
+      "abstract": "**BACKGROUND**: Insurance-based disparities associated with outcomes in traumatic brain injury (TBI), including acute care discharge dispositions, remain understudied. This study aims to evaluate the associations between Medicaid versus private insurance (PI) on hospital length of stay (LOS) and discharge disposition in patients with TBI across severities.\n\n**METHODS**: This is a retrospective multicenter cohort study utilizing data from United States trauma centers from the National Trauma Data Bank (NTDB) years 2014-2016. Inclusion criteria were: identified to have TBI based on ICD-9 codes. Exclusion criteria were: missing gender, race, Glasgow Coma Scale (GCS) score, or LOS; not admitted as inpatient to hospital; did not have Medicaid or PI; age <\u00a014 or >\u00a089 years; extracranial AIS=\u00a06. Patients were grouped into those with Medicaid and those with PI.\n\n**RESULTS**: Of 808,120 NTDB patients with TBI, 188,756 met inclusion criteria (Medicaid: N\u00a0=\u00a058,867, PI: N\u00a0=\u00a0129,889). Overall, PI patients were older and more frequently female, with differences in racial distribution and TBI severity compared to Medicaid patients. On multivariable analysis, Medicaid patients demonstrated longer inpatient LOS across all TBI severities, corresponding to a 7.3% increase after mild TBI (95% CI: 6.4%-8.2%, p\u00a0<\u00a00.001), a 7.4% increase after moderate TBI (95% CI: 2.8%-12.2%, p\u00a0=\u00a00.001), and an 8.7% increase after severe TBI (95% CI: 6.2%-11.3%, p\u00a0<\u00a00.001) compared to PI patients. Across TBI severities, Medicaid patients had higher adjusted odds of routine discharge to home/self-care (mild: 15.9% increase; moderate: 28.2% increase; severe: 42.3% increase; all p\u00a0<\u00a00.001) and to skilled nursing facilities (SNF) (mild: 63.6% increase; moderate: 54.6% increase; severe: 54.9% increase; all p\u00a0<\u00a00.001). Conversely, Medicaid patients had significantly lower odds of discharge to inpatient rehabilitation (mild: 33.7% lower; moderate: 37.9% lower; severe: 42.6% lower; all p\u00a0<\u00a00.001). For discharge to home health services, Medicaid patients had lower odds after mild TBI (13.0% lower, p\u00a0<\u00a00.001), higher odds after severe TBI (17.5% higher, p\u00a0=\u00a00.017), and no significant difference after moderate TBI. Sensitivity analysis using highest in-hospital GCS for severity classification demonstrated consistent direction and magnitude of associations, supporting the robustness of these findings.\n\n**CONCLUSION**: Medicaid patients had longer LOS compared to PI patients, which was more pronounced within increasing TBI severity. Medicaid patients were more likely to be discharged to home/self-care and SNF, and less likely to be discharged to acute rehabilitation compared to those with PI. Our study confirms and extends prior studies on Medicaid as a risk factor for increased hospital LOS and lower likelihood for discharge to acute rehabilitation after TBI, which should be studied in near-term healthcare policy interventions.",
+      "journal": "Injury",
+      "authors": [
+        "Strelko O",
+        "Spiro E",
+        "Lui A",
+        "Tarapore PE",
+        "Huang MC",
+        "Manley GT",
+        "Yue JK",
+        "DiGiorgio AM"
+      ],
+      "date": "2026 May 15",
+      "doi": "10.1016/j.injury.2026.113358",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "TBI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic brain injury",
+          "strength": "strong",
+          "topic": "TBI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42150936/"
+    },
+    {
+      "pmid": "42150044",
+      "title": "Prehospital Resuscitation with Type O Whole Blood for Trauma and Hemorrhage.",
+      "abstract": "**BACKGROUND**: Blood transfusion before arrival at a hospital reduces mortality from traumatic hemorrhage and shock. Whether transfusion with whole blood is more beneficial than transfusion with blood components is uncertain, as are the effects of the length of time that blood products are in storage between donation and transfusion.\n\n**METHODS**: In this pragmatic, multicenter, phase 3, cluster-randomized trial, we assigned 44 air medical bases in a 2:1 ratio to the use of up to 2 units of whole blood or as-indicated blood components (plasma, red cells, or both) for prehospital transfusion in trauma patients during 1-month blocks. The primary outcome was death from any cause within 30 days after randomization. An observational substudy assessed outcomes according to the storage age of whole blood.\n\n**RESULTS**: Of 1020 eligible patients transported to hospitals by the air bases, 715 were assigned to receive whole blood and 305 to receive blood components; 695 and 298, respectively, were included in the primary analysis. Mortality at 30 days was 25.9% in the whole-blood group and 20.5% in the component group (adjusted odds ratio, 1.24; 95% confidence interval [CI], 0.87 to 1.76; P\u2009=\u20090.24). No substantial between-group differences in adverse events were observed. In the observational substudy, 30-day mortality was 27.1% among 210 patients who received whole blood with a storage age of 15 to 21 days and 26.4% among 443 patients who received whole blood with a storage age of 1 to 14 days (adjusted odds ratio, 0.99; 95% CI, 0.74 to 1.32).\n\n**CONCLUSIONS**: In injured patients with hemorrhagic shock, the use of whole blood for prehospital transfusion did not result in lower 30-day mortality than the use of blood components. (Funded by the Congressionally Directed Medical Research Programs and the U.S. Army Medical Research Acquisition Activity; TOWAR ClinicalTrials.gov number, NCT04684719.).",
+      "journal": "N Engl J Med",
+      "authors": [
+        "Sperry JL",
+        "Guyette FX",
+        "Cotton BA",
+        "Luther JF",
+        "Utarnachitt RB",
+        "Kutcher ME",
+        "Daley BJ",
+        "Peetz AB",
+        "Patel MB",
+        "Goodman MD",
+        "Claridge JA",
+        "Patel N",
+        "Harbrecht BG",
+        "Hashmi ZG",
+        "Zarychanski R",
+        "Neal MD",
+        "Yazer MH",
+        "Martin-Gill C",
+        "Vincent LE",
+        "Harner AM",
+        "Meyer DE",
+        "Latimer AJ",
+        "Robinson BR",
+        "McKnight CL",
+        "Hinckley WR",
+        "Miller KR",
+        "Jansen JO",
+        "Martin D",
+        "Fox EE",
+        "Rosario-Rivera BL",
+        "Wisniewski SR"
+      ],
+      "date": "2026 May 18",
+      "doi": "10.1056/NEJMoa2602167",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Haemorrhage",
+        "Prehospital"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "haemorrhagic shock",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "blood product",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "blood transfusion",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "prehospital",
+          "strength": "strong",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42150044/"
+    },
+    {
+      "pmid": "42149954",
+      "title": "Prehospital outcomes associated with an initial strategy of intranasal vs. intramuscular naloxone administration by EMS clinicians: a nationwide cohort study.",
+      "abstract": "**OBJECTIVES**: Previous studies have suggested that intranasal (IN) naloxone is less effective than intramuscular (IM) naloxone at reversing opioid toxicity but may result in a lower prevalence of precipitated withdrawal. Because limited real-world comparisons have been performed, we aimed to compare initial strategies of IM or IN naloxone administration by emergency medical services (EMS) clinicians using a nationwide dataset.\n\n**METHODS**: We included all adult (>18 years of age) patients in the 2023-2024 ESO Data Collaborative research datasets who received intranasal or intramuscular (IN or IM) naloxone from EMS following a 9-1-1 call. We used multilevel mixed-effects logistic regression with EMS agency as a random intercept to estimate the association between initial naloxone route and the outcomes of post-naloxone cardiac arrest, hypoxia (SpO\n\n**RESULTS**: We analyzed 16,550 patients treated by 1,481 EMS agencies, of whom 3,286 (20%) received their first dose of naloxone via the IM route. In comparison to patients treated with an initial strategy of IN administration, patients who received IM naloxone had lower odds of receiving additional naloxone (aOR: 0.39 [0.35, 0.44]), lower odds of receiving EMS transport (aOR: 0.82 [0.71, 0.95]), and higher odds of returning to a GCS >12 (aOR: 1.15 [1.01, 1.30]). The initial route of naloxone administration was not associated with the odds of cardiac arrest (aOR: 0.84 [0.57, 1.26]), hypoxia (aOR: 0.90 [0.80, 1.00]) return to a respiratory rate >12 (aOR: 1.02 [0.83, 1.26]), or treatment for nausea/vomiting (aOR: 0.97 [0.80, 1.17]) or agitation (aOR: 1.06 [0.81, 1.39]).\n\n**CONCLUSIONS**: In this large cohort, initial IM naloxone administration was associated with more favorable physiologic and operational outcomes compared with an initial IN strategy. Importantly, IM administration was not associated with increased EMS treatment for agitation or nausea/vomiting, which suggests no observed increase in precipitated withdrawal in the prehospital setting.",
+      "journal": "Prehosp Emerg Care",
+      "authors": [
+        "Smida T",
+        "Crowe R",
+        "Glenn M",
+        "Joiner A",
+        "Bardes J"
+      ],
+      "date": "2026 May 18",
+      "doi": "10.1080/10903127.2026.2673361",
+      "tier": "filtered",
+      "topics": [
+        "Prehospital"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "prehospital",
+          "strength": "strong",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42149954/"
+    },
+    {
+      "pmid": "42149949",
+      "title": "Use of double sequential external defibrillation in the United States before and after the DOSE VF randomized clinical trial.",
+      "abstract": "**OBJECTIVES**: The Double Sequential External Defibrillation for Refractory Ventricular Fibrillation (DOSE VF) trial demonstrated improved outcomes for patients randomized to double sequential external defibrillation (DSED) in comparison to standard defibrillation, yet large-scale data on prehospital DSED use remain limited. We evaluated prehospital DSED use before and after publication of DOSE VF.\n\n**METHODS**: We conducted a retrospective analysis of adult (>18 years of age) non-traumatic out-of-hospital cardiac arrest (OHCA) patients who had an initial rhythm of ventricular fibrillation or pulseless ventricular tachycardia and at least 4 successive defibrillation attempts in the ESO Data Collaborative from 2018-2024. We excluded patients with return of spontaneous circulation prior to the fourth defibrillation, resuscitation-limiting advanced directives, or OHCA due to drowning or overdose. To minimize the influence of agencies joining the Collaborative during the study period, we excluded agencies that did not contribute data during the first study year. We identified DSED using three methods: 1.) documentation of \n\n**RESULTS**: We identified 16,450 DSED-eligible patients treated by 906 emergency medical services agencies. Estimates of DSED use varied by ascertainment method (Method 1: 3.7%, Method 2: 1.8%, Method 3: 4.4%, any method: 7.6%). The use of DSED detected by any method increased post-DOSE VF (pre vs. post: 822/11,228 (7.3%) vs. 381/4,625 (8.2%), p\u2009=\u20090.048). Segmented Poisson regression suggested an increase in the rate of DSED use (slope change) after DOSE VF (RR: 1.09 (1.04, 1.14) per quarter).\n\n**CONCLUSIONS**: Our findings suggest an increasing rate of DSED use after publication of DOSE VF, but the proportion of eligible patients receiving DSED remains low. Limitations include the potential for patient misclassification by our DSED ascertainment methods.",
+      "journal": "Prehosp Emerg Care",
+      "authors": [
+        "Smida T",
+        "Crowe R",
+        "Drennan IR",
+        "Williams JG",
+        "Scales DC",
+        "Caba\u00f1as JG",
+        "Studnek JR",
+        "Godfrey AW",
+        "Bharwani A",
+        "Cheskes S"
+      ],
+      "date": "2026 May 18",
+      "doi": "10.1080/10903127.2026.2674263",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Prehospital"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "traumatic",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "prehospital",
+          "strength": "weak",
+          "topic": "Prehospital"
+        },
+        {
+          "keyword": "drowning",
+          "strength": "weak",
+          "topic": "General Trauma"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42149949/"
+    },
+    {
       "pmid": "42149249",
       "title": "What is your diagnosis? Severe barotrauma supported with VV-ECMO.",
       "abstract": "",
@@ -451,7 +740,7 @@
         "Afshari A"
       ],
       "date": "2026 May 18",
-      "doi": "10.1002/14651858.CD007871.pub4",
+      "doi": "10.1111/anae.13765",
       "tier": "filtered",
       "topics": [
         "General Trauma",
@@ -6357,7 +6646,7 @@
         "Haddadi M",
         "Elkbuli A"
       ],
-      "date": "2026 Apr 16",
+      "date": "2026 Jul 1",
       "doi": "10.1016/j.ajem.2026.04.021",
       "tier": "filtered",
       "topics": [
@@ -7534,7 +7823,7 @@
         "Pourmand A",
         "Tran QK"
       ],
-      "date": "2026 Apr 11",
+      "date": "2026 Jul 1",
       "doi": "10.1016/j.ajem.2026.04.012",
       "tier": "filtered",
       "topics": [
@@ -8206,7 +8495,7 @@
       "abstract": "",
       "journal": "JAMA",
       "authors": [],
-      "date": "2026 Apr 20",
+      "date": "2026 May 19",
       "doi": "10.1001/jama.2026.4133",
       "tier": "filtered",
       "topics": [
@@ -8247,7 +8536,7 @@
         "White DB",
         "Angus DC"
       ],
-      "date": "2026 Apr 20",
+      "date": "2026 May 19",
       "doi": "10.1097/TA.0b013e318270191f",
       "tier": "filtered",
       "topics": [
@@ -8262,33 +8551,6 @@
       ],
       "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/42008277/"
-    },
-    {
-      "pmid": "42008133",
-      "title": "Conservative versus operative treatment of LC-1 pelvic ring fractures: radiographic and long-term functional outcomes.",
-      "abstract": "",
-      "journal": "Eur J Trauma Emerg Surg",
-      "authors": [
-        "Metzger F",
-        "Buschbeck S",
-        "Swartman B",
-        "Schweigkofler U"
-      ],
-      "date": "2026 Apr 20",
-      "doi": "10.1007/s00590-022-03375-z",
-      "tier": "core",
-      "topics": [
-        "Pelvic"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "pelvic ring",
-          "strength": "strong",
-          "topic": "Pelvic"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42008133/"
     },
     {
       "pmid": "42007984",
@@ -8354,113 +8616,6 @@
       "keyword_matches": [],
       "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/42007982/"
-    },
-    {
-      "pmid": "42004994",
-      "title": "Emergency preservation and resuscitation in exsanguination cardiac arrest: science fiction to future reality?",
-      "abstract": "Non-compressible torso hemorrhage (NCTH), leading to exsanguination cardiac arrest, remains the primary cause of preventable death in combat trauma. As the future operational environment shifts toward large-scale combat operations (LSCO) with delayed evacuations and increased casualty volumes, existing damage control strategies may prove inadequate due to limited resources and delayed evacuation. In 1984, US Army Colonel Ronald Bellamy challenged military medicine to develop new interventions for hemorrhagic shock, emphasizing the need for technologies that could 'buy time' for evacuation and surgical intervention. Decades later, Emergency Preservation and Resuscitation (EPR), which induces a hypometabolic state through profound hypothermia, offers a potential solution to this problem. This review summarizes the historical evolution of the EPR concept, from early military observations to modern preclinical and clinical advancements in EPR. We explore emerging technologies, such as portable extracorporeal life support systems (eg, MobyBox and CARL), organ perfusion platforms (BrainEx and OrganEx) and adjunctive pharmacologic agents (eg, Frunexian, PEG-20K, TAT-PHLPP9c and mitochondrial transplantation), that can enhance the efficacy of EPR, leading to optimized organ recovery. These innovations provide a foundation for developing resource-expedient EPR capabilities tailored for future battlefields. By synthesizing current evidence and examining the military context of prolonged casualty care, this paper outlines how EPR could meet Bellamy's challenge and serve as a next-generation tool for combat casualty care. As military medicine prepares for future conflicts, EPR may provide a critical capability to reduce mortality from NCTH and revolutionize combat trauma management in LSCO scenarios.",
-      "journal": "Trauma Surg Acute Care Open",
-      "authors": [
-        "Remondelli MH",
-        "Nye K",
-        "Wang J",
-        "Rhee J",
-        "Patterson K",
-        "Lackie M",
-        "Wang A",
-        "Scott BL",
-        "Amberman K",
-        "Atwood R",
-        "Green JT",
-        "Bozzay J",
-        "Do W",
-        "Powell EK",
-        "Morrison JJ",
-        "Burmeister D",
-        "Elster E",
-        "Bradley M",
-        "Walker P"
-      ],
-      "date": "2026 Jan 1",
-      "doi": "10.1093/milmed/usae377",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "Haemorrhage",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "haemorrhagic shock",
-          "strength": "weak",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "damage control",
-          "strength": "weak",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "preventable death",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42004994/"
-    },
-    {
-      "pmid": "42003114",
-      "title": "Clinical Outcomes Associated with Prior GLP-1 Exposure in Burned Patients.",
-      "abstract": "**INTRODUCTION**: Glucagon-like peptide-1 (GLP-1) receptor agonists have anti-inflammatory and immunomodulatory properties beyond glycemic control. Their impact on burn injury outcomes remains unexplored. This study assessed the potential impact of prior GLP-1 exposure on mortality, infectious complications, and critical care utilisation in burn patients.\n\n**METHODS**: Using the TriNetX US Network, adult patients with thermal burns \u226420% total body surface area (TBSA) between January 2018 and November 2025 were identified. Patients with GLP-1 documentation within one year before burn injury were propensity score matched with controls for age, sex, race, comorbidities, TBSA, body mass index (BMI), and hemoglobin A1c (HbA1c). Outcomes included 1-year mortality, infectious complications, critical care utilisation, and wound management outcomes. Sensitivity analyses examined 6-month and 3-year exposure windows.\n\n**RESULTS**: After matching, 8,307 patients per cohort were included. GLP-1 exposure was associated with 54% reduced odds of mortality (odds ratio [OR] 0.46, p<0.001), 35% reduced intensive care unit admission (OR 0.65, p<0.001), and 62% reduced intubation (OR 0.38, p<0.001). Infectious complications were significantly decreased, including sepsis (32% reduction), pneumonia (24% reduction), and methicillin-resistant Staphylococcus aureus (MRSA) infections (27% reduction). The odds of broad-spectrum antibiotic use decreased 21%. Benefits persisted across all exposure windows. The 3-year cohort demonstrated a 27% increase in hypertrophic scarring (OR 1.27, p=0.031).\n\n**CONCLUSION**: Prior GLP-1 receptor agonist use was associated with a significant decrease in mortality, infectious complications, and critical care utilisation among burn patients, independent of metabolic factors like BMI. These findings warrant prospective studies to optimize perioperative management strategies in this patient population.\n\n**BACKGROUND**: GLP-1 drugs are used to treat diabetes and help with weight loss. They are also known to reduce inflammation in the body. However, it is not known how these drugs affect healing after burn injuries.\n\n**AIM**: This study aimed to find out whether burn patients who were taking GLP-1 medications before their injury had better outcomes.\n\n**METHOD**: Health records from over 400,000 burn patients in the United States were studied. Patients on GLP-1 drugs were compared with similar patients not on these drugs.\n\n**FINDINGS AND CONCLUSION**: Burn patients on GLP-1 drugs were less likely to die, get bad infections, or need intensive care and more research is needed to assess their use in this patient population.",
-      "journal": "Br J Surg",
-      "authors": [
-        "Boukind A",
-        "Sharma AC",
-        "Henriquez MJ",
-        "Badran S"
-      ],
-      "date": "2026 Apr 20",
-      "doi": "10.1093/bjs/znag048",
-      "tier": "filtered",
-      "topics": [
-        "Burns"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "burn injury",
-          "strength": "weak",
-          "topic": "Burns"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42003114/"
-    },
-    {
-      "pmid": "42002754",
-      "title": "Polymeric clips versus staplers for appendiceal stump closure in laparoscopic appendectomy: a retrospective observational study.",
-      "abstract": "**PURPOSE**: The aim of this study was to compare non-absorbable polymeric clips and endostapler techniques used for appendiceal stump closure in laparoscopic appendectomy and to evaluate the outcomes of both methods in terms of clinical safety, complication rates, appendiceal diameter, histopathological stage and cost-effectiveness. Within this scope, the study aimed to determine the most appropriate stump closure technique that could minimize costs while maintaining surgical safety.\n\n**METHOD**: Data from 692 adult patients who underwent laparoscopic appendectomy for acute appendicitis in the general surgery department between January 2022 and December 2024 were retrospectively reviewed. The patients' demographic and clinical characteristics, appendiceal diameter, operative time, stump closure technique, postoperative complications, Clavien-Dindo classification, and pathological findings were recorded. Data were analyzed using the SPSS software version 25.0 and a p-value of <\u20090.05 was considered statistically significant.\n\n**RESULTS**: Polymeric clips were used in 87.6% of the patients, while staplers were used in 12.4%. In the stapler group, age (p\u2009<\u20090.001), Charlson Comorbidity Index (p\u2009<\u20090.001), CRP level (p\u2009<\u20090.001), appendiceal diameter (p\u2009<\u20090.001), and operative time (p\u2009=\u20090.003) were significantly higher. Intraoperative perforation was observed in 53.5% of patients in the stapler group and in 16.7% of those in the clip group (p\u2009<\u20090.001). The overall complication rates were similar between the two groups (p\u2009=\u20090.089). In the subgroup of perforated appendicitis cases (n\u2009=\u2009146), no significant differences were observed in complication rates (p\u2009=\u20090.601) or Clavien-Dindo grades (p\u2009=\u20090.653). The mean cost of the polymeric clip was 2.33 USD, whereas the cost of the stapler was 31.35 USD (p\u2009<\u20090.001).\n\n**CONCLUSION**: Polymeric clips represent a safe and cost-effective option for appendiceal stump closure in laparoscopic appendectomy. Postoperative outcomes were similar across techniques, although staplers tended to be used in more complex intraoperative situations.",
-      "journal": "World J Emerg Surg",
-      "authors": [
-        "\u00c7imen \u015e",
-        "Tekin KB",
-        "Kamburo\u011flu A",
-        "U\u00e7aner B"
-      ],
-      "date": "2026 Apr 19",
-      "doi": "10.1186/s13017-026-00698-8",
-      "tier": "core",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42002754/"
     }
   ]
 }
