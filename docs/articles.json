@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-19T21:12:27.649121Z",
-  "total_articles": 222,
+  "generated": "2026-05-20T21:43:29.738700Z",
+  "total_articles": 218,
   "all_topics": [
     "Abdominal",
     "Burns",
@@ -378,6 +378,243 @@
     "Cochrane Database Syst Rev": "filtered"
   },
   "articles": [
+    {
+      "pmid": "42159736",
+      "title": "Digital coordination in mass casualty incidents: a retrospective analysis of prehospital distribution times before and after IVENA-MANV implementation.",
+      "abstract": "**BACKGROUND**: Digital coordination tools have been proposed to improve management during mass casualty incidents (MCIs). In 2021, the IVENA-MANV system was introduced in the Hannover region as an extension of the established IVENA eHealth platform to enable digital patient tracking and hospital capacity management. However, no real-world evaluations have yet quantified their operational impact.\n\n**OBJECTIVES**: This study aimed to provide the first real-world evaluation of the IVENA-MANV digital coordination system and to determine how its implementation affected prehospital distribution processes and time intervals during mass casualty incidents.\n\n**METHODS**: A retrospective observational study to assess the impact of the IVENA-MANV digital coordination platform on prehospital times during MCIs in Germany was conducted using dispatch records and IVENA-MANV logs from all MCIs between January 2018 and July 2025 in the Hanover-Region in Germany. Primary outcomes were the triage-to-evacuation (TtE) and total prehospital time (TPHT) per patient. Mann-Whitney U tests compared pre- and post-implementation groups, and multiple linear regression models examined associations between IVENA-MANV use, MCI-level, and time intervals.\n\n**RESULTS**: Seventy-three MCIs met inclusion criteria, including 188 documented individual casualty characteristics. 41.1% of incidents used IVENA-MANV. Most MCIs were trauma-related (65.8%) and traffic-associated (64.4%). Mean TtE was 40.2\u2009\u00b1\u200919.3\u00a0min, and mean TPHT 83.9\u2009\u00b1\u200929.5\u00a0min. No statistically significant differences were found between pre- and post-implementation cohorts (p\u2009>\u20090.05). Regression analysis confirmed MCI-level as the only significant predictor of prolonged intervals (p\u2009<\u20090.001). IVENA-MANV enabled structured hospital allocation and real-time capacity confirmation (mean 1.8\u00a0min to first confirmation) without extending on-scene times.\n\n**CONCLUSIONS**: Implementation of IVENA-MANV did not significantly affect prehospital time intervals but demonstrated qualitative benefits for coordination, documentation, and hospital communication. The value of digital systems in disaster medicine may therefore lie in strengthening coordination and information resilience rather than accelerating evacuation. Prospective multicentre and mixed-methods studies are warranted to assess their broader system-level impact.",
+      "journal": "Eur J Trauma Emerg Surg",
+      "authors": [
+        "Brauckmann V",
+        "Ringe B",
+        "Caviglia M"
+      ],
+      "date": "2026 May 20",
+      "doi": "10.1055/s-0040-100109",
+      "tier": "core",
+      "topics": [
+        "General Trauma",
+        "Prehospital"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "prehospital",
+          "strength": "strong",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42159736/"
+    },
+    {
+      "pmid": "42159402",
+      "title": "Serratus Anterior Plane Block for Acute Rib Fractures in the Emergency Department: A Randomized Controlled Trial.",
+      "abstract": "**STUDY OBJECTIVES**: Managing pain associated with acute rib fractures remains a challenge in the emergency department. The current standard of care involves multimodal pain management and pulmonary hygiene. The Serratus Anterior Plane Block (SAPB) is easily performed at the bedside, offers a favorable risk profile, and provides targeted analgesia for patients with rib fractures. Here, we investigated whether SAPB performed by an emergency medicine (EM) physician in addition to usual care improves the pain, inspiratory capacity, and cough (PIC) score in patients with acute rib fractures compared to usual care alone.\n\n**METHODS**: We conducted a prospective, open-label, randomized controlled trial at an academic Level 1 Trauma Center. We enrolled adult patients with anterior or lateral rib fractures T2 through T9 and a pain score \u2265\u20095 out of 10. Participants were randomized to either receive a SAPB plus usual care or usual care alone. The primary outcome was an improvement in the PIC score. The secondary outcome was oral morphine equivalents (OMEs) administered at 24\u2009h. We analyzed changes in PIC scores using a linear mixed-effects model and compared OME consumption using the Wilcoxon rank-sum test.\n\n**RESULTS**: Thirty-eight patients were included in the final analysis (19 intervention, 19 control). The SAPB group demonstrated a significant improvement in PIC scores at 5\u2009h post-enrollment compared with the control group (estimated average effect 0.90; 95% CI: 0.10 to 1.69; p\u2009=\u20090.03). Patients in the intervention arm received 32.2\u2009mg OMEs versus 54.1\u2009mg OMEs in the control arm at 24\u2009h, which was not statistically significant (p\u2009=\u20090.44). No complications were observed.\n\n**CONCLUSIONS**: Adding the SAPB to usual care produced a statistically significant improvement in PIC scores among emergency department (ED) patients with rib fractures. SAPB was performed safely by emergency physicians and represents a feasible, scalable adjunct for acute rib fracture analgesia in the ED.\n\n**TRIAL REGISTRATION**: ClinicalTrials.gov: NCT06299137.",
+      "journal": "Acad Emerg Med",
+      "authors": [
+        "Perice L",
+        "Azzo C",
+        "Cowan M",
+        "Kheirbek T",
+        "Driver L",
+        "Tokarz S",
+        "Gallegos H",
+        "Kharel R",
+        "Jarabana SG",
+        "Baird J",
+        "Pare JR"
+      ],
+      "date": "2026 May 1",
+      "doi": "10.1111/acem.70338",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Systems/QI",
+        "Thoracic"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "rib fracture",
+          "strength": "strong",
+          "topic": "Thoracic"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42159402/"
+    },
+    {
+      "pmid": "42157171",
+      "title": "Impact of emergency medical services volume on outcomes and management in prehospital traumatic cardiac arrest: a retrospective cohort study.",
+      "abstract": "**BACKGROUND**: While volume-outcome relationships for non-traumatic out-of-hospital cardiac arrest have been reported in hospital settings, the impact of prehospital exposure, particularly for the rare and clinically complex entity of traumatic cardiac arrest (TCA), remains uncertain and may influence emergency medical services (EMS) proficiency and survival. The study aimed to assess the relationship between exposure of emergency medical services to traumatic cardiac arrest cases and patients' survival.\n\n**METHODS**: We conducted a multicentre retrospective cohort study using data from the French nationwide out of hospital cardiac arrest registry (R\u00e9AC) from July 2011 to March 2023. EMS volume was defined by the number of traumatic cardiac arrests managed by physician-staffed EMS per year of participation in the registry. The primary outcome was survival upon hospital admission. Secondary outcomes included return of spontaneous circulation (ROSC), 30-day survival, and 30-day survival with a favourable neurological outcome. We also investigated key prehospital management variables such as epinephrine administration, intubation, haemorrhage control procedures, fluid resuscitation, blood transfusion, thoracostomy, on-scene time and transport time. A multivariable mixed model was used to account for differences in baseline characteristics.\n\n**RESULTS**: Among 151,658 out-of-hospital cardiac arrest, 6,263 were identified as TCA (age 45\u2009years [IQR 29;63]; 77% male) treated across 175 EMS bases. EMS volume ranged from 0.02 to 3.28 TCA per year. No significant relationship was observed between EMS volume and survival to hospital admission (OR 1.00; 95% CI [0.99-1.01]; p\u2009=\u20090.7), as well as with ROSC (OR 1.00; 95% CI [0.99-1.01]; p\u2009>\u20090.9), 30-day survival (OR 1.01; 95% CI [0.98-1.05]; p\u2009=\u20090.4) or 30-day survival with favourable neurological outcome (OR 1.02; 95% CI [0.97-1.07]; p\u2009=\u20090.4). Similarly, no significant associations were observed in pre-hospital interventions or on-scene and transportation times.\n\n**CONCLUSIONS**: EMS activity was not associated with differences in outcomes or management for traumatic cardiac arrest. Its rarity and lethality may hinder the acquisition and maintenance of provider expertise, highlighting the importance of targeted training.",
+      "journal": "Scand J Trauma Resusc Emerg Med",
+      "authors": [
+        "Morcel B",
+        "Yordanov Y",
+        "Mercier E",
+        "David JS",
+        "Gauss T",
+        "Tazarourte K",
+        "Benhamed A"
+      ],
+      "date": "2026 May 20",
+      "doi": "10.1186/s13049-026-01622-4",
+      "tier": "core",
+      "topics": [
+        "Cardiac Arrest",
+        "General Trauma",
+        "Haemorrhage",
+        "Prehospital",
+        "Thoracic"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "traumatic",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "thoracostomy",
+          "strength": "weak",
+          "topic": "Thoracic"
+        },
+        {
+          "keyword": "blood transfusion",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "prehospital",
+          "strength": "strong",
+          "topic": "Prehospital"
+        },
+        {
+          "keyword": "traumatic cardiac arrest",
+          "strength": "strong",
+          "topic": "Cardiac Arrest"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42157171/"
+    },
+    {
+      "pmid": "42156159",
+      "title": "Experiences and mental challenges of Turkish healthcare professionals in the Libyan flood disaster: a qualitative study.",
+      "abstract": "**OBJECTIVE**: The provision of aid services in the context of disasters can also give rise to a range of physical and psychological issues among healthcare professionals. Such circumstances have the potential to negatively impact both their well-being and professional performance. However, their difficulty in expressing all of their experiences makes it difficult to understand this situation in depth. This study aims to explore in depth the experiences and mental challenges faced by Turkish health professionals during the Libyan flood disaster.\n\n**METHODS**: This was a qualitative study involving 10 health workers who had been involved in disaster response following the floods. The flood occurred on 10 September 2023. Data were collected between March and August 2024 through semi-structured interviews conducted either online or face-to-face in the participants' homes. This timeframe enabled participants to articulate both their immediate reactions to the disaster and its longer-term effects on their personal and professional lives. An interpretive phenomenological approach was employed using Colaizzi's phenomenological analysis technique.\n\n**RESULTS**: The analysis revealed four principal themes. First, healthcare professionals emphasised the essential knowledge and skills required to provide effective care and treatment in the context of the flood. Second, they reported substantial physical challenges in the disaster zone, such as limited resources and disrupted infrastructure. Third, they described the profound mental challenges they faced, including stress, fear and emotional exhaustion. Finally, participants highlighted various coping strategies they employed to manage these difficulties and sustain their professional performance.\n\n**CONCLUSION**: The study revealed that Turkish healthcare professionals who volunteered after the floods in Libya experienced not only physical challenges such as lack of resources, infrastructure problems and security concerns, but also psychological challenges such as secondary trauma and burnout. Furthermore, it was observed that not only professional knowledge and skills but also the capacity to cope with traumatic experiences are decisive in the effectiveness of disaster response processes. The study underscores the necessity for the implementation of psychosocial support and training programmes for professionals, with the objective of accelerating both individual and societal recovery processes following disasters.",
+      "journal": "Emerg Med J",
+      "authors": [
+        "\u015eahin M",
+        "Salik H",
+        "Uslu \u00d6"
+      ],
+      "date": "2026 May 19",
+      "doi": "10.1136/emermed-2024-214819",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "weak",
+          "topic": "General Trauma"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42156159/"
+    },
+    {
+      "pmid": "42155533",
+      "title": "Reassessing hand dominance in pediatric lateral condyle fractures: A cohort study of surgical predictors.",
+      "abstract": "**INTRODUCTION**: Lateral condyle fractures are the second most common elbow fracture in pediatric patients with high rates of articular involvement and displacement leading to surgical management. This study aims to assess whether dominant side fracture predicts conservative treatment change, undergoing surgical management or clinical outcomes in pediatric lateral condyle fractures and to identify independent predictors of surgery, loss of reduction, and complications.\n\n**METHODS**: Pediatric patients with lateral condyle fractures treated between 2019-2021 with documented hand dominance at injury were included. Outcomes included surgical management, change of conservative treatment, loss of reduction, and complications. Demographic and fracture characteristics were analyzed using descriptive statistics. Continuous variables were compared using Welch's t-test, and categorical variables using chi-square or Fisher's exact tests. Multivariate logistic regression identified independent predictors.\n\n**RESULTS**: A total of 200 patients were included (mean age 5.98 \u00b1 2.52 years; 65% male; mean BMI 18.58 \u00b1 4.00\u00a0kg/m\u00b2; mean follow-up 88.9 \u00b1 153.4 days). Mechanisms of injury included fall (50%), direct hit (35%), and FOOSH (15%). Weiss type 1 fractures predominated (61.5%), and fracture displacement occurred in 47.5%. Dominant-hand fracture was not an independent predictor of initial surgery, overall surgery, change to surgery, complications, loss of reduction, or subsequent surgery (all p\u00a0>\u00a00.05). Fracture displacement predicted initial surgery (OR = 8.91, p\u00a0=\u00a00.001), overall surgery (OR = 5.59, p\u00a0=\u00a00.002), and subsequent surgery (OR = 11.91, p\u00a0=\u00a00.035). Higher Weiss classification predicted initial and overall surgery (both p\u00a0<\u00a00.001). Non-FOOSH mechanisms increased loss of reduction (OR = 3.95, p\u00a0=\u00a00.039), and BMI >\u00a085th percentile increased treatment change (p\u00a0=\u00a00.016).\n\n**CONCLUSION**: Dominant side fracture was not an independent predictor of conservative management change, undergoing surgical management or clinical outcomes in pediatric lateral condyle fractures. Fracture displacement and higher Weiss classification were the strongest predictors of surgical intervention, while non-FOOSH mechanisms and elevated BMI were associated with higher risks of loss of reduction and change of conservative management, respectively.\n\n**LEVEL OF EVIDENCE**: Level III.",
+      "journal": "Injury",
+      "authors": [
+        "Smadi Z",
+        "Balaji S",
+        "Turner L",
+        "McCarver M",
+        "Mubarak F",
+        "McKay S"
+      ],
+      "date": "2026 May 12",
+      "doi": "10.1016/j.injury.2026.113356",
+      "tier": "filtered",
+      "topics": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42155533/"
+    },
+    {
+      "pmid": "42155532",
+      "title": "Bouldering-related trauma: Injury patterns and operative burden over 10 years at a UK major trauma centre.",
+      "abstract": "**INTRODUCTION**: Bouldering is a rapidly growing discipline within climbing, characterised by short ascents performed without ropes, typically at heights of up to several metres above protective crash mats. While overall injury burden among climbers has been described in the literature, detailed analyses of severe orthopaedic trauma presenting to major trauma centres remain limited. As participation continues to increase, particularly within indoor climbing facilities, a clearer understanding of injury patterns associated with bouldering is needed. This study aimed to characterise the anatomical distribution, injury patterns, and operative burden of bouldering-related trauma presenting to a UK Level I trauma centre.\n\n**METHODS**: A retrospective cohort study was conducted of adult patients (\u226516 years) presenting with climbing-related orthopaedic injuries between January 2015 and May 2025. Cases were identified through trauma registry and electronic record review. Demographic data, injury mechanism, anatomical injury location, and management strategy were collected. The primary outcome was requirement for operative intervention. Secondary outcomes included injury distribution and specific fracture or dislocation patterns.\n\n**RESULTS**: A total of 176 patients were identified (mean age 29 years; 51% male). The average reported fall height was 2.9\u00a0m. Lower limb injuries predominated, accounting for 62% of all injuries, with ankle fractures representing the most common diagnosis (40%). Upper limb injuries comprised 32%, most frequently radial head fractures (7%) and elbow dislocations (6%). Overall, 24% of patients required operative management. Open injuries were identified in 4% of cases. Lower limb injuries accounted for most operative cases, with ankle ORIF representing 41% of all procedures performed. Upper limb injuries were less frequently managed surgically (19% operative rate) and were typically associated with high impact fall mechanisms.\n\n**CONCLUSION**: Bouldering-related injuries presenting to a major trauma centre demonstrate a distinct pattern of acute orthopaedic trauma, characterised by a predominance of lower limb fractures and a relatively high operative requirement for a niche sporting population. These findings differ from traditional climbing literature and highlight the need for targeted injury prevention strategies and climber education.",
+      "journal": "Injury",
+      "authors": [
+        "Jemmett H",
+        "James C",
+        "Davidson E"
+      ],
+      "date": "2026 May 16",
+      "doi": "10.1016/j.injury.2026.113359",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Orthopaedic",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "major trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "strong",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "orthopaedic trauma",
+          "strength": "weak",
+          "topic": "Orthopaedic"
+        },
+        {
+          "keyword": "injury prevention",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "trauma registry",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42155532/"
+    },
     {
       "pmid": "42154050",
       "title": "The real-world management of acute mesenteric ischemia in Spain: results from a multicenter national survey.",
@@ -8269,353 +8506,6 @@
       ],
       "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/42013718/"
-    },
-    {
-      "pmid": "42012669",
-      "title": "Experience with patient-specific guides, insteatientad of general surgical experience, improves the accuracy of 3D-guided corrective osteotomies.",
-      "abstract": "**PURPOSE**: This study investigated whether the accuracy of 3D-guided osteotomies is influenced by surgeon experience. Two types of experience were assessed: (1) general surgical experience, defined as self-reported years in practice as an orthopaedic trauma surgeon, and (2) prior use of patient-specific guides (PSGs). Secondary aim was to evaluate whether accuracy varies by anatomical location.\n\n**METHODS**: 24 orthopaedic-trauma surgeons performed 75 corrective osteotomies on cadaveric long-bones (43 single-cut, 32 double-cut; 107 cuts in total). Each osteotomy was preoperatively planned on CT-derived 3D-reconstructions, and PSGs were manufactured to guide the cuts. Postoperative CT-scans were used to compare planned and executed osteotomy planes. Surgeons completed a questionnaire reporting years of practice and annual PSG usage. A Spearman\u2019s rank-order correlation was used to test differences in accuracy versus experience, a Kruskal-Wallis test was performed to explore differences across anatomical locations.\n\n**RESULTS**: General surgical experience ranged from 0 to 25 years (median 9), and PSG-usage from 0 to 20 cases annually (median 2). No association was found between general surgical experience and osteotomy accuracy (\n\n**CONCLUSION**: Experience with PSGs, rather than general surgical experience, improves accuracy in 3D-guided osteotomies, highlighting the need for training and repeated use. In contrast to metaphyseal, midshaft lower-extremity osteotomies are executed less accurately because fewer anatomical reference points are available.\n\n**SUPPLEMENTARY INFORMATION**: The online version contains supplementary material available at 10.1007/s00068-026-03179-4.",
-      "journal": "Eur J Trauma Emerg Surg",
-      "authors": [
-        "Buist ML",
-        "Meesters AML",
-        "Colaris JW",
-        "Doornberg JN",
-        "Ten Duis K",
-        "Tabern\u00e9e Heijtmeijer SJC",
-        "Jutte PC",
-        "Pijpker PAJ",
-        "Schep NWL",
-        "Smelt AD",
-        "van der Veen HC",
-        "Vochteloo AJH",
-        "IJpma FFA",
-        "Assink N"
-      ],
-      "date": "2026 Apr 21",
-      "doi": "10.1007/s00068-026-03179-4",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "Orthopaedic"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "orthopaedic trauma",
-          "strength": "weak",
-          "topic": "Orthopaedic"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42012669/"
-    },
-    {
-      "pmid": "42012525",
-      "title": "Analysis of DRG remuneration of acute fracture procedures versus elective total arthroplasty for the German health care system - Is elective total arthroplasty really more cost-effective?",
-      "abstract": "**PURPOSE**: Elective arthroplasty is considered a cost-effective procedure compared to trauma-related surgical interventions. This study aims to compare remuneration, certain ratios regarding implant costs, operation (OR) time and length of stay (LOS) as well as contribution margins including personnel costs for acute fracture interventions and elective arthroplasty procedures at the hip and shoulder joint in the aG-DRG system.\n\n**METHODS**: Based on billing data of 212 inpatient treatment cases from a University Orthopaedic Trauma Department reimbursements of nail fixation and hemi-arthroplasty (HA) for proximal femoral fractures versus elective total hip arthroplasty (THA) for osteoarthritis were analysed. Locking plate fixation and reverse total shoulder arthroplasty (rTSA) for proximal humeral fractures were compared to elective rTSA for osteoarthritis. Different ratios of the DRG remuneration in relation to LOS, OR time and implant costs but also personnel costs and contribution margins were calculated.\n\n**RESULTS**: DRG reimbursement was highest for fracture arthroplasty of the shoulder (9.050 EUR, rTSA) and the hip (6.930 EUR, HA). Regarding LOS, DRG reimbursement was highest for elective rTSA (1.641 EUR/day). Nail fixation of proximal femoral fractures showed the highest DRG reimbursement regarding OR time (111 EUR/min) and implant costs (15 EUR/EUR). The contribution margin was highest for fracture rTSA (6.339 EUR) and lowest for elective THA (3.842 EUR).\n\n**CONCLUSION**: Elective total hip and shoulder arthroplasty is not generally more cost-effective in the aG-DRG system. Acute fracture-related interventions seem economically more advantageous with regard to implant costs and OR time, elective total arthoplasty seems more profitable regarding LOS in the hospital.",
-      "journal": "Eur J Trauma Emerg Surg",
-      "authors": [
-        "Hierl K",
-        "Kerschbaum M",
-        "Baumann F",
-        "Alt V"
-      ],
-      "date": "2026 Apr 21",
-      "doi": "10.1016/j.amjsurg.2003.06.002",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "Orthopaedic"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "orthopaedic trauma",
-          "strength": "weak",
-          "topic": "Orthopaedic"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42012525/"
-    },
-    {
-      "pmid": "42012496",
-      "title": "Percutaneous screw osteosynthesis for the treatment of intra-articular displaced calcaneus fractures.",
-      "abstract": "**PURPOSE**: This systematic review investigates how percutaneous screw osteosynthesis for the treatment of intra-articular displaced calcaneus fractures differs from open reduction and internal fixation (ORIF).\n\n**METHODS**: Randomized controlled trials and controlled clinical trials investigating adults with closed intra-articular displaced calcaneus fracture (Sanders type II - IV) treated with percutaneous screw osteosynthesis or ORIF were included. Severe vascular and neurological diseases or polytrauma patients were excluded. On January 29, 2024, five databases and two trial registries were searched. The Risk of Bias Tool of Cochrane was used. The protocol was registered on PROSPERO (CRD42021244695).\n\n**RESULTS**: Five studies with 654 participants (682 calcaneus fractures) were included. The risk of bias was moderate to high. None of the single studies found a significant difference regarding severe complications. However, meta-analysis revealed a lower risk for the percutaneous screw osteosynthesis group compared to ORIF (relative risk (RR) 0.40 (95% Confidence Interval [0.17; 0.92]; I\u00b2 = 0%; \n\n**CONCLUSION**: Percutaneous screw osteosynthesis in intra-articular displaced calcaneus fractures might be beneficial to ORIF in terms of minor and severe complications, and pain at four weeks. Percutaneous screw osteosynthesis could be an additional, less invasive treatment option, depending on the complexity of the injury. However, studies with larger sample sizes are needed to confirm these results and explore long-term complications.\n\n**SUPPLEMENTARY INFORMATION**: The online version contains supplementary material available at 10.1007/s00068-026-03098-4.",
-      "journal": "Eur J Trauma Emerg Surg",
-      "authors": [
-        "Wilmsen L",
-        "Neubert A",
-        "Deichsel A",
-        "Schulz D",
-        "Hoelscher-Doht S",
-        "Windolf J",
-        "Icks A",
-        "Thelen S"
-      ],
-      "date": "2026 Apr 21",
-      "doi": "10.1016/j.fas.2021.02.002",
-      "tier": "core",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "polytrauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42012496/"
-    },
-    {
-      "pmid": "42011817",
-      "title": "Buffered solutions versus 0.9% saline for resuscitation in critically ill adults and children.",
-      "abstract": "**RATIONALE**: Fluid therapy is one of the main interventions provided for critically ill patients, although there is no consensus regarding the type of solution that should be used. There are two main types: colloid and crystalloid. The most commonly administered crystalloid solution is 0.9% saline. Buffered solutions may offer some theoretical advantages (e.g. less metabolic acidosis, less electrolyte disturbance), but the clinical relevance of these remains unknown. This is an update of a review published in 2019.\n\n**OBJECTIVES**: To assess the effects of buffered solutions versus 0.9% saline for resuscitation or maintenance in critically ill adults and children.\n\n**SEARCH METHODS**: We searched CENTRAL, MEDLINE, Embase, CINAHL, and four trial registers in July 2023. We checked references, conducted backward and forward citation searches for relevant articles, and contacted study authors to identify additional studies. Although we updated our search in June 2025, the results have not yet been fully incorporated into the review.\n\n**ELIGIBILITY CRITERIA**: We included randomised controlled trials (RCTs) with parallel or cross-over design that examined buffered solutions versus 0.9% saline in a critical care setting (resuscitation or maintenance). We included studies with participants who required intravenous fluid therapy due to critical illness (including trauma and burns) or undergoing emergency surgery during critical illness. We included studies of adults or children (or both). We excluded studies of people undergoing elective surgery and studies with multiple interventions in the same arm.\n\n**OUTCOMES**: Our critical outcomes were overall (in-hospital) mortality and acute renal injury. Our important outcomes were organ system dysfunction, need for renal replacement therapy, days without organ support, electrolyte disturbances, blood loss or transfusion, coagulation disorders, total resuscitation fluid volume, quality of life, and cost. To populate a table summarising the findings of our review, we selected key outcomes for decision-makers, which were our two critical outcomes and two of our important outcomes (organ system dysfunction and electrolyte disturbances).\n\n**RISK OF BIAS**: Two review authors independently assessed the risk of bias of each included study using the Cochrane risk of bias tool RoB 1. We considered pharmaceutical industry funding as a potential source of bias.\n\n**SYNTHESIS METHODS**: Where possible, we synthesised results for each outcome using random-effects meta-analysis. We reported outcomes using the odds ratio (OR) and 95% confidence intervals (CIs). We used the GRADE approach to assess the certainty of evidence.\n\n**INCLUDED STUDIES**: We included 34 studies, with a total of 37,859 participants. Two RCTs with 26,854 participants contributed more than 70% of the total sample. Adults were the participants in 22 trials, and children in 12. All studies enroled critically ill participants: people with diabetic ketoacidosis (six studies), acute pancreatitis (five studies), severe dehydration (five studies), sepsis or septic shock (four studies), severe trauma (three studies), dengue shock syndrome (two studies), and mixed conditions (nine studies). The studies took place in 16 countries. All studies were published in English. We judged 16 studies to have an overall low risk of bias (i.e. low risk of bias for allocation concealment, blinding of participants and blinding of assessors, incomplete outcome data, and selective reporting). In the remaining trials, we judged that some form of bias had been introduced or could not be ruled out.\n\n**SYNTHESIS OF RESULTS**: We found that buffered solutions result in little to no difference in overall (in-hospital) mortality (OR 0.95, 95% CI 0.90 to 1.01; I\u00b2 = 0%; 23 studies, 36,452 participants; high-certainty evidence), when compared to 0.9% saline. Based on a mortality rate of 147 people per 1000, buffered solutions could reduce the number of deaths by 13 per 1000 or could increase deaths by 1 per 1000. We found that buffered solutions likely result in little to no difference in acute renal injury (OR 0.87, 95% CI 0.75 to 1.02; I\u00b2 = 51%; 17 studies, 30,832 participants; moderate-certainty evidence). We downgraded the certainty of the evidence because of the risk of bias. Based on an acute renal injury rate of 140 per 1000, buffered solutions could reduce acute renal injury by 31 per 1000 or could increase acute renal injury by 2 per 1000. We are very uncertain of the effects of buffered solutions versus 0.9% saline on organ system dysfunction (OR 0.83, 95% CI 0.41 to 1.70; I\u00b2 = 0%; 5 studies, 266 participants; very low certainty evidence), and on sodium (MD -0.26, 95% CI -2.29 to 1.77; I\u00b2 = 79%; 7 studies, 1246 participants; very low certainty evidence) and potassium (MD 0.11, 95% CI -0.04 to 0.25; I\u00b2 = 41%; 5 studies, 1086 participants; very low certainty evidence). Compared to 0.9% saline, buffered solutions may reduce chloride (MD -2.39, 95% CI -3.77 to -1.00; I\u00b2 = 90%; 11 studies, 1981 participants), and may increase pH (MD 0.06, 95% CI 0.02 to 0.10; I\u00b2 = 88%; 6 studies, 1224 participants) and bicarbonate (MD 2.16, 95% CI 1.06 to 3.25; I\u00b2 = 87%; 9 studies, 1368 participants) (all low-certainty evidence). We downgraded the certainty of the evidence because of the risk of bias and imprecision.\n\n**AUTHORS' CONCLUSIONS**: Buffered solutions do not reduce overall (in-hospital) mortality compared to 0.9% saline solution in critically ill patients, and probably do not reduce acute renal injury. Evidence for organ system dysfunction and electrolyte disturbances is of low or very low certainty. We have high-certainty evidence about the outcome of mortality, but further trials are needed to clarify the impact of buffered solutions on acute renal injury and other outcomes. Future studies should involve underrepresented populations (paediatric, neurocritical, female) and adopt standardised, patient-centred outcome measures to broaden the evidence base. Once the 38 relevant ongoing studies are published and the nine studies that await classification are evaluated, the inclusion of new studies in this review may alter its conclusions regarding acute renal injury, organ dysfunction, and electrolyte disturbances.\n\n**FUNDING**: The original review and this update received no funding.\n\n**REGISTRATION**: This 2026 review is an update of the 2019 review. Both versions were conducted according to the published protocol. Protocol (2016) available at https://doi.org/10.1002/14651858.CD012247 The protocol was registered with PROSPERO (CRD42016045988). Original review (2019) available at https://doi.org/10.1002/14651858.CD012247.pub2.",
-      "journal": "Cochrane Database Syst Rev",
-      "authors": [
-        "Delgado Moya FP",
-        "Antequera A",
-        "Muriel A",
-        "S\u00e1ez I",
-        "Lopez Garcia L",
-        "Chico-Fern\u00e1ndez M",
-        "Estrada-Lorenzo JM",
-        "Martin Delgado MC",
-        "Barea Mendoza JA",
-        "Plana MN"
-      ],
-      "date": "2026 Apr 21",
-      "doi": "10.1097/PCC.0000000000002890",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42011817/"
-    },
-    {
-      "pmid": "42010700",
-      "title": "Autoregulation-guided intracranial pressure and cerebral perfusion pressure targets in different subtypes and characteristics of traumatic brain injury.",
-      "abstract": "",
-      "journal": "Crit Care",
-      "authors": [
-        "Yuan Q",
-        "Yao HJ",
-        "Yu C",
-        "Guo Y",
-        "Ye XR",
-        "Wang MH",
-        "Song J",
-        "Liu ZY",
-        "Xi CH",
-        "Chen LH",
-        "Du ZY",
-        "Chen L",
-        "Wu BW",
-        "Yang L",
-        "Hu J",
-        "Wu G"
-      ],
-      "date": "2026 Apr 20",
-      "doi": "10.1186/s13054-026-06030-9",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "TBI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "traumatic",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic brain injury",
-          "strength": "strong",
-          "topic": "TBI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42010700/"
-    },
-    {
-      "pmid": "42009598",
-      "title": "Preinjury, injury and post-injury factors leading to death in children and young people who were victims of knife crime in England between 2019 and 2024: a review of the National Child Mortality Database.",
-      "abstract": "**BACKGROUND**: Knife-related deaths in children present a serious public health challenge. This study reports the demographics and preinjury, injury and postinjury factors associated with death in children and young people (CYP), under the age of 18 years, who died of knife wounds in England between 2019 and 2024.\n\n**METHODS**: A retrospective cohort review of the English National Child Mortality Database between April 2019 and March 2024. Rates of death were corrected for population size using the 2021 census. Preinjury, injury and postinjury factors associated with death are reported descriptively.\n\n**RESULTS**: 145 CYP died of knife wounds. The mean age was 14.4 years (SD 4.2) and 90.3% (n=131) were male. The rates of death per 100 000 CYP, per year were highest in children of 'Black/Black British' ethnicity (1.40 (95% CI 1.03 to 1.86)), with an incidence rate ratio (IRR) of 13.29 (95% CI 8.23 to 20.00), compared with CYP of 'White' ethnicity. Children living in the most deprived areas, had a greater than seven times higher risk of death (IRR 7.48 (95% CI 3.22 to 17.29), compared to CYP living in the least deprived areas. Of the 57\u2009cases available for detailed analysis, injuries to the chest and neck were responsible for the fatal injuries in 75.9% of cases (n=44) and 60.3% (n=35) died before reaching hospital. A thoracotomy was performed in 56.9% (n=33) of cases. Prior to death, 75.4% (n=43) had been known to social services and 57.9% (n=33) had experienced domestic violence and abuse. Neurodiversity or mental health concerns were reported in 50.9% (n=29) of CYP.\n\n**CONCLUSIONS**: Death of CYP secondary to knife wounds occurred in all regions of England. Many children are exposed to adverse childhood experiences before death and known to statutory services. The identification of interventions to decrease the risk to children from knife violence remains a priority.",
-      "journal": "Emerg Med J",
-      "authors": [
-        "Roberts T",
-        "Odd D",
-        "Coveney J",
-        "Webster S",
-        "Levell J",
-        "Stoianova S",
-        "Sleap V",
-        "Williams T",
-        "Marlow R",
-        "Luyt K",
-        "Carlton E"
-      ],
-      "date": "2026 May 06",
-      "doi": "10.1136/emermed-2025-215154",
-      "tier": "filtered",
-      "topics": [
-        "Thoracic"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "thoracotomy",
-          "strength": "weak",
-          "topic": "Thoracic"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42009598/"
-    },
-    {
-      "pmid": "42008284",
-      "title": "Using Serious Games to Increase the Implementation of Trauma Triage Guidelines: Research Summary.",
-      "abstract": "",
-      "journal": "JAMA",
-      "authors": [],
-      "date": "2026 May 19",
-      "doi": "10.1001/jama.2026.4133",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42008284/"
-    },
-    {
-      "pmid": "42008277",
-      "title": "Using Serious Games to Increase the Implementation of Trauma Triage Guidelines: A Randomized Clinical Trial.",
-      "abstract": "**IMPORTANCE**: Low-cost methods that improve physician adherence to clinical guidelines are lacking. Trauma triage exemplifies time-sensitive conditions where guideline adherence remains at 50% or less despite stakeholder efforts, particularly when treating older adults.\n\n**OBJECTIVE**: To determine whether a theory-based serious game (a purpose-driven video game) improves emergency physician adherence to trauma triage guidelines for older adults.\n\n**DESIGN, SETTING, AND PARTICIPANTS**: This randomized clinical trial recruited 800 emergency physicians responsible for the triage of Medicare fee-for-service injured patients (\u226565 years of age) at emergency departments within nontrauma centers in the US. Physician enrollment began November 27, 2023, and concluded February 7, 2024. Data collection began January 1, 2024 (or the date of enrollment), and ended February 6, 2025. The patients were treated during the 1 year after physician enrollment.\n\n**INTERVENTIONS**: Game-based training on a tablet for an initial session of 2 hours and then a 20-minute session each quarter (4 doses; n\u2009=\u2009400 physicians) vs usual education (n\u2009=\u2009400 physicians).\n\n**MAIN OUTCOMES AND MEASURES**: The primary outcome was undertriage (defined as the proportion of severely injured patients not transferred to trauma centers) during the year after randomization. The secondary outcomes were overtriage (defined as the proportion of transferred patients with minor injuries) and a composite clinical outcome of 30-day mortality or hospital readmission. Medicare fee-for-service claims were analyzed using mixed-effects regression models.\n\n**RESULTS**: Of the 800 physicians, the length of experience was a median of 10 (IQR, 6-17) years in practice, 71% were male (563/789), and 750 (94%) had completed Advanced Trauma Life Support. The physicians worked at 1147 hospitals and treated 41\u202f073 injured Medicare patients, of whom 1738 (4.2%) had severe injuries. Of the physicians in the game-based training (intervention) group, 99% (397/399) received 1 dose and 67% (268/399) received 4 doses. Physicians in the game-based training group had a lower proportion of severely injured older adults who were undertriaged (49%; 402/819) compared with the usual education (control) group (57%; 527/919) (model-adjusted difference, -7% [95% CI, -13% to -0.8%]; P\u2009=\u2009.02). The model-adjusted difference did not differ for the outcomes of overtriage (-3% [95% CI, -6% to 1%]; P\u2009=\u2009.14) and the composite outcome (-0.4% [95% CI, -5% to 4%]; P\u2009=\u2009.87).\n\n**CONCLUSIONS AND RELEVANCE**: Among physicians responsible for the triage of patients in emergency departments of nontrauma centers, use of a theory-based serious game decreased the proportion of severely injured patients who were undertriaged.\n\n**TRIAL REGISTRATION**: ClinicalTrials.gov Identifier: NCT06063434.",
-      "journal": "JAMA",
-      "authors": [
-        "Mohan D",
-        "Chang CH",
-        "Fischhoff B",
-        "Elmer J",
-        "Rak KJ",
-        "Barnes JL",
-        "Peitzman AB",
-        "Bendesky B",
-        "Carr C",
-        "Chapman AC",
-        "Forsythe RM",
-        "Guyette FX",
-        "Hynes AM",
-        "Oskvarek JJ",
-        "Weingart SD",
-        "Weinstock MB",
-        "White DB",
-        "Angus DC"
-      ],
-      "date": "2026 May 19",
-      "doi": "10.1097/TA.0b013e318270191f",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42008277/"
-    },
-    {
-      "pmid": "42007984",
-      "title": "Temperature control in acute brain injury.",
-      "abstract": "**PURPOSE**: Temperature is a key determinant of cerebral vulnerability after acute brain injury and a physiological variable that can be continuously monitored and actively controlled in the intensive care unit. Its therapeutic role has evolved from hypothermia-centred strategies toward early recognition of fever and controlled normothermia. This review examines the physiological rationale, clinical evidence, and contemporary practice of temperature management in neurocritical care.\n\n**METHODS**: We synthesised evidence from major randomised trials, observational studies, and international consensus recommendations across traumatic brain injury, acute vascular brain injury, and post-cardiac arrest encephalopathy, together with current monitoring and implementation approaches.\n\n**RESULTS**: Fever is consistently associated with worse neurological outcomes. In traumatic brain injury, hypothermia reduces intracranial pressure but does not improve functional outcome when used prophylactically and is reserved for refractory intracranial hypertension. In acute vascular brain injury, neutral trials and feasibility constraints have shifted practice toward early detection and treatment of fever rather than hypothermia. In post-cardiac arrest care, contemporary guidelines recommend protocolised temperature control with selection and maintenance of a constant target between 32\u00b0C and 37.5\u00b0C and active prevention of fever, rather than mandatory hypothermia.\n\n**CONCLUSIONS**: Temperature control is a fundamental component of care aimed at protecting the injured brain through continuous monitoring, early detection of fever, and prevention of temperature-related harm.",
-      "journal": "Intensive Care Med",
-      "authors": [
-        "Lavinio A",
-        "Busl KM",
-        "Coles JP",
-        "Donadello K",
-        "Helbok R",
-        "Sekhon MS",
-        "Skrifvars MB",
-        "Taccone FS",
-        "Wahlster S",
-        "Robba C"
-      ],
-      "date": "2026 Apr 20",
-      "doi": "10.1111/aas.70034",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "TBI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "traumatic",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic brain injury",
-          "strength": "weak",
-          "topic": "TBI"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42007984/"
-    },
-    {
-      "pmid": "42007982",
-      "title": "A novel concept for splint fixation of midshaft clavicle fractures: a biomechanical feasibility study.",
-      "abstract": "",
-      "journal": "Eur J Trauma Emerg Surg",
-      "authors": [
-        "Ziegenhain F",
-        "Zderic I",
-        "Richards RG",
-        "Gueorguiev B",
-        "Groven RVM",
-        "Varga P",
-        "Hildebrand F",
-        "Pape HC",
-        "Berk T"
-      ],
-      "date": "2026 Apr 20",
-      "doi": "10.1016/j.jbiomech.2008.08.013",
-      "tier": "core",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42007982/"
     }
   ]
 }
