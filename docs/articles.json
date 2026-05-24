@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-23T20:39:35.390685Z",
+  "generated": "2026-05-24T20:43:00.282469Z",
   "total_articles": 194,
   "all_topics": [
     "Abdominal",
@@ -378,6 +378,124 @@
     "Cochrane Database Syst Rev": "filtered"
   },
   "articles": [
+    {
+      "pmid": "42177157",
+      "title": "Implementation of a smartphone-based ultrasound program to improve timely diagnosis of life-threatening injuries in Cameroon: Results from a prospective, multisite feasibility study.",
+      "abstract": "**BACKGROUND**: Undiagnosed hemorrhage is the leading cause of preventable trauma death in Cameroon, yet few injured patients receive imaging to diagnose hemorrhage. A smartphone-based ultrasonography (SBU) curriculum was developed to rapidly train frontline healthcare providers in Cameroon to perform and interpret eFAST. SBU has demonstrated promising educational efficacy, but its clinical feasibility in this technology-constrained setting is unknown. We evaluate the feasibility and acceptability of a SBU pilot at three trauma centers in Cameroon.\n\n**METHODS**: We implemented a six-month feasibility pilot at three Cameroonian hospitals participating in the Cameroon Trauma Registry (CTR). Trauma providers were trained to perform SBU eFAST using a novel 5-hour curriculum, then asked to perform SBU on all injured patients as part of the trauma evaluation. Feasibility was assessed as the proportion of CTR patients with completed eFAST. Acceptability was assessed as the proportion of users rating SBU \u2265\u00a068 on the previously validated System Usability Scale (SUS).\n\n**RESULTS**: Trauma care providers completed SBU eFAST on 87% (608 of 701) of eligible patients, compared to a pre-study diagnostic imaging rate of 5.5% (38 of 648). Completion was highest at the rural and regional low-volume centers (100%, n\u00a0=\u00a042 and n\u00a0=\u00a075, respectively) and lower at the high-volume urban tertiary referral center (84%, n\u00a0=\u00a0491, p\u00a0<\u00a00.01). Overall, 88.9% (n\u00a0=\u00a024/27) of providers rated SBU usable (SUS \u226568) at 2 months, which improved to 100% (12/12) at 6 months.\n\n**CONCLUSIONS**: Implementation of a SBU program is highly feasible and acceptable in Cameroon, with an associated 81% increase in diagnostic imaging among trauma registry patients. A multisite prospective clinical trial is planned to assess the impact of SBU on patient outcomes, including preventable trauma deaths.",
+      "journal": "Injury",
+      "authors": [
+        "Rosenbloom L",
+        "Emeh AN",
+        "Tambe J",
+        "Haddad K",
+        "Marpha M",
+        "Maffo CJ",
+        "Mbebi EF",
+        "Driban M",
+        "Yost M",
+        "Oke R",
+        "Obeng-Gyasi I",
+        "Juillard C",
+        "Chichom AM",
+        "Christie SA"
+      ],
+      "date": "2026 May 14",
+      "doi": "10.1016/j.injury.2026.113357",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Imaging",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "eFAST",
+          "strength": "weak",
+          "topic": "Imaging"
+        },
+        {
+          "keyword": "trauma registry",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42177157/"
+    },
+    {
+      "pmid": "42176972",
+      "title": "Naloxone administration associated with improved survival in PEA out-of-hospital cardiac arrests.",
+      "abstract": "**INTRODUCTION**: The prevalence of opioid-associated out-of-hospital cardiac arrest (OA-OHCA) is increasing in the United States. Naloxone administration during OA-OHCA has been associated with improved clinical outcomes, but identifying OA-OHCA in the field remains challenging. Previous work demonstrated association between non-shockable cardiac rhythms and OA-OHCA, suggesting that cardiac rhythm may help identify patients likely to benefit from naloxone. In this work, we assessed the association of naloxone with clinical outcomes for patients with OHCA, stratifying by presenting cardiac rhythm.\n\n**METHODS**: We used 2019-2020 data from the ESO Data Collaborative in this retrospective cohort study. Cases were classified a priori according to presenting rhythm (shockable rhythm, pulseless electrical activity [PEA], asystole). The exposure was prehospital naloxone administration and outcomes of interest were prehospital ROSC and survival to hospital discharge. We utilized logistic regression and adjusted propensity-score matching to determine associations with outcomes.\n\n**RESULTS**: We analyzed 40,333 cases in which 7,567 (18.8%) patients received naloxone. Before matching, the rate of prehospital ROSC was 21.5% and survival to hospital discharge was 9.0%. After propensity score matching, patients in PEA who received naloxone had similar rates of ROSC (OR 1.09, 95%CI 0.90-1.31) and higher survival (OR 1.46, 95%CI 1.11-1.92). Naloxone administration was not associated with differences in either outcome in patients presenting with shockable rhythms or asystole. Given the retrospective nature of this work, we were unable to fully address selection bias or resuscitation time bias and cannot comment on causality.\n\n**CONCLUSION**: In this national cohort, naloxone administration was associated with improved survival to hospital discharge for OHCA patients in PEA. No association was found between naloxone and clinical outcomes for OHCA patients with shockable rhythms or asystole. Prospective, randomized trials are needed to assess for true causality.",
+      "journal": "Resuscitation",
+      "authors": [
+        "Niederberger SM",
+        "Wang RC",
+        "Rodriguez RM",
+        "Montoy JCC",
+        "Crowe RP",
+        "Menegazzi JJ",
+        "Dillon DG"
+      ],
+      "date": "2026 May 22",
+      "doi": "10.1016/j.resuscitation.2026.111139",
+      "tier": "filtered",
+      "topics": [
+        "Prehospital"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "prehospital",
+          "strength": "weak",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42176972/"
+    },
+    {
+      "pmid": "42176451",
+      "title": "Should we ORIF all nondisplaced medial malleolar fractures?",
+      "abstract": "",
+      "journal": "Injury",
+      "authors": [
+        "Wajda B",
+        "Topham J",
+        "Buckley R"
+      ],
+      "date": "2026 May 20",
+      "doi": "10.1016/j.injury.2026.113369",
+      "tier": "filtered",
+      "topics": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42176451/"
+    },
+    {
+      "pmid": "42176450",
+      "title": "Selective neurectomy as surgical treatment for infrapatellar pain syndrome: A systematic review and meta-analysis.",
+      "abstract": "**INTRODUCTION**: Injury to the cutaneous nerves around the knee can result in neuropathic pain and functional impairment, commonly referred to as infrapatellar pain syndrome (IPS). This meta-analysis evaluates clinical outcomes of selective neurectomy for the treatment of IPS.\n\n**MATERIALS AND METHODS**: MEDLINE, Embase, CENTRAL, and Web of Science were systematically searched for studies reporting clinical outcomes following selective neurectomy for IPS. A single-arm meta-analysis was performed using random-effects models. Pooled estimates are presented as mean differences (MDs) for continuous outcomes and event rates for dichotomous variables, each with corresponding 95% confidence intervals (CIs).\n\n**RESULTS**: After screening 1018 studies, eight retrospective observational case series comprising 261 patients were included. The weighted mean age was 56.0 years (SD 12.9). Women were more commonly affected than men (69.9% vs. 30.1%). Primary and revision total knee arthroplasty were the most frequent precursors to IPS (54.0% of cases). The infrapatellar branch of the saphenous nerve was most affected (96.6% of patients), followed by the medial (44.4%) and lateral (25.7%) retinacular nerves. Weighted mean follow-up was 2.9 years (SD 1.3). All patients underwent local anaesthetic blockade prior to surgery. Pooled analysis of pre- versus postoperative Visual Analog Scale (VAS) scores demonstrated a significant reduction in pain (MD -5.6, [95% CI: -7.4 to -3.9]). The Knee Society Score showed significant postoperative improvement (MD 36.3 [95% CI: 23.4-49.2]). The pooled event rates for complications and revision surgery were low (1% [95% CI: 0-5%] and 2% [95% CI: 0-5%], respectively). Meta-regression analysis showed no statistically significant correlation between preoperative neuropathic pain duration and VAS improvement.\n\n**CONCLUSIONS**: Selective neurectomy for IPS is associated with substantial pain relief, improved functional outcomes, and low rates of complications and revision surgery. While the available evidence is limited to retrospective observational studies, these findings support its role as an effective treatment in appropriately selected patients. A positive response to diagnostic local anaesthetic blockade appears to be a strong predictor of favourable surgical outcome and should be considered essential in patient selection.",
+      "journal": "Injury",
+      "authors": [
+        "Liechti R",
+        "Muhammad I",
+        "Sinisi M",
+        "Panagiotidou A",
+        "Fox M",
+        "Simpson AI"
+      ],
+      "date": "2026 May 21",
+      "doi": "10.1016/j.injury.2026.113371",
+      "tier": "filtered",
+      "topics": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42176450/"
+    },
     {
       "pmid": "42174718",
       "title": "Epidemiology and severity of mountain rescue missions in Poland: a retrospective study of 9,477 patients rescued by the Tatra Mountain Rescue Service.",
@@ -7420,172 +7538,6 @@
       ],
       "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/42034021/"
-    },
-    {
-      "pmid": "42032733",
-      "title": "Role of prophylactic mesh in emergency midline laparotomy: a systematic review and meta-analysis.",
-      "abstract": "**PURPOSE**: The role of prophylactic mesh reinforcement in emergency laparotomy closure remains controversial. While prophylactic mesh may reduce incisional hernia, its use in unstable and contaminated settings raises concerns regarding operative time, seroma development, and wound complications. This meta-analysis of randomized controlled trials (RCTs) evaluated the safety and efficacy of prophylactic mesh versus primary suture closure in emergency midline laparotomy.\n\n**METHODS**: A systematic search was performed for RCTs comparing prophylactic mesh with suture closure in adult patients undergoing emergency midline laparotomy. Primary outcomes were overall wound complications (OWC) and incisional hernia (IH). Secondary outcomes included superficial and deep surgical site infection, wound dehiscence (WD), seroma, hematoma, operative time, postoperative pain, quality of life, hospital and ICU stay, transfusion, and mortality.\n\n**RESULTS**: Seven RCTs comprising 643 patients were included. Mesh reinforcement reduced incisional hernia incidence, with significant reductions at 1 month (RR 0.29, 95% CI 0.12-0.68), 6 months (RR 0.11, 95% CI 0.01-0.86), 12 months (RR 0.21, 95% CI 0.09-0.49), and 24 months (RR 0.27, 95% CI 0.15-0.49). Mesh increased seroma risk (RR 2.45, 95% CI 1.38-4.35) and, was associated with higher overall wound complications (RR 1.50, 95% CI 1.04-2.18). No significant differences were found in SSI, wound dehiscence, hematoma, transfusion, ICU or hospital stay, pain, quality of life, or mortality. Operative time was longer with mesh (MD 26\u00a0min, 95% CI 15.9-36.9).\n\n**CONCLUSION**: Prophylactic mesh in emergency laparotomy closure poses a clinical dilemma: it lowers the risk of incisional hernia but prolongs surgery and increases seroma and wound complications. Current evidence underscores the trade-off between long-term prevention and short-term morbidity. Larger, protocol-driven trials with long-term follow-up are needed to determine in which patients and wound classes mesh reinforcement is justified.",
-      "journal": "World J Emerg Surg",
-      "authors": [
-        "Hindawi MD",
-        "Kalmoush AF",
-        "Mohamed MG",
-        "Abdelaty EA",
-        "Ziada AF",
-        "Kotb WA",
-        "Eisa MM",
-        "Elbelkasi H",
-        "Ten Broek RP",
-        "Tan ECTH",
-        "Kirkpatrick AW"
-      ],
-      "date": "2026 Apr 24",
-      "doi": "10.1001/archsurg.139.12.1297",
-      "tier": "core",
-      "topics": [
-        "Procedures"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "emergency laparotomy",
-          "strength": "weak",
-          "topic": "Procedures"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42032733/"
-    },
-    {
-      "pmid": "42031637",
-      "title": "Palliative and end of life care in older major trauma - A point prevalence evaluation in England, Wales and Scotland.",
-      "abstract": "**INTRODUCTION**: Traumatic injury in older people is a significant health burden with higher mortality rates than younger cohorts. Survival following older trauma may be complicated by the patients pre-injury state and clinical uncertainty. Timely identification of palliative and end-of-life care needs may be challenging for acute clinical teams, and treatment escalation planning is not routinely embedded in trauma care. This point prevalence snap-shot aimed to evaluate treatment escalation discussions and palliative/end of life care (EoLC) practice in older major trauma patients at a national level.\n\n**METHODS**: A one-day point prevalence \"flash-mob\" audit was conducted across Major Trauma Centres (MTCs) and Trauma Units (TUs) in England, Wales and Scotland. All trauma patients aged \u2265\u00a065 years in hospital were eligible for inclusion. Patients with and without treatment escalation plans (TEPs) and those on care pathways were analysed.\n\n**RESULTS**: Data from 957 patients in 49 hospitals were included and median time from injury was 11 days (interquartile range 4-24). A TEP or equivalent was documented in 393 patients (41.0%). Among patients with a TEP, there were more aged >\u00a085 years (165/393 (41.9%), than in those without a TEP (167/564 (29.6%), p\u00a0<\u00a00.001). Clinical frailty scoring was performed in 657 patients (68.6%), and where recorded, TEPs were associated with increased frailty (CFS \u22655 TEP: 68% [207/304] vs. No TEP: 46.4% [164/353], p\u00a0<\u00a00.001). Polytrauma predominated over any single site injury (TEP: 140/393, 35.6% vs. No TEP: 197/564, 34.9%). Admitting specialty teams differed between groups and those with a TEP were more likely to be under the care of a medical consultant (92/393, 23.4%) compared to only 60/564, 10.6% of the no-TEP patients (p\u00a0<\u00a00.001). A fifth of those with a TEP were on a documented palliative, time-limited or end-of-life care pathway (20.3%). Care pathways were more likely in those with older age (p\u00a0<\u00a00.001) and severe frailty (CFS\u22657) (p\u00a0=\u00a00.03) rather than injury type, clinical specialty or advance care plans.\n\n**CONCLUSION**: This national snapshot demonstrates limited and variable use of treatment escalation planning with low rates of recorded palliative and EoLC need discussions in older major trauma patients. Greater integration of frailty assessment and early goals-of-care discussions are required to improve care for this growing population.",
-      "journal": "Injury",
-      "authors": [
-        "Cole E",
-        "Jarman H"
-      ],
-      "date": "2026 Apr 15",
-      "doi": "10.1016/j.injury.2026.113199",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "polytrauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "major trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42031637/"
-    },
-    {
-      "pmid": "42031528",
-      "title": "External validation of the emergency CT head score to reduce non-trauma imaging: a multicentre retrospective study.",
-      "abstract": "**BACKGROUND**: Cerebral CT (CCT) is used in emergency departments (EDs) to assess suspected central nervous system disorders, particularly neurovascular issues. However, the increasing use of CCT raises concerns regarding cost, radiation exposure and efficiency, prompting the development of clinical scoring systems to guide informed decisions and reduce unnecessary imaging. The Emergency CT Head Score (ECHS) is a recent tool designed to streamline CCT prescriptions using four criteria: neurological deficit, acute headache, seizures with altered consciousness and transient neurological disorders. This study aimed to validate the ECHS in a different population and healthcare system in France while also providing a detailed cost analysis.\n\n**METHODS**: This multicentre retrospective study, conducted in two EDs in Normandy, included adults (\u226518\u202fyears) presenting with non-rotatory vertigo, acute headache, altered consciousness, seizures, confusion, dizziness, syncope or presyncope without recent trauma who underwent CCT. Exclusion criteria were suspected stroke/transient ischemic attack (TIA) according to French guidelines, head trauma, brain cancer, hydrocephalus, recent stroke or minors. No follow-up was performed. The ECHS was calculated retrospectively and compared with CT findings.\n\n**RESULTS**: Of the 600 included patients, the mean age was 62.4\u00b118.7 years and 86 (14.3%) showed abnormalities on CT. The ECHS score demonstrated strong performance, with an area under the curve of 0.894 (95% CI 0.849 to 0.940). Using a threshold of ECHS\u22651, we observed no false negatives, resulting in a sensitivity of 100% (95% CI 95.8% to 100%)\u2009and negative predictive value of 100% (95 % CI 98.2% to 100%). At this threshold, 48% of CCT scans could have been avoided without adverse outcomes.\n\n**CONCLUSION**: The ECHS demonstrated high sensitivity for detecting CT abnormalities in this cohort, suggesting potential to reduce unnecessary scans in patients with a score of 0. However, prospective implementation studies are needed.",
-      "journal": "Emerg Med J",
-      "authors": [
-        "Seingier R",
-        "Pasco J",
-        "Hanouz JL",
-        "Macrez R",
-        "Goetz M",
-        "Amiot F"
-      ],
-      "date": "2026 Apr 24",
-      "doi": "10.1136/emermed-2025-215110",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42031528/"
-    },
-    {
-      "pmid": "42030689",
-      "title": "Permissive hypotension in adult trauma: A systematic review of outcomes across clinical settings, injury type, and resuscitation strategies.",
-      "abstract": "**BACKGROUND**: Hemorrhage is a leading cause of preventable trauma death, and aggressive crystalloid resuscitation may worsen coagulopathy. Permissive hypotension has emerged as a key damage-control strategy. This systematic review aims to evaluate outcomes associated with permissive hypotension in adult trauma patients.\n\n**METHODS**: A systematic review of five databases was conducted from January 1, 2000, to October 18, 2025. Studies assessing hypotensive resuscitation in adult trauma patients based on care setting, injury type, and fluid volume were included. Outcomes of interest included mortality, and complications.\n\n**RESULTS**: 11 studies met the inclusion criteria and analyzed a total of 4529 patients. Permissive hypotension was only associated with decreased mortality within hospital settings (6.3% vs 16.3%, P\u00a0=\u00a0.045), while showing no difference in the prehospital settings. In hospital settings, permissive hypotension was also associated with decreased rates of complications such as acute respiratory syndrome (12.2% vs. 30.5%, p\u00a0=\u00a0.006), multiple organ failure (12.2% vs. 29.3%, p\u00a0=\u00a0.027), and disseminated intravascular coagulation (2.4% vs. 17.1%, p\u00a0<\u00a0.039). Compared to standard resuscitation, permissive hypotension was associated with decreased 24-h mortality (3.2% vs. 17.7%; adjusted OR\u00a0=\u00a00.17; 95% CI 0.03-0.92) in patients with blunt injuries.\n\n**CONCLUSION**: Permissive hypotension is an effective strategy in hemorrhagic shock in blunt trauma, demonstrating reduced complication and mortality rates compared to conventional resuscitation. Resuscitation should be individualized, with fluid volumes guided by patient hemodynamics and injury characteristics.",
-      "journal": "Am J Emerg Med",
-      "authors": [
-        "Indorewala Y",
-        "Nasef Y",
-        "Jayagopi K",
-        "Hernandez N",
-        "Kata A",
-        "Rogers LS",
-        "Haddadi M",
-        "Elkbuli A"
-      ],
-      "date": "2026 Jul 1",
-      "doi": "10.1016/j.ajem.2026.04.021",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Haemorrhage",
-        "Prehospital"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "blunt trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "haemorrhagic shock",
-          "strength": "weak",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "permissive hypotension",
-          "strength": "strong",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "hypotensive resuscitation",
-          "strength": "weak",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "prehospital",
-          "strength": "weak",
-          "topic": "Prehospital"
-        },
-        {
-          "keyword": "multiple organ dysfunction",
-          "strength": "weak",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42030689/"
     }
   ]
 }
