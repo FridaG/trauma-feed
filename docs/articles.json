@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-26T21:28:56.914802Z",
-  "total_articles": 187,
+  "generated": "2026-05-27T21:50:33.191797Z",
+  "total_articles": 183,
   "all_topics": [
     "Abdominal",
     "Burns",
@@ -378,6 +378,216 @@
     "Cochrane Database Syst Rev": "filtered"
   },
   "articles": [
+    {
+      "pmid": "42201546",
+      "title": "Pediatric pancreatic trauma: a 10-year retrospective analysis from two high-complexity centers in Medell\u00edn, Colombia.",
+      "abstract": "**PURPOSE**: Pediatric pancreatic trauma is uncommon, but it is associated with significant morbidity and an ongoing debate regarding its management. Hemodynamic stability and pancreatic duct involvement are key factors in treatment decisions.\n\n**METHODS**: A retrospective study analyzed 25 pediatric patients with pancreatic trauma treated between 2010 and 2020 at two high-complexity hospitals in Medellin. Clinical variables, trauma mechanism, imaging findings, management, and complications were analyzed.\n\n**RESULTS**: Blunt trauma was the predominant mechanism (64%). Preoperative computed tomography was performed in 12 patients (48%); radiological AAST grading was not retrievable in 13 (52%). Immediate surgery was performed in 13 patients (52%), predominantly driven by associated intra-abdominal injuries rather than the pancreatic injury itself. Non-operative management was initially attempted in 9 patients (36%), with a 56% success rate; failures (44%) were related to clinical deterioration and progression of peripancreatic collections. Clinically relevant postoperative pancreatic fistula (ISGPS Grade B) occurred in 3 of 13 operated patients (23%), with a mean closure time of 55.6 days (range 18-110); no Grade A or Grade C fistulas were recorded. Other complications included post-traumatic pancreatitis (24%), pancreatic pseudocyst (8%), and organ/space surgical site infection (8%); most were Clavien-Dindo Grade IIIa. No in-hospital or 30-day deaths occurred.\n\n**CONCLUSIONS**: In this Latin American dual-centre cohort, non-operative management was feasible in hemodynamically stable children, while operative management was largely dictated by associated injuries rather than pancreatic injury itself. Clinically relevant POPF was the dominant driver of morbidity. Accurate grading, ductal assessment, and standardised outcome reporting (ISGPS, Clavien-Dindo) are essential to guide management and benchmark results.",
+      "journal": "Eur J Trauma Emerg Surg",
+      "authors": [
+        "Barrientos ML",
+        "Calderon SP",
+        "Zapata CAL",
+        "Lopez CAD"
+      ],
+      "date": "2026 May 27",
+      "doi": "10.1016/j.jpedsurg.2019.06.015",
+      "tier": "core",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "blunt trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42201546/"
+    },
+    {
+      "pmid": "42201382",
+      "title": "Influence of Antithrombotics on Severely Injured Patients Over 50 With Blunt Abdominal Trauma.",
+      "abstract": "**INTRODUCTION**: Severe abdominal trauma represents a critical subset of injuries, particularly in the aging European population, where the prevalence of preexisting anticoagulant or antiplatelet therapy is increasing. While the impact of such medications on outcomes in traumatic brain injury is well studied, limited data exist regarding their influence in patients with abdominal trauma.\n\n**MATERIALS AND METHODS**: This retrospective cohort study used data from the TraumaRegister DGU\n\n**RESULTS**: Of 328,281 patients, 4,069 met inclusion criteria (2,831 NM; 1,238 ATM). Patients in the AM group were older (74.1 vs. 62.3 years) and had higher mortality (25.0% vs. 10.4%), particularly in the DOAC subgroup (30.3%). SMR analysis demonstrated increased mortality in the AM group compared to expected rates. In multivariate logistic regression, antithrombotic medication remained an independent predictor of mortality (OR 1.28, 95% CI 1.03-1.58; p\u2009=\u20090.025). Prehospital management differed significantly, with lower intubation and tranexamic acid use in the AM group. Surgical management was largely comparable.\n\n**CONCLUSION**: Antithrombotic therapy is independently associated with increased mortality in patients aged\u2009\u2265\u200950 years with severe abdominal trauma. In addition to distinct treatment patterns and possible undertriage, these findings highlight the need for tailored trauma management strategies in this high-risk population.",
+      "journal": "Eur J Trauma Emerg Surg",
+      "authors": [
+        "Eibinger N",
+        "Limberger B",
+        "H\u00f6rlesberger N",
+        "Puchwein P",
+        "Lefering R",
+        "Bayer TP",
+        "Zumsteg JS",
+        "Pape HC",
+        "Jensen KO"
+      ],
+      "date": "2026 May 27",
+      "doi": "10.1007/s00268-018-04899-4",
+      "tier": "core",
+      "topics": [
+        "Abdominal",
+        "General Trauma",
+        "Haemorrhage",
+        "Prehospital",
+        "TBI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "blunt abdominal",
+          "strength": "strong",
+          "topic": "Abdominal"
+        },
+        {
+          "keyword": "tranexamic acid",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "traumatic brain injury",
+          "strength": "weak",
+          "topic": "TBI"
+        },
+        {
+          "keyword": "prehospital",
+          "strength": "weak",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42201382/"
+    },
+    {
+      "pmid": "42190372",
+      "title": "Minimally invasive anatomical fixation of distal humeral fractures: Direct reduction through the anterior MIPO distal window.",
+      "abstract": "Conventional surgical treatment for distal humeral shaft fractures consists of osteosynthesis through an open posterior approach. This technique requires a wide incision, extensive muscular dissection, and direct handling of the radial nerve, resulting in considerable surgical morbidity. Although the anterior MIPO technique represents a less invasive alternative and avoids these drawbacks, it has traditionally been associated with indirect reduction and relative stability alone. In distal humeral shaft fractures, the distal window of the anterior MIPO approach is located directly above the fracture site, which allows direct reduction manoeuvres. Fragment control through the distal window facilitates reduction and permits the application of absolute stability while preserving a minimally invasive strategy. This technical note describes the integration of these technical innovations together with the use of an inverted PHILOS plate, whose design characteristics enable enhanced distal fixation with a biomechanical profile superior to that of conventional plates. Preliminary results are presented from a case series of Holstein-Lewis-type fractures sustained through a homogeneous torsional mechanism related to arm-wrestling practice.",
+      "journal": "Injury",
+      "authors": [
+        "Segura-Cobos J",
+        "Tejero S",
+        "L\u00f3pez-Hern\u00e1ndez C",
+        "Gir\u00e1ldez-S\u00e1nchez M\u00c1"
+      ],
+      "date": "2026 May 23",
+      "doi": "10.1016/j.injury.2026.113372",
+      "tier": "filtered",
+      "topics": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42190372/"
+    },
+    {
+      "pmid": "42190371",
+      "title": "Does increased preoperative education for patients undergoing external fixation improve overall satisfaction?",
+      "abstract": "**OBJECTIVES**: To determine if increased preoperative education on how to manage activities of daily living with a lower extremity external fixator would improve overall patient satisfaction.\n\n**METHODS**: Design: Prospective cohort, randomized, double-blinded study.\n\n**SETTING**: Level I academic trauma center. Patient Selection Criteria: Patients were prospectively identified for enrollment before undergoing external fixation. Adult patients with any lower extremity fracture requiring placement of a knee or ankle external fixator were included. Exclusion criteria consisted of skeletally immature patients, those with a history of external fixation, altered mental status, or placement of multiple external fixators. Patients were randomized via a stratified block method and were blinded as to whether they had received the preoperative educational intervention. Outcome Measures and Comparisons: Patient satisfaction was determined using a validated modified Leeds Satisfaction Questionnaire distributed at two time points: (1) on postoperative day one or two (Survey A) and (2) after external fixation at a follow-up appointment (Survey B). Patient questionnaires were distributed and collected by a research investigator blinded to the participant's intervention status.\n\n**RESULTS**: A total of 89 patients were included in the analysis. Only one survey question demonstrated a statistically significant difference between the control and intervention groups, with the control group reporting a more favorable response. However, the intervention group consistently exhibited higher minimum scores across all question domains in both surveys. Female patients, individuals with a history of smoking or substance use, and those with open fractures reported significantly lower scores across multiple survey items. Hispanic patients reported greater satisfaction across eight questions and three domains in Survey A.\n\n**CONCLUSIONS**: Enhanced preoperative education did not lead to a statistically significant improvement in overall patient satisfaction. However, its potential to reduce dissatisfaction and elevate minimum response scores suggests that it may still provide clinically meaningful benefits.",
+      "journal": "Injury",
+      "authors": [
+        "Smith M",
+        "Alford T",
+        "Clark C",
+        "Strubel JJ",
+        "Hunter N",
+        "Achor TS",
+        "Munz JW",
+        "Choo AM",
+        "Kellam PJ",
+        "Eastman JG",
+        "Warner SJ"
+      ],
+      "date": "2026 May 19",
+      "doi": "10.1016/j.injury.2026.113364",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Orthopaedic",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "open fracture",
+          "strength": "weak",
+          "topic": "Orthopaedic"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42190371/"
+    },
+    {
+      "pmid": "42188673",
+      "title": "Impact of Point-of-Care Ultrasound on Patient-Family Experience and Behavioral Response in a Pediatric Emergency Department: A Randomized Control Survey Trial.",
+      "abstract": "**BACKGROUND**: Existing literature indicates that patients respond positively to point-of-care ultrasound (POCUS) across various clinical settings. However, limited research explores how patient-families perceive its use in pediatric emergency department (ED) care. Our study aims to evaluate POCUS's impact on patient experience, stress, and anxiety in the pediatric ED.\n\n**METHODS**: We conducted a randomized study (1:1) of pediatric patients (\u2264\u200917\u2009years) presenting with a clinical indication for POCUS (lung, FAST, cardiac, or soft tissue applications). Patients were assigned to either a POCUS or non-POCUS group, excluding those who were unstable or had prior POCUS evaluations. Patient-families completed pre- and post-surveys (5-point Likert scale) at triage and ED disposition. Demographic data were obtained from the electronic medical record. Statistical analyses included Chi-Square, Fisher's Exact, Wilcoxon, and sign tests (\u03b1\u2009=\u20090.05) to compare group responses and assess for changes in responses over time.\n\n**RESULTS**: A total of 200 patient-families were enrolled. The cohort was primarily English-speaking, non-Hispanic White males, with an average age of 5.16\u2009years (SEM \u00b10.37). Common chief complaints included cough (34%), fever (15%), abdominal pain (14%), and shortness of breath (13%). No significant differences were observed in patient experience or ED length of stay. Sign tests indicated significant reductions in stress and anxiety within both groups from pre- to post-survey assessments [Anxiety: p\u2009<\u20090.0001 (POCUS), p\u2009=\u20090.0003 (non-POCUS); Stress: p\u2009<\u20090.0001 (POCUS), p\u2009<\u20090.0001 (non-POCUS)]. POCUS patient-families reported a significantly greater perceived importance of imaging and stated that POCUS directly alleviated their stress and anxiety.\n\n**CONCLUSION**: The primary outcome, magnitude of change in stress and anxiety, demonstrated significant reductions in both POCUS and non-POCUS groups. Despite similar findings within each group, families receiving POCUS reported greater perceived importance of imaging and strong support for its use, highlighting its potential to enhance patient-centered care and support further research into its optimal implementation in pediatric emergency care.",
+      "journal": "Acad Emerg Med",
+      "authors": [
+        "Gutierrez SA",
+        "Hays M",
+        "Soriano P",
+        "Nti BK"
+      ],
+      "date": "2026 May 1",
+      "doi": "10.1111/acem.70295",
+      "tier": "filtered",
+      "topics": [
+        "Imaging"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "POCUS",
+          "strength": "weak",
+          "topic": "Imaging"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42188673/"
+    },
+    {
+      "pmid": "42186930",
+      "title": "Crisis interventions for a crisis context: Letter to the editor in response to monitoring the emergence of multidrug-resistant organisms, a crucial issue during high-intensity conflicts: Letter to the editor.",
+      "abstract": "",
+      "journal": "J Trauma Acute Care Surg",
+      "authors": [
+        "Uren HD",
+        "Berrey BH",
+        "Holcomb JB"
+      ],
+      "date": "2026 May 26",
+      "doi": "10.1097/TA.0000000000005053",
+      "tier": "core",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42186930/"
+    },
     {
       "pmid": "42186080",
       "title": "Feasibility and challenges of large language model (LLM)-generated neonatal resuscitation simulations: a multicenter exploratory study.",
@@ -6880,406 +7090,6 @@
       ],
       "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/42050826/"
-    },
-    {
-      "pmid": "42048067",
-      "title": "Age-Specific Clinical Biomarker Ranges in Acute Head Injury, Non-TBI Trauma, and Healthy Control Subjects in the Emergency Department.",
-      "abstract": "**OBJECTIVES**: Blood-based biomarkers for traumatic brain injury (TBI) are increasingly integrated into diagnostic algorithms, but their interpretation may be confounded by age-related neurological changes. This study quantified the relative effects of age and TBI on biomarker concentrations to determine whether age-related variation approaches or exceeds that associated with injury.\n\n**METHODS**: Serum biomarkers were analyzed from 762 adults enrolled in the HeadSMART II and HeadSMART Geriatric studies, including healthy controls (n\u2009=\u200988), non-head trauma controls (n\u2009=\u200999), and mild TBI patients (GCS 13-15, n\u2009=\u2009575). Participants were categorized by age (18-40, 41-64, 65-74, \u2265\u200975\u2009years). Six TBI-relevant biomarkers (glial fibrillary acidic protein [GFAP], brain-derived neurotrophic factor [BDNF], neurogranin [NRGN], \u03b1-synuclein [SNCA], suppression of tumorigenicity 2 [ST2], and von Willebrand factor [vWF]) were quantified using validated immunoassays (BRAINBox Solutions). Biomarker levels were compared using two-way ANOVA, and the relative effects of age and injury were estimated using Cohen's f.\n\n**RESULTS**: Age significantly influenced several biomarkers. GFAP showed strong age-related increases, with significant elevations across age strata (p\u2009<\u20090.001), exceeding the effect of head injury alone. vWF also increased significantly with age (p\u2009<\u20090.001), while ST2 did not show a main effect of age (p\u2009=\u20090.404), although age interacted with group (p\u2009<\u20090.001). SNCA demonstrated modest age effects (p\u2009=\u20090.001), particularly in older trauma and TBI participants. NRGN showed no significant age-related changes (p\u2009=\u20090.454), and BDNF exhibited age effects within interaction terms (p\u2009<\u20090.001). Overall, age-associated effect sizes for GFAP and vWF were comparable to, or greater than, those of head injury.\n\n**CONCLUSIONS**: Age exerts substantial influence on circulating biomarker concentrations, particularly GFAP and vWF, often rivaling or exceeding TBI-related changes. Diagnostic algorithms that fail to adjust for age may risk misclassification, especially among older adults, underscoring the need for age-normalized biomarker interpretation.",
-      "journal": "Acad Emerg Med",
-      "authors": [
-        "Mayes KD",
-        "Van Meter TE",
-        "Mirshahi N",
-        "Boyd S",
-        "Sandsmark D",
-        "Rascovsky K",
-        "Diaz-Arrastia R",
-        "Weppner J",
-        "Peacock WF",
-        "Kuehl DR"
-      ],
-      "date": "2026 Apr 1",
-      "doi": "10.3390/ijms20020257",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "TBI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic brain injury",
-          "strength": "weak",
-          "topic": "TBI"
-        },
-        {
-          "keyword": "head injury",
-          "strength": "strong",
-          "topic": "TBI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42048067/"
-    },
-    {
-      "pmid": "42047811",
-      "title": "Predictive performance of ISS and NISS for clinical outcomes in severely injured trauma patients: a retrospective registry study.",
-      "abstract": "**BACKGROUND**: The Injury Severity Score (ISS) and New Injury Severity Score (NISS) are widely used in evaluation of injury severity in trauma patients. The aim of this study is to assess the predictive accuracy of these scoring systems on clinical outcomes.\n\n**METHODS**: We conducted a retrospective registry study of 1,112 severely injured trauma patients (NISS\u2009\u2265\u200916) treated at Tampere University Hospital (TAUH) between 2015 and 2024. Outcomes included in-hospital mortality, prolonged hospital and ICU stay (\u2265\u200975th percentile), in-hospital intubation, and blood transfusions. Predictive performance was assessed using the area under the receiver operating characteristic curve (AUC) and the Hosmer-Lemeshow (H-L) test for calibration. Subgroup analyses were performed for patients with significant (AIS\u2009\u2265\u20093) head, thorax, and extremity injuries.\n\n**RESULTS**: A total of 848 (76%) patients had a higher NISS than ISS with a median increase of 9 points. Both scoring systems generally demonstrated fair to considerable (0.7\u2009<\u2009AUC\u2009<\u20090.9) discrimination for mortality and intubation, and poor to fair (0.6\u2009<\u2009AUC\u2009<\u20090.8) discrimination for blood transfusions and prolonged hospital/ICU stay. ISS had superior discrimination for blood transfusions in the total cohort (AUC: 0.669 vs. 0.630, p\u2009=\u20090.019), head (AUC: 0.737 vs. 0.672, p\u2009=\u20090.004), and thorax (AUC: 0.656 vs. 0.613, p\u2009=\u20090.006) subgroups, and for intubation in the head injury subgroup (AUC: 0.817 vs. 0.787 p\u2009=\u20090.038). Conversely, NISS outperformed ISS for predicting prolonged hospital stay in the extremity subgroup (AUC 0.654 vs. 0.585, p\u2009=\u20090.003).\n\n**CONCLUSIONS**: Contrary to its theoretical advantages, NISS does not broadly outperform ISS in severe trauma. ISS remains an equal or superior scoring system for predicting many clinical outcomes.\n\n**LEVEL OF EVIDENCE**: III.",
-      "journal": "Eur J Trauma Emerg Surg",
-      "authors": [
-        "S\u00e4kkinen A",
-        "Partio N",
-        "Mattila V",
-        "M\u00e4enp\u00e4\u00e4 H",
-        "Riuttanen A"
-      ],
-      "date": "2026 Apr 28",
-      "doi": "10.4103/0972-5229.29839",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "Systems/QI",
-        "TBI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "injury severity",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "head injury",
-          "strength": "weak",
-          "topic": "TBI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42047811/"
-    },
-    {
-      "pmid": "42047781",
-      "title": "Surgical and anesthetic activity in a french emergency field hospital responding to devastating floods.",
-      "abstract": "",
-      "journal": "Eur J Trauma Emerg Surg",
-      "authors": [
-        "Gaudray E",
-        "Brac L",
-        "Agopian P",
-        "Arnaud I",
-        "Ribelles P",
-        "Buland S",
-        "Couret A",
-        "Simonet J",
-        "Teuma M",
-        "Kedzierewicz R",
-        "Yavari O",
-        "Gaujoux S",
-        "Arvieux C"
-      ],
-      "date": "2026 Apr 28",
-      "doi": "10.1016/j.anclin.2012.10.003",
-      "tier": "core",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42047781/"
-    },
-    {
-      "pmid": "42047641",
-      "title": "Management of pediatric high-grade blunt hepatic trauma at adult and pediatric trauma centers: An analysis of the TQIP database.",
-      "abstract": "**BACKGROUND**: Previous data suggest that there may be increased use of invasive interventions for pediatric blunt solid organ injury at nonpediatric trauma centers. In pediatric high-grade (AAST Grades III-V) blunt hepatic injuries (BHI), specifically, previous single-center and state-level studies have demonstrated that presentation to adult trauma centers independently predicts increased use of angioembolization and hemorrhage control laparotomy, but this observation has not been validated using a large, nationwide dataset. This study evaluated the use of invasive interventions (hemorrhage control laparotomy and/or hepatic angioembolization) and mortality in children with BHI across pediatric, adult, and hybrid trauma centers (PTCs, ATCs, and HTCs).\n\n**METHODS**: We retrospectively reviewed children aged 17 and below, with high-grade BHI (AAST Grades III-V, defined by AIS) in the ACS Trauma Quality Improvement Program database from 2017 to 2022. Univariate analyses compared demographics, injury characteristics, management strategies, and outcomes between ATCs, HTCs, and PTCs. Backward stepwise regression evaluated predictors of hemorrhage control laparotomy, angioembolization, and mortality.\n\n**RESULTS**: In total, 5,498 children were included. Children presenting to an ATC were older (p<0.01). There was no difference in the distribution of Grade III, IV, or V injuries between center types (p=0.50). On univariate analyses, PTC-presentation was associated with lower injury severity score, higher rates of isolated injury, lower rates of positive shock index, and lower rates of early blood transfusion (p<0.01). ATC-presentation was associated with higher rates of hepatic angioembolization (ATC: 2.7%, HTC: 1.8%, PTC: 1.0%, p<0.01), hemorrhage control laparotomy (ATC: 3.3%, HTC: 2.3%, PTC: 1.1%, p<0.01), and mortality (ATC: 7.1%, HTC: 5.0%, PTC: 3.2%, p<0.01). However, on regression analysis, trauma center verification status did not independently predict angioembolization, hemorrhage control laparotomy, or mortality.\n\n**CONCLUSIONS**: Contrary to prior data in smaller populations, in this national analysis of high-grade pediatric blunt hepatic trauma, hospital verification status did not independently influence the likelihood of hepatic angioembolization, hemorrhage control laparotomy, or mortality.\n\n**LEVEL OF EVIDENCE**: Cohort Study; Level III.",
-      "journal": "J Trauma Acute Care Surg",
-      "authors": [
-        "Wallace MW",
-        "Wan HY",
-        "Morris D",
-        "Russell KW",
-        "Swendiman RA"
-      ],
-      "date": "2026 Apr 28",
-      "doi": "10.1097/TA.0000000000005031",
-      "tier": "core",
-      "topics": [
-        "Abdominal",
-        "General Trauma",
-        "Haemorrhage",
-        "Paediatric",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "injury severity",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "trauma centre",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "hepatic trauma",
-          "strength": "strong",
-          "topic": "Abdominal"
-        },
-        {
-          "keyword": "solid organ injury",
-          "strength": "weak",
-          "topic": "Abdominal"
-        },
-        {
-          "keyword": "blood transfusion",
-          "strength": "weak",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "paediatric trauma",
-          "strength": "strong",
-          "topic": "Paediatric"
-        },
-        {
-          "keyword": "trauma quality",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42047641/"
-    },
-    {
-      "pmid": "42047640",
-      "title": "When does 1:1 resuscitation really matter? An analysis of 4,858 patients from four traumatic hemorrhage studies.",
-      "abstract": "**BACKGROUND**: While supported by a randomized trial and America College of Surgeon Trauma Quality Improvement Program(TQIP) guidelines, the inflection point in transfusion volumes at which balanced ratios (1:1) begin to affect mortality has not been fully explored. We sought to evaluate transfusion volumes at which a difference in mortality is observed.\n\n**METHODS**: Four studies of bleeding trauma patients were analyzed: two conducted before whole blood (WB) availability; a single institution experience (Pre-WB Single Center, 2010-2016) and a randomized, multicenter trial [Pre-WB Pragmatic Randomized Optimal Platelet and Plasma Ratios (PROPPR), 2012-2013] and two conducted with WB use; one single institution experience (WB Single Center 2017-2021) and a prospective, multicenter study [WB Shock, Whole blood And Traumatic brain injury (SWAT), 2018-2021]. Patients were divided into balanced [1:1 or less, red blood cell (RBC):plasma] and unbalanced (>1:1) cohorts. RBC units transfused in the first four hours were evaluated (0-6, 7-10, then 10-unit intervals). Primary outcome was 30-day mortality. Secondary outcomes were four-hour and 24-hour mortality.\n\n**RESULTS**: The Pre-WB Single Center (n = 730 1:1 or less, n = 536 >1:1) and Pre-WB PROPPR (n = 342, n = 338) noted mortality differences once >10 units of RBCs were transfused (11-20 units: 26% vs. 32%, P = 0.151 and 20% vs 30%, P = 0.090; 21-30 units: 43% vs. 71%, P = 0.013 and 32% vs. 61%, P = 0.017). The WB Single Center study (n = 1,239, n = 879) and WB SWAT (n = 447, n = 587) noted outcome separation >6 units (7-10 units: 14% vs. 22%, P = 0.139 and 14% vs. 18%, P = 0.198; 11-20: 28% vs. 41%, P = 0.118 and 17% vs. 31%, P = 0.030). Absolute differences tended to widen with greater units transfused. Differences remained at 24-hours for 7 to 10 units for Pre-WB Single Center and 11 to 20 units for Pre-WB PROPPR, WB Single Center, and WB SWAT studies.\n\n**CONCLUSIONS**: In this analysis of almost 5,000 patients, balanced resuscitation had a protective effect during or after the second transfusion cooler (>6 or >10 units of RBCs). This highlights the need for early 1:1 resuscitation with suspicion for massive hemorrhage, utilizing early WB to stay balanced and storing more immediately available plasma.\n\n**LEVEL OF EVIDENCE**: Retrospective comparative study without negative criteria, Study type: Therapeutic; Level III.",
-      "journal": "J Trauma Acute Care Surg",
-      "authors": [
-        "Clements TW",
-        "Williams J",
-        "Cannon J",
-        "Schreiber M",
-        "Moore E",
-        "Namias N",
-        "Guyette F",
-        "Sperry J",
-        "Cotton BA",
-        "Van Gent JM"
-      ],
-      "date": "2026 Apr 28",
-      "doi": "10.1097/TA.0000000000005037",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "Haemorrhage",
-        "Systems/QI",
-        "TBI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "massive haemorrhage",
-          "strength": "weak",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "traumatic brain injury",
-          "strength": "weak",
-          "topic": "TBI"
-        },
-        {
-          "keyword": "trauma quality",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42047640/"
-    },
-    {
-      "pmid": "42047633",
-      "title": "Authors' response to letter by Peuker F et al.",
-      "abstract": "",
-      "journal": "J Trauma Acute Care Surg",
-      "authors": [
-        "Bauman ZM",
-        "Sarani B",
-        "Pieracci FM",
-        "Whitbeck SS",
-        "White TW"
-      ],
-      "date": "2026 Apr 03",
-      "doi": "10.1097/TA.0000000000004995",
-      "tier": "core",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42047633/"
-    },
-    {
-      "pmid": "42047632",
-      "title": "Extracorporeal membrane oxygenation in traumatic injuries with acute respiratory distress syndrome.",
-      "abstract": "",
-      "journal": "J Trauma Acute Care Surg",
-      "authors": [
-        "El-Menyar A",
-        "Naduvilekandy M",
-        "Al-Hassani I",
-        "Elmenyar E",
-        "Fawzy I",
-        "Al-Hassani A",
-        "Al-Thani H"
-      ],
-      "date": "2026 Apr 28",
-      "doi": "10.1016/j.ajem.2021.04.083",
-      "tier": "core",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "traumatic",
-          "strength": "strong",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42047632/"
-    },
-    {
-      "pmid": "42047630",
-      "title": "\"Do as I say and not as I do: Surgical critical care program directors shape the future\" authors' response to the Letter to the Editor entitled: \"Artificial intelligence literacy and infectious diseases competency: Essential considerations for future revisions of the surgical critical care curriculum\".",
-      "abstract": "",
-      "journal": "J Trauma Acute Care Surg",
-      "authors": [
-        "Jones TJ",
-        "Barry CL",
-        "Davis KA",
-        "Martin ND",
-        "Prendergast CO",
-        "Duncan TK",
-        "Hildreth AN",
-        "Inaba K",
-        "Jensen AR",
-        "Jones AT",
-        "Moran SL",
-        "Palmieri TL",
-        "Stassen NA",
-        "Kaups KL",
-        "Stein DM"
-      ],
-      "date": "2026 Apr 28",
-      "doi": "10.1097/TA.0000000000005024",
-      "tier": "core",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42047630/"
-    },
-    {
-      "pmid": "42047383",
-      "title": "Impact of Smoking Status on Morbidity and Mortality after Lung Cancer Resection: An Analysis of the Society of Thoracic Surgeons General Thoracic Surgery Database.",
-      "abstract": "**BACKGROUND**: Tobacco exposure is the leading cause of lung cancer, with some surgeons and centers requiring smoking cessation before lung resection. The impact of continued smoking on outcomes remains uncertain. We evaluated morbidity and mortality after resection among patients who currently smoke compared with those who formerly smoked.\n\n**METHODS**: We analyzed lung cancer resections (2018-2023) in the Society of Thoracic Surgeons (STS) General Thoracic Surgery Database. Smoking status was defined using STS operational definitions as current (within 1 month of operation) or former (abstinence >1 month). Patients who never smoked were excluded. Primary outcomes were operative or 30-day mortality and postoperative pulmonary complications. Multivariable regression identified predictors of outcomes.This research was determined to be exempt research with a waiver of informed consent from Advarra Institutional Review Board (Mod01760092, Version 1.1, Approval date July 17, 2023).\n\n**RESULTS**: Of 85,124 patients, 28% (n=24,093) currently smoked and 72% (n=61,031) formerly smoked. Patients who currently smoked were younger (65.6 vs 69.6 years; p<0.001), had fewer comorbidities, and included higher proportions of patients who identify as Black (11.5% vs 7.5%; p<0.001). Pulmonary complications were more frequent among patients who currently smoke (34.6% vs 30.5%; p<0.001), but mortality did not differ by smoking status (1.0% vs 1.0%; p=0.52). Male sex, current smoking, greater pack-years, thoracotomy, and more extensive resection independently predicted pulmonary complications.\n\n**CONCLUSIONS**: Patients who currently smoke experienced higher pulmonary morbidity but no increase in mortality. Surgeons should not use smoking status alone when determining if a patient is a candidate for lung cancer resection. Risk assessment should integrate smoking status in combination with a comprehensive range of preoperative factors to guide shared decision-making and ensure access to lung cancer operation.",
-      "journal": "J Am Coll Surg",
-      "authors": [
-        "Kim H",
-        "Viana SW",
-        "Pinkston C",
-        "Pratt CG",
-        "Rai S",
-        "Haugen CE",
-        "Quillin RC",
-        "Starnes SL",
-        "Van Haren RM"
-      ],
-      "date": "2026 Apr 28",
-      "doi": "10.1097/XCS.0000000000002007",
-      "tier": "filtered",
-      "topics": [
-        "Thoracic"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "thoracotomy",
-          "strength": "weak",
-          "topic": "Thoracic"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42047383/"
-    },
-    {
-      "pmid": "42045940",
-      "title": "Impact of transportation methods on pediatric and adolescent severely injured vehicle occupants.",
-      "abstract": "**BACKGROUND**: Road traffic collisions (RTCs) are the leading cause of death globally. Reducing the transportation time to definitive care and training bystanders in trauma management may impact clinical outcome. We aimed to study the impact of transportation methods on pediatric and adolescent severely injured vehicle occupants in Abu Dhabi Emirate, United Arab Emirates.\n\n**METHODS**: The Abu Dhabi Trauma Registry prospectively collects data of all hospitalized trauma patients from seven major trauma centers in Abu Dhabi Emirate. We have studied all severely injured (ISS\u2009\u2265\u200912) road traffic collision patients, who were less than 19 years old (January 2014 to December 2023). Demography and clinical outcome of those transported by ambulance (n\u2009=\u2009466) were compared with those transported by private vehicles (n\u2009=\u200947).\n\n**RESULTS**: Univariate analysis showed that patients who were transferred by private vehicles were significantly younger, (median (IQR range) age: 12 (6-15) years compared with 15.5 (12-17) years, p\u2009<\u20090.001), stayed significantly longer in the Emergency Department (median (IQR range) 275 (186-333) minutes compared with 214 (135-299) minutes, p\u2009=\u20090.01), were admitted significantly less to the ICU (31.9% compared with 51.9%, p\u2009=\u20090.009); and had significantly less hospital stay (median (IQR range) 3.5 (1-8) days compared with 7 (3-14) days, p\u2009=\u20090.003). There was no significant difference in mortality between the two groups (2.1% compared with 6.7%, p\u2009=\u20090.34). Logistic regression showed that mode of arrival did not significantly affect ICU admission (p\u2009=\u20090.26). The most significant factors that affected ICU admission were GCS, p\u2009<\u20090.001, OR 0.66 (95% CI 0.57-0.77) and ISS, p\u2009<\u20090.001, OR 1.12 (95% CI 1.08-1.16). A general linear model showed that GCS (p\u2009=\u20090.022) and RTS (p\u2009=\u20090.006) significantly affected length of hospital stay while mode of arrival did not (p\u2009=\u20090.38).\n\n**CONCLUSIONS**: Private vehicles appear to be safe for the transportation of selected major trauma children and adolescents with no adverse effects on ICU admission, hospital stay, or mortality. The role of bystanders in prehospital management and transportation of RTC victims should be further investigated.",
-      "journal": "World J Emerg Surg",
-      "authors": [
-        "Abu-Zidan FM",
-        "Alao DO"
-      ],
-      "date": "2026 Apr 27",
-      "doi": "10.1186/s13017-026-00699-7",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "Prehospital",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "major trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "prehospital",
-          "strength": "weak",
-          "topic": "Prehospital"
-        },
-        {
-          "keyword": "trauma registry",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42045940/"
     }
   ]
 }
