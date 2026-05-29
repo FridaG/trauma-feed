@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-28T21:49:58.667112Z",
-  "total_articles": 198,
+  "generated": "2026-05-29T21:45:58.899947Z",
+  "total_articles": 192,
   "all_topics": [
     "Abdominal",
     "Burns",
@@ -379,6 +379,272 @@
   },
   "articles": [
     {
+      "pmid": "42213141",
+      "title": "A totally laparoscopic strategy combining microwave ablation and autologous blood transfusion for patients with initial WSES grade IV traumatic splenic rupture in selected transient responders: a proof-of-concept study.",
+      "abstract": "**PURPOSE**: Splenic artery embolization (SAE) is the standard intervention for transient responders with high-grade splenic trauma. When SAE is unavailable, contraindicated, or declined, alternative minimally invasive approaches may be warranted. This study evaluates a totally laparoscopic strategy combining microwave ablation (MWA) for hemostasis with intraoperative autologous blood transfusion (ABT) in selected transient responders with initial WSES Grade IV splenic rupture.\n\n**METHODS**: This retrospective study included 10 consecutive transient responders (October 2021-June 2024) with initial WSES Grade IV splenic rupture who underwent totally laparoscopic MWA combined with intraoperative ABT. All patients exhibited transient hemodynamic response to limited resuscitation (\u2264\u20091500 mL fluids) and preoperative shock index\u2009>\u20090.9. Intraoperative injury was graded by the AAST system. Outcomes included technical success, transfusion requirements, complications, and follow-up.\n\n**RESULTS**: All 10 patients underwent successful spleen-preserving laparoscopy without conversion. AAST grades: II (n\u2009=\u20092), III (n\u2009=\u20094), IV (n\u2009=\u20094). Mean operative time was 191.3\u2009\u00b1\u2009101.7\u00a0min. Mean blood salvage was 1587.5\u2009\u00b1\u2009663.9 mL, yielding 490.8\u2009\u00b1\u200980.2 mL autologous red cells. No patient required postoperative allogeneic transfusion. Hemoglobin, platelets, and lactate improved significantly by postoperative day 3 (P\u2009<\u20090.05). No splenic abscess, overwhelming infection, or mortality occurred. At 12-18 months follow-up, no splenic atrophy or immune dysfunction was observed.\n\n**CONCLUSION**: In selected transient responders with initial WSES Grade IV splenic rupture, a totally laparoscopic approach integrating MWA and ABT is technically feasible. The discrepancy between WSES and AAST grades suggests some WSES IV patients have less severe injuries, supporting laparoscopic exploration in selected cases.",
+      "journal": "Eur J Trauma Emerg Surg",
+      "authors": [
+        "Feng Z",
+        "Xie D",
+        "Hong W",
+        "Zheng C"
+      ],
+      "date": "2026 May 29",
+      "doi": "10.4103/jcrt.JCRT_816_19",
+      "tier": "core",
+      "topics": [
+        "Abdominal",
+        "General Trauma",
+        "Haemorrhage"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "splenic injury",
+          "strength": "strong",
+          "topic": "Abdominal"
+        },
+        {
+          "keyword": "blood transfusion",
+          "strength": "strong",
+          "topic": "Haemorrhage"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42213141/"
+    },
+    {
+      "pmid": "42210338",
+      "title": "Early inhaled isoflurane sedation in neurocritical patients with invasive intracranial pressure monitoring: the NEURO-CONDA randomized pilot trial.",
+      "abstract": "**PURPOSE**: Evidence on inhaled sedation in neurocritically ill patients remains limited, mainly due to concerns about potential increases in intracranial pressure (ICP). We aimed to evaluate the efficacy and safety of early isoflurane sedation compared with propofol in invasively monitored neurocritical patients without intracranial hypertension.\n\n**METHODS**: NEURO-CONDA is a phase IV, randomized, open-label, parallel-group pilot trial conducted in a tertiary ICU (May 2024-October 2025). Adult neurocritical patients requiring ICP monitoring and without intracranial hypertension were randomized to receive either propofol or isoflurane. The primary endpoints were efficacy (assessed with RASS and BIS\u2122) and safety, defined as the occurrence of serious adverse drug reactions (ADRs), including sustained ICP elevation or cerebral perfusion pressure (CPP)\u2009<\u200960\u00a0mmHg requiring increased vasopressor support. Nociception (NOL\u00ae) and other systemic parameters were recorded for up to 72\u00a0h. Analyses were performed according to the intention-to-treat principle.\n\n**RESULTS**: Thirty patients were included (15 per group), and baseline characteristics were comparable; 19 had traumatic brain injury. Sedation efficacy was 100% in both groups throughout the study period. No serious ADRs occurred. ICP and CPP remained stable throughout the study period without requiring higher doses of vasopressors in the isoflurane sedated group.\n\n**CONCLUSIONS**: In this randomized pilot trial, early sedation with isoflurane was feasible and achieved reliable deep sedation without compromising intracranial or cerebral perfusion parameters in invasively monitored neurocritical patients without intracranial hypertension. Larger randomized studies are warranted to confirm these findings and assess long-term neurological outcomes.",
+      "journal": "Crit Care",
+      "authors": [
+        "Murcia-Gubianas C",
+        "Vil\u00e0-Rivas M",
+        "Tarr\u00e9 Ferr\u00e9 L",
+        "Fuster Bertolin C",
+        "Sebasti\u00e1n Cernuda P",
+        "Palomanes Espadal\u00e9 ML",
+        "Martinez Sancho J",
+        "Lorencio C"
+      ],
+      "date": "2026 May 28",
+      "doi": "10.1186/s13054-026-06101-x",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "TBI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "traumatic",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic brain injury",
+          "strength": "weak",
+          "topic": "TBI"
+        },
+        {
+          "keyword": "ICP monitoring",
+          "strength": "weak",
+          "topic": "TBI"
+        },
+        {
+          "keyword": "intracranial pressure monitoring",
+          "strength": "strong",
+          "topic": "TBI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42210338/"
+    },
+    {
+      "pmid": "42209348",
+      "title": "Development and measurement properties of the Safety Threats and Adverse Events in Trauma (STAT) taxonomy: A critical review.",
+      "abstract": "**BACKGROUND**: Adverse events are common in trauma care, with most occurring during the initial resuscitation phase. The Safety Threats and Adverse Events in Trauma (STAT) taxonomy is a comprehensive tool that was created to evaluate both technical and non-technical errors in trauma resuscitations. The objective of this study is to critically appraise the development and measurement properties, including sensibility, reliability, and validity of the STAT taxonomy.\n\n**METHODS**: A literature search was conducted in MEDLINE, Embase, and CINAHL, supplemented by citation searching. Studies describing the development, evaluation, or adaptation of the STAT taxonomy were included. Evidence was synthesized narratively across tool development, sensibility, reliability, and validity.\n\n**RESULTS**: Seven studies met inclusion criteria, encompassing tool development, pilot testing, reliability assessment, and adaptation. The STAT taxonomy was developed using a systematic review and a RAND-modified Delphi process involving 22 trauma experts, resulting in 67 adverse events across nine domains. Early evidence supports strong content validity, with comprehensive coverage of both technical and non-technical domains. Feasibility was demonstrated across simulation and clinical trauma video review settings. Inter-rater reliability was consistently high, with agreement rates of 90.1% in simulation studies and Gwet's AC1 of 0.94 (95% CI: 0.93-0.95) in real-world trauma resuscitations. Preliminary concurrent validity was supported by significant correlations between STAT-identified adverse events and T-NOTECHS domains, including communication and situational awareness.\n\n**CONCLUSION**: The STAT taxonomy demonstrates strong early evidence of methodological rigor, sensibility, and inter-rater reliability, with preliminary support for validity. It appears promising as a standardized tool for identifying adverse events during trauma resuscitation, but further independent multicenter validation is needed before broader implementation.",
+      "journal": "Injury",
+      "authors": [
+        "Nazir A",
+        "Shore E",
+        "Keown-Stoneman C",
+        "Grantcharov T",
+        "Nolan B"
+      ],
+      "date": "2026 May 19",
+      "doi": "10.1016/j.injury.2026.113366",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Prehospital"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "trauma resuscitation",
+          "strength": "weak",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42209348/"
+    },
+    {
+      "pmid": "42208607",
+      "title": "Shared Care Between Trauma Surgeons and Geriatricians for Older Trauma Patients.",
+      "abstract": "Low falls are the leading cause of injuries in the over 65-year age group. Overall, falls cause 43% of injury hospitalisations and the majority of these are from standing height. Although trauma systems have been effective at reducing mortality from high-energy trauma, such as motor vehicle collisions, the growing proportion of older adults with trauma raises new challenges and does not fit neatly into centralised models of trauma care based around major trauma services. Older adults with low falls are at risk of under-triage and it is critical to ensure that older adults have access to trauma expertise, including appropriate regional analgesia. Older adults with low falls often present with a combination of injuries, frailty, multimorbidity and polypharmacy. This article will make the case for shared care between trauma surgeons and geriatricians to manage older trauma patients with early involvement of emergency physicians.",
+      "journal": "Emerg Med Australas",
+      "authors": [
+        "Gregorevic K",
+        "Tai R"
+      ],
+      "date": "2026 Jun 1",
+      "doi": "10.1111/1742-6723.70282",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "major trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42208607/"
+    },
+    {
+      "pmid": "42208489",
+      "title": "Beyond survival: What drives senescence in trauma, shock and sepsis?",
+      "abstract": "Cellular senescence is a conserved stress response characterized by stable growth arrest, resistance to apoptosis, and a pro-inflammatory secretome that shapes tissue repair, tumor suppression, and aging. In this review, senescence is framed in the context of trauma, hemorrhagic shock, and sepsis. Severe injuries to brain, lung, abdomen, and bone, as well as ischemia-reperfusion and hemorrhagic shock, rapidly induce p21- and p16-governed senescence-like programs that modulate neurodegeneration, fibrosis, fracture healing, and organ dysfunction. In sepsis, senescence extends beyond immunosenescence to endothelial, epithelial, and stromal compartments, intersecting with ferroptosis, mitochondrial failure, and microbiome dysbiosis, and contributing to post-sepsis syndrome. Integrating mechanistic data with high-dimensional profiling and early interventional studies, this review proposes a context- and time-dependent model in which acute \"pseudosenescence\" may be organ-protective, whereas persistent senescent reservoirs fuel inflammaging and chronic pathology. Future translational studies are required to define the clinical rationale for phase-specific senotherapeutic interventions in trauma, shock, and sepsis, particularly with respect to long-term outcomes beyond survival.",
+      "journal": "Injury",
+      "authors": [
+        "M\u00f6senlechner M",
+        "Ignatius A",
+        "Haffner-Luntzer M",
+        "Halbgebauer R",
+        "Huber-Lang MS"
+      ],
+      "date": "2026 May 26",
+      "doi": "10.1016/j.injury.2026.113395",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Haemorrhage"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "haemorrhagic shock",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42208489/"
+    },
+    {
+      "pmid": "42208193",
+      "title": "Risk factors for postoperative infection after non-elective femur fracture fixation in pediatric patients.",
+      "abstract": "**BACKGROUND**: Pediatric femoral shaft fractures are common and often require surgical fixation. Postoperative infections remain a serious complication, yet risk factors specific to this population are not well defined.\n\n**METHODS**: We analyzed 14,037 pediatric patients undergoing non-elective femur fracture fixation in the 2019 and 2022 Kids' Inpatient Database (KID). Multivariable logistic regression identified independent predictors of postoperative soft tissue, device-related, and overall infection. Secondary outcomes included length of stay (LOS) and hospital charges.\n\n**RESULTS**: Infections occurred in 0.6% of patients (0.4% soft tissue, 0.3% device-related). Nondisplaced fractures had sharply increased odds of device infection (OR 35.2, 95% CI 4.7-189.7, p\u00a0<\u00a00.001), while open fractures were protective (OR 0.12, 95% CI 0.01-0.58, p\u00a0=\u00a00.039). External fixation conferred the highest infection risk versus intramedullary nailing (OR 4.65, 95% CI 2.25-9.13, p\u00a0<\u00a00.001). Blood transfusion consistently predicted infection across categories (OR 2.6-3.5, all p\u00a0<\u00a00.01). Soft tissue infection prolonged LOS (20.5 vs 4.2 days, p\u00a0<\u00a00.001) and raised hospital charges ($421,798 vs $111,845, p\u00a0<\u00a00.001).\n\n**CONCLUSION**: This study identifies novel and actionable risk factors for postoperative infection following pediatric femur fracture fixation. Recognition of high-risk groups, including those receiving external fixation or transfusion, may guide targeted prevention, perioperative optimization, and surveillance strategies. These findings have important implications for surgical decision-making and healthcare resource utilization in pediatric orthopedic trauma.",
+      "journal": "Injury",
+      "authors": [
+        "Travis LM",
+        "Blanc NK",
+        "Hinchberger V",
+        "Hellinger R",
+        "Pavlis W",
+        "Grottkau BE"
+      ],
+      "date": "2026 May 26",
+      "doi": "10.1016/j.injury.2026.113381",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Haemorrhage",
+        "Orthopaedic"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "blood transfusion",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "open fracture",
+          "strength": "weak",
+          "topic": "Orthopaedic"
+        },
+        {
+          "keyword": "orthopaedic trauma",
+          "strength": "weak",
+          "topic": "Orthopaedic"
+        },
+        {
+          "keyword": "femur fracture",
+          "strength": "strong",
+          "topic": "Orthopaedic"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42208193/"
+    },
+    {
+      "pmid": "42207626",
+      "title": "Adult Male Hypogonadism: A Review.",
+      "abstract": "**IMPORTANCE**: Male hypogonadism is a clinical syndrome of signs and symptoms of testosterone deficiency and consistently low morning serum testosterone concentrations. The prevalence of hypogonadism due to hypothalamus, pituitary, or testes pathology is less than 1%, and the prevalence due to obesity (body mass index \u226530) is from 2% to 8%.\n\n**OBSERVATIONS**: The most common signs and symptoms of hypogonadism are decreased libido, decreased spontaneous erections, and small testes. Primary hypogonadism is characterized by deficient testicular production of testosterone despite elevated luteinizing hormone (LH) concentrations. The most common cause of primary hypogonadism is Klinefelter syndrome (\u22652 X chromosomes and 1 Y chromosome), which affects 2 in 1000 men and is frequently undiagnosed. Secondary hypogonadism is caused by hypothalamic or pituitary dysfunction and is characterized by low testosterone concentrations and low or inappropriately normal LH and follicle-stimulating hormone (FSH) concentrations. The most common permanent causes of secondary hypogonadism are head and neck radiation and severe head trauma. The most common potentially reversible causes of secondary hypogonadism are obesity, severe illness, and medication use (opioids, corticosteroids, checkpoint inhibitors, and medications that cause hyperprolactinemia). Testing for hypogonadism is reserved for men with signs and symptoms of androgen deficiency. Hypogonadism is confirmed if an individual's serum testosterone concentration is less than 264 to 300 ng/dL in at least 2 fasting samples collected between 7 and 10 am and measured with an accurate and external quality-controlled assay. Assessment of calculated free testosterone concentration derived using total testosterone and sex hormone-binding globulin (SHBG) concentrations is necessary for men with obesity, diabetes, and other conditions that cause low serum SHBG concentrations. Patients diagnosed with hypogonadism should have serum FSH and LH concentrations measured to distinguish primary from secondary hypogonadism. For men with obesity-induced hypogonadism, the recommended first-line management is weight loss. In men with obesity, weight loss of at least 5% typically increases serum total testosterone concentration significantly, and weight loss is associated with improved physical function, libido, and erectile function. Men with permanent hypogonadism, or those unable to discontinue medications that cause hypogonadism, may be treated with testosterone. The testosterone formulation (injection, gel, or pill) and dosage should be individualized with monitoring of serum testosterone concentration, hematocrit percentage, and possibly prostate-specific antigen concentration.\n\n**CONCLUSIONS AND RELEVANCE**: Primary hypogonadism affects less than 1% of men, whereas secondary hypogonadism due to obesity (body mass index \u226530) occurs in 2% to 8%. First-line treatment for obesity-induced hypogonadism is weight loss. Testosterone therapy should be initiated for men with permanent hypogonadism or those who are unable to discontinue medications that cause hypogonadism.",
+      "journal": "JAMA",
+      "authors": [
+        "Anawalt BD",
+        "O'Connor KM",
+        "Grossmann M"
+      ],
+      "date": "2026 May 28",
+      "doi": "10.1001/jama.2026.8526",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42207626/"
+    },
+    {
       "pmid": "42206945",
       "title": "Interaction Between Admission Hemoglobin and Sex on ICU Mortality in Patients With Moderate-to-Severe Traumatic Brain Injury: A Retrospective Bicentric Cohort Study.",
       "abstract": "**OBJECTIVES**: Recent studies have sought to define an optimal transfusion threshold in patients with traumatic brain injury (TBI). However, baseline hemoglobin levels differ by sex. Given the male predominance in TBI epidemiology, it is essential to determine if this sex-specific physiologic difference influences the prognosis.\n\n**DESIGN**: Bicentric, retrospective cohort study.\n\n**SETTING**: Two level 1 trauma centers in France from November 2010 to July 2025.\n\n**PATIENTS**: Adult critically ill patients with moderate-to-severe TBI.\n\n**INTERVENTIONS**: None.\n\n**MEASUREMENTS AND MAIN RESULTS**: We included 5513 TBI patients. After adjustment, every 1\u2009g/dL increase in admission hemoglobin was associated with a 31% decrease in the odds of ICU mortality (odds ratio [OR], 0.69; 97.5% CI, 0.52-0.91; p = 0.0027). The sex \u00d7 hemoglobin interaction effect was not significantly associated with ICU mortality (OR, 1.04; 97.5% CI, 0.91-1.19; p = 0.433). Predicted ICU mortality risk was lower in females across all hemoglobin levels (Wald tests, all p < 0.05 from 9.0 to 13.0\u2009g/dL). However, causal inference methods found no evidence of a sex-specific difference in standardized ICU mortality risk at equivalent admission hemoglobin levels (adjusted OR, 1.01; 95% CI, 0.85-1.19; p = 0.936).\n\n**CONCLUSIONS**: No interaction between admission hemoglobin and sex was found regarding ICU mortality following TBI in this cohort. These results do not support the implementation of sex-differentiated hemoglobin transfusion thresholds based solely at admission hemoglobin levels in the initial management of TBI patients. Further prospective studies are needed to confirm these findings and to evaluate whether sex-related differences may emerge when considering longitudinal hemoglobin trajectories during the ICU stay and transfusion practices.",
@@ -512,7 +778,7 @@
         "Ipser JC"
       ],
       "date": "2026 May 28",
-      "doi": "10.1002/14651858.CD002795.pub4",
+      "doi": "10.1002/14651858.CD002795.pub2",
       "tier": "filtered",
       "topics": [
         "General Trauma"
@@ -6767,7 +7033,7 @@
         "Shin SD"
       ],
       "date": "2026 Apr 30",
-      "doi": "10.1016/j.resuscitation.2026.111114",
+      "doi": "10.1097/00003246-200011001-00016",
       "tier": "filtered",
       "topics": [
         "Prehospital"
@@ -7236,470 +7502,6 @@
       ],
       "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/42061201/"
-    },
-    {
-      "pmid": "42060286",
-      "title": "Management of Chronic Subdural Hematoma With Adjunctive Embolization of Middle Meningeal Artery: Research Summary.",
-      "abstract": "",
-      "journal": "JAMA",
-      "authors": [],
-      "date": "2026 May 26",
-      "doi": "10.1001/jama.2026.4965",
-      "tier": "filtered",
-      "topics": [
-        "TBI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "subdural haematoma",
-          "strength": "strong",
-          "topic": "TBI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42060286/"
-    },
-    {
-      "pmid": "42060283",
-      "title": "Management of Chronic Subdural Hematoma With Adjunctive Embolization of Middle Meningeal Artery: The EMMA-Can Randomized Clinical Trial.",
-      "abstract": "**IMPORTANCE**: Chronic subdural hematomas commonly recur after surgical drainage. The effect of adjunctive embolization of the middle meningeal artery (EMMA) on recurrence risk remains unclear.\n\n**OBJECTIVE**: To evaluate whether EMMA as an adjunct to surgical drainage reduces chronic subdural hematoma recurrence compared with surgery alone.\n\n**DESIGN, SETTING, AND PARTICIPANTS**: This trial was a randomized, open-label, blinded-end point trial involving adults with unilateral, symptomatic chronic subdural hematoma (\u226510 mm) undergoing surgical drainage across 9 tertiary care centers in Canada between August 2021 and April 2025.\n\n**INTERVENTION**: EMMA using a liquid embolic agent (Onyx-18) within 72 hours after surgical drainage vs a control group that did not receive EMMA after surgical drainage.\n\n**MAIN OUTCOMES AND MEASURES**: Primary outcome was symptomatic recurrence of chronic subdural hematoma detected on computed tomographic (CT) scan at 90 days (range, 60 to 120 days). Secondary outcomes included radiographic recurrence of chronic subdural hematoma, 90-day mortality, and serious adverse events. The last date of follow-up was July 27, 2025.\n\n**RESULTS**: Of 192 randomized participants, 186 (mean age, 71.8 years; 136 male [73%]) completed the trial (93 per group). The primary outcome of symptomatic recurrence of chronic subdural hematoma detected on CT scan occurred in 4 participants (4.3%) in the EMMA group vs 26 patients (28%) in the control group (risk difference, -23.7; 95% CI, -34.1 to -13.9; P\u2009<\u2009.001). Radiographic recurrence occurred in 13 participants (14%) in the EMMA group vs 46 patients (49.5%) in the control group. Mortality was 4.3% vs 1.1%; serious adverse events occurred in 8.6% vs 5.4%, respectively.\n\n**CONCLUSIONS AND RELEVANCE**: Adjunctive EMMA after surgical drainage significantly reduced symptomatic recurrence on CT scan of unilateral chronic subdural hematoma at 90 days compared with surgery alone.\n\n**TRIAL REGISTRATION**: ClinicalTrials.gov Identifier: NCT04750200.",
-      "journal": "JAMA",
-      "authors": [
-        "Shankar JJS",
-        "Alcock S",
-        "Kashani N",
-        "Darsaut T",
-        "Wang BH",
-        "Dos Santos MP",
-        "Milot G",
-        "O'Kelly C",
-        "Kelly ME",
-        "Iancu D",
-        "Cora A",
-        "Marotta T",
-        "van Adel B",
-        "Kishore K",
-        "Drake B",
-        "Lesiuk H",
-        "Carrondo-Cottin S",
-        "Rempel J",
-        "Ahmed U",
-        "Chaalala C",
-        "Silvaggio J",
-        "Kaderali Z",
-        "McEachern J",
-        "Salam MSA",
-        "Sinha N",
-        "Marin R",
-        "Leung YS",
-        "Balshaw R",
-        "Fleetwood I",
-        "Jiang D",
-        "Menon BK",
-        "Singh N",
-        "Zeiler FA"
-      ],
-      "date": "2026 May 26",
-      "doi": "10.1001/jama.2026.4910",
-      "tier": "filtered",
-      "topics": [
-        "TBI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "subdural haematoma",
-          "strength": "strong",
-          "topic": "TBI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42060283/"
-    },
-    {
-      "pmid": "42060120",
-      "title": "Surgical treatment of coronal shear fractures: short- to mid-term results and risk factor analysis.",
-      "abstract": "**BACKGROUND**: Coronal shear fractures of the distal humerus are rare but severe injuries. Reconstruction is often challenging, especially in comminuted cases, which is why many surgeons opt for an elbow arthroplasty in those cases. However, total elbow arthroplasty is associated with a variety of potential problems itself. Therefore, the aim of this study was to present the functional and clinical outcome of coronal shear fractures treated by osteosynthetic reconstruction in a short- to mid-term follow-up, and to identify possible risk factors for an inferior outcome.\n\n**METHODS**: We performed a retrospective follow-up assessment of 51 consecutive patients (30 women; median age 56 years, (IQR 39-62)) who underwent osteosynthetic reconstruction for coronal shear fractures between 2012 and 2022 after a minimum follow-up period of two years. The Mayo Elbow Performance Score, Oxford Elbow Score, and Disabilities of the Arm, Shoulder and Hand score were evaluated, and all available radiographs were analyzed. All complications and revision procedures were assessed. Univariable and multivariate regression analyses were performed to identify potential risk factors for a poor outcome following osteosynthetic reconstruction.\n\n**RESULTS**: After a median follow-up period of 43 (IQR 28-78) months, the median Mayo Elbow Performance Score was 100 (IQR 85-100), the median Oxford Elbow Score was 42 (IQR 34-46), and median Disabilities of the Arm, Shoulder and Hand score was 6 (IQR 2-28). The median ROM was 148\u00b0 (IQR 126-155) for flexion, 0\u00b0 (IQR 0-0) for extension, 90\u00b0 (IQR 85-90) for pronation, and 90\u00b0 (IQR 85-90) for supination. There was no extension deficit on the injured site. The overall complication and reoperation rates were 35.3% and 27.4%, respectively, with severe elbow stiffness being the most common reason for revision. Increasing Dubberley classification and posterior comminution were significantly associated with a poor outcome and higher rates of complications and revision.\n\n**CONCLUSION**: This short- to mid-term follow-up shows good functional results after osteosynthetic reconstruction in coronal shear fractures despite high complication and revision rates. However, increasing Dubberley classification, posterior comminution and the presence of complications show inferior outcome scores. This study shows that osteosynthetic reconstruction can be an option even in comminuted coronal shear fractures. Nevertheless, patient factors need to be considered and an individual decision concerning the surgical treatment is necessary. Patients should be counseled about the high complication rates and inferior outcome with increasing Dubberley classification.\n\n**LEVEL OF EVIDENCE**: Level III.",
-      "journal": "Eur J Trauma Emerg Surg",
-      "authors": [
-        "Bauer A",
-        "Cornel L",
-        "Sauter M",
-        "Jakobi T",
-        "M\u00fcnzberg M",
-        "Klug A"
-      ],
-      "date": "2026 Apr 30",
-      "doi": "10.7759/cureus.13740",
-      "tier": "core",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42060120/"
-    },
-    {
-      "pmid": "42059942",
-      "title": "Assessment of a new technique for biological augmentation in sternoclavicular joint dislocations: a cadaveric feasibility and biomechanical evaluation.",
-      "abstract": "**AIMS**: Biological augmentation is necessary in chronic sternoclavicular dislocations. However, the placement of drill holes for a graft can be difficult at that region. The aim of this study was to evaluate, as an early proof-of-concept, the feasibility of using a locally available clavicular periosteal flap (CPF) or sternal periosteal flap (SPF) for sternoclavicular joint (SCJ) stabilization and to biomechanically test the periosteal flaps.\n\n**METHODS**: A cadaveric anatomic feasibility and biomechanical study (level of evidence V) was performed on nine SCJs. The CPF was mobilized from three sides by lifting the flap off the bone, preserving its attachment near the SCJ. Two 1.6\u00a0mm drill holes were created in the sternum, and the CPF was folded over the SCJ and fixed with a non-resorbable wire. Additionally, the non-resorbable wire was used in terms of a figure-of-8-bracing through a 1.6\u00a0mm clavicular drill hole to secure the joint position. Flap dimensions and sternal overlap were measured. Vice versa SPFs were prepared in selected specimens and fixed in a similar fashion. The CPFs were biomechanically tested using a uniaxial tensile testing machine to obtain values for stress at 50% strain (\u03c3 (50%)), maximum force (Fmax), maximum stress (\u03c3max), strain at maximum force (\u03b5(Fmax)), and strain at failure (\u03b5 at failure).\n\n**RESULTS**: CPF mobilization and fixation were successfully achieved in all specimens. The flaps showed an average length and width of 3.5\u2009\u00d7\u20092.6\u00a0cm and a sternal overlap of 2.0\u00a0cm. In four specimens, sternal periosteal flaps (SPF) were additionally mobilized, with an average length and width of 3.0\u2009\u00d7\u20092.6\u00a0cm and a clavicular overlap of 2.1\u00a0cm. Both flap types demonstrated adequate size for sufficient joint overlapping. Biomechanical testing of the CPFs yielded a mean stress at 50% strain (\u03c3 (50%)) of 0.30\u2009\u00b1\u20090.12\u00a0N/mm\n\n**CONCLUSION**: This cadaveric study provides an early proof-of-concept demonstrating the feasibility of a novel SCJ stabilization technique using a locally available CPF or SPF. While this approach may offer advantages by minimizing donor-site morbidity associated with graft harvesting and potentially reducing surgical complexity, further biomechanical and clinical studies are required to establish its effectiveness and clinical applicability.\n\n**LEVEL OF EVIDENCE**: V.",
-      "journal": "Eur J Trauma Emerg Surg",
-      "authors": [
-        "Somberg O",
-        "F\u00f6rster E",
-        "Rosteius T",
-        "Bernstorff M",
-        "Schildhauer T",
-        "K\u00f6nigshausen M"
-      ],
-      "date": "2026 Apr 30",
-      "doi": "10.1007/s00256-009-0849-9",
-      "tier": "core",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42059942/"
-    },
-    {
-      "pmid": "42059917",
-      "title": "Differentiating injury patterns and outcomes in accidental, suicidal and occupational falls from heights.",
-      "abstract": "**BACKGROUND**: Falls from significant heights are a leading cause of severe injuries and can result from accidents, suicide attempts, or occupational incidents. While previous studies have explored general injury patterns associated with falls, little is known about the specific differences between accidental, suicidal, and occupational falls. This study aims to identify distinct injury patterns and outcomes among these fall types, thereby enhancing primary care and decision-making algorithms.\n\n**METHODS**: We conducted a retrospective analysis using data from the German TraumaRegister DGU\n\n**RESULTS**: Among 188,708 patients, 29,991 (15.9%) experienced high falls, while 50,674 (26.9%) fell from low height. High falls were predominantly accidental (82.3%), with suicidal falls accounting for 17.7%. Accidental high falls mainly caused thoracic (58.9%) and head injuries (46.2%), whereas suicidal falls frequently involved pelvic (55.7%) and lower limb injuries (56.5%). Suicidal falls resulted in significantly higher injury severity (ISS 30.6 vs. 21.4 in accidents, p\u2009<\u20090.001) and mortality (25.4% vs. 11.0%, p\u2009<\u20090.001). Occupational falls, predominantly affecting men, demonstrated a lower mortality rate (6.5%) compared to non-occupational high falls (16.1%).\n\n**CONCLUSION**: This study reveals that suicidal falls from height lead to more severe injuries and higher mortality compared to accidental or occupational falls. Accidental falls are more associated with head trauma, while suicidal falls primarily involve the lower extremities and pelvis. Occupational falls have a lower mortality rate, possibly due to faster medical intervention. Understanding these patterns is crucial for tailoring early clinical management and improving patient outcomes.",
-      "journal": "Eur J Trauma Emerg Surg",
-      "authors": [
-        "Beyersdorf C",
-        "Hussmann B",
-        "Wergen N",
-        "Lefering R",
-        "Schiffner E",
-        "Maus U",
-        "Jaekel C",
-        "Dgu T"
-      ],
-      "date": "2026 Apr 30",
-      "doi": "10.1111/j.1943-278X.1991.tb00464.x",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "Systems/QI",
-        "TBI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "injury severity",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "head injury",
-          "strength": "weak",
-          "topic": "TBI"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42059917/"
-    },
-    {
-      "pmid": "42057093",
-      "title": "No delayed intracranial hemorrhage in head injury patients on oral anticoagulants and with normal CT: a retrospective study of 215 patients.",
-      "abstract": "",
-      "journal": "Scand J Trauma Resusc Emerg Med",
-      "authors": [
-        "Bahr MA",
-        "Visnes H",
-        "Brommeland T"
-      ],
-      "date": "2026 Apr 29",
-      "doi": "10.1186/s13049-026-01617-1",
-      "tier": "core",
-      "topics": [
-        "TBI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "head injury",
-          "strength": "strong",
-          "topic": "TBI"
-        },
-        {
-          "keyword": "intracranial haemorrhage",
-          "strength": "strong",
-          "topic": "TBI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42057093/"
-    },
-    {
-      "pmid": "42057090",
-      "title": "The impact of advanced pre-hospital interventions on scene time.",
-      "abstract": "**BACKGROUND**: Pre-hospital trauma care has evolved with the introduction of increasingly advanced interventions. While these procedures may offer clinical benefit, they may also prolong pre-hospital times, a critical determinant of outcome, particularly in patients with non-compressible haemorrhage. This study examined whether expanding pre-hospital capability has affected scene time over the past two decades.\n\n**METHODS**: We conducted a retrospective, observational study of injured patients treated by a physician-led air ambulance service. Data from July of each year between 2005-2010 (Group 1) and 2017-2021 (Group 2) were compared. Advanced interventions including blood transfusion, Resuscitative Endovascular Balloon Occlusion of the Aorta (REBOA), arterial and central venous cannulation were introduced between these periods. Univariate and multivariable analyses were performed to identify factors associated with scene time.\n\n**RESULTS**: Among 1,357 eligible patients, 26% received at least one advanced intervention, with uptake increasing over time (24% vs 29%; p\u2009=\u20090.02). The proportion of penetrating trauma also increased (24% vs 34%; p\u2009<\u20090.001), and these patients had consistently shorter scene times than those with blunt trauma (10 [6-17] vs 25 [17-36] minutes; p\u2009<\u20090.001). Median scene time remained similar between study periods. In multivariable analysis, scene time was independently associated with mechanism of injury, age, and number of advanced interventions performed. Each additional intervention increased scene time by 41% (p\u2009<\u20090.001).\n\n**CONCLUSION**: Advanced pre-hospital interventions have become more frequent, and scene time increases in direct proportion to the number of interventions performed, independent of temporal, operational, patient, and injury factors. Scene times have remained similar over two decades, reflecting opposing trends of increasing intervention frequency and more penetrating trauma. These findings highlight the need to balance the potential benefit of advanced pre-hospital interventions against their time cost, ensuring procedural efficiency, judicious patient selection, and timely transfer to definitive care in time-critical trauma.",
-      "journal": "Scand J Trauma Resusc Emerg Med",
-      "authors": [
-        "Gandolfi M",
-        "Bird F",
-        "Henry CL",
-        "Bestwick J",
-        "Lockey DJ",
-        "Perkins ZB"
-      ],
-      "date": "2026 Apr 30",
-      "doi": "10.1186/s13049-026-01613-5",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "Haemorrhage",
-        "Penetrating"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "blunt trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "penetrating trauma",
-          "strength": "weak",
-          "topic": "Penetrating"
-        },
-        {
-          "keyword": "REBOA",
-          "strength": "weak",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "blood transfusion",
-          "strength": "weak",
-          "topic": "Haemorrhage"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42057090/"
-    },
-    {
-      "pmid": "42055837",
-      "title": "Challenges and learning curve in adopting resuscitative endovascular balloon occlusion of the aorta for trauma patients: A retrospective multicenter study.",
-      "abstract": "**BACKGROUND**: This study aimed to assess the learning curve of REBOA from the first case in trauma centers using cumulative sum (CUSUM) analysis.\n\n**MATERIALS AND METHODS**: This study enrolled consecutive trauma patients who visited five trauma centers from December 2015 to December 2021. To monitor the effectiveness of REBOA, we performed risk-adjusted cumulative sum (RA-CUSUM) analysis for mortality due to exsanguination. For individual risk adjustment, we implemented the least absolute shrinkage and selection operator (LASSO) logistic regression model. We then calculated the CUSUM for: (1) the time from common femoral artery (CFA) access to confirmation of REBOA placement (RP-CUSUM), (2) the total occlusion time (OT-CUSUM), (3) door-to-balloon time (DB-CUSUM), and (4) the time from injury to admission (IA-CUSUM). To determine whether observed deviations were statistically significant, a V-mask was superimposed on the CUSUM curve.\n\n**RESULTS**: A total of 251 patients were enrolled. The overall mortality rate was 67.7% (170/251), and the mortality rate due to exsanguination was 49.0% (123/251). The RA-CUSUM model was developed using a LASSO logistic regression approach. In three hospitals, the RA-CUSUM showed an improvement after 5-34 procedures. However, the RA-CUSUM showed fluctuations with deterioration in the other two hospitals. The RA-CUSUM fluctuations exceeded the V-mask control limits. RA-CUSUM charts for five hospitals deviated beyond the V-mask boundaries, indicating that the processes were out of control. Other CUSUM charts-such as RP-, OT-, DB-, and IA-CUSUM-exhibited fluctuations limited within V-mask boundaries, which suggests no significant change.\n\n**CONCLUSION**: CUSUM analysis demonstrated that a reduction in risk-adjusted mortality may be achieved with experience. Nevertheless, trauma surgeons should exercise caution due to a potential decline in the performance of REBOA, particularly the rate of mortality due to exsanguination.",
-      "journal": "Injury",
-      "authors": [
-        "Kim K",
-        "Kang BH",
-        "Kim DH",
-        "Yu B",
-        "Chang SW",
-        "Jung PY",
-        "Heo Y",
-        "Kang WS"
-      ],
-      "date": "2026 Apr 24",
-      "doi": "10.1016/j.injury.2026.113304",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Haemorrhage"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "REBOA",
-          "strength": "weak",
-          "topic": "Haemorrhage"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42055837/"
-    },
-    {
-      "pmid": "42055836",
-      "title": "Venous thromboembolism burden in IVC injuries: Is there an optimal strategy in prevention?",
-      "abstract": "**INTRODUCTION**: Venous thromboembolism (VTE) is a common complication in trauma patients; however, there have been limited studies on VTEs and the prevention thereof in patients with inferior vena cava (IVC) injuries. This study aimed to examine VTE incidence and the preventative efficacy of VTE prophylaxis regimens after operative IVC repair.\n\n**METHODS**: A 12-year retrospective review was performed of all patients who presented with IVC injuries to an urban level 1 trauma center. A subgroup analysis of VTE incidence, prophylaxis regimen (i.e., prophylactic anticoagulation [PAC] and/or antiplatelet [AP]) efficacy, and other clinical variables was performed on patients who underwent a primary or patch IVC repair and survived >\u00a072\u00a0h.\n\n**RESULTS**: A total of 132 patients presented with IVC injuries requiring operative management, with 56% overall survival. Among the 66 patients who received primary or patch repair and survived >\u00a072\u00a0h, 27% had a VTE during index hospitalization and/or readmission. VTEs occurred a median of 9 days post-injury, and the most common type of VTE was deep vein thrombosis, followed by IVC thrombosis and pulmonary embolism. There were no significant differences in any clinical variables compared between patients who developed VTEs during index hospitalization and those who did not, including VTE prophylaxis timing, hospital or ICU length-of-stay, and injury severity score. Index hospitalization VTE rates differed significantly based on prophylaxis strategy (p\u00a0=\u00a00.018), with a 100% (2/2) VTE rate among patients who received no prophylaxis, a 22% (11/50) rate among patients who received a single modality (AP or PAC), and a 7% (1/14) rate among patients who received dual strategies (AP+PAC). However, VTE rates did not differ between single- and dual-prophylaxis strategies when compared directly.\n\n**CONCLUSION**: Patients undergoing primary or patch IVC repair experienced high rates of VTEs, but these rates differed by prophylaxis strategies. While we observed trends toward reduction in the incidence of VTE with dual (PAC + AP) modalities versus single modality therapy, this study was underpowered to observe an actual effect given the small sample size. Further research or prospective trials are warranted to determine optimal prophylaxis strategies, especially given the markedly elevated VTE risk in patients with IVC injuries.",
-      "journal": "Injury",
-      "authors": [
-        "Himmler A",
-        "Preston JD",
-        "Guindi A",
-        "Wagner V",
-        "De Leon Castro L",
-        "Fransman RB",
-        "Nguyen J",
-        "Smith RN",
-        "Benarroch-Gampel J",
-        "Ramos CR",
-        "Garcia-Toca M",
-        "Sciarretta JD"
-      ],
-      "date": "2026 Apr 11",
-      "doi": "10.1016/j.injury.2026.113285",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "injury severity",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "trauma centre",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42055836/"
-    },
-    {
-      "pmid": "42054931",
-      "title": "Malpractice and compensation claims after hip fracture care: A systematic review of cross-jurisdiction trends and predictors of plaintiff success.",
-      "abstract": "**BACKGROUND**: Hip fracture care requires timely diagnosis, expedited surgery, and high-risk inpatient management. Failures along this pathway can result in patient harm and malpractice exposure. This review synthesized cross-jurisdiction malpractice trends and inflation-adjusted liability payments associated with adult hip fracture care.\n\n**METHODS**: A PRISMA-guided systematic review was conducted. PubMed, Embase, Web of Science, Scopus, and the Cochrane Library were searched from January 2000 through January 2026. Eligible studies reported malpractice claims and outcomes specific to adult hip fracture care. Monetary values were converted to 2026 United States dollars (USD) using the Consumer Price Index. British pound values were converted using 1 GBP =\u00a01.30 USD. Results were synthesized descriptively owing to heterogeneity in medicolegal frameworks.\n\n**RESULTS**: Six studies met the inclusion criteria, representing 1192 hip fracture-related claims from the United States (U.S.), United Kingdom (U.K.), and Norway. Hip fractures accounted for 7%-17% of fracture-related claims in tort-based systems. Among 445 National Health Service Litigation Authority (NHSLA) claims, plaintiff success rates ranged from 56% to 69%, compared with 31% in 80\u00a0U.S. jury-based cases. Diagnostic delay or missed diagnosis was the most frequent allegation (28%-40%) and the only independent predictor of plaintiff success in U.S. data (odds ratio, 12.57). U.K. datasets reported total indemnities exceeding $25 million (2026 USD), with pressure injuries demonstrating the highest mean payouts. In Norway's no-fault system, 616 claims were filed following 90,601 hip fracture surgeries (0.7% claim rate), with 36% accepted, most commonly for hospital-acquired infection.\n\n**CONCLUSIONS**: Medicolegal risk after hip fracture care clusters around process-driven failure points, particularly diagnostic delay and ward-based care breakdowns, rather than isolated technical errors. Missed diagnosis was the only independent predictor of plaintiff success in the U.S.\n\n**DATA**: Findings suggest that pathway-level interventions targeting diagnostic accuracy, operative timeliness, and inpatient surveillance may reduce both patient harm and medicolegal exposure.",
-      "journal": "Injury",
-      "authors": [
-        "Box MW",
-        "Sancilio C",
-        "Puga TB",
-        "Sorkin S",
-        "Glenn B",
-        "Riehl JT"
-      ],
-      "date": "2026 Jun 1",
-      "doi": "10.1016/j.injury.2026.113299",
-      "tier": "filtered",
-      "topics": [],
-      "keyword_matches": [],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42054931/"
-    },
-    {
-      "pmid": "42054930",
-      "title": "The influence of burn injury timing on survival in patients with severe burns.",
-      "abstract": "**INTRODUCTION**: Various factors can influence the survival of patients with severe burns. One of these factors could be the day or time of the burn injury. There are studies describing worse outcomes and higher mortality, as well as longer hospital stays, for emergency presentations at night and weekends for certain conditions. This study evaluates data from multiple burn centers, to analyse whether the day of the week, time of day or season of the year when a severe burn injury occurs has an impact on patient survival in a single patient cohort.\n\n**METHODS**: Only primary admitted adult patients with documented date and time of admission to hospital and existing Burn mortality prediction (BumP)-Score were eligible for this study. The BumP score is used to calculate mortality using the variables age, burn area, presence of full-thickness burns, presence of inhalation trauma, circumstances of the burn and presence of pre-existing conditions. In the analyzed period 6152 patients were included. For the following subgroups burn trauma frequencies and characteristics of patients were analysed: Time of day, weekdays versus weekends, month and season. For outcome analysis the standardised mortality ratio (SMR) was calculated.\n\n**RESULTS**: The SMR calculation revealed no significant difference between daytime and nighttime (0.939 [95% CI 0.831 - 1.046] vs. 0.985 [95% CI 0.863 - 1.106], p\u00a0=\u00a00.556). There was also no difference in the SMR between weekdays and weekends (0.932 [95% CI 0.836-1.027] vs. 1.027 [95% CI 0.875-1.179], p\u00a0=\u00a00.375), nor between time of day (p\u00a0=\u00a00.873), or season (p\u00a0=\u00a00.197).\n\n**DISCUSSION**: The timing of burn injury does not significantly affect overall patient survival in relation to the time of day and between weekends and weekdays, or season although temporal trends and variations in SMR suggest that structural or logistical factors may play a role. The quality of care is consistently high regardless of the time of the burn admission.",
-      "journal": "Injury",
-      "authors": [
-        "Daniels M",
-        "Lefering R",
-        "Fuchs PC"
-      ],
-      "date": "2026 Jun 1",
-      "doi": "10.1016/j.injury.2026.113302",
-      "tier": "filtered",
-      "topics": [
-        "Burns",
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "burn injury",
-          "strength": "strong",
-          "topic": "Burns"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42054930/"
-    },
-    {
-      "pmid": "42054929",
-      "title": "Is the pelvis \"organ protective\" in pelvic and spine trauma? A database study of spine and pelvic combination injuries.",
-      "abstract": "**BACKGROUND**: Traumatic spine fractures often occur with multisystem injuries. Pelvic and transverse process (TP) fractures have been linked to visceral trauma, but whether the pelvis behaves as an \"organ protective\" structure in spine injury is unclear.\n\n**OBJECTIVE**: To determine how concomitant pelvic fractures and TP fracture burden influence visceral injury patterns in patients with spinal fractures.\n\n**METHODS**: This retrospective cohort included adult trauma patients with CT-confirmed spinal fractures at a single Level I trauma center (2015-2023). Patients were grouped into spine-only or spine-plus-pelvic fracture groups. Demographics, mechanism, TP characteristics, and visceral injuries (thoracic, abdominal, neurologic) were recorded. Liver, spleen, and kidney injuries were graded using the American Association for the Surgery of Trauma criteria, and a Visceral Injury Complexity Score (VICS) was calculated. Bivariate analyses and multivariable Poisson regression assessed associations between pelvic injury and TP fracture count with visceral injury burden and organ-specific severity.\n\n**RESULTS**: Among 154 patients (86 spine only, 68 spine plus pelvic), overall visceral (92.5% vs 70.9%) and abdominal injuries (85.1% vs 50.9%) were more common in spine only trauma, which also showed higher VICS and spleen injury grades. Pelvic injury independently predicted fewer abdominal injuries and lower liver, spleen, and composite organ injury severity, whereas increasing TP fracture count predicted higher total visceral, thoracic, and neurologic injury counts and greater spleen, kidney, and composite organ injury severity.\n\n**CONCLUSIONS**: In spine trauma, pelvic fractures were associated with reduced abdominal organ injury burden, while greater TP fracture burden identified patients with more extensive multisystem trauma, supporting a dual role of the pelvis as both an injury marker and a potential organ protective structure.",
-      "journal": "Injury",
-      "authors": [
-        "Cox Z",
-        "Craddock G",
-        "Khan U",
-        "Nemeh S",
-        "Rababa I",
-        "Chmielewski D",
-        "Fahs A",
-        "Best B"
-      ],
-      "date": "2026 Jun 1",
-      "doi": "10.1016/j.injury.2026.113258",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Pelvic",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "injury severity",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "trauma centre",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "pelvic fracture",
-          "strength": "weak",
-          "topic": "Pelvic"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42054929/"
-    },
-    {
-      "pmid": "42054771",
-      "title": "The predictive value of skin lesions for intrathoracic and intra-abdominal injuries in patients with blunt thoracic and abdominal trauma.",
-      "abstract": "**AIM**: To assess whether thoracic and abdominal skin lesions predict CT-detected intrathoracic and intra-abdominal injuries in adults with blunt torso trauma.\n\n**METHODS**: This single-center retrospective study included 1523 adults (June 2014-June 2024) with blunt thoracic and/or abdominal trauma who underwent both chest CT and contrast-enhanced abdominal CT. Skin lesions and their anatomical locations were extracted from forensic examination forms. Outcomes were any pathological finding on chest CT and abdominal CT. Associations were evaluated using logistic regression, and discrimination was assessed using ROC curves (AUC).\n\n**RESULTS**: Median age was 42 (IQR 27-59) years, and 69.7% were male. Traffic accidents were the most common mechanism (45.9%). Chest CT pathology was present in 24.8% and abdominal CT pathology in 10.6%. Any thoracic skin lesion was associated with higher odds of chest CT pathology (52.6% vs 19.7%; OR 4.52, 95% CI 3.38-6.04; AUC 0.615). Any abdominal skin lesion was associated with higher odds of abdominal CT pathology (33.9% vs 7.6%; OR 6.22, 95% CI 4.28-9.06; AUC 0.639). Region-specific lesion models showed limited discrimination (AUC \u223c0.50-0.55).\n\n**CONCLUSION**: Skin lesions are strongly associated with CT-detected intrathoracic and intra-abdominal injuries in blunt torso trauma, but their standalone discriminative performance is limited; they should be interpreted as supportive risk markers rather than definitive screening criteria.",
-      "journal": "Am J Emerg Med",
-      "authors": [
-        "Fiyakali EA",
-        "\u015eeng\u00fcld\u00fcr E",
-        "Selki K"
-      ],
-      "date": "2026 Apr 21",
-      "doi": "10.1016/j.ajem.2026.04.030",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42054771/"
     }
   ]
 }
