@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-30T20:44:54.198189Z",
-  "total_articles": 191,
+  "generated": "2026-05-31T20:50:02.647511Z",
+  "total_articles": 193,
   "all_topics": [
     "Abdominal",
     "Burns",
@@ -378,6 +378,228 @@
     "Cochrane Database Syst Rev": "filtered"
   },
   "articles": [
+    {
+      "pmid": "42218532",
+      "title": "Challenges faced by prehospital emergency physicians providing emergency care to pediatric patients : Defining entrustable professional activities by identifying self-perceived competency strengths and deficits in prehospital emergency medicine.",
+      "abstract": "**BACKGROUND**: Pediatric emergencies constitute a small proportion of prehospital cases yet pose unique diagnostic and therapeutic challenges for emergency physicians due to age-specific physiological differences, limited exposure, and infrequent opportunities for skill acquisition. Competency-based medical education frameworks and entrustable professional activities (EPAs) may offer suitable concepts to structure pediatric emergency training.\n\n**METHODS**: This mixed-methods study combined a retrospective analysis of 9,409 prehospital emergency physician protocols (2012-2021) with a survey assessing self-perceived competence and training needs among emergency physicians. Pediatric emergency characteristics, clinical management, and utilized interventions were analyzed. Survey data captured demographic characteristics, perceived competency across defined scenarios, sources of knowledge acquisition, and perceived gaps in pediatric emergency preparedness.\n\n**RESULTS**: Among all prehospital missions, 606 pediatric emergencies (6.45%) were identified, predominantly involving adolescents with any condition, and any age with trauma and neurological conditions. Invasive interventions such as intubation, cardiopulmonary resuscitation, or intraosseous access were rarely needed. Survey responses (n\u2009=\u2009437) revealed heterogeneous self-perceived competencies: seizures, anaphylaxis, and hypoglycemia were associated with high confidence, whereas neonatal care, pediatric polytrauma, and cardiopulmonary resuscitation demonstrated markedly lower confidence levels. Knowledge was primarily acquired during the initial emergency physician qualification training period, as well as through subsequent clinical exposure in routine practice, with limited engagement in ongoing pediatric-specific training. More than 70% of participants advocated for structured, mandatory, and simulation-based pediatric training.\n\n**CONCLUSION**: Pediatric emergencies in the prehospital setting are uncommon yet challenging, revealing gaps between training expectations, clinical exposure, and perceived competencies. Strengthened pediatric emergency training-particularly simulation-based practice and EPA-based curricular elements-may enhance preparedness, standardize entrustment decisions, and improve patient safety. Future work should operationalize nested pediatric EPAs and evaluate competency outcomes prospectively.\n\n**TRIAL NUMBER**: IRB-2023-06.",
+      "journal": "Scand J Trauma Resusc Emerg Med",
+      "authors": [
+        "Kamphausen A",
+        "Steg J",
+        "Bexten T",
+        "Kubitz J",
+        "Engelen C"
+      ],
+      "date": "2026 May 30",
+      "doi": "10.1111/j.1553-2712.2000.tb02270.x",
+      "tier": "core",
+      "topics": [
+        "General Trauma",
+        "Prehospital"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "polytrauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "prehospital",
+          "strength": "strong",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42218532/"
+    },
+    {
+      "pmid": "42218522",
+      "title": "Transfusion and mortality after major trauma in patients on direct oral anticoagulants: a multicentre cohort study.",
+      "abstract": "**BACKGROUND**: Major trauma in patients with direct oral anticoagulants (DOACs) is increasing as treatment with DOACs is becoming more prevalent. DOACs add complexity to trauma due to increased risk of bleeding. The primary aim of this study was to compare the likelihood of packed red blood cell (PRBC) transfusion and PRBC volumes in patients with DOACs to non-anticoagulated controls after major trauma. Secondary aims were to compare mortality rates between these groups.\n\n**METHODS**: This was a multicentre retrospective cohort study with four participating hospitals. Inclusion criteria were age\u2009\u2265\u200918 years and admission for trauma with New Injury Severity Score (NISS)\u2009>\u200915 from Jan 1, 2019, to Dec 31, 2023. The Swedish Trauma Registry and medical records were used to identify patients and to retrieve data. For primary weighted analyses, propensity scores for DOACs were estimated using sex, age, injury mechanism, ASA class, antiplatelet treatment, and NISS. Non-weighted adjusted regression models were used for complementary analyses.\n\n**RESULTS**: A total of 1817 patients were admitted for major trauma during the study period, of which 756 patients were included in the analytic cohort. PRBC was administered to 30.8% of patients with DOACs and to 20.7% of controls. PRBC likelihood was higher among patients with DOACs (OR 1.73, 95% CI 1.03-2.91). The number of PRBC units among patients who received transfusions was not significantly higher for DOACs (GMR 1.11, 95% CI 0.79-1.56). Mortality rates within 24\u00a0h and 30 days did not differ significantly in primary analyses (OR 1.82, 95% CI 0.78-4.23 and OR 1.34, 95% CI 0.80-2.24, respectively).\n\n**CONCLUSIONS**: Patients with DOACs were more likely to receive PRBC transfusion, but PRBC volumes were not significantly different among transfused patients. Mortality did not differ significantly in the primary weighted analyses.",
+      "journal": "Scand J Trauma Resusc Emerg Med",
+      "authors": [
+        "Wers\u00e4ll JH",
+        "Hedelin H",
+        "Vidlund A",
+        "Ekdahl E",
+        "Kjellberg J",
+        "Larsson PU",
+        "Normark L",
+        "H\u00f6gberg D"
+      ],
+      "date": "2026 May 30",
+      "doi": "10.1007/s00068-023-02244-6",
+      "tier": "core",
+      "topics": [
+        "General Trauma",
+        "Haemorrhage",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "major trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "injury severity",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "packed red blood cells",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "trauma registry",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42218522/"
+    },
+    {
+      "pmid": "42217456",
+      "title": "Antibiotic prophylaxis protocol for gunshot wound-related open fractures: A single-center retrospective analysis.",
+      "abstract": "**BACKGROUND**: Gunshot-induced open fractures (ballistic OFs) present significant challenges in trauma management due to high risk of infection and lack of standardized antibiotic prophylaxis protocols. This study evaluates the implementation of an institutional antibiotic prophylaxis protocol for ballistic OFs at a Level I trauma center, assessing its impact on infection rates and protocol adherence.\n\n**METHODS**: A retrospective analysis of patient records was conducted, including all cases of ballistic OFs treated between June 7, 2021, and March 31, 2024. Patients were stratified into pre-implementation and post-implementation groups, with the latter further divided into adherent and non-adherent subgroups. Infection rates, time to antibiotic administration, and demographic and clinical variables were analyzed using chi-squared tests and logistic regression.\n\n**RESULTS**: Among 289 patients included, post-implementation protocol adherence was observed in 36% of cases. Infection rates were 7.1% (12/168, 95% CI 4.1-12.1%) before implementation, and 11.6% (14/121, 95% CI 7.0-18.5%) after with no significant difference (Fisher's exact test, p\u00a0=\u00a00.276). On multivariable analysis, infection was associated with vancomycin use (adjusted OR 5.24, 95% CI 1.95-13.77, p\u00a0=\u00a00.001), use of irrigation and debridement (adjusted OR 4.60, 95% CI 1.85-12.24, p\u00a0=\u00a00.001), and use of flap closure or split-thickness skin graft (adjusted OR 4.70, 95% CI 1.29-16.48, p\u00a0=\u00a00.020). Protocol non-adherence was predominantly attributable to delayed antibiotic initiation and improper metronidazole dosing in the setting of concomitant bowel injury.\n\n**CONCLUSIONS**: The findings suggest that while the introduction of an institutional antibiotic protocol did not significantly alter infection rates, challenges in adherence underscore the need for enhanced implementation strategies. Associations between infection and variables such as irrigation and debridement, flap reconstruction, and vancomycin use likely reflect underlying injury severity and wound contamination. Improved adherence, particularly in cases involving concomitant bowel injuries, may further optimize outcomes and support antibiotic stewardship in trauma care.",
+      "journal": "Injury",
+      "authors": [
+        "Gubara K",
+        "Gordy D",
+        "Echeverria N",
+        "Rehman S"
+      ],
+      "date": "2026 May 23",
+      "doi": "10.1016/j.injury.2026.113361",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Orthopaedic",
+        "Penetrating",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "injury severity",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "gunshot wound",
+          "strength": "strong",
+          "topic": "Penetrating"
+        },
+        {
+          "keyword": "open fracture",
+          "strength": "strong",
+          "topic": "Orthopaedic"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42217456/"
+    },
+    {
+      "pmid": "42217455",
+      "title": "Linking hospital-based violence intervention program implementation with patient-reported outcomes.",
+      "abstract": "**BACKGROUND**: Understanding patient perspectives on the short-term impact of hospital-based violence intervention programs (HVIPs) is crucial to providing patient-centered care. However, HVIP evaluations often fail to integrate patient-reported outcomes (PROs), relying predominately on distal outcomes (e.g., reinjury, fatality) captured by administrative data sources to determine impact. We aimed to examine how observable program implementation metrics may be related to PROs, including satisfaction with and short-term impacts of a pediatric HVIP.\n\n**METHODS**: We conducted a retrospective cohort study of 357 patients (ages 8-18 years) who participated in our HVIP located within an urban pediatric trauma center. We linked HVIP implementation metrics from case management records and PROs to proxy caregiver-reported satisfaction and outcome data from the HVIP-Client Satisfaction Questionnaire (HVIP-CSQ). We summarized patient demographic and injury characteristics, as well as program implementation metrics and HVIP-CSQ responses. We conducted multivariate linear regression analyses to examine associations between implementation metrics and caregiver-reported satisfaction and outcomes.\n\n**RESULTS**: Patients with (n\u00a0=\u00a0199) and without PROs data (n\u00a0=\u00a0158) had similar demographic, clinical, and HVIP implementation characteristics, though those with PROs were more likely to have been retained in HVIP vs. being lost to follow-up (59% vs. 47%, p\u00a0=\u00a00.039). Overall, caregivers indicated high satisfaction with program services, improved well-being, increased knowledge of community resources, and self-efficacy to apply new skills and tools. Nearly all PROs were positively associated with HVIP retention and need resolution (p\u00a0<\u00a00.050).\n\n**CONCLUSIONS**: We observed high levels of caregiver-reported satisfaction with program experiences and short-term outcomes following HVIP participation. Families' positive PROs were associated with measurable aspects of HVIP implementation, including retention and need resolution. This work expands our understanding of short-term impacts of HVIPs from the perspectives of patient families and helps to establish key metrics of program implementation that may influence these outcomes.",
+      "journal": "Injury",
+      "authors": [
+        "Kapa HM",
+        "Liu Z",
+        "Berardi J",
+        "Glavin CM",
+        "Myers RK"
+      ],
+      "date": "2026 May 26",
+      "doi": "10.1016/j.injury.2026.113392",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Paediatric",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "paediatric trauma",
+          "strength": "weak",
+          "topic": "Paediatric"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42217455/"
+    },
+    {
+      "pmid": "42217297",
+      "title": "National Database Study of the effect of mode of transportation on trauma patients injured in snowmobile accidents.",
+      "abstract": "**BACKGROUND**: Snowmobile accidents occur in areas that may be difficult to reach by ground Emergency Medical Services (GEMS) vehicles. Helicopter EMS (HEMS) can potentially be useful in these situations, but there are few available data assessing HEMS-associated survival improvement in patients injured in snowmobile accidents. This study evaluates the national trauma database (NTDB) to identify snowmobile-related injury cases to determine if HEMS transport was associated with improved outcome, and whether any improvement in outcome is associated with worse functional status as indicated by disposition destination.\n\n**METHODS**: Using the American College of Surgeons National Trauma Data Bank (NTDB) for the years 2017-2022, snowmobile-related injury cases that were transported from the scene and in which transport mode (HEMS or GEMS) and survival status was known were assessed. Multivariable logistic regression (including use of Mahalanobis metrics within propensity-score calipers) was used to evaluate the primary endpoint of survival, with effect estimates reported as adjusted odds ratio (OR) with 95% confidence interval (CI). A secondary endpoint \"unfavorable disposition destination\" was assessed in survivors, to determine whether any HEMS-associated survival improvement came at the cost of a worse functional outcome.\n\n**RESULTS**: The study assessed 10,541 cases in which there were 521 (4.9%) deaths. Classical logistic regression incorporating demographics, vital signs, and receiving hospital characteristics indicated HEMS-associated improvement in survival (OR 1.9, 95% CI 1.4-2.7), which was confirmed in propensity-scored modeling indicating absolute risk difference of 2.7% (number needed to transport by HEMS to save one additional life: 37 with 95% CI 24-83). Secondary endpoint analysis did not suggest that improved HEMS survival came at cost of functional outcome; HEMS cases were slightly less likely to have unfavorable disposition destinations but the difference was not significant (OR 0.9, 95% CI 0.7-1.2, p\u00a0=\u00a0.461).\n\n**CONCLUSION**: In a group of cases injured using snowmobiles, HEMS transport is associated with significantly improved mortality without any indication that improved survival comes at a cost of worse functional outcome.",
+      "journal": "Am J Emerg Med",
+      "authors": [
+        "Fritz CL",
+        "Tibbles J",
+        "De La Bastide C",
+        "Liu AJ",
+        "Sargent J",
+        "Gupta A",
+        "Parsons C",
+        "Moore E",
+        "Schoenfeld DW",
+        "Rosen CL",
+        "Thomas SH"
+      ],
+      "date": "2026 May 22",
+      "doi": "10.1016/j.ajem.2026.05.033",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Prehospital"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "HEMS",
+          "strength": "weak",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42217297/"
+    },
     {
       "pmid": "42216093",
       "title": "Comparative efficacy of intraoperative wound irrigation with aqueous chlorhexidine versus normal saline to prevent surgical site infections: a double-blind randomized controlled trial.",
@@ -2110,7 +2332,7 @@
     {
       "pmid": "42176972",
       "title": "Naloxone administration associated with improved survival in PEA out-of-hospital cardiac arrests.",
-      "abstract": "**INTRODUCTION**: The prevalence of opioid-associated out-of-hospital cardiac arrest (OA-OHCA) is increasing in the United States. Naloxone administration during OA-OHCA has been associated with improved clinical outcomes, but identifying OA-OHCA in the field remains challenging. Previous work demonstrated association between non-shockable cardiac rhythms and OA-OHCA, suggesting that cardiac rhythm may help identify patients likely to benefit from naloxone. In this work, we assessed the association of naloxone with clinical outcomes for patients with OHCA, stratifying by presenting cardiac rhythm.\n\n**METHODS**: We used 2019-2020 data from the ESO Data Collaborative in this retrospective cohort study. Cases were classified a priori according to presenting rhythm (shockable rhythm, pulseless electrical activity [PEA], asystole). The exposure was prehospital naloxone administration and outcomes of interest were prehospital ROSC and survival to hospital discharge. We utilized logistic regression and adjusted propensity-score matching to determine associations with outcomes.\n\n**RESULTS**: We analyzed 40,333 cases in which 7,567 (18.8%) patients received naloxone. Before matching, the rate of prehospital ROSC was 21.5% and survival to hospital discharge was 9.0%. After propensity score matching, patients in PEA who received naloxone had similar rates of ROSC (OR 1.09, 95%CI 0.90-1.31) and higher survival (OR 1.46, 95%CI 1.11-1.92). Naloxone administration was not associated with differences in either outcome in patients presenting with shockable rhythms or asystole. Given the retrospective nature of this work, we were unable to fully address selection bias or resuscitation time bias and cannot comment on causality.\n\n**CONCLUSION**: In this national cohort, naloxone administration was associated with improved survival to hospital discharge for OHCA patients in PEA. No association was found between naloxone and clinical outcomes for OHCA patients with shockable rhythms or asystole. Prospective, randomized trials are needed to assess for true causality.",
+      "abstract": "**INTRODUCTION**: The prevalence of opioid-associated out-of-hospital cardiac arrest (OA-OHCA) is increasing in the United States. Naloxone administration during OA-OHCA has been associated with improved clinical outcomes, but identifying OA-OHCA in the field remains challenging. Previous work demonstrated association between non-shockable cardiac rhythms and OA-OHCA, suggesting that cardiac rhythm may help identify patients likely to benefit from naloxone. In this work, we assessed the association of naloxone with clinical outcomes for patients with OHCA, stratifying by presenting cardiac rhythm.\n\n**METHODS**: We used 2019-2020 data from the ESO Data Collaborative in this retrospective cohort study. Cases were classified a priori according to presenting rhythm (shockable rhythm, pulseless electrical activity [PEA], asystole). The exposure was prehospital naloxone administration and outcomes of interest were prehospital ROSC and survival to hospital discharge. We utilized logistic regression and adjusted propensity-score matching to determine associations with outcomes.\n\n**RESULTS**: We analyzed 40,333 cases in which 7567 (18.8%) patients received naloxone. Before matching, the rate of prehospital ROSC was 21.5% and survival to hospital discharge was 9.0%. After propensity score matching, patients in PEA who received naloxone had similar rates of ROSC (OR 1.09, 95%CI 0.90-1.31) and higher survival (OR 1.46, 95%CI 1.11-1.92). Naloxone administration was not associated with differences in either outcome in patients presenting with shockable rhythms or asystole. Given the retrospective nature of this work, we were unable to fully address selection bias or resuscitation time bias and cannot comment on causality.\n\n**CONCLUSION**: In this national cohort, naloxone administration was associated with improved survival to hospital discharge for OHCA patients in PEA. No association was found between naloxone and clinical outcomes for OHCA patients with shockable rhythms or asystole. Prospective, randomized trials are needed to assess for true causality.",
       "journal": "Resuscitation",
       "authors": [
         "Niederberger SM",
@@ -7344,102 +7566,6 @@
       ],
       "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/42068850/"
-    },
-    {
-      "pmid": "42067940",
-      "title": "Association of mortality and neurological outcomes with hypocapnia in adult patients with acute brain injury: an updated meta-analysis.",
-      "abstract": "**BACKGROUND**: Carbon dioxide is a key determinant of cerebral blood flow and is needed to prevent secondary damage in neurocritical care; however, optimal targets across the heterogeneous spectrum of acute brain injury (ABI) remain to be elucidated. The aim of this study was to evaluate the association between arterial hypocapnia and mortality and neurological outcomes in adult patients with ABI.\n\n**METHODS**: Six electronic databases were systematically searched from inception to January 2025. Observational and randomized controlled trials comparing exposure to hypocapnia, defined as an arterial partial pressure of carbon dioxide (PaCO\n\n**RESULTS**: A total of 8,637 records were identified after duplicate removal, of which 37 studies met inclusion criteria for the systematic review. Twenty-seven studies (51,373 patients) were included for mortality outcomes, and thirteen studies (3,814 patients) were included for neurological outcomes. Hypocapnia was associated with higher odds of mortality in adult patients with ABI (OR 1.29, 95% CI 1.05-1.59). Subgroup analyses demonstrated variability across ABI types, with stronger associations observed in subarachnoid hemorrhage and ischemic stroke populations. Hypocapnia was also associated with increased odds of poor neurological outcomes (OR 2.09, 95% CI 1.24-3.54), particularly in the traumatic brain injury population. Subgroup analyses suggested that the association with neurological outcomes was more consistent in studies defining exposure as severe hypocapnia (PaCO\n\n**CONCLUSIONS**: Arterial hypocapnia was associated with increased mortality and poor neurological outcomes in adults with acute brain injury, although the evidence is predominantly observational and limited randomized data are available. These findings underscore the need for cautious, individualized PaCO",
-      "journal": "Crit Care",
-      "authors": [
-        "Romero-Garc\u00eda N",
-        "Robba C",
-        "Ruiz-Pacheco A",
-        "Pascual-Gonz\u00e1lez M",
-        "Beltran-Piles C",
-        "Dev\u00eds-Peir\u00f3 A",
-        "Mart\u00ed-Cervera JF",
-        "Premraj L",
-        "Cinotti R",
-        "Taccone FS",
-        "Badenes R"
-      ],
-      "date": "2026 May 01",
-      "doi": "10.1186/s13054-026-06058-x",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "TBI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "traumatic",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic brain injury",
-          "strength": "weak",
-          "topic": "TBI"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42067940/"
-    },
-    {
-      "pmid": "42066651",
-      "title": "Comparison of three point-of-care ultrasound techniques to confirm endotracheal tube placement: A randomized clinical trial.",
-      "abstract": "**BACKGROUND**: Rapid confirmation of the endotracheal tube (ETT) position following emergency intubation is crucial, but traditional methods have limitations in this setting. Although ultrasonographic techniques are highly accurate, studies comparing them are limited. In this study, we aimed to compare the diagnostic performance and speed of three different point-of-care ultrasound (POCUS) techniques for confirming ETT position.\n\n**METHODS**: We conducted a single-center, prospective, randomized clinical trial in the emergency department of a university hospital. Adults undergoing rapid sequence intubation were randomly assigned to transtracheal ultrasound (TUS), lung-sliding ultrasound (LUS), or diaphragm ultrasound (DUS) with 1:1:1 allocation ratio. The primary outcome was ETT location (tracheal or esophageal), determined by waveform capnography and auscultation. We also measured intubation time and the time needed for each confirmation method.\n\n**RESULTS**: Of 217 patients screened, 200 were randomized to TUS (n\u00a0=\u00a066), LUS (n\u00a0=\u00a067), or DUS (n\u00a0=\u00a067), and all were included in the primary analysis. The median age was 75\u00a0years (IQR 63-84), and 54.5% were male. Esophageal intubation occurred in 14% (n\u00a0=\u00a028) of patients. For tracheal placement detection, sensitivity and specificity were 98.2% (95% CI, 90.4% to 100.0%) and 100.0% (95% CI, 69.2% to 100.0%) for TUS, 98.2% (95% CI, 90.6% to 100.0%) and 100.0% (95% CI, 69.2% to 100.0%) for LUS, and 96.6% (95% CI, 88.3% to 99.6%) and 87.5% (95% CI, 47.3% to 99.7%) for DUS, with no between-group difference in accuracy (p\u00a0=\u00a00.44). Confirmation times were 4.6\u00a0s (IQR, 3.3-6.0) for TUS, 9.4\u00a0s (IQR, 7.3-12.2) for LUS, and 13.4\u00a0s (IQR, 11.8-15.1) for DUS (p\u00a0<\u00a00.001). Auscultation took a median of 11.5\u00a0s (IQR 9.4-13.9), and obtaining five capnography waveforms took 17.0\u00a0s (IQR 14.2-20.6).\n\n**CONCLUSION**: All three ultrasound techniques demonstrated high diagnostic performance for confirming ETT location after rapid sequence intubation, with TUS providing the shortest confirmation time.\n\n**TRIAL REGISTRATION**: ClinicalTrials.gov Identifier: NCT06656546.",
-      "journal": "Am J Emerg Med",
-      "authors": [
-        "Kudu E",
-        "Korgan MB",
-        "Altun M",
-        "Yakin F",
-        "Karacabey S",
-        "Sanri E",
-        "Akoglu H",
-        "Denizbasi A"
-      ],
-      "date": "2026 Apr 26",
-      "doi": "10.1016/j.ajem.2026.04.039",
-      "tier": "filtered",
-      "topics": [
-        "Imaging"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "POCUS",
-          "strength": "weak",
-          "topic": "Imaging"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42066651/"
-    },
-    {
-      "pmid": "42066650",
-      "title": "Alcoholic cardiomyopathy presenting with severe circulatory failure requiring mechanical circulatory support: A systematic review.",
-      "abstract": "**BACKGROUND**: Alcoholic cardiomyopathy (ACM) is a potentially reversible form of dilated cardiomyopathy associated with chronic excessive alcohol consumption. Although recovery of left ventricular function after alcohol abstinence has been reported, the clinical course of patients presenting with cardiogenic shock or cardiac arrest requiring mechanical circulatory support (MCS) remains poorly characterized. This study aimed to evaluate survival outcomes and myocardial recovery in patients with ACM presenting with severe circulatory failure.\n\n**METHODS**: A systematic literature search was conducted in PubMed, Web of Science, Google Scholar, and Ichushi-Web from database inception to February 28, 2026. Studies describing patients with ACM presenting with cardiogenic shock or severe circulatory failure requiring temporary MCS (including ECMO, Impella, intra-aortic balloon pump, or LVAD) were included. Extracted data included patient characteristics, type of circulatory support, survival outcomes, and recovery of left ventricular function.\n\n**RESULTS**: Five studies (three case reports and two case series), including 10 patients, were identified. The median age was 43\u00a0years (IQR, 38-46), and 9 of 10 patients (90%) were male. The median baseline LVEF was 15% (IQR, 15-20%). Cardiac arrest occurred in 3 patients (30%). Veno-arterial extracorporeal support, including VA-ECMO/PCPS, was used in 9 patients (90%), Impella in 1 patient (10%), and LVAD support in 3 patients (30%). One patient ultimately underwent heart transplantation. All published cases survived. Among patients with available follow-up data, the median LVEF improved to 55% (IQR, 45-60%), representing a median absolute increase of approximately 40 percentage points.\n\n**CONCLUSIONS**: Published case-based evidence suggests that alcoholic cardiomyopathy may retain clinically meaningful reversibility even in selected patients with severe circulatory failure requiring mechanical circulatory support. Although favorable outcomes may be overrepresented in published reports, awareness of this potentially reversible phenotype may support timely recognition and appropriate management of severe circulatory failure.",
-      "journal": "Am J Emerg Med",
-      "authors": [
-        "Itagaki H",
-        "Endo T"
-      ],
-      "date": "2026 Apr 25",
-      "doi": "10.1016/j.ajem.2026.04.040",
-      "tier": "filtered",
-      "topics": [
-        "Cardiac Arrest"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "ECMO",
-          "strength": "weak",
-          "topic": "Cardiac Arrest"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42066650/"
     }
   ]
 }
