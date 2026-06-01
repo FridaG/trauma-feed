@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-31T20:50:02.647511Z",
-  "total_articles": 193,
+  "generated": "2026-06-01T22:30:13.969552Z",
+  "total_articles": 195,
   "all_topics": [
     "Abdominal",
     "Burns",
@@ -378,6 +378,248 @@
     "Cochrane Database Syst Rev": "filtered"
   },
   "articles": [
+    {
+      "pmid": "42223624",
+      "title": "Minimally invasive versus open fixation for flail chest in elderly patients: a prospective cohort study on perioperative safety and long-term outcomes.",
+      "abstract": "**OBJECTIVE**: To systematically evaluate the perioperative safety and short- and long-term efficacy of minimally Invasive fixation using a reversed shape-memory alloy plate versus conventional open fixation for the treatment of flail chest in elderly patients.\n\n**METHODS**: This prospective cohort study enrolled 130 elderly patients (\u2265\u200960 years) with flail chest between January 2022 and January 2026. After 1:1 propensity score matching, 100 patients were included (minimally invasive group, n\u2009=\u200950; open group, n\u2009=\u200950). Perioperative parameters (operative time, blood loss, C-reactive protein(CRP) at 24\u00a0h/48\u00a0h/72\u00a0h, complications), short-term outcomes (resting/cough-evoked Numerical Rating Scale(NRS) pain scores, non-steroidal analgesic drug duration, rescue analgesic frequency, Patient-Controlled Analgesia Pump(PCA) consumption, time to ambulation, hospital stay), and long-term outcomes (implant dislodgement, 6-month pulmonary function, Douleur Neuropathique 4 Questions Naire(DN4), Medical Outcomes Study 36- Item Short Form Health Survey(SF-36)) were compared.\n\n**RESULTS**: The minimally invasive group had significantly fewer incision-related complications (P\u2009=\u20090.046), lower resting NRS scores on postoperative days 1 and 3 (P\u2009<\u20090.01; P\u2009=\u20090.041), lower cough-evoked NRS score on day 1 (P\u2009=\u20090.011), shorter non-steroidal analgesic duration (P\u2009<\u20090.01), and lower PCA consumption (P\u2009=\u20090.027). At 6 months, the minimally invasive group showed significantly lower DN4 scores (P\u2009=\u20090.03). No significant differences were observed in other outcomes.\n\n**CONCLUSION**: minimally invasive fixation with a reversed shape-memory alloy plate is a safe, effective minimally invasive technique for elderly flail chest patients, offering advantages in incision-related complications, early pain control, analgesic requirements, and reduced risk of chronic neuropathic pain.",
+      "journal": "Eur J Trauma Emerg Surg",
+      "authors": [
+        "Tian Y",
+        "Zheng Z",
+        "Ji Z",
+        "Lu W",
+        "Song N",
+        "Wang J"
+      ],
+      "date": "2026 Jun 01",
+      "doi": "10.3892/etm.2019.8264",
+      "tier": "core",
+      "topics": [
+        "Thoracic"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "flail chest",
+          "strength": "strong",
+          "topic": "Thoracic"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42223624/"
+    },
+    {
+      "pmid": "42223595",
+      "title": "Epidemiology and outcomes of traumatic sternal fractures and associated blunt cardiac injury: a nationwide cohort study in the Netherlands.",
+      "abstract": "**PURPOSE**: Comprehensive data on epidemiology, trauma mechanisms, associated injuries, and outcomes of traumatic sternal fractures are scarce. This study analysed nationwide data to improve diagnosis and management within the Dutch healthcare system.\n\n**METHODS**: This nationwide retrospective cohort study using the Dutch National Trauma Registry included adult patients admitted with traumatic sternal fractures between 2015 and 2023. Patients with prehospital cardiopulmonary resuscitation or penetrating trauma were excluded. Incidence, patient characteristics, trauma mechanisms, associated injuries, and in-hospital outcomes were analysed. Subgroup analyses evaluated patients with concomitant blunt cardiac injury (BCI).\n\n**RESULTS**: Of 568,399 adult trauma admissions, 4,765 patients (0.84%) sustained traumatic sternal fractures. Median age was 62 years; 60% were male. Motor vehicle accidents (48%) and falls (28%) were the leading mechanisms. 35% were severely injured (ISS\u2009\u2265\u200916). Associated injuries included rib fractures (51%), spinal fractures (36%), and lung contusions (18%). Critical care unit admission was 40%, with median mechanical ventilation duration of 4 days; median hospital stay was 5 days. In-hospital mortality was 5.7%, and 30-day mortality 6.0%. BCI occurred in 9.5% of patients and was associated with a higher number of injuries and increased injury severity, emergency interventions, and critical care admission, but not higher mortality.\n\n**CONCLUSION**: Traumatic sternal fractures are uncommon, but the incidence in The Netherlands is gradually rising. Sternal fractures frequently occur with severe multisystem injuries. Patients with BCI showed greater injury severity and resource needs. Future research should focus on criteria and clinical significance of BCI, and sternal fracture-specific outcomes and treatment strategies in large patient cohorts.",
+      "journal": "Eur J Trauma Emerg Surg",
+      "authors": [
+        "Klei DS",
+        "Benders KEM",
+        "Leenen LPH",
+        "van Wessem KJP"
+      ],
+      "date": "2026 Jun 01",
+      "doi": "10.1177/2192568220902413",
+      "tier": "core",
+      "topics": [
+        "General Trauma",
+        "Penetrating",
+        "Prehospital",
+        "Systems/QI",
+        "Thoracic"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "penetrating trauma",
+          "strength": "weak",
+          "topic": "Penetrating"
+        },
+        {
+          "keyword": "injury severity",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "rib fracture",
+          "strength": "weak",
+          "topic": "Thoracic"
+        },
+        {
+          "keyword": "prehospital",
+          "strength": "weak",
+          "topic": "Prehospital"
+        },
+        {
+          "keyword": "trauma registry",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42223595/"
+    },
+    {
+      "pmid": "42223583",
+      "title": "Trauma patients\u2009\u2265\u200965 years old constitute 40% of severely injured adult trauma patients in Sweden - a 10-year analysis of geriatric trauma prevalence.",
+      "abstract": "**BACKGROUND**: The elderly population in Sweden is steadily increasing. Age is an independent predictor of mortality in trauma patients. There is growing evidence that geriatric patients constitute an increasing proportion of the Swedish trauma population. No studies have analyzed temporal trends in the proportion of geriatric trauma patients in the context of the national trauma population in Sweden.\n\n**AIM**: To determine the proportion of geriatric patients in the Swedish trauma population and analyze temporal trends in geriatric trauma prevalence.\n\n**METHODS**: The study cohort was 11,969 severely injured trauma patients (NISS\u2009>\u200915) treated in Sweden during 2013-2022, obtained from the Swedish Trauma Registry. The proportion of geriatric patients was compiled annually. Temporal trends were analyzed using weighted linear regression models. Two subgroups were defined based on injury severity (NISS\u2009\u2265\u200925 and NISS\u2009\u2265\u200940).\n\n**RESULTS**: The proportion of patients\u2009\u2265\u200965 years in the adult trauma population increased from 30% to 40% during 2013-2022 (p\u2009=\u20090.003), while the proportion of patient\u2009\u2265\u200980 years also increased, from 8.6% to 17% (p\u2009=\u20090.009). Similar increases were also seen in the NISS\u2009\u2265\u200925 and NISS\u2009\u2265\u200940 subgroups.\n\n**CONCLUSION**: There is likely an increase in geriatric trauma prevalence in Sweden, but the full extent of this temporal trend remains uncertain. Trauma patients\u2009\u2265\u200965 years old constitute 40% of severely injured adult trauma patients in Sweden. Further investigations of geriatric trauma prevalence in relation to demographic changes may be of interest to determine the future implications for Swedish healthcare.",
+      "journal": "Eur J Trauma Emerg Surg",
+      "authors": [
+        "Bredberg S",
+        "Modalen E",
+        "J\u00f6neby C",
+        "Nilsson D",
+        "Lapidus O"
+      ],
+      "date": "2026 Jun 01",
+      "doi": "10.1016/j.jss.2021.02.047",
+      "tier": "core",
+      "topics": [
+        "General Trauma",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "injury severity",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "trauma registry",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42223583/"
+    },
+    {
+      "pmid": "42223327",
+      "title": "Enteral When Compared With IV Magnesium Replacement in the Critically Ill: A Noninferiority Randomized Clinical Trial.",
+      "abstract": "**OBJECTIVES**: Enteral magnesium replacement may be as effective as IV replacement while being a cheaper and more environmentally sustainable intervention. The primary objective was to evaluate whether enteral magnesium is noninferior to IV administration in correcting hypomagnesemia.\n\n**DESIGN**: Prospective, open-label, parallel-group, electronic medical record-embedded, randomized, noninferiority trial.\n\n**SETTING**: Single-center mixed medical-surgical-trauma ICU.\n\n**PATIENTS**: Patients with serum magnesium concentration between 0.35 and 0.7 mmol/L.\n\n**INTERVENTIONS**: Enteral or IV magnesium replacement.\n\n**MEASUREMENTS AND MAIN RESULTS**: The primary outcome was serum magnesium concentration at 24 hours after enrollment, with a noninferiority margin of 0.1 mmol/L. Secondary outcomes included dose of administered magnesium, urine magnesium excretion, costs of intervention delivery, waste, bloodstream infections, new atrial fibrillation, duration of admission, and mortality. Between June 2023 and May 2024, 360 patients were included. Baseline magnesium concentrations were comparable. At 24 hours, mean (sd) magnesium concentrations were 0.80 mmol/L (0.19 mmol/L) in the enteral arm and 0.92 mmol/L (0.23 mmol/L) in the IV arm, with a mean difference of -0.12 mmol/L (95% CI, -0.16 to -0.07 mmol/L) indicating inconclusive results about noninferiority. Enteral replacement substantially decreased urine magnesium concentrations compared with IV replacement (median difference of area under the curve, -46.2 mmol\u00b7hr/L), cost (median difference, -6.48 Australian dollars; 95% CI, -7.40 to -5.56 Australian dollars), waste (median difference, -55 grams; 95% CI, -58 to -51 grams), Co2 footprint (median difference, -946 grams; 95% CI, -996 to -896 grams), and additional IV fluid administration (median, -100\u2009mL; interquartile range, -200 to -100\u2009mL). There were no between group differences for other outcomes.\n\n**CONCLUSIONS**: Enteral magnesium replacement for mild-to-moderate hypomagnesemia did not establish noninferiority to IV replacement at a margin of 0.1 mmol/L but it reduced urinary concentration of magnesium, cost, environmental waste, carbon emissions, and IV fluid administration.",
+      "journal": "Crit Care Med",
+      "authors": [
+        "Nguyen CD",
+        "Panganiban HP",
+        "Karahalios A",
+        "Fazio T",
+        "Ankravs MJ",
+        "Fitzpatrick P",
+        "Richardson M",
+        "McAlister S",
+        "Tran-Duy A",
+        "MacIsaac CM",
+        "Ricciardone S",
+        "Rechnitzer T",
+        "Ali Abdelhamid Y",
+        "Deane AM"
+      ],
+      "date": "2026 Jun 01",
+      "doi": "10.1097/CCM.0000000000007174",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42223327/"
+    },
+    {
+      "pmid": "42223160",
+      "title": "Blunt Thoracic Aortic Injury in the Geriatric Population: Results from the Aortic Trauma Foundation.",
+      "abstract": "**BACKGROUND**: The management of blunt thoracic aortic injury (BTAI) is evolving as the trauma population ages, yet the impact of age on treatment patterns and outcomes remains incompletely defined.\n\n**STUDY DESIGN**: A retrospective analysis of the Aortic Trauma Foundation registry (November 2016-November 2023) identified 823 patients with BTAI, including 118 geriatric patients (\u226565 years). Demographics, injury characteristics, management strategies, and outcomes were compared between geriatric and younger (<65 years) cohorts.\n\n**RESULTS**: Geriatric patients more frequently presented after falls (17.8% vs 6.7%, p<0.0001) and had a higher proportion of grade IV injuries (18.5% vs 9.2%, p=0.0021), with no difference in admission systolic blood pressure (116 vs 116, p=0.960) or Injury Severity Score (31 vs 33, p=0.150). Management strategies were similar between groups, including nonoperative (37.3% vs 36.9%, p=0.932), open (4.2% vs 1.9%, p=0.132), and endovascular repair (58.5% vs 61.1%, p=0.584). Despite comparable treatment approaches, geriatric patients had higher in-hospital mortality (27.1% vs 10.9%, p<0.0001) and aortic-related mortality (8.5% vs 3.4%, p=0.010).\n\n**CONCLUSIONS**: Geriatric patients with BTAI sustain more severe injuries and experience significantly higher mortality despite similar management strategies. These findings suggest that current treatment paradigms may not adequately address age-associated risk and highlight the need for age-specific management considerations.",
+      "journal": "J Am Coll Surg",
+      "authors": [
+        "Gaither M",
+        "Petrikas M",
+        "MacHugh A",
+        "Crapps J",
+        "Yep Mendizabal F",
+        "Miserlis D",
+        "Cardenas T",
+        "Brown C",
+        "Teixeira P",
+        "DuBose J"
+      ],
+      "date": "2026 Jun 01",
+      "doi": "10.1097/XCS.0000000000002051",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Systems/QI",
+        "Vascular"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "injury severity",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "aortic injury",
+          "strength": "strong",
+          "topic": "Vascular"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42223160/"
+    },
+    {
+      "pmid": "42222899",
+      "title": "Interpreting the two-hour partial REBOA safety window: Physiologic context, monitoring limitations, and device-specific considerations.",
+      "abstract": "Recent updates to the Joint Trauma System clinical practice guidelines for resuscitative endovascular balloon occlusion of the aorta incorporate partial aortic occlusion (PAO) for up to two hours in combat casualty care following US Food and Drug Administration 510(k) clearance of the pREBOA-PRO catheter for partial Zone 1 occlusion under defined physiologic parameters. The FDA clearance specifies physiologic targets, including proximal systolic blood pressure of 90 to 110\u00a0mm Hg and distal systolic blood pressure >20\u00a0mm Hg with pulsatility, indicating that extended occlusion duration is contingent on active titration and physiologic monitoring. These parameters suggest that PAO may be better conceptualized as delivery of a controlled \"ischemic dose\" determined by both occlusion intensity and duration rather than elapsed time alone. However, real-time ischemic monitoring is limited, distal arterial pressure represents only a surrogate for distal flow, and the relationship between pressure and flow during partial occlusion may vary across catheter designs. This opinion reviews the physiologic basis of PAO, the device-specific context of the two-hour safety window, and the limitations of current monitoring technologies. We also discuss implications for resuscitation strategy and reperfusion planning in austere and prolonged casualty care environments and outline future research priorities.",
+      "journal": "J Trauma Acute Care Surg",
+      "authors": [
+        "Russo RM",
+        "Joseph B"
+      ],
+      "date": "2026 Jun 01",
+      "doi": "10.1097/TA.0000000000005065",
+      "tier": "core",
+      "topics": [
+        "General Trauma",
+        "Haemorrhage"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "REBOA",
+          "strength": "strong",
+          "topic": "Haemorrhage"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42222899/"
+    },
     {
       "pmid": "42218532",
       "title": "Challenges faced by prehospital emergency physicians providing emergency care to pediatric patients : Defining entrustable professional activities by identifying self-perceived competency strengths and deficits in prehospital emergency medicine.",
@@ -7437,135 +7679,6 @@
       ],
       "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/42081012/"
-    },
-    {
-      "pmid": "42069650",
-      "title": "Renal replacement therapy in patients under extracorporeal membrane oxygenation: a narrative review.",
-      "abstract": "**BACKGROUND**: The use of extracorporeal membrane oxygenation (ECMO) has expanded for severe respiratory and circulatory failure. Acute kidney injury (AKI) is one of the most frequent complications. Up to 85% of ECMO patients develop AKI and approximately half of them require renal replacement therapy (RRT) making a comprehensive understanding of both therapies and their interaction essential for patient management. However, evidence to guide ECMO-specific RRT strategies remains limited.\n\n**MAIN BODY**: ECMO-related AKI arises from a complex interplay between patient and circuit factors that promote inflammation, endothelial injury, and tubular damage. Timing of RRT initiation in ECMO patients often relies on criteria used in the general critically ill population. Fluid overload is consistently associated with worse outcomes, and observational data suggest that earlier RRT, primarily to control fluid balance, may improve survival although randomized trials in ECMO patients are lacking. All RRT modalities can theoretically be used, but continuous techniques are preferred. RRT can be delivered via a parallel circuit using a dedicated venous catheter or integrated into the ECMO circuit. Integrated configurations reduce the need for additional vascular access and may prolong filter lifespan but require careful pressure management and team expertise to avoid alarms, hemolysis, and air embolism. Anticoagulation strategies must balance bleeding and thrombosis risk across both circuits; unfractionated heparin remains standard, while regional citrate anticoagulation can safely extend filter lifespan in selected patients although data is lacking in patients under veno-arterial ECMO. RRT during ECMO is associated with higher short-term mortality and an increased burden of chronic kidney disease among survivors.\n\n**CONCLUSIONS**: The management of AKI in ECMO patients remains a major clinical challenge. While RRT is often required in this population, optimal strategies for its initiation, modality selection, and integration with ECMO circuits are still evolving. Current evidence underscores the need for individualized approaches based on patient characteristics. Future research should focus on defining standardized protocols for RRT implementation in ECMO, use of regional citrate anticoagulation, optimizing patient selection, and evaluating long-term renal and survival outcomes.",
-      "journal": "Crit Care",
-      "authors": [
-        "Tomovic F",
-        "Thibault-Baum A",
-        "Glogonjac N",
-        "Martens CP",
-        "Sajinovic S",
-        "Premuzic V",
-        "Bell M",
-        "Forni L",
-        "Schneider A",
-        "Rimmel\u00e9 T",
-        "Bidar F"
-      ],
-      "date": "2026 May 02",
-      "doi": "10.1186/s13054-026-06033-6",
-      "tier": "filtered",
-      "topics": [
-        "Cardiac Arrest"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "ECMO",
-          "strength": "weak",
-          "topic": "Cardiac Arrest"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42069650/"
-    },
-    {
-      "pmid": "42069492",
-      "title": "Emergency medical services response times to motor vehicle crashes increased in the USA over the period 1987-2020.",
-      "abstract": "**INTRODUCTION**: The timing of Emergency Medical Services (EMS) notification, crash scene arrival, and hospital arrival may impact motor vehicle fatalities. We examined EMS response time intervals over the past three decades, considering the effects of weather, vehicles involved, time of day, and location.\n\n**METHODS**: We used the Fatal Accident Reporting System to compute and describe annual (1987-2020) EMS response time intervals. This included total time (i.e., crash-to-hospital), as well as the intervals between four key timepoints: crash, crash notification, crash scene arrival, and hospital arrival. We examined the proportion of fatal crashes with total intervals under 60\u00a0min (i.e., the \"golden hour\"), and where the crash arrival-to-hospital interval was under 30\u00a0min (the \"beneficial timeframe\"). Additionally, analyses were stratified by crash factors including weather (poor/clear) number of vehicles involved (single/multiple), time of day (early morning/rest of the day), and location (urban/rural).\n\n**RESULTS**: A total of 310,001 fatal crashes were analyzed. Between 1987-1994 total median response times ranged between 40 and 42\u00a0min. By 1999, intervals had increased to 45\u00a0min; elevated intervals were evident through 2009. By 2020, observed intervals had returned to 41\u00a0min. Paralleling this pattern, crashes with \"golden hour\" intervals decreased from 77.0% in 1987 to 72.4% in 2009 and increased to 78.0% by 2020. Similarly, crashes with a \"beneficial timeframe\" decreased from 60% in 1987 to 52% in 2009 and increased to 56.0% by 2020. The largest discrepancies for crash strata were evident for location: rural crash total response time intervals were 15-23\u00a0min longer than urban.\n\n**CONCLUSIONS**: From 1987-2020, the total time response interval following a fatal crash remained relatively stable. However, steady increases in intervals between crash notification and both crash scene and hospital arrival are evident.\n\n**PRACTICAL APPLICATIONS**: Future research should focus on approaches to reduce response time intervals.",
-      "journal": "Injury",
-      "authors": [
-        "Dubois S",
-        "Gravelle P",
-        "Savage DW",
-        "Maxwell H",
-        "B\u00e9dard M"
-      ],
-      "date": "2026 Apr 23",
-      "doi": "10.1016/j.injury.2026.113300",
-      "tier": "filtered",
-      "topics": [],
-      "keyword_matches": [],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42069492/"
-    },
-    {
-      "pmid": "42069039",
-      "title": "Prediction of shock-refractory ventricular fibrillation in patients with out-of-hospital cardiac arrest: external validation of an ECG-based approach.",
-      "abstract": "**BACKGROUND**: Shock-refractory ventricular fibrillation (VF) patients can be defined as those requiring at least three defibrillation attempts. Patients with refractory VF may benefit from personalized resuscitation treatments. We sought to externally validate a previously described electrocardiogram (ECG) feature calculation and analysis strategy for predicting refractory VF in an Asian out-of-hospital cardiac arrest (OHCA) cohort.\n\n**METHODS**: We conducted a retrospective cohort study using the Seoul OHCA registry (2020-2023). We included patients with an initial shockable rhythm and 3-s ECG segments before and after the initial shock. Refractory VF was defined by patients requiring \u22653 total shocks (primary definition) or \u22653 consecutive shocks (alternative definition). We trained a logistic model to predict refractory VF based on 25 previously-described ECG scalogram features calculated from ECG segments before and after the first shock. Performance was quantified by the area under the receiver operating characteristic curve (AUC) evaluated via leave-one-out cross-validation (LOOCV), and was compared against the original study's reported AUC.\n\n**RESULTS**: Of the 428 included OHCA patients with initial shockable rhythm, 202 (47.2%) received \u22653 shocks during prehospital resuscitation. The logistic combination of 25 ECG features demonstrated good performance, with LOOCV AUCs of 0.782 [95% CI 0.736-0.828] for predicting \u22653 total shocks and 0.805 [95% CI 0.762-0.858] for \u22653 consecutive shocks. These AUCs were not significantly different versus the original study's AUC of 0.846 (P\u00a0=\u00a00.060 and P\u00a0=\u00a00.22 for respective differences).\n\n**CONCLUSION**: A strategy using ECG features surrounding initial shock showed robust performance for predicting refractory VF in a distinct patient population.",
-      "journal": "Resuscitation",
-      "authors": [
-        "Park JH",
-        "Coult J",
-        "Choi DH",
-        "Hong KJ",
-        "Song KJ",
-        "Rea TD",
-        "Sayre M",
-        "Shin SD"
-      ],
-      "date": "2026 Apr 30",
-      "doi": "10.1097/00003246-200011001-00016",
-      "tier": "filtered",
-      "topics": [
-        "Prehospital"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "prehospital",
-          "strength": "weak",
-          "topic": "Prehospital"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42069039/"
-    },
-    {
-      "pmid": "42068850",
-      "title": "The fracture orthopedic risk of non-home discharge (FORD) score: A novel bedside predictive tool for non-home discharge in orthopedic trauma patients.",
-      "abstract": "**INTRODUCTION**: Non-home discharge after orthopedic trauma is associated with worse outcomes, increased costs, and greater resource utilization. Existing prediction tools often rely on hospital course variables unavailable at presentation or are limited to specific fracture populations. This study aimed to develop and validate the Fracture Orthopedic Risk of Non-Home Discharge (FORD) Score, a bedside tool using only emergency department-available variables to predict non-home discharge in adult fracture patients.\n\n**METHODS**: A retrospective cohort study was conducted of adult fracture patients treated at an ACS-verified Level I trauma center from 2015 to 2023. Patients were randomly split into derivation (67%) and validation (33%) cohorts. Candidate predictors available immediately upon patient arrival were evaluated using univariate logistic regression, followed by multivariate logistic regression after collinearity assessment. Independent predictors were converted into an integer-based point system to construct the FORD Score. Model discrimination, calibration, and classification performance were assessed in the validation cohort and compared with established trauma severity measures.\n\n**RESULTS**: The final cohort included 8422 patients, of whom 8.1% had non-home discharge. Fifteen independent predictors comprised the FORD Score, including age, physiologic abnormalities, fracture characteristics, and transport mode. In the validation cohort, FORD demonstrated good discrimination (AUROC 0.818, 95% CI 0.791-0.846) and excellent calibration. At the optimal threshold (score \u22654), sensitivity was 74.1%, specificity 75.8%, PPV 21.3%, and NPV 97.1%. FORD outperformed GTOS-II (AUROC 0.777; DeLong p\u00a0=\u00a00.018) and TRIAGES (AUROC 0.746; p\u00a0<\u00a00.001). Non-home discharge rates ranged from 1.7% in the lowest risk group to 34.1% in the highest, a 20-fold gradient.\n\n**CONCLUSION**: The FORD Score is a validated bedside tool that accurately predicts non-home discharge in adult orthopedic trauma patients using only admission data, enabling early discharge planning and optimized resource allocation.",
-      "journal": "Injury",
-      "authors": [
-        "Salman SG",
-        "Phadke R",
-        "Carlin T",
-        "Rana A",
-        "Dawson JR",
-        "Fitzgerald CA",
-        "Seger CP",
-        "Zielinski MD",
-        "Dumas RP"
-      ],
-      "date": "2026 Apr 28",
-      "doi": "10.1016/j.injury.2026.113301",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Orthopaedic",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "trauma centre",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "orthopaedic trauma",
-          "strength": "strong",
-          "topic": "Orthopaedic"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42068850/"
     }
   ]
 }
