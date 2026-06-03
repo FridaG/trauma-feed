@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-02T22:17:39.406934Z",
+  "generated": "2026-06-03T22:24:21.718126Z",
   "total_articles": 207,
   "all_topics": [
     "Abdominal",
@@ -378,6 +378,276 @@
     "Cochrane Database Syst Rev": "filtered"
   },
   "articles": [
+    {
+      "pmid": "42234116",
+      "title": "Dislodgement forces and cost effectiveness of prehospital securement of peripheral intravenous catheters on moist skin: a randomized controlled clinical trial in healthy volunteers.",
+      "abstract": "**OBJECTIVES**: Peripheral intravenous catheters (PIVC) are widely used clinical devices for administering fluids or essential drugs to patients. The failure rate of PIVC remains high and Emergency Medicine has been shown to be a risk factor for dislodgement. When the skin is moist from sweat or fluids, standard intra-hospital dressings and securements fail. In emergency situations, a failed catheter can then critically delay intravenous therapies. The most effective dressing to prevent accidental removal of a prehospital PIVC remains unclear. It was the aim of this study to compare the force required to dislodge a PIVC with four different methods of securing PIVCs used in emergency medicine. In addition, the costs were calculated.\n\n**METHODS**: Artificial sweat was applied to the skin of 180 volunteers. PIVCs were attached onto the forearm using four different securements (elastic gauze, cohesive gauze, clingfilm and a velcro securing device). Continuously increasing traction force was applied until dislodgement of the respective securement. For statistical tests, either Friedman's test or repeated measures ANOVA was used.\n\n**RESULTS**: Clingfilm showed the greatest resistance to increasing pulling force with cohesive bandages as close second. The velcro securing device was strongest at resisting low level of forces but fell off sharply at higher force. Elastic bandages were the weakest in both categories. Clingfilm was the most cost-effective method (4ct), followed by elastic gauze (12 ct), cohesive gauze (60 ct) and the velcro device (316 ct).\n\n**CONCLUSIONS**: In situations where intravenous catheters are difficult to secure or at high risk of dislodgement either clingfilm or cohesive dressing should be used. Simple elastic bandages should not be used in any setting for securement of PIVC.",
+      "journal": "Eur J Trauma Emerg Surg",
+      "authors": [
+        "Vogeler J",
+        "Schumann S",
+        "Heinrich S",
+        "Hell J",
+        "Schmutz A"
+      ],
+      "date": "2026 Jun 03",
+      "doi": "10.3390/jcm9103192",
+      "tier": "core",
+      "topics": [
+        "Prehospital"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "prehospital",
+          "strength": "strong",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42234116/"
+    },
+    {
+      "pmid": "42234099",
+      "title": "Source control following traumatic gastric perforation : not so easy.",
+      "abstract": "",
+      "journal": "Intensive Care Med",
+      "authors": [
+        "Bernard C",
+        "Gessen S",
+        "Gregory J",
+        "Weiss E"
+      ],
+      "date": "2026 Jun 03",
+      "doi": "10.1007/s00134-026-08446-x",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "traumatic",
+          "strength": "strong",
+          "topic": "General Trauma"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42234099/"
+    },
+    {
+      "pmid": "42233881",
+      "title": "Genitourinary trauma: What you need to know.",
+      "abstract": "Genitourinary (GU) trauma occurs in ~10% of polytrauma patients and ranges from immediately life-threatening injuries to delayed complications with significant morbidity. Effective management requires multidisciplinary coordination among trauma surgery, urology, radiology, orthopedics, and critical care teams. Management of renal injury has continued to evolve, and up-to-date application of adjunctive therapy is essential to optimize outcomes. Bladder injury is often associated with pelvic fractures; diagnosis, categorization, and management of urine flow reduces infection and complications. Knowledge of ureteral and urethral injury management principles, strategy, and timing has been shown to reduce long-term complications and morbidity. Genital injuries, while less common and less severe, may be managed using systematic evaluation and intervention to improve functional outcome. Long-term follow-up is critical across all GU injuries to monitor for complications, including hypertension, fistula, stricture, incontinence, sexual dysfunction, and impaired renal function. Early recognition and adherence to structured management principles are essential to optimize outcomes and preserve genitourinary function.",
+      "journal": "J Trauma Acute Care Surg",
+      "authors": [
+        "Woodle T",
+        "Patel N",
+        "Colonna A",
+        "Enniss T",
+        "Myers J",
+        "Nirula R"
+      ],
+      "date": "2026 Jun 03",
+      "doi": "10.1097/TA.0000000000005051",
+      "tier": "core",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "polytrauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42233881/"
+    },
+    {
+      "pmid": "42233863",
+      "title": "Evidence-based, cost-effective management of lower gastrointestinal bleeding. An algorithm of the journal of trauma and acute care surgery emergency general surgery algorithms work group.",
+      "abstract": "",
+      "journal": "J Trauma Acute Care Surg",
+      "authors": [
+        "Livingston DH",
+        "Salim A",
+        "Biffl WL",
+        "Costantini TW",
+        "Diaz JJ",
+        "Inaba K",
+        "Napolitano LM",
+        "Winchell RJ",
+        "Coimbra R"
+      ],
+      "date": "2026 Jun 03",
+      "doi": "10.1097/TA.0000000000005074",
+      "tier": "core",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42233863/"
+    },
+    {
+      "pmid": "42232139",
+      "title": "Chest wall heterotopic ossification causing restrictive physiology after resuscitative thoracotomy and surgical stabilization of rib fractures: a report and review.",
+      "abstract": "",
+      "journal": "Trauma Surg Acute Care Open",
+      "authors": [
+        "Knight AW",
+        "Anderson M",
+        "Rahimy E",
+        "Forrester J"
+      ],
+      "date": "2026 Jan 1",
+      "doi": "10.2106/JBJS.RVW.20.00263",
+      "tier": "core",
+      "topics": [
+        "Thoracic"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "rib fracture",
+          "strength": "strong",
+          "topic": "Thoracic"
+        },
+        {
+          "keyword": "thoracotomy",
+          "strength": "strong",
+          "topic": "Thoracic"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42232139/"
+    },
+    {
+      "pmid": "42231442",
+      "title": "Comparison of short-term outcomes in open versus endovascular management of traumatic axillosubclavian arterial injuries in the contemporary era: a systematic review and meta-analysis.",
+      "abstract": "**BACKGROUND**: Traumatic axillosubclavian arterial injuries are rare but associated with high morbidity and mortality. Endovascular repair (ER) has emerged as an alternative to open surgery (OS), yet comparative outcome data remain inconsistent. This systematic review and meta-analysis compared short-term outcomes of ER versus OS for these injuries.\n\n**METHODS**: This study followed PRISMA guidelines and was registered in PROSPERO (CRD420251018150). PubMed, Embase, Cochrane Library, and Scopus were searched for studies. Eligible studies included adult patients with blunt or penetrating traumatic axillosubclavian arterial injuries treated with ER or OS. The primary outcome was short-term all-cause mortality (in-hospital or 30-day). Secondary outcomes included upper-extremity amputation, thrombosis of repair, and stroke. Pooled odds ratios with 95% confidence intervals (CIs) were calculated using random-effects models. Heterogeneity was assessed using the I\u00b2 statistic. Risk of bias and certainty of evidence were evaluated using ROBINS-I and GRADE.\n\n**RESULTS**: Twelve retrospective observational studies including 2 854 patients were analyzed. OS was associated with higher mortality compared with ER (OR 2.07, 95% CI 1.46-2.93; p < .001). No significant differences were observed for amputation (OR 1.26, 95% CI 0.59-2.73; p = .55), thrombosis of repair (OR 1.05, 95% CI 0.37-2.94; p = .93), or stroke (OR 1.06, 95% CI 0.69-1.63; p = .78). Certainty of evidence was moderate for mortality and very low for secondary outcomes.\n\n**CONCLUSION**: ER is associated with lower short-term mortality compared with OS in patients with traumatic axillosubclavian arterial injuries, with similar rates of amputation, thrombosis, and stroke. These findings are limited by retrospective study designs and potential confounding, highlighting the need for prospective, multicenter studies to validate outcomes and assess long-term durability.",
+      "journal": "World J Emerg Surg",
+      "authors": [
+        "Tsai SY",
+        "Sum SK",
+        "Huang TY",
+        "Chen TP",
+        "Yin SY",
+        "Wang YC",
+        "Yeh CH"
+      ],
+      "date": "2026 Jun 02",
+      "doi": "10.1186/s13017-026-00708-9",
+      "tier": "core",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "traumatic",
+          "strength": "strong",
+          "topic": "General Trauma"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42231442/"
+    },
+    {
+      "pmid": "42229028",
+      "title": "Surgical treatment of fracture-related infections of the calcaneus with relevant soft-tissue defects.",
+      "abstract": "**BACKGROUND**: Fracture-related infection (FRI) of the calcaneus with associated soft tissue defects after open reduction and internal fixation (ORIF) presents significant therapeutic challenges. This study evaluates the efficacy of two filling techniques-bone cement with local flap transfer (BC+LFT) and free myocutaneous flap (FMF)-in managing these complex cases, with consideration of the FRI classification system.\n\n**METHODS**: A retrospective analysis on patients treated between June 2017 and June 2024 was done. Based on post-debridement defect size, patients were allocated to BC\u00a0+\u00a0LFT (defects \u22643\u00a0cm) or FMF (defects >3\u00a0cm). All cases were classified according to the FRI criteria. Surgical management included radical debridement, dead space obliteration, and soft tissue reconstruction. Outcomes were assessed via AOFAS hindfoot scores, VAS pain scores, complication rates, and radiographic evaluation.\n\n**RESULTS**: A total of 43 patients were included (25 BC+LFT, 18 FMF). The FMF group had longer operative times and greater blood loss (p\u00a0<\u00a00.05), but no significant differences were observed in debridement frequency, hospitalization, or complication rates. Both groups showed significant improvement in functional and pain scores at final follow-up. Fracture union was achieved in all cases without recurrence of infection.\n\n**CONCLUSION**: Both BC\u00a0+\u00a0LFT and FMF are effective for managing calcaneal FRI with soft tissue defects. The choice of technique should be individualized based on defect size and patient factors, with FRI classification providing valuable guidance for clinical decision-making.",
+      "journal": "Injury",
+      "authors": [
+        "Zhou F",
+        "Liu H",
+        "Zhang Y",
+        "Wang J",
+        "Chen H",
+        "Cai L"
+      ],
+      "date": "2026 Jun 01",
+      "doi": "10.1016/j.injury.2026.113398",
+      "tier": "filtered",
+      "topics": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42229028/"
+    },
+    {
+      "pmid": "42229026",
+      "title": "Retrieval of entrapped intramedullary fragments using laparoscopic instruments for fixation of femur and tibia fractures.",
+      "abstract": "Cortical fragments within the intramedullary canal can pose a challenge during intramedullary nail treatment of tibial and femoral shaft fractures. Complications including reamer entrapment, malunion, and inability to pass final implants have all been reported. To limit soft tissue injury and avoid an open approach, laparoscopic instrumentation can be a useful adjunct to manipulate or retrieve cortical fragments at distant sites. Our objective is to outline a method to remove cortical fragments during treatment of tibial and femoral shaft fracture and characterize the standard shaft lengths diameters, tip configurations and jaw opening widths for common laparoscopic instruments.",
+      "journal": "Injury",
+      "authors": [
+        "Gray MT",
+        "DiCosmo M",
+        "Schottel PC"
+      ],
+      "date": "2026 May 26",
+      "doi": "10.1016/j.injury.2026.113384",
+      "tier": "filtered",
+      "topics": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42229026/"
+    },
+    {
+      "pmid": "42229025",
+      "title": "Understanding the key correlates of post-crash clinical indicators and outcomes in road traffic crashes.",
+      "abstract": "This study investigates the association of pre-crash factors (i.e., driver/rider behaviors and roadway conditions), and emergency response attributes (pre-hospital time (PHT) and mode of evacuation) with clinical outcomes directly and through the three post-crash clinical indicators, harnessing an extensive hospital-based dataset (N\u00a0=\u00a0273,362) collected in Karachi (Pakistan). The three jointly estimated ordered probit models for post-crash clinical indicators including Glasgow Coma Scale (GCS), Systolic Blood Pressure (SBP), and Respiratory Rate (RR) outperformed their independent counterparts, while a multinomial logit model estimated the association of the three post-crash clinical indicators (along with other explanatory variables) with the final clinical outcomes (e.g., mortality, admitted, discharge etc.) in RTCs. The findings reveal that underage driving/riding significantly increases the chance of severe GCS (3-8), RR (<10 bpm), and SBP (<76\u00a0mmHg) by 1.959%, 0.957%, and 0.842%, respectively. Delay in pre-hospital time significantly worsens the three post-crash clinical indicators. On the other hand, the chance of severe GCS, SBP, and RR reduced significantly by 6.657%, 5.728%, and 5.528%, respectively, if a private vehicle was used for evacuation. Based on the clinical outcome model, severe GCS, SBP, and RR (compared to their normal values) increase the chance of mortality by 0.444%, 3.149%, and 6.785%, respectively, underscoring RR as the most critical indicator. The findings of path analysis further highlighted indirect effects surpassing direct ones; for example, pre-crash medical conditions of crash victims (mostly drivers/riders) directly increase the chance of mortality by 0.538%; however, in total (after considering indirect effects) by 1.670% via severe post-crash clinical indicators, where the latter is \u223c3 times the direct effects. These outcomes underline the significance of effective and well-timed emergency response. Practical implications are discussed in the paper.",
+      "journal": "Injury",
+      "authors": [
+        "Ahmad S",
+        "Ahmad N",
+        "Dong Z"
+      ],
+      "date": "2026 May 29",
+      "doi": "10.1016/j.injury.2026.113376",
+      "tier": "filtered",
+      "topics": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42229025/"
+    },
+    {
+      "pmid": "42228476",
+      "title": "Vascular Trauma on the Fringes: Blunt Thoracic Aortic Injury Care for the Elderly.",
+      "abstract": "",
+      "journal": "J Am Coll Surg",
+      "authors": [
+        "Greenleaf E"
+      ],
+      "date": "2026 Jun 02",
+      "doi": "10.1097/XCS.0000000000002057",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Vascular"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "aortic injury",
+          "strength": "strong",
+          "topic": "Vascular"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42228476/"
+    },
     {
       "pmid": "42228193",
       "title": "Injury to the thorax is a dominant contributor to post-traumatic neutrophil mediated inflammatory response.",
@@ -5258,7 +5528,7 @@
         "Miyaguchi K",
         "Urushidani S"
       ],
-      "date": "2026 May 07",
+      "date": "2026 Aug 1",
       "doi": "10.1016/j.ajem.2026.05.014",
       "tier": "filtered",
       "topics": [
@@ -5385,7 +5655,7 @@
         "Aldeen AZ",
         "Pines JM"
       ],
-      "date": "2026 May 05",
+      "date": "2026 Aug 1",
       "doi": "10.1016/j.ajem.2026.05.006",
       "tier": "filtered",
       "topics": [
@@ -5411,7 +5681,7 @@
         "Demirci H",
         "\u00c7olak MA"
       ],
-      "date": "2026 May 06",
+      "date": "2026 Aug 1",
       "doi": "10.1016/j.ajem.2026.05.010",
       "tier": "filtered",
       "topics": [
@@ -5450,7 +5720,7 @@
         "Chiang WC",
         "Tianwibool P"
       ],
-      "date": "2026 May 06",
+      "date": "2026 Aug 1",
       "doi": "10.1016/j.ajem.2026.05.013",
       "tier": "filtered",
       "topics": [
@@ -5487,7 +5757,7 @@
         "Cash RE",
         "Martin-Gill C"
       ],
-      "date": "2026 May 05",
+      "date": "2026 Aug 1",
       "doi": "10.1016/j.ajem.2026.05.009",
       "tier": "filtered",
       "topics": [
@@ -6433,7 +6703,7 @@
         "Matoba T",
         "Tahara Y"
       ],
-      "date": "2026 Apr 23",
+      "date": "2026 Aug 1",
       "doi": "10.1016/j.ajem.2026.04.035",
       "tier": "filtered",
       "topics": [
@@ -6848,6 +7118,78 @@
       ],
       "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/42096610/"
+    },
+    {
+      "pmid": "42096239",
+      "title": "Adjunctive Intra-Arterial Alteplase After Successful Thrombectomy for Acute Ischemic Stroke: The CHOICE-2 Randomized Clinical Trial.",
+      "abstract": "**IMPORTANCE**: Despite high recanalization rates with endovascular thrombectomy for acute ischemic stroke due to large vessel occlusion, functional outcomes remain suboptimal. The benefit of adjunctive intra-arterial thrombolysis after successful thrombectomy is uncertain.\n\n**OBJECTIVE**: To assess whether adjunctive intra-arterial alteplase after successful thrombectomy improves functional outcomes and cerebral reperfusion.\n\n**DESIGN, SETTING, AND PARTICIPANTS**: Randomized, open-label trial with blinded outcome assessment conducted at 14 stroke centers in Spain from December 11, 2023, through November 26, 2025. A total of 440 patients with acute ischemic stroke due to large vessel occlusion treated with thrombectomy within 24 hours and achieving an expanded Treatment in Cerebral Ischemia score of 2b50 to 3 were randomized.\n\n**INTERVENTIONS**: Thrombectomy plus intra-arterial alteplase (0.225 mg/kg; maximum dose, 20 mg) infused over 15 minutes (n\u2009=\u2009221) or thrombectomy alone (n\u2009=\u2009219).\n\n**MAIN OUTCOMES AND MEASURES**: The primary outcome was an excellent functional outcome at 90 days, which was defined as a modified Rankin Scale score of 0 or 1. There were 6 secondary outcomes, including residual hypoperfusion on follow-up computed tomography perfusion. The safety outcomes included symptomatic intracranial hemorrhage and death.\n\n**RESULTS**: Of 3786 patients treated with thrombectomy, 2776 (73%) fulfilled angiographic criteria and 440 (12%) were randomized. There were 433 patients who were treated as randomized (median age, 76 [IQR, 75-78] years; 51% female). At 90 days, 57.5% of patients (123/214) in the thrombectomy plus intra-arterial alteplase group had a modified Rankin Scale score of 0 or 1 vs 42.5% of patients (93/219) in the thrombectomy alone group (adjusted risk difference, 15.0% [95% CI, 5.7% to 24.3%]; P\u2009=\u2009.002). Of 6 secondary outcomes, 4 showed no significant between-group differences. Residual hypoperfusion occurred in 28.6% (55/192) of patients in the thrombectomy plus intra-arterial alteplase group vs 50.5% (96/190) of patients in the thrombectomy alone group (adjusted risk difference, -22.0% [95% CI, -31.5% to -12.4%]; P\u2009<\u2009.001) and symptomatic intracranial hemorrhage occurred in 1.4% (3/214) vs 0.5% (1/219), respectively (adjusted odds ratio, 3.10 [95% CI, 0.32 to 30.0]; P\u2009=\u2009.33). Mortality at 90 days was 12.1% (26/214) in the thrombectomy plus intra-arterial alteplase group vs 6.4% (14/219) in the thrombectomy alone group (adjusted risk difference, 5.9% [95% CI, 0.5% to 11.3%]; P\u2009=\u2009.03).\n\n**CONCLUSIONS AND RELEVANCE**: Among patients with acute ischemic stroke and successful thrombectomy, adjunctive intra-arterial alteplase increased the proportion achieving excellent functional outcome at 90 days without a significant increase in symptomatic intracranial hemorrhage. Higher mortality in the thrombectomy plus intra-arterial alteplase group warrants further study.\n\n**TRIAL REGISTRATION**: ClinicalTrials.gov Identifier: NCT05797792.",
+      "journal": "JAMA",
+      "authors": [
+        "Ren\u00fa A",
+        "Fern\u00e1ndez-Couto MD",
+        "de la Riva P",
+        "Delgado-Mederos R",
+        "Herrera M",
+        "Morales A",
+        "Terce\u00f1o M",
+        "L\u00f3pez-Hern\u00e1ndez N",
+        "Mart\u00ednez-Gald\u00e1mez M",
+        "Dorado L",
+        "Vega P",
+        "Morales-Caba L",
+        "Gonz\u00e1lez E",
+        "Alonso M",
+        "Barredo Ben\u00edtez P",
+        "Bermejo R",
+        "Cabero-Arnold A",
+        "Cabrera-Maqueda JM",
+        "Vargas M",
+        "Calleja Bonilla \u00c1",
+        "Calleja S",
+        "D\u00edaz-P\u00e9rez J",
+        "Rudilosso S",
+        "Doncel-Moriano A",
+        "Feal MJ",
+        "Gallego JI",
+        "Hurtado P",
+        "Laredo C",
+        "Llull L",
+        "Bartolom\u00e9 I",
+        "Mart\u00ednez-Calvo A",
+        "Ortega-S\u00e1nchez \u00c1",
+        "Rodr\u00edguez-V\u00e1zquez A",
+        "Rodr\u00edguez-Caama\u00f1o I",
+        "Singla A",
+        "Silva Y",
+        "Tarruella Hern\u00e1ndez D",
+        "Oleaga L",
+        "San Rom\u00e1n Manzanera L",
+        "Serena J",
+        "Freijo MM",
+        "P\u00e9rez de la Ossa N",
+        "Castellanos M",
+        "Arenillas-Lara JF",
+        "Torres F",
+        "Leira EC",
+        "Amaro S",
+        "Urra X",
+        "Chamorro \u00c1"
+      ],
+      "date": "2026 Jun 02",
+      "doi": "10.1001/jama.2025.19441",
+      "tier": "filtered",
+      "topics": [
+        "TBI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "intracranial haemorrhage",
+          "strength": "weak",
+          "topic": "TBI"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42096239/"
     },
     {
       "pmid": "42095559",
@@ -7544,7 +7886,7 @@
         "Saladino RA",
         "Goldstein JA"
       ],
-      "date": "2026 Apr 07",
+      "date": "2026 Aug 1",
       "doi": "10.1016/j.ajem.2026.04.007",
       "tier": "filtered",
       "topics": [
@@ -7606,379 +7948,6 @@
       "keyword_matches": [],
       "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/42085909/"
-    },
-    {
-      "pmid": "42085537",
-      "title": "Design and implementation of an international multiarm, multistage master protocol for trials of complex traumatic wound care during active war in Ukraine.",
-      "abstract": "**BACKGROUND**: Traumatic wound infections are a significant contributor to morbidity and mortality during war. Given challenges of performing clinical trials during war and the urgent need for interventions to prevent and treat infected traumatic wounds exacerbated by global increases in antimicrobial resistance, we developed the Prevention and Treatment Clinical Trials for Antimicrobial Resistance Research to Improve Outcomes of Traumatic Wounds in Ukraine (PACT-ARROW). We provide an overview of the protocol and implementation strategy.\n\n**METHODS**: PACT-ARROW is a multiarm multistage (MAMS) platform designed to evaluate the safety, efficacy, and effectiveness of device and therapeutic interventions to optimize outcomes of patients hospitalized in Ukraine with acute traumatic wounds. The aim is to improve standard or available care with the possibility to study multiple interventions simultaneously. A platform steering committee will review potential interventions, determine alignment with the mission of the protocol, and promote those with sufficient evidence to warrant testing in a trial.\n\n**RESULTS**: PACT-ARROW has undergone local and national ethics approval in the United States and Ukraine. We began with a prospective observational cohort (ARROW), with over 350 patients enrolled. A corresponding interventional trial, with a targeted enrollment of 150, just began enrollment. Expansion of interventions and target populations is planned.\n\n**CONCLUSIONS**: The intended benefits of the platform include standardized patient enrollment criteria, outcomes tailored to feasible data collection during active war, and improvements in patient care for the treatment of complex and infected traumatic wounds. The design is intended to apply to a broad set of interventions with relevant patient-centered outcomes, all while addressing challenges of performing clinical trials in a war environment. Future studies utilizing the PACT-ARROW master protocol are planned. (J Trauma Acute Care Surg. 2026;000: 000-000. Copyright \u00a9 2026 Wolters Kluwer Health, Inc. All rights reserved.).\n\n**STUDY TYPE**: Protocol.\n\n**LEVEL OF EVIDENCE**: Level I.",
-      "journal": "J Trauma Acute Care Surg",
-      "authors": [
-        "Bills CB",
-        "Hochheimer CJ",
-        "Roberts SC",
-        "Fishchuk R",
-        "Peers J",
-        "Simon S",
-        "Omelianenko OV",
-        "Herych HL",
-        "Altanets OV",
-        "Beley NA",
-        "Bebarta CVS",
-        "Keenan CRS",
-        "Beaty L",
-        "Trent SA",
-        "Carlson NE",
-        "Ginde AA"
-      ],
-      "date": "2026 May 05",
-      "doi": "10.1097/TA.0000000000005017",
-      "tier": "core",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic",
-          "strength": "strong",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42085537/"
-    },
-    {
-      "pmid": "42084788",
-      "title": "Venous air embolism following blast injury: not always imaging the worst.",
-      "abstract": "",
-      "journal": "Intensive Care Med",
-      "authors": [
-        "de Rocquigny G",
-        "de Rousiers A",
-        "Riff JC",
-        "Perchoc A"
-      ],
-      "date": "2026 May 05",
-      "doi": "10.1007/s00330-022-09200-9",
-      "tier": "filtered",
-      "topics": [
-        "Penetrating"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "blast injury",
-          "strength": "strong",
-          "topic": "Penetrating"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42084788/"
-    },
-    {
-      "pmid": "42084585",
-      "title": "Mothership and Drip-and-Ship Strategies in Mechanical Thrombectomy for Acute Ischemic Stroke.",
-      "abstract": "**STUDY OBJECTIVE**: The optimal out-of-hospital referral pathway for patients with acute ischemic stroke due to large vascular occlusion (AIS-LVO)-direct transport to a comprehensive center (mothership) versus initial evaluation at a local hospital followed by transfer (drip-and-ship)-remains controversial. This systematic review and meta-analysis aimed to evaluate the comparative effectiveness of mothership and drip-and-ship strategies on clinical outcomes.\n\n**METHODS**: We searched PubMed, Embase, Web of Science, and the Cochrane Library from inception to March 18, 2025, to identify studies comparing mothership and drip-and-ship paradigms in AIS-LVO patients treated with mechanical thrombectomy. Random-effects meta-analyses were conducted to calculate pooled odds ratios (ORs) for primary outcomes, including 90-day modified Rankin Scale (mRS) 0 to 2, 90-day mRS 0 to 3, successful recanalization, symptomatic intracranial hemorrhage, and 90-day mortality.\n\n**RESULTS**: A total of 42 studies comprising 25,005 patients were included. Clinically, mothership was associated with an increased likelihood of achieving 90-day mRS 0 to 2 (OR 1.15, 95% confidence interval [CI] 1.03 to 1.29, I\n\n**CONCLUSION**: The mothership strategy may improve 90-day mRS 0 to 2 compared with the drip-and-ship, whereas no significant differences were observed in broader functional outcomes, recanalization rates, hemorrhagic complications, or mortality.",
-      "journal": "Ann Emerg Med",
-      "authors": [
-        "Guo L",
-        "Zhang J",
-        "Tang G",
-        "Wang J",
-        "Yang S",
-        "Li C",
-        "Liu Y",
-        "Xiang Y",
-        "Guo F"
-      ],
-      "date": "2026 May 04",
-      "doi": "10.1016/j.annemergmed.2026.03.020",
-      "tier": "filtered",
-      "topics": [
-        "TBI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "intracranial haemorrhage",
-          "strength": "weak",
-          "topic": "TBI"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42084585/"
-    },
-    {
-      "pmid": "42084583",
-      "title": "Extracorporeal Cardiopulmonary Resuscitation for Pediatric Out-of-Hospital Cardiac Arrest.",
-      "abstract": "**STUDY OBJECTIVE**: Adult evidence for extracorporeal cardiopulmonary resuscitation (ECPR) is substantial, but to our knowledge, comparative studies for pediatric out-of-hospital cardiac arrest (OHCA) are lacking. We compared outcomes of pediatric OHCA with ECPR versus continued cardiopulmonary resuscitation (CPR).\n\n**METHODS**: We conducted a retrospective cohort study of patients <18 years from a multicenter Japanese OHCA registry (2014 to 2022) transported to pediatric ECPR-capable institutions. Exposure was ECPR initiation versus continued CPR among patients at risk for ECPR (no ECPR yet; could receive ECPR later). Outcomes were one-month survival and favorable neurologic outcome (Pediatric Cerebral Performance Category 1 to 3). We applied risk-set matching with time-dependent propensity scores, using full matching with up to 4 controls per case.\n\n**RESULTS**: Of 799 patients, 27 received ECPR; 1:4 matching yielded 108 at-risk controls. ECPR patients were adolescents (median 14 years), witnessed arrest (70.4%), cardiogenic (74.1%); patient characteristics were similar after matching. In patients receiving ECPR versus controls, 1-month survival was 25.9% (7/27) versus 11.1% (12/108) (risk difference 17.3%; 95% confidence interval [CI], -0.9 to 35.6; risk ratio, 3.56; 95% CI, 1.37 to 9.28) and favorable neurologic outcome was 18.5% (5/27) versus 6.5% (7/108) (risk difference 13.9%; 95% CI, -2.9 to 30.8; risk ratio, 3.78; 95% CI; 1.19 to 11.99).\n\n**CONCLUSIONS**: Compared with continued conventional CPR among at-risk patients, ECPR might be associated with improved patient outcomes after pediatric OHCA, but the precision of estimates was limited, with wide confidence intervals. Interpretation is limited by the residual confounding inherent to an observational design; our findings can inform randomized trials of pediatric ECPR.",
-      "journal": "Ann Emerg Med",
-      "authors": [
-        "Amagasa S",
-        "Iwamoto S",
-        "Okubo M",
-        "Utsumi S",
-        "Kashiura M",
-        "Yasuda H",
-        "Kishihara Y",
-        "Uematsu S"
-      ],
-      "date": "2026 May 04",
-      "doi": "10.1016/j.annemergmed.2026.03.014",
-      "tier": "filtered",
-      "topics": [
-        "Cardiac Arrest"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "ECPR",
-          "strength": "weak",
-          "topic": "Cardiac Arrest"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42084583/"
-    },
-    {
-      "pmid": "42084455",
-      "title": "Characteristics and Short-Term Outcomes of Patients With Acute Pulmonary Embolism Requiring Intubation.",
-      "abstract": "**BACKGROUND**: Patients with severe pulmonary embolism (PE) may experience hemodynamic instability with intubation and mechanical ventilation. However, the characteristics and outcomes of intubated PE patients have not been previously described in the literature.\n\n**METHODS**: We conducted a retrospective cohort study of patients requiring activation of our hospital's Pulmonary Embolism Response Team (PERT) from 2012 to 2021 who were intubated within 24\u2009h of their acute PE diagnosis. Our primary outcome was peri-intubation hemodynamic instability and death occurring within 30\u2009min. Our secondary outcome was peri-intubation hemodynamic instability and death within 3\u2009h of intubation.\n\n**RESULTS**: We included 51 patients. Within 30\u2009min of intubation, seven (14%) patients had a new or increased vasopressor requirement, four (8%) suffered cardiac arrest, and 1 (2%) required ECMO. Within 3\u2009h, 26 (51%) patients had a new or increased vasopressor requirement, six (12%) suffered cardiac arrest, and five (10%) required ECMO. Patients with a central PE (n\u2009=\u200929, 57%) were more likely to experience peri-intubation hemodynamic instability (OR 3.4, 95% CI [0.95, 13], p\u2009=\u20090.048). Patients who had right ventricular strain on CT (OR 3.7, 95% CI [1.01, 15], p\u2009=\u20090.043) or echocardiogram (OR 8.0, 95% CI [1.9, 42], p\u2009=\u20090.0014) were also more likely to experience hemodynamic instability.\n\n**CONCLUSION**: Peri-intubation hemodynamic deterioration occurs in more than half of patients with acute PE, and severe events, like cardiac arrest, are common. Physicians should be cautious when intubating PE patients. Further research is needed to identify optimal strategies to treat PE patients who require intubation.",
-      "journal": "Acad Emerg Med",
-      "authors": [
-        "Dhar IT",
-        "Baltsen CD",
-        "Birrenkott DA",
-        "Freitas MF",
-        "Bor B",
-        "Granfeldt A",
-        "Andersen A",
-        "Lyhne MD",
-        "Kabrhel C"
-      ],
-      "date": "2026 May 1",
-      "doi": "10.1111/acem.70317",
-      "tier": "filtered",
-      "topics": [
-        "Cardiac Arrest"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "ECMO",
-          "strength": "weak",
-          "topic": "Cardiac Arrest"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42084455/"
-    },
-    {
-      "pmid": "42084378",
-      "title": "Lumbar Puncture Opening Pressure and Continuous Intracranial Pressure Monitoring: Concordance and Clinical Implications in Idiopathic Intracranial Hypertension.",
-      "abstract": "**BACKGROUND AND OBJECTIVES**: Lumbar puncture (LP) remains a standard diagnostic tool for assessing intracranial pressure (ICP) in idiopathic intracranial hypertension (IIH), yet it provides only a single static measurement that may not reflect dynamic pressure fluctuations. Although continuous ICP monitoring (ICPm) offers real-time assessment of postural and circadian variability, the relationship between LP and ICPm measurements done after nondiagnostic LP remains unclear.\n\n**METHODS**: We retrospectively reviewed adult patients with IIH at a single center (2016-2023) who underwent ICPm within 9 months of an LP without intervening therapies affecting ICP. Continuous ICPm recordings were analyzed across postures and tilt angles and compared with LP opening pressures using Spearman correlation, Bland-Altman analysis, and categorical concordance of normal, high-, and low-pressure classifications.\n\n**RESULTS**: Eighty-one patients met inclusion criteria (mean age 38.1 \u00b1 11.8 years, 87.7% female, mean body mass index 34.7 \u00b1 8.8 kg/m 2 ). LP identified elevated pressure in 32 (39.5%) patients, while m categorized 10 (12.3%) as high, 18 (22.2%) as low, 8 (9.9%) as mixed, and 45 (55.6%) as normal. LP and ICPm values demonstrated only moderate correlation (\u03c1 = 0.37-0.51, P \u2264 .014) with a consistent negative bias, as LP pressures were 10 to 27 mm Hg higher than observed for ICPm. Discordance was notable in patients with low or mixed ICP profiles, in whom LP frequently yielded normal or elevated readings.\n\n**CONCLUSION**: LP and continuous ICPm are not interchangeable, as LP systematically overestimates parenchymal ICP and fails to capture postural and circadian variability. While LP remains useful for initial diagnosis, continuous ICPm provides a more comprehensive physiological assessment and may better guide management in IIH patients with persistent or ambiguous symptoms.",
-      "journal": "Neurosurgery",
-      "authors": [
-        "Maroufi SF",
-        "Katkade O",
-        "Puppalla P",
-        "Meggyesy M",
-        "Um RS",
-        "Chandan Reddy S",
-        "Theodore JN",
-        "Rao A",
-        "Lee RP",
-        "Luciano MG"
-      ],
-      "date": "2026 May 05",
-      "doi": "10.1227/neu.0000000000004068",
-      "tier": "filtered",
-      "topics": [
-        "TBI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "ICP monitoring",
-          "strength": "weak",
-          "topic": "TBI"
-        },
-        {
-          "keyword": "intracranial pressure monitoring",
-          "strength": "strong",
-          "topic": "TBI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42084378/"
-    },
-    {
-      "pmid": "42084239",
-      "title": "Early Chemoprophylaxis in Spinal Injury Patients Reduces Deep Venous Thrombosis, Pulmonary Embolism, and Mortality.",
-      "abstract": "",
-      "journal": "J Am Coll Surg",
-      "authors": [
-        "Warshauer AK",
-        "Lynch SN",
-        "Burlew CC"
-      ],
-      "date": "2026 May 05",
-      "doi": "10.1097/XCS.0000000000002022",
-      "tier": "filtered",
-      "topics": [
-        "Spine"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "spinal injury",
-          "strength": "strong",
-          "topic": "Spine"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42084239/"
-    },
-    {
-      "pmid": "42084227",
-      "title": "Volume Is Not Enough: Chest Wall Injury as a Test Case for Performance-Based Trauma Center Verification.",
-      "abstract": "",
-      "journal": "J Am Coll Surg",
-      "authors": [
-        "Forrester JD",
-        "Bauman ZM",
-        "Eriksson EA",
-        "Warriner ZD",
-        "Whitbeck S",
-        "White TW"
-      ],
-      "date": "2026 May 05",
-      "doi": "10.1097/XCS.0000000000002014",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "trauma centre",
-          "strength": "strong",
-          "topic": "Systems/QI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42084227/"
-    },
-    {
-      "pmid": "42084226",
-      "title": "Expanding Procedural Metrics: Rib Fixation as an Additional Surrogate of Trauma Center Performance.",
-      "abstract": "",
-      "journal": "J Am Coll Surg",
-      "authors": [
-        "Joseph B",
-        "Castillo-Diaz F",
-        "Magnotti LJ"
-      ],
-      "date": "2026 May 05",
-      "doi": "10.1097/XCS.0000000000002015",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "trauma centre",
-          "strength": "strong",
-          "topic": "Systems/QI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42084226/"
-    },
-    {
-      "pmid": "42083084",
-      "title": "Feasibility of Wedge Resection for Subpleural Hilar Lung Nodules Using CT-guided Hookwire Localization and Ultrasonic Dissection.",
-      "abstract": "**OBJECTIVE**: To evaluate the safety and efficiency of a novel computed tomography (CT)-guided hookwire localization technique, aiming to enable parenchyma-sparing wedge resection using video-assisted thoracoscopic surgery (VATS) for small, hilar-proximal, ground-glass opacity (GGO)-dominant nodules.\n\n**SUMMARY BACKGROUND DATA**: Localizing hilar-proximal GGOs remains challenging. For small, hilar-proximal, GGO-dominant lung nodules, there is no consensus regarding the optimal surgical approach.\n\n**METHODS**: This was a multicenter retrospective study from January 2023 to July 2025 including 79 patients with subpleural pulmonary nodules \u2264 2\u00a0cm in diameter and consolidation-to-tumor ratio (CTR) \u2264 0.25 located near the hilum. Patients underwent preoperative CT-guided hookwire localization using transfissural or traversing-lobe approach, followed by uniportal VATS wedge resection. Resection was performed using ultrasonic dissection with limited stapler use to maximize lung preservation.\n\n**RESULTS**: 79 nodules (median, 7\u00a0mm, range 6-20\u00a0mm) were successfully localized. Minor asymptomatic pneumothorax occurred after localization in 12 patients and small pulmonary hemorrhage in 10 patients. The median operative time was 15.0 minutes (range 10-28 minutes). Histopathology confirmed 9 adenocarcinoma in situ, 53 minimally invasive adenocarcinoma, 14 invasive adenocarcinoma, and 3 benign lesions. 10 patients experienced persistent air leak > 72h and no other major complications occurred. Median postoperative hospital stay was 3 days (range 2 - 6\u00a0d). At a median follow-up of 17.3 months, no local recurrences or deaths have been detected.\n\n**CONCLUSIONS**: This novel CT-guided hookwire localization strategy proved highly effective for small, hilar-proximal, GGO-dominant lung nodules, facilitating their successful removal by VATS wedge resection with parenchyma-sparing technique.",
-      "journal": "Ann Surg",
-      "authors": [
-        "Zhang Y",
-        "Zhang M",
-        "Wu H",
-        "Ye T",
-        "Hu H",
-        "Wu W",
-        "Li G",
-        "Chen H"
-      ],
-      "date": "2026 May 05",
-      "doi": "10.1097/SLA.0000000000007079",
-      "tier": "filtered",
-      "topics": [
-        "Thoracic"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "pneumothorax",
-          "strength": "weak",
-          "topic": "Thoracic"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42083084/"
-    },
-    {
-      "pmid": "42083049",
-      "title": "Association between neurofilament light chain concentrations and outcomes in patients with moderate to severe traumatic brain injury: a systematic review and meta-analysis.",
-      "abstract": "**BACKGROUND**: Moderate to severe traumatic brain injury (TBI) is associated with high rates of mortality and long-term disability. Accurate biomarkers are needed to predict longterm neurological outcomes and guide decision-making early after TBI. Neurofilament light chain (NfL), a structural protein of neurons, has emerged as a promising candidate, but its association with outcomes in this population remains uncertain.\n\n**METHODS**: We conducted a systematic review and meta-analysis to assess the association between blood or cerebrospinal fluid NfL concentrations and outcomes in adults with moderate to severe TBI. We searched MEDLINE, Embase, Cochrane CENTRAL and Web of Science from inception to October 2025. Eligible studies included cohort studies or randomized controlled trials reporting NfL levels measured during the acute phase and reporting at least one outcome of interest. Our primary outcome was long-term neurological function, defined as the latest available Glasgow Outcome Scale (GOS) or Glasgow Outcome Scale-Extended (GOS-E) score, dichotomized into unfavorable (GOS\u2009\u2264\u20093 or GOS-E\u2009\u2264\u20094) and favorable (GOS\u2009>\u20093 or GOS-E\u2009>\u20094). Mortality, at any time point, was a secondary outcome. Risk of bias was assessed using an adapted scale from the QUADAS-2 tool, and certainty of evidence was evaluated using GRADE criteria.\n\n**RESULTS**: Fourteen studies (2,905 participants) were included, with ten (n\u2009=\u20091,648) contributing to the meta-analysis for our primary outcome. Higher NfL concentrations were associated with unfavorable neurological outcomes, with moderately higher levels in patients with poor outcomes compared with those with favorable outcomes (SMD 0.45, 95% CI 0.33-0.56; I\u00b2 = 12%). Six studies (n\u2009=\u2009483) assessed mortality; higher NfL concentrations were associated with increased mortality (SMD 0.71, 95% CI 0.04-1.39; I\u00b2 = 82%), with a more consistent association when NfL was measured within 24\u00a0h after injury (I\u00b2 = 0%). The certainty of evidence was graded as very low for both outcomes, reflecting risk of bias and, for mortality, additional inconsistency and imprecision.\n\n**CONCLUSIONS**: Higher NfL concentrations were associated with unfavorable neurological outcomes after moderate-to-severe TBI. The association with mortality was more uncertain and should be interpreted with caution given the substantial heterogeneity across studies. Its incremental prognostic value beyond known predictors remains uncertain.\n\n**TRIAL REGISTRATION**: PROSPERO CRD42022332110, 22 May 2022.",
-      "journal": "Crit Care",
-      "authors": [
-        "Bouras M",
-        "Pageau M",
-        "Gagnon MA",
-        "Costerousse O",
-        "Demers K",
-        "Grenier-Gagnon A",
-        "Isaac CJ",
-        "Torkomyan TH",
-        "Lauzier F",
-        "Zarychanski R",
-        "Francoeur CL",
-        "Gerges P",
-        "Abiala G",
-        "Moore L",
-        "Englis SW",
-        "Turgeon AF"
-      ],
-      "date": "2026 May 04",
-      "doi": "10.1002/acn3.50872",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "TBI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "traumatic",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic brain injury",
-          "strength": "strong",
-          "topic": "TBI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42083049/"
     }
   ]
 }
