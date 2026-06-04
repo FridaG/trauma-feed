@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-03T22:24:21.718126Z",
-  "total_articles": 207,
+  "generated": "2026-06-04T21:25:00.636096Z",
+  "total_articles": 211,
   "all_topics": [
     "Abdominal",
     "Burns",
@@ -378,6 +378,455 @@
     "Cochrane Database Syst Rev": "filtered"
   },
   "articles": [
+    {
+      "pmid": "42240335",
+      "title": "Commentary: Lumbar Puncture Opening Pressure and Continuous Intracranial Pressure Monitoring: Concordance and Clinical Implications in Idiopathic Intracranial Hypertension.",
+      "abstract": "",
+      "journal": "Neurosurgery",
+      "authors": [
+        "El-Ghandour NMF"
+      ],
+      "date": "2026 Jun 04",
+      "doi": "10.1227/neu.0000000000004121",
+      "tier": "filtered",
+      "topics": [
+        "TBI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "intracranial pressure monitoring",
+          "strength": "strong",
+          "topic": "TBI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42240335/"
+    },
+    {
+      "pmid": "42240333",
+      "title": "Treatment Durability After Subdural Evacuating Port System, Middle Meningeal Artery Embolization, and Combined Therapy for Chronic Subdural Hematoma.",
+      "abstract": "**BACKGROUND AND OBJECTIVES**: Chronic subdural hematoma care is evolving beyond burr holes and craniotomy to minimally invasive options such as subdural evacuating port system (SEPS) and middle meningeal artery (MMA) embolization. The optimal initial strategy and role of combined SEPS and MMA remains uncertain. The aims of this study were to compare outcomes after SEPS alone, MMA embolization alone, and combined SEPS and MMA and to assess the effect of hematoma size and antithrombotic therapy on treatment durability.\n\n**METHODS**: We conducted a retrospective cohort study of patients with chronic subdural hematoma treated at a single level 1 trauma center between January 2021 and March 2024. Patients were categorized by initial intervention (SEPS, MMA, or combined SEPS and MMA). Outcomes included treatment failure, radiographic worsening \u22646 months, clinical improvement, length of stay, and discharge disposition. Subgroup analyses were stratified by hematoma thickness (<20 vs \u2265 20 mm) and by anticoagulant (AC)/antiplatelet (AP) use, including timing of resumption.\n\n**RESULTS**: Among 220 patients (SEPS 149, MMA 31, combined 40), the median hematoma size was 20 mm and differed by treatment (SEPS 21 mm, MMA 16 mm, combined 17.5 mm; P < .001). Treatment failure occurred in 23.6% overall (SEPS 26.8%, MMA 16.1%, combined 17.5%; P = .09). The Kaplan-Meier test suggested greater durability for MMA and combined therapy (log-rank P = .088). Among smaller hematomas (<20 mm), MMA had the lowest observed failure rates, while outcomes converged for larger hematomas (\u226520 mm). In the AC/AP subgroup (N = 104), MMA-based strategies trended toward lower failure rates and were associated with earlier and more frequent AC/AP resumption compared with SEPS.\n\n**CONCLUSION**: MMA embolization, whether performed alone or with SEPS, was associated with favorable durability and facilitated earlier AC/AP resumption. MMA alone trended toward lower failure rates in smaller collections, while combining SEPS with MMA achieved comparably durable outcomes in larger or more complex cases. Prospective, size-stratified trials are warranted to validate these findings.",
+      "journal": "Neurosurgery",
+      "authors": [
+        "Harland TA",
+        "Silva J",
+        "Ortiz S",
+        "Velez J",
+        "Barats M",
+        "Paul A",
+        "Dalfino J",
+        "Boulos A",
+        "Field N",
+        "Entezami P"
+      ],
+      "date": "2026 Jun 04",
+      "doi": "10.1227/neu.0000000000004100",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Systems/QI",
+        "TBI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "subdural haematoma",
+          "strength": "strong",
+          "topic": "TBI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42240333/"
+    },
+    {
+      "pmid": "42240329",
+      "title": "Machine Learning-Based Prediction of Independent Ambulation Following Intramedullary Spinal Cord Tumor Resection.",
+      "abstract": "**BACKGROUND AND OBJECTIVES**: Intramedullary spinal cord tumor (IMSCT) resection carries a high risk of postoperative neurological deficit because of neural tract manipulation and myelotomy. Although short-term and long-term neurological recovery represent key treatment outcomes, current prognostication methods are lacking and would benefit from further complex analysis.\n\n**METHODS**: From March 2009 to August 2025, all adult IMSCT resections at our institution were reviewed. Demographic, oncologic, and perioperative data were extracted from electronic medical records. This included preoperative and follow-up neurological examination data in the form of American Spinal Injury Association Impairment Scale (AIS) grading, Modified McCormick Scale (MMCS), and ambulatory status. Independent ambulation served as the primary outcome for 4 machine learning models. Each model was sequentially evaluated using area under the receiver operating characteristic curve (AUROC).\n\n**RESULTS**: Fifty-four patients underwent 55 surgeries for IMSCT resection. Encapsulated lesions predominated IMSCT pathology, with grade II ependymoma comprising 28 (50.9%) resections, 5 hemangioblastomas (9.1%), and 5 cavernous hemangiomas (9.1%). Gross total resection was achieved in 36 cases (65.5%), with encapsulated tumors more readily achieving gross total resection vs unencapsulated (84.6% vs 18.8%, P < .01). By 4 weeks, conversion of MMCS, but not AIS grade, significantly correlated with concurrent ambulatory conversion (P < .01 vs P = .15). At 6 months, both AIS grade conversion (P < .01) and MMCS conversion (P < .01) significantly correlated with ambulatory conversion. For predicting ambulation at latest follow-up from 4 weeks postoperatively, the comprehensive granular model achieved an AUROC of 0.833, outperforming the AIS grade (0.583), American Spinal Injury Association Motor Score (0.667), and MMCS (0.667) models. By the 6-month follow-up, the comprehensive granular model achieved strong discrimination (AUROC 1.00).\n\n**CONCLUSION**: Follow-up IMSCT data demonstrate a postoperative lability that stabilizes by 6 months into a reliably modeled outcome. By enhancing the granularity of recovery data, accurate independent ambulation modeling may improve counseling for patients with IMSCT.",
+      "journal": "Neurosurgery",
+      "authors": [
+        "Perdikis B",
+        "Palla A",
+        "Goff NK",
+        "Khan HA",
+        "Rai S",
+        "Budimlija Z",
+        "Lau D",
+        "Frempong-Boadu A",
+        "Laufer I"
+      ],
+      "date": "2026 Jun 04",
+      "doi": "10.1227/neu.0000000000004109",
+      "tier": "filtered",
+      "topics": [
+        "Spine"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "spinal injury",
+          "strength": "weak",
+          "topic": "Spine"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42240329/"
+    },
+    {
+      "pmid": "42240286",
+      "title": "Identification and Documentation of Patient Social Risk Factors in the Prehospital Setting: A Pilot Implementation.",
+      "abstract": "**OBJECTIVES**: Social risk factors (SRF), or adverse social drivers of health, have become an increased area of focus in health care, particularly among Emergency Medical Services. Prehospital identification and response to SRFs have been reported, most notably among mobile-integrated models, such as Community Paramedicine. Incorporating SRF screening within routine EMS practice is not standard, despite reports of willingness to do so among clinicians. Therefore, it was the aim of this study to evaluate the integration of a prehospital SRF documentation tool.\n\n**METHODS**: A 14-item prehospital SRF documentation tool derived from the World Health Organization's social determinants of health categories was integrated into our EMS agency's patient charting platform as a required field on July 11, 2024. We conducted a retrospective cohort study of all adult emergency and non-emergency calls from the start of integration to January 11, 2025 to evaluate overall identification and prevalence of reported SRF. Descriptive statistics were used to characterize the study sample. Bivariate statistics were used to evaluate differences across demographic and encounter level variables and SRF type using Chi-Square tests and Wilcoxon rank-sum tests, where appropriate. Covariates were further evaluated by whether they had a documented SRF or not.\n\n**RESULTS**: A total of 57,899 encounters were identified, with 4.0% having at least one documented SRF (n\u2009=\u20092,326); the remaining sample had no SRFs documented. The SRF sample overall was 66.9% male, 28.9% White and median age of 50 years (IQR: 36-66), and 30.8% had more than one SRF identified. There were 116 individuals that had more than one encounter during the study time period. The most frequently reported SRFs were substance use (31.3%), housing instability (25.7%) and disability (25.4%). Over 75% of encounters were low acuity. Compared to encounters with no SRFs documented (n\u2009=\u200955,573), patients were older and female (p-values >0.05).\n\n**CONCLUSIONS**: Identified SRFs were low among our sample, highlighting the need to determine the barriers preventing recognition and reporting. Young males are a high-risk group, particularly for repeated encounters. There is a need to identify improved mechanisms for EMS clinicians to document and communicate pertinent SRF information, particularly to Emergency Department teams.",
+      "journal": "Prehosp Emerg Care",
+      "authors": [
+        "McCann-Pineo M",
+        "Young E",
+        "Lee JY",
+        "Huang X",
+        "Levinsky B",
+        "Monosova V",
+        "Smith C",
+        "Bihasa-Lenahan R",
+        "Berkowitz J"
+      ],
+      "date": "2026 Jun 04",
+      "doi": "10.1080/10903127.2026.2678432",
+      "tier": "filtered",
+      "topics": [
+        "Prehospital"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "prehospital",
+          "strength": "strong",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42240286/"
+    },
+    {
+      "pmid": "42240281",
+      "title": "Association between prehospital tourniquet application and post-traumatic stress disorder in military personnel: A retrospective cohort study.",
+      "abstract": "**BACKGROUND**: Post-traumatic stress disorder (PTSD) is a well-documented consequence of combat-related trauma. While tourniquet application is a cornerstone of hemorrhage control in military settings, its mental health consequences have not been explored. We aimed to assess the association between prehospital tourniquet application and subsequent PTSD among military personnel with extremity injuries.\n\n**METHODS**: In this retrospective cohort study, we utilized linked military and national trauma registries to identify military personnel with extremity injuries and Injury Severity Score (ISS) \u22648 between 2006 and 2021. Participants were grouped based on documented prehospital use of tourniquets. Service-connected PTSD diagnoses were retrieved from the Ministry of Defense Rehabilitation Department disability claim records and validated by the PTSD Checklist for DSM-5 (PCL-5). Logistic regression models were used to assess associations between tourniquet use and PTSD, adjusting for confounders including injury mechanism, event type, head injury, number of injured persons, and hospitalization status.\n\n**RESULTS**: During 31,690 person-years of follow-up, a total of 2,876 military personnel met the inclusion criteria, of whom 123 (4.3%) received a tourniquet. PTSD was diagnosed in 244 (8.5%) of all casualties, with a prevalence of 30.9% (n=38) among those who received a tourniquet, compared with 7.5% (n=206) among those who did not (p<0.0001). In unadjusted analyses, tourniquet use was strongly associated with increased odds of PTSD (odds ratio, 5.53; 95% confidence interval, 3.64-8.26). After adjusting for confounders, tourniquet use remained significantly associated with PTSD (odds ratio, 1.70; 95% confidence interval, 1.07-2.66).\n\n**CONCLUSIONS**: Tourniquet use was associated with increased odds of PTSD, even after accounting for key confounders. While essential for hemorrhage control, this association should be interpreted with caution, as it may reflect underlying injury context, operational intensity, or other unmeasured confounders rather than a direct causal effect. Tourniquet use was associated with increased odds of PTSD; however, this association should not be interpreted as causal and does not support changes to current point-of-injury tourniquet guidelines. Rather, it may reflect underlying injury context, operational intensity, or other unmeasured confounders. (J Trauma Acute Care Surg 2026;00:000-000 Copyright \u00a9 2026 Wolters Kluwer Health, Inc. All rights reserved.).\n\n**LEVEL OF EVIDENCE**: Prognostic/epidemiological, Level III.",
+      "journal": "J Trauma Acute Care Surg",
+      "authors": [
+        "Fridrich L",
+        "Talmy T",
+        "Rudnicki Y",
+        "Radomislenski I",
+        "Aviad Beer Z",
+        "Klein Y",
+        "Benov A"
+      ],
+      "date": "2026 Jun 04",
+      "doi": "10.1097/TA.0000000000005081",
+      "tier": "core",
+      "topics": [
+        "General Trauma",
+        "Prehospital",
+        "Procedures",
+        "Systems/QI",
+        "TBI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "injury severity",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "head injury",
+          "strength": "weak",
+          "topic": "TBI"
+        },
+        {
+          "keyword": "tourniquet",
+          "strength": "strong",
+          "topic": "Procedures"
+        },
+        {
+          "keyword": "prehospital",
+          "strength": "strong",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42240281/"
+    },
+    {
+      "pmid": "42240268",
+      "title": "Embedded military medical support in high-risk police operations: Analysis of 242 operations.",
+      "abstract": "**BACKGROUND**: The National Gendarmerie Intervention Group (GIGN) is the French National Gendarmerie's tactical unit, operating in high-risk environments involving armed suspects, hostage situations, or counterterrorism. Since 1984, the GIGN has relied on an original medical support model integrating a military physician-nurse team within its tactical elements. The study aimed to describe this support within the specific context of a physician-led prehospital emergency medical system.\n\n**METHODS**: We conducted a retrospective, descriptive, observational study of all GIGN operations identified from a prospective registry and performed in the French homeland between July 12, 2018, and October 12, 2022. The primary outcome was the occurrence of at least one casualty, defined as receiving a medical evaluation during an operation. Operational characteristics, medical organization, casualty severity, and access times to medical resources were analyzed. Univariate analyses were performed to identify factors associated with casualty occurrence.\n\n**RESULTS**: Among 242 analyzed operations, at least one casualty occurred in 21% of missions (n=50), with a total of 90 casualties managed. Law enforcement missions were associated with a significantly higher risk of casualties compared with judicial missions (39% vs. 15%; OR: 3.64, 95% CI: 1.82-7.23). Armed or suspected armed adversaries were present in 79% of operations, with explosives linked to the highest risk. Median theoretical access times were 15 minutes (IQR, 9-22) to a physician-staffed prehospital emergency unit and 40 minutes (IQR, 22-63) to a trauma center, with 22% of operations located more than 1 hour away. Prehospital transfusion was potentially available in 66% of operations, mostly delivered within 60 minutes.\n\n**CONCLUSIONS**: GIGN operations are conducted in environments with substantial exposure to severe trauma. Its embedded support model enables early advanced medical care targeting preventable causes of death and plays a central role in operational planning, coordination with civilian emergency services, and casualty management. (J Trauma Acute Care Surg 2026;00:000-000 Copyright \u00a9 2026 Wolters Kluwer Health, Inc. All rights reserved.).\n\n**LEVEL OF EVIDENCE**: Care Management; Level IV.",
+      "journal": "J Trauma Acute Care Surg",
+      "authors": [
+        "Corcostegui SP",
+        "Coutillard P",
+        "Galant J",
+        "de la Bigne G",
+        "Lovi S",
+        "Thabouillot O",
+        "Derkenne C"
+      ],
+      "date": "2026 Jun 04",
+      "doi": "10.1097/TA.0000000000005067",
+      "tier": "core",
+      "topics": [
+        "General Trauma",
+        "Prehospital",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "prehospital",
+          "strength": "weak",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42240268/"
+    },
+    {
+      "pmid": "42240221",
+      "title": "Authors' response to: Shigeki Matsubara: Beyond formatted criteria: Letter to the Editor to \"Why research articles in acute care surgery get rejected: 10 critical mistakes to avoid\".",
+      "abstract": "",
+      "journal": "J Trauma Acute Care Surg",
+      "authors": [
+        "Stahel PF",
+        "Ziran N",
+        "Butler N",
+        "Coimbra R"
+      ],
+      "date": "2026 Jun 04",
+      "doi": "10.1097/TA.0000000000005083",
+      "tier": "core",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42240221/"
+    },
+    {
+      "pmid": "42240176",
+      "title": "Repositioning for pressure injury prevention in adults.",
+      "abstract": "**RATIONALE**: Pressure injuries (or pressure ulcers) are localised damage to skin or tissue (or both) occurring over bony prominences, resulting from prolonged pressure or shear forces (or both). Adults receiving care in any healthcare setting can develop pressure injuries. Immobility, malnutrition, and reduced sensation are some known risk factors. Regular repositioning is a theoretically sound prevention strategy that is part of standard patient care. This is the second update of a review published in 2014 and updated in 2020.\n\n**OBJECTIVES**: To evaluate the benefits and harms, and cost-effectiveness, of repositioning regimens (i.e. repositioning frequencies, position, micromovement) for pressure injury prevention in adults in acute, long-term, or aged healthcare settings, compared to standard care or another repositioning regimen.\n\n**SEARCH METHODS**: To identify studies for inclusion in the review, we searched the Cochrane Central Register of Controlled Trials, Ovid MEDLINE, Embase, EBSCO CINAHL Plus, and trial registries on 7 May 2025. We also scanned the reference lists of included studies, reviews, meta-analyses, and health technology reports.\n\n**ELIGIBILITY CRITERIA**: We included randomised controlled trials that assessed the effects of any repositioning regimen and measured pressure injury incidence in adults (at least 18 years of age) without an existing pressure injury, in any acute, long-term, or aged healthcare setting.\n\n**OUTCOMES**: The primary outcome was the cumulative incidence of pressure injuries (any category/stage). Secondary outcomes were health-related quality of life, procedural pain, patient satisfaction, pressure injury prevention and treatment costs, and incremental costs per pressure injury avoided.\n\n**RISK OF BIAS**: We assessed the risk of bias in the evidence using the Cochrane RoB 2 tool. We evaluated the certainty of the evidence using GRADE methodology and GRADEpro software.\n\n**SYNTHESIS METHODS**: Seven review authors were involved in independently undertaking study selection, data extraction, and RoB and GRADE assessment. All outcomes were binary and reported as risk ratios (RR) with 95% confidence intervals (CI). We pooled data using the fixed-effect or random-effects model, depending on clinical and methodology heterogeneity.\n\n**INCLUDED STUDIES**: We found three new trials. This 2026 update of the review therefore includes 11 trials, which were conducted in acute and aged healthcare settings, and involved 4462 participants aged 18 to 90 years. No new economic substudies were identified, so our cost analysis is based on the two economic evaluations that were included in the previous version of the review.\n\n**SYNTHESIS OF RESULTS**: Primary outcome: incidence of new pressure injury (any category/stage) Repositioning frequencies Five trials evaluated different repositioning frequencies in intensive care unit (ICU) and nursing home settings. We pooled the results of four trials that compared 2- versus 4-hourly repositioning (RR 1.05, 95% CI 0.79 to 1.39; 4 trials, 1104 participants), but we judged the certainty of the evidence as very low. There were three other comparisons of repositioning frequencies: 2-hourly versus 3-hourly (RR 1.10, 95% CI 0.30 to 4.08; 3 trials, 795 participants); 3-hourly versus 4-hourly (RR 0.99, 95% CI 0.22 to 4.43; 3 trials, 776 participants); and 4-hourly versus 6-hourly (RR 0.73, 95% CI 0.53 to 1.02; 1 trial, 129 participants). We judged the certainty of the evidence for these results as very low. Therefore, for comparisons of different repositioning frequencies, the evidence is very uncertain. One trial evaluated real-time wearable patient sensor data with visual reminders for 2-hourly repositioning compared to standard care (real-time patient sensor data without visual reminders and with nurse-initiated repositioning) in 1226 ICU patients. The study reported a significant reduction in pressure injuries with the visual warnings from the sensors (RR 0.28, 95% CI 0.10 to 0.75). We judged the certainty of this evidence as moderate. Position Four trials evaluated patient position. Two of the trials compared 30\u00b0 tilt (and 3-hourly repositioning overnight) versus 90\u00b0 tilt (and 6-hourly repositioning overnight) in acute and nursing home patients. We pooled their data and found an RR of 0.62 (95% CI 0.10 to 3.97; 2 trials, 252 participants), but we judged the certainty of this evidence as very low. One trial (120 participants) compared 30\u00b0 and 45\u00b0 tilts with 'usual care' in three ICUs and reported no pressure injuries in either trial arm, but we judged the certainty of this evidence as very low. One trial (116 participants) compared prone versus supine positioning in ICU patients, and found there may be higher pressure injury incidence in the prone group (RR 4.55, 95% CI 2.31 to 8.98). We judged the certainty of this evidence as low. Micromovement We pooled two trials comparing micromovement with standard care (silicone foam dressing) in operating rooms. The results suggested a reduction in pressure injuries with micromovement (RR 0.28, 95% CI 0.11 to 0.67; 2 trials, 477 participants), but the number of events was low. We judged the certainty of the evidence as low. Secondary outcomes No trials reported health-related quality of life, procedural pain, or patient satisfaction. Cost analysis Two trials, both conducted in nursing homes, included parallel economic evaluations. One compared costs of 2-hourly repositioning (321 participants) versus 3-hourly (326 participants) and 4-hourly (295 participants) schedules, with costs being $11.05 and $16.74 (Canadian dollars) less per resident per day for the 3- and 4-hourly regimens, respectively. The other compared 3-hourly repositioning using a 30\u00b0 tilt versus standard care (6-hourly with a 90\u00b0 lateral rotation) in 213 participants. It found that the intervention was cost-effective (EUR 206.60 versus 253.10, incremental difference EUR 46.50, 95% CI 1.25 to 74.60), with a projected annual saving of EUR 512,800 (equating to 21,462 nursing-care hours).\n\n**AUTHORS' CONCLUSIONS**: Repositioning is a frequently used strategy for pressure injury prevention in adult patients in acute, long-term, and aged healthcare settings. This updated review includes three new trials, but the findings and conclusions align with our earlier reviews. Most of the evidence is of low or very low certainty. There is a lack of robust evaluation of repositioning regimens for pressure injury prevention, and studies are small, resulting in uncertainty about the review findings. There are limited economic evaluation data, making it difficult to reach reliable conclusions about the relative costs of different repositioning regimens.\n\n**FUNDING**: None REGISTRATION: Protocol (2012) DOI: 10.1002/14651858.CD009958.",
+      "journal": "Cochrane Database Syst Rev",
+      "authors": [
+        "Latimer SL",
+        "Chaboyer WP",
+        "Probst S",
+        "Thalib L",
+        "Palipana D",
+        "Lapkin S",
+        "McInnes E",
+        "Downes MJ",
+        "Gillespie BM"
+      ],
+      "date": "2026 Jun 04",
+      "doi": "10.1002/14651858.CD009958.pub4",
+      "tier": "filtered",
+      "topics": [
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "injury prevention",
+          "strength": "strong",
+          "topic": "Systems/QI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42240176/"
+    },
+    {
+      "pmid": "42238566",
+      "title": "Fast decisions, clear guidance: a qualitative study of trauma aid design.",
+      "abstract": "**OBJECTIVES**: Although trauma clinical guidance has the potential to improve patient outcomes significantly, it is applied inconsistently across the USA today. Work is needed to improve guidance application among those who treat traumatic injury, including emergency medicine (EM) clinicians. A priority step of such improvement is the visual design of clinical directives, as it can markedly influence EM clinicians' satisfaction and subsequent usage of guidance. This qualitative study aims to analyze EM clinicians' needs and preferences for the visual design of trauma clinical guidance.\n\n**METHODS**: As part of a larger exploratory sequential mixed-methods study exploring trauma clinical guidance barriers and facilitators, we conducted semistructured video conference interviews during August and September 2024 with EM clinicians. Participants were selected through purposeful criteria and snowball sampling to ensure diverse representation across professional and personal characteristics. Interviews were audio recorded and analyzed through rapid qualitative content analysis.\n\n**RESULTS**: 12 EM clinicians completed interviews, providing feedback on their preferences for the visual design of trauma clinical guidance. Clinicians emphasized the need for simple guidance that can be easily used in a time-pressured setting. Dynamic features such as expandable or \"clickable\" content can provide deeper explanations of guidance concepts without compromising usability. Flowsheets and visual aids can clarify guidance recommendations. Clinicians asked that recommendations be specific and action-oriented.\n\n**CONCLUSION**: When designing trauma clinical guidance, authors should promote visual design characteristics that prioritize simplicity, dynamic features, visual aids, and specificity.\n\n**LEVEL OF EVIDENCE**: Level III.",
+      "journal": "Trauma Surg Acute Care Open",
+      "authors": [
+        "Fountain L",
+        "Corredera-Wells K",
+        "Cozzi N",
+        "Goodloe JM",
+        "Guido JM",
+        "Johnson A",
+        "Kang CS",
+        "McNally T",
+        "Nevedal A",
+        "Winslow JE",
+        "Zavala Wong G",
+        "LaGrone L"
+      ],
+      "date": "2025 Jan 1",
+      "doi": "10.1186/s13012-021-01111-5",
+      "tier": "core",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "weak",
+          "topic": "General Trauma"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42238566/"
+    },
+    {
+      "pmid": "42237186",
+      "title": "Best practices on blood and blood products for a prehospital hemorrhage protocol: consensus from the 2025 Canadian prehospital transfusion summit.",
+      "abstract": "**BACKGROUND**: Blood transfusion is increasingly recognized as a critical component of prehospital resuscitation. However, Canada's vast geography, environmental extremes, and regional variation in health systems present unique challenges to standardized implementation of prehospital hemorrhage protocols (PHPs). The 2025 Canadian Prehospital Transfusion Summit (CPTS), convened by the Canadian Prehospital and Transport Transfusion (CAN-PATT) network, sought to develop consensus-driven best practices for prehospital transfusion strategies across diverse transport environments.\n\n**METHODS**: A structured roundtable consensus process was held at CPTS 2025, bringing together over 50 subject matter experts from eight provinces, six different services/systems and a variety of operational roles to discuss the past, present and future direction of out-of-hospital blood transfusion in Canada. Key domains included: activation criteria, prioritization of blood components and adjuncts, product logistics, and rural/remote applicability. Recommendations were synthesized through iterative discussion, evidence review, and thematic analysis. Each recommendation was then voted upon until consensus was reached through all participants.\n\n**RESULTS**: Consensus was reached on core components of a national PHP. Red blood cells and tranexamic acid were identified as foundational therapies. Freeze-dried plasma and whole blood offer logistical and clinical advantages, particularly in rural and remote areas, while fibrinogen concentrate and prothrombin complex concentrate are valuable adjuncts when plasma is unavailable. Calcium supplementation and active hypothermia prevention were emphasized as essential. Barriers to implementation included short product shelf-life, storage infrastructure, and regulatory constraints. The group recommended development of a standardized Canadian prehospital transfusion dataset and national data registry.\n\n**CONCLUSIONS**: The panel produced 12 consensus statements based on the available evidence and expert opinion including activation criteria, prioritization of blood products and adjuncts, product logistics, and rural/remote applicability. These consensus statements establish the basis for safe and effective PHP practices in Canada.",
+      "journal": "Scand J Trauma Resusc Emerg Med",
+      "authors": [
+        "Peddle M",
+        "Greene A",
+        "Trojanowski J",
+        "Shih AW",
+        "Chang E",
+        "Nahirniak S",
+        "Pearson D",
+        "Prokopchuk-Gauk O",
+        "Martin D",
+        "Froh J",
+        "Musuka C",
+        "Seidl C",
+        "Lin Y",
+        "MacDonald S",
+        "Richards L",
+        "Farrell M",
+        "Miller D",
+        "Mack J",
+        "Da Luz L",
+        "Drennan IR",
+        "Singh K",
+        "Shingala D",
+        "Nolan B"
+      ],
+      "date": "2026 Jun 03",
+      "doi": "10.1007/s00068-024-02612-w",
+      "tier": "core",
+      "topics": [
+        "Haemorrhage",
+        "Prehospital"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "tranexamic acid",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "prothrombin complex",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "blood product",
+          "strength": "strong",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "blood transfusion",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "fibrinogen",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "prehospital",
+          "strength": "strong",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42237186/"
+    },
+    {
+      "pmid": "42236368",
+      "title": "Cranial CT scans rarely result in neurosurgical transfers in older adults over 80 years with acute head injuries: A retrospective cohort study.",
+      "abstract": "**PURPOSE**: Due to an ageing population and low threshold for imaging in older adults with acute head injuries, the resulting number of cranial CT scans continues to increase. While current clinical decision rules aim to identify all intracranial traumatic injuries, the clinical significance of these findings in older adults remains disputed. This study describes traumatic findings on CT imaging and neurosurgical care transfers of older adults with acute head injuries.\n\n**METHODS**: This retrospective cohort included patients \u2265\u00a065 years who received cranial CT imaging for an acute head injury in a single level-2 trauma center, without neurosurgical care available, between 2020-2024. Intracranial hemorrhage was classified as a minor or major lesion (i.e., with or without mass effect). The primary outcome measure, transfer rate to neurosurgical care, was compared between age groups 65-80 and >\u00a080. Secondary outcomes included hospital length of stay, anticoagulation reversal, 30-day readmission, and in-hospital and 90-day mortality.\n\n**RESULTS**: In 4581 included CT reports, minor and major traumatic cranial lesions were found in 315 (6.9%) and 88 (1.9%) patients, respectively. The prevalence of traumatic findings was comparable between age groups. Five out of 45 patients aged >\u00a080 with major lesions were transferred to neurosurgical care, compared to 15 out of 43 patients aged 65-80 (11.1% vs. 34.9%, p\u00a0=\u00a00.008). In univariate logistic regression, none of the patient baseline characteristics were significantly associated with neurosurgical transfer. There were no transfers reported in institutionalized and bedbound patients. Secondary outcomes did not differ between age groups, and 90-day mortality for patients with major lesions was 40.9%.\n\n**CONCLUSION**: While the prevalence of traumatic findings is comparable between older adults with an acute head injury aged 65-80 and >\u00a080, the rate of neurosurgical transfers for major lesions is lower for patients aged >\u00a080. Older adults with major lesions are at high risk of mortality, which may reflect restrictive management of traumatic intracranial lesions with increasing age and in patients with poor functional status.",
+      "journal": "Injury",
+      "authors": [
+        "Raats JH",
+        "Schuijt HJ",
+        "Kroes T",
+        "Hoogervorst ELJ",
+        "van der Velde D"
+      ],
+      "date": "2026 Jun 02",
+      "doi": "10.1016/j.injury.2026.113419",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Systems/QI",
+        "TBI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "head injury",
+          "strength": "strong",
+          "topic": "TBI"
+        },
+        {
+          "keyword": "intracranial haemorrhage",
+          "strength": "weak",
+          "topic": "TBI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42236368/"
+    },
     {
       "pmid": "42234116",
       "title": "Dislodgement forces and cost effectiveness of prehospital securement of peripheral intravenous catheters on moist skin: a randomized controlled clinical trial in healthy volunteers.",
@@ -1770,7 +2219,7 @@
     {
       "pmid": "42213793",
       "title": "External Validation of the SCARE Score for Predicting Acute Myocardial Infarction in Patients Calling Emergency Medical Communication Centers: A Prospective Multicenter Study.",
-      "abstract": "**OBJECTIVES**: Chest pain triage during emergency medical dispatch must balance early identification of acute myocardial infarction (AMI) with appropriate allocation of prehospital resources. Our objectives were to externally validate the SCARE score for discrimination of hospital-diagnosed AMI among adults hospitalized after Emergency Medical Communication Center (EMCC) calls for non-traumatic chest pain and to evaluate performance by sex.\n\n**METHODS**: This prospective observational multicenter study included adults hospitalized after an EMCC call for non-traumatic chest pain in four French physician-staffed EMCCs between October 2019 and February 2020. During calls, clinicians prospectively recorded standardized variables used to reconstruct the SCARE score retrospectively; the score was unavailable in real time and did not influence dispatch decisions. The primary analysis assessed the SCARE score's ability to discriminate hospital-diagnosed AMI adjudicated from hospital records according to the Fourth Universal Definition of Myocardial Infarction. Discrimination was assessed using the AUROC, with sex-stratified analyses as a secondary objective, and threshold-based test characteristics were additionally reported for the pre-specified high-risk threshold of >35 points. Calibration was explored using the Hosmer-Lemeshow test and Brier score.\n\n**RESULTS**: Among 2,042 analyzed patients, 265 (13.0%) had AMI. The SCARE score showed good discrimination, with an AUROC 0.85 (95% CI 0.82-0.87). Calibration appeared acceptable (Hosmer-Lemeshow p\u2009=\u20090.637; Brier score = 0.095). At the prespecified high-risk threshold of >35 points, sensitivity was 73.6% (95% CI 67.9-78.5), specificity 75.3% (95% CI 73.2-77.2), positive predictive value 30.8% (95% CI 27.3-34.5), and negative predictive value 95.0% (95% CI 93.7-96.0). AMI increased from 2.4% in the low-risk category to 31.0% in the high-risk category. In sex-stratified analyses, AUROC was 0.84 (95% CI 0.81-0.86) in men and 0.89 (95% CI 0.86-0.92) in women (DeLong p\u2009=\u20090.006).\n\n**CONCLUSIONS**: In this multicenter cohort of patients hospitalized with chest pain after calling a French EMCC, the SCARE score showed good discrimination for hospital-diagnosed AMI and may support prioritization of advanced prehospital resources. However, it should not be used as a stand-alone rule-out tool and does not address other life-threatening causes of chest pain. Prospective validation in all chest pain callers and in non-physician dispatch systems is needed.",
+      "abstract": "**OBJECTIVES**: Chest pain triage during emergency medical dispatch must balance early identification of acute myocardial infarction (AMI) with appropriate allocation of prehospital resources. Our objectives were to externally validate the SCARE score for discrimination of hospital-diagnosed AMI among adults hospitalized after Emergency Medical Communication Center (EMCC) calls for non-traumatic chest pain and to evaluate performance by sex.\n\n**METHODS**: This prospective observational multicenter study included adults hospitalized after an EMCC call for non-traumatic chest pain in four French physician-staffed EMCCs between October 2019 and February 2020. During calls, clinicians prospectively recorded standardized variables used to reconstruct the SCARE score retrospectively; the score was unavailable in real time and did not influence dispatch decisions. The primary analysis assessed the SCARE score's ability to discriminate hospital-diagnosed AMI adjudicated from hospital records according to the Fourth Universal Definition of Myocardial Infarction. Discrimination was assessed using the AUROC, with sex-stratified analyses as a secondary objective, and threshold-based test characteristics were additionally reported for the pre-specified high-risk threshold of >35 points. Calibration was explored using the Hosmer-Lemeshow test and Brier score.\n\n**RESULTS**: Among 2,042 analyzed patients, 265 (13.0%) had AMI. The SCARE score showed good discrimination, with an AUROC 0.85 (95% CI 0.82-0.87). Calibration appeared acceptable (Hosmer-Lemeshow \n\n**CONCLUSIONS**: In this multicenter cohort of patients hospitalized with chest pain after calling a French EMCC, the SCARE score showed good discrimination for hospital-diagnosed AMI and may support prioritization of advanced prehospital resources. However, it should not be used as a stand-alone rule-out tool and does not address other life-threatening causes of chest pain. Prospective validation in all chest pain callers and in non-physician dispatch systems is needed.",
       "journal": "Prehosp Emerg Care",
       "authors": [
         "Garrouste V",
@@ -1783,7 +2232,7 @@
         "Bouvier F",
         "Jouffroy R"
       ],
-      "date": "2026 May 29",
+      "date": "2026 Jun 04",
       "doi": "10.1080/10903127.2026.2677853",
       "tier": "filtered",
       "topics": [
@@ -2749,8 +3198,8 @@
     },
     {
       "pmid": "42202214",
-      "title": "Development and institutional implementation of a prehospital emergency care protocol for individuals with autism spectrum disorder.",
-      "abstract": "**OBJECTIVES**: Prehospital emergency environments are characterized by high sensory load, time pressure, and unpredictable dynamics - conditions that may exacerbate distress and behavioral dysregulation in individuals with Autism Spectrum Disorder (ASD). Despite increasing emergency service utilization among individuals with ASD, structured prehospital protocols tailored to their needs remain limited. To describe the development and institutional implementation of a prehospital emergency care protocol adapted for individuals with ASD within a state-level emergency medical service system.\n\n**METHODS**: A structured, multi-stage protocol development process was conducted between September 2023 and October 2024. The process included (1) targeted literature review on ASD-specific emergency care, (2) interdisciplinary expert meetings involving a psychologist, physician, ASD researcher, and emergency medical services trained firefighter, and (3) iterative refinement of operational procedures adapted from existing institutional standard operating protocols. Consensus was reached through structured discussions until full agreement was achieved among panel members. The final protocol was formally approved and implemented by the Santa Catarina Military Fire Department (Brazil) as an official Standard Operating Procedure (No. 03/2024).\n\n**RESULTS**: The resulting protocol provides operational guidance across five stages of prehospital care: emergency call triage, approach to scene, on-scene primary and secondary assessment, in-ambulance management, and transfer of care. Key components include sensory load reduction strategies, structured communication guidance, caregiver involvement, behavioral crisis management considerations, and environmental adaptations during transport. Institutional adoption enabled integration into routine training activities and operational workflows.\n\n**CONCLUSIONS**: To our knowledge, this study presents the first institutionally implemented state-level prehospital protocol in Brazil specifically designed for individuals with ASD. The protocol offers a structured, operationally feasible framework to improve safety, reduce sensory distress, and support emergency responders in managing neurodivergent patients. Future research should evaluate its impact on responder confidence, care quality, and patient-centered outcomes.",
+      "title": "Development and Institutional Implementation of a Prehospital Emergency Care Protocol for Individuals with Autism Spectrum Disorder.",
+      "abstract": "**OBJECTIVES**: Prehospital emergency environments are characterized by high sensory load, time pressure, and unpredictable dynamics - conditions that may exacerbate distress and behavioral dysregulation in individuals with Autism Spectrum Disorder (ASD). Despite increasing emergency service utilization among individuals with ASD, structured prehospital protocols tailored to their needs remain limited. To describe the development and institutional implementation of a prehospital emergency care protocol adapted for individuals with ASD within a state-level emergency medical service system.\n\n**METHODS**: A structured, multi-stage protocol development process was conducted between September 2023 and OCTOBER 2024. The process included (1) targeted literature review on ASD-specific emergency care (2), interdisciplinary expert meetings involving a psychologist, physician, ASD researcher, and emergency medical services trained firefighter, and (3) iterative refinement of operational procedures adapted from existing institutional standard operating protocols. Consensus was reached through structured discussions until full agreement was achieved among panel members. The final protocol was formally approved and implemented by the Santa Catarina Military Fire Department (Brazil) as an official Standard Operating Procedure (No. 03/2024).\n\n**RESULTS**: The resulting protocol provides operational guidance across five stages of prehospital care: emergency call triage, approach to scene, on-scene primary and secondary assessment, in-ambulance management, and transfer of care. Key components include sensory load reduction strategies, structured communication guidance, caregiver involvement, behavioral crisis management considerations, and environmental adaptations during transport. Institutional adoption enabled integration into routine training activities and operational workflows.\n\n**CONCLUSIONS**: To our knowledge, this study presents the first institutionally implemented state-level prehospital protocol in Brazil specifically designed for individuals with ASD. The protocol offers a structured, operationally feasible framework to improve safety, reduce sensory distress, and support emergency responders in managing neurodivergent patients. Future research should evaluate its impact on responder confidence, care quality, and patient-centered outcomes.",
       "journal": "Prehosp Emerg Care",
       "authors": [
         "Colonetti NS",
@@ -2759,7 +3208,7 @@
         "Freitas APS",
         "Gon\u00e7alves CL"
       ],
-      "date": "2026 May 27",
+      "date": "2026 Jun 03",
       "doi": "10.1080/10903127.2026.2680994",
       "tier": "filtered",
       "topics": [
@@ -4462,8 +4911,8 @@
     },
     {
       "pmid": "42149954",
-      "title": "Prehospital outcomes associated with an initial strategy of intranasal vs. intramuscular naloxone administration by EMS clinicians: a nationwide cohort study.",
-      "abstract": "**OBJECTIVES**: Previous studies have suggested that intranasal (IN) naloxone is less effective than intramuscular (IM) naloxone at reversing opioid toxicity but may result in a lower prevalence of precipitated withdrawal. Because limited real-world comparisons have been performed, we aimed to compare initial strategies of IM or IN naloxone administration by emergency medical services (EMS) clinicians using a nationwide dataset.\n\n**METHODS**: We included all adult (>18 years of age) patients in the 2023-2024 ESO Data Collaborative research datasets who received intranasal or intramuscular (IN or IM) naloxone from EMS following a 9-1-1 call. We used multilevel mixed-effects logistic regression with EMS agency as a random intercept to estimate the association between initial naloxone route and the outcomes of post-naloxone cardiac arrest, hypoxia (SpO\n\n**RESULTS**: We analyzed 16,550 patients treated by 1,481 EMS agencies, of whom 3,286 (20%) received their first dose of naloxone via the IM route. In comparison to patients treated with an initial strategy of IN administration, patients who received IM naloxone had lower odds of receiving additional naloxone (aOR: 0.39 [0.35, 0.44]), lower odds of receiving EMS transport (aOR: 0.82 [0.71, 0.95]), and higher odds of returning to a GCS >12 (aOR: 1.15 [1.01, 1.30]). The initial route of naloxone administration was not associated with the odds of cardiac arrest (aOR: 0.84 [0.57, 1.26]), hypoxia (aOR: 0.90 [0.80, 1.00]) return to a respiratory rate >12 (aOR: 1.02 [0.83, 1.26]), or treatment for nausea/vomiting (aOR: 0.97 [0.80, 1.17]) or agitation (aOR: 1.06 [0.81, 1.39]).\n\n**CONCLUSIONS**: In this large cohort, initial IM naloxone administration was associated with more favorable physiologic and operational outcomes compared with an initial IN strategy. Importantly, IM administration was not associated with increased EMS treatment for agitation or nausea/vomiting, which suggests no observed increase in precipitated withdrawal in the prehospital setting.",
+      "title": "Prehospital Outcomes Associated with an Initial Strategy of Intranasal versus Intramuscular Naloxone Administration by EMS Clinicians: A Nationwide Cohort Study.",
+      "abstract": "**OBJECTIVES**: Previous studies have suggested that intranasal (IN) naloxone is less effective than intramuscular (IM) naloxone at reversing opioid toxicity but may result in a lower prevalence of precipitated withdrawal. Because limited real-world comparisons have been performed, we aimed to compare initial strategies of IM or IN naloxone administration by emergency medical services (EMS) clinicians using a nationwide dataset.\n\n**METHODS**: We included all adult (>18\u2009years of age) patients in the 2023-2024 ESO Data Collaborative research datasets who received intranasal or intramuscular (IN or IM) naloxone from EMS following a 9-1-1 call. We used multilevel mixed-effects logistic regression with EMS agency as a random intercept to estimate the association between initial naloxone route and the outcomes of post-naloxone cardiac arrest, hypoxia (SpO\n\n**RESULTS**: We analyzed 16,550 patients treated by 1,481 EMS agencies, of whom 3,286 (20%) received their first dose of naloxone \n\n**CONCLUSIONS**: In this large cohort, initial IM naloxone administration was associated with more favorable physiologic and operational outcomes compared with an initial IN strategy. Importantly, IM administration was not associated with increased EMS treatment for agitation or nausea/vomiting, which suggests no observed increase in precipitated withdrawal in the prehospital setting.",
       "journal": "Prehosp Emerg Care",
       "authors": [
         "Smida T",
@@ -4472,7 +4921,7 @@
         "Joiner A",
         "Bardes J"
       ],
-      "date": "2026 May 18",
+      "date": "2026 Jun 03",
       "doi": "10.1080/10903127.2026.2673361",
       "tier": "filtered",
       "topics": [
@@ -4994,7 +5443,7 @@
         "Nolan B"
       ],
       "date": "2026 May 14",
-      "doi": "10.1186/s13049-026-01629-x",
+      "doi": "10.1016/s2352-3026(22)00040-0",
       "tier": "core",
       "topics": [
         "General Trauma",
@@ -7666,288 +8115,6 @@
       ],
       "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/42090794/"
-    },
-    {
-      "pmid": "42090008",
-      "title": "From fracture to joint injury: association between CT-based fracture characteristics and surgically treated non-bony injuries in tibial plateau fractures.",
-      "abstract": "**PURPOSE**: Tibial plateau fractures (TPF) are often associated with non-bony injuries that may impair knee stability and long-term outcomes. However, it remains unclear in which patients preoperative MRI is indicated to detect these injuries, and clear recommendations for surgical decision making are lacking. This study aimed to develop a CT-based predictor of surgically relevant non-bony injuries.\n\n**METHODS**: This retrospective single-center study included all intra-articular TPF treated between January 2022 and May 2025 at a Level I trauma center. Fractures were classified according to the 10-segment and three-column classifications. Operative reports were reviewed to identify non-bony injuries requiring surgical treatment. Descriptive statistics and multivariate logistic regression were performed to determine predictors of surgically relevant non-bony injuries.\n\n**RESULTS**: Among 243 patients (mean age 49,3 \u00b1 14,9 years), 34,6% had at least one surgically treated non-bony injury. Posterior column involvement was significantly associated with a higher injury rate (41,4%), particularly affecting meniscus (20,7%), Anterior cruciate ligament (ACL) (17,2%), and medial collateral ligament (MCL) (12,3%). The posterolateral-central (PLC) segment showed the highest segment-specific injury rate (37,6%) and was an independent predictor of ACL injury. Increasing fracture complexity was associated with a higher incidence of soft tissue injuries.\n\n**CONCLUSION**: TPF should be regarded as complex intra-articular injuries rather than simple bone fractures. This study provides a CT-based tool to identify fracture patterns associated with surgically relevant non-bony injuries. These findings may support indications for preoperative MRI, guide treatment strategies, and help prevent poor outcomes and post-traumatic osteoarthritis.",
-      "journal": "Eur J Trauma Emerg Surg",
-      "authors": [
-        "Neidlein C",
-        "Colcuc S",
-        "Ullerich F",
-        "Sch\u00f6llmann H",
-        "Steinhausen ES",
-        "Kr\u00f6pil P",
-        "Brinkmann N",
-        "Dudda M",
-        "Schoepp C"
-      ],
-      "date": "2026 May 06",
-      "doi": "10.1186/s12891-015-0633-z",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "trauma centre",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42090008/"
-    },
-    {
-      "pmid": "42089861",
-      "title": "Guardian Presence in Research Conducted on Children With Blunt Abdominal Trauma in the Emergency Department.",
-      "abstract": "",
-      "journal": "Acad Emerg Med",
-      "authors": [
-        "Ugalde IT",
-        "Badawy M",
-        "McCarten-Gibbs KA",
-        "Yen K",
-        "Ishimine P",
-        "Atigapramoj NS",
-        "Chaudhari PP",
-        "Tancredi DJ",
-        "Kuppermann N",
-        "Holmes JF"
-      ],
-      "date": "2026 May 1",
-      "doi": "10.1097/PCC.0000000000003551",
-      "tier": "filtered",
-      "topics": [
-        "Abdominal",
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "blunt abdominal",
-          "strength": "strong",
-          "topic": "Abdominal"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42089861/"
-    },
-    {
-      "pmid": "42089542",
-      "title": "Facial Trauma, To Transfer or Not to Transfer?",
-      "abstract": "",
-      "journal": "J Am Coll Surg",
-      "authors": [
-        "Shettig A",
-        "Nguyen PD",
-        "Jebbia M",
-        "Nahmias J"
-      ],
-      "date": "2026 May 06",
-      "doi": "10.1097/XCS.0000000000002024",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42089542/"
-    },
-    {
-      "pmid": "42087223",
-      "title": "Prehospital resuscitative endovascular balloon occlusion of the aorta in non-traumatic out-of-hospital cardiac arrest (REBOARREST): an international, multicentre, open label, pragmatic, randomised, controlled trial.",
-      "abstract": "**BACKGROUND**: Most patients with out-of-hospital cardiac arrest do not achieve sustained return of spontaneous circulation (ROSC). Resuscitative endovascular balloon occlusion of the aorta (REBOA) may increase blood pressure proximal to the ballon. If this technique is used during advanced life support (ALS), and occlusion is performed in the thoracic aorta, it may augment aortic pressure and coronary perfusion pressure. We investigated whether prehospital REBOA as an adjunct to ALS increased the rate of ROSC.\n\n**METHODS**: REBOARREST was a pragmatic, parallel-group, multicentre, randomised controlled trial conducted at 12 sites in Norway, Denmark, and Italy. Adult patients (18-80 years) with non-traumatic out-of-hospital cardiac arrest were randomly assigned (1:1) to either a control group that received ALS or to an intervention group that received ALS combined with REBOA as an adjunct. Fulfilment of eligibility criteria was determined by the physician on scene and sealed envelopes were used to allocate patients. The statistician that performed the analyses was blinded for group allocation. The primary outcome was sustained ROSC, defined as lasting\u2009\u2265\u200920\u00a0min, assessed in the intention-to-treat population.\n\n**RESULTS**: From June 7, 2021, to June 28, 2025, 200 patients were randomly assigned to the study groups. Due to lack of consent 21 patients dropped out of the trial, hence data from 179 patients are presented, 88 in the intervention group and 91 in the control group. Most patients were male (76%), with median age of 68 years (IQR 58-74). Median time from arrest to randomisation was 33\u00a0min (IQR 23-39) in the intervention group and 29\u00a0min (IQR 23-38) in the control group. Twenty-five of 88 patients (28%) in the intervention group and 24 of 91 patients (26%) in the control group achieved sustained ROSC (adjusted risk difference 1.8% [-11, 15, 95% CI], p\u2009=\u20090.78). Adverse events were registered in 19 patients.\n\n**CONCLUSIONS**: Among patients with non-traumatic out-of-hospital cardiac arrest, a strategy of prehospital deployment of REBOA as an adjunct to ALS was feasible but did not significantly improve rates of sustained ROSC compared to ALS alone. Deployment of prehospital REBOA is safe and manageable in a two-person team with low procedure time.\n\n**TRIAL REGISTRATION**: Clinicaltrials.gov ID NCT04596514. Registered 22.10.2020.",
-      "journal": "Crit Care",
-      "authors": [
-        "Brede JR",
-        "Farbu BH",
-        "Gamberini L",
-        "Thorsen K",
-        "Rehn M",
-        "Rogn\u00e5s L",
-        "T\u00f8nsager K",
-        "Sunde GA",
-        "Lauritzen M",
-        "Lupi C",
-        "Tartaglione M",
-        "Skjaerseth E\u00c5",
-        "Aaen M",
-        "Wiseth R",
-        "Kr\u00fcger AJ"
-      ],
-      "date": "2026 May 05",
-      "doi": "10.1186/s13054-026-06057-y",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Haemorrhage",
-        "Prehospital"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "traumatic",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "REBOA",
-          "strength": "weak",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "prehospital",
-          "strength": "strong",
-          "topic": "Prehospital"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42087223/"
-    },
-    {
-      "pmid": "42087166",
-      "title": "microGLYMPH: a conceptual translational roadmap for microdialysis\u2011based assessment of CSF-interstitial solute exchange in acquired brain injury.",
-      "abstract": "The glymphatic system facilitates cerebrospinal fluid (CSF)-interstitial fluid exchange and plays a key role in solute clearance and neurophysiological homeostasis. While dysfunction of this system has been shown in traumatic brain injury, stroke, meningitis, idiopathic normal pressure hydrocephalus and neurodegenerative diseases, direct measurement of glymphatic transport in humans remains elusive. We propose microGLYMPH as a translational, hypothesis-generating framework that combines established clinical cerebral microdialysis with controlled CSF tracer administration via existing clinical access routes, including an external ventricular drain, cisternal access during surgery, or lumbar intrathecal injection when clinically justified. The aim is to obtain time-resolved regional tracer profiles in microdialysate and to interpret these alongside arousal state, intracranial dynamics, and, where available, complementary imaging, thereby providing an indirect measure of CSF-interstitial exchange kinetics and peripheral tracer appearance. We further define the key design, analytical and practical limitations that must be resolved before the approach can extend beyond exploratory use, notably catheter-adjacent effects, blood-brain barrier disruption, drainage practices, and the intrinsically focal nature of microdialysis. microGLYMPH is therefore intended as a staged roadmap for first-in-human feasibility studies and subsequent hypothesis-driven investigations of neurofluid solute transport after acute brain injury.",
-      "journal": "Crit Care",
-      "authors": [
-        "Shanbhag NC",
-        "Zimphango C",
-        "Hecht N",
-        "Martin BA",
-        "Panotopoulos C",
-        "Bogossian EG",
-        "Taccone FS",
-        "Rubiano AM",
-        "Hutchinson PJ",
-        "Marklund N",
-        "Chen JW",
-        "Vajkoczy P"
-      ],
-      "date": "2026 May 05",
-      "doi": "10.1186/s13054-026-06063-0",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "TBI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "traumatic",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic brain injury",
-          "strength": "weak",
-          "topic": "TBI"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42087166/"
-    },
-    {
-      "pmid": "42085947",
-      "title": "Predictors and economic impact of potentially avoidable transfers in facial fractures among pediatric populations: A 15-year analysis.",
-      "abstract": "**BACKGROUND**: Transfers of children with minor injuries, rather than complex trauma requiring specialized care, create unnecessary strain on patients, families, and healthcare resources. While existing research has examined transfers for specific injury categories, our study comprehensively investigates the factors driving potentially avoidable transfers (PATs) among pediatric patients with diverse facial fracture presentations, as well as the economic impact associated with these transfers.\n\n**METHODS**: A retrospective analysis examined facial fractures in pediatric patients at our level I pediatric trauma center from 2006 to 2021. We defined Potentially Avoidable Transfers (PATs) as cases with hospital stays under 24\u00a0h, no admission, no surgery, and no emergency or specialized procedures post-transfer. We analyzed demographics, medical history, injury characteristics, associated injuries, treatments, and outcomes using logistic regression, chi-square, or Fisher's exact tests in Stata SE Software (Version 17.0, College Station, TX).\n\n**RESULTS**: Of 3334 pediatric patients identified, 3132 patients met inclusion criteria; of these, 1251 (40.1%) were transferred from a community hospital and 297 (23.7%) met our definition of a PAT. Potentially avoidable transfers were predominantly male (n\u00a0=\u00a0217, 73.1%) and 11\u00a0years of age on average. Key patient characteristics associated with PAT were lack of medical insurance (p\u00a0=\u00a00.004, OR\u00a0=\u00a01.83), age less than six years age (p\u00a0=\u00a00.007, OR\u00a0=\u00a01.98), and the presence of an orbital or mandible fracture (p\u00a0=\u00a00.001, OR\u00a0=\u00a01.83). A single PAT incurred a cost of $2125.90 at the receiving hospital, with most expenses resulting from imaging and laboratory tests.\n\n**CONCLUSIONS**: PATs impose substantial logistical and economic challenges for patients and healthcare systems. We propose developing transfer protocols to enhance clinical decision-making, potentially reducing unnecessary transfers while ensuring patient safety. Remote specialist consultation for pediatric patients could also optimize care by minimizing unwarranted transfers.",
-      "journal": "Am J Emerg Med",
-      "authors": [
-        "Cheng LG",
-        "Liu SX",
-        "Dhariwal A",
-        "Glenney AE",
-        "Ocasio-Nieves B",
-        "Somorin T",
-        "Kass NM",
-        "Dvoracek LA",
-        "David JA",
-        "Kueper J",
-        "Saladino RA",
-        "Goldstein JA"
-      ],
-      "date": "2026 Aug 1",
-      "doi": "10.1016/j.ajem.2026.04.007",
-      "tier": "filtered",
-      "topics": [
-        "Facial/Neck",
-        "General Trauma",
-        "Paediatric",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "trauma centre",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "paediatric trauma",
-          "strength": "weak",
-          "topic": "Paediatric"
-        },
-        {
-          "keyword": "facial fracture",
-          "strength": "weak",
-          "topic": "Facial/Neck"
-        },
-        {
-          "keyword": "mandibular fracture",
-          "strength": "weak",
-          "topic": "Facial/Neck"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42085947/"
-    },
-    {
-      "pmid": "42085909",
-      "title": "Frailty as defined by the comprehensive geriatric assessment frailty index (CGA-FI) is associated with in-hospital complications and mortality in geriatric hip fracture patients, A retrospective cohort study.",
-      "abstract": "**BACKGROUND**: Increased frailty is associated with higher rates of adverse events after hip fracture surgery. Unfortunately, considerable uncertainty remains about which tool or index best quantifies frailty and therefore the associated risk of complications following hip fracture surgery. This study tried to evaluate whether a Comprehensive Geriatric Assessment-Frailty Index could predict in-hospital complications following hip fracture surgery.\n\n**METHODS**: A retrospective cohort study was conducted among 1469 patients aged 70 years and older with an operatively managed hip fracture. Patients grouped according to their Comprehensive Geriatric Assessment-based Frailty Index: pre-frail to mildly frail and moderately to severely frail. The primary outcome was the occurrence of one or more complications. Secondary outcomes included specific complications, intensive care unit admission, length of stay and in-hospital mortality. Multivariable regression was used to adjust for confounders and presented as adjusted Odds Ratios (aOR).\n\n**RESULTS**: Moderately to severely frail was independently associated with an increased risk of having one or more complications (aOR 1.70, 95% CI=1.28-2.26, p\u00a0<\u00a00.001), urinary tract infection (aOR 2.12, 95% CI=1.01-4.47, p\u00a0<\u00a00.05), delirium (aOR 2.05, 95% CI=1.43-2.93, p\u00a0<\u00a00.001), in-hospital death (aOR 3.35, 95% CI=1.00-11.26, p\u00a0=\u00a00.05) and 1-year mortality (aOR 1.75, 95% CI=1.23-2.51, p\u00a0=\u00a00.002).\n\n**CONCLUSION**: A Comprehensive Geriatric Assessment-based Frailty Index is a useful tool to predict in-hospital complications, in-hospital mortality and 1-year mortality in geriatric hip fracture patients. This tool provides useful information about a patient's frailty, enables early risk stratification, and has the potential to support physicians, patients and healthcare proxies in shared decision-making and setting individualized postoperative expectations.\n\n**LEVEL OF EVIDENCE**: Prognostic, level III.",
-      "journal": "Injury",
-      "authors": [
-        "Rossum du Chattel AMV",
-        "Laane DWPM",
-        "Aydin FB",
-        "DiStefano MT",
-        "Hu R",
-        "Gonzalez MR",
-        "Wignakumar T",
-        "Javedan H",
-        "Weaver MJ"
-      ],
-      "date": "2026 Apr 10",
-      "doi": "10.1016/j.injury.2026.113270",
-      "tier": "filtered",
-      "topics": [],
-      "keyword_matches": [],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42085909/"
     }
   ]
 }
