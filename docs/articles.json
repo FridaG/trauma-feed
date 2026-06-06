@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-05T21:17:43.096782Z",
-  "total_articles": 200,
+  "generated": "2026-06-06T20:54:45.585935Z",
+  "total_articles": 201,
   "all_topics": [
     "Abdominal",
     "Burns",
@@ -379,6 +379,296 @@
   },
   "articles": [
     {
+      "pmid": "42249495",
+      "title": "The effects of mechanical ventilation during v-a ecmo support: a systematic review.",
+      "abstract": "**BACKGROUND**: Mechanical ventilation is routinely used during veno-arterial extracorporeal membrane oxygenation (V-A ECMO), but its role in influencing hemodynamics and supporting cardiac recovery remains poorly understood. This systematic review aims to summarize and describe studies that investigated the effects of mechanical ventilation settings and adjunctive respiratory interventions on cardiac function, recovery, and clinical outcomes in V-A ECMO patients.\n\n**METHODS**: A systematic search in literature up to June 6th 2025 was conducted to identify studies assessing the effects of ventilation strategies or hypoxemia-rescue therapies on physiological and clinical outcomes in adults supported by V-A ECMO or in animal V-A ECMO models. Because of anticipated heterogeneity across studies, we refrained from pooling of results.\n\n**RESULTS**: Out of 5,750 records screened, 12 studies met the inclusion criteria (10 clinical, 1 experimental, 1 computational). Four studies in humans observed that lower driving and peak inspiratory pressures, along with reduced respiratory rates, were associated with improved survival in V-A ECMO patients. One study found that moderate positive end-expiratory pressure (PEEP) conveyed protective effects on the lungs without compromising cardiac function, whereas excessive PEEP impaired systolic function without causing systemic hypotension. A computational study suggested that higher intrathoracic pressures may have cardioprotective effects by unloading the left ventricle and reducing myocardial oxygen demand. Very limited studies have explored adjunctive ventilation strategies, including inhaled nitric oxide and defined oxygenation targets during V-A ECMO, exhibiting at least a moderate risk of bias.\n\n**CONCLUSIONS**: Evidence on the effects of mechanical ventilation during V-A ECMO on cardiac function, recovery and clinical outcomes is limited, heterogeneous, and at considerable risk of bias. Well-designed mechanistic and interventional studies are needed to determine whether ventilation strategies can support myocardial recovery and facilitate successful V-A ECMO weaning.",
+      "journal": "Crit Care",
+      "authors": [
+        "Protti I",
+        "Di Tomasso N",
+        "Meani P",
+        "Ter Horst M",
+        "Grasselli G",
+        "Juffermans NP",
+        "Jonkman AH",
+        "Meuwese CL"
+      ],
+      "date": "2026 Jun 05",
+      "doi": "10.1186/s13054-026-06111-9",
+      "tier": "filtered",
+      "topics": [
+        "Cardiac Arrest"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "ECMO",
+          "strength": "strong",
+          "topic": "Cardiac Arrest"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42249495/"
+    },
+    {
+      "pmid": "42248731",
+      "title": "Prevalence and presenting symptoms of intracranial hemorrhage in older adults presenting with subacute head injuries in a level-2 trauma center: A retrospective cohort study.",
+      "abstract": "**INTRODUCTION**: Due to our ageing population, the incidence of subacute head injuries such as chronic subdural hematoma is increasing. As current clinical decision rules regarding CT imaging are in context of acute head injuries, it remains unclear what presenting symptoms of subacute (>48\u00a0h after initial trauma) head injuries in older adults are relevant for clinical practice. To aim of this study is to describe the prevalence of traumatic intracranial hemorrhage in older adults presenting to the emergency department with subacute head injuries and identify symptoms associated with traumatic ICH.\n\n**METHODS**: This retrospective cohort included patients >\u00a065 years who underwent CT imaging for subacute head injuries in the emergency department of a single level-2 trauma center between 2020-2024. The primary outcome was traumatic ICH. Secondary outcomes included hospital length of stay, anticoagulation reversal, neurosurgical intervention, and 90-day mortality.\n\n**RESULTS**: 374 patients were included, with a mean age of 79.1 (SD 6.7) and 170 (54.5%) were male. 62 (16.6%) patients had ICH, of which 40 (68%) were large lesions with mass effect or epidural hematoma. In patients with ICH, median hospital length of stay was 7 (IQR 4- 11) days, 8/18 (44%) anticoagulated patients received pharmacological reversal, 25 (40%) received neurosurgical intervention, and five (8%) died within 90 days. Prior CT images were available from <\u00a048\u00a0h post-injury for 20 (32%) patients with ICH, of which 14 (70%) already reported ICH. Symptoms associated with ICH were headache (aOR 2.90, 95%CI 1.60-5.24), vomiting (aOR 2.57, 95%CI 1.25-5.28), focal neurological deficits (aOR 5.82, 95%CI 2.98-11.37), and gait disorders (aOR 3.54, 95%CI 1.94-6.45). ICH was more common in patients presenting >\u00a030 days (aOR 4.19, 95%CI 1.99-8.82).\n\n**CONCLUSION**: The prevalence of traumatic intracranial hemorrhage is relatively high in older adults with subacute head injuries, which despite a high rate of neurosurgical interventions has a generally favorable prognosis. Presenting symptoms such as headache, vomiting, neurologic deficits and gait disorders are often evident. These findings may also argue for a wait-and-see approach in older adults with acute head injuries.",
+      "journal": "Injury",
+      "authors": [
+        "Raats JH",
+        "Schuijt HJ",
+        "Hoogervorst ELJ",
+        "Velde DV"
+      ],
+      "date": "2026 Jun 04",
+      "doi": "10.1016/j.injury.2026.113417",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Systems/QI",
+        "TBI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "strong",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "head injury",
+          "strength": "strong",
+          "topic": "TBI"
+        },
+        {
+          "keyword": "intracranial haemorrhage",
+          "strength": "strong",
+          "topic": "TBI"
+        },
+        {
+          "keyword": "subdural haematoma",
+          "strength": "weak",
+          "topic": "TBI"
+        },
+        {
+          "keyword": "epidural haematoma",
+          "strength": "weak",
+          "topic": "TBI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42248731/"
+    },
+    {
+      "pmid": "42248730",
+      "title": "The use of temporary intravascular shunting to improve resource utilization is safe and effective for penetrating peripheral vascular trauma.",
+      "abstract": "**BACKGROUND**: Temporary Intravascular Shunting (TIVS) is well described in peripheral vascular trauma, typically for orthopedic fixation or damage control. Due to a high volume of penetrating trauma, our urban Level 1 trauma center began utilizing TIVS frequently to minimize resource constraints. Our hypothesis is that TIVS is not inferior to immediate repair.\n\n**METHODS**: Penetrating peripheral arterial injuries were identified from the institutional trauma registry from 5/2018-8/2024. Patients were categorized as having undergone immediate repair (ImR) vs delayed repair (DR), following TIVS placement. The DR group was further divided into resource utilization (DR-RU) and damage control (DR-DC) subgroups. DR-RU included patients receiving <\u00a06 units of packed red blood cells intraoperatively, with a final intraoperative lactate <\u00a05.0\u00a0mmol/L, and no other body cavity explored. DR-DC included shunted patients not meeting these criteria. The DR-RU subgroup was compared to both ImR and DR-DC using univariable tests.\n\n**RESULTS**: Of 228 patients included, 118 were in the ImR group, 47 in the DR-RU subgroup, and 63 in the DR-DC subgroup. Trauma surgeons performed 76% of the ImR, 99% of the TIVS and 97% of the definitive repairs in the DR group. Median shunt dwell time was 12.9\u00a0h (IQR 9.7-17.7) in the DR-RU group. When comparing ImR to DR-RU respectively, there was no statistically significant difference detected in vascular complications requiring reoperation (22% vs 13%, p\u00a0=\u00a00.206), compartment syndrome (8% vs 2%, p\u00a0=\u00a00.332), amputation (3% vs 0%, p\u00a0=\u00a00.726) or mortality (1% vs 0%, p\u00a0=\u00a01.000).\n\n**CONCLUSION**: TIVS to improve resource utilization is safe for penetrating peripheral arterial injuries when both shunting and definitive repair are performed by trauma surgeons.",
+      "journal": "Injury",
+      "authors": [
+        "Strobl HV",
+        "Coopwood CK",
+        "Bolaji T",
+        "McKinley WI",
+        "Hoefer LE",
+        "Polcari AM",
+        "Dowzicky PM",
+        "Zakrison TL",
+        "Cone JT",
+        "Prakash PS",
+        "Rowell SE",
+        "Wilson KL",
+        "Rogers SO",
+        "Haddad DN",
+        "Benjamin AJ",
+        "Hatchimonji JS",
+        "Khan AD"
+      ],
+      "date": "2026 Jun 02",
+      "doi": "10.1016/j.injury.2026.113414",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Haemorrhage",
+        "Orthopaedic",
+        "Penetrating",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "penetrating trauma",
+          "strength": "weak",
+          "topic": "Penetrating"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "damage control",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "packed red blood cells",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "compartment syndrome",
+          "strength": "weak",
+          "topic": "Orthopaedic"
+        },
+        {
+          "keyword": "trauma registry",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42248730/"
+    },
+    {
+      "pmid": "42248062",
+      "title": "The use of external fixation in the treatment of nonunion and malunion of the upper extremity.",
+      "abstract": "**BACKGROUND**: Nonunion and malunion of upper extremity fractures are uncommon but challenging complications, particularly when associated with infection, deformity, or multiple previous operations. Although internal fixation remains the standard treatment, external fixation based on Ilizarov principles offers advantages in complex situations including infection control, deformity correction, and gradual bone reconstruction. This study evaluates the indications, surgical technique, and outcomes of external fixation as a definitive treatment for nonunion and malunion of the upper extremity.\n\n**METHODS**: A retrospective study was conducted including patients treated for nonunion or malunion of humeral and forearm fractures using external fixation as the definitive method of treatment. Hybrid or circular frames were applied according to fracture location. Corticotomy and gradual deformity correction were performed following the principles of Ilizarov and the law of tension-stress. Patients were evaluated clinically and radiographically for union, deformity correction, pain, function, and complications.\n\n**RESULTS**: A total of 45 patients were included, consisting of 7 malunions, 8 aseptic nonunions, and 30 septic nonunions. Patients' ages ranged from 6 to 62 years. The mean time from injury to definitive treatment was 29.7 months. The average external fixation time was 7.9 months and mean follow-up was 38.7 months. Complete radiological union was achieved in all cases. Mechanical alignment was restored in most patients, with minor residual humeral varus (<10\u00b0) in five cases. The mean VAS pain score was 2.1 and mean patient satisfaction score was 8.7. Superficial Pin-tract infection occurred in patients but was successfully managed with local care and antibiotics.\n\n**CONCLUSION**: External fixation using Ilizarov principles represents an effective promising and reliable treatment for upper extremity nonunion and malunion. It allows simultaneous infection control, deformity correction, and bone healing without the need for bone grafting, particularly in complex cases with poor bone stock or multiple previous operations.",
+      "journal": "Injury",
+      "authors": [
+        "Al Ashhab MGED",
+        "Abdelnaser A",
+        "Elashhab AM",
+        "Elmesalamy N",
+        "Hosny G"
+      ],
+      "date": "2026 Jun 03",
+      "doi": "10.1016/j.injury.2026.113397",
+      "tier": "filtered",
+      "topics": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42248062/"
+    },
+    {
+      "pmid": "42248061",
+      "title": "Analysing geospatial variables in the context of trauma networks: A scoping review.",
+      "abstract": "**BACKGROUND**: Trauma is a leading cause of preventable death and disability worldwide. Although nearly 90% of trauma-related mortality occurs in low- and middle-income countries, current reports on emergency medical care often come from high-income countries with fewer resource constraints. This scoping review investigates which geospatial variables are measured and reported in trauma networks, how they are defined, characteristics of relevant studies, analytical software used, and existing gaps in the literature.\n\n**METHODS**: A search was conducted using PubMed, Embase, and Cochrane for studies published between 2004 and 2024. Data extracted included study characteristics, geospatial variables including prehospital time and distance, spatial access, transport modality, population measures, injury location, analytical methods, and patient outcomes such as mortality and injury severity. Descriptive analysis was performed, grouping studies according to key geospatial themes.\n\n**RESULTS**: A total of 13,908 studies were identified, of which 41 were included, spanning seventeen countries. Prehospital time was reported by nineteen studies where longer prehospital intervals, including delays in dispatch and transport, were consistently associated with worse outcomes. Fifteen studies evaluated patients beyond golden hour access to care, demonstrating increased prehospital mortality with longer transport distances, lower population densities, and limited infrastructure. Rural populations experienced reduced access and higher mortality; HEMS expanded access and was associated with improved survival.\u00a0Key gaps included variations in geospatial variable definitions, limited integration of dynamic factors such as infrastructure and traffic, inconsistent reporting of location data, and unclear criteria for HEMS utilisation.\n\n**CONCLUSION**: Geospatial variables are strongly associated with trauma system performance where shorter prehospital times and improved spatial access were linked to reduced mortality. Standardised geospatial measures, clear transport modality guidelines, and regionally appropriate trauma network design are needed to reduce geographic inequalities and optimise patient outcomes.",
+      "journal": "Injury",
+      "authors": [
+        "Harris M",
+        "Mosali T",
+        "Doyle F",
+        "Watts L"
+      ],
+      "date": "2026 Jun 03",
+      "doi": "10.1016/j.injury.2026.113402",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Prehospital",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "injury severity",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "HEMS",
+          "strength": "weak",
+          "topic": "Prehospital"
+        },
+        {
+          "keyword": "prehospital",
+          "strength": "weak",
+          "topic": "Prehospital"
+        },
+        {
+          "keyword": "preventable death",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42248061/"
+    },
+    {
+      "pmid": "42248060",
+      "title": "Validation of a novel osteoarticular fracture fragment decontamination-preservation system for delayed articular fracture reconstruction for limb preservation in a preclinical canine model pilot study.",
+      "abstract": "**INTRODUCTION**: This study tests the hypothesis that a novel decontamination-preservation system (DPS) could effectively eradicate relevant pathogens in contaminated, devascularized, extruded osteoarticular fracture fragments while preserving essential viable chondrocyte density (VCD) for joint reconstruction resulting in functional limb preservation.\n\n**METHODS**: With animal care and use committee approval, hounds were anesthetized for captive bolt-induced open bicondylar femoral fractures. One femoral condyle osteoarticular fragment was retrieved and randomly assigned to: Primary Bacterial Contamination (PBC) (n\u00a0=\u00a03 immediately processed using the DPS) or PBC+Secondary Methicillin-resistantStaphylococcus aureus(MRSA) Contamination (PBC+MRSA) (n\u00a0=\u00a03 directly inoculated with MRSA, incubated (24\u00a0h), then processed using the DPS). The injured limbs were stabilized with external skeletal fixators. One week following fracture, delayed joint reconstruction surgery was performed. Dogs were managed for pain and wound care, and assessed for safety (complete eradication of relevant pathogens) and efficacy (maintenance of VCD to allow for fracture healing and restoration of function, pain relief, and knee range-of-motion (ROM) to >80% of pre-operative levels).\n\n**RESULTS**: All retrieved osteoarticular fragments produced polymicrobial growth with all in the PBC+MRSA cohort including MRSA. The DPS eradicated all relevant pathogens in both cohorts. The induced-fracture was associated with significantly lower VCD (p\u00a0\u2264\u00a0.022) when compared to healthy-controls. Mean %Healthy-Control VCD for in situ fragments was 71.6% and for DPS fragments was 65.7% (p\u00a0=\u00a0.59). Radiographic fracture healing was documented in all knees by 3 months postoperatively. Function, pain, and ROM were restored to >80% of pre-operative levels. CONCLUSIONRESULTS: provide initial evidence for use of a novel system that combines saline irrigation with 0.002% chlorhexidine immersion followed by shelf-stable point-of-care storage in MOPS\u00ae for decontaminating devascularized, contaminated, extruded osteoarticular fracture fragments while maintaining chondrocyte viability. Using this system, contaminated, devascularized, extruded osteoarticular fragments from type 3 open articular fractures were retained, stored for at least 7 days, and used as osteochondral autografts for subsequent joint reconstruction for safe and effective limb preservation in a preclinical canine model.",
+      "journal": "Injury",
+      "authors": [
+        "Cook JL",
+        "Della Rocca GJ",
+        "Bozynski CC",
+        "Stoker AM",
+        "Cook CR",
+        "Crist BD",
+        "Nuelle JAV"
+      ],
+      "date": "2026 May 31",
+      "doi": "10.1016/j.injury.2026.113401",
+      "tier": "filtered",
+      "topics": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42248060/"
+    },
+    {
+      "pmid": "42247809",
+      "title": "Racial disparities in traumatic injuries sustained in prison: A multicenter retrospective cohort study.",
+      "abstract": "**BACKGROUND**: Incarcerated individuals experience elevated injury rates, yet data on their injuries-particularly by race-are limited. This study aimed to describe racial differences in the occurrence, characteristics, and outcomes of traumatic prison injuries.\n\n**METHODS**: This retrospective cohort study included adult trauma patients admitted to five Level I trauma centers (01/2016-07/2022). Patients were categorized as non-Hispanic (NH-) White, Black, or Hispanic. The primary outcome was the proportion of prison injuries among all traumatic injuries. Secondary outcomes included length of stay (LOS), intensive care unit (ICU) admission, and discharge disposition.\n\n**RESULTS**: Among 53,872 trauma admissions, 187 (0.35%) occurred in prison. Black (0.8%) and Hispanic (0.4%) patients had a higher proportion of prison injuries than NH-White patients (0.3%) (p\u00a0<\u00a00.0001). After adjustment, Black [OR:2.34 (1.50-3.67)] and Hispanic patients [OR:1.44 (1.02-2.03)] had higher odds of sustaining prison injuries than NH-White patients. There was a trend towards Black patients suffering assaults more than Hispanic or NH-White patients (p\u00a0=\u00a00.06). NH-White patients (19.3%) sustained self-harm injuries significantly more than Black patients (0%), with no difference compared to Hispanic patients (10%). ICU admission was similar by race. Differences were observed in LOS and discharge disposition, Hispanic patients had the longest stays.\n\n**CONCLUSIONS**: Black and Hispanic patients had higher odds of having a prison injury than NH-White patients. NH-White patients suffered self-harm more than Black patients, whose most common cause of injury was assault. Differences in injury and discharge patterns suggest potential structural inequities in prisons and discharge practices.",
+      "journal": "Am J Emerg Med",
+      "authors": [
+        "Bar-Or D",
+        "Jarvis S",
+        "Acuna D",
+        "Berg G",
+        "Palacio C",
+        "McGuire E",
+        "Zaw-Mon C"
+      ],
+      "date": "2026 Jun 01",
+      "doi": "10.1016/j.ajem.2026.05.041",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "strong",
+          "topic": "General Trauma"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42247809/"
+    },
+    {
       "pmid": "42246954",
       "title": "Finally, a use for balloons: Extended automated endovascular support enhances closed-loop resuscitation in a porcine model of shock.",
       "abstract": "**BACKGROUND**: Endovascular Perfusion Augmentation for Critical Care (EPACC) is a method of dynamic aortic balloon catheter titration for precision hemodynamic support. EPACC has the potential to augment hemodynamics in conjunction with conventional resuscitation strategies. We previously described how even short periods of EPACC, along with an automated fluid and drug delivery system termed Precision Automated Critical Care Management (PACC-MAN) can reduce resuscitation requirements over the first few hours after severe ischemia-reperfusion injury (IRI). We sought to understand if an initial 180 minutes of EPACC+PACC-MAN can offset vasopressor requirements over 24 hours of critical care compared with PACC-MAN alone in an established IRI model.\n\n**METHODS**: Twelve swine underwent 30% hemorrhage, then 45 minutes of complete zone 1 aortic occlusion, inducing IRI and vasoplegia. Animals were then transfused to euvolemia and randomized to EPACC+PACC-MAN (180\u00a0min of dynamic partial aortic balloon pressure augmentation that autonomously adjusted based on the animal's physiology) or PACC-MAN automated critical care alone. Critical care lasted for 24 hours in both groups. Primary outcomes included duration of hypotension (mean arterial pressure <60\u00a0mm\u00a0Hg), hypertension (mean arterial pressure >70\u00a0mm\u00a0Hg), total crystalloid, and norepinephrine volumes. Secondary outcomes included lactate load, creatinine, urine output, biomarkers, and histopathology.\n\n**RESULTS**: Percent time spent in hypotension for EPACC+PACC-MAN versus PACC-MAN (3.10% vs. 3.75%, p=0.47) and hypertension (8.90% vs 5.58%, p=0.13) was not significantly different. Total crystalloid volume for EPACC+PACC-MAN versus PACC-MAN was not significant (198.3\u00a0mL/kg vs. 308.2\u00a0mL/kg, P=0.38). EPACC+PACC-MAN required significantly less norepinephrine during the study period (210.77\u00a0mcg/kg vs. 1102.0\u00a0mcg/kg, p=0.045).\n\n**CONCLUSION**: Supporting hemodynamics with EPACC to mitigate severe vasoplegia of initial resuscitation has a sustained effect on limiting vasopressor requirements in this 24-hour study, without compromising physiologic endpoints. Automation of endovascular devices may play an adjunctive role in managing severe shock states and augmenting autonomous resuscitation, particularly in resource-constrained care environments. (J Trauma Acute Care Surg 2026;00:000-000. Copyright \u00a9 2026 Wolters Kluwer Health, Inc. All rights reserved.).\n\n**LEVEL OF EVIDENCE**: Level IV.",
@@ -525,7 +815,7 @@
         "Freedman L"
       ],
       "date": "2026 Jun 1",
-      "doi": "10.1111/acem.70328",
+      "doi": "10.1097/aog.0000000000005804",
       "tier": "filtered",
       "topics": [
         "General Trauma",
@@ -7516,293 +7806,6 @@
       ],
       "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/42102768/"
-    },
-    {
-      "pmid": "42101680",
-      "title": "Small traumatic intracranial hemorrhages identified in routine radiology reports are associated with a low risk of adverse events: a retrospective cohort study.",
-      "abstract": "**PURPOSE**: To determine whether routinely available radiology reports, together with basic clinical data, can identify patients with traumatic intracranial hemorrhage (TICH) who are at low risk of adverse events.\n\n**METHODS**: This retrospective cohort study of adults with TICH in Region J\u00f6nk\u00f6ping, Sweden (2019-2021). Clinical data, findings from radiology reports and outcomes were extracted from medical records. Hemorrhage size was classified as small (\u2264\u20094\u00a0mm or described as minimal/very small/discrete) or larger. Adverse events were defined as neurosurgical intervention or death directly attributable to the TICH. Risk difference (RD), relative risk (RR), and Firth's penalized logistic regression were used to assess associations with adverse events.\n\n**RESULTS**: Among 527 included patients, 195 (37%) had small TICHs. None of these patients experienced adverse events, compared with 13.6% neurosurgical interventions and 13.0% trauma-related deaths in the group with larger TICHs (RD 24.5% points, 95% CI 18.4-29.6; RR 97.1, 95% CI 6.1-1557.1; p\u2009<\u20090.001). Small TICH size had the strongest association with absence of adverse events. Normal neurological status and GCS 14-15 were also associated with a low risk of adverse events. Anticoagulant or antiplatelet therapy showed no significant association with adverse events.\n\n**CONCLUSION**: Routinely available radiology reports, combined with basic clinical data, can identify a low-risk subgroup of patients with small TICHs. Hemorrhage size appears to be a useful factor for risk stratification, but the findings require internal and external prospective validation before implementation in clinical practice.",
-      "journal": "Eur J Trauma Emerg Surg",
-      "authors": [
-        "Gerd\u00e5s K",
-        "Wigermo A",
-        "Offenbartl M",
-        "Vestlund S",
-        "Rezk F",
-        "Vedin T"
-      ],
-      "date": "2026 May 08",
-      "doi": "10.1007/s00068-022-02016-8",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "TBI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "intracranial haemorrhage",
-          "strength": "weak",
-          "topic": "TBI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42101680/"
-    },
-    {
-      "pmid": "42100960",
-      "title": "Intravenous Tirofiban After Tenecteplase in Acute Ischemic Stroke: The INSTANT Randomized Clinical Trial.",
-      "abstract": "**IMPORTANCE**: Although recent trials have shown benefit with early tirofiban after thrombolysis, its efficacy remains uncertain in patients with acute ischemic stroke who do not have a large or medium vessel occlusion or a cardioembolic source and who show an inadequate clinical response to intravenous tenecteplase.\n\n**OBJECTIVE**: To assess the efficacy and safety of intravenous tirofiban administered after an inadequate response to intravenous tenecteplase in this specific patient population.\n\n**DESIGN, SETTING, AND PARTICIPANTS**: Investigator-initiated, randomized, double-blind, placebo-controlled trial conducted at 37 hospitals in China, enrolling 359 patients with acute ischemic stroke, without large or medium vessel occlusion or cardioembolic etiology, and with an insufficient clinical response to intravenous tenecteplase (defined as no significant change from baseline, neurological deterioration, or neurological fluctuation based on serial assessment of the National Institutes of Health Stroke Scale score within 4-24 hours after infusion). Recruitment took place between April 24, 2024, and July 16, 2025, with final follow-up on October 11, 2025.\n\n**INTERVENTIONS**: Intravenous tirofiban (n\u2009=\u2009177), administered as a 0.3-\u03bcg/kg/min bolus over 30 minutes, followed by a continuous infusion of 0.075 \u03bcg/kg/min for up to 47.5 hours, or matching placebo (n\u2009=\u2009182), initiated within 4 to 24 hours after intravenous tenecteplase. Oral antiplatelet therapy (aspirin and/or clopidogrel) was started 24 hours after thrombolysis in the placebo group and 44 hours after thrombolysis in the tirofiban group and continued in all patients through 90-day follow-up.\n\n**MAIN OUTCOMES AND MEASURES**: The primary outcome was an excellent outcome (defined as a score of 0 or 1 on the modified Rankin Scale; range, 0-6, with higher scores indicating more severe disability) at 90 days. Safety outcomes included incidence of symptomatic intracranial hemorrhage within 48 hours and 90-day mortality.\n\n**RESULTS**: Among 359 patients randomized (mean age, 66 years; 141 females [39.3%]), 358 (99.7%) completed the trial. An excellent outcome at 90 days was observed in 113 patients (63.8%) in the tirofiban group and in 95 patients (52.2%) in the placebo group (risk ratio, 1.22; 95% CI, 1.02-1.46; P\u2009=\u2009.03). Symptomatic intracranial hemorrhage within 48 hours occurred in 1 patient (0.9%) in the tirofiban group and no patients in the placebo group; 90-day mortality was 0.6% and 1.6%, respectively.\n\n**CONCLUSIONS AND RELEVANCE**: Among patients with acute ischemic stroke without large or medium vessel occlusion or a cardioembolic source who had an inadequate clinical response to intravenous tenecteplase, adjunctive intravenous tirofiban increased the likelihood of an excellent outcome at 90 days.\n\n**TRIAL REGISTRATION**: ClinicalTrials.gov Identifier: NCT05604638.",
-      "journal": "JAMA",
-      "authors": [
-        "Liu X",
-        "Zhang F",
-        "Zhang C",
-        "Li Z",
-        "Yuan G",
-        "Kong D",
-        "Xie S",
-        "Zhou M",
-        "Ye J",
-        "Lai Z",
-        "Li D",
-        "Xu H",
-        "Chen L",
-        "Cheng F",
-        "Shi Y",
-        "Chen B",
-        "Hu W",
-        "Liu H",
-        "Yin Y",
-        "Deng X",
-        "Xie Z",
-        "Li C",
-        "Shi J",
-        "Mei D",
-        "Liu B",
-        "Wang B",
-        "Zhou R",
-        "Liu J",
-        "Shen L",
-        "Hu H",
-        "Xiao G",
-        "Guan X",
-        "Yuan S",
-        "Lv X",
-        "Liang S",
-        "Zeng X",
-        "Chen Y",
-        "Cao W",
-        "Zheng C",
-        "Liu Y",
-        "Li J",
-        "Guan B",
-        "Lai T",
-        "Sun W",
-        "Zeng H",
-        "Zhang J",
-        "Li S",
-        "Sang H",
-        "Tang Y",
-        "Wang D",
-        "Lu M",
-        "Kaesmacher J",
-        "Yogendrakumar V",
-        "Pan S",
-        "Nogueira RG",
-        "Hong D",
-        "Goyal M",
-        "Thomalla G",
-        "Nguyen TN",
-        "Saver JL",
-        "Yang Q",
-        "Qiu Z",
-        "Zeng G"
-      ],
-      "date": "2026 May 08",
-      "doi": "10.1056/NEJMoa2214299",
-      "tier": "filtered",
-      "topics": [
-        "TBI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "intracranial haemorrhage",
-          "strength": "weak",
-          "topic": "TBI"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42100960/"
-    },
-    {
-      "pmid": "42099212",
-      "title": "Intravenous Tenecteplase Prior to Endovascular Treatment for Ischemic Stroke at 4.5 to 24 Hours: The TNK-PLUS Randomized Clinical Trial.",
-      "abstract": "**IMPORTANCE**: Whether intravenous tenecteplase prior to endovascular treatment (EVT) for ischemic stroke reduces disability in the late time window is unclear.\n\n**OBJECTIVE**: To investigate the adverse events and efficacy of tenecteplase prior to EVT in patients 4.5 to 24 hours after ischemic stroke onset due to proximal middle cerebral artery (MCA) occlusion.\n\n**DESIGN, SETTING, AND PARTICIPANTS**: Multicenter, phase 3, randomized, open-label, blinded end point, superiority trial conducted at 40 centers in China. Adult (\u226518 years) patients with acute ischemic stroke 4.5 to 24 hours after last known to be well due to MCA-M1 or proximal M2 occlusion with salvageable brain tissue (ischemic core volume <70 mL, mismatch ratio \u22651.8, and mismatch volume \u226515 mL) identified on computed tomography-perfusion or magnetic resonance-perfusion-diffusion imaging were enrolled from January 25, 2024, through July 21, 2025, and followed up for 90 days. Final follow-up occurred on October 14, 2025.\n\n**INTERVENTIONS**: Eligible patients were randomly assigned in a 1:1 ratio to receive intravenous tenecteplase (0.25 mg/kg; maximum dose, 25 mg) before EVT (n\u2009=\u2009199) or EVT alone (n\u2009=\u2009192).\n\n**MAIN OUTCOMES AND MEASURES**: The primary outcome was functional independence, defined as a score of 0 to 2 on the modified Rankin Scale (range, 0-6, with higher scores indicating greater disability) at 90 days. Adverse events outcomes included symptomatic intracranial hemorrhage and death.\n\n**RESULTS**: All of the 391 patients enrolled (median age, 68 years [IQR, 59-75]; 155 [39.6%] females) completed the trial. Functional independence at 90 days occurred in 88 patients (44.2%) in the tenecteplase before EVT group and 83 patients (43.2%) in the EVT alone group (adjusted relative rate, 1.01 [95% CI, 0.83-1.24]; P\u2009=\u2009.89; risk difference, 0.99% [95% CI, -8.84% to 10.83%]). Mortality within 90 days was 12.7% (25/197) in the tenecteplase before EVT group and 14.2% (27/190) in the EVT alone group. Symptomatic intracranial hemorrhage within 36 hours was 5.1% (10/197) and 2.6% (5/190), respectively.\n\n**CONCLUSIONS AND RELEVANCE**: In patients presenting to EVT-capable centers 4.5 to 24 hours after stroke onset with proximal MCA occlusion, intravenous tenecteplase before EVT did not improve clinical outcomes vs EVT alone.\n\n**TRIAL REGISTRATION**: ClinicalTrials.gov Identifier: NCT06221371.",
-      "journal": "JAMA",
-      "authors": [
-        "Xiong Y",
-        "Che F",
-        "Wang H",
-        "Hao M",
-        "Nguyen TN",
-        "Fisher M",
-        "Jin A",
-        "Cao Z",
-        "Wang Z",
-        "Yao X",
-        "Feng G",
-        "Xu Y",
-        "Guo S",
-        "Qin H",
-        "Huang X",
-        "Xu J",
-        "Chen Z",
-        "Yuan J",
-        "Li W",
-        "Hu W",
-        "Feng X",
-        "Zong L",
-        "Ye W",
-        "Duan C",
-        "Wang L",
-        "Wu S",
-        "Campbell BCV",
-        "Wang Y"
-      ],
-      "date": "2026 Jun 02",
-      "doi": "10.1056/NEJMoa1214300",
-      "tier": "filtered",
-      "topics": [
-        "TBI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "intracranial haemorrhage",
-          "strength": "weak",
-          "topic": "TBI"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42099212/"
-    },
-    {
-      "pmid": "42098869",
-      "title": "Prophylaxis of opioid-induced nausea in helicopter emergency medical service: a prospective quasi-experimental study.",
-      "abstract": "**OBJECTIVE**: In prehospital emergency medicine, opioids are usually used to treat acute traumatic pain. A common side effect of opioids is nausea. To prevent this, the prophylactic administration of 5-HT\n\n**METHODS**: Patients over the age of 16 who received opioid therapy due to acute traumatic pain by the crews of a total of six HEMS bases between February 2024 and April 2025 were prospectively included. Nausea prophylaxis after opioid-based pain therapy was performed according to a fixed rotating 7-day schedule: no nausea prophylaxis, medication-based nausea prophylaxis with ondansetron 4\u00a0mg intravenously, and aromatherapy-based nausea prophylaxis by inhalation of isopropanol. A nausea score was evaluated at the time of opioid administration and upon handover at the destination hospital, using a numeric rating scale (NRS) between 0 (no nausea) and 10 (maximum nausea). Primary endpoint was the change in NRS between the time before opioid administration and the time of patient handover at the emergency department. Secondary endpoints were incidence of moderate and severe nausea (defined as an NRS\u2009>\u20093), the incidence of vomiting during prehospital patient care and need of rescue medication (ondansetron for therapeutic use).\n\n**RESULTS**: A total of 205 patients were included in the analysis. Eighty-six in the \"no prophylaxis\" group, 64 in the ondansetron group, and 55 in the aromatherapy group. We found a median change in NRS of 0 (interquartile range 0-0) points across all groups. An increase in NRS was observed in 15% of patients in the no prophylaxis group, 14% in the ondansetron group, and 15% in the aromatherapy group. An NRS\u2009>\u20093 was observed in 14% of patients in the no prophylaxis group and in 11% of patients in both the ondansetron and aromatherapy groups. Vomiting occurred in 4% of patients in the no prophylaxis group, 2% in the ondansetron group, and in none of the aromatherapy group. Therapeutic administration of ondansetron was necessary in 4 patients in the \"no prophylaxis\" group and in one patient in the aromatherapy group. None of the patients experienced any improvement in nausea as a result, three of these patients from the \"no prophylaxis\" group vomited after ondansetron administration.\n\n**CONCLUSION**: Neither the prophylactic administration of ondansetron nor aromatherapy seem to be beneficial for the prevention of opioid-induced nausea in unselected patients in the setting of prehospital emergency medicine. Larger randomized controlled trials are needed to clarify whether certain subgroups may benefit.\n\n**TRIAL REGISTRATION**: Not applicable.",
-      "journal": "Scand J Trauma Resusc Emerg Med",
-      "authors": [
-        "Knapp J",
-        "Strohm R",
-        "Huber M",
-        "Albrecht R",
-        "Pietsch U"
-      ],
-      "date": "2026 May 07",
-      "doi": "10.1186/s13049-026-01626-0",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "Prehospital"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "traumatic",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "helicopter emergency",
-          "strength": "strong",
-          "topic": "Prehospital"
-        },
-        {
-          "keyword": "HEMS",
-          "strength": "weak",
-          "topic": "Prehospital"
-        },
-        {
-          "keyword": "prehospital",
-          "strength": "weak",
-          "topic": "Prehospital"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42098869/"
-    },
-    {
-      "pmid": "42098795",
-      "title": "Civilian penetrating traumatic brain injury in South-East Norway.",
-      "abstract": "**BACKGROUND**: Civilian penetrating traumatic brain injury (cpTBI) is a rare entity associated with severe and often devastating consequences. Guidelines recommend CT angiography (CTA), prophylactic antibiotics (AB) and antiseizure medication (ASM), early surgical revision with dural closure whenever feasible, and intracranial pressure (ICP)-guided therapy. The study aimed to investigate guideline compliance, as well as outcome after cpTBI for patients admitted to Oslo University Hospital (OUH).\n\n**METHODS**: We identified and included cpTBI patients admitted to OUH between 2015 and 2023 through the Oslo TBI Registry - Neurosurgery. Guideline adherence was assessed and variables associated with 30-day mortality and Glasgow Outcome Scale (GOS) were examined using standard uni- and multivariable techniques.\n\n**RESULTS**: The incidence of cpTBI was 1.9/1.000.000 with a 30-day mortality rate of 42.3%. Among the survivors, 70% achieved a favourable outcome (GOS 4 and 5) at 6 months. CTA was obtained at an acceptable rate (81%) in concordance with guidelines, but the guideline compliance for AB (12%) and ASM (29%) was substantially lower-than-expected. Surgery started within 12\u00a0h after injury in 58%, and ICP was monitored in 53.5% of patients with GCS\u2009<\u20099.\n\n**CONCLUSIONS**: Despite high mortality in cpTBI, most survivors achieved favourable outcome. We found a lower-than-expected guideline compliance for prophylactic AB and ASM, ICP monitoring, and surgical revision within 12\u00a0h. Thus, we identified several key factors that can improve cpTBI treatment at our institution. For patients considered potential survivors, management should be aggressive and aligned with established TBI treatment principles, including early vascular imaging with CTA, prompt wound debridement with dural closure, and prophylactic administration of AB and ASM.",
-      "journal": "Scand J Trauma Resusc Emerg Med",
-      "authors": [
-        "Aarhus M",
-        "Netteland DF",
-        "Tverdal C",
-        "Stenset V",
-        "R\u00f8nning P",
-        "Helseth E"
-      ],
-      "date": "2026 May 07",
-      "doi": "10.1186/s13049-026-01623-3",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "TBI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "traumatic",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic brain injury",
-          "strength": "strong",
-          "topic": "TBI"
-        },
-        {
-          "keyword": "ICP monitoring",
-          "strength": "weak",
-          "topic": "TBI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42098795/"
-    },
-    {
-      "pmid": "42098731",
-      "title": "Predictive value of carotid artery Doppler ultrasound for resuscitation outcomes in patients with cardiac arrest.",
-      "abstract": "**OBJECTIVE**: Carotid artery Doppler ultrasound, as a non-invasive monitoring method, offers higher clinical utility during cardiopulmonary resuscitation (CPR) compared to invasive techniques. This study aimed to investigate the application of real-time carotid Doppler ultrasound in CPR patients and analyze the predictive efficacy of waveform-derived parameters for return of spontaneous circulation (ROSC).\n\n**METHODS**: This prospective observational study consecutively enrolled adult patients who underwent CPR in the emergency department of a tertiary hospital in Zhejiang Province between March 2024 and March 2025. ROSC was defined as the first documented confirmation at a scheduled pulse/rhythm check, independent of Doppler findings. Patients were divided into ROSC and non-ROSC groups based on whether ROSC was obtained. Baseline characteristics and carotid Doppler parameters were analyzed to evaluate their prognostic value. Univariate analysis compared baseline characteristics, CPR data, and carotid Doppler parameters between groups. Receiver operating characteristic (ROC) curves were plotted to assess the predictive value of statistically significant indicators for ROSC.\n\n**RESULTS**: Among 51 patients (23 in the ROSC group, 28 in the non-ROSC group). Significant differences were observed in carotid blood flow parameters between groups, including VTI\u3001Vmax\u3001Vmin\u3001TAV\u3001MD*\u3001RI\u3001dv.MAX (all P\u2009<\u20090.05). ROC analysis showed AUC values of 0.811 (VTI), 0.758 (Vmax), 0.727 (Vmin), 0.751 (cMD*) and 0.72 (dv.MAX), with optimal cutoffs of 18.8 87.1,19, 2318 and 8.75, respectively. Because ROSC was adjudicated at scheduled pulse/rhythm checks, the prespecified 60-second Doppler window before documented ROSC may have partially overlapped with spontaneous rather than purely compression-generated flow.\n\n**CONCLUSION**: Carotid Doppler parameters (VTI\u3001Vmax\u3001Vmin\u3001TAV\u3001MD*\u3001RI\u3001dv.MAX) significantly differ between ROSC and non-ROSC groups. These parameters may provide objective hemodynamic insights during CPR. However, these findings should be interpreted cautiously because the Doppler window preceding documented ROSC may have partially included ROSC-transition flow; therefore, the results are exploratory and require prospective multicenter validation.",
-      "journal": "Scand J Trauma Resusc Emerg Med",
-      "authors": [
-        "Zhou S",
-        "Wang S",
-        "Xu S",
-        "Fang J",
-        "Zhang R",
-        "Yan D",
-        "Liu Y",
-        "Wang M",
-        "Wang Y"
-      ],
-      "date": "2026 May 07",
-      "doi": "10.1186/s13049-026-01620-6",
-      "tier": "core",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42098731/"
     }
   ]
 }
