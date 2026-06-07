@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-06T20:54:45.585935Z",
-  "total_articles": 201,
+  "generated": "2026-06-07T21:01:22.096691Z",
+  "total_articles": 200,
   "all_topics": [
     "Abdominal",
     "Burns",
@@ -378,6 +378,34 @@
     "Cochrane Database Syst Rev": "filtered"
   },
   "articles": [
+    {
+      "pmid": "42250466",
+      "title": "Antibiotic prophylaxis for preventing open fracture related infections - A scoping review.",
+      "abstract": "**PURPOSE**: The primary aim was to report available literature on antibiotic prophylaxis against open fracture-related infections, in populations with antimicrobial resistance patterns similar to Denmark's as reported by the European Antimicrobial Resistance Surveillance Network. Countries included: Denmark, Finland, Germany, Great Britain, Iceland, the Netherlands, Norway, and Sweden. A secondary aim was to compare Danish regional guidelines with these findings.\n\n**METHODS**: PubMed, Medline, and Embase were searched for studies published between January 1998 and March 2024. Danish guidelines were retrieved on May 7\n\n**RESULTS**: Out of 6492 studies, 120 were screened in full, and 19 were included for analysis. 9 studies recommended cephalosporins (primarily 1st and 2nd generations) for Gustilo-Anderson Grades I and II, while 10 studies supported further gram-negative coverage for Gustilo-Anderson grade IIIa-c fractures. One study found no significant benefit of antibiotic prophylaxis for reducing fracture-related infections. Danish guidelines varied: The Capital Region of Denmark recommends gram-negative coverage for all Gustilo-Anderson grades, whereas the Region of Southern Denmark and 10/19 studies only recommend it for Gustilo-Anderson grade IIIa-c fractures.\n\n**DISCUSSION**: This review identifies a lack of data on pathogens causing FRI in regions with similar antimicrobial resistance patterns according to the EARS-Net, complicating optimal antibiotic strategies. The variability of open fractures underscores the need for research to utilize the Gustilo-Anderson classification when planning the treatment regime, focusing on specific grades to improve targeted AP for preventing FRI. Furthermore, taking the cultures after sufficient surgical debridement. Future high-quality studies in populations with homogeneous antimicrobial resistance patterns are needed to optimize national AP protocols.",
+      "journal": "Injury",
+      "authors": [
+        "Krakau RB",
+        "Hamilton ND",
+        "Dastrup AS",
+        "Klein K",
+        "Dreyer CH"
+      ],
+      "date": "2026 Jun 04",
+      "doi": "10.1016/j.injury.2026.113415",
+      "tier": "filtered",
+      "topics": [
+        "Orthopaedic"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "open fracture",
+          "strength": "strong",
+          "topic": "Orthopaedic"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42250466/"
+    },
     {
       "pmid": "42249495",
       "title": "The effects of mechanical ventilation during v-a ecmo support: a systematic review.",
@@ -7739,73 +7767,6 @@
       ],
       "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/42105435/"
-    },
-    {
-      "pmid": "42104446",
-      "title": "Robotic surgery in colorectal emergencies: a systematic review of current evidence.",
-      "abstract": "**BACKGROUND**: Although laparoscopy continues to be the predominant minimally invasive approach in most emergency settings, the advantages of robotics, well established in elective surgery, are currently being explored in selected scenarios and specialized centres.\n\n**METHODS**: A systematic review was conducted using PubMed, Cochrane Library and Scopus databases until January 2025. Primary outcome was safety and feasibility of robotics in emergency colorectal surgery. Secondary endpoints included perioperative and postoperative outcomes.\n\n**RESULTS**: Fifteen articles were included with a total of 46 robotic emergency colorectal surgical procedures. Most were performed in a tertiary centre with a da Vinci system. Most common procedures were robotic right hemicolectomy for colon cancer and sigmoid colectomy for acute diverticulitis. Mean operating time for robotic right hemicolectomy was 134\u00a0min for benign cases and 241\u2009\u00b1\u20097\u00a0min for malignant cases; robotic sigmoid colectomy showed a mean operating time of 171\u2009\u00b1\u20093\u00a0min. No intraoperative complications were recorded. One case required conversion. Intracorporeal anastomosis was performed in most cases (n\u2009=\u200913). Mean length of stay was 5\u00a0days. No Clavien-Dindo grade\u2009\u2265\u20093 complications, reoperation or readmission were reported. Five complete mesocolic excisions (CMEs) were performed. Pathology outcomes were available for four CMEs: showing R0 resection with a mean lymph node harvest of 54\u2009\u00b1\u200913. In four CMEs, the involved team included an on-call robotic colorectal surgeon and an experience theatre team including experienced anaesthetist in robotic procedures.\n\n**CONCLUSIONS**: Robotics in emergency settings is feasible and safe but requires additional training and dedicated teams for optimal outcomes.",
-      "journal": "World J Emerg Surg",
-      "authors": [
-        "Curia S",
-        "Taoum C",
-        "Piozzi GN",
-        "Ronconi Di Giuseppe D",
-        "Beniwal A",
-        "Subramaniam S",
-        "Catena F",
-        "Piccoli M",
-        "Khan JS"
-      ],
-      "date": "2026 May 08",
-      "doi": "10.1186/s13017-026-00685-z",
-      "tier": "core",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42104446/"
-    },
-    {
-      "pmid": "42102768",
-      "title": "Minimally invasive total thoracoscopic fixation versus open fixation for multiple Rib fractures: Systematic review and meta-analysis of clinical outcomes.",
-      "abstract": "**BACKGROUND**: Multiple rib fractures cause substantial morbidity through severe pain, impaired ventilation, and pulmonary complications. While open rib fixation is well established, thoracoscopic fixation may reduce soft-tissue trauma and enhance recovery, but comparative evidence remains unclear. This systematic review and meta-analysis aimed to compare thoracoscopic versus open fixation for multiple rib fractures in terms of effectiveness and safety outcomes.\n\n**METHODS**: We conducted a systematic literature search across PubMed, Scopus and Web of Science to retrieve comparative studies comparing thoracoscopic fixation versus traditional open fixation for multiple rib fractures regarding pain, perioperative outcomes and safety outcomes. Risk of bias of included studies was assessed using the ROBINS-I tool. A meta-analysis was conducted using a random-effects model in R (version 4.5.0).\n\n**RESULTS**: Nine comparative studies were identified (total participants = 751). Meta-analysis revealed that thoracoscopic fixation was associated with improved postoperative pain compared with open fixation. Pain was significantly lower with thoracoscopy on postoperative day (POD) 1 (SMD= -1.12, 95% CI -1.64 to -0.61) and POD7 (SMD= -1.90, 95% CI -3.08 to -0.73), while POD3 was not significant (SMD= -1.49, 95% CI -3.52-0.54). Thoracoscopy reduced incision length (MD= -4.19\u00a0cm) and blood loss (MD= -18.56\u00a0mL) and shortened hospital stay (MD= -2.05 days), with no difference in operative time (MD= 9.66\u00a0min). Pleural effusion was less frequent (OR 0.32, 95% CI 0.10-1.00) on thoracoscopic fixation.\n\n**CONCLUSION**: There may be clinically significant benefits of thoracoscopic rib fixation over open fixation for multiple rib fractures. These benefits may include less early postoperative pain, smaller incisions, less blood loss, shorter hospital stays, and no increase in operative time. Overall complication rates were similar, but thoracoscopic fixation was associated with fewer pleural effusions. Due to significant heterogeneity and the predominance of observational studies, there is a need for more rigorous prospective trials.",
-      "journal": "Injury",
-      "authors": [
-        "Altamimi A",
-        "Musawa I",
-        "Alshahrani MA",
-        "Alghamdi MA",
-        "Almugharrid SM",
-        "Alsayed TO",
-        "Alansari F",
-        "ALHarthi AE",
-        "Almahmoud A",
-        "Aljunidi A",
-        "Tajo AAH",
-        "Alodhaib NA"
-      ],
-      "date": "2026 Jul 1",
-      "doi": "10.1016/j.injury.2026.113336",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Thoracic"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "rib fracture",
-          "strength": "strong",
-          "topic": "Thoracic"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42102768/"
     }
   ]
 }
