@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-13T21:03:18.714580Z",
-  "total_articles": 232,
+  "generated": "2026-06-14T21:00:32.377004Z",
+  "total_articles": 231,
   "all_topics": [
     "Abdominal",
     "Burns",
@@ -8906,31 +8906,6 @@
       ],
       "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/42144263/"
-    },
-    {
-      "pmid": "42139773",
-      "title": "Texas emergency department visits for firearm injury: Trends & correlates 2016-2022.",
-      "abstract": "**PURPOSE**: Understanding the nature and scope of fatal and nonfatal firearm injury in Texas is a necessary precursor to preventing firearm injuries statewide, however, Texas is frequently excluded from firearm injury research due to limitations in commonly used data sources.\n\n**METHODS**: Outcomes of interest were (1) emergency department (ED) utilization for firearm injuries and (2) associated charges in Texas 2016-2022. For both outcomes, this study examined longitudinal trends by patient demographics, payer, admission status, and county characteristics; and generated estimates for the association with county firearm ownership tercile. All Texas ED visits 2016-2022 (regardless of patient survival) with at least one salient ICD-10 external cause code (W32-W33, X72-X74, X93-X95, Y22-Y24, Y35) were compiled. Longitudinal associations were estimated using time series negative binomial regressions, with Poisson models for robustness.\n\n**RESULTS**: Overall firearm injury ED utilization remained stable; however, injury severity may have increased, as the proportion of visits resulting in hospital admission rose and average total charges more than doubled in Texas 2016-2022. Each increase in county firearm ownership tercile was associated with more than a 10% increase in expected firearm injury ED visits.\n\n**CONCLUSION**: Firearm injuries are a growing health and fiscal burden for Texas patients and taxpayers.",
-      "journal": "Am J Emerg Med",
-      "authors": [
-        "Rochford H",
-        "Ukert B"
-      ],
-      "date": "2026 Sep 1",
-      "doi": "10.1016/j.ajem.2026.05.023",
-      "tier": "filtered",
-      "topics": [
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "injury severity",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42139773/"
     }
   ]
 }
