@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-14T21:00:32.377004Z",
-  "total_articles": 231,
+  "generated": "2026-06-15T22:10:52.483013Z",
+  "total_articles": 242,
   "all_topics": [
     "Abdominal",
     "Burns",
@@ -379,6 +379,413 @@
   },
   "articles": [
     {
+      "pmid": "42295429",
+      "title": "Cerebral glycerol during haemorrhagic shock in normal and raised intracranial pressure resuscitated with total REBOA: an experimental porcine study.",
+      "abstract": "**BACKGROUND**: Haemorrhagic shock (HS) is frequently associated with secondary cerebral injury due to compromised cerebral perfusion. Resuscitative endovascular balloon occlusion of the aorta (REBOA) is an effective haemorrhage control strategy; however, concerns persist regarding its cerebral effects, particularly in the presence of elevated intracranial pressure (ICP). Cerebral microdialysis (CMD) derived glycerol (CGly) is a recognised marker of cellular membrane stress and injury.\n\n**OBJECTIVE**: To investigate CGly dynamics during prolonged total REBOA (tREBOA) in HS and to compare cerebral cellular responses between animals with normal and elevated ICP.\n\n**METHODS**: In this experimental porcine study, eighteen pigs were subjected to controlled HS and resuscitated with tREBOA for 90\u00a0min. Animals were allocated to either a normal ICP group (NICPG, n\u2009=\u20099) or an elevated ICP group (EICPG, n\u2009=\u20099). Continuous monitoring of proximal arterial pressure, ICP, and cerebral perfusion pressure was performed. CGly concentrations were measured using CMD throughout the experimental protocol.\n\n**RESULTS**: tREBOA effectively restored proximal arterial pressure and cerebral perfusion pressure in both groups. CGly concentrations remained relatively stable during the haemorrhage phase and increased progressively during prolonged aortic occlusion. Importantly, CGly responses did not differ significantly between animals with normal and elevated ICP. The observed increases in CGly during prolonged occlusion were consistent with cellular membrane perturbation rather than irreversible neuronal injury.\n\n**CONCLUSIONS**: In this experimental model of HS, prolonged total REBOA restored macrocirculatory parameters but was associated with time-dependent increases in CGly. Elevated ICP was not associated with exacerbation of cerebral cellular membrane stress during total aortic occlusion under the conditions studied. These findings suggest that intracranial hypertension alone does not worsen cerebral cellular responses during tREBOA, while highlighting the importance of occlusion duration and the need for further studies to optimise cerebral protection during prolonged aortic occlusion.",
+      "journal": "Eur J Trauma Emerg Surg",
+      "authors": [
+        "Bader S",
+        "Magnuson A",
+        "Brorsson C",
+        "Wallin G",
+        "L\u00f6fgren N",
+        "L\u00f6fgren F",
+        "Blind PJ",
+        "\u00d6man M",
+        "Olivecrona M"
+      ],
+      "date": "2026 Jun 15",
+      "doi": "10.1385/NCC:2:1:083",
+      "tier": "core",
+      "topics": [
+        "Haemorrhage"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "REBOA",
+          "strength": "strong",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "haemorrhagic shock",
+          "strength": "strong",
+          "topic": "Haemorrhage"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42295429/"
+    },
+    {
+      "pmid": "42295404",
+      "title": "Transport and destination hospital for patients with suspected multiple and/or severe injuries - a systematic review and clinical practice guideline update.",
+      "abstract": "**PURPOSE**: Our aim was to update the evidence-based and consensus-based recommendations on criteria for transport and destination hospital for patients with suspected multiple and/or severe injuries based on available evidence. This guideline topic is part of the 2025 update of the German Guideline on the Treatment of Patients with Multiple and/or Severe Injuries.\n\n**METHODS**: MEDLINE and Embase were systematically searched to January/February 2024. Further literature reports were obtained from clinical experts. Randomised controlled trials (RCTs) or observational studies reporting risk-adjusted outcomes were included if they compared different transport strategies or destination hospitals for patients with (suspected) multiple and/or severe injuries. We considered patient-relevant outcomes such as mortality and neurological outcomes. Risk of bias was assessed at outcome level using ROBINS-I for observational studies and RoB 2 for RCTs. We conducted meta-analyses if possible; alternatively, we synthesised the evidence narratively. We used GRADE to rate the certainty of evidence. Expert consensus was used to develop recommendations and determine their strength.\n\n**RESULTS**: A total of 127 studies were identified. They addressed helicopter vs. ground emergency medical services (EMS) transport, ground EMS with vs. without a physician, on-scene time, and handover on arrival at the hospital. Studies on destination hospitals have compared trauma centres at different levels, the nearest hospital vs. higher-level trauma centres, or hospitals with specialised services for trauma patients in general or specific subgroups, among others. Four recommendations were modified and five additional recommendations were developed. The guideline panel rejected one proposed recommendation. All accepted recommendations (n=8) achieved strong consensus.\n\n**CONCLUSION**: The key recommendations are summarised as follows: 1. For the prehospital management of severe trauma, helicopter emergency medical services should be deployed, taking into account operational and tactical considerations. 2. Prolong the on-scene time only to perform indicated, stabilising therapeutic interventions. 3. For patients with penetrating or perforating torso trauma, keep the prehospital rescue time as short as possible. 4. Transport patients with severe blunt trauma primarily to a regional or supraregional trauma centre. 5. Transport patients with penetrating or perforating trauma to the nearest appropriate hospital capable of providing definitive haemorrhage control. 6. Patients with severe traumatic brain injury should primarily be transported to the nearest trauma centre with 24-hour availability of neurotraumatological expertise. 7. The following patients should be transported to a supraregional trauma centre: \u2022 Patients with unstable pelvic fractures and hemodynamic instability; \u2022 Patients with neurological deficits following spinal injury. 8. Use a standardized handover concept in the trauma bay.",
+      "journal": "Eur J Trauma Emerg Surg",
+      "authors": [
+        "Pavlu F",
+        "K\u00f6nsgen N",
+        "Bieler D",
+        "Goossen K",
+        "Gliwitzky B",
+        "H\u00e4ske D",
+        "Faul P",
+        "W\u00f6lfl C",
+        "Strobel J"
+      ],
+      "date": "2026 Jun 15",
+      "doi": "10.1111/j.1399-6576.2012.02724.x",
+      "tier": "core",
+      "topics": [
+        "General Trauma",
+        "Prehospital",
+        "Spine",
+        "Systems/QI",
+        "TBI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "blunt trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "traumatic brain injury",
+          "strength": "weak",
+          "topic": "TBI"
+        },
+        {
+          "keyword": "spinal injury",
+          "strength": "weak",
+          "topic": "Spine"
+        },
+        {
+          "keyword": "helicopter emergency",
+          "strength": "weak",
+          "topic": "Prehospital"
+        },
+        {
+          "keyword": "prehospital",
+          "strength": "weak",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42295404/"
+    },
+    {
+      "pmid": "42295389",
+      "title": "Does the addition of peripheral nerve blocks improve analgesia during distal radius fracture reduction? A prospective, randomized, multicenter clinical trial.",
+      "abstract": "**PURPOSE**: This study aimed to evaluate whether adding a median nerve and a superficial branch of the radial nerve block to hematoma block improves analgesia during distal radius fracture reduction and to identify factors associated with increased pain perception.\n\n**METHODS**: A prospective, randomized, controlled study was conducted in two tertiary hospitals, including 180 adult patients with displaced distal radius fractures requiring closed reduction. Patients were allocated either to an isolated hematoma block group or to a combined block group receiving hematoma block with median nerve and superficial branch of the radial nerve blocks. Within the combined group, half of the median nerve blocks were performed under ultrasound guidance and half using anatomical landmarks. The primary endpoint was digital pain during traction and fracture reduction, assessed using a visual analog scale (VAS, 0-10). Secondary outcomes included wrist pain at different procedural stages and the influence of demographic and clinical variables including age, sex, laterality, participating hospital, body mass index (BMI), fracture type (AO/OTA), and baseline psychiatric or chronic analgesic medication use.\n\n**RESULTS**: Digital pain was significantly lower in combined group compared with isolated hematoma block during traction (4.54\u2009\u00b1\u20092.53 vs. 7.39\u2009\u00b1\u20091.76; p\u2009<\u20090.001) and reduction (5.36\u2009\u00b1\u20092.56 vs. 8.33\u2009\u00b1\u20091.55; p\u2009<\u20090.001). No differences were observed in wrist pain at any stage. Female sex, psychiatric or chronic analgesic medication use, and BMI\u2009\u2265\u200930 were independently associated with higher pain scores. No differences were found between ultrasound-guided and landmark-based median nerve blocks (p\u2009=\u20090.74). Fracture type did not influence pain outcomes. Two cases of transient neuropathic pain occurred in the landmark-based subgroup, resolving without sequelae.\n\n**CONCLUSIONS**: The combination of hematoma block with median nerve and superficial branch of the radial nerve block was associated with lower digital pain during distal radius fracture reduction compared with isolated hematoma block, without increasing complications. Female sex, obesity, and baseline psychiatric or chronic analgesic medication use were associated with higher pain perception in exploratory analyses. RETROSPECTIVELY REGISTERED CLINICAL TRIAL (18TH SEPTEMBER 2025): ClinicalTrials.gov, NCT07183904.",
+      "journal": "Eur J Trauma Emerg Surg",
+      "authors": [
+        "Guerrero-Serrano JA",
+        "Santamar\u00eda-L\u00f3pez A",
+        "Garc\u00eda-Lamas L",
+        "Jim\u00e9nez-D\u00edaz V",
+        "Gonz\u00e1lez-Fern\u00e1ndez \u00c1",
+        "Cecilia D"
+      ],
+      "date": "2026 Jun 15",
+      "doi": "10.1016/j.ajem.2022.06.017",
+      "tier": "core",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42295389/"
+    },
+    {
+      "pmid": "42295369",
+      "title": "Under pressure - a sensor-based analysis of simulated prehospital pressure dressing application for hemorrhage management.",
+      "abstract": "**BACKGROUND**: The concept of \"x-ABCDE\", with \"X\" representing exsanguinating hemorrhage, highlights the priority of immediate bleeding control in trauma care. Despite being a fundamental intervention, pressure dressing techniques lack standardization. Studies show high variability in achieved pressures, often below therapeutic targets or exceeding harmful levels, with no correlation between subjective estimates and objective measurements.\n\n**OBJECTIVES**: To objectively assess current practices of pressure bandage application and identify influencing factors including material type, technique, and provider experience.\n\n**METHODS**: This prospective, single-center, simulation-based observational study was conducted from August 2024 to January 2025 at a Level I Trauma Center. Emergency medical providers applied pressure dressings according to personal preference using available materials. Pressure distribution was measured via two calibrated capacitive pressure sensors (61 measurement fields). Analysis included correlation tests, group comparisons, and multiple regression.\n\n**RESULTS**: A total of 124 emergency medical providers (75% male; 36% paramedics, 44% emergency medical technicians, 13% trainees, 7% emergency physicians) completed pressure dressing applications, with 116 datasets included in final analysis. Mean maximum pressure was 169.35\u2009\u00b1\u200984.33 mmHg (range 50-412 mmHg) with application duration of 51.20\u2009\u00b1\u200918.14\u00a0s. Emergency physicians generated significantly higher pressures than non-physician groups (p\u2009<\u20090.001). The short-tug technique was the strongest predictor of maximum pressure (p\u2009<\u20090.001), followed by bandage material. Israeli bandages achieved highest pressures (205.40\u2009\u00b1\u200998.12 mmHg), followed by medium-stretch (171.68\u2009\u00b1\u200975.03 mmHg) and elastic fixation bandages (135.50\u2009\u00b1\u200958.63 mmHg). Excessive pressures\u2009>\u2009250 mmHg occurred in 28% of Israeli bandage applications versus 11.1% for medium-stretch and 1.6% for elastic bandages. Pressure distribution showed volar focusing with highest values measured by the smaller sensor in the central area, best achieved through medium-stretch bandages. No correlation was found between subjective self-assessment and objective pressure measurements (p\u2009=\u20090.541).\n\n**CONCLUSIONS**: Pressure dressing application varies significantly by material, technique, and experience. While the short-tug technique and Israeli bandages achieved highest peak pressures, medium-stretch bandages demonstrated the most therapeutically consistent pressure distribution, with pronounced target pressure focusing and the lowest rate of excessive pressures within the present observational simulation setting. Lack of correlation between self-assessment and objective performance highlights the need for standardized training protocols and evidence-based technique guidelines.",
+      "journal": "Eur J Trauma Emerg Surg",
+      "authors": [
+        "Brauckmann V",
+        "Menzel J",
+        "Welke B",
+        "Decker S",
+        "Macke C"
+      ],
+      "date": "2026 Jun 15",
+      "doi": "10.1080/10903120801907570",
+      "tier": "core",
+      "topics": [
+        "General Trauma",
+        "Prehospital",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "prehospital",
+          "strength": "strong",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42295369/"
+    },
+    {
+      "pmid": "42295368",
+      "title": "Clinical impact of early postoperative routine radiology in isolated pelvic injuries: a retrospective study.",
+      "abstract": "**PURPOSE**: The clinical value of routine immediate postoperative conventional radiography following surgical fixation of pelvic fractures remains debated. This study assessed the impact of early postoperative X-rays on management decisions and revision surgery in patients with isolated pelvic ring or acetabular fractures.\n\n**METHODS**: We conducted a retrospective cohort study at a Level 1 trauma center, including adults undergoing surgical treatment for isolated pelvic ring or acetabular fractures between 2020 and 2023. All patients received high-quality intraoperative fluoroscopy and postoperative conventional radiographs. The primary outcome was any change in standard postoperative care based on radiographic findings. The secondary outcome was revision surgery prompted by conventional postoperative imaging.\n\n**RESULTS**: A total of 216 patients were included (median age 63 years), with 156 pelvic ring injuries and 60 acetabular fractures. Postoperative radiographs were obtained at a median of 3 days post-surgery. Changes in postoperative care based on radiographs occurred in 2 patients (3.3%) within the acetabular fracture group. Revision surgery triggered by conventional imaging was required in 1 patient (0.6%) among pelvic ring injuries. In all cases, additional CT imaging preceded definitive management changes.\n\n**CONCLUSION**: Routine immediate postoperative conventional radiography after surgical treatment of isolated pelvic fractures has minimal clinical impact. These findings support a shift toward selective, indication-based postoperative imaging, including targeted imaging in cases of poor intraoperative bone quality, anticipated noncompliance with protective mobilization protocols, particularly among geriatric patients, for whom the long-term consequences of radiation exposure may be of secondary importance, or limited intraoperative image quality.",
+      "journal": "Eur J Trauma Emerg Surg",
+      "authors": [
+        "Bolierakis E",
+        "Ioannou P",
+        "Schubert SL",
+        "Groven RVM",
+        "Bl\u00e4sius FM",
+        "Bode M",
+        "Alabdulrahman H",
+        "Hildebrand F",
+        "Berk T"
+      ],
+      "date": "2026 Jun 15",
+      "doi": "10.2106/JBJS.K.01670",
+      "tier": "core",
+      "topics": [
+        "General Trauma",
+        "Pelvic",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "pelvic ring",
+          "strength": "weak",
+          "topic": "Pelvic"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42295368/"
+    },
+    {
+      "pmid": "42295341",
+      "title": "Older age and post-traumatic organ failure a TraumaRegister DGU",
+      "abstract": "**PURPOSE**: As the number of elderly major trauma patients (EMTP) increases continuously, this study sought to determine the incidence of organ failure (OF) and multiple organ failure (MOF) and their impact on mortality and recovery status in this cohort.\n\n**METHODS**: Based on the German TraumaRegister DGU\n\n**RESULTS**: The database revealed 34,469 EMTP, here 37% suffered from OF (16.0%) or MOF (21.0%). Mortality was significantly higher in OF and MOF patients compared to non-OF patients (non-OF: 7.4%; OF: 45.0%; MOF: 59.0%; p\u2009<\u20090.001). 80.9% of all deaths were associated with failure of at least one organ and 51.1% of non-survivors suffered from MOF. Highest odds ratios (OR) for mortality were found for liver (OR: 5.13, p\u2009<\u20090.001), central nervous system (OR: 3.63, p\u2009<\u20090.001) and renal failure (OR: 3.25, p\u2009<\u20090.001), followed by cardiovascular (OR: 1.95, p\u2009<\u20090.001) and lung failure (OR: 1.16, p\u2009=\u20090.010). Haemostatic failure had no impact on mortality.\n\n**CONCLUSION**: OR and mortality differ significantly between distinct OFs due to varying degrees of success in treatment options and systemic impact of these OFs. Clinicians should be aware that OF and MOF occur frequently in EMTP and that these patients have a high risk of dying. Therefore, close screening for and prompt treatment of OF and MOF could be a key strategy to lower mortality of EMTP.",
+      "journal": "Eur J Trauma Emerg Surg",
+      "authors": [
+        "Bewersdorf TN",
+        "Lefering R",
+        "Stein S",
+        "Streblow J",
+        "Findeisen S",
+        "Schmidmaier G",
+        "Grossner T"
+      ],
+      "date": "2026 Jun 15",
+      "doi": "10.1097/TA.0000000000001328",
+      "tier": "core",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "major trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "multiple organ dysfunction",
+          "strength": "weak",
+          "topic": "General Trauma"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42295341/"
+    },
+    {
+      "pmid": "42294935",
+      "title": "In Reply: Demarcation Line of Tissue Compaction in Traumatic Brain Herniation: A Conceptual and Clinical Model.",
+      "abstract": "",
+      "journal": "Neurosurgery",
+      "authors": [
+        "Mustafayev B",
+        "Mustafayeva A",
+        "Bakhtiyarov A",
+        "Nikatov K",
+        "Satylkhan B"
+      ],
+      "date": "2026 Jul 01",
+      "doi": "10.1227/neu.0000000000004077",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "traumatic",
+          "strength": "strong",
+          "topic": "General Trauma"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42294935/"
+    },
+    {
+      "pmid": "42294934",
+      "title": "Letter: Demarcation Line of Tissue Compaction in Traumatic Brain Herniation: A Conceptual and Clinical Model.",
+      "abstract": "",
+      "journal": "Neurosurgery",
+      "authors": [
+        "de Oliveira Manduca Palmiero H",
+        "Gadelha Figueiredo E"
+      ],
+      "date": "2026 Jul 01",
+      "doi": "10.1227/neu.0000000000004076",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "traumatic",
+          "strength": "strong",
+          "topic": "General Trauma"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42294934/"
+    },
+    {
+      "pmid": "42289704",
+      "title": "Critical care delivery models in emergency departments: a systematic review of the literature and meta-analysis of related outcome effects.",
+      "abstract": "**BACKGROUND**: Critical care delivery in the emergency department (ED) may improve selected patient- and system-relevant outcomes. However, it remains unclear which organisational models to deliver critical care in the ED (CC-ED) have been implemented and what their outcome effects are.\n\n**METHODS**: We conducted a systematic review and meta-analysis including studies describing organisational approaches to deliver CC-ED. Delivery models were categorised and described qualitatively. For studies reporting comparable outcomes, random-effects meta-analysis was performed to estimate pooled effects and 95% confidence intervals. Outcomes included mortality, intensive care unit (ICU) admission rates, ICU length of stay (LOS), hospital LOS, and cost of care.\n\n**RESULTS**: Of 4,967 records, 67 were included into the qualitative assessment and 11 studies into the quantitative analysis, respectively. We identified five models to deliver CC-ED. These consisted of dedicated critical care areas in the ED (n\u2009=\u200949/67, 73.1%), placement of critical care staff in the ED (n\u2009=\u20095/67, 7.5%), deployment of critical care teams to the ED (n\u2009=\u20095/67, 7.5%), telemedical support of ED staff by critical care teams (n\u2009=\u20095/67, 7.5%), and implementation of protocols to accelerate ICU admission (n\u2009=\u20093/67, 4.5%). Mortality was not different versus usual care in any of the CC-ED models. CC-ED models had variable effects on the ICU admission rate, hospital and ICU LOS. Dedicated critical care areas in the ED were associated with lower ICU admission rates [OR 0.83 (0.76-0.91), p\u2009<\u20090.001], and shorter hospital LOS [mean difference\u2009-\u20090.31 (-0.59 to -0.03) days, p\u2009=\u20090.03], but longer ICU LOS [mean difference 0.45 (0.31-0.6) days, p\u2009<\u20090.001]. Reported cost of care did not differ between CC-ED and usual care.\n\n**CONCLUSIONS**: We identified five different organisational model categories to deliver CC-ED. Dedicated critical care areas such as ED-ICUs was the model category most frequently published. Our quantitative meta-analysis suggests that compared with other CC-ED delivery models, dedicated critical care areas in the ED may reduce both ICU admission rates and hospital LOS of critically ill ED patients.",
+      "journal": "Scand J Trauma Resusc Emerg Med",
+      "authors": [
+        "Noitz M",
+        "Ilko SA",
+        "D\u00fcnser MW",
+        "Behringer W",
+        "Wildner B",
+        "Herkner H"
+      ],
+      "date": "2026 Jun 14",
+      "doi": "10.1186/s13049-026-01647-9",
+      "tier": "core",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42289704/"
+    },
+    {
+      "pmid": "42288919",
+      "title": "Proteomic blood-based biomarkers of brain damage in traumatic brain injury: are they suitable surrogate endpoints for cerebral pressure autoregulatory-guided therapy?",
+      "abstract": "**BACKGROUND**: Management after severe traumatic brain injury (TBI) aims to prevent secondary injury by optimizing cerebral physiology, yet conventional metrics such as intracranial pressure (ICP) and cerebral perfusion pressure (CPP) incompletely capture the underlying pathophysiology. Impaired cerebral pressure autoregulation (CPA) is common and may exacerbate secondary injury. Proteomic blood-based biomarkers (PBBMs) of astrocytic (glial fibrillary acidic protein [GFAP], S100 calcium-binding protein B [S100B]), and neuronal/axonal injury (total tubulin associated unit [t-Tau], neurofilament light chain [NfL], ubiquitin C-terminal hydrolase-L1 [UCH-L1], neuron-specific enolase [NSE]) may provide global indicators of secondary injury. This study investigated temporal associations between PBBMs and cerebral physiological variables (ICP, CPP, pressure reactivity index [PRx], and CPP deviation from \"optimal\" CPP [\u0394CPPopt]), and evaluated the PBBMs as surrogate short-term endpoints.\n\n**METHODS**: This retrospective, observational multi-center study, used prospective data from the CENTER-TBI cohort and included 151 patients with high-frequency cerebral physiological data and serial PBBM measurements during the first seven days post-injury. Associations were analyzed using Spearman correlations, univariate and multivariate linear mixed effects models (LMEMs), as well as cross correlation analyses adjusted for repeated measures and clinical confounders.\n\n**RESULTS**: Elevated PBBM levels on day 1 were associated with a greater cumulative burden of high ICP, impaired CPA (positive PRx), and negative \u0394CPPopt over the subsequent seven days. Throughout the monitoring period, higher median PBBM concentrations correlated with elevated ICP and impaired CPA, with strongest associations when cerebral physiological monitoring and PBBMs were analyzed from the same day. In multivariate LMEMs, elevated ICP and most PBBMs remained significantly associated, while particularly PRx amplified this association.\n\n**CONCLUSIONS**: Cerebral physiological disturbances during intensive care after TBI were associated with elevated PBBM levels, with ICP showing the strongest influence and impaired CPA amplifying some PBBM responses. Associations were strongest in same-day analyses and appeared bidirectional. These findings suggest that PBBM may reflect the burden of secondary cerebral insults and may serve as candidate endpoints for future trials targeting cerebral physiology, pending validation in prospective high-resolution studies. Importantly, our results highlight the potential for PBBMs to complement multimodal neuromonitoring by tracking secondary injury trajectories.",
+      "journal": "Crit Care",
+      "authors": [
+        "Kevci R",
+        "H\u00e5nell A",
+        "Aries M",
+        "\u00c5kerlund C",
+        "Buki A",
+        "Bhattacharyay S",
+        "Di Tommaso G",
+        "Hendrix R",
+        "Newcombe V",
+        "Lew\u00e9n A",
+        "Enblad P",
+        "Beqiri E",
+        "Smielewski P",
+        "Wettervik TS"
+      ],
+      "date": "2026 Jun 13",
+      "doi": "10.1186/s13054-026-06132-4",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "TBI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "traumatic",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic brain injury",
+          "strength": "strong",
+          "topic": "TBI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42288919/"
+    },
+    {
+      "pmid": "42288074",
+      "title": "Mean airway pressure as the missing link in CPR physiology: A prehospital comparison of manual and mechanical chest compressions.",
+      "abstract": "**BACKGROUND**: The impact of manual versus mechanical chest compressions on mean airway pressure (mPAW) during cardiopulmonary resuscitation (CPR) is poorly understood. This exploratory pilot study assessed intratracheal airway pressures during prehospital CPR in out-of-hospital cardiac arrest (OHCA).\n\n**METHODS**: Adult OHCA patients treated by the prehospital Medical Emergency Team of the Ghent University Hospital (Belgium) were prospectively enrolled. Intratracheal pressure was recorded immediately after intubation, mPAW was calculated for both the first and last minutes of advanced life support (ALS). The results were compared between mechanical compressions using the Stryker LUCAS3\u00ae device and manual chest compressions (with chest compression feedback).\n\n**RESULTS**: Nineteen patients were included (manual n\u00a0=\u00a010; mechanical n\u00a0=\u00a09). Initial median mPAW was low (7.74\u00a0mbar) and showed a slight increase over time. Mechanical compressions generated higher early mPAW than manual compressions (8.96 vs. 6.54\u00a0mbar). mPAW increased over time with manual compressions and decreased with mechanical compressions. Patients who achieved return of spontaneous circulation (ROSC) showed higher mPAW, though this difference was not statistically significant.\n\n**CONCLUSIONS**: Prehospital mPAW values were substantially lower than those reported in previous ED-based studies. While airway pressure patterns differed between compression modalities, overall pressures were similar. These findings highlight complex airway mechanics during CPR and support further research into whether higher airway pressures could improve airway patency, oxygenation, and hemodynamics in selected OHCA patients.",
+      "journal": "Am J Emerg Med",
+      "authors": [
+        "Tackaert T",
+        "Hemeryck J",
+        "Duchatelet C",
+        "Vanwulpen M",
+        "Hachimi-Idrissi S"
+      ],
+      "date": "2026 Jun 09",
+      "doi": "10.1016/j.ajem.2026.06.012",
+      "tier": "filtered",
+      "topics": [
+        "Prehospital"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "prehospital",
+          "strength": "strong",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42288074/"
+    },
+    {
       "pmid": "42286735",
       "title": "An inter-rater reliability study of a modified version of SATS as a prehospital triage tool.",
       "abstract": "**BACKGROUND**: Triage systems play an essential role in allocating patients to an appropriate level of care. Several triage systems are used worldwide, all of which require scientific evaluation of their reliability and validity. Evidence regarding prehospital triage systems remains limited. The South African Triage Scale (SATS) has been adapted for local use in several regions, but modified versions require independent evaluation. The objective of this study was to examine the reliability of a modified version of the triage system, SATS, when it is used in the emergency medical services (EMS) in a region in Sweden. The study also investigated whether triage performance differs among registered nurses with varying experience and competence levels.\n\n**METHODS**: This prospective cross-sectional inter-rater reliability study included 34 registered nurses (RNs) working in the regional EMS. The participants independently triaged 30 prehospital case vignettes via a digital questionnaire, resulting in 1,010 triage assessments. Descriptive data were used. Inter-rater reliability was assessed via Krippendorff's alpha (\u03b1) and percentage agreement. Mixed effects logistic regression was performed to explore associations between triage assignment and RN characteristics, including gender, years of experience and specialist education.\n\n**RESULTS**: This study indicated insufficient inter-rater agreement when a modified version of SATS was used in a prehospital setting. Krippendorff's \u03b1 was 0.60, suggesting poor agreement when triage levels were treated as ordinal data. Full agreement was observed in three case vignettes, whereas agreement across the remaining cases ranged from 32% to 94%. Manual up-triage occurred in 25 of the 30 vignettes, with frequencies ranging from 6% to 74%. No associations were found between assigned triage level and gender, years of EMS experience or specialist education.\n\n**CONCLUSION**: This modified version of SATS demonstrated low inter-rater reliability when applied in a prehospital setting. Agreement varied substantially across patient scenarios, particularly in cases characterized by nonspecific symptoms and near-normal vital signs. These findings underscore the importance of systematic evaluation of modified triage systems to support consistent decision-making and patient safety in prehospital care.",
@@ -556,7 +963,7 @@
         "Bourke EM"
       ],
       "date": "2026 Jun 1",
-      "doi": "10.1111/1742-6723.70300",
+      "doi": "10.1097/01.Ta.0000075338.21177.Ef",
       "tier": "filtered",
       "topics": [
         "General Trauma",
@@ -3330,7 +3737,7 @@
         "Zacharowski K",
         "Choorapoikayil S"
       ],
-      "date": "2026 Jun 08",
+      "date": "2026 Jun 1",
       "doi": "10.1213/ANE.0000000000001730",
       "tier": "filtered",
       "topics": [
