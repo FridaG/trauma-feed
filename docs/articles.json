@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-23T21:24:46.320367Z",
-  "total_articles": 287,
+  "generated": "2026-06-24T21:17:22.569455Z",
+  "total_articles": 288,
   "all_topics": [
     "Abdominal",
     "Burns",
@@ -378,6 +378,420 @@
     "Cochrane Database Syst Rev": "filtered"
   },
   "articles": [
+    {
+      "pmid": "42340459",
+      "title": "Blood-based biomarkers GFAP/UCH-L1 for the diagnosis of mild traumatic brain injury (mTBI): a single-center implementation experience.",
+      "abstract": "**INTRODUCTION**: Mild traumatic brain injuries (mTBI) affect millions of people worldwide every year as one of the most common clinical presentations in the emergency department. Diagnosis is mainly based on clinical criteria and computed tomography scans. The use of computed tomography causes high costs, long waiting times in daily clinical practice and radiation exposure. GFAP (glial fibrillary acidic protein) and UCH-L1 (ubiquitin carboxyl-terminal hydrolase-L1) turned out to be potential biomarkers for the diagnosis of mTBI. This study retrospectively evaluates the possible use of these biomarkers combined as negative predictors for excluding brain injuries in patients with suspected mTBI in the emergency department.\n\n**METHODS**: Adult patients (n\u2009=\u2009320) registered in the emergency department at a level 1 trauma emergency center in Germany (Cologne Merheim Medical Center/CMMC) between 11/2023 and 04/2024, with suspected mTBI, Glasgow Coma Scale (GCS) score 13-15 and within 12\u00a0h after trauma were considered. All evaluable patients underwent cranial CT (cCT) scans and blood tests for GFAP and UCH-L1 serum concentrations.\n\n**RESULTS**: Biomarkers GFAP and UCH-L1 were tested positive in 261 patients (82%) while CT detected intracranial injuries in only 29 patients (9%). Biomarkers combined had a sensitivity of 97% and a negative predictive value (NPV) of 98% in mTBI diagnosis with a negative CT scan.\n\n**CONCLUSIONS**: The biomarkers GFAP and UCH-L1 combined could play a potential clinical role in avoiding unnecessary cCT scans in emergency departments after mTBI, might reduce treatment times and reduce radiation exposure.",
+      "journal": "Eur J Trauma Emerg Surg",
+      "authors": [
+        "Maegele M",
+        "Breidenbach L",
+        "Kaufmann J",
+        "Keles Y",
+        "Uhl E",
+        "Schroeer P"
+      ],
+      "date": "2026 Jun 24",
+      "doi": "10.1080/14737159.2018.1428089",
+      "tier": "core",
+      "topics": [
+        "General Trauma",
+        "TBI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic brain injury",
+          "strength": "strong",
+          "topic": "TBI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42340459/"
+    },
+    {
+      "pmid": "42340407",
+      "title": "Resuscitative endovascular occlusion of the aorta restores cerebral metabolic markers of ischaemia induced by haemorrhagic shock.",
+      "abstract": "**BACKGROUND**: Resuscitative endovascular balloon occlusion of the aorta (REBOA) is used as an adjunct in haemorrhagic shock (HS) to restore proximal perfusion. Its cerebral metabolic effects during haemorrhagic shock, particularly in the presence of elevated intracranial pressure (ICP), remain incompletely characterised.\n\n**METHODS**: In a controlled porcine model, HS was induced by controlled bleeding to a mean arterial pressure of approximately 40 mmHg. Animals were allocated to a normal ICP group or an experimentally elevated ICP group. Total REBOA (zone 1) was applied for 90\u00a0min. Cerebral metabolism was assessed using intracerebral microdialysis with measurements of lactate, pyruvate, and lactate-pyruvate ratio (LPR). Cerebral haemodynamics and ICP were continuously monitored.\n\n**RESULTS**: HS was associated with a statistically significant increase in LPR in both groups, indicating cerebral metabolic disturbance. Following aortic occlusion, LPR gradually decreased toward baseline in both groups. Animals with elevated ICP demonstrated a transient delay in metabolic normalisation during the early post-occlusion phase. Statistically significant differences between groups were limited to the first 10\u00a0min following occlusion. Overall metabolic trajectories were similar thereafter.\n\n**CONCLUSIONS**: Total REBOA restored cerebral metabolic markers of ischaemia during haemorrhagic shock, as reflected by normalisation of LPR, even in the presence of experimentally elevated ICP. These findings indicate acute metabolic recovery and so suggest that the use of tREBOA in the setting of elevated ICP is not contra indicated and can be a bridge to further treatment. Our findings do not demonstrate absence of tissue injury, or long-term neurological recovery. Further studies incorporating complementary physiological and structural outcome measures would be recommended.",
+      "journal": "Eur J Trauma Emerg Surg",
+      "authors": [
+        "Bader SE",
+        "Magnuson A",
+        "Brorsson C",
+        "Wallin G",
+        "L\u00f6fgren N",
+        "L\u00f6fgren F",
+        "Blind PJ",
+        "\u00d6man M",
+        "Olivecrona M"
+      ],
+      "date": "2026 Jun 24",
+      "doi": "10.1093/cvr/16.3.163",
+      "tier": "core",
+      "topics": [
+        "Haemorrhage"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "REBOA",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "haemorrhagic shock",
+          "strength": "strong",
+          "topic": "Haemorrhage"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42340407/"
+    },
+    {
+      "pmid": "42340304",
+      "title": "Response of Spinal Cord Blood Flow to Hypotensive and Adrenergic Challenges: Doppler Ultrasound of the Porcine Sulcal Artery.",
+      "abstract": "**BACKGROUND AND OBJECTIVES**: Management of spinal cord injury includes surgical decompression and pharmacologic elevation of mean arterial pressure (MAP) to augment cord perfusion. However, the relationship between MAP augmentation and spinal cord blood flow remains poorly characterized, and it is unclear whether different adrenergic agents produce differential effects on cord perfusion. Thus, our objective was to directly characterize dynamic spinal cord blood flow responses to controlled MAP perturbations and compare the effects of common vasopressors.\n\n**METHODS**: We developed a Doppler ultrasonography platform to measure dynamic blood flow signals in the sulcal arteries of uninjured porcine spinal cord. Eight female Yorkshire pigs underwent controlled hypotensive challenges using hemorrhage and hypertensive challenges with 4 adrenergic agonists: phenylephrine (\u03b1-agonist), dobutamine (\u03b2-agonist), norepinephrine (mixed \u03b1/\u03b2), and epinephrine (mixed \u03b1/\u03b2). Mean flow velocity (MFV) and mean power Doppler (MPD) were extracted from spectral Doppler recordings and analyzed in relation to step changes in MAP.\n\n**RESULTS**: During hypotensive challenges, reductions in MAP were accompanied by decreases in MFV and MPD, with minimal recovery toward baseline. During pharmacologic MAP augmentation, all agents produced increases in MAP, MFV, and MPD. However, dobutamine produced a greater change in blood flow measures when compared with norepinephrine, phenylephrine, and epinephrine.\n\n**CONCLUSION**: These findings represent the first dynamic measurements of spinal cord blood flow signals in vivo and demonstrate that MAP elevation does not uniformly translate to increased cord perfusion. Pure \u03b2-adrenergic stimulation with dobutamine produced a favorable blood flow profile, whereas agents with \u03b1-agonist activity may limit effective perfusion through vasoconstriction. This work provides a mechanistic framework for optimizing vasopressor selection in spinal cord injury and lays groundwork for future studies of spinal cord autoregulation.",
+      "journal": "Neurosurgery",
+      "authors": [
+        "Routkevitch D",
+        "Davidar AD",
+        "Jiang K",
+        "Weber-Levine C",
+        "Babu N",
+        "Bhimreddy M",
+        "Lopez AF",
+        "Menta AK",
+        "Kramer P",
+        "Vattipally VN",
+        "Darby Z",
+        "Chinedozi I",
+        "Kang JK",
+        "Steger L",
+        "Baca E",
+        "Soul\u00e9 Z",
+        "Kats N",
+        "Hersh AM",
+        "Ashayeri K",
+        "Smit C",
+        "Manbachi A",
+        "Thakor NV",
+        "Theodore N"
+      ],
+      "date": "2026 Jun 26",
+      "doi": "10.1227/neu.0000000000004112",
+      "tier": "filtered",
+      "topics": [
+        "Spine"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "spinal cord injury",
+          "strength": "weak",
+          "topic": "Spine"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42340304/"
+    },
+    {
+      "pmid": "42336741",
+      "title": "Comparable outcomes for non-operative intracranial hemorrhage at Level III vs Level I/II trauma centers.",
+      "abstract": "**INTRODUCTION**: Most patients with isolated, closed blunt intracranial hemorrhage (ICH) do not require neurosurgical intervention. However, outcome data for those managed entirely at Level III trauma centers remain incompletely characterized.\n\n**METHODS**: Using the 2017-2020 Trauma Quality Improvement Program (TQIP), we compared clinical outcomes for non-operative ICH patients treated at Level I/II versus Level III trauma centers. The primary endpoint was composite in-hospital adverse event counts per patient, modeled using negative binomial regression and reported as adjusted incidence rate ratios (aIRRs). Secondary analyses included patients with ISS >\u00a015, ICU admission by trauma center level, predictors of ICU admission, and unplanned ICU transfers. To address triage selection bias, we also compared time to ED discharge in a cohort of patients who met the same inclusion and exclusion criteria and were transferred from a Level III trauma center.\n\n**RESULTS**: A total of 24,132 patients were included after complete-case exclusion (Level I/II: 22,846; Level III: 1286). Composite adverse event counts were 0.067 events per patient at Level I/II centers and 0.042 at Level III centers. After adjustment, there was no statistically significant difference in composite adverse event counts between groups (aIRR 0.82, 95% CI 0.56-1.18). Mortality was lower at Level III centers (aOR 0.12, 95% CI 0.04-0.35). Composite adverse event count outcomes were similar in the ISS >\u00a015 subgroup (aIRR 0.65, 95% CI 0.35-1.11). Among ICU admissions, the association between ICU admission and composite adverse event counts differed by trauma center level, with a lower relative effect of ICU admission at Level III centers compared to Level I/II centers (interaction aIRR 0.54, 95% CI 0.32-0.92). Exploratory analysis showed, after adjustment, significant factors associated with ICU admission were midline shift <\u00a05\u00a0mm (aOR 1.44, 95% CI 1.29-1.61), lower GCS (aOR 0.84, 95% CI 0.82-0.86), alcohol use disorder (aOR 1.40, 95% CI 1.22-1.62), and anticoagulant use (aOR 1.41, 95% CI 1.27-1.59). Significant unplanned ICU admission included alcohol use disorder (aOR 5.04, 95% CI 2.74-8.90) and anticoagulation use (aOR 3.38, 95% CI 1.94-5.72). Following ED arrival, 94.2% of patients at Level III centers were admitted within 6\u00a0h, and 97.9% of transferred patients were transferred within 6\u00a0h (aOR 2.21, 95% CI 1.30-3.90).\n\n**CONCLUSION**: Selected patients with non-operative ICH can be managed at Level III trauma centers without increased complications or the need for neurosurgical intervention.",
+      "journal": "Injury",
+      "authors": [
+        "Lord S",
+        "Arda Y",
+        "Karikis I",
+        "DeWane MP",
+        "Paranjape CN",
+        "Ng-Kamstra JS",
+        "Maurer L",
+        "Kaafarani HMA",
+        "Velmahos GC",
+        "Hwabejire JO",
+        "Lee J"
+      ],
+      "date": "2026 Jun 20",
+      "doi": "10.1016/j.injury.2026.113462",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Systems/QI",
+        "TBI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "intracranial haemorrhage",
+          "strength": "strong",
+          "topic": "TBI"
+        },
+        {
+          "keyword": "trauma quality",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42336741/"
+    },
+    {
+      "pmid": "42335393",
+      "title": "Polyphosphate-based hemostatic gauze preserves distal perfusion compared with QuikClot Combat Gauze in a porcine extremity trauma model with hemorrhagic shock.",
+      "abstract": "**BACKGROUND**: Uncontrolled hemorrhage remains the leading preventable cause of death after trauma. Current prehospital strategies emphasize rapid bleeding control, yet benchmark kaolin-based dressings may impair distal perfusion through intraluminal thrombosis. Polyphosphate (PolyP)-based dressings could offer effective hemostasis while maintaining arterial flow.\n\n**METHODS**: In a prospective, randomized, controlled large-animal extremity trauma model with hemorrhagic shock, PolyP gauze was compared with kaolin-based Combat Gauze (CG) under a standardized compression and resuscitation protocol. Primary endpoints were survival time and survival proportion; secondary endpoints included distal femoral flow, blood loss, hemodynamics, metabolic status, and coagulation. Outcome assessment was investigator blinded.\n\n**RESULTS**: Baseline characteristics were comparable between groups (n\u2009=\u200911 per group). Survival at 120\u2009minutes (PolyP 90.9% vs. CG 81.8%) and total blood loss (1,780\u2009\u00b1\u2009219\u2009vs. 1,847\u2009\u00b1\u2009484\u2009mL, p\u2009=\u20090.72) did not differ significantly. First-pass hemostasis was achieved in 63.6% of PolyP- and 81.8% of CG-treated animals (p\u2009=\u20090.64). In contrast, distal pulsatile femoral flow was restored in 90.9% of PolyP-treated animals compared with 27.3% after CG (p\u2009=\u20090.0075). Hemodynamics, metabolic markers (lactate, base excess, pH, hemoglobin), and systemic coagulation assays (prothrombin time, fibrinogen, activated partial thromboplastin time) evolved similarly across groups.\n\n**CONCLUSION**: In this swine extremity trauma model with shock, PolyP gauze provided hemostasis equivalent to the current benchmark while significantly improving distal arterial perfusion. These findings support expanding performance benchmarks for prehospital hemostatic dressings to include downstream perfusion and justify further translational and field evaluation. (J Trauma Acute Care Surg. 2026;101: 129-135. Copyright \u00a9 2026 Wolters Kluwer Health, Inc. All rights reserved.).",
+      "journal": "J Trauma Acute Care Surg",
+      "authors": [
+        "Wippel D",
+        "Heidler J",
+        "Gratl A",
+        "Lobenwein D",
+        "Gaeth C",
+        "Hinck D",
+        "Kluckner M",
+        "Abram J",
+        "Spraider P",
+        "Martini J",
+        "Wipper S"
+      ],
+      "date": "2026 Jul 01",
+      "doi": "10.1097/TA.0000000000004903",
+      "tier": "core",
+      "topics": [
+        "General Trauma",
+        "Haemorrhage",
+        "Prehospital"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "haemorrhagic shock",
+          "strength": "strong",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "fibrinogen",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "prehospital",
+          "strength": "weak",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42335393/"
+    },
+    {
+      "pmid": "42335392",
+      "title": "Antibiotic use in emergency general surgery: What you need to know.",
+      "abstract": "Antimicrobials are among the classes of pharmaceuticals most used by acute care surgeons, with many emergency general surgery conditions either related to infections or at high risk of infectious complications. As such, knowledge of proper use of antimicrobial agents, especially in this era of increasing antimicrobial resistance, is imperative for optimal outcomes. This review focuses on the advanced infectious diseases and antimicrobial utilization knowledge required to treat complicated and critically ill surgical patients. Overall concepts pertaining to antibiotics are discussed, followed by a more in-depth discussion of conditions common in emergency general surgery. Key themes include the importance of source control and accurate culture data, the frequent need for broad-spectrum, empiric antimicrobial therapy, subsequent careful de-escalation of antibiotics, and minimizing treatment duration. (J Trauma Acute Care Surg. 2026;101: 13-27. Copyright \u00a9 2026 The Author(s). Published by Wolters Kluwer Health, Inc. on behalf of the American Association for the Surgery of Trauma.).",
+      "journal": "J Trauma Acute Care Surg",
+      "authors": [
+        "Krebs ED",
+        "Sawyer RG"
+      ],
+      "date": "2026 Jul 01",
+      "doi": "10.1093/cid/ciae403",
+      "tier": "core",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42335392/"
+    },
+    {
+      "pmid": "42335315",
+      "title": "Invited commentary: Reconciling the academic mission with workforce reality in acute care surgery.",
+      "abstract": "",
+      "journal": "J Trauma Acute Care Surg",
+      "authors": [
+        "Rotondo MF"
+      ],
+      "date": "2026 Jun 24",
+      "doi": "10.1097/TA.0000000000005098",
+      "tier": "core",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42335315/"
+    },
+    {
+      "pmid": "42335301",
+      "title": "Association between the fresh frozen plasma-to-red blood cell ratio and mortality in pediatric severe trauma.",
+      "abstract": "**BACKGROUND**: The optimal fresh frozen plasma (FFP)-to-red blood cell (RBC) ratio in pediatric severe trauma has not yet been established. We investigated the association between the FFP-to-RBC transfusion ratio and clinical outcomes in pediatric severe trauma, aiming to identify an optimal threshold.\n\n**METHODS**: This multicenter, retrospective, observational study uses data from the Japan Trauma Data Bank from 2019 to 2023. The study included pediatric patients aged below 18 years with severe trauma (injury severity score >15). Patients were categorized into a high-FFP group (FFP-to-RBC ratio \u22651) and a low-FFP group (ratio of <1). The primary outcome was in-hospital mortality. Inverse probability of treatment weighting based on propensity scores was used to balance patient characteristics. Restricted cubic spline analysis was applied to evaluate the linearity and dose-response effects of the FFP-to-RBC ratio on in-hospital mortality. A weighted mixed-effects logistic regression model accounting for intrahospital clustering was used as a sensitivity analysis.\n\n**RESULTS**: A total of 336 patients were included, with 284 assigned to the high-FFP group. Weighted logistic regression analysis using inverse probability of treatment weighting demonstrated significantly lower in-hospital mortality in the high-FFP group (adjusted odds ratio, 0.47; 95% confidence interval, 0.28-0.78). The restricted cubic spline curve indicated a nonsignificant trend in which in-hospital mortality decreased progressively as the FFP-to-RBC ratio increased. Sensitivity analysis attenuated the association to nonsignificance (adjusted odds ratio, 0.67; 95% confidence interval, 0.29-1.53).\n\n**CONCLUSIONS**: A higher FFP-to-RBC ratio was associated with significantly lower in-hospital mortality. However, these findings should be interpreted cautiously, given the retrospective design and sensitivity analysis suggesting potential hospital-level confounding. ( J Trauma Acute Care Surg 2026;00:000-000. Copyright \u00a9 2026 Wolters Kluwer Health, Inc. All rights reserved.).\n\n**LEVEL OF EVIDENCE**: Therapeutic/care management; Level III.",
+      "journal": "J Trauma Acute Care Surg",
+      "authors": [
+        "Utsumi S",
+        "Ohki S",
+        "Ishii J",
+        "Shime N"
+      ],
+      "date": "2026 Jun 24",
+      "doi": "10.1097/TA.0000000000005095",
+      "tier": "core",
+      "topics": [
+        "General Trauma",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "injury severity",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42335301/"
+    },
+    {
+      "pmid": "42335298",
+      "title": "Is the rate of chest computed tomography different between adult and pediatric Level 1 trauma centers?",
+      "abstract": "**BACKGROUND**: Injured children receive trauma care at both children's hospitals and adult trauma centers. The established risk that radiation poses to children mandates minimizing exposure whenever possible. Several studies show chest computed tomography (CCT) rarely alters management of children with suspected thoracic trauma when the chest radiograph (CXR) is normal. We hypothesize that adult trauma centers overutilize CCT for children with suspected blunt thoracic trauma.\n\n**METHODS**: We conducted a retrospective review of the Pennsylvania Trauma System Foundation database for all children below 15 years old sustaining blunt trauma between 2019 and 2023. Patients who presented to Level 1 pediatric regional trauma centers (PTC) (n=3) were compared with adult Level 1 trauma centers (ATC) (n=10); transfers were excluded. ICD-10 procedure codes were used to identify patients with any interventions on the chest.\n\n**RESULTS**: The query identified 1,241 qualified patients, 850 treated at PTCs and 391 at ATCs. PTC patients were younger with a higher injury severity score (ISS). There was a decreased rate of CCT at PTCs (10.94% vs. 19.18%, p<0.0001). Subgroup analysis revealed a difference in CCT rate for ages 10-14 (18.33% vs. 35.97%, p<0.0001). PTCs also had a higher rate of thoracostomy tube placement (10.75% vs. 1.48%, p=0.002), but there were no differences in intubation, cardiopulmonary arrest, thoracotomy, or sternotomy. Subgroup analysis of patients with a length of stay <3 days showed no differences in age, ISS, or interventions; however, the rate of CCT was higher at ATCs (6.58% vs. 25.77%, p<0.0001).\n\n**CONCLUSIONS**: CCT rates were lower across all age groups in the PTC cohort despite PTCs having a higher ISS score. Interestingly, there continued to be decreased CCT use at PTCs for children who were admitted for less than 3 days. Our findings support the hypothesis that adult trauma centers overutilize CCT in children suspected of blunt thoracic trauma. (J Trauma Acute Care Surg 2026;00:000-000. Copyright \u00a9 2026 Wolters Kluwer Health, Inc. All rights reserved.).\n\n**LEVEL OF EVIDENCE**: Level III.",
+      "journal": "J Trauma Acute Care Surg",
+      "authors": [
+        "Hess T",
+        "Wang M",
+        "Chappell C",
+        "Healy J",
+        "Ciullo S",
+        "Moront M",
+        "Lindholm EB"
+      ],
+      "date": "2026 Jun 24",
+      "doi": "10.1007/s00247-002-0665-z",
+      "tier": "core",
+      "topics": [
+        "General Trauma",
+        "Systems/QI",
+        "Thoracic"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "blunt trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "injury severity",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "thoracostomy",
+          "strength": "weak",
+          "topic": "Thoracic"
+        },
+        {
+          "keyword": "thoracotomy",
+          "strength": "weak",
+          "topic": "Thoracic"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42335298/"
+    },
+    {
+      "pmid": "42335082",
+      "title": "Reevaluating the Effectiveness of Intracranial Pressure Monitoring in Severe Traumatic Brain Injury: Influence of Withdrawal of Life-Sustaining Treatments.",
+      "abstract": "**BACKGROUND AND OBJECTIVES**: To examine the effectiveness of intracranial pressure (ICP)-guided management on mortality and dispositional outcomes of patients with severe traumatic brain injury (sTBI).\n\n**METHODS**: Comparative effectiveness study with propensity score matching and mediation analysis, using the Trauma Quality Improvement Program of the National Trauma Data Bank from 2017 to 2022. Included sTBI patients with abbreviated injury severity 3 to 5 in the head region and <3 in other regions, Glasgow Coma Scale <9, age 16 to 60 years, and at least one reactive pupil. Matching was based on demographics, presenting clinical characteristics, and preexisting conditions. Exposures: ICP monitoring vs no monitoring. Outcomes: Mortality, hospital discharge disposition, and withdrawal of life sustaining treatments (WLST). Measures: Age, initial blood pressure and oxygen saturation, 24 hours highest Glasgow Coma Scale score, computed tomography midline shift, and pupillary reactivity. Mediators: neurosurgical intervention after the first 24 hours, hospital complications, and WLST.\n\n**RESULTS**: From 10\u2009851 patients, 4769 received ICP monitoring matched with 6082 who did not. Mortality 23.0% ICP monitoring group vs 17.3% for the no-ICP group. ICP monitored patients were more likely to die during their hospital stay (odds ratio [OR] 1.278, CI 1.139-1.434, P < .001, E 1.874). ICP monitored patients were less likely to have a favorable discharge outcome (OR 0.705, CI 0.642-0.775, P < .001, E 2.189). With WLST as the mediator, the direct effect of ICP monitoring on mortality was no longer significant (OR 1.011, CI 0.995-1.030, P = .16); the indirect effect of WLST accounted for most of the total effect of ICP on mortality (proportion mediated 0.714, P-value <.001).\n\n**CONCLUSION**: ICP monitoring was associated with increased mortality and worse discharge outcomes in patients with sTBI. Increased mortality was largely mediated by WLST. These results question the effectiveness of ICP-guided management and highlight the major impact that decisions to WLST have on treatment effects and patient outcomes.",
+      "journal": "Neurosurgery",
+      "authors": [
+        "Lazaridis C",
+        "Lo E",
+        "Badillo-Goicoechea E",
+        "Fakhri F",
+        "Wisniewski SR",
+        "Chesnut RM"
+      ],
+      "date": "2026 Mar 06",
+      "doi": "10.1227/neu.0000000000003983",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Systems/QI",
+        "TBI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "injury severity",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "traumatic brain injury",
+          "strength": "strong",
+          "topic": "TBI"
+        },
+        {
+          "keyword": "ICP monitoring",
+          "strength": "weak",
+          "topic": "TBI"
+        },
+        {
+          "keyword": "intracranial pressure monitoring",
+          "strength": "strong",
+          "topic": "TBI"
+        },
+        {
+          "keyword": "trauma quality",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42335082/"
+    },
     {
       "pmid": "42333944",
       "title": "Coordinating Expertise: Defining the Role of the Modern Trauma Specialist.",
@@ -7448,13 +7862,13 @@
     {
       "pmid": "42246394",
       "title": "Contemporary management of large bowel obstruction: What you need to know.",
-      "abstract": "Large bowel obstruction (LBO) accounts for approximately one-quarter of all intestinal obstructions. LBO may arise from mechanical obstruction due to benign or malignant etiologies, or from functional obstruction such as acute colonic pseudo-obstruction. Because clinical presentation varies by acuity, etiology, and ileocecal valve competency, early recognition and prompt evaluation are essential to prevent complications, including ischemia and perforation with potential for sepsis and mortality. Patients with acute obstruction typically present with abdominal pain, distension, and obstipation, whereas malignant obstruction often develops gradually with progressive constipation and abdominal distension, leading to dehydration, electrolyte abnormalities, and malnutrition. Computed tomography has become the preferred diagnostic modality due to its ability to identify the transition point, help define the cause and severity of obstruction, and potentially detect complications such as ischemia or perforation. Endoscopy serves both diagnostic and therapeutic roles in selected patients, including detorsion for sigmoid volvulus, decompression for pseudo-obstruction, and tissue diagnosis or stent placement in malignant obstruction. Initial management focuses on resuscitation, correction of electrolyte abnormalities, mitigation of aspiration risk, and gastrointestinal decompression. Definitive management depends on the underlying etiology. Malignant LBO requires individualized planning based on tumor location, patient physiology, and institutional expertise, with options including oncologic resection with or without colostomy, proximal surgical diversion and staged resection, or endoscopic stenting with staged resection. Self-expanding metallic stents may serve as bridges to surgery and reduce the need for a stoma. Benign causes, including diverticular strictures, volvulus, inflammatory bowel disease-related strictures, anastomotic strictures, and fecal impaction, require tailored endoscopic or operative interventions. Across etiologies, short delays to intervention may be appropriate for stable patients undergoing optimization; however, early definitive management should be the usual approach. In cases where intervention is delayed, careful surveillance for developing ischemia or perforation is mandatory (J Trauma Acute Care Surg. 2026;00:00-00. Copyright \u00a9 2026 Wolters Kluwer Health, Inc. All rights reserved).",
+      "abstract": "Large bowel obstruction (LBO) accounts for approximately one-quarter of all intestinal obstructions. LBO may arise from mechanical obstruction due to benign or malignant etiologies, or from functional obstruction such as acute colonic pseudo-obstruction. Because clinical presentation varies by acuity, etiology, and ileocecal valve competency, early recognition and prompt evaluation are essential to prevent complications, including ischemia and perforation with potential for sepsis and mortality. Patients with acute obstruction typically present with abdominal pain, distension, and obstipation, whereas malignant obstruction often develops gradually with progressive constipation and abdominal distension, leading to dehydration, electrolyte abnormalities, and malnutrition. Computed tomography has become the preferred diagnostic modality due to its ability to identify the transition point, help define the cause and severity of obstruction, and potentially detect complications such as ischemia or perforation. Endoscopy serves both diagnostic and therapeutic roles in selected patients, including detorsion for sigmoid volvulus, decompression for pseudo-obstruction, and tissue diagnosis or stent placement in malignant obstruction. Initial management focuses on resuscitation, correction of electrolyte abnormalities, mitigation of aspiration risk, and gastrointestinal decompression. Definitive management depends on the underlying etiology. Malignant LBO requires individualized planning based on tumor location, patient physiology, and institutional expertise, with options including oncologic resection with or without colostomy, proximal surgical diversion and staged resection, or endoscopic stenting with staged resection. Self-expanding metallic stents may serve as bridges to surgery and reduce the need for a stoma. Benign causes, including diverticular strictures, volvulus, inflammatory bowel disease-related strictures, anastomotic strictures, and fecal impaction, require tailored endoscopic or operative interventions. Across etiologies, short delays to intervention may be appropriate for stable patients undergoing optimization; however, early definitive management should be the usual approach. In cases where intervention is delayed, careful surveillance for developing ischemia or perforation is mandatory. ( J Trauma Acute Care Surg . 2026;101: 1-12. Copyright \u00a9 2026 Wolters Kluwer Health, Inc. All rights reserved).",
       "journal": "J Trauma Acute Care Surg",
       "authors": [
         "Mathew PJ",
         "Schuster KM"
       ],
-      "date": "2026 Jun 05",
+      "date": "2026 Jul 01",
       "doi": "10.1097/TA.0000000000004960",
       "tier": "core",
       "topics": [
@@ -9789,7 +10203,7 @@
         "Winchell R",
         "Coimbra R"
       ],
-      "date": "2026 May 25",
+      "date": "2026 Jul 01",
       "doi": "10.1097/TA.0000000000005033",
       "tier": "core",
       "topics": [
@@ -10576,273 +10990,6 @@
       ],
       "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/42190371/"
-    },
-    {
-      "pmid": "42188673",
-      "title": "Impact of Point-of-Care Ultrasound on Patient-Family Experience and Behavioral Response in a Pediatric Emergency Department: A Randomized Control Survey Trial.",
-      "abstract": "**BACKGROUND**: Existing literature indicates that patients respond positively to point-of-care ultrasound (POCUS) across various clinical settings. However, limited research explores how patient-families perceive its use in pediatric emergency department (ED) care. Our study aims to evaluate POCUS's impact on patient experience, stress, and anxiety in the pediatric ED.\n\n**METHODS**: We conducted a randomized study (1:1) of pediatric patients (\u2264\u200917\u2009years) presenting with a clinical indication for POCUS (lung, FAST, cardiac, or soft tissue applications). Patients were assigned to either a POCUS or non-POCUS group, excluding those who were unstable or had prior POCUS evaluations. Patient-families completed pre- and post-surveys (5-point Likert scale) at triage and ED disposition. Demographic data were obtained from the electronic medical record. Statistical analyses included Chi-Square, Fisher's Exact, Wilcoxon, and sign tests (\u03b1\u2009=\u20090.05) to compare group responses and assess for changes in responses over time.\n\n**RESULTS**: A total of 200 patient-families were enrolled. The cohort was primarily English-speaking, non-Hispanic White males, with an average age of 5.16\u2009years (SEM \u00b10.37). Common chief complaints included cough (34%), fever (15%), abdominal pain (14%), and shortness of breath (13%). No significant differences were observed in patient experience or ED length of stay. Sign tests indicated significant reductions in stress and anxiety within both groups from pre- to post-survey assessments [Anxiety: p\u2009<\u20090.0001 (POCUS), p\u2009=\u20090.0003 (non-POCUS); Stress: p\u2009<\u20090.0001 (POCUS), p\u2009<\u20090.0001 (non-POCUS)]. POCUS patient-families reported a significantly greater perceived importance of imaging and stated that POCUS directly alleviated their stress and anxiety.\n\n**CONCLUSION**: The primary outcome, magnitude of change in stress and anxiety, demonstrated significant reductions in both POCUS and non-POCUS groups. Despite similar findings within each group, families receiving POCUS reported greater perceived importance of imaging and strong support for its use, highlighting its potential to enhance patient-centered care and support further research into its optimal implementation in pediatric emergency care.",
-      "journal": "Acad Emerg Med",
-      "authors": [
-        "Gutierrez SA",
-        "Hays M",
-        "Soriano P",
-        "Nti BK"
-      ],
-      "date": "2026 May 1",
-      "doi": "10.1111/acem.70295",
-      "tier": "filtered",
-      "topics": [
-        "Imaging"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "POCUS",
-          "strength": "weak",
-          "topic": "Imaging"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42188673/"
-    },
-    {
-      "pmid": "42186930",
-      "title": "Crisis interventions for a crisis context: Letter to the editor in response to monitoring the emergence of multidrug-resistant organisms, a crucial issue during high-intensity conflicts: Letter to the editor.",
-      "abstract": "",
-      "journal": "J Trauma Acute Care Surg",
-      "authors": [
-        "Uren HD",
-        "Berrey BH",
-        "Holcomb JB"
-      ],
-      "date": "2026 May 26",
-      "doi": "10.1097/TA.0000000000005053",
-      "tier": "core",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42186930/"
-    },
-    {
-      "pmid": "42186080",
-      "title": "Feasibility and challenges of large language model (LLM)-generated neonatal resuscitation simulations: a multicenter exploratory study.",
-      "abstract": "**BACKGROUND**: Simulation-based training (SBT) in neonatal resuscitation has positive impact on educational and neonatal outcomes. However, the implementation of well-designed SBT imposes multifaceted demands on instructors. Large language models (LLMs) might have potential in dynamically generating contextual resuscitation scenarios. But gaps exist regarding the feasibility and challenges of LLM-generated simulation scenarios in neonatal resuscitation.\n\n**METHODS**: This is a prospective, multicenter pilot study evaluating the feasibility and challenges of LLM-generated simulation scenarios. Four scenarios including extremely premature infant, placental abruption, born before arrival in hospital and meconium-stained amniotic fluid were generated by ChatGPT-4o and DeepSeek-R1. Four equivalent scenarios were extracted from Neonatal Resuscitation Program\u00ae (NRP\u00ae) and RETAIN (a serious game platform). Totally these 16 scenarios were written on standardized templates, coded and randomized. Nine independent instructors from 5 centers, who were blinded to the source of the scenarios (ChatGPT, DeepSeek, NRP\u00ae and RETAIN), evaluated the performance of scenarios using modified Jeffries Simulation Design Scale (JSDS). AI hallucination and qualitative evaluation were also compared among four groups.\n\n**RESULTS**: When compared with NRP\u00ae scenarios, ChatGPT-generated scenarios demonstrated comparable median scores without statistically significant difference in overall evaluation, whereas DeepSeek and RETAIN had lower scores in overall evaluation, problem-solving efficacy and scenario fidelity. DeepSeek exhibited inferior performance in providing appropriate information. In debriefing design, ChatGPT achieved higher scores than NRP\u00ae (effect size r\u2009=\u20090.25, P\u2009=\u20090.02). There was no statistical difference in AI hallucination between the two LLMs. ChatGPT demonstrated strengths in establishing clear objectives and providing structured debriefing frameworks but exhibited deficiencies in the consistent provision of dynamic vital signs. DeepSeek manifested violations in NRP\u00ae algorithm.\n\n**CONCLUSIONS**: ChatGPT-generated simulation scenarios might be feasible in facilitating SBT when supervised by NRP\u00ae instructors. NRP\u00ae deviations and gaps remain in LLM-generated scenarios, which necessitate objective evaluation prior to implementation. Further research assessing educational outcomes and feedback from target learners are essential for the appropriate integration of LLM-generated simulation into SBT.\n\n**CLINICAL TRIAL NUMBER**: Not applicable.",
-      "journal": "Scand J Trauma Resusc Emerg Med",
-      "authors": [
-        "Xu C",
-        "Zhou M",
-        "Wang D",
-        "Zhang Q",
-        "Liu JQ",
-        "Fung G",
-        "Wong M",
-        "Xue Y",
-        "Schm\u00f6lzer GM",
-        "Cheung PY"
-      ],
-      "date": "2026 May 25",
-      "doi": "10.1186/s13049-026-01632-2",
-      "tier": "core",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42186080/"
-    },
-    {
-      "pmid": "42185070",
-      "title": "Beyond surgical stabilization: Integrating a multimodal and personalized approach.",
-      "abstract": "",
-      "journal": "J Trauma Acute Care Surg",
-      "authors": [
-        "Quilly B",
-        "Cloe JS",
-        "Nicolas H"
-      ],
-      "date": "2026 May 25",
-      "doi": "10.1097/TA.0000000000005069",
-      "tier": "core",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42185070/"
-    },
-    {
-      "pmid": "42185069",
-      "title": "Traumatic extraperitoneal bladder repair is associated with fewer leaks and shorter catheter duration.",
-      "abstract": "**BACKGROUND**: Societal guidelines for the management of extraperitoneal bladder injuries (EBIs) are based on limited evidence. Current recommendations support nonoperative management of simple EBIs despite a high persistent urinary leak rate. Conversely, operative management is often associated with a lower leak rate. This study evaluated clinical outcomes associated with operative versus nonoperative management of EBIs. We hypothesized that cystorrhaphy would be associated with fewer persistent urinary leaks, reduced catheter duration, fewer infectious complications, and decreased interval imaging use and timing.\n\n**METHODS**: An 8-year retrospective review (2017-2024) of EBIs was conducted within a university-based Level I/II trauma system. Those who died during hospitalization, underwent suprapubic catheterization, or sustained ureteral, urethral, or intraperitoneal bladder injuries were excluded. Demographic, injury, and management variables were abstracted. Patients were stratified by initial management strategy (operative vs. nonoperative). Outcomes included persistent urinary leak, catheter duration, infectious complications, and interval imaging use and timing.\n\n**RESULTS**: Seventy patients met the inclusion criteria, of whom 39 (55.7%) underwent operative repair. Demographics and injury characteristics were similar across cohorts, although operative patients had larger (2.3 vs. 1.3\u00a0cm, p<0.01) and higher-grade injuries (American Association for the Surgery of Trauma grade \u22653: 71.8% vs. 25.8%, p<0.01). Operative repair was associated with fewer urinary leaks on interval imaging (2.6% vs. 25.8%, p=0.01) and shorter urinary catheter duration (17.6 \u00b1 13.2 vs. 31.1 \u00b1 24.9\u00a0d, p=0.01). No significant differences were observed between cohorts with respect to catheter-associated urinary tract infections (38.5% vs. 45.2%, p=0.57), pelvic hardware infections (15.4% vs. 12.9%, p=0.73), frequency (84.6% vs. 96.8%, p=0.12) or timing (15.9 vs. 19.7\u00a0d, p=0.39) of interval imaging.\n\n**CONCLUSIONS**: Operative repair of EBIs is associated with reduced urinary leak rates and catheter duration despite greater bladder injury severity. Other outcomes were similar between strategies. Concomitant cystorrhaphy during non-urologic abdominal or pelvic operations may expedite recovery in selected patients. (J Trauma Acute Care Surg. 2026;00:000-000. Copyright \u00a9 2026 The Author(s). Published byWolters Kluwer Health, Inc. on behalf of the American Association for the Surgery of Trauma.).\n\n**LEVEL OF EVIDENCE**: Therapeutic/Care Management; Level III.",
-      "journal": "J Trauma Acute Care Surg",
-      "authors": [
-        "Holliday TL",
-        "Wiseman JE",
-        "Cain CD",
-        "Strong BL",
-        "Gupta S",
-        "Broderick ME",
-        "Scalea TM",
-        "Ley EJ"
-      ],
-      "date": "2026 May 25",
-      "doi": "10.1097/TA.0000000000005001",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "injury severity",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42185069/"
-    },
-    {
-      "pmid": "42185053",
-      "title": "Nonoperative management of rib fractures results in a high incidence of nonunion and malunion.",
-      "abstract": "**BACKGROUND**: The true incidence of nonunion (NU) and malunion (MU) after traumatic rib fractures is unknown. Furthermore, contributory injury and patient factors to help guide treatment remain unclear.\n\n**METHODS**: We conducted a retrospective cohort study of hospitalized patients with multiple traumatic rib fractures treated nonoperatively between 2014 and 2025 at a Level I trauma center. We included those with documented computed tomography imaging of the chest obtained at the time of injury and at least six months after injury. Study investigators assessed computed tomography imaging for NU (defined as persistent fracture gap) and MU (defined as abnormal angulation and cortical irregularity). Multivariable logistic regression was used to evaluate fracture charactereistics on the likelihood of developing NU/MU.\n\n**RESULTS**: NU/MU was present in 40 of 219 patients (18.3%) and in 96 of 1229 individual fractures (7.8%). Regression modeling with anatomic rib-level covariates demonstrated bicortical displacement to be associated with NU/MU with an odds ratio of 20.9 (95% CI: 8.2-53.2, p < 0.001). Posterior location, flail segment, and offset fractures were also independently associated with NU/MU. In secondary regression analysis including patient-level covariates, smoking status was an independent predictor of NU/MU development (odds ratio: 2.8; 95% CI: 1.3-6.0, p = 0.006).\n\n**CONCLUSIONS**: NU and MU were common after nonoperative management of chest wall trauma and strongly associated with bicortical displacement. Flail segment, posterior fracture location, and smoking status were also significant risk factors. Further work is needed to explore how surgical stabilization may influence the development or prevention of NU and MU. III. (J Trauma Acute Care Surg 2026;00:000-000 Copyright \u00a9 2026 Wolters Kluwer Health, Inc. All rights reserved.).\n\n**LEVEL OF EVIDENCE**: Prognostic and Epidemiological; Level III.",
-      "journal": "J Trauma Acute Care Surg",
-      "authors": [
-        "Hopper W",
-        "Roberts J",
-        "Kells J",
-        "Halvorson E",
-        "Antes N",
-        "Fisher B",
-        "Benz C",
-        "Dyke C"
-      ],
-      "date": "2026 May 25",
-      "doi": "10.1097/TA.0000000000005062",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "Systems/QI",
-        "Thoracic"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "trauma centre",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "rib fracture",
-          "strength": "strong",
-          "topic": "Thoracic"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42185053/"
-    },
-    {
-      "pmid": "42184915",
-      "title": "Does transthoracic impedance influence termination and recurrence of ventricular fibrillation during impedance-compensated shocks for out-of-hospital cardiac arrest? A retrospective study.",
-      "abstract": "**AIM**: To examine the association between transthoracic impedance (TTI) and termination of ventricular fibrillation or pulseless ventricular tachycardia (VF/pVT) and recurrent VF/pVT in out-of-hospital cardiac arrest (OHCA).\n\n**METHODS**: We conducted a retrospective observational study of non-traumatic OHCA in patients aged \u226516\u00a0years with an initial shockable rhythm between January 2019 and October 2022. Termination of VF/pVT was defined as the absence of a shockable rhythm within 5\u00a0s following shock delivery, resulting in asystole or an organised rhythm. The relationship between TTI and VF/pVT termination and recurrence were assessed using mixed-effects logistic regression models applied to shock level data with a random intercept for clustering by patient.\n\n**RESULTS**: Between 2019 and 2022, 1880 cases met the inclusion criteria, comprising 8333 analysable shocks. The unadjusted probability of VF/pVT termination declined at TTI values \u2265100\u00a0\u03a9, whereas no clear relationship was observed at TTI <100\u00a0\u03a9. In adjusted analyses, TTI <100\u00a0\u03a9 was not associated with VF/pVT termination (adjusted odds ratio [OR] per 1-\u03a9 increase 0.999; 95% CI 0.993-1.006; p\u00a0=\u00a00.860), while TTI \u2265100\u00a0\u03a9 was associated with lower odds of termination (adjusted OR per 1-\u03a9 increase 0.994; 95% CI 0.988-0.999; p\u00a0=\u00a00.016). Among shocks that resulted in VF/pVT termination, TTI was not associated with recurrent VF/pVT (adjusted OR per 1-\u03a9 increase 1.003; 95% CI 0.999-1.006; p\u00a0=\u00a00.082).\n\n**CONCLUSION**: Despite impedance-compensated defibrillation, TTI \u2265100\u00a0\u03a9 remains associated with reduced likelihood of VF/pVT termination in OHCA. In contrast, TTI does not appear to influence the risk of recurrent VF/pVT following successful termination.",
-      "journal": "Resuscitation",
-      "authors": [
-        "Alhenaki A",
-        "Alqudah Z",
-        "Kennett T",
-        "Dantanarayana A",
-        "Williams B",
-        "Nehme Z"
-      ],
-      "date": "2026 May 25",
-      "doi": "10.1016/j.resuscitation.2026.111151",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "traumatic",
-          "strength": "weak",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42184915/"
-    },
-    {
-      "pmid": "42184914",
-      "title": "Estimated survival gains from pulselessness-detection technologies in unwitnessed out-of-hospital cardiac arrest in Western Australia: a simulation study.",
-      "abstract": "**BACKGROUND**: In Australia, two-thirds of emergency medical service (EMS)-attended out-of-hospital cardiac arrests (OHCAs) are unwitnessed, and survival is <5% in this group. With the recent incorporation of pulselessness-detection technologies into consumer wearable devices such as smartwatches, the potential exists to convert unwitnessed arrests into device-witnessed cases.\n\n**AIM**: To estimate the potential increase in survival if unwitnessed OHCAs were detected by a wearable device, leading to earlier notification of the EMS.\n\n**METHODS**: We included EMS-attended, non-traumatic, bystander-witnessed and unwitnessed OHCAs that occurred in patients \u226516\u00a0years of age in Western Australia (WA) over a 5-year period (1 July 2020-30 June 2025). Counterfactual simulation modelling was used to estimate the number of 30-day survivors if an increasing proportion of unwitnessed OHCAs were detected using wearable devices. Our model included varying device sensitivities, ranging from 50% to 100%.\n\n**RESULTS**: The study cohort comprised 11,450 cases. If 100% of unwitnessed cases were converted to device-monitored, with 100% sensor sensitivity, we could expect 693 (95%CI: 538, 848) additional survivors over 5\u00a0years; corresponding to an increase in survival from 0.5% to 8.3% among unwitnessed OHCAs. If only 10% of unwitnessed cases were converted to device-monitored, with a sensor sensitivity of 80%, we could expect 52 (95%CI: 8, 95) additional survivors in WA over 5\u00a0years; corresponding to a doubling in survival from 0.5% to 1.1% among unwitnessed arrests.\n\n**CONCLUSION**: Even a modest uptake of wearable devices with pulselessness-detection technology could lead to a doubling in 30-day survival among unwitnessed OHCA.",
-      "journal": "Resuscitation",
-      "authors": [
-        "Talikowska M",
-        "Majewski D",
-        "Ball S",
-        "Foo D",
-        "Belcher J",
-        "Hutton J",
-        "Grunau B",
-        "Finn J"
-      ],
-      "date": "2026 May 25",
-      "doi": "10.1016/j.resuscitation.2026.111147",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "traumatic",
-          "strength": "weak",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42184914/"
-    },
-    {
-      "pmid": "42184730",
-      "title": "Posterolateral vs. anterolateral approach for posterolateral tibial plateau fractures: A multicenter cohort with four-year outcomes.",
-      "abstract": "**BACKGROUND**: Posterolateral tibial plateau fractures (PLTPFs) are challenging due to limited surgical access. The posterolateral approach (PLA) offers direct visualization, while the anterolateral approach (ALA) is more familiar but may compromise reduction quality. This multicenter cohort study compares PLA versus ALA for PLTPFs with four-year follow-up.\n\n**METHODS**: A multicenter concurrent cohort study (January 2020 - December 2024) included 110 patients with PLTPFs confirmed on CT. Fifty-five underwent ORIF via PLA, and 55 via ALA. Primary outcome was articular step-off on postoperative CT (two blinded radiologists, ICC=0.92). Secondary outcomes included range of motion, IKDC score, Tegner-Lysholm score, complications, revision surgery. Multivariable logistic regression and Kaplan-Meier survival analysis were performed.\n\n**RESULTS**: Mean articular step-off was 0.9\u00b10.5\u00a0mm in the PLA group versus 1.8\u00b10.8\u00a0mm in the ALA group (mean difference 0.9\u00a0mm, 95% CI: 0.6-1.2, p\u00a0<\u00a00.001). Anatomic reduction (<2\u00a0mm) was achieved in 89.1% (49/55) of PLA patients versus 70.9% (39/55) of ALA patients (p\u00a0=\u00a00.02; adjusted OR=3.8, 95% CI: 1.4-10.2, p\u00a0=\u00a00.008). At four years (n\u00a0=\u00a098, 89.1% retention), mean IKDC score was 86.7\u00b16.2 versus 79.3\u00b17.5 (p\u00a0<\u00a00.001), and 78% of PLA patients achieved MCID versus 52% of ALA patients (p\u00a0=\u00a00.01). Transient peroneal neurapraxia occurred in 7.3% (4/55) of PLA versus 1.8% (1/55) of ALA (p\u00a0=\u00a00.18), all resolving within 6 months. In fractures with associated fibular head or neck fracture, the common peroneal nerve may be under tension; fibular fixation or nerve release should be considered. Revision surgery was 3.6% (2/55) in PLA versus 10.9% (6/55) in ALA (p\u00a0=\u00a00.14). Kaplan-Meier analysis showed a trend toward better implant survivorship in the PLA group (96.4% vs. 89.1% at 4 years, log-rank p\u00a0=\u00a00.048).\n\n**CONCLUSIONS**: In this multicenter cohort with four-year follow-up, the posterolateral approach for PLTPFs provided better reduction quality, and superior functional outcomes compared to the anterolateral approach, with an acceptable rate of transient peroneal neurapraxia.",
-      "journal": "Injury",
-      "authors": [
-        "Elmi A",
-        "Kooshki AM",
-        "Hushmand H",
-        "Zamani M",
-        "Sadighi A",
-        "Nikpay A",
-        "Atashin H",
-        "Sharifzadeh Y"
-      ],
-      "date": "2026 Jul 1",
-      "doi": "10.1016/j.injury.2026.113352",
-      "tier": "filtered",
-      "topics": [],
-      "keyword_matches": [],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42184730/"
     }
   ]
 }
