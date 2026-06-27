@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-26T21:13:36.172580Z",
-  "total_articles": 282,
+  "generated": "2026-06-27T20:51:49.517041Z",
+  "total_articles": 283,
   "all_topics": [
     "Abdominal",
     "Burns",
@@ -378,6 +378,338 @@
     "Cochrane Database Syst Rev": "filtered"
   },
   "articles": [
+    {
+      "pmid": "42363248",
+      "title": "Management and outcome of patients with traumatic brain injury treated in three major Nordic intensive care units: a comparative cohort study.",
+      "abstract": "**BACKGROUND**: Traumatic brain injury (TBI) is a major cause of death and disability, with large variations in management strategies and outcomes across countries. Nordic countries are similar in demographics, but differences in treatment strategies likely exist and outcome differences have been reported. We aimed to assess temporal differences in treatments and outcomes in three large Nordic centers, with a hypothesis that outcomes, after adjustment for injury severity, are generally similar and have improved over time.\n\n**MATERIALS AND METHODS**: We performed an international, multicenter, retrospective, observational registry study including consecutive intensive care unit (ICU) managed TBI patients from three of the largest university hospitals in the Nordics (Helsinki (HUS), Finland [2005-2020]; Stockholm (KUH), Sweden [2005-2022]; Oslo (OUH), Norway [2015-2022]). Our primary outcome was 6-12-month unfavorable Glasgow Outcome Scale (GOS, 1-3) and secondary outcome was 30-day mortality. We compared outcomes after adjusting for TBI outcome predictors: age, pupil responsiveness and admission Glasgow Coma Scale (GCS) over time. Other known outcome predictors like computerized tomography (CT) scores (Marshall CT classification and Rotterdam CT score) were collected if available, and intracranial pressure monitoring (ICP) for GCS 3-8 patients was specifically analyzed.\n\n**RESULTS**: In total, 5,970 patients were included (HUS\u2009=\u20092,769, KUH\u2009=\u20091,390, OUH\u2009=\u20091,811). Six-months crude unfavorable outcome was 43% and predicted unfavorable outcome was 44%. Crude 30-day mortality was 17% and predicted 30-day mortality was 18%. Of the included patients, 72% had a moderate-to-severe TBI (GCS 3-12) and 54% underwent some form of neurosurgical intervention. Model application diminished differences between centers, across both outcome measures. Minimal variation in outcomes between hospitals was observed, with a hospital-level variance after applying the model of 0.02 (SD 0.15) for unfavorable outcome and 0.06 (SD 0.24) for 30-day mortality. Overall, no significant temporal trend in predicted unfavorable outcome was observed (OR per year 0.95, 95% CI 0.88-1.03, p\u2009=\u20090.20). Variations in ICP monitoring, but also caseload, were observed.\n\n**CONCLUSION**: Differences in patient case-mix and caseload between hospitals were associated with variation in treatment strategies and crude outcomes. However, after adjusting for TBI outcome predictors, no meaningful between-hospital variation in outcomes was observed, and no temporal trends in outcome found over the study period.",
+      "journal": "Scand J Trauma Resusc Emerg Med",
+      "authors": [
+        "Lidstr\u00f6m H",
+        "Hutchens A",
+        "Froese L",
+        "Nelson DW",
+        "Bartek J",
+        "Fletcher-Sandersj\u00f6\u00f6 A",
+        "Netteland DF",
+        "Aarhus M",
+        "\u00c5kerlund CAI",
+        "Taalas W",
+        "Siironen J",
+        "Vehvil\u00e4inen J",
+        "Skrifvars MB",
+        "Raj R",
+        "Thelin EP",
+        "Tverdal C"
+      ],
+      "date": "2026 Jun 26",
+      "doi": "10.1007/s10143-025-03659-y",
+      "tier": "core",
+      "topics": [
+        "General Trauma",
+        "Systems/QI",
+        "TBI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "traumatic",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "injury severity",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "traumatic brain injury",
+          "strength": "strong",
+          "topic": "TBI"
+        },
+        {
+          "keyword": "ICP monitoring",
+          "strength": "weak",
+          "topic": "TBI"
+        },
+        {
+          "keyword": "intracranial pressure monitoring",
+          "strength": "weak",
+          "topic": "TBI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42363248/"
+    },
+    {
+      "pmid": "42362410",
+      "title": "Re-triage of severely injured patients in no-fault vs. at-fault states.",
+      "abstract": "**IMPORTANCE**: State no-fault laws enforce fewer administrative requirements for automotive insurance to pay hospitals for injury care costs than states without no-fault laws (at-fault states).\n\n**OBJECTIVE**: Determine if no-fault states had lower re-triage (urgent inter-hospital transfer) of patients injured in motor-vehicle collision (MVC) than at-fault states.\n\n**DESIGN**: This was an observational retrospective cohort study.\n\n**SETTING**: FL, NY, MD and WI Healthcare Cost and Utilization Project State Emergency Department and Inpatient Databases from 2016 to 2021.\n\n**PARTICIPANTS**: Severely injured [injury severity score (RISS) >\u00a015] Medicare patients.\n\n**EXPOSURE**: FL and NY had no-fault laws, while MD and WI were at-fault states.\n\n**MAIN OUTCOME**: Re-triage was defined as same-day inter-hospital transfer to a high-level trauma center. Mixed effects multivariable logistic regression estimated the association between no-fault states and re-triage controlling for age, sex, race, comorbidity, RISS, diagnosis, trauma designation, hospital for-profit, adjusting for clustering within hospitals and states. A moderation analysis with an interaction term for mechanism * fault laws was conducted to estimate whether no-fault laws moderated adjusted odds of re-triage differently among patients severely injured in MVC versus falls.\n\n**RESULTS**: In total 6447 Medicare patients in 345 hospitals were severely injured in MVCs among four states. Median age was 70 years [interquartile range (IQR):65-78]. Neurological injury was the most common diagnosis (38.8%). Unadjusted re-triage rates were 2.3% in no-fault and 8.1% in at-fault states (p\u00a0<\u00a00.001). No-fault states had 0.31 lower adjusted odds of re-triage (95% Confidence Interval:0.17-0.56) of severely patients injured in MVCs compared to at-fault states. A moderation analysis with an interaction term for mechanism * fault laws demonstrated Medicare MVC injured patients in at-fault states had 1.77 higher adjusted odds of re-triage compared to falls in at-fault states (95% Confidence Interval=1.23-2.54). Medicare patients severely injured in MVC in no-fault states had 0.38 adjusted odds of re-triage compared to fall patients in at-fault states, 95% Confidence Interval 0.22-0.66.\n\n**CONCLUSION AND RELEVANCE**: Automotive insurance laws moderate odds of re-triage among severely injured MVC patients but not fall patients.\n\n**LEVEL OF EVIDENCE**: Level III.",
+      "journal": "Injury",
+      "authors": [
+        "Visenio MR",
+        "Thivalapill N",
+        "Silver CM",
+        "Sullivan GA",
+        "Thomas AC",
+        "Reddy S",
+        "Ghneim M",
+        "Ryan JL",
+        "Pracht EL",
+        "Crandall ML",
+        "Lundberg A",
+        "Stey AM"
+      ],
+      "date": "2026 Jun 26",
+      "doi": "10.1016/j.injury.2026.113466",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "injury severity",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42362410/"
+    },
+    {
+      "pmid": "42361892",
+      "title": "Association of Rescue Breathing With Outcomes in Adult Suffocation-Related Cardiac Arrest.",
+      "abstract": "**BACKGROUND**: Out-of-hospital cardiac arrest (OHCA) is a public health concern. Whether conventional cardiopulmonary resuscitation (CPR) with rescue breathing may improve outcomes compared with compression-only or no CPR in suffocation-related OHCA is unclear.\n\n**METHODS**: We conducted a retrospective cohort study using the All-Japan Utstein Registry (2005-2023). Adult patients with witnessed suffocation-related OHCA were included, excluding cardiac-origin cases and those treated by EMS personnel. Bystander CPR was categorized as chest compression-only CPR (CC-CPR), chest compression plus ventilation CPR (CCV-CPR), and no bystander CPR (No CPR), with CC-CPR as the reference. The primary outcome was favorable neurological status at one month; secondary outcomes were one-month survival and return of spontaneous circulation (ROSC). Inverse probability of treatment weighting (IPTW) was applied, and prespecified subgroup analyses were performed across year, age, sex, time of EMS call, bystander type, and initial rhythm.\n\n**RESULTS**: Among 76,774 patients, 39,451 received CC-CPR, 8,182 received CCV-CPR, and 29,141 received No CPR. Favorable neurological outcome occurred in 1.5%, 1.5%, and 2.0%; one-month survival in 8.3%, 7.2%, and 9.5%; and ROSC in 19.9%, 17.2%, and 17.7%, respectively. After IPTW adjustment, No CPR was associated with a higher likelihood of favorable neurological outcomes compared with CC-CPR (adjusted OR: 1.20, 95%CI: 1.04 to 1.38), whereas CCV-CPR showed no significant difference (OR: 1.01, 95%CI: 0.78 to 1.32). No CPR was also associated with higher one-month survival (OR: 1.20, 95%CI: 1.12 to 1.28), with no significant difference for CCV-CPR. No significant differences were observed for ROSC. Findings were consistent in subgroup and sensitivity analyses using multiple imputation.\n\n**CONCLUSIONS**: In suffocation-related OHCA, the type of bystander CPR was not associated with improved neurological recovery. These findings suggest that the type of bystander CPR alone may not be the primary determinant of recovery, although the relative contributions of CPR type, airway management, and other prehospital factors remain to be clarified.",
+      "journal": "Resuscitation",
+      "authors": [
+        "Okada A",
+        "Tominaga T",
+        "Iwakura M",
+        "Jung S",
+        "Nomura K"
+      ],
+      "date": "2026 Jun 26",
+      "doi": "10.1016/j.resuscitation.2026.111189",
+      "tier": "filtered",
+      "topics": [
+        "Prehospital"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "prehospital",
+          "strength": "weak",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42361892/"
+    },
+    {
+      "pmid": "42361889",
+      "title": "Sex Differences in OHCA Outcomes Are Driven by Arrest Circumstances Rather Than Different EMS Treatment: - a nationwide registry study from Norway 2015-2024.",
+      "abstract": "**INTRODUCTION**: Studies on sex-disparities in out-of-hospital cardiac arrest (OHCA) show conflicting results. This study seeks to identify if there are sex-based disparities in prehospital treatment and survival in out-of-hospital cardiac arrests in Norway.\n\n**METHODS**: This is a retrospective 10-year cohort study from the Norwegian Cardiac Arrest Registry (NorCAR). We examined sex in relation to clinically important variables such as bystander cardiopulmonary resuscitation, use of defibrillator, survived event and survival to 30 days. We conducted multivariable regression analysis to examine associations between sex and survival outcomes.\n\n**RESULTS**: During the years 2015-2024 NorCAR collected 27 621 cases of EMS-treated OHCA. Women comprised 32% of the cohort. Women presented with cardiac arrest at different locations than men and had significantly lower rates of initial shockable rhythm. We found differences in treatment related to cardiopulmonary resuscitation (CPR) duration, use of advanced airway and use of adrenalin. We observed higher rates of bystander CPR for women compared to men. When adjusting for known covariates, we found a higher Odds Ratio (OR) of survived event for women, but survival to 30 days was lower.\n\n**CONCLUSION**: We found differences in baseline characteristics and treatment performed by Emergency Medical Services (EMS) between women and men, as well as differences in survived event and 30-day survival. Differences in EMS treatment did not seem to be related to the patient's sex. We did, however, find sex differences in survived event and survival to 30 days unexplained by our included variables.",
+      "journal": "Resuscitation",
+      "authors": [
+        "Osmundsen SL",
+        "Alm-Kruse K",
+        "Yusuf F",
+        "Holm KT",
+        "Azulay N",
+        "Kramer-Johansen J",
+        "Tjelmeland I"
+      ],
+      "date": "2026 Jun 26",
+      "doi": "10.1016/j.resuscitation.2026.111188",
+      "tier": "filtered",
+      "topics": [
+        "Prehospital"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "prehospital",
+          "strength": "weak",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42361889/"
+    },
+    {
+      "pmid": "42361888",
+      "title": "Telemedicine-Assisted vs Conventional Telephone Instruction in Cardiopulmonary Resuscitation: The TACTIC Cluster Randomized Trial.",
+      "abstract": "**INTRODUCTION**: Dispatcher-assisted cardiopulmonary resuscitation (DA-CPR) has been shown to increase bystander CPR rates and improve outcomes after out-of-hospital cardiac arrest (OHCA). However, dispatchers cannot directly visualize the scene, which may limit the effectiveness of telephone instructions. Telemedicine-assisted CPR (TA-CPR), incorporating real-time video communication, has been proposed to address this limitation and potentially improve bystander CPR performance. Evidence regarding its effectiveness in real-world EMS systems remains limited. This study aimed to compare bystander CPR rates between TA-CPR and DA-CPR.\n\n**METHODS**: We conducted a pilot pragmatic cluster-randomized controlled trial involving adult patients with suspected non-traumatic OHCA. Monthly block randomization assigned CPR instruction protocols to either a TA-CPR protocol or a DA-CPR protocol. The primary outcome was bystander CPR rate. Secondary outcomes included ongoing bystander CPR at EMS arrival and protocol compliance.\n\n**RESULTS**: A total of 108 patients were included, with 55 managed using TA-CPR and 53 using DA-CPR. Patients in the TA-CPR group were younger (mean age 63.5 \u00b1 16.2 vs. 68.9 \u00b1 14.6 years), and a higher proportion presented with an initial shockable rhythm (20.0% vs. 9.4%). Bystander CPR occurred in 87.3% of TA-CPR cases and 92.5% of DA-CPR cases, with no statistically significant difference (p = 0.53). Ongoing bystander CPR at EMS arrival was also similar between groups (76.4% vs. 84.9%; p = 0.33). Protocol compliance was significantly lower in the TA-CPR group than in the DA-CPR group (69.1% vs. 92.5%; p < 0.01).\n\n**CONCLUSION**: TA-CPR did not increase bystander CPR rates compared with conventional DA-CPR in this real-world EMS setting.",
+      "journal": "Resuscitation",
+      "authors": [
+        "Riyapan S",
+        "Laopran W",
+        "Chantanakomes J",
+        "Chakorn T",
+        "Somboonkul B",
+        "Saelim P"
+      ],
+      "date": "2026 Jun 26",
+      "doi": "10.1016/j.resuscitation.2026.111191",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "traumatic",
+          "strength": "weak",
+          "topic": "General Trauma"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42361888/"
+    },
+    {
+      "pmid": "42361789",
+      "title": "Comparing the analgesic utility & safety of erector spinae plane block versus thoracic epidural for multiple rib fracture trauma: a retrospective cohort analysis.",
+      "abstract": "**PURPOSE**: Despite long-standing use of thoracic epidural block (TEB) for multiple rib fracture trauma, emerging research suggests that the erector spinae plane block (ESPB) offers similar analgesia and increased safety benefits. This study compared the analgesic effectiveness and safety of TEB versus ESPB for multiple rib fracture trauma.\n\n**METHODS**: A historical cohort analysis was conducted, including 324 adult patients who received continuous TEB (n\u00a0=\u00a0188) or ESPB (n\u00a0=\u00a0136) plus multimodal analgesia following multiple rib fracture trauma. The primary objective compared average numeric pain scale (NPS) scores at rest and with activity over the first five days of local anesthetic infusion. Other outcomes included opioid consumption, length of stay data, venous thromboembolism (VTE) prophylaxis time measures, as well as vasoactive support, complication, and mortality rates.\n\n**RESULTS**: Average pre- and post-block NPS scores at rest were greater in the TEB group [5.6 (2.1) vs. 4.8 (2.2), p\u00a0= 0.002; 48-72\u00a0h: 3.7 (2.2) vs. 2.9 (2.2), p\u00a0= 0.002, respectively). However, the daily changes in NPS scores throughout anesthetic infusion were similar between groups, without significant difference in opioid consumption. First VTE prophylaxis was given prior to block placement more frequently in the ESPB group (66.9 vs. 31.4%, p\u00a0< 0.001), and median time between pre and post block VTE prophylactic doses was shorter [12.6 (13.7) vs. 23.9 (12.3) hours, p\u00a0<\u00a00.001].\n\n**CONCLUSION**: Continuous TEB and ESPB demonstrated similar analgesic efficacy for multiple rib fracture trauma. The ESPB group received earlier VTE prophylaxis without disruption in dose administration for block placement, supporting enhanced safety of ESPB.",
+      "journal": "Injury",
+      "authors": [
+        "Merchant N",
+        "MacLean DJ",
+        "Vincze SR",
+        "Chhabra J",
+        "Walker A",
+        "Finkel K"
+      ],
+      "date": "2026 Jun 18",
+      "doi": "10.1016/j.injury.2026.113435",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Thoracic"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "rib fracture",
+          "strength": "strong",
+          "topic": "Thoracic"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42361789/"
+    },
+    {
+      "pmid": "42361788",
+      "title": "Geriatric tibial plateau fractures: A multicenter analysis of complications and treatment strategies.",
+      "abstract": "**INTRODUCTION**: Tibial plateau fractures are among the most complex periarticular injuries and pose a significant therapeutic challenge, particularly in geriatric patients, due to compromised bone quality, comorbidities, and limited mobility. Against the backdrop of demographic change, this multicenter study aims to analyze complications, risk factors for revision surgery, and treatment strategies for geriatric tibial plateau fractures.\n\n**METHODS**: A retrospective cohort study was conducted at two supraregional trauma centers. Patients aged \u2265\u00a070 years with surgically treated intra-articular tibial plateau fractures (AO/OTA 41-B/C) between 2010 and 2022 were included. Demographic parameters, fracture morphology, complications, risk factors, and surgical treatment were recorded. Statistical analyses were performed using chi-square tests and t-tests (significance p\u00a0\u2264\u00a00.05).\n\n**RESULTS**: 148 patients were included (75% female; mean age 76.4 \u00b1 5.3 years). Postoperative complications occurred in 36 patients (24.3%). Wound healing disorders (7.4%), deformities (6%), and infections (5.4%) were the most frequent. Classic risk factors showed no significant association with complications. Schatzker type VI fractures had the highest complication rate at 44.2%. Longer surgery times and the use of an external fixator were significantly associated with complications. N\u00a0=\u00a09 (6.1%) patients were treated with primary total knee arthroplasty (TKA). In this group the complication rate was 22.2% (n\u00a0=\u00a02). Combinations of plate and screw osteosynthesis, as well as external fixators, showed the highest complication rates.\n\n**DISCUSSION**: Fracture morphology and surgical complexity were the factors most strongly associated with postoperative complications. Classic patient-related risk factors played a subordinate role. Given limited weight-bearing capacity, reduced bone quality, and restricted mobilization, stable, minimally invasive reconstruction should be the goal in geriatric patients. Primary TKA can be beneficial in highly complex, non-reconstructible fractures, but requires strict indications.\n\n**CONCLUSION**: In geriatric tibial plateau fractures, fracture morphology and surgical complexity appear to be the main factors associated with complications. Open reduction and internal fixation (ORIF) remain the standard of care if stable reconstruction is achievable; the indication for primary TKA should be limited to selected cases.",
+      "journal": "Injury",
+      "authors": [
+        "Martin P",
+        "Springer F",
+        "Klaut M",
+        "Bormann M",
+        "Neidlein C",
+        "F\u00fcrmetz J",
+        "B\u00f6cker W",
+        "Keppler L"
+      ],
+      "date": "2026 Jun 23",
+      "doi": "10.1016/j.injury.2026.113470",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42361788/"
+    },
+    {
+      "pmid": "42360887",
+      "title": "A novel approach to blood supply in the era of large-scale combat operations.",
+      "abstract": "Future large-scale combat operations (LSCOs) against a near-peer adversary are projected to generate casualty volumes far exceeding those experienced during the Global War on Terror. Estimates range from 800 to 3,600 US casualties per day, potentially overwhelming a military medical system optimized for counterinsurgency warfare with rapid evacuation and limited daily losses. Hemorrhage remains the leading cause of preventable battlefield death, and blood is the cornerstone of combat casualty care. Although the military blood system advanced significantly during the Iraq and Afghanistan conflicts, it was not designed for sustained, high-volume attrition warfare. The Global War on Terror data provides critical insight. Of \u223c53,000 wounded service members over two decades, roughly 20% received blood transfusions, leaving nearly 42,500 wounded who did not require transfusions. Extrapolated to a projected 72,000-casualty LSCO scenario, \u223c57,500 individuals would constitute a \"walking wounded\" population-hemodynamically stable casualties who could represent a substantial, immediately available donor pool. We propose institutionalizing a structured \"Walking Wounded Blood Bank,\" in which eligible, stable casualties donate blood before evacuation. In addition, integrating blood donation into routine redeployment processing could further augment supply during protracted conflict. In contrast, harvesting blood from the deceased is biologically unsound, ethically problematic, and mathematically negligible as a scalable solution. Preparation for LSCO requires confronting the arithmetic of mass casualties. Leveraging the walking wounded and redeploying forces as structured donor populations offers a pragmatic, ethical, and operationally feasible strategy to expand transfusion capacity before demand exceeds supply.",
+      "journal": "J Trauma Acute Care Surg",
+      "authors": [
+        "Hazen BJ",
+        "Staak BP",
+        "Holcomb JB"
+      ],
+      "date": "2026 Jun 26",
+      "doi": "10.55540/0031-1723.3240",
+      "tier": "core",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42360887/"
+    },
+    {
+      "pmid": "42360868",
+      "title": "The role of shock index, pediatric age-adjusted, in early identification and management of hemorrhagic shock in pediatric trauma.",
+      "abstract": "**BACKGROUND**: Hemorrhagic shock is a leading cause of preventable pediatric trauma death, with hypotension representing a late, decompensated stage associated with high mortality. This study evaluates the shock index, pediatric age-adjusted (SIPA), as an early marker of compensated shock and a potential trigger for timely transfusion in pediatric trauma.\n\n**METHODS**: Retrospective cohort study in a large community hospital system (310,000 annual emergency visits) of all pediatric (age <18 y) Level 1 trauma activations admitted from January 2017 through December 2023. Generalized linear models assessed the adjusted relationship between the initial vital signs and hospital outcomes. The Cox proportional hazard model assessed the effect of SIPA on time to blood transfusion.\n\n**RESULTS**: Among 601 pediatric trauma patients, the median age was 12.2 years; 68.7% were male, 41.3% black, and 35.1% white. Over half of all deaths (50.7%) occurred in the emergency department (ED). Mortality was significantly higher among patients with hypotension on ED arrival (54.4% vs. 1.5%, p < 0.01). ED hypotension [adjusted odds ratio (aOR), 3.93; 95% CI, 1.05-14.73] and ED transfusion (aOR, 5.51; 95% CI, 2.11-14.36) independently predicted mortality. Although patients with initial ED hypotension had a shorter time to blood transfusion [3.3 vs. 15.5 h; hazard ratio, 1.53 (95% CI, 0.87-2.72); p = 0.14], hypotension in the ED remained a strong predictor of death. On the contrary, patients with an elevated SIPA experienced an 82% increase in time to blood transfusion initiation {4.5 vs. 17.8 h; p = 0.04; [hazard ratio, 1.82 (95% CI, 1.14-2.90), p = 0.01]} and a reduction in hospital mortality [aOR, 0.42 (95% CI, 0.22-0.81), p = 0.01].\n\n**CONCLUSIONS**: This finding supports the integration of SIPA into pediatric trauma resuscitation protocols to enhance early recognition and treatment of hemorrhagic shock. (J Trauma Acute Care Surg 2026;00:000-000 Copyright \u00a9 2026 Wolters Kluwer Health, Inc. All rights reserved.).\n\n**LEVEL OF EVIDENCE**: Therapeutic/Care Management; Level III.\n\n**STUDY TYPE**: Observational Cohort Study.",
+      "journal": "J Trauma Acute Care Surg",
+      "authors": [
+        "Adejumo FF",
+        "Ledford C",
+        "Cook N",
+        "Schauer S",
+        "Greenwald E",
+        "Piehl M"
+      ],
+      "date": "2026 Jun 26",
+      "doi": "10.1097/TA.0000000000005077",
+      "tier": "core",
+      "topics": [
+        "General Trauma",
+        "Haemorrhage",
+        "Paediatric",
+        "Prehospital"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "haemorrhagic shock",
+          "strength": "strong",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "blood transfusion",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "paediatric trauma",
+          "strength": "strong",
+          "topic": "Paediatric"
+        },
+        {
+          "keyword": "trauma resuscitation",
+          "strength": "weak",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42360868/"
+    },
     {
       "pmid": "42351245",
       "title": "Rapid sequence versus early surgical stabilization of severe chest wall injuries: a propensity score-matched analysis from a multicenter trauma registry.",
@@ -10409,310 +10741,6 @@
       ],
       "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/42214304/"
-    },
-    {
-      "pmid": "42213793",
-      "title": "External Validation of the SCARE Score for Predicting Acute Myocardial Infarction in Patients Calling Emergency Medical Communication Centers: A Prospective Multicenter Study.",
-      "abstract": "**OBJECTIVES**: Chest pain triage during emergency medical dispatch must balance early identification of acute myocardial infarction (AMI) with appropriate allocation of prehospital resources. Our objectives were to externally validate the SCARE score for discrimination of hospital-diagnosed AMI among adults hospitalized after Emergency Medical Communication Center (EMCC) calls for non-traumatic chest pain and to evaluate performance by sex.\n\n**METHODS**: This prospective observational multicenter study included adults hospitalized after an EMCC call for non-traumatic chest pain in four French physician-staffed EMCCs between October 2019 and February 2020. During calls, clinicians prospectively recorded standardized variables used to reconstruct the SCARE score retrospectively; the score was unavailable in real time and did not influence dispatch decisions. The primary analysis assessed the SCARE score's ability to discriminate hospital-diagnosed AMI adjudicated from hospital records according to the Fourth Universal Definition of Myocardial Infarction. Discrimination was assessed using the AUROC, with sex-stratified analyses as a secondary objective, and threshold-based test characteristics were additionally reported for the pre-specified high-risk threshold of >35 points. Calibration was explored using the Hosmer-Lemeshow test and Brier score.\n\n**RESULTS**: Among 2,042 analyzed patients, 265 (13.0%) had AMI. The SCARE score showed good discrimination, with an AUROC 0.85 (95% CI 0.82-0.87). Calibration appeared acceptable (Hosmer-Lemeshow \n\n**CONCLUSIONS**: In this multicenter cohort of patients hospitalized with chest pain after calling a French EMCC, the SCARE score showed good discrimination for hospital-diagnosed AMI and may support prioritization of advanced prehospital resources. However, it should not be used as a stand-alone rule-out tool and does not address other life-threatening causes of chest pain. Prospective validation in all chest pain callers and in non-physician dispatch systems is needed.",
-      "journal": "Prehosp Emerg Care",
-      "authors": [
-        "Garrouste V",
-        "Guerineau A",
-        "Guenezan J",
-        "Moumneh T",
-        "Narcisse S",
-        "Martin PL",
-        "Giovannetti O",
-        "Bouvier F",
-        "Jouffroy R"
-      ],
-      "date": "2026 Jun 04",
-      "doi": "10.1080/10903127.2026.2677853",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Prehospital"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "traumatic",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "prehospital",
-          "strength": "weak",
-          "topic": "Prehospital"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42213793/"
-    },
-    {
-      "pmid": "42213141",
-      "title": "A totally laparoscopic strategy combining microwave ablation and autologous blood transfusion for patients with initial WSES grade IV traumatic splenic rupture in selected transient responders: a proof-of-concept study.",
-      "abstract": "**PURPOSE**: Splenic artery embolization (SAE) is the standard intervention for transient responders with high-grade splenic trauma. When SAE is unavailable, contraindicated, or declined, alternative minimally invasive approaches may be warranted. This study evaluates a totally laparoscopic strategy combining microwave ablation (MWA) for hemostasis with intraoperative autologous blood transfusion (ABT) in selected transient responders with initial WSES Grade IV splenic rupture.\n\n**METHODS**: This retrospective study included 10 consecutive transient responders (October 2021-June 2024) with initial WSES Grade IV splenic rupture who underwent totally laparoscopic MWA combined with intraoperative ABT. All patients exhibited transient hemodynamic response to limited resuscitation (\u2264\u20091500 mL fluids) and preoperative shock index\u2009>\u20090.9. Intraoperative injury was graded by the AAST system. Outcomes included technical success, transfusion requirements, complications, and follow-up.\n\n**RESULTS**: All 10 patients underwent successful spleen-preserving laparoscopy without conversion. AAST grades: II (n\u2009=\u20092), III (n\u2009=\u20094), IV (n\u2009=\u20094). Mean operative time was 191.3\u2009\u00b1\u2009101.7\u00a0min. Mean blood salvage was 1587.5\u2009\u00b1\u2009663.9 mL, yielding 490.8\u2009\u00b1\u200980.2 mL autologous red cells. No patient required postoperative allogeneic transfusion. Hemoglobin, platelets, and lactate improved significantly by postoperative day 3 (P\u2009<\u20090.05). No splenic abscess, overwhelming infection, or mortality occurred. At 12-18 months follow-up, no splenic atrophy or immune dysfunction was observed.\n\n**CONCLUSION**: In selected transient responders with initial WSES Grade IV splenic rupture, a totally laparoscopic approach integrating MWA and ABT is technically feasible. The discrepancy between WSES and AAST grades suggests some WSES IV patients have less severe injuries, supporting laparoscopic exploration in selected cases.",
-      "journal": "Eur J Trauma Emerg Surg",
-      "authors": [
-        "Feng Z",
-        "Xie D",
-        "Hong W",
-        "Zheng C"
-      ],
-      "date": "2026 May 29",
-      "doi": "10.4103/jcrt.JCRT_816_19",
-      "tier": "core",
-      "topics": [
-        "Abdominal",
-        "General Trauma",
-        "Haemorrhage"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "splenic injury",
-          "strength": "strong",
-          "topic": "Abdominal"
-        },
-        {
-          "keyword": "blood transfusion",
-          "strength": "strong",
-          "topic": "Haemorrhage"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42213141/"
-    },
-    {
-      "pmid": "42210338",
-      "title": "Early inhaled isoflurane sedation in neurocritical patients with invasive intracranial pressure monitoring: the NEURO-CONDA randomized pilot trial.",
-      "abstract": "**PURPOSE**: Evidence on inhaled sedation in neurocritically ill patients remains limited, mainly due to concerns about potential increases in intracranial pressure (ICP). We aimed to evaluate the efficacy and safety of early isoflurane sedation compared with propofol in invasively monitored neurocritical patients without intracranial hypertension.\n\n**METHODS**: NEURO-CONDA is a phase IV, randomized, open-label, parallel-group pilot trial conducted in a tertiary ICU (May 2024-October 2025). Adult neurocritical patients requiring ICP monitoring and without intracranial hypertension were randomized to receive either propofol or isoflurane. The primary endpoints were efficacy (assessed with RASS and BIS\u2122) and safety, defined as the occurrence of serious adverse drug reactions (ADRs), including sustained ICP elevation or cerebral perfusion pressure (CPP)\u2009<\u200960\u00a0mmHg requiring increased vasopressor support. Nociception (NOL\u00ae) and other systemic parameters were recorded for up to 72\u00a0h. Analyses were performed according to the intention-to-treat principle.\n\n**RESULTS**: Thirty patients were included (15 per group), and baseline characteristics were comparable; 19 had traumatic brain injury. Sedation efficacy was 100% in both groups throughout the study period. No serious ADRs occurred. ICP and CPP remained stable throughout the study period without requiring higher doses of vasopressors in the isoflurane sedated group.\n\n**CONCLUSIONS**: In this randomized pilot trial, early sedation with isoflurane was feasible and achieved reliable deep sedation without compromising intracranial or cerebral perfusion parameters in invasively monitored neurocritical patients without intracranial hypertension. Larger randomized studies are warranted to confirm these findings and assess long-term neurological outcomes.",
-      "journal": "Crit Care",
-      "authors": [
-        "Murcia-Gubianas C",
-        "Vil\u00e0-Rivas M",
-        "Tarr\u00e9 Ferr\u00e9 L",
-        "Fuster Bertolin C",
-        "Sebasti\u00e1n Cernuda P",
-        "Palomanes Espadal\u00e9 ML",
-        "Martinez Sancho J",
-        "Lorencio C"
-      ],
-      "date": "2026 May 28",
-      "doi": "10.1186/s13054-026-06101-x",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "TBI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "traumatic",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic brain injury",
-          "strength": "weak",
-          "topic": "TBI"
-        },
-        {
-          "keyword": "ICP monitoring",
-          "strength": "weak",
-          "topic": "TBI"
-        },
-        {
-          "keyword": "intracranial pressure monitoring",
-          "strength": "strong",
-          "topic": "TBI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42210338/"
-    },
-    {
-      "pmid": "42209348",
-      "title": "Development and measurement properties of the Safety Threats and Adverse Events in Trauma (STAT) taxonomy: A critical review.",
-      "abstract": "**BACKGROUND**: Adverse events are common in trauma care, with most occurring during the initial resuscitation phase. The Safety Threats and Adverse Events in Trauma (STAT) taxonomy is a comprehensive tool that was created to evaluate both technical and non-technical errors in trauma resuscitations. The objective of this study is to critically appraise the development and measurement properties, including sensibility, reliability, and validity of the STAT taxonomy.\n\n**METHODS**: A literature search was conducted in MEDLINE, Embase, and CINAHL, supplemented by citation searching. Studies describing the development, evaluation, or adaptation of the STAT taxonomy were included. Evidence was synthesized narratively across tool development, sensibility, reliability, and validity.\n\n**RESULTS**: Seven studies met inclusion criteria, encompassing tool development, pilot testing, reliability assessment, and adaptation. The STAT taxonomy was developed using a systematic review and a RAND-modified Delphi process involving 22 trauma experts, resulting in 67 adverse events across nine domains. Early evidence supports strong content validity, with comprehensive coverage of both technical and non-technical domains. Feasibility was demonstrated across simulation and clinical trauma video review settings. Inter-rater reliability was consistently high, with agreement rates of 90.1% in simulation studies and Gwet's AC1 of 0.94 (95% CI: 0.93-0.95) in real-world trauma resuscitations. Preliminary concurrent validity was supported by significant correlations between STAT-identified adverse events and T-NOTECHS domains, including communication and situational awareness.\n\n**CONCLUSION**: The STAT taxonomy demonstrates strong early evidence of methodological rigor, sensibility, and inter-rater reliability, with preliminary support for validity. It appears promising as a standardized tool for identifying adverse events during trauma resuscitation, but further independent multicenter validation is needed before broader implementation.",
-      "journal": "Injury",
-      "authors": [
-        "Nazir A",
-        "Shore E",
-        "Keown-Stoneman C",
-        "Grantcharov T",
-        "Nolan B"
-      ],
-      "date": "2026 May 19",
-      "doi": "10.1016/j.injury.2026.113366",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Prehospital"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "trauma resuscitation",
-          "strength": "weak",
-          "topic": "Prehospital"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42209348/"
-    },
-    {
-      "pmid": "42208607",
-      "title": "Shared Care Between Trauma Surgeons and Geriatricians for Older Trauma Patients.",
-      "abstract": "Low falls are the leading cause of injuries in the over 65-year age group. Overall, falls cause 43% of injury hospitalisations and the majority of these are from standing height. Although trauma systems have been effective at reducing mortality from high-energy trauma, such as motor vehicle collisions, the growing proportion of older adults with trauma raises new challenges and does not fit neatly into centralised models of trauma care based around major trauma services. Older adults with low falls are at risk of under-triage and it is critical to ensure that older adults have access to trauma expertise, including appropriate regional analgesia. Older adults with low falls often present with a combination of injuries, frailty, multimorbidity and polypharmacy. This article will make the case for shared care between trauma surgeons and geriatricians to manage older trauma patients with early involvement of emergency physicians.",
-      "journal": "Emerg Med Australas",
-      "authors": [
-        "Gregorevic K",
-        "Tai R"
-      ],
-      "date": "2026 Jun 1",
-      "doi": "10.1111/1742-6723.70282",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "major trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42208607/"
-    },
-    {
-      "pmid": "42208489",
-      "title": "Beyond survival: What drives senescence in trauma, shock and sepsis?",
-      "abstract": "Cellular senescence is a conserved stress response characterized by stable growth arrest, resistance to apoptosis, and a pro-inflammatory secretome that shapes tissue repair, tumor suppression, and aging. In this review, senescence is framed in the context of trauma, hemorrhagic shock, and sepsis. Severe injuries to brain, lung, abdomen, and bone, as well as ischemia-reperfusion and hemorrhagic shock, rapidly induce p21- and p16-governed senescence-like programs that modulate neurodegeneration, fibrosis, fracture healing, and organ dysfunction. In sepsis, senescence extends beyond immunosenescence to endothelial, epithelial, and stromal compartments, intersecting with ferroptosis, mitochondrial failure, and microbiome dysbiosis, and contributing to post-sepsis syndrome. Integrating mechanistic data with high-dimensional profiling and early interventional studies, this review proposes a context- and time-dependent model in which acute \"pseudosenescence\" may be organ-protective, whereas persistent senescent reservoirs fuel inflammaging and chronic pathology. Future translational studies are required to define the clinical rationale for phase-specific senotherapeutic interventions in trauma, shock, and sepsis, particularly with respect to long-term outcomes beyond survival.",
-      "journal": "Injury",
-      "authors": [
-        "M\u00f6senlechner M",
-        "Ignatius A",
-        "Haffner-Luntzer M",
-        "Halbgebauer R",
-        "Huber-Lang MS"
-      ],
-      "date": "2026 Jul 1",
-      "doi": "10.1016/j.injury.2026.113395",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Haemorrhage"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "haemorrhagic shock",
-          "strength": "weak",
-          "topic": "Haemorrhage"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42208489/"
-    },
-    {
-      "pmid": "42208193",
-      "title": "Risk factors for postoperative infection after non-elective femur fracture fixation in pediatric patients.",
-      "abstract": "**BACKGROUND**: Pediatric femoral shaft fractures are common and often require surgical fixation. Postoperative infections remain a serious complication, yet risk factors specific to this population are not well defined.\n\n**METHODS**: We analyzed 14,037 pediatric patients undergoing non-elective femur fracture fixation in the 2019 and 2022 Kids' Inpatient Database (KID). Multivariable logistic regression identified independent predictors of postoperative soft tissue, device-related, and overall infection. Secondary outcomes included length of stay (LOS) and hospital charges.\n\n**RESULTS**: Infections occurred in 0.6% of patients (0.4% soft tissue, 0.3% device-related). Nondisplaced fractures had sharply increased odds of device infection (OR 35.2, 95% CI 4.7-189.7, p\u00a0<\u00a00.001), while open fractures were protective (OR 0.12, 95% CI 0.01-0.58, p\u00a0=\u00a00.039). External fixation conferred the highest infection risk versus intramedullary nailing (OR 4.65, 95% CI 2.25-9.13, p\u00a0<\u00a00.001). Blood transfusion consistently predicted infection across categories (OR 2.6-3.5, all p\u00a0<\u00a00.01). Soft tissue infection prolonged LOS (20.5 vs 4.2 days, p\u00a0<\u00a00.001) and raised hospital charges ($421,798 vs $111,845, p\u00a0<\u00a00.001).\n\n**CONCLUSION**: This study identifies novel and actionable risk factors for postoperative infection following pediatric femur fracture fixation. Recognition of high-risk groups, including those receiving external fixation or transfusion, may guide targeted prevention, perioperative optimization, and surveillance strategies. These findings have important implications for surgical decision-making and healthcare resource utilization in pediatric orthopedic trauma.",
-      "journal": "Injury",
-      "authors": [
-        "Travis LM",
-        "Blanc NK",
-        "Hinchberger V",
-        "Hellinger R",
-        "Pavlis W",
-        "Grottkau BE"
-      ],
-      "date": "2026 May 26",
-      "doi": "10.1016/j.injury.2026.113381",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Haemorrhage",
-        "Orthopaedic"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "blood transfusion",
-          "strength": "weak",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "open fracture",
-          "strength": "weak",
-          "topic": "Orthopaedic"
-        },
-        {
-          "keyword": "orthopaedic trauma",
-          "strength": "weak",
-          "topic": "Orthopaedic"
-        },
-        {
-          "keyword": "femur fracture",
-          "strength": "strong",
-          "topic": "Orthopaedic"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42208193/"
-    },
-    {
-      "pmid": "42207626",
-      "title": "Adult Male Hypogonadism: A Review.",
-      "abstract": "**IMPORTANCE**: Male hypogonadism is a clinical syndrome of signs and symptoms of testosterone deficiency and consistently low morning serum testosterone concentrations. The prevalence of hypogonadism due to hypothalamus, pituitary, or testes pathology is less than 1%, and the prevalence due to obesity (body mass index \u226530) is from 2% to 8%.\n\n**OBSERVATIONS**: The most common signs and symptoms of hypogonadism are decreased libido, decreased spontaneous erections, and small testes. Primary hypogonadism is characterized by deficient testicular production of testosterone despite elevated luteinizing hormone (LH) concentrations. The most common cause of primary hypogonadism is Klinefelter syndrome (\u22652 X chromosomes and 1 Y chromosome), which affects 2 in 1000 men and is frequently undiagnosed. Secondary hypogonadism is caused by hypothalamic or pituitary dysfunction and is characterized by low testosterone concentrations and low or inappropriately normal LH and follicle-stimulating hormone (FSH) concentrations. The most common permanent causes of secondary hypogonadism are head and neck radiation and severe head trauma. The most common potentially reversible causes of secondary hypogonadism are obesity, severe illness, and medication use (opioids, corticosteroids, checkpoint inhibitors, and medications that cause hyperprolactinemia). Testing for hypogonadism is reserved for men with signs and symptoms of androgen deficiency. Hypogonadism is confirmed if an individual's serum testosterone concentration is less than 264 to 300 ng/dL in at least 2 fasting samples collected between 7 and 10 am and measured with an accurate and external quality-controlled assay. Assessment of calculated free testosterone concentration derived using total testosterone and sex hormone-binding globulin (SHBG) concentrations is necessary for men with obesity, diabetes, and other conditions that cause low serum SHBG concentrations. Patients diagnosed with hypogonadism should have serum FSH and LH concentrations measured to distinguish primary from secondary hypogonadism. For men with obesity-induced hypogonadism, the recommended first-line management is weight loss. In men with obesity, weight loss of at least 5% typically increases serum total testosterone concentration significantly, and weight loss is associated with improved physical function, libido, and erectile function. Men with permanent hypogonadism, or those unable to discontinue medications that cause hypogonadism, may be treated with testosterone. The testosterone formulation (injection, gel, or pill) and dosage should be individualized with monitoring of serum testosterone concentration, hematocrit percentage, and possibly prostate-specific antigen concentration.\n\n**CONCLUSIONS AND RELEVANCE**: Primary hypogonadism affects less than 1% of men, whereas secondary hypogonadism due to obesity (body mass index \u226530) occurs in 2% to 8%. First-line treatment for obesity-induced hypogonadism is weight loss. Testosterone therapy should be initiated for men with permanent hypogonadism or those who are unable to discontinue medications that cause hypogonadism.",
-      "journal": "JAMA",
-      "authors": [
-        "Anawalt BD",
-        "O'Connor KM",
-        "Grossmann M"
-      ],
-      "date": "2026 Jun 23",
-      "doi": "10.1001/jama.2026.8526",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42207626/"
     }
   ]
 }
