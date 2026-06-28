@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-27T20:51:49.517041Z",
-  "total_articles": 283,
+  "generated": "2026-06-28T20:52:28.198472Z",
+  "total_articles": 277,
   "all_topics": [
     "Abdominal",
     "Burns",
@@ -378,6 +378,74 @@
     "Cochrane Database Syst Rev": "filtered"
   },
   "articles": [
+    {
+      "pmid": "42365368",
+      "title": "Association between red blood cell transfusion volume and infection risk: a dose-response analysis of a nationwide trauma registry.",
+      "abstract": "**BACKGROUND**: Infection is a major complication after trauma and is associated with worse clinical outcomes. Although red blood cell (RBC) transfusion is an essential component of resuscitation in trauma patients, its relationship with infection risk remains controversial. Furthermore, the dose-response relationship has not been fully elucidated.\n\n**METHODS**: We conducted a retrospective observational study using a nationwide trauma registry in Japan. Trauma patients registered between 2019 and 2021 were included. Patients were categorized into four groups according to RBC transfusion volume within the first 24\u00a0h after admission: None (0 units), Low (1-4 units), Moderate (5-9 units), and High (\u2265\u200910 units). The primary outcome was in-hospital infection. Multivariable modified Poisson regression analyses were performed to estimate adjusted risk ratios (RRs) with 95% confidence intervals (CIs). Furthermore, we performed multivariable-adjusted restricted cubic spline analyses with four knots to assess the adjusted dose-response relationship between RBC transfusion volume and the risk of in-hospital infection.\n\n**RESULTS**: A total of 55,807 patients were analyzed. The incidence of in-hospital infection increased across transfusion categories: 4,399/48,308 (9.1%) in the None group, 618/3,724 (16.6%) in the Low group, 396/1,733 (22.8%) in the Moderate group, and 548/2,042 (26.8%) in the High group. In multivariable analysis, compared with the None group, Low (adjusted RR 1.85, 95% CI 1.62-2.10), Moderate (adjusted RR 1.95, 95% CI 1.69-2.26) and High (adjusted RR 2.07, 95% CI 1.76-2.43) transfusion volumes were associated with significantly increased risks of infection, respectively. Restricted cubic spline analyses showed an increase in infection risk at lower transfusion volumes, followed by a plateau at higher transfusion volumes.\n\n**CONCLUSIONS**: RBC transfusion volume within the first 24\u00a0h after trauma was associated with in-hospital infection risk. The association was generally linear at lower transfusion volumes, whereas a plateau was observed at higher transfusion volumes. Given the observational nature of this study, these findings should be interpreted cautiously.",
+      "journal": "Crit Care",
+      "authors": [
+        "Ogawa T",
+        "Hongo T",
+        "Yoshihiro S",
+        "Nojima T",
+        "Tokioka K",
+        "Hiraoka T",
+        "Ueda Y",
+        "Matsuo I",
+        "Obara T",
+        "Naito H",
+        "Nakao A",
+        "Yumoto T"
+      ],
+      "date": "2026 Jun 27",
+      "doi": "10.1186/s13054-026-06170-y",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "trauma registry",
+          "strength": "strong",
+          "topic": "Systems/QI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42365368/"
+    },
+    {
+      "pmid": "42364528",
+      "title": "The impact of duration of infection on outcome of debridement, antimicrobial treatment and implant retention in fracture-related infections of the lower leg: A multicentre retrospective cohort study.",
+      "abstract": "**AIM**: This study aimed to assess the association between the interval from initial fracture fixation to debridement, antibiotics and implant retention (DAIR) for fracture-related infection (FRI) (referred to as the FF-FRI interval) and treatment outcome in patients with FRI of the lower leg.\n\n**METHODS**: This multinational retrospective cohort study included patients over 18-years of age who were diagnosed with an FRI of the lower leg, who underwent FRI surgery within 12 weeks after initial fracture fixation, between January 1st 2015 and July 1st 2020. All patients had a minimum follow-up of 12 months after cessation of therapy. Treatment success was defined as a combination of implant retention, eradication of infection, fracture healing and preservation of the affected limb. Both univariate and multivariable models were employed to ascertain factors associated with treatment outcome following DAIR.\n\n**RESULTS**: A total of 100 patients were treated with DAIR. The median FF-FRI interval was 17 days (range: 1-63). A total of 57/100 patients (57%) had a successful treatment outcome after a median follow-up of 33.6 (P\n\n**CONCLUSION**: This study found no association between time to DAIR surgery and treatment outcome of DAIR procedures up to nine weeks, in patients with an FRI of the lower leg, however the success rate, when applying strict definition of treatment success, of 57% rate is limited. In clinical practice, this indicates that attempts to retain an implant can be considered at least up to nine weeks after initial fracture fixation, provided that other surgical decision-making factors (e.g. implant stability, adequate debridement, and soft tissue coverage) permit it.",
+      "journal": "Injury",
+      "authors": [
+        "Sliepen J",
+        "Buijs MAS",
+        "Wouthuyzen-Bakker M",
+        "Depypere M",
+        "Rentenaar RJ",
+        "De Vries JPPM",
+        "Onsea J",
+        "Morgenstern M",
+        "Muri T",
+        "Metsemakers WJ",
+        "Govaert GAM",
+        "IJpma FFA"
+      ],
+      "date": "2026 Jun 24",
+      "doi": "10.1016/j.injury.2026.113467",
+      "tier": "filtered",
+      "topics": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42364528/"
+    },
     {
       "pmid": "42363248",
       "title": "Management and outcome of patients with traumatic brain injury treated in three major Nordic intensive care units: a comparative cohort study.",
@@ -10509,238 +10577,6 @@
       ],
       "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/42217297/"
-    },
-    {
-      "pmid": "42216093",
-      "title": "Comparative efficacy of intraoperative wound irrigation with aqueous chlorhexidine versus normal saline to prevent surgical site infections: a double-blind randomized controlled trial.",
-      "abstract": "**BACKGROUND**: Surgical site infections (SSIs) remain a major concern after abdominal surgery, with incidences of 15-22%. Intraoperative wound irrigation (IOWI) before closure is routinely performed to reduce bacterial contamination, but the benefit of antiseptic irrigation, such as aqueous chlorhexidine, remains uncertain.\n\n**METHODS**: This double-blind, randomized controlled trial was conducted at the Faculty of Medicine, Vajira Hospital, Bangkok, Thailand. A total of 408 adults undergoing abdominal surgery with clean-contaminated and contaminated wounds were randomized (1:1) to receive IOWI with either aqueous chlorhexidine or normal saline before skin closure. Randomization was computer-generated with block design, and outcomes were assessed at 30\u00a0days postoperatively.\n\n**RESULTS**: Among 408 patients (204 per group), SSIs occurred in 21 patients (10.3%) in the aqueous chlorhexidine group and 28 (13.7%) in the saline group (overall 12.0%). The difference was not statistically significant (risk difference\u2009-\u20093.4%; 95% CI\u2009-\u20099.7-2.9%; P\u2009=\u20090.27). No significant differences were found in wound seroma, evisceration, hospital stay, or pain scores.\n\n**CONCLUSIONS**: Aqueous chlorhexidine irrigation did not demonstrate statistically significant superiority over normal saline for preventing SSI in this population. As this trial was neither designed nor powered as an equivalence or non-inferiority study, the absence of a statistically significant difference should not be interpreted as evidence of equivalence between the two irrigation strategies.\n\n**TRIAL REGISTRATION**: Thai Clinical Trials Registry Number (TCTR20211027010).",
-      "journal": "World J Emerg Surg",
-      "authors": [
-        "Kultanaruangnonth M",
-        "Chatrung L",
-        "Tansawet A",
-        "Sukhvibul P",
-        "Techapongsatorn S"
-      ],
-      "date": "2026 May 29",
-      "doi": "10.1186/s13017-026-00705-y",
-      "tier": "core",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42216093/"
-    },
-    {
-      "pmid": "42216013",
-      "title": "Machine learning models for early mortality prediction in trauma patients using public data: a nationwide retrospective study.",
-      "abstract": "**BACKGROUND**: Trauma is a leading cause of morbidity and mortality worldwide, particularly in younger populations. Early identification of high-risk trauma patients is critical for timely interventions and improved outcomes. Although artificial intelligence and machine learning have demonstrated promise in healthcare, their application in trauma mortality prediction has been limited.\n\n**METHODS**: This study developed and validated machine learning models to predict mortality in trauma patients using a large public dataset from the National Community-Based Critical Injury Survey (South Korea, 2016-2020). Overall, 207,012 cases were analyzed. Six machine learning algorithms, including logistic regression, k-nearest neighbor, decision tree, random forest (RF), extreme gradient boosting (XGB), and multi-layer perceptron, were trained and evaluated. Their performance was assessed using the areas under the receiver operating characteristic curve (AUROC) and precision-recall curve (AUPRC), and other metrics. Shapley additive explanations (SHAP) scores were used to interpret feature importance.\n\n**RESULTS**: The XGB model demonstrated the highest performance (AUROC 0.985; AUPRC 0.957), followed closely by the RF model (AUROC 0.984; AUPRC 0.956). Performance remained stable during the COVID-19 period, supporting the model's temporal robustness under systemic disruption. SHAP analysis identified clinically actionable features such as out-of-hospital cardiac arrest, injury severity score, age, and time to transfusion. Unlike many prior studies based on small or single-center datasets, our model was developed using a nationally representative cohort and prioritized interpretability, scalability, and generalizability.\n\n**CONCLUSIONS**: This study presents a high-performing, interpretable machine learning framework for early mortality risk stratification in trauma patients using nationwide registry data. The strong discrimination and temporal robustness of the model support its value as a system-level prediction tool; however, further calibration analyses, external validation, and prospective implementation studies are required before integration into clinical workflows.",
-      "journal": "World J Emerg Surg",
-      "authors": [
-        "Baik SM",
-        "Lee JG",
-        "Shim H",
-        "Kim S",
-        "Hong KS",
-        "Yi H",
-        "Lee KH",
-        "Lee JM"
-      ],
-      "date": "2026 May 29",
-      "doi": "10.1186/s13017-026-00706-x",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "injury severity",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "trauma mortality",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42216013/"
-    },
-    {
-      "pmid": "42215999",
-      "title": "An open access trauma registry for developing countries: a tested selected minimal dataset with its free database program.",
-      "abstract": "**BACKGROUND**: Injury is a global health problem, especially in low- and middle-income countries (LMICs). Sustainable trauma registries in these settings require concise, locally relevant, and low-cost solutions. This methodology paper shares a minimal trauma registry dataset developed and tested over 7\u00a0years, together with its accompanying MS Access database, which is made freely available to help LMIC institutions establish locally owned trauma registries.\n\n**METHODS**: Two prospectively tested registries were sequentially designed, implemented, analyzed, and refined in Al-Ain City, United Arab Emirates: a 200-variable single-center hospital registry and a 50-variable multicenter road traffic collision registry. Finally, an 80-variable Trauma and Emergency Research Group registry was developed. Variables were retained or removed according to feasibility, data completeness, clinical usefulness, prevention value, and demonstrated research utility.\n\n**RESULTS**: The first registry enrolled 2573 patients over 3\u00a0years and the second enrolled 1008 patients over 18\u00a0months. Experience from these registries generated 21 publications from the first registry, 13 from the second, 3 combined analyses, and 5 follow-up studies, which informed the final open-access registry. The resulting tool is a five-page, 80-variable minimal dataset organized into seven sections: personal details, trauma details, road trauma details, emergency department assessment, discharge summary, death details, and injuries and scores. It balances prevention variables such as crash mechanics, safety equipment, education level, and injury location with core outcome variables needed for benchmarking and system evaluation.\n\n**CONCLUSIONS**: A carefully selected minimal dataset can support clinically useful, prevention-oriented, and affordable trauma surveillance in resource-limited settings. Making the form and accompanying MS Access database freely available may help LMIC institutions establish locally owned trauma registries that are scalable, sustainable, and adaptable to national systems, provided that minimum resources for implementation, maintenance, governance, data quality, and reporting are planned.",
-      "journal": "World J Emerg Surg",
-      "authors": [
-        "Shaban S",
-        "Eid HO",
-        "Abu-Zidan FM"
-      ],
-      "date": "2026 May 30",
-      "doi": "10.1186/s13017-026-00707-w",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "trauma registry",
-          "strength": "strong",
-          "topic": "Systems/QI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42215999/"
-    },
-    {
-      "pmid": "42215410",
-      "title": "Elbow hemiarthroplasty is not the \"half\" of elbow arthroplasty.",
-      "abstract": "Distal humeral arthroplasty (DHA), also termed elbow hemiarthroplasty, replaces the distal humeral articular surface while preserving the native ulnar and radial articular surfaces. Compared with total elbow arthroplasty (TEA), DHA has distinct characteristics, resulting in different surgical indications and clinical outcomes. The prefix \"hemi-\" may be misleading, as DHA should not be regarded as half--the humeral part of TEA.",
-      "journal": "Injury",
-      "authors": [
-        "Wang Z",
-        "Lu Y"
-      ],
-      "date": "2026 Jul 1",
-      "doi": "10.1016/j.injury.2026.113360",
-      "tier": "filtered",
-      "topics": [],
-      "keyword_matches": [],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42215410/"
-    },
-    {
-      "pmid": "42214829",
-      "title": "Autologous bone marrow aspirate as a standalone treatment in patients with impaired fracture healing: A scoping review.",
-      "abstract": "**INTRODUCTION**: Fracture nonunion develops in 5-10% of all fractures and the industry offers biological grafting solutions to address this. Autologous bone marrow aspirate (BMA) may represent an inexpensive alternative, minimally invasive, biologically active adjunct to surgery.\n\n**OBJECTIVE**: This scoping review aimed to analyze the current evidence on the effectiveness and safety of autologous bone marrow aspirate as a standalone treatment in patients with impaired fracture healing (minimum 3 months post-fracture).\n\n**METHODS**: The data was extracted from Embase, Medline, Cochrane Library, Web of Science, and ClinicalTrials.gov, up to October 30, 2024, and conducted according to the Joanna Briggs Institute Scoping Review Manual and Preferred Reporting Items for Systematic Reviews and Meta-Analyses extension for Scoping Reviews. Randomized controlled trials, non-randomized trials, prospective or retrospective cohort studies, and case series with a minimum of five participants were included. Studies had to report on BMA as a standalone treatment for nonunion and assess at least one outcome related to effectiveness (ex: time to union, radiographic healing, etc.). Two members of the research team independently carried out the screening, selection, and data extraction processes, with a third member resolving any discrepancies. Descriptive data were presented in tabular form, while other findings were synthesized descriptively.\n\n**RESULTS**: Four hundred and sixty-nine articles were found, 55 met the inclusion criteria and 14 were included after full-text review (311 patients) Union rates ranged from 50% (3/6 patients) to 100%, with most studies reporting rates above 80%, within 1.5-10 months. Reported volume and density of injected BMA varied. There were no serious complications or donor-site morbidity.\n\n**CONCLUSION**: While union rates are encouraging, the absence of control groups across all included studies means that the contribution of BMA to these outcomes cannot be determined. Functional outcomes were not often assessed, and study heterogeneity limits a broader generalization. Defining the concentration and BMA volume needed appears as a next step to validate its effectiveness and guide clinical use, along with adequate control groups.\n\n**LEVEL OF EVIDENCE**: V.",
-      "journal": "Injury",
-      "authors": [
-        "Singh T",
-        "Rouleau DM",
-        "Laflamme GY",
-        "Leduc S",
-        "Therrien E",
-        "Chapleau J"
-      ],
-      "date": "2026 May 26",
-      "doi": "10.1016/j.injury.2026.113385",
-      "tier": "filtered",
-      "topics": [],
-      "keyword_matches": [],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42214829/"
-    },
-    {
-      "pmid": "42214828",
-      "title": "Factors associated with older adult fracture visits to United States emergency departments, 2013-2022.",
-      "abstract": "**INTRODUCTION**: Fractures in older adults are increasingly burdensome on U.S. emergency departments (EDs) and the greater healthcare system. As the older adult population continues to grow, the number, cost, and complexity of fall-related injuries, particularly fractures are rising. This study aimed to identify national trends and factors associated with fracture-related ED visits among older adults.\n\n**METHODS**: We conducted a retrospective analysis using 2013-2022 National Hospital Ambulatory Medical Care Survey-Emergency Department (NHAMCS-ED) data. Adults aged \u226565 with a primary fracture diagnosis were included. Fractures were then categorized by location and mechanism. Demographic and clinical parameters were compared across age groups: 65-74, 75-84, and \u226585 years. Analyses used SPSS Complex Samples v30.0, accounting for survey design, with p\u00a0<\u00a0.05 considered significant.\n\n**RESULTS**: An estimated 5.5% or 12.5 million older adult ED visits were fracture-related from 2013 to 2022. Adults aged 65-74 accounted for 39.1% of visits, followed by 75-84 (33.2%) and \u226585 (27.7%). Falls were the most frequent cause of fracture (74.5%), (p\u00a0=\u00a0.002). The proportion of femur fractures rose steadily with age, accounting for 10.9% of fractures in adults 65-74, 21.2% in those 75-84%, and 30.1% in those \u226585 years (p\u00a0<\u00a0.001). History of osteoporosis was associated with increasing age along with ambulance transport (60.8%) and hospital admission (46.2%)(p\u00a0<\u00a0.05).\n\n**CONCLUSION**: Fracture-related ED visits among older adults vary by age in injury patterns, clinical characteristics, and healthcare utilization. These findings suggest a potential benefit of age-specific strategies, including fall prevention and earlier osteoporosis evaluation.",
-      "journal": "Injury",
-      "authors": [
-        "Matter AL",
-        "Pierce MF",
-        "Beal JR",
-        "Sahmoun AE"
-      ],
-      "date": "2026 May 28",
-      "doi": "10.1016/j.injury.2026.113374",
-      "tier": "filtered",
-      "topics": [],
-      "keyword_matches": [],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42214828/"
-    },
-    {
-      "pmid": "42214827",
-      "title": "Perioperative multidose tranexamic acid combined with erythropoietin and iron isomaltoside supplementation reduces transfusion requirements of elderly patients with intertrochanteric fractures.",
-      "abstract": "**INTRODUCTION**: Perioperative anaemia and blood transfusion are common complications in elderly patients with intertrochanteric fractures, impacting recovery. This study aimed to evaluate whether a combined approach of early, continuous antifibrinolytic therapy with tranexamic acid (TXA) plus erythropoietin (EPO) and intravenous iron isomaltoside (IM) reduces transfusion requirements compared to TXA alone or standard care.\n\n**METHODS**: This retrospective analysis included 134 patients aged >\u00a070 years with intertrochanteric fractures treated with proximal femoral nail antirotation. Three perioperative blood management protocols were compared: Control group receiving a single 1\u00a0g dose of intravenous TXA; TXA group receiving sequential 1\u00a0g TXA every 12\u00a0h for 48\u00a0h; and TXA\u00a0+\u00a0EPO/IM group receiving the sequential TXA regimen plus a single 1000\u00a0mg dose of IM and daily 40,000\u00a0U EPO. The primary outcome was total perioperative transfusion rate. Secondary outcomes included hidden blood loss (HBL), haemoglobin (Hb) levels, and 90-day complications.\n\n**RESULTS**: From post-traumatic day 2 (POD 2) to POD 3, HBL was significantly lower in the TXA and TXA\u00a0+\u00a0EPO/IM groups compared to the control group (P\u00a0<\u00a00.05). On PODs 2 and 3, Hb levels in the TXA\u00a0+\u00a0EPO/IM group were significantly higher than in the TXA group (P\u00a0<\u00a00.05). The total transfusion rate was significantly lower in the TXA\u00a0+\u00a0EPO/IM group (14.0%) compared to both the TXA (32.6%) and Control (63.8%) groups (P\u00a0<\u00a00.05). The incidence of thromboembolic events and other complications was similar across all three groups.\n\n**CONCLUSION**: TXA early and continuous antifibrinolytic therapy combined with EPO/IM rapid iron supplementation and erythropoiesis appears to safely and effectively reduce the perioperative blood transfusion rate and the occurrence of anemia in elderly patients with intertrochanteric fractures without increasing complication risk.",
-      "journal": "Injury",
-      "authors": [
-        "Ma H",
-        "Li M",
-        "Liu X",
-        "Liu X"
-      ],
-      "date": "2026 May 25",
-      "doi": "10.1016/j.injury.2026.113391",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Haemorrhage"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "traumatic",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "tranexamic acid",
-          "strength": "strong",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "blood transfusion",
-          "strength": "weak",
-          "topic": "Haemorrhage"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42214827/"
-    },
-    {
-      "pmid": "42214304",
-      "title": "Closing gaps in urban trauma systems: Outcomes of an inner-city community emergency department multidisciplinary trauma protocol.",
-      "abstract": "**BACKGROUND**: Non-trauma center (NTC) emergency departments (EDs) play regular but underappreciated roles in the management of severely injured patients, yet many lack formal protocols to guide care. We describe the implementation and outcomes of a structured trauma evaluation and transfer protocol at an urban NTC emergency department.\n\n**METHODS**: A multidisciplinary trauma protocol was implemented on April 1, 2023, at an urban NTC, supported by a Level I trauma center, 2.5\u00a0miles apart. The study period ran from January 1, 2019, to June 30, 2025. Using pre-post study design, 62 patients treated prior to implementation were compared with 49 post-intervention patients. The primary outcome was time to transfer to the trauma center. Secondary outcomes included time to trauma alert activation, time to CT imaging, documentation completeness across six process metrics, clinical intervention rates, and mortality.\n\n**RESULTS**: The two cohorts were well-matched in demographics and injury characteristics by regression analysis. Median time to transfer decreased significantly from 78\u00a0min (IQR 47-212) to 50\u00a0min (IQR 39-97) post-intervention (p\u00a0=\u00a00.011). Time to CT imaging decreased from a median of 90 to 34\u00a0min (p\u00a0=\u00a00.003). Documentation metrics improved (p\u00a0\u2264\u00a00.001). Mortality decreased from 9.7% to 6.1%, although this difference did not reach statistical significance.\n\n**CONCLUSIONS**: Implementation of a structured trauma protocol reduced time to transfer and time to imaging in an urban community ED. These findings demonstrate that NTC hospitals can achieve meaningful improvements in trauma processes and support their integration as active contributors within inclusive regional trauma systems.",
-      "journal": "Am J Emerg Med",
-      "authors": [
-        "London KS",
-        "Cherney A",
-        "Neupane S",
-        "Tomlinson HA",
-        "Cervone J",
-        "Qian E",
-        "Fishman C",
-        "Davis J",
-        "McGann S",
-        "Goswami V",
-        "Koenig G",
-        "Randolph F"
-      ],
-      "date": "2026 Sep 1",
-      "doi": "10.1016/j.ajem.2026.05.032",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "trauma centre",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42214304/"
     }
   ]
 }
