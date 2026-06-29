@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-28T20:52:28.198472Z",
-  "total_articles": 277,
+  "generated": "2026-06-29T21:17:26.885805Z",
+  "total_articles": 278,
   "all_topics": [
     "Abdominal",
     "Burns",
@@ -378,6 +378,222 @@
     "Cochrane Database Syst Rev": "filtered"
   },
   "articles": [
+    {
+      "pmid": "42371668",
+      "title": "CONVERT: Civilian outcomes of emergency department tourniquet conversion.",
+      "abstract": "**BACKGROUND**: Tourniquet conversion (TC) involves the removal of a tourniquet with the achievement of hemostasis using wound packing, hemostatic dressings, and/or pressure bandages as a less invasive method of hemorrhage control. TC is routinely performed in emergency departments to reduce ischemic complications associated with prolonged tourniquet use. Despite increasing civilian prehospital tourniquet application, empirical data guiding TC remain limited, and existing protocols rely largely on expert opinion.\n\n**METHODS**: We conducted a retrospective cohort study of trauma patients presenting with prehospital-applied extremity tourniquets to a Level I trauma center between March 2021 and December 2024. TC was defined as the removal of a tourniquet with replacement by wound packing, hemostatic dressings, and/or pressure bandages. Outcomes were categorized as successful conversion, procedural intervention, or operative intervention. Secondary outcomes included injury-related complications, attribution of complications to tourniquet use, and factors associated with delayed or failed conversion. Multivariable logistic regression was used to identify predictors of successful conversion.\n\n**RESULTS**: Among 647 patients, 543 (83.9%) underwent successful TC in the emergency department without procedural or operative intervention. Median tourniquet duration was 40 minutes (interquartile range, 30-59). Sixty patients (9.3%) experienced injury-related complications, with none attributed to tourniquet use. Complications were more common in patients requiring operative intervention compared with those successfully converted (44.4% vs. 4.6%). Increasing tourniquet duration was independently associated with decreased odds of successful conversion per 30-minute interval [odds ratio (OR), 0.41; 95% CI, 0.32-0.53]. Upper extremity tourniquets were less likely to be successfully converted than lower extremity tourniquets (OR, 0.61; 95% CI, 0.38-0.97).\n\n**CONCLUSIONS**: TC in the emergency department is successful for most patients with prehospital-applied tourniquets. Complications appear primarily related to the inciting injury rather than tourniquet use, particularly when the duration is under 2 hours. These findings support existing conversion protocols and highlight the importance of timely reassessment to minimize duration-associated complications. (J Trauma Acute Care Surg 2026;00:000-000 Copyright \u00a9 2026 Wolters Kluwer Health, Inc. All rights reserved.).\n\n**LEVEL OF EVIDENCE**: Prognostic/Epidemiological; Level III.",
+      "journal": "J Trauma Acute Care Surg",
+      "authors": [
+        "Fox AL",
+        "Stuart M",
+        "Clemens M",
+        "Callaway DW"
+      ],
+      "date": "2026 Jun 29",
+      "doi": "10.1097/TA.0000000000005106",
+      "tier": "core",
+      "topics": [
+        "General Trauma",
+        "Prehospital",
+        "Procedures",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "tourniquet",
+          "strength": "strong",
+          "topic": "Procedures"
+        },
+        {
+          "keyword": "prehospital",
+          "strength": "weak",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42371668/"
+    },
+    {
+      "pmid": "42371409",
+      "title": "Relative Superiority: A framework for military and civilian trauma care based on special operations warfare.",
+      "abstract": "The foundational principles in trauma care align with the operational strategies of Special Forces. Here we present a novel perspective on trauma care drawn from the book \"Spec Ops-Case Studies in Special Operations Warfare: Theory and Practice\" (1995) by Admiral (Ret'd) William H. McRaven. The book introduces the concept of Relative Superiority (RS), defined as a point in time when a smaller, well-trained, and well-prepared force gains a decisive advantage over a larger adversary. Achieving and maintaining RS requires precise timing and coordinated action. As time progresses, the opportunity to gain or retain this advantage diminishes. In trauma care, RS can be compared with the critical window for achieving hemorrhage control, timely resuscitation, and rapid transition to damage control surgery. Delays in these interventions decrease survival probability. If hemorrhage control is achieved but not sustained, re-establishing it becomes increasingly difficult and often fatal. This framework is illustrated through two trauma case studies. In Case Study I, timely interventions result in sustained control and survival. In Case Study II, delays led to only temporary control, which is subsequently lost, contributing to patient death. Within the RS framework, rapid surgical access can shift the advantage by attenuating hemorrhage and mitigating shock; however, speed alone does not guarantee survival. Achieving and maintaining RS requires sustained hemostasis, access to resources, and delivery of high-quality care. Applying the RS framework to trauma care offers a structured approach to evaluating the timing and effectiveness of interventions during critical phases of care. Its integration into Morbidity and Mortality discussions may help identify missed opportunities, guide performance improvement, and inform system-level changes. This conceptual model may support trauma teams in understanding how small gains at key moments influence overall outcomes in high-acuity clinical scenarios.",
+      "journal": "J Trauma Acute Care Surg",
+      "authors": [
+        "Singh K",
+        "Dion PM",
+        "Tulloch V",
+        "Beckett A"
+      ],
+      "date": "2026 Jun 29",
+      "doi": "10.1097/TA.0000000000004994",
+      "tier": "core",
+      "topics": [
+        "General Trauma",
+        "Haemorrhage"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "damage control",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42371409/"
+    },
+    {
+      "pmid": "42371000",
+      "title": "ECMO for patients with obesity: evidence and practice.",
+      "abstract": "**PURPOSE**: Obesity is increasingly encountered among patients requiring extracorporeal membrane oxygenation (ECMO) for severe respiratory or cardiac failure. It alters respiratory and cardiovascular physiology and drug pharmacokinetics and introduces technical and logistical challenges that may complicate patient selection, ECMO initiation, cannulation, anticoagulation, and monitoring. This review summarizes current evidence regarding the epidemiology, physiological implications, outcomes, and management of obesity in patients supported with veno-venous (VV) or veno-arterial (VA) ECMO.\n\n**RESULTS**: Available evidence, largely retrospective and based on body mass index classifications, suggests that obesity should not be considered a contraindication to VV-ECMO, with outcomes comparable to or potentially better than those of patients without obesity. However, obesity-related respiratory mechanics may exaggerate the apparent severity of lung injury, emphasizing the need for optimized conventional ARDS management, including appropriate ventilatory strategies and prone positioning, before ECMO initiation. In contrast, outcomes during VA-ECMO are more heterogeneous, particularly in extracorporeal cardiopulmonary resuscitation (ECPR), and may be influenced by patient selection, comorbidities, and timing of support. Obesity also creates important technical challenges requiring individualized cannulation, anticoagulation, and perfusion strategies.\n\n**CONCLUSION**: Obesity alone should not preclude access to ECMO, particularly VV-ECMO. Successful management requires anticipation of obesity-related challenges, appropriate infrastructure, and structured multidisciplinary protocols. Further prospective studies are needed to clarify obesity-specific risks, optimize management strategies, and evaluate long-term outcomes.",
+      "journal": "Intensive Care Med",
+      "authors": [
+        "Moyon Q",
+        "Hermans G",
+        "Abrams D",
+        "Agerstrand C",
+        "Anderson MR",
+        "De Jong A",
+        "Fan E",
+        "Ferguson ND",
+        "Grasselli G",
+        "Jaber S",
+        "Ng PY",
+        "Pham T",
+        "Rudym D",
+        "Schmidt M",
+        "Combes A",
+        "Brodie D"
+      ],
+      "date": "2026 Jun 29",
+      "doi": "10.1161/JAHA.119.013948",
+      "tier": "filtered",
+      "topics": [
+        "Cardiac Arrest"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "ECMO",
+          "strength": "strong",
+          "topic": "Cardiac Arrest"
+        },
+        {
+          "keyword": "ECPR",
+          "strength": "weak",
+          "topic": "Cardiac Arrest"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42371000/"
+    },
+    {
+      "pmid": "42370589",
+      "title": "Going the Extra Mile: Picking the Right Trauma Center Destination for Critically Injured Patients in a Mature State-Wide Trauma System.",
+      "abstract": "",
+      "journal": "J Am Coll Surg",
+      "authors": [
+        "Brown JB"
+      ],
+      "date": "2026 Jun 29",
+      "doi": "10.1097/XCS.0000000000002080",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "strong",
+          "topic": "Systems/QI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42370589/"
+    },
+    {
+      "pmid": "42370061",
+      "title": "Better way: initial acceptability testing of using artificial intelligence tools to accelerate development of trauma clinical guidance.",
+      "abstract": "**INTRODUCTION**: Representatives of the trauma community have voiced a need for a new approach to developing clinical guidance. In this study, we test the initial acceptability of a proposed 12-step approach that aims to reduce the current clinical guidance timeline from more than 24 months to 24 weeks.\n\n**METHODS**: Investigators hypothesized that artificial intelligence (AI) tools could be leveraged to improve and make the process of clinical guidance development more efficient, facilitating AI initial output that could later be reviewed by subject matter experts (SMEs), ensuring ethical standards and a collaborative design. Following the agile methodology, emphasizing continuous delivery and improvement, and the Practical, Robust Implementation and Sustainability Model framework, the investigators drafted a 12-step approach to clinical guidance development in 24 weeks. The process begins with selecting a clinical topic and culminates in a bedside-ready clinical decision tree.\n\n**RESULTS**: The 2025 \n\n**CONCLUSIONS**: The current landscape of clinical guidance offers significant opportunities for improvement. Key areas for improvement include promoting collaboration across multiple disciplines and organizations, developing recommendations that consider resource variations, and leveraging new technologies, such as AI, to expedite the development process. This is crucial because ongoing delays lead to practices lagging behind current evidence. Further research is needed to rigorously test and refine how responsible use of AI can be integrated into expediting evidence integration into clinical guidance.",
+      "journal": "Trauma Surg Acute Care Open",
+      "authors": [
+        "Zavala Wong G",
+        "Rosenauer S",
+        "Church C",
+        "Sherifali D",
+        "Racey M",
+        "Grider K",
+        "Moreno AN",
+        "LaGrone L"
+      ],
+      "date": "2025 Jan 1",
+      "doi": "10.1136/tsaco-2025-002060",
+      "tier": "core",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42370061/"
+    },
+    {
+      "pmid": "42370060",
+      "title": "Usability and feasibility of a mobile application for real-time trauma care guidance: considerations for user adoption.",
+      "abstract": "**INTRODUCTION**: Inadequate access to clinical guidance influences the implementation of evidence-based clinical practices in trauma care settings. This guidance is not optimally effective if it cannot be disseminated in settings where it is most needed, leading to substantial inequities in trauma care. To address this problem, this project developed a trauma clinical guidance repository and accompanying mobile application and sought to elicit concept feedback.\n\n**METHODS**: As part of year 2 of the \n\n**RESULTS**: 56 post-conference survey responses were collected. Respondents provided detailed, indepth feedback on the display and user features of the mobile application and gave input on what factors they would prioritize to maximize the tool's adoption, with the most frequent mentions being about logical and user-friendly application clickthrough. Areas of positive feedback included the repository's novel contribution as a clinical tool and its potential to aid clinicians in resource-constrained settings. Components of the tool that participants believed required further iteration included ensuring clear, concise language and making it more user-friendly to retrieve information during emergent situations efficiently. A prominent theme throughout the sessions and survey is the necessity of continuous opportunities for feedback from a wide range of stakeholders, both clinical and non-clinical.\n\n**DISCUSSION**: For novel information dissemination platforms to be effective, clinical guidance must be continuously updated and presented in a user-friendly, logical format that allows clinicians to find and integrate information into practice seamlessly. Conceptual feedback will contribute to a better understanding of clinician needs, further elucidating the opportunities to match technology with bedside utility.Level of Evidence: Level VI.",
+      "journal": "Trauma Surg Acute Care Open",
+      "authors": [
+        "Frankel B",
+        "Beasley L",
+        "Rosenauer S",
+        "Church C",
+        "Grider K",
+        "Buchner M",
+        "Francoeur N",
+        "Zavala Wong G",
+        "Moreno AN",
+        "LaGrone L"
+      ],
+      "date": "2025 Jan 1",
+      "doi": "10.1136/tsaco-2025-002051",
+      "tier": "core",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42370060/"
+    },
     {
       "pmid": "42365368",
       "title": "Association between red blood cell transfusion volume and infection risk: a dose-response analysis of a nationwide trauma registry.",
@@ -2926,8 +3142,8 @@
     },
     {
       "pmid": "42314896",
-      "title": "Comparison of Intraosseous Line Placement Location and Rates of Return of Spontaneous Circulation and Survival to Discharge Among Patients with Out-of-Hospital Cardiac Arrest.",
-      "abstract": "**OBJECTIVE**: Establishment of vascular access via intraosseous (IO) line is common practice during out-of-hospital cardiac arrest (OHCA). Few studies have examined patient outcomes as they relate to IO placement location. Our study aims to compare outcomes including return of spontaneous circulation (ROSC), survival to discharge, and neurological status upon discharge among OHCA patients that received humeral IO versus tibial IO placement for medication administration.\n\n**METHODS**: This retrospective study analyzed data from the Riverside County High Performance Resuscitation Training Cardiac Arrest Registry, which consolidates non-traumatic cardiac arrests from emergency medical service (EMS) agencies in Riverside County, California. The study included patients (\u226516 years) treated between 2020 and 2023.\n\n**RESULTS**: 1,920 cases were examined which included 246 with humeral IO placement (12.8%) and 1,674 with tibial IO placement (87.2%). Humeral IO placement was nearly two times more likely to achieve ROSC (1.85, [1.39, 2.50], p <0.0001). After adjusting for additional factors including age, sex, initial rhythm, and compression fraction, the association was stronger (2.55, [1.54, 4.22], p=0.0003). Humeral IO placement was also twice as likely to be discharged (2.04, [1.03, 4.17], p <0.050). There was insufficient power (n=49) to assess neurologic status at discharge. Conclusion The data suggests that humeral IO placement may be associated with higher rates of ROSC and survival to hospital discharge when compared to tibial IO placement. Further controlled studies may be needed to help guide possible protocol changes when discussing optimal IO placement in cardiac arrest.",
+      "title": "Comparison of intraosseous line placement location and rates of return of spontaneous circulation and survival to discharge among patients with out-of-hospital cardiac arrest.",
+      "abstract": "**OBJECTIVE**: Establishment of vascular access via intraosseous (IO) line is common practice during out-of-hospital cardiac arrest (OHCA). Few studies have examined patient outcomes as they relate to IO placement location. Our study aims to compare outcomes including return of spontaneous circulation (ROSC), survival to discharge, and neurological status upon discharge among OHCA patients that received humeral IO versus tibial IO placement for medication administration.\n\n**METHODS**: This retrospective study analyzed data from the Riverside County High Performance Resuscitation Training Cardiac Arrest Registry, which consolidates non-traumatic cardiac arrests from emergency medical service (EMS) agencies in Riverside County, California. The study included patients (\u226516\u00a0years) treated between 2020 and 2023.\n\n**RESULTS**: 1920 cases were examined which included 246 with humeral IO placement (12.8%) and 1674 with tibial IO placement (87.2%). Humeral IO placement was nearly two times more likely to achieve ROSC (1.85, [1.39, 2.50], p\u00a0<\u00a00.0001). After adjusting for additional factors including age, sex, initial rhythm, and compression fraction, the association was stronger (2.55, [1.54, 4.22], p\u00a0=\u00a00.0003). Humeral IO placement was also twice as likely to be discharged (2.04, [1.03, 4.17], p\u00a0<\u00a00.050). There was insufficient power (n\u00a0=\u00a049) to assess neurologic status at discharge.\n\n**CONCLUSION**: The data suggests that humeral IO placement may be associated with higher rates of ROSC and survival to hospital discharge when compared to tibial IO placement. Further controlled studies may be needed to help guide possible protocol changes when discussing optimal IO placement in cardiac arrest.",
       "journal": "Resuscitation",
       "authors": [
         "Witherell A",
@@ -10355,228 +10571,6 @@
       ],
       "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/42222899/"
-    },
-    {
-      "pmid": "42218532",
-      "title": "Challenges faced by prehospital emergency physicians providing emergency care to pediatric patients : Defining entrustable professional activities by identifying self-perceived competency strengths and deficits in prehospital emergency medicine.",
-      "abstract": "**BACKGROUND**: Pediatric emergencies constitute a small proportion of prehospital cases yet pose unique diagnostic and therapeutic challenges for emergency physicians due to age-specific physiological differences, limited exposure, and infrequent opportunities for skill acquisition. Competency-based medical education frameworks and entrustable professional activities (EPAs) may offer suitable concepts to structure pediatric emergency training.\n\n**METHODS**: This mixed-methods study combined a retrospective analysis of 9,409 prehospital emergency physician protocols (2012-2021) with a survey assessing self-perceived competence and training needs among emergency physicians. Pediatric emergency characteristics, clinical management, and utilized interventions were analyzed. Survey data captured demographic characteristics, perceived competency across defined scenarios, sources of knowledge acquisition, and perceived gaps in pediatric emergency preparedness.\n\n**RESULTS**: Among all prehospital missions, 606 pediatric emergencies (6.45%) were identified, predominantly involving adolescents with any condition, and any age with trauma and neurological conditions. Invasive interventions such as intubation, cardiopulmonary resuscitation, or intraosseous access were rarely needed. Survey responses (n\u2009=\u2009437) revealed heterogeneous self-perceived competencies: seizures, anaphylaxis, and hypoglycemia were associated with high confidence, whereas neonatal care, pediatric polytrauma, and cardiopulmonary resuscitation demonstrated markedly lower confidence levels. Knowledge was primarily acquired during the initial emergency physician qualification training period, as well as through subsequent clinical exposure in routine practice, with limited engagement in ongoing pediatric-specific training. More than 70% of participants advocated for structured, mandatory, and simulation-based pediatric training.\n\n**CONCLUSION**: Pediatric emergencies in the prehospital setting are uncommon yet challenging, revealing gaps between training expectations, clinical exposure, and perceived competencies. Strengthened pediatric emergency training-particularly simulation-based practice and EPA-based curricular elements-may enhance preparedness, standardize entrustment decisions, and improve patient safety. Future work should operationalize nested pediatric EPAs and evaluate competency outcomes prospectively.\n\n**TRIAL NUMBER**: IRB-2023-06.",
-      "journal": "Scand J Trauma Resusc Emerg Med",
-      "authors": [
-        "Kamphausen A",
-        "Steg J",
-        "Bexten T",
-        "Kubitz J",
-        "Engelen C"
-      ],
-      "date": "2026 May 30",
-      "doi": "10.1111/j.1553-2712.2000.tb02270.x",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "Prehospital"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "polytrauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "prehospital",
-          "strength": "strong",
-          "topic": "Prehospital"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42218532/"
-    },
-    {
-      "pmid": "42218522",
-      "title": "Transfusion and mortality after major trauma in patients on direct oral anticoagulants: a multicentre cohort study.",
-      "abstract": "**BACKGROUND**: Major trauma in patients with direct oral anticoagulants (DOACs) is increasing as treatment with DOACs is becoming more prevalent. DOACs add complexity to trauma due to increased risk of bleeding. The primary aim of this study was to compare the likelihood of packed red blood cell (PRBC) transfusion and PRBC volumes in patients with DOACs to non-anticoagulated controls after major trauma. Secondary aims were to compare mortality rates between these groups.\n\n**METHODS**: This was a multicentre retrospective cohort study with four participating hospitals. Inclusion criteria were age\u2009\u2265\u200918 years and admission for trauma with New Injury Severity Score (NISS)\u2009>\u200915 from Jan 1, 2019, to Dec 31, 2023. The Swedish Trauma Registry and medical records were used to identify patients and to retrieve data. For primary weighted analyses, propensity scores for DOACs were estimated using sex, age, injury mechanism, ASA class, antiplatelet treatment, and NISS. Non-weighted adjusted regression models were used for complementary analyses.\n\n**RESULTS**: A total of 1817 patients were admitted for major trauma during the study period, of which 756 patients were included in the analytic cohort. PRBC was administered to 30.8% of patients with DOACs and to 20.7% of controls. PRBC likelihood was higher among patients with DOACs (OR 1.73, 95% CI 1.03-2.91). The number of PRBC units among patients who received transfusions was not significantly higher for DOACs (GMR 1.11, 95% CI 0.79-1.56). Mortality rates within 24\u00a0h and 30 days did not differ significantly in primary analyses (OR 1.82, 95% CI 0.78-4.23 and OR 1.34, 95% CI 0.80-2.24, respectively).\n\n**CONCLUSIONS**: Patients with DOACs were more likely to receive PRBC transfusion, but PRBC volumes were not significantly different among transfused patients. Mortality did not differ significantly in the primary weighted analyses.",
-      "journal": "Scand J Trauma Resusc Emerg Med",
-      "authors": [
-        "Wers\u00e4ll JH",
-        "Hedelin H",
-        "Vidlund A",
-        "Ekdahl E",
-        "Kjellberg J",
-        "Larsson PU",
-        "Normark L",
-        "H\u00f6gberg D"
-      ],
-      "date": "2026 May 30",
-      "doi": "10.1007/s00068-023-02244-6",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "Haemorrhage",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "major trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "injury severity",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "packed red blood cells",
-          "strength": "weak",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "trauma registry",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42218522/"
-    },
-    {
-      "pmid": "42217456",
-      "title": "Antibiotic prophylaxis protocol for gunshot wound-related open fractures: A single-center retrospective analysis.",
-      "abstract": "**BACKGROUND**: Gunshot-induced open fractures (ballistic OFs) present significant challenges in trauma management due to high risk of infection and lack of standardized antibiotic prophylaxis protocols. This study evaluates the implementation of an institutional antibiotic prophylaxis protocol for ballistic OFs at a Level I trauma center, assessing its impact on infection rates and protocol adherence.\n\n**METHODS**: A retrospective analysis of patient records was conducted, including all cases of ballistic OFs treated between June 7, 2021, and March 31, 2024. Patients were stratified into pre-implementation and post-implementation groups, with the latter further divided into adherent and non-adherent subgroups. Infection rates, time to antibiotic administration, and demographic and clinical variables were analyzed using chi-squared tests and logistic regression.\n\n**RESULTS**: Among 289 patients included, post-implementation protocol adherence was observed in 36% of cases. Infection rates were 7.1% (12/168, 95% CI 4.1-12.1%) before implementation, and 11.6% (14/121, 95% CI 7.0-18.5%) after with no significant difference (Fisher's exact test, p\u00a0=\u00a00.276). On multivariable analysis, infection was associated with vancomycin use (adjusted OR 5.24, 95% CI 1.95-13.77, p\u00a0=\u00a00.001), use of irrigation and debridement (adjusted OR 4.60, 95% CI 1.85-12.24, p\u00a0=\u00a00.001), and use of flap closure or split-thickness skin graft (adjusted OR 4.70, 95% CI 1.29-16.48, p\u00a0=\u00a00.020). Protocol non-adherence was predominantly attributable to delayed antibiotic initiation and improper metronidazole dosing in the setting of concomitant bowel injury.\n\n**CONCLUSIONS**: The findings suggest that while the introduction of an institutional antibiotic protocol did not significantly alter infection rates, challenges in adherence underscore the need for enhanced implementation strategies. Associations between infection and variables such as irrigation and debridement, flap reconstruction, and vancomycin use likely reflect underlying injury severity and wound contamination. Improved adherence, particularly in cases involving concomitant bowel injuries, may further optimize outcomes and support antibiotic stewardship in trauma care.",
-      "journal": "Injury",
-      "authors": [
-        "Gubara K",
-        "Gordy D",
-        "Echeverria N",
-        "Rehman S"
-      ],
-      "date": "2026 May 23",
-      "doi": "10.1016/j.injury.2026.113361",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Orthopaedic",
-        "Penetrating",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "injury severity",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "trauma centre",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "gunshot wound",
-          "strength": "strong",
-          "topic": "Penetrating"
-        },
-        {
-          "keyword": "open fracture",
-          "strength": "strong",
-          "topic": "Orthopaedic"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42217456/"
-    },
-    {
-      "pmid": "42217455",
-      "title": "Linking hospital-based violence intervention program implementation with patient-reported outcomes.",
-      "abstract": "**BACKGROUND**: Understanding patient perspectives on the short-term impact of hospital-based violence intervention programs (HVIPs) is crucial to providing patient-centered care. However, HVIP evaluations often fail to integrate patient-reported outcomes (PROs), relying predominately on distal outcomes (e.g., reinjury, fatality) captured by administrative data sources to determine impact. We aimed to examine how observable program implementation metrics may be related to PROs, including satisfaction with and short-term impacts of a pediatric HVIP.\n\n**METHODS**: We conducted a retrospective cohort study of 357 patients (ages 8-18 years) who participated in our HVIP located within an urban pediatric trauma center. We linked HVIP implementation metrics from case management records and PROs to proxy caregiver-reported satisfaction and outcome data from the HVIP-Client Satisfaction Questionnaire (HVIP-CSQ). We summarized patient demographic and injury characteristics, as well as program implementation metrics and HVIP-CSQ responses. We conducted multivariate linear regression analyses to examine associations between implementation metrics and caregiver-reported satisfaction and outcomes.\n\n**RESULTS**: Patients with (n\u00a0=\u00a0199) and without PROs data (n\u00a0=\u00a0158) had similar demographic, clinical, and HVIP implementation characteristics, though those with PROs were more likely to have been retained in HVIP vs. being lost to follow-up (59% vs. 47%, p\u00a0=\u00a00.039). Overall, caregivers indicated high satisfaction with program services, improved well-being, increased knowledge of community resources, and self-efficacy to apply new skills and tools. Nearly all PROs were positively associated with HVIP retention and need resolution (p\u00a0<\u00a00.050).\n\n**CONCLUSIONS**: We observed high levels of caregiver-reported satisfaction with program experiences and short-term outcomes following HVIP participation. Families' positive PROs were associated with measurable aspects of HVIP implementation, including retention and need resolution. This work expands our understanding of short-term impacts of HVIPs from the perspectives of patient families and helps to establish key metrics of program implementation that may influence these outcomes.",
-      "journal": "Injury",
-      "authors": [
-        "Kapa HM",
-        "Liu Z",
-        "Berardi J",
-        "Glavin CM",
-        "Myers RK"
-      ],
-      "date": "2026 May 26",
-      "doi": "10.1016/j.injury.2026.113392",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Paediatric",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "trauma centre",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "paediatric trauma",
-          "strength": "weak",
-          "topic": "Paediatric"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42217455/"
-    },
-    {
-      "pmid": "42217297",
-      "title": "National Database Study of the effect of mode of transportation on trauma patients injured in snowmobile accidents.",
-      "abstract": "**BACKGROUND**: Snowmobile accidents occur in areas that may be difficult to reach by ground Emergency Medical Services (GEMS) vehicles. Helicopter EMS (HEMS) can potentially be useful in these situations, but there are few available data assessing HEMS-associated survival improvement in patients injured in snowmobile accidents. This study evaluates the national trauma database (NTDB) to identify snowmobile-related injury cases to determine if HEMS transport was associated with improved outcome, and whether any improvement in outcome is associated with worse functional status as indicated by disposition destination.\n\n**METHODS**: Using the American College of Surgeons National Trauma Data Bank (NTDB) for the years 2017-2022, snowmobile-related injury cases that were transported from the scene and in which transport mode (HEMS or GEMS) and survival status was known were assessed. Multivariable logistic regression (including use of Mahalanobis metrics within propensity-score calipers) was used to evaluate the primary endpoint of survival, with effect estimates reported as adjusted odds ratio (OR) with 95% confidence interval (CI). A secondary endpoint \"unfavorable disposition destination\" was assessed in survivors, to determine whether any HEMS-associated survival improvement came at the cost of a worse functional outcome.\n\n**RESULTS**: The study assessed 10,541 cases in which there were 521 (4.9%) deaths. Classical logistic regression incorporating demographics, vital signs, and receiving hospital characteristics indicated HEMS-associated improvement in survival (OR 1.9, 95% CI 1.4-2.7), which was confirmed in propensity-scored modeling indicating absolute risk difference of 2.7% (number needed to transport by HEMS to save one additional life: 37 with 95% CI 24-83). Secondary endpoint analysis did not suggest that improved HEMS survival came at cost of functional outcome; HEMS cases were slightly less likely to have unfavorable disposition destinations but the difference was not significant (OR 0.9, 95% CI 0.7-1.2, p\u00a0=\u00a0.461).\n\n**CONCLUSION**: In a group of cases injured using snowmobiles, HEMS transport is associated with significantly improved mortality without any indication that improved survival comes at a cost of worse functional outcome.",
-      "journal": "Am J Emerg Med",
-      "authors": [
-        "Fritz CL",
-        "Tibbles J",
-        "De La Bastide C",
-        "Liu AJ",
-        "Sargent J",
-        "Gupta A",
-        "Parsons C",
-        "Moore E",
-        "Schoenfeld DW",
-        "Rosen CL",
-        "Thomas SH"
-      ],
-      "date": "2026 Sep 1",
-      "doi": "10.1016/j.ajem.2026.05.033",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Prehospital"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "HEMS",
-          "strength": "weak",
-          "topic": "Prehospital"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42217297/"
     }
   ]
 }
