@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-06T21:22:05.264597Z",
-  "total_articles": 286,
+  "generated": "2026-07-07T21:16:01.954512Z",
+  "total_articles": 283,
   "all_topics": [
     "Abdominal",
     "Burns",
@@ -378,6 +378,176 @@
     "Cochrane Database Syst Rev": "filtered"
   },
   "articles": [
+    {
+      "pmid": "42412218",
+      "title": "60\u00a0years of ARDS and the evolution of extracorporeal lung support - from ECMO to ECCO",
+      "abstract": "Extracorporeal life support (ECLS), including venovenous extracorporeal membrane oxygenation (VV-ECMO) and extracorporeal carbon dioxide removal (ECCO\u2082R), is an established treatment for selected patients with acute respiratory distress syndrome (ARDS). In this review, on the 60th anniversary of ARDS, we review the evolution of ECLS as a support strategy in ARDS, the evidence surrounding its efficacy, factors associated with prognosis, management of patients on ECLS, associated complications, and long-term outcomes among survivors. We also highlight existing areas of uncertainty, and ongoing clinical research that will define the next decade and beyond of ECLS for ARDS.",
+      "journal": "Intensive Care Med",
+      "authors": [
+        "Fernando SM",
+        "Brodie D",
+        "Slutsky AS",
+        "Abrams D",
+        "Agerstrand C",
+        "Camporota L",
+        "Fan E",
+        "Ferguson ND",
+        "Hodgson CL",
+        "Hough CL",
+        "Martucci G",
+        "Munshi L",
+        "Ostermann M",
+        "Patel BV",
+        "Schmidt M",
+        "Shekar K",
+        "Supady A",
+        "Combes A"
+      ],
+      "date": "2026 Jul 07",
+      "doi": "10.1007/s00134-023-07157-x",
+      "tier": "filtered",
+      "topics": [
+        "Cardiac Arrest"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "ECMO",
+          "strength": "strong",
+          "topic": "Cardiac Arrest"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42412218/"
+    },
+    {
+      "pmid": "42410654",
+      "title": "The molecular ICU: a primer on omics, informatics and the future of precision critical care.",
+      "abstract": "Critical care has produced hundreds of neutral randomized trials, in part because therapies have been tested in biologically incoherent populations that dilute meaningful treatment effects. Syndromic diagnoses such as sepsis, acute respiratory distress syndrome, and traumatic brain injury group distinct pathobiological states under a single label, limiting the ability to detect treatment-responsive subgroups. While high-dimensional omics technologies have revealed this biologic heterogeneity, the field lacks a practical framework to translate these insights into clinical trial design and bedside decision-making. This Review addresses the translational gap in precision critical care through a pathway-level framework. We synthesize advances in genomics, transcriptomics, proteomics, and metabolomics, highlighting their roles in capturing susceptibility, host response, effector function, and real-time physiology. We propose pathway-focused biomarkers as clinically translatable signatures that preserve biological mechanisms while enabling practical measurement. We outline how pathway enrichment, network analysis, and multi-omic integration can identify these programs, and how feature selection can derive parsimonious biomarker panels for clinical use. This approach also supports pathway-guided drug repurposing by linking dysregulated molecular programs to existing therapies. Together, these signatures provide a framework for predictive enrichment, aligning patient selection with therapeutic mechanisms and facilitating implementation within adaptive platform trials. This Review serves as a practical primer that outlines the concepts and methods needed to translate omics into clinically actionable tools. By shifting from syndromic classification to pathway-defined biology, it provides a framework for biomarker development, trial design, and precision critical care.",
+      "journal": "Crit Care",
+      "authors": [
+        "Van Nynatten LR",
+        "Raheel H",
+        "Basmaji J",
+        "Slessarev M",
+        "Fraser DD"
+      ],
+      "date": "2026 Jul 06",
+      "doi": "10.1111/aas.70023",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "TBI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "traumatic",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic brain injury",
+          "strength": "weak",
+          "topic": "TBI"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42410654/"
+    },
+    {
+      "pmid": "42410118",
+      "title": "Transosseous sutures versus vertical cerclage wire for distal pole patellar fractures: a retrospective comparative cohort study.",
+      "abstract": "**PURPOSE**: To compare transosseous sutures (TOS) and vertical wire cerclage (VCW) for treating distal pole patellar fractures, evaluating clinical outcomes, patient-reported outcome measures (PROMs), radiographic outcomes, and complications.\n\n**METHODS**: We conducted a retrospective comparative cohort study of patients surgically treated for patellar distal pole fractures (AO/OTA 34A1b) with either TOS or VCW between 2015 and 2023. Patient characteristics, surgical technique, postoperative data, patellar height, and complications were recorded. Functional outcomes were evaluated at a minimum of 12 months postoperatively using PROMs (Kujala, Lysholm, and Bostman scores). The primary outcome of this study was functional recovery, assessed via the Bostman score at 12 months.\n\n**RESULTS**: A total of 46 patellar distal pole fractures were included (30 TOS and 16 VCW). Baseline characteristics showed no statistically significant differences between groups. No significant differences were found regarding clinical or functional outcomes. Regarding radiographic outcomes, patellar height remained stable; however, both groups showed significant patellar length variation, with elongation being significantly more pronounced in the TOS group (mean 3.77\u00a0mm) compared to the VCW group (mean 0.44\u00a0mm; p\u2009=\u20090.001). While overall complication rates showed no statistically significant difference, all five cases of nonunion occurred exclusively in the TOS group.\n\n**CONCLUSION**: Both transosseous sutures and vertical cerclage wire techniques demonstrate favorable clinical and functional outcomes in this cohort. However, the TOS technique was associated with a greater increase in patellar length and a higher clinical frequency of nonunion. These findings warrant further investigation to elucidate their etiology and long-term clinical relevance.",
+      "journal": "Eur J Trauma Emerg Surg",
+      "authors": [
+        "Laso JI",
+        "Mu\u00f1oz JT",
+        "Bianchi S",
+        "Mart\u00ednez D",
+        "Rojas T",
+        "Franulic N",
+        "Olivieri R"
+      ],
+      "date": "2026 Jul 06",
+      "doi": "10.1007/s00264-015-2776-9",
+      "tier": "core",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42410118/"
+    },
+    {
+      "pmid": "42407437",
+      "title": "Impact of utilization of temporary vascular shunts on outcomes in traumatic peripheral artery repairs: An 11-year review of the PROOVIT registry.",
+      "abstract": "**BACKGROUND**: Temporary vascular shunts (TVS) are used for initial stabilization and delayed arterial repair, but their overuse may worsen outcomes. This study evaluates the impact of TVS on reintervention and amputation rates following peripheral arterial repair (PAR).\n\n**METHODS**: Retrospective analysis (2012-2023) of the PROspective Observational Vascular Injury Treatment (PROOVIT) registry. Patients who underwent PAR were categorized into two groups: TVS before PAR versus immediate repair (IR). Propensity score matching (1:3) balanced patient characteristics and injury severity. The primary outcome was reintervention, with secondary outcomes including amputation, thrombosis, and length of stay.\n\n**RESULTS**: Among 1,182 PAR patients, 67 (5.7%) received TVS. TVS was most commonly placed in the femoral (42%), brachial (30%), and popliteal arteries (15%). After matching, 67 TVS patients were compared with 201 no-TVS (IR) patients. Reintervention rates were comparable (13.6% vs. 15.9%, p=0.655), as were amputation (1.5% vs. 9%, p=0.051) and thrombosis (9% vs. 6%, p=0.40). In addition, median length of stay was similar (12 vs. 9\u00a0d, p=0.243) within cohorts.\n\n**CONCLUSIONS**: TVS did not significantly impact reintervention, amputation, thrombosis, or length of stay following PAR. TVS and delayed repair achieved comparable outcomes compared with IR of peripheral arterial injuries. (J Trauma Acute Care Surg 2026;00:000-000 Copyright \u00a9 2026 Wolters Kluwer Health, Inc. All rights reserved.).\n\n**LEVEL OF EVIDENCE**: Therapeutic/Care Management; Level III.",
+      "journal": "J Trauma Acute Care Surg",
+      "authors": [
+        "Nekooei N",
+        "Bent CI",
+        "Brabender DE",
+        "Wang JL",
+        "Prasad AN",
+        "Siletz A",
+        "Matsushima K",
+        "Inaba K",
+        "Dubose J",
+        "Martin MJ"
+      ],
+      "date": "2026 Jul 06",
+      "doi": "10.1097/TA.0000000000005116",
+      "tier": "core",
+      "topics": [
+        "General Trauma",
+        "Systems/QI",
+        "Vascular"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "injury severity",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "vascular injury",
+          "strength": "weak",
+          "topic": "Vascular"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42407437/"
+    },
+    {
+      "pmid": "42407362",
+      "title": "Impact of osteoporosis on outcomes following ankle open reduction and internal fixation.",
+      "abstract": "**OBJECTIVES**: To determine whether osteoporosis is an independent risk factor for adverse postoperative outcomes following open reduction and internal fixation (ORIF) of ankle fractures in adults aged \u2265\u00a050 years.\n\n**METHODS**: Design: Retrospective cohort study using the TriNetX Research Network with 1:1 propensity score matching.\n\n**SETTING**: Multicenter, international research setting using the TriNetX federated electronic health records database, which includes data from >\u00a0100 healthcare organizations across academic and non-academic institutions. Patient Selection Criteria: Adults aged \u2265\u00a050 years who underwent ankle ORIF between January 1, 2004, and December 31, 2024, were identified using International Classification of Diseases, Tenth Revision (ICD-10) and Current Procedural Terminology (CPT) codes for ankle fractures and low-energy falls. Patients with pathologic fractures or additional non-ankle lower-extremity fractures were excluded. Two cohorts were created for comparison: patients with a prior diagnosis of osteoporosis and patients without prior diagnosis of osteoporosis. Outcome Measures and Comparisons: Postoperative complications, including malunion/nonunion/delayed healing, hardware failure or revision, readmission, infections, wound dehiscence, and pulmonary embolism, were assessed at 90 days, 1 year, and 3 years.\n\n**RESULTS**: Across all time points, no statistically significant differences were observed between the osteoporotic and non-osteoporotic groups for most complications. Each group contained 2700 patients. Wound dehiscence at 90 days was significantly higher in the non-osteoporotic cohort (p\u00a0=\u00a00.015). All other outcomes showed no significant variation between groups.\n\n**CONCLUSION**: These results suggest that osteoporosis may not be an independent risk factor for poor surgical outcomes following ankle ORIF. When fixation is appropriately tailored to bone quality, including the use of locking plates and augmentation strategies, current fixation techniques appear sufficient for managing osteoporotic bone. Thus, preoperative planning should prioritize patient comorbidities and soft tissue condition along with bone mineral density.",
+      "journal": "Injury",
+      "authors": [
+        "Guruprasad P",
+        "Sivaram P",
+        "O'Neill C",
+        "de Cesar Netto C",
+        "Adams S",
+        "Anastasio AT"
+      ],
+      "date": "2026 Jul 04",
+      "doi": "10.1016/j.injury.2026.113474",
+      "tier": "filtered",
+      "topics": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42407362/"
+    },
     {
       "pmid": "42406115",
       "title": "Re\u2011fracture risk following implant removal in consolidated hip fractures: a multicenter retrospective cohort study of 575 patients.",
@@ -3078,8 +3248,8 @@
     },
     {
       "pmid": "42361892",
-      "title": "Association of Rescue Breathing With Outcomes in Adult Suffocation-Related Cardiac Arrest.",
-      "abstract": "**BACKGROUND**: Out-of-hospital cardiac arrest (OHCA) is a public health concern. Whether conventional cardiopulmonary resuscitation (CPR) with rescue breathing may improve outcomes compared with compression-only or no CPR in suffocation-related OHCA is unclear.\n\n**METHODS**: We conducted a retrospective cohort study using the All-Japan Utstein Registry (2005-2023). Adult patients with witnessed suffocation-related OHCA were included, excluding cardiac-origin cases and those treated by EMS personnel. Bystander CPR was categorized as chest compression-only CPR (CC-CPR), chest compression plus ventilation CPR (CCV-CPR), and no bystander CPR (No CPR), with CC-CPR as the reference. The primary outcome was favorable neurological status at one month; secondary outcomes were one-month survival and return of spontaneous circulation (ROSC). Inverse probability of treatment weighting (IPTW) was applied, and prespecified subgroup analyses were performed across year, age, sex, time of EMS call, bystander type, and initial rhythm.\n\n**RESULTS**: Among 76,774 patients, 39,451 received CC-CPR, 8,182 received CCV-CPR, and 29,141 received No CPR. Favorable neurological outcome occurred in 1.5%, 1.5%, and 2.0%; one-month survival in 8.3%, 7.2%, and 9.5%; and ROSC in 19.9%, 17.2%, and 17.7%, respectively. After IPTW adjustment, No CPR was associated with a higher likelihood of favorable neurological outcomes compared with CC-CPR (adjusted OR: 1.20, 95%CI: 1.04 to 1.38), whereas CCV-CPR showed no significant difference (OR: 1.01, 95%CI: 0.78 to 1.32). No CPR was also associated with higher one-month survival (OR: 1.20, 95%CI: 1.12 to 1.28), with no significant difference for CCV-CPR. No significant differences were observed for ROSC. Findings were consistent in subgroup and sensitivity analyses using multiple imputation.\n\n**CONCLUSIONS**: In suffocation-related OHCA, the type of bystander CPR was not associated with improved neurological recovery. These findings suggest that the type of bystander CPR alone may not be the primary determinant of recovery, although the relative contributions of CPR type, airway management, and other prehospital factors remain to be clarified.",
+      "title": "Association of rescue breathing with outcomes in adult suffocation-related cardiac arrest.",
+      "abstract": "**BACKGROUND**: Out-of-hospital cardiac arrest (OHCA) is a public health concern. Whether conventional cardiopulmonary resuscitation (CPR) with rescue breathing may improve outcomes compared with compression-only or no CPR in suffocation-related OHCA is unclear.\n\n**METHODS**: We conducted a retrospective cohort study using the All-Japan Utstein Registry (2005-2023). Adult patients with witnessed suffocation-related OHCA were included, excluding cardiac-origin cases and those treated by EMS personnel. Bystander CPR was categorized as chest compression-only CPR (CC-CPR), chest compression plus ventilation CPR (CCV-CPR), and no bystander CPR (No CPR), with CC-CPR as the reference. The primary outcome was favorable neurological status at one month; secondary outcomes were one-month survival and return of spontaneous circulation (ROSC). Inverse probability of treatment weighting (IPTW) was applied, and prespecified subgroup analyses were performed across year, age, sex, time of EMS call, bystander type, and initial rhythm.\n\n**RESULTS**: Among 76,774 patients, 39,451 received CC-CPR, 8182 received CCV-CPR, and 29,141 received No CPR. Favorable neurological outcome occurred in 1.5%, 1.5%, and 2.0%; one-month survival in 8.3%, 7.2%, and 9.5%; and ROSC in 19.9%, 17.2%, and 17.7%, respectively. After IPTW adjustment, No CPR was associated with a higher likelihood of favorable neurological outcomes compared with CC-CPR (adjusted OR: 1.20, 95%CI: 1.04-1.38), whereas CCV-CPR showed no significant difference (OR: 1.01, 95%CI: 0.78-1.32). No CPR was also associated with higher one-month survival (OR: 1.20, 95%CI: 1.12-1.28), with no significant difference for CCV-CPR. No significant differences were observed for ROSC. Findings were consistent in subgroup and sensitivity analyses using multiple imputation.\n\n**CONCLUSIONS**: In suffocation-related OHCA, the type of bystander CPR was not associated with improved neurological recovery. These findings suggest that the type of bystander CPR alone may not be the primary determinant of recovery, although the relative contributions of CPR type, airway management, and other prehospital factors remain to be clarified.",
       "journal": "Resuscitation",
       "authors": [
         "Okada A",
@@ -3136,8 +3306,8 @@
     },
     {
       "pmid": "42361888",
-      "title": "Telemedicine-Assisted vs Conventional Telephone Instruction in Cardiopulmonary Resuscitation: The TACTIC Cluster Randomized Trial.",
-      "abstract": "**INTRODUCTION**: Dispatcher-assisted cardiopulmonary resuscitation (DA-CPR) has been shown to increase bystander CPR rates and improve outcomes after out-of-hospital cardiac arrest (OHCA). However, dispatchers cannot directly visualize the scene, which may limit the effectiveness of telephone instructions. Telemedicine-assisted CPR (TA-CPR), incorporating real-time video communication, has been proposed to address this limitation and potentially improve bystander CPR performance. Evidence regarding its effectiveness in real-world EMS systems remains limited. This study aimed to compare bystander CPR rates between TA-CPR and DA-CPR.\n\n**METHODS**: We conducted a pilot pragmatic cluster-randomized controlled trial involving adult patients with suspected non-traumatic OHCA. Monthly block randomization assigned CPR instruction protocols to either a TA-CPR protocol or a DA-CPR protocol. The primary outcome was bystander CPR rate. Secondary outcomes included ongoing bystander CPR at EMS arrival and protocol compliance.\n\n**RESULTS**: A total of 108 patients were included, with 55 managed using TA-CPR and 53 using DA-CPR. Patients in the TA-CPR group were younger (mean age 63.5 \u00b1 16.2 vs. 68.9 \u00b1 14.6 years), and a higher proportion presented with an initial shockable rhythm (20.0% vs. 9.4%). Bystander CPR occurred in 87.3% of TA-CPR cases and 92.5% of DA-CPR cases, with no statistically significant difference (p = 0.53). Ongoing bystander CPR at EMS arrival was also similar between groups (76.4% vs. 84.9%; p = 0.33). Protocol compliance was significantly lower in the TA-CPR group than in the DA-CPR group (69.1% vs. 92.5%; p < 0.01).\n\n**CONCLUSION**: TA-CPR did not increase bystander CPR rates compared with conventional DA-CPR in this real-world EMS setting.",
+      "title": "Telemedicine-assisted vs conventional telephone instruction in cardiopulmonary resuscitation: the TACTIC cluster randomized trial.",
+      "abstract": "**INTRODUCTION**: Dispatcher-assisted cardiopulmonary resuscitation (DA-CPR) has been shown to increase bystander CPR rates and improve outcomes after out-of-hospital cardiac arrest (OHCA). However, dispatchers cannot directly visualize the scene, which may limit the effectiveness of telephone instructions. Telemedicine-assisted CPR (TA-CPR), incorporating real-time video communication, has been proposed to address this limitation and potentially improve bystander CPR performance. Evidence regarding its effectiveness in real-world EMS systems remains limited. This study aimed to compare bystander CPR rates between TA-CPR and DA-CPR.\n\n**METHODS**: We conducted a pilot pragmatic cluster-randomized controlled trial involving adult patients with suspected non-traumatic OHCA. Monthly block randomization assigned CPR instruction protocols to either a TA-CPR protocol or a DA-CPR protocol. The primary outcome was bystander CPR rate. Secondary outcomes included ongoing bystander CPR at EMS arrival and protocol compliance.\n\n**RESULTS**: A total of 108 patients were included, with 55 managed using TA-CPR and 53 using DA-CPR. Patients in the TA-CPR group were younger (mean age 63.5\u00a0\u00b1\u00a016.2 vs. 68.9\u00a0\u00b1\u00a014.6\u00a0years), and a higher proportion presented with an initial shockable rhythm (20.0% vs. 9.4%). Bystander CPR occurred in 87.3% of TA-CPR cases and 92.5% of DA-CPR cases, with no statistically significant difference (p\u00a0=\u00a00.53). Ongoing bystander CPR at EMS arrival was also similar between groups (76.4% vs. 84.9%; p\u00a0=\u00a00.33). Protocol compliance was significantly lower in the TA-CPR group than in the DA-CPR group (69.1% vs. 92.5%; p\u00a0<\u00a00.01).\n\n**CONCLUSION**: TA-CPR did not increase bystander CPR rates compared with conventional DA-CPR in this real-world EMS setting.",
       "journal": "Resuscitation",
       "authors": [
         "Riyapan S",
@@ -5370,7 +5540,7 @@
         "Brady K",
         "Combes A"
       ],
-      "date": "2026 Jun 18",
+      "date": "2026 Jul 1",
       "doi": "10.1371/journal.pone.0159973",
       "tier": "filtered",
       "topics": [
@@ -6504,8 +6674,8 @@
     },
     {
       "pmid": "42301897",
-      "title": "Cardiac arrest during interfacility transport with emergency medical services: a preliminary nationwide cross-sectional study.",
-      "abstract": "**OBJECTIVES**: We aimed to provide the first national study of out-of-hospital cardiac arrests (OHCA) witnessed by emergency medical services (EMS) during interfacility transport (IFT).\n\n**METHODS**: We used a nationwide prehospital patient care report dataset from 2023 to complete a cross-sectional observational study of EMS encounters for IFT during which OHCA occurred. Descriptive statistics were computed, stratified by level of EMS care provided. Multivariable logistic regression analysis was completed to evaluate factors associated with return of spontaneous circulation (ROSC) at the end of the IFT encounter upon transfer of care to the receiving facility. Finally, we completed a similar multivariable logistic regression analysis restricted to the subgroup of patients with an unshockable initial rhythm.\n\n**RESULTS**: A total of 1,466 OHCA incidents occurred during an IFT with EMS: 7.5% with basic life support (BLS), 53.6% with advanced life support (ALS), and 38.9% with critical care transport (CCT). Among these incidents 11.8% were associated with trauma, 9.2% involved cardiopulmonary resuscitation (CPR) prior to EMS unit arrival, 14.7% involved a mechanical device to perform CPR, 22.2% had a shockable initial rhythm, and 58.1% were transported via ground as opposed to air. At the conclusion of the IFT EMS encounter, 50.3% had sustained ROSC. Geriatric age (aOR 0.64, 95%CI 0.44-0.94), BLS care (aOR 0.45, 95%CI 0.22-0.90), and ground transport (aOR 0.58, 95%CI 0.38-0.89) were associated with worse outcomes on adjusted analysis, whereas shockable initial rhythm (aOR 3.86, 95%CI 2.42-6.36) and CCT care (aOR 2.21, 95%CI 1.42-3.48) were associated with better outcomes. The sub-analysis for OHCA during IFT with an unshockable initial rhythm also showed greater odds of ROSC when managed by CCT relative to ALS (aOR 2.65, 95%CI 1.64-4.33) while adjusting for other key factors.\n\n**CONCLUSIONS**: Using a large nationwide sample of OHCA incidents that occurred during IFT, we found that higher level of EMS care was associated with superior short-term outcomes while controlling for other key factors. These findings underscore the importance of accurate patient triage at sending facilities and the value of CCT for high-risk patients.",
+      "title": "Cardiac Arrest During Interfacility Transport with Emergency Medical Services: A Preliminary Nationwide Cross-Sectional Study.",
+      "abstract": "**OBJECTIVES**: We aimed to provide the first national study of out-of-hospital cardiac arrests (OHCA) witnessed by emergency medical services (EMS) during interfacility transport (IFT).\n\n**METHODS**: We used a nationwide prehospital patient care report dataset from 2023 to complete a cross-sectional observational study of EMS encounters for IFT during which OHCA occurred. Descriptive statistics were computed, stratified by level of EMS care provided. Multivariable logistic regression analysis was completed to evaluate factors associated with return of spontaneous circulation (ROSC) at the end of the IFT encounter upon transfer of care to the receiving facility. Finally, we completed a similar multivariable logistic regression analysis restricted to the subgroup of patients with an unshockable initial rhythm.\n\n**RESULTS**: A total of 1,466 OHCA incidents occurred during an IFT with EMS: 7.5% with basic life support (BLS), 53.6% with advanced life support (ALS), and 38.9% with critical care transport (CCT). Among these incidents 11.8% were associated with trauma, 9.2% involved cardiopulmonary resuscitation (CPR) prior to EMS unit arrival, 14.7% involved a mechanical device to perform CPR, 22.2% had a shockable initial rhythm, and 58.1% were transported \n\n**CONCLUSIONS**: Using a large nationwide sample of OHCA incidents that occurred during IFT, we found that higher level of EMS care was associated with superior short-term outcomes while controlling for other key factors. These findings underscore the importance of accurate patient triage at sending facilities and the value of CCT for high-risk patients.",
       "journal": "Prehosp Emerg Care",
       "authors": [
         "Peters GA",
@@ -6519,7 +6689,7 @@
         "Goldberg SA",
         "Cash RE"
       ],
-      "date": "2026 Jun 16",
+      "date": "2026 Jul 06",
       "doi": "10.1080/10903127.2026.2690618",
       "tier": "filtered",
       "topics": [
@@ -6639,7 +6809,7 @@
         "Williams J",
         "Olaussen A"
       ],
-      "date": "2026 Jun 16",
+      "date": "2026 Jul 06",
       "doi": "10.1080/10903127.2026.2687828",
       "tier": "filtered",
       "topics": [
@@ -9472,7 +9642,7 @@
         "Pochard F",
         "Azoulay E"
       ],
-      "date": "2026 Jun 10",
+      "date": "2026 Jul 1",
       "doi": "10.4037/ajcc2012520",
       "tier": "filtered",
       "topics": [
@@ -10604,279 +10774,6 @@
       ],
       "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/42259039/"
-    },
-    {
-      "pmid": "42258835",
-      "title": "Reconciling the academic mission with workforce reality in acute care surgery.",
-      "abstract": "**ABSTRACT**: Recent multicenter studies have explored the current and desired clinical work for acute care surgeons. Acute care surgeons oversee and provide comprehensive care in trauma, surgical critical care, emergency general surgery, and burn patients. While these studies provide crucial data to guide planning at individual institutions to help address understaffed programs, translating this research into local practice and culture requires nuance and consideration of system (regional, institutional, department, and divisional) factors and individual surgeon goals. This opinion piece confronts the paradox at the heart of academic acute care surgery: how can surgeons deliver on educational and research missions when staffing models place the highest prioritization on clinical work? We present a practical, evidence-based framework that aligns sustainable clinical staffing with preservation of the tripartite academic mission in acute care surgery.\n\n**LEVEL OF EVIDENCE**: Level V.",
-      "journal": "J Trauma Acute Care Surg",
-      "authors": [
-        "Murphy PB",
-        "Patel MB",
-        "Joseph B",
-        "Cripps MW",
-        "Callcut RA",
-        "Evans C",
-        "de Moya M"
-      ],
-      "date": "2026 Jun 05",
-      "doi": "10.1097/TA.0000000000005027",
-      "tier": "core",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42258835/"
-    },
-    {
-      "pmid": "42257882",
-      "title": "Patient blood management in general intensive care patients.",
-      "abstract": "**PURPOSE**: Critically ill and high-risk perioperative patients requiring intensive care are often multimorbid and depend on rapid, highly specialized management. While most comorbidities are difficult to modify in the acute setting, anemia, particularly iron-defi ciency anemia, represents a potentially modifiable risk factor. Clinicians are also often confronted with complex alterations in hemostasis that require rapid assessment and targeted therapeutic interventions, including the optimal use of blood products. This narrative review summarizes the current evidence on Patient Blood Management strategies, including anemia management, the use of small-volume tubes, and the appropriate use of blood products in intensive care unit patients.\n\n**RESULTS**: Intravenous iron supplementation can safely raise hemoglobin to a clinically meaningful degree. Erythropoietin therapy may also raise hemoglobin, but its use should remain selective given uncertain thromboembolic risk. Small-volume blood collection tubes and closed blood-conservation systems should be routinely used to reduce iatrogenic anemia. Current evidence supports restrictive red blood cell transfusion strategies in most clinical settings, particularly in patients with gastrointestinal bleeding. Similarly, a restrictive platelet transfusion strategy is supported by current evidence. Prophylactic platelet transfusion should be reserved for high-risk hematologic malignancies. In other critically ill patients with severe thrombocytopenia, a therapeutic (bleeding-driven) approach is preferred. Finally, current evidence does not support prophylactic fresh frozen plasma transfusion in non-bleeding patients.\n\n**CONCLUSIONS**: Overall, these findings support the implementation of Patient Blood Management strategies that optimize blood health and promote safer, more individualized care in critically ill patients.",
-      "journal": "Intensive Care Med",
-      "authors": [
-        "Meybohm P",
-        "Baron DM",
-        "Fries D",
-        "Lasocki S",
-        "Vlaar APJ",
-        "Zacharowski K",
-        "Choorapoikayil S"
-      ],
-      "date": "2026 Jun 1",
-      "doi": "10.1213/ANE.0000000000001730",
-      "tier": "filtered",
-      "topics": [
-        "Haemorrhage"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "blood product",
-          "strength": "weak",
-          "topic": "Haemorrhage"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42257882/"
-    },
-    {
-      "pmid": "42257860",
-      "title": "Interpreting prophylactic antibiotic use in closed basilar skull fractures: caution in claims-based evidence.",
-      "abstract": "",
-      "journal": "J Trauma Acute Care Surg",
-      "authors": [
-        "Wang Y"
-      ],
-      "date": "2026 Jun 08",
-      "doi": "10.1097/TA.0000000000005088",
-      "tier": "core",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42257860/"
-    },
-    {
-      "pmid": "42257851",
-      "title": "Nonoperative treatment of Maisonneuve fractures.",
-      "abstract": "**PURPOSE**: The aim of this study is to describe the basic pathoanatomical characteristics of a stable Maisonneuve fracture and mid-term results of its nonoperative treatment.\n\n**METHODS**: The study included 17 prospectively collected patients with a mean age of 59 years. The postinjury ankle CT had to meet the following criteria: nondisplaced or minimally displaced (up to 1\u00a0mm) fracture of medial malleolus, medial clear space less than 3\u00a0mm, nondisplaced or minimally displaced (up to 2\u00a0mm) fracture of posterior malleolus, anatomical position or minimal malposition of the distal fibula in the fibular notch (widening of the tibiofibular space up to 2\u00a0mm or external rotation of the distal fibula up to 10\u00b0). The average follow-up period was 34 months, the final follow-up included CT examination and functional evaluation based on AOFAS and FAOS scores.\n\n**RESULTS**: A medial malleolus fracture was recorded in 12% cases, a posterior malleolus fracture in 29% patients and a Tillaux-Chaput tubercle fracture in 18% cases. All fractures of the proximal fibula, medial and posterior malleolus healed within 3 months. The position of the distal fibula in the fibular notch did not change in 11 cases compared to the post-injury CT scan, improved slightly in 5 cases, and worsened slightly in 1 case. The average final AOFAS hindfoot score was 96.9 points and the average final FAOS score was 98.7%.\n\n**CONCLUSION**: A stable form of the Maisonneuve fracture is characterized by no or minimal displacement on CT scans and can be successfully treated nonoperatively.",
-      "journal": "Eur J Trauma Emerg Surg",
-      "authors": [
-        "Fr\u00fchauf J",
-        "Barton\u00ed\u010dek J",
-        "Fojt\u00edk P",
-        "Hor\u0148\u00e1kov\u00e1 A",
-        "Tu\u010dek M"
-      ],
-      "date": "2026 Jun 08",
-      "doi": "10.1177/1071100717702589",
-      "tier": "core",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42257851/"
-    },
-    {
-      "pmid": "42257849",
-      "title": "Age-related differences in prehospital triage and critical interventions: a multicenter TraumaRegister DGU",
-      "abstract": "**PURPOSE**: Older trauma patients are known to be undertriaged in the prehospital setting. However, it remains unclear whether these disparities translate into differences in the delivery of critical prehospital interventions. This study aimed to evaluate age-related differences in prehospital triage, allocation, and treatment within a physician-staffed emergency medical service system.\n\n**METHODS**: A retrospective multicenter analysis of the TraumaRegister DGU\n\n**RESULTS**: A total of 67,069 patients were included, with comparable injury severity across age groups (mean ISS 20.2). Older patients were less frequently transported by air and less often allocated to supra-regional trauma centers. While overall intervention rates were similar, differences emerged in high-risk scenarios. Older patients received endotracheal intubation and tranexamic acid less frequently despite comparable injury severity. Prehospital chest tube placement rates were low and similar across age groups.\n\n**CONCLUSION**: Age-related differences in prehospital triage and allocation are associated with selective differences in treatment, particularly in high-risk situations. These findings suggest that prehospital care in older trauma patients is individualized rather than uniformly reduced, but highlight the need to refine triage algorithms and guideline implementation in an aging trauma population.",
-      "journal": "Eur J Trauma Emerg Surg",
-      "authors": [
-        "Koch DA",
-        "Hagebusch P",
-        "Hackenberg L",
-        "Pavlu F",
-        "Jakobi T",
-        "M\u00fcnzberg M",
-        "Lefering R",
-        "Schweigkofler U",
-        "Faul P"
-      ],
-      "date": "2026 Jun 08",
-      "doi": "10.1016/j.thromres.2014.11.012",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "Haemorrhage",
-        "Prehospital",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "injury severity",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "tranexamic acid",
-          "strength": "weak",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "prehospital",
-          "strength": "strong",
-          "topic": "Prehospital"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42257849/"
-    },
-    {
-      "pmid": "42257845",
-      "title": "Prediction of risk of death in severely injured patients: the revised injury severity classification score, version 3 (RISC III).",
-      "abstract": "**PURPOSE**: Trauma Registries with a focus on severely injured patients use survival as their primary outcome. In order to compare hospitals, interventions, and changes over time, a precise risk of death prediction is mandatory. The German TraumaRegister DGU\n\n**METHODS**: A total of 53,738 seriously injured trauma patients documented in 2022-2023 served as basis for development and validation (3:1 ratio). Missing values should now be considered to be within normal physiological range except in patients with specific findings indicative for an altered physiology. These findings were suggested by clinical experts and validated by registry data. The increasing age of trauma patients was addressed by additional categories and higher point weights. A logistic regression analysis provided new point weights for all predictors. Precision (observed versus predicted mortality) and discrimination (area under the receiver operating characteristic curve, AUROC) were calculated in the development and validation dataset.\n\n**RESULTS**: Patients in both datasets were well comparable, with a mean age of 55 years, 69% males, and an average Injury Severity Score (ISS) of 18 points. The rate of missing values ranged from 0% (compulsory data) to 17.5% (initial base excess). Missing pre-injury health status was imputed by age, missing pupil size, light reaction, and motor function were imputed by severity of head injury. In case of specific findings, blood pressure and initial laboratory values were imputed by injury severity (ISS), or blood transfusion, or catecholamines, or intake of anticoagulation drugs. The AUROC was 0.946 (95% confidence interval 0.944-0.949) for the new RISC III score which was confirmed in the validation data (0.949; CI 0.945-0.954). Observed and predicted mortality were 13.1% / 13.0% in the development dataset, and 13.2% / 13.0% in the validation dataset.\n\n**CONCLUSION**: Risk of death estimates require repeated validations. The increasing number of elderly trauma patients, some of them with restrictions regarding the intensity of treatment, required this update of the RISC II model. New point weights for age were established now, especially for the elderly, in order to enhance the precision of prediction in this patient group. Patients with missing values showed on average a low injury severity, thus replacing a missing value with the normal category as a general rule (RISC III) seems to be superior than replacing it with an average value (RISC II). The new prediction model shows high discrimination and precision in both datasets, development and validation, and will replace the previous version in quality reports and scientific analyses.",
-      "journal": "Eur J Trauma Emerg Surg",
-      "authors": [
-        "Lefering R",
-        "Imach S",
-        "Bieler D"
-      ],
-      "date": "2026 Jun 08",
-      "doi": "10.1186/1757-7241-16-7",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "Haemorrhage",
-        "Systems/QI",
-        "TBI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "injury severity",
-          "strength": "strong",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "blood transfusion",
-          "strength": "weak",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "head injury",
-          "strength": "weak",
-          "topic": "TBI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42257845/"
-    },
-    {
-      "pmid": "42257720",
-      "title": "Diaphragm stimulation after human spinal cord injury: Effects on respiratory function and diaphragm muscle activation.",
-      "abstract": "**BACKGROUND**: Respiratory dysfunction is a leading cause of morbidity and mortality after cervical spinal cord injury (C-SCI). Respiratory impairment is exacerbated by mechanical ventilation, which is associated with higher infection rates and diaphragm atrophy. Intramuscular stimulation of the diaphragm, that is, diaphragm pacing (DP), is a potential strategy to facilitate ventilator weaning, enhance respiratory function, and reduce complications. However, its impact on respiratory recovery and neuromuscular activation remains understudied.\n\n**METHODS**: This prospective observational case series evaluated changes in respiratory function and diaphragm activation over two months in 11 patients with acute traumatic C-SCI who underwent DP. Outcomes included tidal volume, respiratory rate, minute ventilation, maximal inspiratory/expiratory pressure generation (MIP/MEP), forced vital capacity (FVC), and diaphragm electromyography (EMG) recorded from the implanted electrodes.\n\n**RESULTS**: Participants demonstrated severe respiratory impairment at baseline, with tidal volumes averaging 2.8\u00b11.3\u00a0mL/kg and FVC at 19\u00b114% of predicted. Despite this, 89% weaned from mechanical ventilation within 41\u00b119.8 days post-injury. Significant weekly improvements were evident in tidal volume (+0.26\u00a0mL/kg), respiratory rate (-0.66 breaths/min), and minute ventilation (+0.35 L/min). MIP and MEP increased by 3% predicted function per week, and FVC increased by 2% of predicted function per week. Diaphragm EMG amplitudes during quiet breathing decreased over time, particularly in patients with high baseline activation (>80% of maximum) possibly reflecting improved neuromuscular efficiency.\n\n**CONCLUSIONS**: These findings suggest that DP may support early respiratory recovery after C-SCI improving respiratory function and diaphragm activation. Future research is needed to elucidate the underlying mechanisms and optimize clinical use of DP for respiratory recovery after C-SCI. (J Trauma Acute Care Surg 2026;00:000-000. Copyright \u00a9 2026 Wolters Kluwer Health, Inc. All rights reserved.).\n\n**LEVEL OF EVIDENCE**: Therapeutic Study; Level IV.",
-      "journal": "J Trauma Acute Care Surg",
-      "authors": [
-        "Vose AK",
-        "Cavka K",
-        "Freeborn P",
-        "Tonuzi G",
-        "Kerwin AJ",
-        "Yorkgitis BK",
-        "Fuller D",
-        "D'Alessandro A",
-        "Wauneka CN",
-        "Croft C",
-        "Fox EJ"
-      ],
-      "date": "2026 Jun 08",
-      "doi": "10.1097/TA.0000000000005085",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "Spine"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "spinal cord injury",
-          "strength": "strong",
-          "topic": "Spine"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42257720/"
-    },
-    {
-      "pmid": "42257458",
-      "title": "The Feasibility and Acceptability of Mobilizing Community Paramedics to Provide the Standard of Care for Pediatric Concussion: Mobile Integrated Health Programing for Pediatric Patients.",
-      "abstract": "**OBJECTIVES**: Community Paramedics (CPs) have not yet been engaged in pediatric concussion management. This study aimed to assess the feasibility and acceptability of building and delivering HeadStrong Community (a Mobile Integrated Health (MIH) program utilizing CPs) to provide pediatric concussion care in the community.\n\n**METHODS**: This was an experimental mixed-methods study. Physicians, CPs, and scientists used the Knowledge-to-Action cycle to co-develop the program in response to the knowledge-practice gap for CPs around recovery and rehabilitation for pediatric concussion. Patients 3-17 years who had sustained a concussion were eligible. Patients were recruited through the emergency department. The program consisted of a visiting clinician model where trained CPs assessed, helped manage, and provided anticipatory guidance and education for concussion. Feasibility was assessed by primary outcomes related to MIH agency uptake, CP uptake, patient enrollment, and modified Post-Concussion Symptoms Scale (PCSS) scores (0\u2009=\u2009no symptoms, 48\u2009=\u2009most severe symptoms). Description of uptake and enrollment and comparison of symptoms scores were conducted to analyze feasibility. Acceptability was assessed by primary outcomes of patient, parent, and CP satisfaction. Description of satisfaction scores (5-point Likert scale). Qualitative surveys of CPs were also conducted and thematically analyzed.\n\n**RESULTS**: Headstrong Community recruited and trained 15 CPs from 2 MIH agencies. Of 159 potentially eligible patients, 19% (30/159) patients enrolled and completed 28 home visits. PCSS scores improved pre- versus post- visit as reported by patients (pre-visit mean = 15.2\u2009\u00b1\u200910.4, post-visit mean = 8.8\u2009\u00b1\u20097.6, p\u2009<\u20090.001) and parents (pre-visit mean = 12.0\u2009\u00b1\u20098.1, post-visit mean = 7.8\u2009\u00b1\u20097.6, p\u2009<\u20090.001). High levels of program satisfaction were reported by patients (mean = 4.3\u2009\u00b1\u20091.2; median = 5(1-5); n\u2009=\u200923), parents (mean = 4.4\u2009\u00b1\u20090.8; median = 5(2-5); n\u2009=\u200923) and CPs (mean = 4.0\u2009\u00b1\u20090.7; median = 4(1-5); n\u2009=\u200928). The CPs reported success in learning and implementing new assessments as well as engaging with concerned families, but encountered challenges integrating with the broader health care system, particularly with other concussion specialized care.\n\n**CONCLUSIONS**: The expansion of MIH programming to pediatric concussion patients was feasible and acceptable. HeadStrong Community is a novel and innovative model for management of pediatric concussion and may serve as a template for adaptable MIH programming to address other health care needs. Further research is needed to validate clinical utility and continuously improve the program and model.",
-      "journal": "Prehosp Emerg Care",
-      "authors": [
-        "Marshall RA",
-        "Swanson PV",
-        "Michaels BL",
-        "Stenger KM",
-        "Corwin D",
-        "Lifshitz J",
-        "Eckner JT",
-        "Hunt NR",
-        "McDavid B",
-        "Rogers A",
-        "Cicero MX"
-      ],
-      "date": "2026 Jun 08",
-      "doi": "10.1080/10903127.2026.2680993",
-      "tier": "filtered",
-      "topics": [
-        "TBI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "concussion",
-          "strength": "strong",
-          "topic": "TBI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42257458/"
     }
   ]
 }
