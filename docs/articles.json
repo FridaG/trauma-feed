@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-10T21:00:19.608413Z",
-  "total_articles": 269,
+  "generated": "2026-07-11T20:38:42.558559Z",
+  "total_articles": 258,
   "all_topics": [
     "Abdominal",
     "Burns",
@@ -378,6 +378,168 @@
     "Cochrane Database Syst Rev": "filtered"
   },
   "articles": [
+    {
+      "pmid": "42432757",
+      "title": "Cross-border collaboration in a major incident: emergency medical services response to a train crash.",
+      "abstract": "**BACKGROUND**: On 15 August 2025, a fatal train crash happened in Southern Denmark following a collision with a truck at an unsecured railway crossing, resulting in derailment and one overturned carriage. One person was killed, and 29 people were injured. This case report aims to give a detailed description of the response of emergency medical services to evaluate cross-border and inter-authority cooperation as well as adherence to major incident guidelines and established communication pathways.\n\n**CASE PRESENTATION**: Initial calls indicated several critical patients and numerous school children on the train. Nineteen Danish and German units, including four helicopters, were dispatched to the scene. Access to the site was restricted to a single narrow countryside road, requiring careful organization of staging areas, access/egress routes, and casualty clearing stations. A Joint Incident Command was formed, and patients were triaged, treated, and registered using an electronic prehospital system allowing for continuous coordination with the dispatch center for hospital allocation. Two critically injured patients were transported by helicopter to two trauma centers in Denmark and Germany, and the remaining patients were distributed across three regional hospitals. The response to this incident largely aligned with national guidelines and cross-border cooperation agreements. However, delays in incident management were identified, and responders criticized infrequent training opportunities for major incidents. The rate of unauthorized radio shifts was lower than previously described.\n\n**CONCLUSIONS**: This report describes the response to a major incident, characterized by effective inter-authority cooperation and successful cross-border collaboration between Danish and German emergency services. Routine collaboration during everyday responses proved crucial to ensure efficient collaboration during crises. While adherence to major incident protocols was generally high, challenges remained regarding the site organization and timely establishment of command structures. The observed delays may reflect limited experience with major incident management among regular responders, prompting the need for comprehensive incident command training of prehospital physicians. Compared to previous incidents, communication consistency was notably improved, likely due to dedicated training efforts after prior communication failure. The incident underscored the importance of joint inter-authority response concepts and the central coordinating role of the dispatch center. Enhanced training accessibility and continued evaluation of real-life incidents are recommended to further improve preparedness for future incidents.",
+      "journal": "Scand J Trauma Resusc Emerg Med",
+      "authors": [
+        "Hansen PM",
+        "Raub D",
+        "Bjerre S",
+        "Broesby J",
+        "Fedog TN",
+        "Johansen JK",
+        "Mikkelsen S"
+      ],
+      "date": "2026 Jul 11",
+      "doi": "10.1186/s13049-026-01661-x",
+      "tier": "core",
+      "topics": [
+        "General Trauma",
+        "Prehospital"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "prehospital",
+          "strength": "weak",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42432757/"
+    },
+    {
+      "pmid": "42431724",
+      "title": "Clinician characteristics associated with CT use in children with minor blunt head trauma at very low risk for clinically important traumatic brain injuries.",
+      "abstract": "**BACKGROUND**: Evidence-based clinical prediction rules (CPRs) improve care delivery to children in the emergency department (ED); however, clinician-level factors may impact rule implementation. We aimed to investigate the association between clinician characteristics and their risk tolerances with CT scan ordering in children with blunt head trauma at very low risk for clinically important traumatic brain injuries (ciTBI).\n\n**METHODS**: As part of a prospective multicentre study of children with minor head trauma (Glasgow Coma Scale scores \u226514), we collected data from ED clinicians on clinician demographics, clinical experience, self-reported risk tolerance and perceptions/self-reported use of CPRs. Children enrolled were considered very low risk for ciTBI if they were negative for the Pediatric Emergency Care Applied Research Network (PECARN) TBI CPRs. Survey results were linked to the children they enrolled in the analytic database. We performed multivariable logistic regression to identify clinician-level factors associated with CT ordering in children at very low risk of ciTBI.\n\n**RESULTS**: Of 481 clinicians, 421 (88%, 95%\u2009CI 84% to 90%) completed the survey. Among the 8957 children at very low risk for ciTBI, 654 (7.3%, 95%\u2009CI 6.8% to 7.9%) underwent CT scanning. In multivariable modelling, clinician-reported characteristics associated with ordering CTs in very low risk children included years of experience (adjusted OR (aOR) 1.02, 95%\u2009CI 1.00 to 1.03), caring for <50% children in one's practice (aOR 1.55, 95%\u2009CI 1.13 to 2.12) and avoidance of uncertain outcomes (aOR 1.31, 95%\u2009CI 1.02 to 1.69).\n\n**CONCLUSIONS**: Despite awareness of the PECARN TBI CPRs, some clinicians ordered CTs for children at very low risk for ciTBI. More years of practice, lower clinician risk tolerance and lower proportion of children in one's clinical practice were associated with higher CT use. Increasing involvement of providers with greater paediatric expertise in imaging decisions and addressing clinician perceptions and decision-making biases may further safely lower CT use in children with minor head trauma.",
+      "journal": "Emerg Med J",
+      "authors": [
+        "Chaudhari PP",
+        "Ugalde IT",
+        "Badawy M",
+        "Ishmine P",
+        "Yen K",
+        "McCarten-Gibbs KA",
+        "Nielsen D",
+        "Atigapramoj N",
+        "Tancredi DJ",
+        "Holmes JF",
+        "Kuppermann N"
+      ],
+      "date": "2026 Jul 10",
+      "doi": "10.1136/emermed-2025-215859",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "TBI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic brain injury",
+          "strength": "strong",
+          "topic": "TBI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42431724/"
+    },
+    {
+      "pmid": "42431157",
+      "title": "Collagen sponge combined with recombinant human basic fibroblast growth factor for refractory venous leg ulcers: A prospective controlled study evaluating healing, skin graft avoidance, and costs.",
+      "abstract": "**BACKGROUND**: Refractory venous leg ulcers (VLUs) represent a significant clinical challenge, often requiring surgical intervention with skin grafting. This study evaluated whether a collagen sponge combined with recombinant human basic fibroblast growth factor (rh-bFGF) could accelerate healing, reduce the need for skin grafting, lower costs, and improve scar quality compared with standard alginate dressings.\n\n**METHODS**: This prospective controlled study enrolled 120 patients with CEAP C6 VLUs refractory to standard compression therapy. Patients were allocated to treatment with either a collagen sponge saturated with rh-bFGF (n\u00a0=\u00a060) or standard alginate dressing (n\u00a0=\u00a060), both under compression therapy. The primary endpoint was complete wound healing at 4 weeks. Secondary endpoints included time-to-healing (analyzed by Kaplan-Meier with log-rank test), need for skin grafting, total hospitalization costs, and scar quality assessed by the Vancouver Scar Scale (VSS) at 3 months. Multivariable Cox regression was used to adjust for potential confounders.\n\n**RESULTS**: The CS\u00a0+\u00a0rh-bFGF group achieved a significantly higher 4-week healing rate (85.0% vs. 55.0%; risk difference: 30.0%, 95% CI: 15.2-44.8; p\u00a0<\u00a00.001). Median healing time was shorter in the treatment group (26 days vs. 44 days; log-rank p\u00a0<\u00a00.001), with an adjusted hazard ratio of 2.54 (95% CI: 1.71-3.78). No patient in the treatment group required skin grafting compared with 13 patients (21.7%) in the control group (p\u00a0<\u00a00.001). Total hospitalization costs were lower in the treatment group (\u00a514,850 \u00b1 2420 vs. \u00a522,160 \u00b1 4150; mean difference: \u00a57310, 95% CI: \u00a55890-\u00a58730; p\u00a0<\u00a00.001). Scar quality was superior in the treatment group (VSS: 3.6 \u00b1 1.1 vs. 5.8 \u00b1 1.5; mean difference: 2.2, 95% CI: 1.7-2.7; p\u00a0<\u00a00.001). Adverse event rates were comparable between groups (6.7% vs. 10.0%, p\u00a0=\u00a00.512).\n\n**CONCLUSIONS**: In this prospective controlled study of 120 patients with refractory VLUs, the combination of a collagen sponge and rh-bFGF was associated with faster healing, elimination of skin grafting, reduced hospitalization costs, and superior scar quality compared with standard alginate dressings. These findings suggest that this approach warrants evaluation in randomized controlled trials to establish its role in clinical practice.",
+      "journal": "Injury",
+      "authors": [
+        "Zhu Y",
+        "Lai Q",
+        "Yang S",
+        "Kang R",
+        "Wei Z",
+        "Cheng J"
+      ],
+      "date": "2026 Jul 08",
+      "doi": "10.1016/j.injury.2026.113475",
+      "tier": "filtered",
+      "topics": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42431157/"
+    },
+    {
+      "pmid": "42431156",
+      "title": "Arterial hepatic perfusion is preserved during early resuscitation after hemorrhagic shock in a large animal polytrauma model.",
+      "abstract": "**BACKGROUND**: Hemorrhagic shock is a major contributor to morbidity and mortality after polytrauma and plays a central role in the development of multiple organ dysfunction syndrome (MODS). The liver is particularly vulnerable due to its high metabolic demand and dependence on adequate oxygen delivery, and hepatic dysfunction is associated with poor outcomes after trauma. This study aimed to assess hepatic perfusion and biochemical liver function following hemorrhagic shock without direct hepatic trauma in a standardized porcine polytrauma model.\n\n**METHODS**: 32 landrace pigs were used in the current study and randomized into four groups (n\u00a0=\u00a08): Tissue trauma group received a blunt chest injury and bilateral femur fractures. In the shock group, hemorrhagic shock was induced and maintained at a mean arterial pressure of 35\u00a0mmHg for 1.5\u00a0h by controlled blood withdrawal. The polytrauma group underwent both tissue trauma and hemorrhagic shock. 8 sham animals served as control. At the beginning of resuscitation, hepatic perfusion was assessed using spectral CT-based iodine density imaging. Regions of interest were placed in homogeneous liver parenchyma (segments III, IV, and VII) by a blinded investigator. Serum transaminases (AST, ALT, GGT), bilirubin, and lactate were measured at defined time points.\n\n**RESULTS**: Arterial hepatic perfusion during resuscitation did not differ significantly between shock and non-shock animals. Mean iodine uptake was 2.00 \u00b1 0.39\u00a0mg/ml in the shock group and 2.22 \u00b1 0.42\u00a0mg/ml in the non-shock group (p\u00a0=\u00a00.159). AST levels increased significantly after hemorrhagic shock at 3, 8, and 24\u00a0h (p\u00a0<\u00a00.05), while ALT, GGT, and bilirubin remained unchanged. A strong positive correlation between AST and lactate was observed (r\u00a0=\u00a00.741, p\u00a0<\u00a00.001).\n\n**CONCLUSION**: Spectral CT-based iodine perfusion imaging enables real-time assessment of arterial hepatic perfusion in hemorrhagic shock. The observed elevation of AST suggests that trauma-induced liver-associated enzyme release is present despite no statistically significant reduction in arterial liver perfusion during resuscitation.",
+      "journal": "Injury",
+      "authors": [
+        "H\u00fcbner CT",
+        "Klingebiel FK",
+        "Kalbas Y",
+        "Ricklin J",
+        "B\u00e4stlein C",
+        "Stoeck CT",
+        "Weisskopf M",
+        "Cinelli P",
+        "Pape HC",
+        "Pfeifer R"
+      ],
+      "date": "2026 Jul 07",
+      "doi": "10.1016/j.injury.2026.113483",
+      "tier": "filtered",
+      "topics": [
+        "Abdominal",
+        "General Trauma",
+        "Haemorrhage"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "polytrauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "hepatic trauma",
+          "strength": "weak",
+          "topic": "Abdominal"
+        },
+        {
+          "keyword": "haemorrhagic shock",
+          "strength": "strong",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "multiple organ dysfunction",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "MODS",
+          "strength": "weak",
+          "topic": "General Trauma"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42431156/"
+    },
     {
       "pmid": "42429795",
       "title": "The DRoPH score: development of a tool for predicting reduction difficulty in proximal humerus fracture osteosynthesis.",
@@ -9549,547 +9711,6 @@
       ],
       "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/42284798/"
-    },
-    {
-      "pmid": "42283813",
-      "title": "Denis pattern-dependent biomechanical behavior of posterior trans-iliac plate fixation compared with bilateral triangular osteosynthesis in unilateral sacral fractures: a finite element study.",
-      "abstract": "**OBJECTIVE**: Posterior trans-iliac plate osteosynthesis (TPO) is commonly used for the stabilization of unilateral vertically unstable sacral fractures. However, its biomechanical performance across different Denis fracture patterns remains unclear. This study aimed to investigate the fracture pattern-dependent biomechanical behavior of posterior trans-iliac plate osteosynthesis (TPO) in unilateral vertically unstable sacral fractures, using bilateral triangular osteosynthesis (BTO) as a high-stability reference construct.\n\n**METHODS**: A validated three-dimensional finite element model of the lumbopelvic complex was developed to simulate unilateral vertically unstable sacral fractures corresponding to Denis type I, II, and III patterns. Two posterior fixation strategies, TPO and BTO, were constructed for each fracture type. Seven physiological loading conditions were applied, including standing, flexion, extension, axial rotation, and lateral bending. Von Mises stress distribution and fracture displacement were evaluated. Fracture micromotion was quantified by calculating relative displacement changes between paired points along the fracture gap.\n\n**RESULTS**: When interpreted relative to the high-stability BTO reference construct, TPO showed fracture pattern-dependent variation in fracture displacement. The difference was most pronounced in Denis type I fractures and progressively decreased in Denis type II and III patterns.\n\n**CONCLUSION**: The biomechanical performance of posterior trans-iliac plate fixation is influenced by the Denis fracture pattern. Fracture micromotion associated with the non-reinforced TPO construct evaluated in this study decreased as the fracture line approached the sacral midline, indicating improved mechanical compatibility in more medially located fracture patterns. These findings provide biomechanical reference data for understanding fracture pattern-dependent fixation compatibility of TPO in unilateral sacral fractures. However, it remains unclear how much fixation strength is actually required to achieve sufficient construct stability for fracture healing and how postoperative management strategies, such as weight-bearing status, may influence this requirement.",
-      "journal": "Eur J Trauma Emerg Surg",
-      "authors": [
-        "Yang J",
-        "B\u00f6ker KO",
-        "Li C",
-        "Schilling AF",
-        "Ritter Z",
-        "Acharya M",
-        "Lehmann W"
-      ],
-      "date": "2026 Jun 12",
-      "doi": "10.1186/1471-2474-14-217",
-      "tier": "core",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42283813/"
-    },
-    {
-      "pmid": "42283768",
-      "title": "Factors associated with in-hospital mortality in necrotising soft tissue infections. a multicentre retrospective cohort study.",
-      "abstract": "**PURPOSE**: Necrotising soft tissue infections (NSTIs) are rare but life-threatening conditions associated with high mortality rates. This multicentre study aimed to identify admission variables associated with in-hospital mortality.\n\n**METHODS**: This retrospective study included adult patients with surgically confirmed NSTIs treated at four high-volume academic referral centres in Italy between 2010 and 2024. Demographic, clinical, physiological, and laboratory variables available at hospital admission were analysed. Categorical variables were compared between survivors and non-survivors using the chi-square test or Fisher's exact test, while quantitative variables were compared using the Student's t test or Mann-Whitney U test. Multivariable logistic regression analyses were performed to identify independent predictors of in-hospital mortality. Results were reported as ORs with 95%CI. A prognostic nomogram was developed from the final multivariable model, including variables independently associated with mortality.\n\n**RESULTS**: A total of 379 patients were included. In-hospital mortality was 16.7%. In subgroup comparisons, mortality was 17.0% in necrotising fasciitis and 22.4% in Fournier's gangrene (P\u2009=\u20090.275). In the overall NSTI population, age (aOR 1.061, 95%CI 1.037-1.087) and serum creatinine at admission (aOR 1.301, 95%CI 1.040-1.629) were independently associated with mortality. In subgroup analyses, age (aOR 1.079, 95%CI 1.051-1.114) and chronic kidney disease (aOR 2.885, 95%CI 1.141-7.283) remained associated with mortality in limb necrotizing fasciitis, while only age (aOR 1.074, 95%CI 1.030-1.124) remained independently associated with mortality in Fournier's gangrene. However, subgroup analyses in necrotising fasciitis of the limbs and Fournier's gangrene were limited by low event rates and should be considered exploratory. The nomogram based on age and serum creatinine predicted in-hospital mortality (AUC 0.775, 95% CI 0.711-0.831), with good agreement between predicted and observed outcomes across risk levels. The FATAL-NSTI study identified age and serum creatinine at admission as key predictors of in-hospital mortality in necrotising soft tissue infections. A nomogram based on age and serum creatinine may support early risk stratification. #NecrotisingSoftTissuesInfections; #FournierGangrene; #NecrotisingFasciitis CONCLUSIONS: NSTIs remain associated with substantial mortality. Age was the most consistent predictor of in-hospital mortality.",
-      "journal": "Eur J Trauma Emerg Surg",
-      "authors": [
-        "Podda M",
-        "Ceresoli M",
-        "Virdis F",
-        "Rosa F",
-        "Pilia T",
-        "Murzi V",
-        "Dess\u00ec A",
-        "Tedesco S",
-        "Cina C",
-        "Chiacchio P",
-        "Vitiello C",
-        "Emma EP",
-        "Cioffi SPB",
-        "Altomare M",
-        "Cimbanassi S",
-        "Pisanu A"
-      ],
-      "date": "2026 Jun 12",
-      "doi": "10.1089/sur.2023.184",
-      "tier": "core",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42283768/"
-    },
-    {
-      "pmid": "42283508",
-      "title": "Risk factors associated with significant posttraumatic brain hemorrhage as per the QueBIC categories: A retrospective multicenter study.",
-      "abstract": "**BACKGROUND**: Among adults with mild traumatic brain injury (mTBI), only a minority develop clinically significant intracranial hemorrhage requiring neurosurgical intervention or causing death. The Quebec Brain Injury Categories (QueBIC) stratifies risk based on computed tomography (CT) morphology, with complications occurring mainly in moderate/high-risk categories. Identifying pre-CT clinical predictors of these categories could help prioritize imaging and monitoring. We aimed to identify such predictors in complicated mTBI and assess concordance between QueBIC and the Canadian CT Head Rule (CCHR).\n\n**METHODS**: We conducted a retrospective multicenter cohort study of adults \u226518 years with complicated mTBI (GCS 13-15 plus intracranial hemorrhage and/or skull fracture) who underwent head CT between January 2020 and December 2022. QueBIC categories were assigned from radiology reports by two radiologists and two emergency physicians. Multivariable logistic regression identified independent pre-CT predictors of moderate/high QueBIC risk. Diagnostic performance metrics were estimated, and QueBIC-CCHR concordance was described.\n\n**RESULTS**: Among 2,253 patients (median age 66.3\u00a0y [IQR: 47.9-80.6]; 65.6% male), 42.6% were classified as moderate/high by QueBIC. Antithrombotic medication independently increased the risk of moderate/high QueBIC: antiplatelet therapy, OR: 1.41 (95% CI: 1.06-1.88); anticoagulants, OR: 2.25 (1.40-3.60); and dual therapy, OR: 2.49 (1.11-5.55). Older age was associated with higher risk: 65-74 years, OR: 1.52 (1.11-2.08); \u226575 years, OR: 1.66 (1.24-2.22). Confusion was the strongest clinical correlate, with an OR of 18.67 (13.06-27.33). Suspected skull vault fracture was also associated, OR: 2.09 (1.61-2.72). CCHR frequently assigned high risk where QueBIC remained low or moderate: among CCHR-high patients, 48.5% were QueBIC-low, 36.3% QueBIC-moderate, and 15.2% QueBIC-high. Conversely, among CCHR-low patients, 79.6% were QueBIC-low.\n\n**CONCLUSIONS**: In complicated mTBI, pre-CT risk per QueBIC is mainly driven by antithrombotic exposure, older age, confusion, and suspected skull fracture. CCHR shows moderate concordance and tends to overestimate risk compared with morphology-based stratification. These findings support using QueBIC-informed pathways to guide imaging and monitoring. (J Trauma Acute Care Surg 2026;00:000-000. Copyright \u00a9 2026 Wolters Kluwer Health, Inc. All rights reserved.).\n\n**LEVELS OF EVIDENCE**: Prognostic and Epidemiological Study, Level III.",
-      "journal": "J Trauma Acute Care Surg",
-      "authors": [
-        "Benhamed A",
-        "Cromb\u00e9 A",
-        "Matichard R",
-        "Seux M",
-        "Frassin L",
-        "L'Huillier R",
-        "Millon D",
-        "Emond M",
-        "Tazarourte K",
-        "Gorincour G"
-      ],
-      "date": "2026 Jun 12",
-      "doi": "10.1097/TA.0000000000005090",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "TBI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic brain injury",
-          "strength": "weak",
-          "topic": "TBI"
-        },
-        {
-          "keyword": "intracranial haemorrhage",
-          "strength": "weak",
-          "topic": "TBI"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42283508/"
-    },
-    {
-      "pmid": "42283458",
-      "title": "Tracking the big picture during wartime: A national trauma registry perspective.",
-      "abstract": "**BACKGROUND**: Trauma registries are a core component of modern trauma systems for surveillance, quality improvement, and research. During armed conflicts, the need for timely, population-level data increases; however, the functioning of national trauma registries during active war has been sparsely described. This study describes the performance of Israel's National Trauma Registry (INTR) during the 2023-2025 Swords of Iron War, and reports key wartime injury epidemiology alongside the central operational processes implemented to support both civilian and military health care systems.\n\n**METHODS**: We conducted a retrospective analysis of all hospitalized civilian and military casualties with war-associated injuries recorded in the INTR between October 7, 2023, and July 31, 2025. The primary analysis focused on descriptive epidemiology and clinical outcomes, while a secondary descriptive component addressed operational adaptations of the national trauma registry during the conflict.\n\n**RESULTS**: A total of 4,317 war-related trauma casualties were recorded, including 3,071 military personnel (71.1%) and 1,246 civilians (28.9%). Admissions peaked during the initial 48 to 72 hours of the war. Military casualties more frequently sustained penetrating injuries, with a higher proportion of critical injury (ISS \u226525) compared with civilians (10.8% vs. 5.8%). Serious thoracic, abdominal, facial, and upper-extremity injuries (Abbreviated Injury Scale\u22653) were more common among military personnel; civilians exhibited a higher burden of lower-extremity trauma. More than half of all casualties underwent operative intervention, one-fifth of military casualties required intensive care, and overall in-hospital mortality remained low (~2%).\n\n**CONCLUSIONS**: INTR maintained continuous, high-quality surveillance of casualties throughout the Swords of Iron War. Through targeted operational and methodological adaptations, the registry enabled real-time characterization of evolving wartime injury patterns, system burden, and outcomes, while supporting clinical and policy decisions under extreme conditions. These findings highlight the critical role of national trauma registries for trauma system management during armed conflicts. (J Trauma Acute Care Surg 2026;00:000-000. Copyright \u00a9 2026 Wolters Kluwer Health, Inc. All rights reserved.).\n\n**LEVEL OF EVIDENCE**: IV.",
-      "journal": "J Trauma Acute Care Surg",
-      "authors": [
-        "Amir T",
-        "Talmy T",
-        "Radomislensky I",
-        "Givon A",
-        "Khanchin G",
-        "Dym I",
-        "Akler D",
-        "Gershgoren H",
-        "Eidelman P",
-        "Shapiro A",
-        "Benov A",
-        "Afek A",
-        "Gendler S"
-      ],
-      "date": "2026 Jun 12",
-      "doi": "10.1097/TA.0000000000005056",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "Penetrating",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "penetrating injury",
-          "strength": "weak",
-          "topic": "Penetrating"
-        },
-        {
-          "keyword": "trauma registry",
-          "strength": "strong",
-          "topic": "Systems/QI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42283458/"
-    },
-    {
-      "pmid": "42283455",
-      "title": "Executing balanced resuscitation in bleeding combat casualties: Good versus good enough?",
-      "abstract": "**BACKGROUND**: Data-driven best practices recommend balanced resuscitation in a 1:1:1 (RBC:FFP:PLT) ratio - supported by a randomized trial demonstrating a reduction in mortality from exsanguination. Although adoption of this is widely advertised, recent civilian literature has shown that adherence is poor. We sought to evaluate the adherence to balanced resuscitation in the first 6 hours among combat casualties injured in Iraq and Afghanistan.\n\n**METHODS**: A retrospective analysis was performed using the Deployed Hemostatic Emergency Resuscitation of Traumatic Exsanguinating Shock data set. Injured combat casualties, with available transfusion timing data, treated at US military medical treatment facilities in Afghanistan and Iraq between 2002 and 2022, were included. Patients who received any whole blood (WB) were compared with those who received only component therapy (CT). Primary outcomes were calculated as RBC:FFP and RBC:PLT ratios, at 15-minute intervals from the time of injury through 6 hours.\n\n**RESULTS**: In all, 4,500 casualties met the inclusion criteria, with 793 receiving WB and 3,707 receiving only CT. The median age was 25 (21, 30), 96% were male, with a mortality rate of 13.5%. Among these, 66% sustained blast/explosion mechanism, with a median injury severity score of 18 (12, 29). By 6 hours, 52% versus 48% and 80% versus 69% of WB versus CT patients had achieved a 1:1 and 1.5:1 RBC:FFP ratio, respectively. Median RBC:PLT ratios showed greater variability, ranging from 1:1 to 2:1 in WB patients and 2:1 to 4:1 in CT patients. At all time points, WB patients achieved better ratios for both plasma and platelets.\n\n**CONCLUSIONS**: Approximately 50% of US combat casualties are resuscitated in a balanced fashion, far greater than that observed in recent civilian data. However, a higher proportion of patients with an early use of WB achieved 1:1:1. Wider availability of WB and increasing inventory of platelets and plasma products should be explored to improve battlefield resuscitation. (J Trauma Acute Care Surg 2026;00:000-000. Copyright \u00a9 2026 Wolters Kluwer Health, Inc. All rights reserved.).\n\n**LEVEL OF EVIDENCE**: Prognostic and Epidemiological (Retrospective comparative study with up to two negative criteria); Level III.",
-      "journal": "J Trauma Acute Care Surg",
-      "authors": [
-        "Van Gent JM",
-        "Staudt AM",
-        "Gurney JM",
-        "Cotton BA"
-      ],
-      "date": "2026 Jun 12",
-      "doi": "10.1097/TA.0000000000005057",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "injury severity",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42283455/"
-    },
-    {
-      "pmid": "42283443",
-      "title": "Historical redlining and neighborhood deprivation are associated with caregiver exclusion following evaluation for suspected child physical abuse: A multicenter study.",
-      "abstract": "**BACKGROUND**: Neighborhood socioeconomic disadvantage, measured by Area Deprivation Index (ADI), is associated with disparities in health care and child welfare responses following evaluation for suspected child physical abuse. We sought to determine whether historical redlining and contemporary spatial social polarization strengthen associations between neighborhood disadvantage and caregiver exclusion at discharge, a system-level outcome reflecting child welfare involvement.\n\n**METHODS**: This multicenter retrospective cohort study included children (age <18 y) admitted with suspected/ confirmed physical abuse at 7 New York pediatric trauma centers (2011-2023). Home addresses were linked to neighborhood disadvantage measures, including ADI, Social Vulnerability Index, Child Opportunity Index, Index of Concentration at the Extremes for race, income, and racialized economic segregation, and a Historic Redlining Score (HRS). The primary outcome was caregiver exclusion at discharge (legal removal from the home environment). Univariable and multivariable mixed-effects models adjusted for age, Injury Severity Score, and admission year.\n\n**RESULTS**: Of 1,242 patients, 517 (41.6%) experienced caregiver exclusion. These children were more often Black (29.6% vs. 20.0%, p < 0.001) and lived in neighborhoods with greater disadvantage [median (interquartile range); ADI: 78.0 (52.3 to 93.0) vs 52.5 (18.0 to 84.0); Child Opportunity Index: 26.0 (5.0 to 51.0) vs 31.0 (8.0 to 62.5), p < 0.001], compared with those without caregiver exclusion. Compared with ADI Quartile 1, children in the most disadvantaged neighborhoods (ADI: Q4) had 4.93-fold higher odds of caregiver exclusion (95% CI: 2.75 to 8.85). Inclusion of HRS improved model performance (area under the curve: 0.825 \u2192 0.833); each unit increase in HRS increased the odds of caregiver exclusion by 38% (p = 0.045).\n\n**CONCLUSIONS**: Neighborhood deprivation is strongly associated with caregiver exclusion following hospitalization for suspected child physical abuse. This relationship is strengthened by incorporating historical redlining measures. These findings highlight the intersection of structural neighborhood disadvantage and system-level responses to child safety concerns, suggesting that historic patterns of disinvestment may continue to shape child welfare involvement. (J Trauma Acute Care Surg 2026;00:000-000. Copyright \u00a9 2026 Wolters Kluwer Health, Inc. All rights reserved.).\n\n**LEVEL OF EVIDENCE**: Prognostic/Epidemiological; Level III.\n\n**STUDY TYPE**: Multicenter Retrospective Cohort Study.",
-      "journal": "J Trauma Acute Care Surg",
-      "authors": [
-        "Wilson NA",
-        "Lima SM",
-        "Lillvis D",
-        "Wu YS",
-        "Fabiano T",
-        "Nordin AB",
-        "Edwards M",
-        "Mechlowicz S",
-        "Desai M",
-        "Vu N",
-        "Duron V",
-        "Wallenstein K",
-        "Salik I",
-        "Wilson S",
-        "Sofjan I",
-        "Philipose J",
-        "Bullaro F",
-        "Klein-Cloud R",
-        "Wakeman DS"
-      ],
-      "date": "2026 Jun 12",
-      "doi": "10.1097/TA.0000000000005078",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "Paediatric",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "injury severity",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "paediatric trauma",
-          "strength": "weak",
-          "topic": "Paediatric"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42283443/"
-    },
-    {
-      "pmid": "42283437",
-      "title": "Buprenorphine analgesia: Impacts on opioid burden and clinical trajectory in acute trauma care.",
-      "abstract": "**BACKGROUND**: Schedule II opioids are widely used for trauma analgesia but carry dose-dependent risks of respiratory depression, tolerance, hyperalgesia, and addiction. Buprenorphine, a Schedule III opioid, is a potent analgesic with a more favorable safety profile; however, its integration into trauma care remains uncharacterized.\n\n**METHODS**: A single-center observational study included adult trauma patients admitted to a Level I trauma center from January 2021 to June 2024. The trauma service formalized buprenorphine analgesia in June 2023. Outcomes were assessed by (1) an unadjusted pre/post June 2023 analysis (pre-B\u0394 vs. post-B\u0394) and (2) a 1:1 nearest-neighbor propensity score-matched comparison of post-B\u0394 patients who received (Bup+) or did not receive (Bup-) buprenorphine. Bup+ and Bup- groups were matched by demographics and injury characteristics. Sublingual/buccal and parenteral buprenorphine were assigned morphine milligram equivalents (MME) conversion factors of 30 and 100, respectively. Incidence rate ratios (IRRs) with 95% CI were calculated; significance was set at p <0.05.\n\n**RESULTS**: Unadjusted analysis included 3,935 patients (2,777 pre-B\u0394; 1,158 post-B\u0394). Increased buprenorphine use was associated with reduced MME (median, 138 pre-B\u0394 vs. 75 post-B\u0394; p < 0.001; IRR, 0.70; 95% CI, 0.69-0.71), lower intensive care unit (ICU) admission rates (IRR, 0.78; 95% CI, 0.73-0.83), and shortened ICU length of stay (IRR, 0.87; 95% CI, 0.80-0.94). In the matched post-B\u0394 cohort (n = 544) buprenorphine use was associated with lower ICU admission (IRR, 0.63; 95% CI, 0.54-0.73) and shorter ICU length of stay (IRR, 0.67; 95% CI, 0.59-0.75); median MME did not differ (114 vs. 91, p = 0.187), though IRR analyses demonstrated lower opioid exposure (IRR, 0.82; 95% CI, 0.81-0.83). Across analyses, no differences were observed in survival or adverse events.\n\n**CONCLUSIONS**: In trauma patients, Schedule III buprenorphine analgesia was associated with reduced inpatient opioid exposure and ICU escalation. Further validation may establish buprenorphine as an advance in opioid stewardship for vulnerable trauma populations. (J Trauma Acute Care Surg 2026;00:000-000. Copyright \u00a9 2026 Wolters Kluwer Health, Inc. All rights reserved.).\n\n**LEVEL OF EVIDENCE**: Therapeutic/Care Management; Level III.",
-      "journal": "J Trauma Acute Care Surg",
-      "authors": [
-        "Conde-Yassin S",
-        "Gillen J",
-        "Stodghill J",
-        "Collins M",
-        "Bower K",
-        "Faulks E",
-        "Collier B"
-      ],
-      "date": "2026 Jun 12",
-      "doi": "10.1093/pm/pnz356",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "trauma centre",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42283437/"
-    },
-    {
-      "pmid": "42283426",
-      "title": "Ionized calcium after trauma should be interpreted as a pH-dependent resuscitation trajectory.",
-      "abstract": "",
-      "journal": "J Trauma Acute Care Surg",
-      "authors": [
-        "Yang Y"
-      ],
-      "date": "2026 Jun 12",
-      "doi": "10.1097/TA.0000000000005089",
-      "tier": "core",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42283426/"
-    },
-    {
-      "pmid": "42283418",
-      "title": "Combat casualty care in the American Revolution: Perils of a fragmented medical command structure.",
-      "abstract": "In 1775, American medicine faced its first and arguably greatest test: building a military medical system while actively fighting a superior enemy. In the wake of the Battle of Bunker Hill, the Continental Congress hastily passed a perfunctory resolution creating the Continental Army Medical Department. Leaders of this fledgling department struggled to manage bitterly divided and inexperienced teams, critical supply shortages, and overwhelming patient numbers. With varying degrees of success, they worked to overcome these daunting challenges to care for America's army. This article explores leadership lessons from America's inaugural military medical system, offering actionable insights for modern surgical leaders striving to restore and sustain military medical readiness today.",
-      "journal": "J Trauma Acute Care Surg",
-      "authors": [
-        "Hiroshige KM",
-        "Stein JY",
-        "Stewart BJ",
-        "Barr J",
-        "Cannon JW"
-      ],
-      "date": "2026 Jun 12",
-      "doi": "10.1097/TA.0000000000005055",
-      "tier": "core",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42283418/"
-    },
-    {
-      "pmid": "42282271",
-      "title": "Patterns and outcomes of abdominal wound injuries in Sudanese armed conflict survivors: a retrospective cohort study.",
-      "abstract": "**BACKGROUND AND AIM**: On April 15, 2023, the people of Khartoum were woken by the drums of war. The armed conflict resulted in >1200 reported fatalities and over 12\u2009000 injuries. The abdomen, housing vital organs and lacking protective bony structures, is highly vulnerable in such settings. Understanding abdominal wound injuries (AWIs) is essential for improving management and outcomes. This study aimed to analyze the patterns and outcomes of AWIs among survivors of the Sudanese armed conflict.\n\n**METHODS**: A retrospective cohort study was conducted at Wad Madni Teaching Hospital, Gezira State, Sudan, from April 15 to October 31, 2023. All patients with AWIs who underwent exploratory laparotomy and had complete records were included. Data were collected from medical records and analyzed using SPSS V.26. Demographic and clinical variables, mechanisms of injury, intraoperative findings, complications, and outcomes were assessed.\n\n**RESULTS**: Thirty-three patients were admitted with AWIs during the study period. Most were civilians (87.5%) and male (93.9%), with a mean age of 28 years. The primary mechanisms were stabbing (54.5%) and gunshots (33.3%). The small intestine (33.3%) and large intestine (30.3%) were the most affected organs. Intraoperative findings showed visceral injuries in 66.7% of cases. The mean delay from injury to admission was 27 hours (range 1-148). Combat-related injuries were more often gunshot wounds, involved multiple organs, and were associated with longer delays to admission (47 vs 19 hours, p=0.003), longer hospital stays (7 vs 5 days, p=0.009), and higher mortality (18.2% vs 0%, p=0.039). Overall postoperative mortality was 6.1%, mainly due to sepsis.\n\n**CONCLUSION**: AWIs in the Sudanese conflict were predominantly penetrating, with high intestinal involvement and significant prehospital delays. Combat-related injuries were more severe and carried higher mortality. These findings highlight the need for faster referral systems, context-specific surgical strategies, and infection-control measures in resource-limited conflict zones.\n\n**LEVEL OF EVIDENCE**: Level III (retrospective cohort study).",
-      "journal": "Trauma Surg Acute Care Open",
-      "authors": [
-        "Rafei A",
-        "Elsharif SA",
-        "Abdelraheem EM",
-        "Elamin MAA",
-        "Osman A",
-        "Salman M",
-        "Elbashier M",
-        "Ganim M",
-        "Rafei R",
-        "Alhajbakeet G",
-        "Abaker A",
-        "Mamoun M",
-        "Hussein A",
-        "Khalifa H"
-      ],
-      "date": "2026 Jan 1",
-      "doi": "10.1097/00005373-199112000-00005",
-      "tier": "core",
-      "topics": [
-        "Penetrating",
-        "Prehospital"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "gunshot wound",
-          "strength": "weak",
-          "topic": "Penetrating"
-        },
-        {
-          "keyword": "prehospital",
-          "strength": "weak",
-          "topic": "Prehospital"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42282271/"
-    },
-    {
-      "pmid": "42282270",
-      "title": "Enhancing research capacity among local actors providing surgical care in low-resource conflict settings.",
-      "abstract": "",
-      "journal": "Trauma Surg Acute Care Open",
-      "authors": [
-        "Ratnayake A",
-        "Wild HB"
-      ],
-      "date": "2026 Jan 1",
-      "doi": "10.1002/wjs.12681",
-      "tier": "core",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42282270/"
-    },
-    {
-      "pmid": "42277933",
-      "title": "Validation of the 2022 German trauma team activation criteria: a national registry study with focus on geriatric-specific modifiers.",
-      "abstract": "**BACKGROUND**: The 2022 revision of the German Trauma Society's (DGU) trauma team activation (TTA) criteria introduces geriatric-specific modifiers to enhance the sensitivity of risk stratification in older (elderly) trauma patients. This study evaluates the validity of these updated criteria using national registry data, with particular focus on mortality gradients across activation levels and the prognostic value of newly incorporated modifiers.\n\n**METHODS**: We conducted a retrospective cohort analysis of patients aged\u2009\u2265\u200960 years, defined as elderly trauma patients, from the TraumaRegister DGU\n\n**RESULTS**: Among 66,273 elderly trauma patients, mortality according to the 2022 criteria showed a consistent risk gradient: 20.2% (high risk of severe injury, HRSI), 9.0% (moderate risk of severe injury, MRSI), and 4.2% (None). In contrast, the 2016 criteria yielded inconsistent patterns, including higher mortality in the \"None\" category. New modifiers were strongly predictive of mortality: multiple serious injuries in \u2265\u20092 regions (16.7% vs. 6.7%), SBP 91-100 mmHg (13.1% vs. 7.3%), and GCS 13-14 (12.5% vs. 5.6%). Pre-injury anticoagulation was associated with increased mortality across all subgroups (29.3% vs. 20.3%).\n\n**CONCLUSION**: The 2022 TTA criteria improve the alignment between triage criteria and observed mortality risk, particularly among elderly patients. The addition of geriatric-specific modifiers enhances predictive accuracy and clinical applicability. Future work should quantify implications for overtriage and resource allocation to support evidence-based trauma system optimization.",
-      "journal": "Scand J Trauma Resusc Emerg Med",
-      "authors": [
-        "Faul P",
-        "Hagebusch P",
-        "Lefering R",
-        "Schweigkofler U",
-        "M\u00fcnzberg M",
-        "Jakobi T",
-        "Koch DA"
-      ],
-      "date": "2026 Jun 11",
-      "doi": "10.1097/SHK.0000000000001567",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "Prehospital"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "trauma team",
-          "strength": "strong",
-          "topic": "Prehospital"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42277933/"
-    },
-    {
-      "pmid": "42275819",
-      "title": "The forequarter lateral implosion injury: A diagnostic paradigm and Ch-Sh (ch\u025b-sh\u0251) classification.",
-      "abstract": "**BACKGROUND**: The lateral impaction force against the shoulder often causes multiple lesions to the forequarter including the chest wall. The purpose of this study is to describe the injury patterns and associated pathology in patients with combined chest wall and shoulder girdle injuries- forequarter lateral implosion injury and organize the findings into a classification framework to predict morbidity.\n\n**METHODS**: Three hundred fifty-four consecutive patients with two or more rib fractures and ipsilateral shoulder girdle injury from a Level 1 trauma center, between 2018-2022, were retrospectively reviewed. Ch-Sh is pronounced ch\u025b sh\u0251. Chest injuries were grouped into three categories: Ch1: 2-4 fractured ribs, Ch2: 5\u00a0+\u00a0fractured ribs, or Ch3: 2\u00a0+\u00a0fractured ribs with contralateral rib fractures and/or sternal fracture. Shoulder girdle injuries were grouped into: Sh1: clavicle or acromion fracture, and/or AC/SC joint dislocation, Sh2: scapula and/or proximal humerus fracture, or Sh3: combination of Sh1 and Sh2 injuries (clavicular chain and scapula/humerus). There were 9 total subgroups. Demographics, injury characteristics, associated injuries, and outcomes were recorded. Inter and intraobserver reliability of the classification system was studied.\n\n**RESULTS**: As chest wall injuries scaled from Ch1 to Ch3, there were significantly higher rates of ICU admission, pneumothorax, pulmonary contusion, mechanical ventilation, and spinal or other orthopedic fractures. ISS and 30-day mortality also scaled similarly. The Sh2 classification was associated with increased morbidity and mortality relative to the Sh3 group. Reviewers had almost perfect interobserver agreement (kappa=0.81) and substantial intraobserver agreement (kappa=0.66).\n\n**CONCLUSIONS**: In the Forequarter Lateral Implosion Injury classification, the Ch3-Sh2 group was associated with the greatest morbidity and mortality. The greater the chest wall injury, the greater the morbidity and mortality. However, that is not the case in shoulder injuries. Multiple disruptions in the Sh3 group may be associated with better outcomes due to dispersion of force from a \"crumple zone\" where the shoulder collapses with the rib cage sparing the thoracic organs. Examiners demonstrated high reliability for the Ch-Sh classification.\n\n**LEVEL OF EVIDENCE**: Prognostic Level III.",
-      "journal": "Injury",
-      "authors": [
-        "George A",
-        "Paull TZ",
-        "Winter JD",
-        "Levine J",
-        "Cole PA"
-      ],
-      "date": "2026 May 29",
-      "doi": "10.1016/j.injury.2026.113373",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Systems/QI",
-        "Thoracic"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "trauma centre",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "pneumothorax",
-          "strength": "weak",
-          "topic": "Thoracic"
-        },
-        {
-          "keyword": "rib fracture",
-          "strength": "weak",
-          "topic": "Thoracic"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42275819/"
-    },
-    {
-      "pmid": "42275818",
-      "title": "The fate of stage I Masquelet cement spacers in long bone reconstruction for acute fractures.",
-      "abstract": "**INTRODUCTION**: The Masquelet technique is widely used for reconstruction of segmental long bone defects following acute fractures; however, not all patients progress to the second-stage bone grafting procedure. The purpose of this study was to characterize Stage II completion following Stage I Masquelet cement spacer placement for acute long bone fractures, compare characteristics and outcomes between patients who underwent Stage I only versus completed Stage II reconstruction, and identify factors associated with progression to Stage II bone grafting.\n\n**METHODS**: A retrospective review was conducted of adult patients who underwent Masquelet reconstruction for acute long bone fractures at a Level I trauma center between 2014 and 2024. Patients were stratified by completion of Stage II reconstruction. Demographic, injury-related, surgical, and clinical outcome variables were collected. Multivariable logistic regression was performed to identify factors independently associated with Stage II completion.\n\n**RESULTS**: A total of 156 patients met inclusion criteria, of which 48 (30.8%) underwent Stage I only and 108 (69.2%) completed both stages. Patients who remained at Stage I underwent fewer orthopaedic operations (3.2 vs. 4.2, p\u00a0=\u00a00.001) and initial bony defect size did not differ between groups (84.1 vs. 78.8\u00a0mm, p\u00a0=\u00a00.423). Among patients with at least 6 months of follow-up, rates of fracture-related infection, hardware removal, wound dehiscence, amputation, and mortality were similar between groups. On multivariable analysis, no demographic or clinical variables were independently associated with Stage II completion.\n\n**CONCLUSION**: Nearly one-third of patients undergoing the Masquelet technique for acute long bone fractures did not proceed to Stage II bone grafting. Amputation was the most common reason for not proceeding to Stage II; however, among patients with at least 6 months of follow-up, amputation rates did not differ significantly between groups. The inability to identify significant predictors of Stage II completion may reflect the multifactorial nature of progression through staged reconstruction, as well as limited statistical power in this cohort.",
-      "journal": "Injury",
-      "authors": [
-        "Dekle JK",
-        "Sisk CK",
-        "Litten RM",
-        "Alcaide DM",
-        "McIlwain RN",
-        "Wilson AL",
-        "Manson HC",
-        "Spitler CA",
-        "Johnson JP"
-      ],
-      "date": "2026 Jun 10",
-      "doi": "10.1016/j.injury.2026.113423",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "trauma centre",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42275818/"
-    },
-    {
-      "pmid": "42275817",
-      "title": "Rethinking the Lisfranc injury: Rationale for and development of a new classification system for Lisfranc injuries.",
-      "abstract": "**BACKGROUND**: The Lisfranc joint comprises the articulations between the cuneiforms and bases of the metatarsals and is susceptible to a variety of\u00a0complex injuries which are frequently missed or diagnosed late. This can result in morbidity with poor outcomes, and renders it challenging to standardise management and allow prognostication. Existing classification systems, including the Myerson-Hardcastle (MHC) and Nunley & Vertullo classifications, do not consider the propagation of force through the midfoot, which is key to identifying structures which may require stabilization. They also demonstrate poor clinical utility due to poor correlation with outcomes. This study aimed to develop a new classification system for Lisfranc injuries using data from a large single-surgeon case series from a tertiary level trauma hospital in Australia. The primary outcome measures for this study were inter- and intra-observer reliability.\n\n**METHODS**: The Suthersan classification was developed to address shortfalls in current classification systems. Patient records were manually searched for Lisfranc injuries. Direct 'crush' Lisfranc injuries were excluded due to unpredictable injury patterns. Indirect Lisfranc injuries were included in analysis. Two orthopaedics foot and ankle surgeons and one hand surgeon reviewed patient radiographs and classified them using the MHC and Suthersan classification. Inter- and intra-observer reliability for both classification systems was assessed using Cohen's Kappa statistic.\n\n**RESULTS**: 176 indirect Lisfranc injuries with accessible CT scans were identified. Mean patient age was 41.6\u00a0y and 45.5% were female sex. Suthersan Grade 1a injuries were most common and grade 4 injuries were least common. 19 CT scans were not classifiable using the MHC. Combined inter-rater reliability was 0.95 (Z\u00a0=\u00a042.3) for Suthersan classification and 0.65 (Z\u00a0=\u00a021.7) for MHC. Mean intra-rater agreement was 97.7% for Suthersan classification and 87.9% for MHC.\n\n**CONCLUSION**: The Suthersan classification demonstrates excellent inter- and intra-rater agreement compared to the MHC. By considering propagation of force, the Suthersan classification may allow for prognostication and the development of management algorithms following prospective clinical observational studies correlating categories with outcomes.",
-      "journal": "Injury",
-      "authors": [
-        "Cawley WCF",
-        "Hwang P",
-        "Mittal R",
-        "Zochowski Y",
-        "Darwish I",
-        "O'Keefe R",
-        "Grogin J",
-        "Sivakumar B",
-        "Suthersan M"
-      ],
-      "date": "2026 Jun 06",
-      "doi": "10.1016/j.injury.2026.113422",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42275817/"
     }
   ]
 }
