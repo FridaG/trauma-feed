@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-11T20:38:42.558559Z",
-  "total_articles": 258,
+  "generated": "2026-07-12T20:36:38.159447Z",
+  "total_articles": 248,
   "all_topics": [
     "Abdominal",
     "Burns",
@@ -378,6 +378,45 @@
     "Cochrane Database Syst Rev": "filtered"
   },
   "articles": [
+    {
+      "pmid": "42435500",
+      "title": "A multimodal intervention reduces computed tomography use in blunt head injury.",
+      "abstract": "**BACKGROUND**: Computed tomography (CT) is frequently used in emergency departments (EDs) for the evaluation of blunt head injury. Unnecessary CT utilization leads to excessive cost, radiation exposure, and operational inefficiencies. Despite validated clinical decision rules, head CT utilization continues to rise, and the need remains for effective implementation strategies.\n\n**METHODS**: We performed a retrospective pre-post analysis after implementing a multi-modal intervention at three EDs within an academic health system. The intervention consisted of a guideline supporting a choice between the NEXUS Head CT Rule or Canadian CT Head Rule, educational sessions, monthly provider feedback, and an EHR-integrated clinical decision support (CDS) tool. All ED encounters among patients ages 18-64 were included after excluding those with high-risk features. Data were analyzed with logistic regression with generalized estimating equations and XmR statistical process control charts. A subgroup analysis was restricted to patients with traumatic chief complaints. The primary outcome was the rate of CT brain utilization. Secondary outcomes included rate of CT studies positive for radiographic traumatic brain injury (TBI), 72-h ED return visits, and 72-h ED return visits with positive head CTs.\n\n**RESULTS**: Logistic regression showed a significant associated reduction in odds of CT brain studies among the pooled sites in the post-intervention period for all encounters (Adjusted OR 0.91, 95% CI 0.89-0.94) and for traumatic chief complaints (Adjusted OR 0.89, 95% CI 0.85-0.94). SPC analysis showed special cause variation both immediately after the intervention and throughout the post-intervention year. There was no difference in the rate of positive head CT post-intervention (OR 0.92, 95% CI 0.72-1.16), rate of 72-h returns (OR 0.96, 95% CI 0.82-1.12), or 72-h returns with positive radiographic TBI (OR 0.78, 95% CI 0.22-2.82).\n\n**CONCLUSIONS**: Deploying an institutional guideline supported by educational sessions, provider feedback, and integrated CDS was associated with a reduction in CT head studies.",
+      "journal": "Am J Emerg Med",
+      "authors": [
+        "Berlyand Y",
+        "Smith Shain R",
+        "Savarino JR",
+        "Shanin DJ",
+        "Anderson JS"
+      ],
+      "date": "2026 Jul 06",
+      "doi": "10.1016/j.ajem.2026.07.005",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "TBI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "traumatic",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic brain injury",
+          "strength": "weak",
+          "topic": "TBI"
+        },
+        {
+          "keyword": "head injury",
+          "strength": "strong",
+          "topic": "TBI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42435500/"
+    },
     {
       "pmid": "42432757",
       "title": "Cross-border collaboration in a major incident: emergency medical services response to a train crash.",
@@ -9281,436 +9320,6 @@
       ],
       "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/42288074/"
-    },
-    {
-      "pmid": "42286735",
-      "title": "An inter-rater reliability study of a modified version of SATS as a prehospital triage tool.",
-      "abstract": "**BACKGROUND**: Triage systems play an essential role in allocating patients to an appropriate level of care. Several triage systems are used worldwide, all of which require scientific evaluation of their reliability and validity. Evidence regarding prehospital triage systems remains limited. The South African Triage Scale (SATS) has been adapted for local use in several regions, but modified versions require independent evaluation. The objective of this study was to examine the reliability of a modified version of the triage system, SATS, when it is used in the emergency medical services (EMS) in a region in Sweden. The study also investigated whether triage performance differs among registered nurses with varying experience and competence levels.\n\n**METHODS**: This prospective cross-sectional inter-rater reliability study included 34 registered nurses (RNs) working in the regional EMS. The participants independently triaged 30 prehospital case vignettes via a digital questionnaire, resulting in 1,010 triage assessments. Descriptive data were used. Inter-rater reliability was assessed via Krippendorff's alpha (\u03b1) and percentage agreement. Mixed effects logistic regression was performed to explore associations between triage assignment and RN characteristics, including gender, years of experience and specialist education.\n\n**RESULTS**: This study indicated insufficient inter-rater agreement when a modified version of SATS was used in a prehospital setting. Krippendorff's \u03b1 was 0.60, suggesting poor agreement when triage levels were treated as ordinal data. Full agreement was observed in three case vignettes, whereas agreement across the remaining cases ranged from 32% to 94%. Manual up-triage occurred in 25 of the 30 vignettes, with frequencies ranging from 6% to 74%. No associations were found between assigned triage level and gender, years of EMS experience or specialist education.\n\n**CONCLUSION**: This modified version of SATS demonstrated low inter-rater reliability when applied in a prehospital setting. Agreement varied substantially across patient scenarios, particularly in cases characterized by nonspecific symptoms and near-normal vital signs. These findings underscore the importance of systematic evaluation of modified triage systems to support consistent decision-making and patient safety in prehospital care.",
-      "journal": "Scand J Trauma Resusc Emerg Med",
-      "authors": [
-        "Deshayes L",
-        "Hagiwara MA",
-        "Wladis A",
-        "B\u00e4ckstr\u00f6m D"
-      ],
-      "date": "2026 Jun 12",
-      "doi": "10.1001/jama.2013.281053",
-      "tier": "core",
-      "topics": [
-        "Prehospital"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "prehospital",
-          "strength": "strong",
-          "topic": "Prehospital"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42286735/"
-    },
-    {
-      "pmid": "42286693",
-      "title": "How productive emergency physicians work: a qualitative interview study of clinical workflow in the emergency department.",
-      "abstract": "**BACKGROUND**: Operational efficiency in the emergency department (ED) is crucial for minimizing patient wait times, preventing overcrowding, and optimizing resource utilization. Although systemic inefficiencies in ED operations have been extensively studied, the understanding of individual physician-level work practices that support high productivity is limited. This study aimed to explore how productive emergency physicians structure their work in order to provide insights into physician-level practices that may support clinical workflow and overall departmental efficiency.\n\n**METHODS**: This study employed a thematic analysis informed by Braun and Clarke's reflexive approach to analyze semi-structured interviews with eight high-throughput emergency physicians at Stockholm South General Hospital (S\u00f6dersjukhuset) in Stockholm, one of Sweden's largest emergency hospitals, between March and May 2021. Five predefined topic areas (prioritization, communication, examination, laboratory and imaging modalities and medical record management), guided data collection and the initial organization of the dataset, after which themes were developed inductively through an iterative and collaborative analytic process.\n\n**RESULTS**: Thematic analysis developed six themes characterizing how productive emergency physicians structured their workflow: initial situational awareness, parallel progression, cognitive offloading, anticipatory communication, selective resource utilization and pragmatic responsiveness.\n\n**CONCLUSION**: This study provides insights into work practices that may enhance productivity in emergency medicine, with the potential to be reinforced through targeted training. Integrating these approaches into physician education could help reduce patient wait times, prevent overcrowding, and optimize resource utilization, thereby improving overall workflow. Further research is needed to explore their broader implications for clinical decision-making, healthcare efficiency, and patient safety.",
-      "journal": "Scand J Trauma Resusc Emerg Med",
-      "authors": [
-        "Berglund M",
-        "Piroozam L",
-        "Golmann J",
-        "Bohm K",
-        "Kopaczek-Styczen M",
-        "Yang LJ",
-        "Sond\u00e9n A",
-        "Liu J",
-        "\u00c4ngeby K"
-      ],
-      "date": "2026 Jun 12",
-      "doi": "10.2307/3178066",
-      "tier": "core",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42286693/"
-    },
-    {
-      "pmid": "42285813",
-      "title": "More than meets the eye: the continuing importance of tertiary trauma survey even in moderate (ISS 9-15) trauma.",
-      "abstract": "**INTRODUCTION**: Tertiary Trauma Surveys (TTS) are designed to identify injuries which are not recognised during the primary and secondary surveys. These injuries occur in up to 40% of patients and are commonly referred to in the literature as \"missed\", we prefer the term \"unrecognised\" as this term does not infer the failure of primary and secondary survey, rapid assessments designed to identify life and limb threatening injuries. The incidence and definition of unrecognised injuries varies across studies, and several risk factors have been identified internationally. The aim of our study was to investigate the sensitivity and specificity of TTS and the incidence and risk factors for unrecognised injuries in a large UK Major Trauma Centre (MTC).\n\n**METHODS**: Data was prospectively collected for all major trauma patients admitted to our MTC over six months. All patients over 16 years with an ISS\u2265\u00a09 were included. Patients with a length of stay of less than 24\u00a0h or palliated were excluded. All patients were examined using a specific TTS protocol. Patient records were reviewed one year post admission to identify any injuries diagnosed after discharge.\n\n**RESULTS**: A total of 293 patients were included. Unrecognised injuries were identified at TTS in 18.8% (55/293) patients, most commonly affecting the face or head and eyes. Patients with unrecognised injuries had a higher admission ISS (p\u00a0=\u00a00.020) and were more likely to present out of hours (40/179 vs 15/104; adjusted OR 2.23 [95% CI 1.12-4.28], p\u00a0=\u00a00.030). In patients with ISS 9-15, unrecognised injuries occurred in 27/170 (15.9%). Injuries identified after discharge occurred in 1/263 (0.38%). The sensitivity and specificity of the TTS were 53/55 (96.3%) and 238/238 (100%), respectively.\n\n**CONCLUSIONS**: Injuries identified at TTS remain common in major trauma patients including those with ISS between 9-15. TTS is an essential component of major trauma patient assessment and can be highly sensitive and specific. It should include examination of the head and eyes.",
-      "journal": "Injury",
-      "authors": [
-        "Knight C",
-        "Burke JR",
-        "Hind S",
-        "Smith SR"
-      ],
-      "date": "2026 May 22",
-      "doi": "10.1016/j.injury.2026.113370",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "major trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "trauma centre",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42285813/"
-    },
-    {
-      "pmid": "42285812",
-      "title": "CTA-detected incidence and descriptive fracture patterns of arterial injury in 539 surgically treated tibial plateau fractures.",
-      "abstract": "**BACKGROUND**: Tibial plateau fractures (TPF) are complex injuries associated with significant soft tissue and periarticular complications. Although vascular injuries are well described in lower limb trauma, their incidence in tibial plateau fractures has not been clearly established.\n\n**METHODS**: Retrospective cohort study including patients with surgically treated TPF at a level I trauma center between 2016 and 2024. CTA was selectively performed based on clinical judgment. Post hoc descriptive risk scenarios were constructed to organize observed fracture patterns. Analysis was primarily descriptive.\n\n**RESULTS**: 539 surgically treated TPF were included. Mean age was 43.7 years (18-75), 73.84% were male. Left knee was affected in 54.92%. High-energy trauma accounted for 70.87%. The CTA yield was 3.66% (6/164), corresponding to an overall observed incidence of 1.11% (6/539). Certain fracture patterns and clinical scenarios were more frequently observed among cases with arterial injury; however, these observations are based on very few events and should be interpreted cautiously as descriptive findings only.\n\n**CONCLUSION**: The CTA-detected incidence of arterial injury in this series of surgically treated tibial plateau fractures was 1.11%. Certain fracture patterns and clinical contexts were observed among the small number of cases with arterial injury; however, these findings are descriptive and should be interpreted as hypothesis-generating.",
-      "journal": "Injury",
-      "authors": [
-        "Valderrama J",
-        "Narv\u00e1ez F",
-        "Cancino J",
-        "Raffo JF",
-        "Bosselin R",
-        "Zamora F",
-        "Siegel S",
-        "Scheu M",
-        "Carredano X",
-        "Frosch KH",
-        "Espinoza G"
-      ],
-      "date": "2026 Jun 06",
-      "doi": "10.1016/j.injury.2026.113403",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "trauma centre",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42285812/"
-    },
-    {
-      "pmid": "42285811",
-      "title": "Diagnostic value of serum troponin in stable patients at risk for blunt cardiac injury.",
-      "abstract": "**INTRODUCTION**: There are no gold standard criteria for diagnosing blunt cardiac injury (BCI). While the combination of electrocardiogram (ECG) and serum troponin is considered the most sensitive screening method for those being considered for discharge, little evidence exists regarding the diagnostic value and clinical utility of initial and serial serum troponin levels in stable patients who are being admitted with a possible BCI. Therefore, this study seeks to determine if troponin level is an independent predictor of adverse cardiac events in stable, admitted patients at risk for BCI.\n\n**METHODS**: This was a five-year retrospective study using the trauma database at a University Level I Trauma Center. The study population included adult trauma patients presenting with a physician diagnosis of BCI or a sternal fracture who met prespecified stability criteria (SBP \u2265 90\u00a0mmHg, HR < 110bpm, shock index < 1, GCS \u2265 14). The data collected included all troponin values and ECG interpretations as well as echocardiogram interpretations, when performed. A patient was classified as having an adverse cardiac event if they were diagnosed with a new arrhythmia requiring treatment, had cardiac surgery, or suffered cardiac-related mortality. Sensitivity, specificity, positive and negative likelihood ratios, and diagnostic odds ratios were calculated to analyze the diagnostic performance of the different BCI screening modalities. Diagnostic tests were compared using the Exact Mcnemar's test and the exact binomial test.\n\n**RESULTS**: 350 patients met inclusion criteria. There were 12 adverse cardiac events; each were new arrhythmias requiring treatment with one patient also requiring synchronized cardioversion. Only one adverse cardiac event occurred in a patient with a normal ECG and troponin (n\u00a0=\u00a0160). No patients with a normal ECG and abnormal troponin had an adverse cardiac event (n\u00a0=\u00a083). Patients with an abnormal ECG were more likely to have an adverse cardiac event (p\u00a0<\u00a00.001).\n\n**DISCUSSION**: In stable patients in this cohort, troponin level did not predict adverse cardiac events. Therefore, admitted patients at risk for BCI who meet stability criteria might be safely observed without measurement of serum troponin.",
-      "journal": "Injury",
-      "authors": [
-        "Cleary HL",
-        "Bernard MD",
-        "Davenport DL",
-        "Bernard AC"
-      ],
-      "date": "2026 Jun 10",
-      "doi": "10.1016/j.injury.2026.113448",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "trauma centre",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42285811/"
-    },
-    {
-      "pmid": "42285729",
-      "title": "The Influence of Hypocalcaemia on Trauma Patients Experiencing Post-Induction Hypotension: A Retrospective Observational Study.",
-      "abstract": "**OBJECTIVE**: Hypocalcaemia is a common electrolyte disturbance in major trauma patients, particularly those with haemorrhagic shock. Trauma patients are often intubated as part of their care, which can result in post-induction hypotension. We aimed to estimate the effect of hypocalcaemia on post-induction hypotension.\n\n**METHODS**: We conducted a retrospective observational study of trauma patients \u2265\u200918\u2009years old intubated in a tertiary Australian Emergency Department between 1st January 2020 and 30th September 2024. Epidemiological and clinical management data were extracted to estimate the effect of hypocalcaemia on outcomes.\n\n**RESULTS**: Of 478 eligible patients, 151 had available haemodynamic and calcium measurements. Post-induction hypotension occurred in 38/47 (81%) of hypocalcaemic and 69/104 (66%) of non-hypocalcaemic patients. Hypocalcaemia was associated with higher odds of post-induction hypotension (adjusted odds ratio [aOR] 2.15, 95% confidence interval [CI] 0.84-5.51), with considerable uncertainty in this estimate. Hypocalcaemic patients were more likely to receive red blood cells within 15-min post-induction (OR 2.13, 95% CI 1.12-4.04). Minimal differences were observed in cardiac arrest 15-min post-induction (OR 0.65, 95% CI 0.07-5.73) or mortality at discharge (OR 1.00, 95% CI 0.51-1.97).\n\n**CONCLUSIONS**: Hypocalcaemia may be associated with higher odds of post-induction hypotension in trauma patients; however, our findings require corroboration across a larger multi-centre prospective observational study. If corroborated, a randomised controlled trial is warranted to establish the utility of calcium replacement for the prevention of post-induction hypotension.",
-      "journal": "Emerg Med Australas",
-      "authors": [
-        "Kwok A",
-        "Selman C",
-        "Gumm K",
-        "Read DJ",
-        "Douglas N",
-        "Bourke EM"
-      ],
-      "date": "2026 Jun 1",
-      "doi": "10.1097/01.Ta.0000075338.21177.Ef",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Haemorrhage"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "major trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "haemorrhagic shock",
-          "strength": "weak",
-          "topic": "Haemorrhage"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42285729/"
-    },
-    {
-      "pmid": "42285120",
-      "title": "Diagnosis and treatment of postpartum haemorrhage: a race against time.",
-      "abstract": "Postpartum haemorrhage (PPH) is common, affecting an estimated 13% of women having vaginal birth and 31% of women having caesarean birth. Successful management of PPH requires early and accurate diagnosis and effective treatment. A systematic review found that subjective visual estimation of blood loss misses 52% of PPH diagnoses at vaginal birth (pooled sensitivity 48%, 95% CI 44-53), and probably more at caesarean birth. The WHO-International Federation of Gynecology and Obstetrics-International Confederation of Midwives consolidated guidelines on PPH therefore recommend objective quantification of blood loss with products such as a calibrated blood collection drape. When supported by a robust implementation strategy and a first-response treatment bundle, objective measurement of blood loss and monitoring of vital signs has been shown to diagnose PPH accurately and early, and improve clinical outcomes. Refractory PPH can progress to life-threatening PPH, which should be managed by a multidisciplinary team providing aggressive resuscitation and targeted treatment. Saving the life of a woman with excessive postpartum bleeding is a race against time. The six delays to avoid are: (1) in the diagnosis (by use of objective cumulative blood loss measurement and early trigger criteria), (2) in the first-response treatment (by authorising midwives to administer all components of a standardised bundle of interventions), (3) in the escalation (by use of explicit escalation criteria and red flags), (4) in the use of temporising measures (eg, non-pneumatic anti-shock garment), (5) in the identification and targeted management of any specific causes of bleeding, and (6) in the provision of blood and blood products. Quick actions to avoid these delays can mean the difference between life and death for a woman with PPH.",
-      "journal": "Lancet",
-      "authors": [
-        "Coomarasamy A",
-        "Devall AJ",
-        "Bell S",
-        "Sindhu KN",
-        "Mammoliti KM",
-        "Nausheen S",
-        "Ali-Masri H",
-        "Deneux-Tharaux C",
-        "Homer CSE",
-        "Miller S",
-        "Kihara A",
-        "Thangaratinam S",
-        "Weeks A",
-        "Wright A",
-        "Hodgetts-Morton V",
-        "Beeson LE",
-        "Allotey J",
-        "Sobhy S",
-        "Moran N",
-        "Yunas I",
-        "Oladapo OT",
-        "Gallos ID"
-      ],
-      "date": "2026 Jul 04",
-      "doi": "10.1016/S0140-6736(26)01031-7",
-      "tier": "filtered",
-      "topics": [
-        "Haemorrhage"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "blood product",
-          "strength": "weak",
-          "topic": "Haemorrhage"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42285120/"
-    },
-    {
-      "pmid": "42285119",
-      "title": "Postpartum haemorrhage: epidemiology, consequences, and missed opportunities.",
-      "abstract": "Excessive bleeding after childbirth, known as postpartum haemorrhage (PPH), can turn an uncomplicated birth into a catastrophe. Each year, PPH occurs in an estimated 27 million women worldwide-17 million after vaginal birth and 10 million during or after caesarean birth. An estimated 43\u2008000 women die from PPH annually, translating to a death every 12 min. The pooled prevalence of PPH at vaginal birth is 12\u00b76% (95% CI 10\u00b71-15\u00b72) and at caesarean birth 30\u00b79% (95% credible interval 24\u00b79-37\u00b76), based on the conventional definition of PPH. Common causes of PPH are uterine atony, genital tract trauma, retained placenta, abnormal placentation, and coagulopathy. Risk factors include caesarean birth, multiple pregnancy, anaemia, high maternal BMI, previous PPH, female genital mutilation, sepsis, pre-eclampsia, macrosomia, and inadequate antenatal care. In addition to being the leading cause of maternal mortality worldwide, the consequences of PPH include serious morbidities such as severe anaemia, hysterectomy, organ failure, and long-term psychological trauma. The global economic burden of PPH is estimated at US$10\u00b74 billion (95% credible interval $9\u00b78-13\u00b72 billion) annually, consisting of $3\u00b76 billion ($3\u00b72-6\u00b72 billion) for health systems and $6\u00b78 billion ($6\u00b72-7\u00b75 billion) for societies. Based on a rigorous review of the evidence, WHO has recently redefined PPH as objectively measured blood loss of at least 300 mL plus an abnormal haemodynamic sign, or objectively measured blood loss of at least 500 mL, whichever occurs first. This new definition prioritises early PPH diagnosis and treatment to avert life-threatening maternal outcomes. Comprehensive efforts to address missed opportunities in the prevention, diagnosis, and treatment of PPH are needed to improve outcomes. These efforts include addressing the unmet need for contraception, mitigating modifiable risks such as anaemia, avoiding caesarean sections that are not medically indicated, using effective single uterotonic prophylaxis for all births and combination prophylaxis for women at high risk of PPH, ensuring accurate and objective measurement of blood loss for early PPH diagnosis, and promptly implementing treatment with an evidence-based bundle. The PPH Roadmap (2023-30) provides a global framework for action.",
-      "journal": "Lancet",
-      "authors": [
-        "Coomarasamy A",
-        "Sindhu KN",
-        "Gallos I",
-        "Periyathambi N",
-        "Price MJ",
-        "Yunas I",
-        "Qureshi Z",
-        "Muriithi FG",
-        "Williams CR",
-        "Fawcus S",
-        "George A",
-        "Althabe F",
-        "Titulaer P",
-        "Aswat A",
-        "Cresswell JA",
-        "Arulkumaran S",
-        "Scott N",
-        "Devall AJ",
-        "Oladapo OT"
-      ],
-      "date": "2026 Jul 04",
-      "doi": "10.1016/S0140-6736(26)00902-5",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42285119/"
-    },
-    {
-      "pmid": "42285117",
-      "title": "Prevention of postpartum haemorrhage: from evidence to implementation at scale.",
-      "abstract": "Postpartum haemorrhage (PPH) is a leading cause of maternal death. Preventing PPH can spare women from experiencing the trauma and risks of PPH, reduce the strain on overstretched health systems, and probably produce better outcomes than a strategy solely focused on PPH treatment. Prevention of PPH is often interpreted as provision of uterotonic drugs to contract the uterus at the time of childbirth. Although uterotonics are a central strategy for PPH prevention, several other approaches can prevent PPH or ameliorate its severity. These approaches include addressing the unmet need for contraception, remedying anaemia and other modifiable risk factors for PPH, optimising medical conditions that predispose to PPH, and tackling the rise in caesarean births in many countries. Effective delivery of preventive care requires early and regular antenatal care and planned birth at appropriately resourced health facilities. Social and behavioural change interventions for improving contraceptive provision and uptake, targeting adolescents, postpartum women, geographically remote communities, and families on low income, are a priority. Effective interventions to tackle anaemia include the management of heavy menstrual bleeding, pre-pregnancy or antenatal haemoglobin testing and oral or intravenous iron treatment, dietary improvements, and-on rare occasions-blood transfusion. Risk factors for PPH that need attention include high BMI, multiple pregnancy, gestational diabetes, pre-eclampsia, macrosomia, and several medical conditions. Caesarean births are associated with a substantial increase in PPH risk and should therefore only be done when medically indicated. A Cochrane network meta-analysis of 122 trials, with 121\u2008931 women, found that the combinations of oxytocin plus misoprostol, or oxytocin plus ergometrine, were the most effective prophylaxis for PPH when given at the time of childbirth; however, these combinations had a higher risk of side-effects compared with single-drug prophylaxis. Oxytocin and carbetocin were the most effective single drugs for PPH prophylaxis, with minimal side-effects. Single uterotonic prophylaxis with either oxytocin or carbetocin is, therefore, recommended for routine prophylaxis. However, if oxytocin or carbetocin is not accessible, misoprostol is an alternative. Combination prophylaxis with oxytocin plus misoprostol can be considered for women at high risk of PPH. Ergometrine alone and oxytocin plus ergometrine combination are no longer recommended due to hypertension-related safety concerns. A robust implementation approach that engages various stakeholders to promote change, ensures the supply of quality-assured medicines and devices, provides training and support, and secures ongoing political and financial commitment is necessary to translate evidence into global impact.",
-      "journal": "Lancet",
-      "authors": [
-        "Gallos ID",
-        "Sindhu KN",
-        "Yunas I",
-        "Sobhy S",
-        "Mavrides E",
-        "Sheikh L",
-        "Escobar MF",
-        "Al-Beity FA",
-        "Bohren MA",
-        "Evans C",
-        "Bouthors AS",
-        "Francisco AA",
-        "Papageorghiou AT",
-        "Podesek M",
-        "Lissauer D",
-        "Ntirushwa D",
-        "Rulisa S",
-        "Chandan JS",
-        "Devall AJ",
-        "Oladapo OT",
-        "Coomarasamy A"
-      ],
-      "date": "2026 Jul 04",
-      "doi": "10.1016/S0140-6736(26)00903-7",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Haemorrhage"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "blood transfusion",
-          "strength": "weak",
-          "topic": "Haemorrhage"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42285117/"
-    },
-    {
-      "pmid": "42284799",
-      "title": "Risk Factors for Failure of Repair of Diaphyseal Tibial Nonunions: A Retrospective Cohort Study of 108 Patients.",
-      "abstract": "**OBJECTIVES**: To determine rates and risk factors for additional nonunion surgery and final radiographic healing following diaphyseal tibial nonunion repair.\n\n**METHODS**: All consecutive patients aged \u226518 years who underwent diaphyseal (AO/OTA 42) tibial nonunion repair with (exchange) intramedullary nailing (IMN) or open reduction and internal fixation (ORIF) between 2001 and 2024 with \u22656 months follow-up were included. The primary outcome was the rate of additional nonunion surgery. The secondary outcome was radiographic healing (defined as Modified Radiographic Union Score for Tibia [mRUST] \u226511) at final follow-up. Multivariable logistic regression was used to determine the association of patient, nonunion, and treatment characteristics with additional nonunion surgery.\n\n**RESULTS**: A total of 108 patients were included (70% male, median age 42 years [IQR 28-53]). Sixty patients (56%) were treated with IMN, of whom 54 (50%) underwent exchange IMN, and 48 (44%) were treated with ORIF. Autograft was used in 39 patients (36%) and bone graft substitutes in 21 (19%). Twenty-seven patients (25%) required additional nonunion surgery, of whom 5 (4.6%) ultimately underwent amputation. In multivariable analysis, current smoking (OR: 4.28, p\u00a0=\u00a00.015), initial open fracture (OR: 3.94, p\u00a0=\u00a00.045), and presence of a bone defect (OR: 9.20, p\u00a0<\u00a00.001) were associated with increased odds of additional nonunion surgery, while decortication was associated with reduced odds (OR: 0.30, p\u00a0=\u00a00.038). The final radiographic healing rate was 90%.\n\n**CONCLUSIONS**: 1 in 4 patients required additional surgery for persistent nonunion and 1 in 25 ultimately underwent amputation. The findings highlight the importance of smoking cessation prior to nonunion repair and the potential benefit of decortication, although this latter finding should be interpreted within the context of the overall treatment strategy. Furthermore, the presence of a bone defect and an initial open injury were associated with higher odds of additional nonunion surgery. Overall, 9 in 10 patients achieved radiographic healing.",
-      "journal": "Injury",
-      "authors": [
-        "Fan S",
-        "Wagner RK",
-        "Lehle CH",
-        "Musick AN",
-        "Gregg AT",
-        "Janssen SJ",
-        "Wijffels MME",
-        "Stenquist DS",
-        "Ly TV",
-        "Aneja A"
-      ],
-      "date": "2026 Jun 06",
-      "doi": "10.1016/j.injury.2026.113421",
-      "tier": "filtered",
-      "topics": [
-        "Orthopaedic"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "open fracture",
-          "strength": "weak",
-          "topic": "Orthopaedic"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42284799/"
-    },
-    {
-      "pmid": "42284798",
-      "title": "Superior survival, hemodynamics, and metabolic recovery using\u00a0PEG-20k-based low volume resuscitation in a polytrauma hemorrhagic shock model in rats.",
-      "abstract": "**BACKGROUND**: Hemorrhagic shock is a major cause of preventable civilian and military trauma death. Although whole blood and blood products remain the standard of care, field\u2011stable alternatives are needed for resource\u2011limited environments and supply\u2011chain disruptions. Blood\u2011based resuscitation may also fail to optimally restore microvascular perfusion despite improved macrohemodynamics, contributing to ongoing ischemia-reperfusion injury, dysfunctional molecular cell dynamics, and capillary cell swelling. Prior controlled hemorrhage studies in rats and swine demonstrated superior survival, mean arterial pressure (MAP), and lactate clearance with polyethylene glycol 20,000 (PEG\u201120k) compared with crystalloid, colloid, and whole blood controls. These beneficial effects are attributed to the capacity of PEG-20k to augment water transfer from swollen ischemic cells into the vascular space, thereby decompressing capillary beds and restoring effective tissue perfusion. This study evaluated PEG\u201120k in a severe polytrauma rat model with combined controlled and uncontrolled hemorrhage.\n\n**METHODS**: Adult male Sprague-Dawley rats (250-400-g) underwent a midline laparotomy, 75% tail amputation, and dual splenic transections. The spleen bled freely into the closed abdomen (uncontrolled, non-compressible hemorrhage), while the tail was intermittently clamped (controlled, compressible hemorrhage) to maintain MAP >\u00a030-mmHg until plasma lactate reached 7.5-10-mM. A tail tourniquet was then placed, and animals were resuscitated with 6.1-ml/kg IV fluid over 5-minutes using either lactated Ringer's (LR), 6%-hetastarch in LR (Hextend, HXT), or 10%-PEG-20k in LR (PEG). Outcomes included survival, blood loss, MAP, and lactate. The study concluded at subject death from shock or at 4-hours after treatment.\n\n**RESULTS**: Baseline and post-hemorrhage characteristics were similar across groups (n\u00a0=\u00a04/group; hemorrhage volume 51.3% \u00b16.8% of total blood volume, p\u00a0=\u00a00.4088). Survival times for PEG-20k, HXT, and LR were 240-min \u00b10, 59.0-min \u00b121.2, and 36.3-min \u00b110.8, respectively (p\u00a0<\u00a00.0001). PEG-20k normalized MAP within 5-minutes and remained >\u00a090-mmHg throughout the 240-min period. Terminal lactates for PEG-20k, HXT, and LR were 3.2-mM \u00b10.5, 10.3-mM \u00b11.7, and 11.7-mM \u00b10.5, respectively (p\u00a0<\u00a00.0001).\n\n**CONCLUSIONS**: PEG-20k low-volume resuscitation markedly improved survival, MAP, and lactate clearance without increasing uncontrolled bleeding in a severe polytrauma hemorrhagic shock model. This shelf-stable IV fluid may enhance resuscitation during prolonged prehospital care and in resource-limited settings where blood products are unavailable. Future studies will evaluate PEG-20k in translational models of uncontrolled hemorrhage and polytrauma, and as a potential preemptive adjunct to blood-based resuscitation.",
-      "journal": "Injury",
-      "authors": [
-        "Khoraki J",
-        "Payne C",
-        "Lust D",
-        "Mangino MJ",
-        "Liebrecht LK"
-      ],
-      "date": "2026 May 29",
-      "doi": "10.1016/j.injury.2026.113379",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Haemorrhage",
-        "Prehospital",
-        "Procedures"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "polytrauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "haemorrhagic shock",
-          "strength": "strong",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "blood product",
-          "strength": "weak",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "tourniquet",
-          "strength": "weak",
-          "topic": "Procedures"
-        },
-        {
-          "keyword": "prehospital",
-          "strength": "weak",
-          "topic": "Prehospital"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42284798/"
     }
   ]
 }
