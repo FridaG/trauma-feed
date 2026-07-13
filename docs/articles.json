@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-12T20:36:38.159447Z",
-  "total_articles": 248,
+  "generated": "2026-07-13T20:50:32.446214Z",
+  "total_articles": 244,
   "all_topics": [
     "Abdominal",
     "Burns",
@@ -3859,36 +3859,6 @@
       "link": "https://pubmed.ncbi.nlm.nih.gov/42377492/"
     },
     {
-      "pmid": "42377433",
-      "title": "Breaking the Polytrauma-Brain Barrier: Using Point-of-Care Biomarkers in Severely Injured Trauma Patients.",
-      "abstract": "",
-      "journal": "J Am Coll Surg",
-      "authors": [
-        "Kemp Bohan PM",
-        "Egodage T"
-      ],
-      "date": "2026 Jun 30",
-      "doi": "10.1097/XCS.0000000000002086",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "polytrauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42377433/"
-    },
-    {
       "pmid": "42377405",
       "title": "In Reply: Interhospital Variation in Operative Intervention for Firearm-Related Penetrating Traumatic Brain Injury and Associations With Inpatient Mortality.",
       "abstract": "",
@@ -4430,36 +4400,6 @@
       ],
       "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/42371000/"
-    },
-    {
-      "pmid": "42370589",
-      "title": "Going the Extra Mile: Picking the Right Trauma Center Destination for Critically Injured Patients in a Mature State-Wide Trauma System.",
-      "abstract": "",
-      "journal": "J Am Coll Surg",
-      "authors": [
-        "Brown JB"
-      ],
-      "date": "2026 Jun 29",
-      "doi": "10.1097/XCS.0000000000002080",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "trauma centre",
-          "strength": "strong",
-          "topic": "Systems/QI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42370589/"
     },
     {
       "pmid": "42370061",
@@ -6777,55 +6717,6 @@
       "link": "https://pubmed.ncbi.nlm.nih.gov/42319156/"
     },
     {
-      "pmid": "42319113",
-      "title": "Trauma Center Level and Mortality in Injured Patients with Shock or Multisystem Trauma.",
-      "abstract": "**BACKGROUND**: Level I and Level II trauma centers share similar clinical verification standards, but differences in volume, subspecialty integration, and transfer patterns may affect outcomes for the highest-risk injured patients.\n\n**STUDY DESIGN**: We performed a retrospective cohort study using the Pennsylvania Trauma Outcomes Study database from 1999-2023. Patients aged \u226516 years treated at established Level I or Level II trauma centers with ISS >9, transfer to a trauma center, or death at a trauma center were included. Patients treated at centers that changed level, Level III/IV centers, burns, age <16 years, ISS <9, and transfers out were excluded from comparative outcome analyses. The primary endpoint was in-hospital mortality. Multivariable logistic regression adjusted for age, GCS, presenting vital signs, mechanism, AIS, ISS, transfer status, and comorbidities.\n\n**RESULTS**: Among 363,470 patients, 247,800 (68.2%) were treated at Level I centers and 115,670 (31.8%) at Level II centers across 11 Level I and 16 Level II facilities. The proportion treated at Level II centers increased from 23.5% in 1999 to 45.2% in 2023. Level I centers treated younger, more severely injured patients and higher proportions transferred in, presenting in shock, or sustaining blunt multisystem or penetrating truncal injury. Overall mortality was 7.7%, with unadjusted mortality of 8.2% at Level I vs 6.9% at Level II centers. After adjustment, mortality did not differ overall. However, Level I centers had lower adjusted mortality among patients with blunt multisystem trauma and those presenting in shock; no adjusted mortality difference was observed for penetrating truncal injury, isolated traumatic brain injury, or ISS strata.\n\n**CONCLUSIONS**: In this mature statewide trauma system, Level I and Level II centers had similar adjusted overall mortality, but Level I centers demonstrated a survival advantage for shock and blunt multisystem trauma. These findings support targeted triage and early-transfer strategies for physiologically unstable and complex blunt-injury patients.EQUATOR Guidelines - STROBE guidelines.\n\n**LEVEL OF EVIDENCE**: Level III.",
-      "journal": "J Am Coll Surg",
-      "authors": [
-        "McLaughlin CJ",
-        "Song J",
-        "Kern JA",
-        "Seamon MJ",
-        "Martin ND",
-        "Chreiman K",
-        "Kim PK",
-        "Reilly PM",
-        "Kaufman EJ"
-      ],
-      "date": "2026 Jun 22",
-      "doi": "10.1097/XCS.0000000000002078",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Systems/QI",
-        "TBI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "trauma centre",
-          "strength": "strong",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "traumatic brain injury",
-          "strength": "weak",
-          "topic": "TBI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42319113/"
-    },
-    {
       "pmid": "42318910",
       "title": "Extracorporeal membrane oxygenation in trauma patients with major pulmonary contusion.",
       "abstract": "**BACKGROUND**: Patients with pulmonary contusion (PC) may require extracorporeal membrane oxygenation (ECMO) due to respiratory failure refractory to conventional management. We aimed to compare outcomes in patients with major PC who received ECMO with those who received conventional management.\n\n**METHODS**: We performed a retrospective cohort study using the Trauma Quality Improvement Program Database (2017-2020). We identified adult patients with major PC who underwent veno-arterial or veno-venous ECMO or had respiratory failure and received mechanical ventilation. The primary outcome was survival to discharge. Secondary outcomes included the rate of pulmonary embolism, stroke, and ventilator-associated pneumonia. We used 1:1 propensity matching to adjust for patient and injury characteristics. We used stepwise logistic regression to identify predictors of survival among PC patients undergoing ECMO.\n\n**RESULTS**: We included 611 patients, of whom 106 (17%) underwent ECMO. Among 102 well-matched pairs, there was no difference in the rate of mortality (37% vs. 29%; p=0.23), pulmonary embolism (5% vs. 6%; p=0.76), or stroke (7% vs. 3%; p=0.19). The rate of ventilator-associated pneumonia was significantly lower in ECMO patients (14% vs. 36%; p<0.001). Among patients undergoing ECMO, 67 (63%) survived to discharge. In-hospital cardiac arrest, severe head injury, and age over 50 years were associated with lower survival, while anticoagulant use was associated with higher odds of survival.\n\n**CONCLUSION**: ECMO is safe in trauma patients with major PC and may be associated with lower morbidity. Young patients without severe head injuries, cardiac arrest, and contraindications to anticoagulation may benefit most from ECMO. (J Trauma Acute Care Surg. 2026;00: 00-00. Copyright \u00a9 2026 Wolters Kluwer Health, Inc. All rights reserved.).\n\n**LEVEL OF EVIDENCE**: Therapeutic Study; Level IV.",
@@ -7491,61 +7382,6 @@
       ],
       "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/42312687/"
-    },
-    {
-      "pmid": "42311103",
-      "title": "Point of Care UCHL1/GFAP for Rapid Assessment of Undifferentiated Trauma Patients.",
-      "abstract": "**BACKGROUND**: Rapid discrimination of traumatic brain injury (TBI) from hemorrhagic shock remains challenging during initial trauma evaluation. Ubiquitin carboxyl-terminal hydrolase L1 (UCHL1) and glial fibrillary acidic protein (GFAP) are established TBI biomarkers; however, UCHL1 may also increase in systemic shock. We evaluated a point-of-care whole-blood UCHL1/GFAP assay in undifferentiated severe injury and examined associations with TBI, massive transfusion, and in-hospital mortality.\n\n**STUDY DESIGN**: In this prospective, single-center study, 273 consecutive highest-level trauma activations at risk for TBI or hemorrhage were enrolled between February 2025 and March 2026. UCHL1 and GFAP were measured using the iSTAT-Alinity platform and compared with arrival point-of-care lactate. Associations were assessed using Mann-Whitney U testing, receiver operating characteristic analysis, Fisher's exact testing, and logistic regression.\n\n**RESULTS**: GFAP >218 pg/mL (OR 73.2, p<0.001) and UCHL1 >2003 pg/mL (OR 3.3, p<0.001) were associated with TBI, whereas lactate >1.8 mmol/L was not (OR 0.6, p=0.12). Massive transfusion was associated with UCHL1 >2678 pg/mL (OR 3.9, p=0.002) and lactate >4 mmol/L (OR 5.5, p<0.001). In-hospital mortality was associated with GFAP >1532 pg/mL (OR 14.4, p<0.001), UCHL1 >2866 pg/mL (OR 4.1, p<0.001), and lactate >5.8 mmol/L (OR 2.0, p=0.03). Extreme GFAP elevation (>10,000 pg/mL) was strongly associated with mortality (30/34 patients; OR 35.4; PPV 88.2%; p<0.001).\n\n**CONCLUSIONS**: Point-of-care UCHL1/GFAP functions as a global trauma biomarker. Concurrent elevation of GFAP and UCHL1 is strongly associated with TBI, whereas isolated UCHL1 elevation may reflect hemorrhagic shock. Extreme GFAP elevation identifies patients at exceptionally high risk for in-hospital mortality, even without radiographic stratification.Level of Evidence: Level II.",
-      "journal": "J Am Coll Surg",
-      "authors": [
-        "Wetmore GC",
-        "Beyeler JT",
-        "Becker ER",
-        "Wakefield D",
-        "Black T",
-        "Puntenney O",
-        "Pattison S",
-        "Baker J",
-        "Pritts TA",
-        "Goodman MD"
-      ],
-      "date": "2026 Jun 19",
-      "doi": "10.1097/XCS.0000000000002073",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Haemorrhage",
-        "TBI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "haemorrhagic shock",
-          "strength": "weak",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "massive transfusion",
-          "strength": "weak",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "traumatic brain injury",
-          "strength": "weak",
-          "topic": "TBI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42311103/"
     },
     {
       "pmid": "42310772",
