@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-14T20:50:31.662357Z",
-  "total_articles": 236,
+  "generated": "2026-07-15T20:50:52.073685Z",
+  "total_articles": 228,
   "all_topics": [
     "Abdominal",
     "Burns",
@@ -379,6 +379,195 @@
   },
   "articles": [
     {
+      "pmid": "42455344",
+      "title": "Antiseizure medication dosing and monitoring in the intensive care unit: a practical narrative review.",
+      "abstract": "**PURPOSE**: Antiseizure medications (ASMs) are commonly used in the intensive care unit (ICU) and often exhibit pharmacokinetics that differ substantially from those in healthy volunteers or in the outpatient setting. Organ dysfunction, polypharmacy, exogenous devices, and greater severity of illness all influence ASM pharmacokinetics, dosing decisions, and monitoring parameters. It is essential for critical care clinicians to familiarize themselves with the pharmacokinetics, dosing considerations, effects of exogenous devices, and therapeutic drug monitoring (TDM)-all covered in this narrative review-to incorporate in their approach to ASMs in the critical care setting.\n\n**METHODS**: We identified relevant literature from MEDLINE from inception to March 2026 related to ASMs in the ICU. Data on pharmacokinetics, dosing in the ICU, the effect of renal replacement therapy, extracorporeal membrane oxygenation (ECMO), and plasmapheresis (PLEX) on ASM exposure, and the role of TDM in the ICU were collected and summarized.\n\n**RESULTS**: Considerations for 15 ASMs (brivaracetam, cannabidiol, carbamazepine, cenobamate, clobazam, lacosamide, lamotrigine, levetiracetam, oxcarbazepine, perampanel, phenobarbital, phenytoin, topiramate, valproate, and zonisamide) were included in the review. Dosing considerations for TDM, including indications and target reference ranges, and specific settings such as organ dysfunction, illness severity, renal replacement therapy, ECMO, and PLEX are discussed.\n\n**CONCLUSION**: The use of ASMs in the ICU require a distinct approach from outpatient settings. Severity of illness, organ dysfunction and replacement devices, and frequent drug-drug interactions warrant tailored agent selection, dosing, and monitoring.",
+      "journal": "Intensive Care Med",
+      "authors": [
+        "Webb AJ",
+        "Barlow B",
+        "Seto SL",
+        "Maciel CB",
+        "Brennan J",
+        "Cook AM"
+      ],
+      "date": "2026 Jul 15",
+      "doi": "10.1016/s1059-1311(96)80043-4",
+      "tier": "filtered",
+      "topics": [
+        "Cardiac Arrest"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "ECMO",
+          "strength": "weak",
+          "topic": "Cardiac Arrest"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42455344/"
+    },
+    {
+      "pmid": "42449390",
+      "title": "Evaluation of a redesigned two-day trauma course incorporating blended learning compared with the traditional three-day trauma course: a retrospective non-inferiority study.",
+      "abstract": "**BACKGROUND**: During the multidisciplinary Definitive Surgical and Anesthetic Trauma Care (DSATC) course, trauma specialists are trained to apply damage control principles to polytrauma patients. The course was redesigned in 2020 from a three-day, traditional format to a restructured two-day format combining online and traditional learning methods to enhance course quality and learning outcomes. Considering that learning opportunities on the work floor are scarce, continuous course evaluation is crucial to ensure benefits for medical professionals and their patients.\n\n**METHODS**: This retrospective non-inferiority study compared self-assessed confidence in technical and non-technical skills between a cohort in the traditional DSATC course and a cohort in the redesigned DSATC course. Self-assessed confidence ratings were collected through quantitative pre-course and post-course questionnaires. Mean changes in confidence ratings were calculated and compared using independent samples t-tests with a non-inferiority margin of -0.5. Sub-analyses investigated differences between participants of the same profession, between physicians with different levels of experience, and the influence of individual preparation on self-assessed confidence in skills before on-site training.\n\n**RESULTS**: A total of 180 (21%) participants completed the pre-course and one-day post-course questionnaires completely. Both cohorts showed increased self-assessed confidence in skills following course completion, with the redesigned DSATC cohort demonstrating non-inferior improvements compared with the traditional cohort in general technical skills (mean difference (MD) 0.07, lower bound one-sided 97.5% confidence interval (CI) -0.14, p\u2009<\u20090.001 for non-inferiority) and in general non-technical skills (MD 0.09, lower bound one-sided 97.5% CI -0.09, p\u2009<\u20090.001 for non-inferiority). Self-assessed confidence in non-technical skills declined in the 2024 redesigned course group following individual preparation (MD -0.21, p\u2009=\u20090.042).\n\n**CONCLUSIONS**: The redesigned format of the DSATC course is not inferior to the traditional model in improving self-assessed confidence in technical and non-technical skills. Exploratory findings suggest that individual pre-course preparation may be associated with greater awareness of learning needs and support self-directed learning. These results indicate that a traditional, one-size-fits-all approach to training might not fully address differences in learners' needs. Blended learning could support individualized learning pathways. Further research should investigate the effectiveness of such pathways in multidisciplinary trauma education and their relation to competence, clinical performance and patient outcomes.",
+      "journal": "World J Emerg Surg",
+      "authors": [
+        "Iskander M",
+        "Haverkamp FJC",
+        "Geeraedts LMG",
+        "van Bilsen SJA",
+        "Tan ECTH"
+      ],
+      "date": "2026 Jul 14",
+      "doi": "10.1186/s13017-026-00714-x",
+      "tier": "core",
+      "topics": [
+        "General Trauma",
+        "Haemorrhage"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "polytrauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "damage control",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42449390/"
+    },
+    {
+      "pmid": "42447460",
+      "title": "Comments on \"contemporary management of large bowel obstruction: What you need to know\".",
+      "abstract": "",
+      "journal": "J Trauma Acute Care Surg",
+      "authors": [
+        "Atamanalp SS"
+      ],
+      "date": "2026 Jul 14",
+      "doi": "10.1097/TA.0000000000005136",
+      "tier": "core",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42447460/"
+    },
+    {
+      "pmid": "42447442",
+      "title": "Merging realities: Virtual and augmented platforms utilization for complex chest wall surgery-a case series.",
+      "abstract": "**BACKGROUND**: Accurate preoperative planning and incision design remain critical challenges in complex chest wall surgery. Virtual reality (VR) and augmented reality (AR) enable immersive, patient-specific visualization that may improve anatomic understanding and operative precision. We evaluated their use for preoperative planning and intraoperative guidance in chest wall repair and reconstruction.\n\n**METHODS**: Five thoracic surgeons utilized VR and/or AR planning in 35 consecutive patients undergoing chest wall procedures over a nine-month period at two trauma centers. High-resolution computed tomography (CT) imaging was uploaded into a VR platform for preoperative planning, and AR was optionally used intraoperatively to project three-dimensional anatomy, assisting with incision planning and trajectory verification without altering standard operative workflow. Data were extracted from the electronic medical record and analyzed using descriptive statistics.\n\n**RESULTS**: Mean age was 59 years (range: 26 to 89), mean BMI was 28\u00a0kg/m\u00b2, and 57% of patients were male. Combined VR/AR was used in 77% of cases, whereas 22% underwent VR-only planning due to early connectivity and AR calibration limitations. One patient did not proceed to surgery after VR/AR review. The mean interval from CT acquisition to surgery was 5 days overall and 1.5 days for nonelective cases. Procedures included 10 chest wall reconstructions, 22 rib fracture fixations (mean 4 ribs plated), one sternal fixation, and two chest wall mass excisions. The most common incision was a muscle-sparing \"line-of-best-fit\" approach (n=25). Mean operative time was 93 minutes. No intraoperative complications related to VR or AR were observed.\n\n**CONCLUSIONS**: Integration of VR and AR platforms for complex chest wall surgery was feasible within our practice. These technologies supported incision planning, hardware orientation, and spatial mapping without apparent disruption to operative workflow, suggesting a potentially useful adjunct for chest wall repair and reconstruction.\n\n**LEVEL OF EVIDENCE**: Level V, case series.",
+      "journal": "J Trauma Acute Care Surg",
+      "authors": [
+        "Veit T",
+        "Howington J",
+        "DeBarros M",
+        "Templin T",
+        "Cuadrado D",
+        "Kuckelman J"
+      ],
+      "date": "2026 Jul 14",
+      "doi": "10.1097/TA.0000000000005099",
+      "tier": "core",
+      "topics": [
+        "General Trauma",
+        "Thoracic"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "rib fracture",
+          "strength": "weak",
+          "topic": "Thoracic"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42447442/"
+    },
+    {
+      "pmid": "42447382",
+      "title": "Endovascular Repair After Blunt Traumatic Aortic Injury: Definite Progress but Still Work to Do.",
+      "abstract": "",
+      "journal": "J Am Coll Surg",
+      "authors": [
+        "Cabot JH",
+        "Kauvar DS"
+      ],
+      "date": "2026 Jul 14",
+      "doi": "10.1097/XCS.0000000000002082",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Vascular"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "traumatic",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "aortic injury",
+          "strength": "strong",
+          "topic": "Vascular"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42447382/"
+    },
+    {
+      "pmid": "42447354",
+      "title": "Value-Based Approach to Stent-Graft Inventory Selection for Blunt Thoracic Aortic Injury: Multi-Center, Multi-Manufacturer Analysis from the Aortic Trauma Foundation.",
+      "abstract": "**BACKGROUND**: Thoracic endovascular aortic repair (TEVAR) is the standard treatment for blunt thoracic aortic injury (BTAI), but maintaining extensive thoracic stent-graft inventories is costly and logistically challenging. We evaluated whether a limited, anatomy-based inventory could accommodate most BTAI repairs.\n\n**STUDY DESIGN**: The Aortic Trauma Foundation registry was queried for patients with BTAI undergoing TEVAR at 52 trauma centers worldwide from January 2012 to January 2024. Patients with documented initial computed tomography aortic measurements, stent-graft manufacturer, and device size were included. Stent-grafts were ranked by utilization frequency within each manufacturer to determine the minimum number of configurations required to treat at least 90% of patients.\n\n**RESULTS**: Among 346 patients, 80% were male and mean age was 41 \u00b1 15 years. Device utilization was greatest for Gore (60%), followed by Medtronic (21%), Cook (12%), and Terumo (6%). Although each manufacturer offered more than 20 thoracic stent-graft options, the six most frequently used configurations treated 91-97% of patients across manufacturers and spanned proximal diameters of 21-32 mm. Of 36 patients (10%) requiring devices outside these configurations, 83% still underwent repair using proximal diameters within the 21-32 mm range. Only 7 patients (2%) required proximal diameters >32 mm; these patients were older (73.6 versus 41 years) and had larger native aortic diameters. Overall, proximal diameters of 21-32 mm encompassed 98.3% of repairs. BTAI grade, endoleak repair rates, and in-hospital mortality did not differ among manufacturers.\n\n**CONCLUSIONS**: Six stent-graft configurations spanning proximal diameters of 21-32 mm accommodate more than 90% of BTAI TEVAR procedures, while only 2% of patients require larger devices. These findings support evidence-based inventory optimization for trauma centers establishing or maintaining TEVAR capability.",
+      "journal": "J Am Coll Surg",
+      "authors": [
+        "Yep Mendizabal F",
+        "MacHugh A",
+        "Crapps J",
+        "Hutzler J",
+        "DuBose J",
+        "Grimm J",
+        "Brown CV",
+        "Teixeira P"
+      ],
+      "date": "2026 Jul 14",
+      "doi": "10.1097/XCS.0000000000002094",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Vascular"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "aortic injury",
+          "strength": "strong",
+          "topic": "Vascular"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42447354/"
+    },
+    {
       "pmid": "42445947",
       "title": "Blood pressure management in reperfused ischemic stroke.",
       "abstract": "**RATIONALE**: Stroke is the second leading cause of death worldwide and a major contributor to disability, with ischemic strokes accounting for 80% to 85% of all strokes. Appropriate blood pressure management during and after procedures like thrombectomy and thrombolysis is essential, as sustained high blood pressure can worsen outcomes. Guidelines recommend maintaining blood pressure below 180/105 mmHg during the 24 hours after a successful procedure; however, this recommendation is based on low-certainty evidence. Some studies suggest that lowering systolic blood pressure (SBP) to below 160 mmHg could improve outcomes and reduce the risk of intracranial hemorrhage. Given the prevalence of ischemic strokes, establishing optimal blood pressure targets is crucial for minimizing complications, enhancing recovery, and reducing the overall burden on healthcare systems.\n\n**OBJECTIVES**: To assess the benefits and harms of intensive systolic blood pressure management (target less than 160 mmHg) versus conventional management (target less than 180 mmHg) in people undergoing ischemic stroke reperfusion via systemic thrombolysis or endovascular thrombectomy.\n\n**SEARCH METHODS**: We searched CENTRAL, MEDLINE, Embase, and two trial registers, together with reference checking, citation searching, and contact with study authors, to identify studies. The latest search date was 20 March 2025.\n\n**ELIGIBILITY CRITERIA**: We included randomized controlled trials (RCTs) in adults with acute ischemic stroke reperfused by systemic thrombolysis or endovascular thrombectomy, comparing intensive SBP management (targeting any SBP objective less than 160 mmHg) with conventional SBP management (targeting SBP less than 180 mmHg).\n\n**OUTCOMES**: Our critical outcomes were clinical function (assessed dichotomously using the modified Rankin scale (mRS)), quality of life, and neurologic adverse events (assessed as any intracranial hemorrhage (ICH) and as symptomatic ICH). Important outcomes included clinical function (assessed continuously), neurologic status (assessed as a continuous and dichotomous outcome using the National Institutes of Health Stroke Scale (NIHSS)), all-cause mortality, hospital length of stay, and other adverse events.\n\n**RISK OF BIAS**: We used the Cochrane RoB 2 tool to assess risk of bias.\n\n**SYNTHESIS METHODS**: We synthesized results for each outcome using meta-analysis, where possible, with a random-effects model. We used GRADE to assess the certainty of evidence for each outcome.\n\n**INCLUDED STUDIES**: We included nine studies with 4381 participants, primarily from upper-middle and high-income countries. Seven studies focused on participants who underwent endovascular thrombectomy, while two studies focused on participants who received systemic thrombolysis. Five studies aimed for a target blood pressure of < 140 mmHg, two aimed for < 120 mmHg, one for < 160 mmHg, and another study included two intervention arms with different targets (< 140 mmHg and < 160 mmHg). Eight studies targeted blood pressure < 180 mmHg and one study targeted blood pressure < 160 mmHg in the conventional blood pressure management group.\n\n**SYNTHESIS OF RESULTS**: Intensive blood pressure management versus conventional blood pressure management Critical outcomes Intensive SBP management results in little to no clinically meaningful difference in clinical function (dichotomous outcome) (risk ratio (RR) 0.89, 95% confidence interval (CI) 0.80 to 0.98; I\u00b2 = 51%; 9 studies, 4272 participants; high-certainty evidence). Intensive SBP management likely results in little to no clinically meaningful difference in quality of life (standardized mean difference (SMD) -0.14, 95% CI -0.49 to 0.22; I\u00b2 = 75%; 3 studies, 3165 participants; moderate-certainty evidence). For any ICH, intensive SBP management does not increase or reduce neurologic adverse events (RR 0.99, 95% CI 0.87 to 1.14; I\u00b2 = 30%; 9 studies, 4304 participants; high-certainty evidence). For symptomatic neurologic adverse events (ICH), intensive SBP management may result in little to no clinically meaningful difference (RR 1.03, 95% CI 0.77 to 1.36; I\u00b2 = 2%; 9 studies, 4304 participants; low-certainty evidence). Important outcomes Intensive SBP management likely results in little to no clinically meaningful difference in clinical function (continuous outcome) (mean difference (MD) 0.28, 95% CI -0.20 to 0.77; I\u00b2 = 30%; 4 studies, 787 participants; moderate-certainty evidence). It also probably results in little to no clinically meaningful difference in neurologic status (continuous) (MD 1.77, 95% CI 0.37 to 3.16; I\u00b2 = 10%; 6 studies, 1710 participants; moderate-certainty evidence) and it probably reduces the number of participants with a favorable neurologic status (dichotomous) (RR 0.71, 95% CI 0.51 to 1.01; I\u00b2 = 0%; 3 studies, 713 participants; moderate-certainty evidence). Additionally, intensive SBP management probably increases all-cause mortality (RR 1.19, 95% CI 1.08 to 1.32; I\u00b2 = 0%; 9 studies, 4297 participants; moderate-certainty evidence). It also probably results in little to no clinically meaningful difference in hospital length of stay (MD 0.38, 95% CI -1.40 to 2.15; I\u00b2 = 33%; 5 studies, 3086 participants; moderate-certainty evidence) and it may have little to no clinically meaningful effect on other adverse events (RR 1.21, 95% CI 0.86 to 1.72; I\u00b2 = 61%; 8 studies, 4012 participants; very low-certainty evidence). Overall, the certainty of the evidence ranged from high to very low across outcomes, with downgrading mainly due to risk of bias, imprecision, and inconsistency; certainty was lowest for symptomatic neurologic adverse events and other adverse events.\n\n**AUTHORS' CONCLUSIONS**: Intensive systolic blood pressure management likely results in little to no clinically meaningful differences in quality of life, clinical function (continuous outcome), neurologic status (continuous outcome; NIHSS), or hospital length of stay. It also results in little to no clinically meaningful difference in clinical function (dichotomous) and does not increase or reduce neurologic adverse events. Additionally, it may result in little to no clinically meaningful difference in symptomatic neurologic adverse events and other adverse events. Lastly, it probably reduces the number of participants with a favorable neurologic status (dichotomous outcome) and probably increases all-cause mortality. The certainty of the evidence ranged from very low to high. New studies must identify which patients benefit from different blood pressure strategies through subgroup analyses based on age, baseline blood pressure, and stroke severity, while reporting sex-disaggregated data. Including imaging and physiological markers can help set individualized blood pressure targets. Future trials should involve participants from low- and middle-income countries and consider factors such as access to reperfusion therapy and drug availability.\n\n**FUNDING**: This Cochrane review had no dedicated funding.\n\n**REGISTRATION**: Protocol (2025) available via doi.org/10.1002/14651858.CD016085.",
@@ -395,7 +584,7 @@
         "Garegnani LI"
       ],
       "date": "2026 Jul 14",
-      "doi": "10.1002/14651858.CD016085.pub2",
+      "doi": "10.1111/cns.14907",
       "tier": "filtered",
       "topics": [
         "TBI"
@@ -1867,7 +2056,7 @@
         "Limon RP",
         "Breyre A"
       ],
-      "date": "2026 Jul 08",
+      "date": "2026 Jul 15",
       "doi": "10.1080/10903127.2026.2699834",
       "tier": "filtered",
       "topics": [
@@ -3591,7 +3780,7 @@
         "Hatanaka T",
         "Kuroda H"
       ],
-      "date": "2026 Jul 01",
+      "date": "2026 Jul 15",
       "doi": "10.1080/10903127.2026.2693743",
       "tier": "filtered",
       "topics": [
@@ -8101,8 +8290,8 @@
     },
     {
       "pmid": "42307216",
-      "title": "Ketamine versus propofol for sedation in acute psychiatric emergencies during aeromedical retrieval: a randomized clinical trial.",
-      "abstract": "**OBJECTIVES**: The prevalence of psychiatric disease is increasing globally. Regional Australian communities are disproportionately affected and uniquely lacking mental health resources. Those needing inpatient psychiatric care often require aeromedical retrieval, creating safety and operational challenges. The optimal medication regimen for sedation of non-intubated patients experiencing psychiatric agitation is unclear.\n\n**METHODS**: We performed a prospective, single-center, open-label, phase IV randomized clinical trial (RCT) of ketamine versus propofol for the sedation of acutely agitated patients undergoing aeromedical transport. Our primary outcome of interest was a composite adverse event endpoint including airway complications (need for adjuncts, manipulation, suctioning), breathing complications (hypoxemia, hypoventilation, need for bag-valve-mask ventilation or stimulation), circulatory compromise (hypotension, need for intravenous fluid bolus), and aspiration. We evaluated clinician satisfaction as a secondary outcome, and medication efficacy as an exploratory analysis.\n\n**RESULTS**: Of 1,078 referrals screened for inclusion, 170 were enrolled after requiring sedation - 52% randomized to receive propofol and 48% ketamine. Most patients were young (median age 30 years), First Nations (75.9%), male (66.5%), and diagnosed with psychosis (82.4%). Adverse events were more common in the propofol group (12.4% vs. 24.7%; RR = 0.50, 95% CI (0.25-0.99); x2(1) = 4.25, p\u2009=\u20090.039), yet clinicians preferred propofol to ketamine (median Likert rating 4 (IQR 4,5) vs. 4 (IQR 2,4), p\u2009=\u20090.0007). Both medications exhibited similar efficacy at reaching the target Richmond Agitation Sedation Scale score (OR 0.73 (95%CI 0.50-1.07)). The study was stopped early due to low enrollment.\n\n**CONCLUSIONS**: In this RCT of 170 patients, ketamine was associated with fewer adverse events compared to propofol when used for sedation during aeromedical retrieval of patients experiencing acute psychiatric agitation. There was no significant difference in achieving the goal RASS between the two agents, however clinicians reported higher satisfaction scores with propofol.",
+      "title": "Ketamine Versus Propofol for Sedation in Acute Psychiatric Emergencies During Aeromedical Retrieval: A Randomized Clinical Trial.",
+      "abstract": "**OBJECTIVES**: The prevalence of psychiatric disease is increasing globally. Regional Australian communities are disproportionately affected and uniquely lacking mental health resources. Those needing inpatient psychiatric care often require aeromedical retrieval, creating safety and operational challenges. The optimal medication regimen for sedation of non-intubated patients experiencing psychiatric agitation is unclear.\n\n**METHODS**: We performed a prospective, single-center, open-label, phase IV randomized clinical trial (RCT) of ketamine versus propofol for the sedation of acutely agitated patients undergoing aeromedical transport. Our primary outcome of interest was a composite adverse event endpoint including airway complications (need for adjuncts, manipulation, suctioning), breathing complications (hypoxemia, hypoventilation, need for bag-valve-mask ventilation or stimulation), circulatory compromise (hypotension, need for intravenous fluid bolus), and aspiration. We evaluated clinician satisfaction as a secondary outcome, and medication efficacy as an exploratory analysis.\n\n**RESULTS**: Of 1,078 referrals screened for inclusion, 170 were enrolled after requiring sedation - 52% randomized to receive propofol and 48% ketamine. Most patients were young (median age 30\u2009years), First Nations (75.9%), male (66.5%), and diagnosed with psychosis (82.4%). Adverse events were more common in the propofol group (12.4% vs. 24.7%; RR = 0.50, 95% CI (0.25-0.99); x2(1) = 4.25, \n\n**CONCLUSIONS**: In this RCT of 170 patients, ketamine was associated with fewer adverse events compared to propofol when used for sedation during aeromedical retrieval of patients experiencing acute psychiatric agitation. There was no significant difference in achieving the goal RASS between the two agents, however clinicians reported higher satisfaction scores with propofol.",
       "journal": "Prehosp Emerg Care",
       "authors": [
         "Mills J",
@@ -8111,7 +8300,7 @@
         "Wallace T",
         "Clark P"
       ],
-      "date": "2026 Jun 17",
+      "date": "2026 Jul 15",
       "doi": "10.1080/10903127.2026.2690178",
       "tier": "filtered",
       "topics": [
@@ -8422,538 +8611,6 @@
       ],
       "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/42302399/"
-    },
-    {
-      "pmid": "42301897",
-      "title": "Cardiac Arrest During Interfacility Transport with Emergency Medical Services: A Preliminary Nationwide Cross-Sectional Study.",
-      "abstract": "**OBJECTIVES**: We aimed to provide the first national study of out-of-hospital cardiac arrests (OHCA) witnessed by emergency medical services (EMS) during interfacility transport (IFT).\n\n**METHODS**: We used a nationwide prehospital patient care report dataset from 2023 to complete a cross-sectional observational study of EMS encounters for IFT during which OHCA occurred. Descriptive statistics were computed, stratified by level of EMS care provided. Multivariable logistic regression analysis was completed to evaluate factors associated with return of spontaneous circulation (ROSC) at the end of the IFT encounter upon transfer of care to the receiving facility. Finally, we completed a similar multivariable logistic regression analysis restricted to the subgroup of patients with an unshockable initial rhythm.\n\n**RESULTS**: A total of 1,466 OHCA incidents occurred during an IFT with EMS: 7.5% with basic life support (BLS), 53.6% with advanced life support (ALS), and 38.9% with critical care transport (CCT). Among these incidents 11.8% were associated with trauma, 9.2% involved cardiopulmonary resuscitation (CPR) prior to EMS unit arrival, 14.7% involved a mechanical device to perform CPR, 22.2% had a shockable initial rhythm, and 58.1% were transported \n\n**CONCLUSIONS**: Using a large nationwide sample of OHCA incidents that occurred during IFT, we found that higher level of EMS care was associated with superior short-term outcomes while controlling for other key factors. These findings underscore the importance of accurate patient triage at sending facilities and the value of CCT for high-risk patients.",
-      "journal": "Prehosp Emerg Care",
-      "authors": [
-        "Peters GA",
-        "Misra AJ",
-        "Samadian KD",
-        "Chang W",
-        "Chandran KG",
-        "Hurwitz JA",
-        "Muszalski C",
-        "Granich N",
-        "Goldberg SA",
-        "Cash RE"
-      ],
-      "date": "2026 Jul 06",
-      "doi": "10.1080/10903127.2026.2690618",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Prehospital"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "prehospital",
-          "strength": "weak",
-          "topic": "Prehospital"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42301897/"
-    },
-    {
-      "pmid": "42301896",
-      "title": "Trends and Regional Variation in Heat-Related EMS Encounters in the US.",
-      "abstract": "**OBJECTIVES**: Heat-related emergencies are increasing in the United States (U.S.), but little is known about trends in prehospital heat-related encounters. This study examines temporal and geographic trends in prehospital heat-related encounters and assesses demographic and clinical factors associated with these heat-related encounters.\n\n**METHODS**: We used an observational study design and a retrospective analysis of the 2019-2023 National Emergency Medical Services Information System (NEMSIS) databases. We described the characteristics of heat-related encounters and compared the rates of heat-related complaints by year. Comparing 2019 to each year from 2020-2023, we used logistic regression to evaluate the odds of heat-related complaints. We then repeated these regressions for each U.S. census division to evaluate for regional variation in the trends of heat-related complaints.\n\n**RESULTS**: We included 120,181,275 non-heat-related encounters and 478,666 heat-related encounters. Compared to non-heat-related encounters, heat-related encounters involved younger patients, more males, and higher rates of tachycardia and hypotension. The odds of heat-related encounters increased in 2023 compared to 2019 (odds ratio (OR) 1.04, (1.03-1.05)), but other years were similar. There was significant regional variation in heat-related encounters between Census Divisions, though. The largest increases were: 2020 - Mountain (OR 1.13 (1.09-1.16)); 2021 - Pacific (OR 1.25 (1.22-1.29)); 2022 - Mountain (OR 1.23 (1.19-1.26)) and West South Central (OR 1.19 (1.17-1.22)); 2023 - West South Central (OR 1.54 (1.51-1.57)) and West North Central (OR 1.18 (1.14-1.22)) and Mountain (OR 1.29 (1.25-1.33)).\n\n**CONCLUSIONS**: While national odds and proportions of heat-related prehospital encounters have risen slightly in 2023 compared to 2019, certain geographic regions have experienced far greater increases. Further research is needed to identify vulnerabilities and optimize emergency response strategies.",
-      "journal": "Prehosp Emerg Care",
-      "authors": [
-        "Slator MC",
-        "Greenwood-Ericksen M",
-        "Sklar DP",
-        "Crandall C",
-        "Yang M",
-        "Norii T",
-        "Mann NC",
-        "Fisher B",
-        "Huebinger R"
-      ],
-      "date": "2026 Jul 01",
-      "doi": "10.1080/10903127.2026.2687829",
-      "tier": "filtered",
-      "topics": [
-        "Prehospital"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "prehospital",
-          "strength": "weak",
-          "topic": "Prehospital"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42301896/"
-    },
-    {
-      "pmid": "42301894",
-      "title": "Inclusion of Hospital Performance in Prehospital Stroke Routing: A Simulation Study.",
-      "abstract": "**OBJECTIVES**: Prehospital routing decisions for patients with suspected stroke are complex, and consideration of actual hospital performance data for door-to-needle and door-to-puncture times for thrombolysis and endovascular thrombectomy (EVT) may impact on-scene decision making. We sought to determine whether optimal routing destinations for patients with suspected stroke in the prehospital setting differ between three strategies: 1) American Heart Association (AHA) consensus recommendations, 2) personalized decision modeling without hospital-specific performance data (base model) and 3) with inclusion of actual hospital data for door-to-needle and door-to-puncture times for thrombolysis and EVT (enhanced model).\n\n**METHODS**: Our previously published decision-analytic model (base model) incorporates geographic, patient, and hospital data to determine optimal transport destination, using a standard distribution of thrombolysis and EVT times by hospital type (primary vs comprehensive stroke center). We enhanced the model by incorporating real hospital performance data on thrombolysis and EVT treatment times from all Northeast United States Get with the Guidelines-Stroke hospitals (enhanced model). We generated 500 probable pick-up locations with 800 patient profiles of varying age, stroke severity, and last known well time, giving 400,000 patient-location scenarios. For each scenario we determined the optimal destination based on AHA consensus recommendations and from 1000 simulations each using base and enhanced models to determine the optimal destination for each strategy. We compared destination recommendations and examined conditions under which results changed.\n\n**RESULTS**: Of the 400,000 patient-location scenarios, 56.1% and 63.1% of routing destinations were different from the consensus recommendations in the base and enhanced models, respectively, as patients were more often directed to hospitals with faster times to reperfusion. Higher stroke severity and greater odds of large vessel occlusion were associated with concordance of recommendations.\n\n**CONCLUSIONS**: Prehospital routing models for patients with suspected stroke may benefit from inclusion of actual hospital performance characteristics.",
-      "journal": "Prehosp Emerg Care",
-      "authors": [
-        "Zachrison KS",
-        "Schwamm LH",
-        "Cui Y",
-        "Yan Z",
-        "Lim F",
-        "Ingram MA",
-        "Truong H",
-        "Richards CT",
-        "Cash RE",
-        "Hur C"
-      ],
-      "date": "2026 Jul 07",
-      "doi": "10.1080/10903127.2026.2689666",
-      "tier": "filtered",
-      "topics": [
-        "Prehospital"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "prehospital",
-          "strength": "strong",
-          "topic": "Prehospital"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42301894/"
-    },
-    {
-      "pmid": "42301893",
-      "title": "Internationally Informed Consensus on Research Priorities in Paramedicine and Emergency Medical Services (EMS).",
-      "abstract": "**OBJECTIVES**: Prehospital emergency care systems are expanding in scope and complexity, yet research agendas remain disjointed and often nationally focused. An internationally informed set of research priorities is needed to guide strategic investment and evidence generation across emergency medical services (EMS) and paramedicine contexts, while recognizing that local funding environments and needs will continue to shape national research decisions. The objective of this study was to identify and validate internationally informed research priorities for paramedicine and prehospital EMS using a multi-phase, stakeholder-informed consensus and analytic approach.\n\n**METHODS**: An observational, three-phase mixed-methods study was conducted. Phase 1 involved an open-ended Delphi survey of international prehospital stakeholders to generate research priorities. Phase 2 asked participants to rate the importance of each priority using a 10-point scale; exploratory factor analysis (EFA) was performed to identify underlying factors. Phase 3 used confirmatory factor analysis (CFA) to test the factor structure. Participants included clinicians, educators, researchers, managers, students, and policy stakeholders from multiple countries to maximize breadth of stakeholder input.\n\n**RESULTS**: Across the three phases, responses were obtained from 1,299, 717, and 954 participants, respectively, with 703 complete cases included in the final CFA. The final model comprised nine interrelated factors encompassing 40 research priorities. Factors reflected key areas of contemporary prehospital practice, including operations, clinical governance, evidence-based practice, health and well-being, special care (community paramedicine), culture, education and training, trauma care, and clinical care. Confirmatory factor analysis demonstrated acceptable model fit, supporting the robustness of the identified structure.\n\n**CONCLUSIONS**: This study presents an internationally informed framework of research priorities for prehospital emergency care. The findings provide a practical foundation for researchers, funders, EMS organizations, and policy stakeholders to align future research efforts, reduce duplication, and address high-impact gaps across diverse prehospital systems, while remaining responsive to local context.",
-      "journal": "Prehosp Emerg Care",
-      "authors": [
-        "Williams B",
-        "King C",
-        "Armour R",
-        "Alobaid A",
-        "Alqahtani S",
-        "AlShammari T",
-        "Batt A",
-        "Chang YT",
-        "Cummins N",
-        "Dippenaar E",
-        "Eaton G",
-        "Grusd E",
-        "Hofmann T",
-        "Hunter J",
-        "Karim S",
-        "Khasawneh E",
-        "Leggio W",
-        "Masterson S",
-        "Mobrad A",
-        "Ong M",
-        "Oteir A",
-        "Stoy W",
-        "Tanaka H",
-        "Tavares W",
-        "Williams J",
-        "Olaussen A"
-      ],
-      "date": "2026 Jul 06",
-      "doi": "10.1080/10903127.2026.2687828",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Prehospital"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "prehospital",
-          "strength": "weak",
-          "topic": "Prehospital"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42301893/"
-    },
-    {
-      "pmid": "42301409",
-      "title": "Prehospital endotracheal intubation and 30-day survival in severe trauma: a matched cohort study from Navarra, Spain.",
-      "abstract": "**PURPOSE**: Prehospital endotracheal intubation (ETI) is frequently used in major trauma, but its association with 30-day survival remains debated. We evaluated the association between prehospital ETI and 30-day survival and assessed whether sex modifies the age-related increase in mortality risk.\n\n**METHODS**: We conducted a retrospective cohort study using the Navarra Major Trauma Registry (2010-2019). Patients aged \u226515 years with New Injury Severity Score (NISS) \u226515 were included; patients who died before hospital admission or had incomplete records were excluded. To mitigate confounding by indication, intubated and non-intubated patients were matched 1:1 using prehospital Glasgow Coma Scale (GCS), respiratory distress, and prehospital cardiac arrest as matching variables. Because the proportional hazards assumption for Cox regression was not met, parametric Weibull survival models were fitted, including a sex-by-age interaction term.\n\n**RESULTS**: Overall, 1,909 patients were included; 212 (11.1%) underwent prehospital ETI. Matching yielded 190 pairs (n=380). In the matched cohort, prehospital ETI was not independently associated with 30-day survival (adjusted HR 0.91, 95% CI 0.65-1.27). Mortality risk was independently associated with lower GCS (per 1-point increase: HR 0.86, 95% CI 0.82-0.91) and respiratory distress (HR 7.63, 95% CI 4.34-13.4). A significant sex-by-age interaction was observed (HR 1.02, 95% CI 1.01-1.04).\n\n**CONCLUSION**: In this matched registry cohort, prehospital ETI was not independently associated with improved 30-day survival. Sex- and age-related heterogeneity supports the incorporation of sex-informed analyses when evaluating trauma outcomes and prehospital airway management.",
-      "journal": "Eur J Trauma Emerg Surg",
-      "authors": [
-        "Zulet Murillo D",
-        "Ferraz Torres M",
-        "Fort\u00fan Moral M",
-        "Belzunegui Otano T",
-        "Tamayo Rodr\u00edguez I"
-      ],
-      "date": "2026 Jun 16",
-      "doi": "10.1186/s13049-026-01596-3",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "Prehospital",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "major trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "injury severity",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "prehospital",
-          "strength": "strong",
-          "topic": "Prehospital"
-        },
-        {
-          "keyword": "trauma registry",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42301409/"
-    },
-    {
-      "pmid": "42301408",
-      "title": "Mechanical and manual cardiopulmonary resuscitation in traumatic cardiac arrest: a retrospective observational study.",
-      "abstract": "**BACKGROUND**: Prehospital Traumatic cardiac arrest has a high fatality rate despite advances in trauma systems and resuscitation strategies. Mechanical chest compression devices have been increasingly adopted to optimize cardiopulmonary resuscitation (CPR) during Emergency Medical Services (EMS) transportation. We aimed to evaluate the impact of CPR (mechanical during transportation versus manual CPR only at the scene) on survival among trauma patients.\n\n**METHODS**: A retrospective analysis was conducted for patients who received CPR at the scene and during transportation to the hospital between 2016 and 2024.\n\n**RESULTS**: A total of 610 patients sustaining blunt traumatic cardiac arrest were included. The mean age was 34\u2009\u00b1\u200912.6 years; 94.6% were male, and 5.4% were female patients. Two hundred twenty (36.1%) received mechanical CPR during transportation to the hospital, and 390 (63.9%) received manual CPR only at the scene. Compared with the manual CPR group, the mechanical CPR group had higher rates of primary chest injury (30.5% vs. 20.5%; p\u2009=\u20090.006), bystander CPR (15.9% vs. 6.7%; p\u2009=\u20090.001), adrenaline administrations (95% vs. 26.4%; p\u2009=\u20090.001), and initial non-shockable rhythm (80% vs. 27.2%; p\u2009=\u20090.001). The two groups were comparable in median Injury Severity Score (ISS), head Abbreviated Injury Score (AIS), and total transport time. Mechanical CPR was associated with a markedly higher survival to hospital arrival (98.6% vs. 38.5%, p\u2009=\u20090.001), however, the rate of return of spontaneous circulation (ROSC) on arrival to the hospital remained low in both groups (10.5% with mechanical CPR vs. 5.9% with manual CPR, p\u2009=\u20090.041), and the overall 30-day survival rate for the entire cohort was just 0.7% (n\u2009=\u20094/610). The first 24-hour in-hospital survival rate was significantly higher in the mechanical CPR group than in the manual CPR group (93.1% vs. 89.3%). Among survivors to hospital arrival, the 30-day survival rate was 1.1% (n\u2009=\u20094/367) overall, 2.7% (n\u2009=\u20094/150), in the manual CPR group, and 0% (n\u2009=\u20090/217) in the mechanical CPR group. Age-gender-adjusted predictors for ROSC at handover were ISS (aOR 0.97; 95% confidence interval (CI) 0.95-0.99, p\u2009=\u20090.03) and thoracentesis (aOR 3.9; 95% CI 1.50-9.98, p\u2009=\u20090.005).\n\n**CONCLUSIONS**: Mechanical CPR in prehospital blunt traumatic cardiac arrest was associated with improved survival to hospital arrival compared with manual CPR; however, in-hospital mortality remained extremely high. These findings suggest that mechanical CPR may facilitate transport of patients in traumatic cardiac arrest without substantially improving overall outcomes. While mechanical devices can provide continuous chest compressions during transport, their impact on meaningful survival in the trauma setting appears limited. The effect of potential iatrogenic injuries associated with the CPR process itself was lacking in this study. Further studies are needed to clarify the role and indication of prehospital mechanical CPR in traumatic cardiac arrest.\n\n**CLINICAL TRIAL NUMBER**: Not applicable for this retrospective study.",
-      "journal": "Eur J Trauma Emerg Surg",
-      "authors": [
-        "El-Menyar A",
-        "Ahmed K",
-        "Howland IR",
-        "Mollazehi M",
-        "Mekkodathil A",
-        "Rizoli S",
-        "Cameron P",
-        "de Oliveira Manoel AL",
-        "Al-Thani H"
-      ],
-      "date": "2026 Jun 16",
-      "doi": "10.1155/2022/3147340",
-      "tier": "core",
-      "topics": [
-        "Cardiac Arrest",
-        "General Trauma",
-        "Prehospital",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "injury severity",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "prehospital",
-          "strength": "weak",
-          "topic": "Prehospital"
-        },
-        {
-          "keyword": "traumatic cardiac arrest",
-          "strength": "strong",
-          "topic": "Cardiac Arrest"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42301408/"
-    },
-    {
-      "pmid": "42301298",
-      "title": "Development of a low-cost external fixation system: an off-label solution for resource-limited settings.",
-      "abstract": "**PURPOSE**: External fixators are essential for the surgical management of long-bone fractures, particularly in resource-limited settings where access to commercial systems is often restricted by cost and logistics. This study aimed to develop a low-cost external fixation concept using widely available construction materials and evaluate its biomechanical performance under axial loading.\n\n**METHODS**: An external fixator composed of M10 threaded rods, washers, and nuts was developed. Five configurations were tested: SP (Steinmann pins), KT (threaded K-wires), KS (smooth K-wires), and BKS (bilaterally applied, smooth K-wires). A commercial external fixator served as control (CG). Juvenile bovine ulnae with a standardized fracture gap were subjected to cyclic axial loading. Construct stiffness, elastic deformation, and plastic deformation were assessed.\n\n**RESULTS**: CG showed the highest stiffness (107.80\u2009\u00b1\u200914.12\u00a0N/mm), followed by SP (87.73\u2009\u00b1\u200917.92\u00a0N/mm), BKS (83.81\u2009\u00b1\u200910.01\u00a0N/mm), KS (49.84\u2009\u00b1\u20093.80\u00a0N/mm), and KT (46.66\u2009\u00b1\u20092.39\u00a0N/mm). Post-hoc analyses showed no significant differences between CG vs. SP and CG vs. BKS, whereas KT and KS were significantly less stiff. Elastic deformation followed a similar pattern. Plastic deformation was greatest in CG, while SP and BKS showed significantly lower values.\n\n**CONCLUSIONS**: The threaded-rod fixator provides relevant mechanical stability at extremely low material cost. As a first biomechanical proof-of-concept, this approach may offer a practical and immediately deployable stabilization method for resource-limited settings when standard external fixators are unavailable. It could serve either as a definitive treatment or as part of a damage control strategy prior to transfer. Further biomechanical, cadaveric, and clinical studies are required before clinical application can be considered.",
-      "journal": "Eur J Trauma Emerg Surg",
-      "authors": [
-        "Seiser M",
-        "Deininger C",
-        "Fierlbeck J",
-        "Hollensteiner M",
-        "Coles P",
-        "Reuter C",
-        "Tempfer H",
-        "Traweger A",
-        "Wichlas F"
-      ],
-      "date": "2026 Jun 16",
-      "doi": "10.7759/cureus.73848",
-      "tier": "core",
-      "topics": [
-        "Haemorrhage"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "damage control",
-          "strength": "weak",
-          "topic": "Haemorrhage"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42301298/"
-    },
-    {
-      "pmid": "42301294",
-      "title": "Supplementary fixation in multifragmentary midshaft clavicle fractures: do interfragmentary screws or suture cerclage improve outcomes compared with plate-only fixation?",
-      "abstract": "**BACKGROUND**: Clavicle fractures are common injuries. As displaced or multifragmentary midshaft patterns carry a substantial risk of malunion and nonunion with nonoperative treatment, they have contributed to the increasing use of surgical fixation. Modern operative techniques include plate fixation, intramedullary devices, and hybrid strategies to address comminution and improve fragment stability. Supplementary interfragmentary screws and cerclage constructs have been proposed to enhance fragment control and optimize load transfer in multifragmentary fracture patterns. This study aimed to compare three fixation strategies for operatively treated midshaft clavicle fractures managed with plate osteosynthesis: Group IS (interfragmentary screw), Group CA (cerclage augmentation), and Group POF (plate-only fixation), with respect to operative time, complication rates, and potential biological and mechanical differences.\n\n**METHODS**: This retrospective study included patients aged\u2009\u2265\u200916 years who underwent plate fixation for multifragmentary clavicle fractures between 2016 and 2024. Patients were categorized into three groups: Group IS (supplementary interfragmentary screw), Group CA (suture cerclage augmentation), and Group POF (plate-only fixation). Demographic, surgical, and radiographic data were collected. Callus formation was assessed by three independent observers. Statistical analyses were performed with a significance level of p\u2009<\u20090.05.\n\n**RESULTS**: A total of 246 patients (mean age 44.5\u2009\u00b1\u200915.7 years; 89% male) were included. The overall complication rate was 6.9%. Fracture complexity differed significantly between groups (p\u2009=\u20090.0083), with Group IS and Group CA including more complex fracture patterns. Operative time was longest in Group CA (101.1 min), followed by Group IS (90.1 min) and Group POF (82.4 min; p\u2009<\u20090.001). Group IS and Group CA demonstrated lower complication rates (6.0% and 5.5%, respectively) compared with Group POF (16.3%, p\u2009=\u20090.0444). Mechanical complications were absent in Group CA (p\u2009=\u20090.035). Differences in callus formation were observed between groups (p\u2009=\u20090.0059). Refracture rates after implant removal were highest in Group CA (16.0%), with no refractures observed in Group POF (p\u2009=\u20090.064).\n\n**CONCLUSION**: While the choice between interfragmentary screws and cerclage is primarily dictated by fracture morphology, our findings suggest that supplementary fixation may be beneficial in multifragmentary fractures. Both strategies were associated with lower complication rates compared with plate-only fixation; however, refracture rates after implant removal may be higher and require cautious interpretation. Further studies are needed to clarify the long-term clinical impact of these strategies.\n\n**LEVEL OF EVIDENCE**: Level III, Retrospective cohort study.",
-      "journal": "Eur J Trauma Emerg Surg",
-      "authors": [
-        "Barthel C",
-        "Hinkelmann MA",
-        "Schibler D",
-        "Frei F",
-        "Pape HC",
-        "Allemann F"
-      ],
-      "date": "2026 Jun 16",
-      "doi": "10.1007/s11999-011-1868-0",
-      "tier": "core",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42301294/"
-    },
-    {
-      "pmid": "42301242",
-      "title": "Letter to the editor regarding \"reassessing the timing of percutaneous gastrostomy tube placement: too many too soon\".",
-      "abstract": "",
-      "journal": "J Trauma Acute Care Surg",
-      "authors": [
-        "Ni Y",
-        "Zhang F",
-        "Zhang R"
-      ],
-      "date": "2026 Jun 16",
-      "doi": "10.1097/TA.0000000000005070",
-      "tier": "core",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42301242/"
-    },
-    {
-      "pmid": "42299516",
-      "title": "Traumatic hemothorax activates complement, stimulates proinflammatory cytokine release, and primes neutrophils for local inflammatory reactive oxygen species production.",
-      "abstract": "**BACKGROUND**: Traumatic hemothorax (HTX) is a frequent complication of chest wall injury, with ~300,000 cases annually in the United States. Pain often signifies underlying inflammation and may contribute to secondary complications after chest wall injury. We hypothesized that HTX leads to local, intrapleural complement activation and release of proinflammatory cytokines that can prime neutrophils for inflammatory reactive oxygen species (ROS) release.\n\n**METHODS**: Adult trauma patients (N=15) with chest wall injury and HTX were consented for the study with IRB approval. HTX fluid and corresponding blood plasma were obtained in 3.2% citrate. Multiplex assays for complement analytes and proinflammatory cytokines were performed. Neutrophils from healthy donors were obtained and co-incubated with control platelet-poor plasma (PPP), trauma PPP, or corresponding HTX fluid and then challenged with vehicle control or N-formyl-methionyl-leucyl-phenylalanine (fMLP) in the presence of luminol, with ROS measured as luminescence over time. Pairwise comparisons were performed. Significance was set at p <0.05.\n\n**RESULTS**: Compared with circulating trauma PPP, HTX fluid had significant local elevations of complement components Ba, C3a, C4a, and sC5b-9 (all p <0.01). Inflammatory cytokines showed a similar local elevation in HTX relative to trauma PPP, including TNF-alpha, IFN-gamma, IL-8, and MCP-1 (all p <0.05). Neutrophils did not generate significant ROS in response to healthy PPP, trauma PPP, or HTX in the absence of fMLP. When challenged with fMLP, HTX co-incubated neutrophils generated marked ROS that was significantly greater than trauma PPP co-incubated neutrophils ( p <0.05), demonstrating marked local neutrophil priming in HTX, while plasma co-incubated neutrophils were not primed for ROS generation.\n\n**CONCLUSIONS**: Traumatic HTX is a highly inflammatory condition with locally enhanced complement activation, proinflammatory cytokine release, and inflammatory neutrophil priming for ROS production beyond that of circulating trauma plasma. Pain and secondary complications after chest wall injury with HTX may benefit from anti-inflammatory treatments in addition to pain control and drainage. ( J Trauma Acute Care Surg 2026;00:000-000. Copyright \u00a9 2026 Wolters Kluwer Health, Inc. All rights reserved.).\n\n**STUDY TYPE**: Original Research.\n\n**LEVEL OF EVIDENCE**: Basic Science; N/A.",
-      "journal": "J Trauma Acute Care Surg",
-      "authors": [
-        "Barmettler NK",
-        "White CM",
-        "Gawargi FI",
-        "Maginot ER",
-        "Moody TB",
-        "Sextro K",
-        "Hiser D",
-        "Clegg AA",
-        "Hamed M",
-        "Tierney JF",
-        "Cantrell E",
-        "Lamb GD",
-        "Matos M",
-        "Veatch J",
-        "Moore EE",
-        "Moore HB",
-        "Moore PK",
-        "Bauman ZM",
-        "Henry R",
-        "Barrett CD"
-      ],
-      "date": "2026 Jun 17",
-      "doi": "10.1097/TA.0000000000005063",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "Thoracic"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "haemothorax",
-          "strength": "strong",
-          "topic": "Thoracic"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42299516/"
-    },
-    {
-      "pmid": "42299324",
-      "title": "Whole truth: resuscitating trauma patients with whole blood.",
-      "abstract": "Hemorrhage remains the leading cause of death from potentially survivable injuries in both military and civilian trauma. Whole blood (WB) has repeatedly proven to be the most physiologically coherent resuscitation strategy for life-threatening hemorrhage, yet modern transfusion systems have historically prioritized inventory efficiency and component fractionation over biologic fidelity. This syllabus synthesizes contemporary military and civilian evidence for WB resuscitation, with emphasis on fresh WB (FWB) obtained through walking blood banks (WBBs) and low-titer group O WB (LTOWB), the predominant WB product currently used in civilian trauma. The historical 'back to the future' arc of transfusion practice, pathophysiology of trauma-induced blood failure, and the most current transfusion outcome data are summarized. The future of both military and civilian trauma resuscitation should adopt a layered approach to transfusion-this supports the best outcomes for trauma patients and also supports the trauma system. Precision resuscitation frameworks that assess clinical outcomes for type and timing of blood transfusion have the potential to support advanced resuscitation practices. Although the academic literature lacks publications on comparisons of LTOWB and FWB, the military is actively performing analysis to determine if there are outcome benefits for FWB and revisiting the concept for ",
-      "journal": "Trauma Surg Acute Care Open",
-      "authors": [
-        "Gurney JM"
-      ],
-      "date": "2026 Jan 1",
-      "doi": "10.1097/TA.0000000000004028",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "Haemorrhage",
-        "Prehospital"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "blood transfusion",
-          "strength": "weak",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "trauma resuscitation",
-          "strength": "weak",
-          "topic": "Prehospital"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42299324/"
-    },
-    {
-      "pmid": "42297666",
-      "title": "Dual free flap reconstruction: A configuration-based algorithm using parallel and serial designs.",
-      "abstract": "**BACKGROUND**: In severe trauma, extensive or geometrically complex soft-tissue defects often exceed the capacity of a single free flap. Dual free flaps offer a versatile solution, yet guidance on flap choice and configuration remains limited. We assessed outcomes using a configuration-based algorithm distinguishing parallel and serial designs.\n\n**METHODS**: From January 2015 to July 2025, 32 patients at two centers underwent dual free-flap reconstruction for wide or elongated defects, predominantly in the setting of trauma. Flap selection was guided by defect geometry and recipient-vessel accessibility: parallel configurations were used for wide defects (first flap to the main recipient vessel, second flap to the serratus anterior branch of the thoracodorsal system), whereas serial configurations were applied for elongated defects (first flap to proximal inflow, second flap to the distal descending branch of the lateral circumflex femoral artery). Patient characteristics, flap types and dimensions, complications, and clinical outcomes were analyzed.\n\n**RESULTS**: The mean age was 51.1 years, and trauma was the most common etiology (43.8%). Parallel configurations were used in 27 cases (84.4%) and serial configurations in 5 (15.6%). The mean surface areas of the first and second flaps were 281.7 \u00b1 134.9\u00a0cm\u00b2 and 247.9 \u00b1 179.0\u00a0cm\u00b2, respectively, with a total reconstructed area of 529.6 \u00b1 241.0\u00a0cm\u00b2. Partial flap loss occurred in 4 patients (12.5%), while 28 patients (87.5%) recovered without major complications. Representative cases demonstrated successful reconstruction of complex defects with stable soft-tissue coverage.\n\n**CONCLUSIONS**: A configuration-based approach may provide practical considerations for dual free-flap reconstruction in complex extremity defects. Parallel and serial configurations can be selected according to defect geometry and recipient vessel accessibility, allowing flexible flap inset and vascular planning. This framework may help guide flap selection in selected cases requiring dual free-flap reconstruction.",
-      "journal": "Injury",
-      "authors": [
-        "Ha Y",
-        "Kim JT",
-        "Hong SE",
-        "Kim YH"
-      ],
-      "date": "2026 Jun 12",
-      "doi": "10.1016/j.injury.2026.113451",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42297666/"
-    },
-    {
-      "pmid": "42296675",
-      "title": "Perspectives on artificial intelligence supported firearm access screening and storage counseling in pediatric emergency care.",
-      "abstract": "**BACKGROUND**: Lethal means counseling in the emergency department (ED) is associated with increased firearm safe storage, and ED based screening and counseling programs can identify and create opportunities for intervention for at risk youth; however, implementation in pediatric EDs remains inconsistent. While artificial intelligence (AI) tools may help address barriers, little is known about providers perspectives on AI tools for firearm screening and safe storage counseling.\n\n**OBJECTIVES**: Assess Pediatric Emergency Medicine (PEM) physicians' attitudes toward firearm screening and counseling, perceived barriers to implementation, and acceptability of AI enabled strategies to support firearm injury prevention in the pediatric ED.\n\n**METHODS**: We conducted a national, cross-sectional survey of PEM physicians. The survey assessed current screening practices, perceived barriers, and attitudes toward AI powered tools. Descriptive statistics summarized quantitative responses, and qualitative thematic analysis was performed on open-ended responses.\n\n**RESULTS**: Of 687 eligible physicians, 296 responded (43.1%), with 274 (39.9%) completing the survey. Most respondents endorsed the importance of firearm access screening and counseling. Commonly reported barriers included limited time, lack of standardized protocols, unclear role responsibility, insufficient training, and limited resources. More than half of respondents reported prior exposure to AI tools, and many expressed openness to AI assisted approaches, particularly for identifying patients for screening, providing counseling language, and facilitating documentation. Concerns focused on workflow burden, accuracy, and patient safety.\n\n**CONCLUSIONS**: PEM physicians recognize firearm screening and counseling as important, but face implementation barriers. Clinician centered, workflow integrated AI tools may offer a promising strategy to enhance firearm injury prevention in pediatric emergency care.",
-      "journal": "Am J Emerg Med",
-      "authors": [
-        "Cohen JS",
-        "Clarke A",
-        "DeVinney A",
-        "Nestadt P",
-        "Badaki-Makun O"
-      ],
-      "date": "2026 Jun 08",
-      "doi": "10.1016/j.ajem.2026.06.009",
-      "tier": "filtered",
-      "topics": [
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "injury prevention",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42296675/"
-    },
-    {
-      "pmid": "42296674",
-      "title": "Subway-related trauma at an urban level I trauma center.",
-      "abstract": "**INTRODUCTION**: Subway-related trauma is an understudied category of urban injury. Prior work has focused on high-acuity train-contact events, with less attention to more common mechanisms and the roles of psychiatric illness and substance use. We analyzed a large contemporary cohort to define epidemiology, injury patterns, and outcome predictors across the full spectrum of subway trauma.\n\n**METHODS**: We performed a retrospective cohort study of adults presenting with subway-related injury to a Level I trauma center (2018-2024). Registry data and manual chart review captured demographics, mechanisms, comorbidities, intoxication, injury severity, and outcomes. Injuries were categorized using validated natural language processing. Multivariable logistic regression identified predictors of train-contact mechanism, major trauma (ISS\u00a0\u2265\u00a015), TBI, and assault.\n\n**RESULTS**: Among 809 patients, median age was 50\u00a0years and 81.2% were male. Falls were most common (57.2%), followed by train contact (16.8%) and assault (16.7%). Median ISS was 9, with 25.0% sustaining major trauma. TBI occurred in 40.5% and did not differ by mechanism. Train contact was the most severe mechanism and the only independent predictor of major trauma (aOR 5.08). Psychiatric diagnosis (aOR 1.59) and acute intoxication (aOR 1.69) independently predicted train contact, while intoxication predicted TBI (aOR 1.66). Psychiatric illness and substance use disorder were associated with longer hospitalization independent of injury severity. Assault exposure varied by race/ethnicity.\n\n**CONCLUSION**: Most subway injuries result from falls rather than intentional mechanisms. Train contact drives severity, while intoxication increases TBI risk. Psychiatric and substance use comorbidities prolong hospitalization, supporting routine behavioral health screening and targeted prevention strategies.",
-      "journal": "Am J Emerg Med",
-      "authors": [
-        "Grin EA",
-        "Weiss H",
-        "Yagoda S",
-        "Stylianos S",
-        "Hanke R",
-        "Tashiro J",
-        "Tomita S",
-        "Huang P",
-        "Hidalgo ET"
-      ],
-      "date": "2026 Jun 02",
-      "doi": "10.1016/j.ajem.2026.05.036",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "major trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "injury severity",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "trauma centre",
-          "strength": "strong",
-          "topic": "Systems/QI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42296674/"
     }
   ]
 }
