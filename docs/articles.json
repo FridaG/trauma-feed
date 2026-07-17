@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-16T20:47:08.221568Z",
-  "total_articles": 223,
+  "generated": "2026-07-17T20:43:52.305086Z",
+  "total_articles": 216,
   "all_topics": [
     "Abdominal",
     "Burns",
@@ -378,6 +378,173 @@
     "Cochrane Database Syst Rev": "filtered"
   },
   "articles": [
+    {
+      "pmid": "42467420",
+      "title": "Emergency Medical Services Physician-Led Activation for Extracorporeal Cardiopulmonary Resuscitation in Out-of-Hospital Cardiac Arrest.",
+      "abstract": "**OBJECTIVES**: Extracorporeal cardiopulmonary resuscitation (ECPR) has been associated with improved survival among out-of-hospital cardiac arrest (OHCA) patients with refractory ventricular tachycardia (VT) or ventricular fibrillation (VF). However, the ideal approach for integrating an ECPR program within an emergency medical services (EMS) agency and local hospitals is unknown. The objective of this study was to investigate an EMS physician-led prehospital ECPR program.\n\n**METHODS**: We conducted an observational cohort study of a locally developed, EMS physician-led prehospital ECPR activation protocol within a third-service EMS agency serving an urban population and a large, academic tertiary care center in North Carolina between May 1, 2024 and May 19, 2025. Adult OHCA patients aged 18 to 60 years with non-traumatic, witnessed cardiac arrest, receipt of bystander cardiopulmonary resuscitation, and an initial rhythm of VT or VF or automated external defibrillator advised shock, refractory to three defibrillation attempts were eligible for ECPR activation. For eligible patients, paramedics consulted an online EMS physician, who could activate ECPR with subsequent intra-arrest transport to the hospital for cannulation. The primary outcome was the proportion of patients with non-traumatic OHCA who were eligible for ECPR. Secondary outcomes included the proportion of eligible patients with ECPR activation, cannulation, survival to hospital discharge, and cerebral performance category (CPC). Data were abstracted from the EMS and hospital electronic medical records.\n\n**RESULTS**: During the one-year study period, 347 patients experienced non-traumatic OHCA, of whom 4.3% (15/347) were eligible for ECPR. These 15 patients had a median age of 53 years (interquartile range 45-60), 80% (12/15) were male, and 60% (9/15) were non-White. The ECPR protocol was activated in 66.7% (10/15). Among these, cannulation occurred in 50% (5/10). Survival to hospital discharge occurred in 40% (4/10) of the ECPR activation group, all with CPC of 1. Among those eligible patients without ECPR activation, 60% (3/5) survived to discharge with 1 having a CPC of 1.\n\n**CONCLUSIONS**: The EMS physician-led ECPR protocol identified a subset of eligible patients for ECPR activation and resulted in successful cannulation of 5 patients. Further investigation in a larger, multi-system study is needed to determine the impact on patient-centered outcomes.",
+      "journal": "Prehosp Emerg Care",
+      "authors": [
+        "Powell SL",
+        "Gaillard J",
+        "Davis CA",
+        "McIlwain J",
+        "Vaughn A",
+        "Nicks B",
+        "Ashburn NP",
+        "Supples M"
+      ],
+      "date": "2026 Jul 17",
+      "doi": "10.1080/10903127.2026.2704728",
+      "tier": "filtered",
+      "topics": [
+        "Cardiac Arrest",
+        "General Trauma",
+        "Prehospital"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "traumatic",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "prehospital",
+          "strength": "weak",
+          "topic": "Prehospital"
+        },
+        {
+          "keyword": "ECPR",
+          "strength": "weak",
+          "topic": "Cardiac Arrest"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42467420/"
+    },
+    {
+      "pmid": "42467413",
+      "title": "Differential association of prehospital physician presence with outcomes in out-of-hospital cardiac arrest: Secondary analysis of a nationwide registry.",
+      "abstract": "**OBJECTIVES**: Although prehospital physician involvement may affect outcomes after out-of-hospital cardiac arrest (OHCA), its effect could vary across patient subgroups. We aimed to evaluate whether physician presence is associated with improved survival in subgroups of patients with OHCA.\n\n**METHODS**: We used an observational study design and a retrospective secondary analysis of data from the nationwide Japanese Association for Acute Medicine OHCA registry (2014-2022). Adult patients (age \u226518 years) resuscitated after hospital arrival with complete prehospital physician data were included. The primary outcome was favorable neurological status at 30 days, defined as a cerebral performance category score of 1 or 2. Multivariate logistic regression was performed to assess the association between physician presence and outcomes, adjusting for clinically relevant confounders. Prespecified subgroup analyses were also performed according to age, witness status, bystander intervention, etiology, and extracorporeal cardiopulmonary resuscitation (ECPR) use.\n\n**RESULTS**: Among 83,239 patients, 9,562 had physician attendance. Physician presence was associated with favorable neurological outcomes at 30 days (adjusted odds ratio 1.49, 95% confidence interval 1.34-1.65). The association was consistent across most prespecified subgroups and was stronger among patients with unwitnessed arrest; however, no significant association was observed in patients who underwent ECPR.\n\n**CONCLUSIONS**: Prehospital physician presence was associated with improved neurological and survival outcomes after OHCA, with variation across patient subgroups; however, given the observational design and potential selection bias, these findings should be regarded as hypothesis-generating. Further prospective studies are warranted to define patient subgroups that benefit most from physician presence on scene and to optimize dispatch protocols accordingly.",
+      "journal": "Prehosp Emerg Care",
+      "authors": [
+        "Kawahara N",
+        "Takayama W",
+        "Morishita K"
+      ],
+      "date": "2026 Jul 17",
+      "doi": "10.1080/10903127.2026.2704730",
+      "tier": "filtered",
+      "topics": [
+        "Cardiac Arrest",
+        "Prehospital"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "prehospital",
+          "strength": "strong",
+          "topic": "Prehospital"
+        },
+        {
+          "keyword": "ECPR",
+          "strength": "weak",
+          "topic": "Cardiac Arrest"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42467413/"
+    },
+    {
+      "pmid": "42467410",
+      "title": "National Patterns of Pediatric Emergency Department Utilization by Arrival Mode and Geographic Setting: Final Data from the National Hospital Ambulatory Medical Care Survey 2016-2022.",
+      "abstract": "**OBJECTIVES**: To characterize national patterns of pediatric emergency department (ED) utilization from 2016 through 2022, with emphasis on emergency medical services (EMS) arrival, metropolitan status, and temporal changes in diagnostic composition.\n\n**METHODS**: Cross-sectional analysis of the National Hospital Ambulatory Medical Care Survey (NHAMCS), a nationally representative survey of United States ED visits. Survey weights were applied to generate national estimates. Emergency departments of non-federal, general, and short-stay hospitals in the United States participating in NHAMCS. Pediatric visits (<18 years) from 2016 through 2022 were included. Main outcomes and measures included mode of arrival (EMS vs non-EMS), triage acuity, abnormal vital signs, ED disposition, metropolitan status, and discharge diagnoses categorized using pediatric-specific International Classification of Diseases, 10\n\n**RESULTS**: From 2016 through 2022, an estimated 202.5 million pediatric ED visits occurred, representing approximately 22% of all ED encounters. Of these, 9.0 million visits (4.4%) arrived by EMS after exclusion of interfacility transfers. Children comprised approximately 7% of EMS transports nationally. Compared with non-EMS arrivals, EMS-arriving children were more likely to be triaged as high acuity (29.8% vs 8.5%), to require hospital admission or transfer (24.9% vs 5.3%), and to have at least one abnormal vital sign (40.4% vs 22.6%). Injury and respiratory diseases were amongst the most common diagnostic categories for ED encounters overall. Psychiatric, behavioral, and substance use-related conditions accounted for approximately 12% of pediatric EMS encounters and increased over the study period. Although rural EDs cared for fewer pediatric visits overall, rates of abnormal vital signs were similar between urban and rural settings. Pediatric ED volume declined in 2020 and subsequently rebounded.\n\n**CONCLUSIONS**: Children accounted for approximately one-fifth of ED visits but only about 1 in 14 EMS transports. Pediatric EMS encounters were disproportionately high acuity and included an increasing proportion of psychiatric and behavioral conditions. Rural EDs encountered similar physiologic severity despite lower pediatric volume. These patterns underscore the low-frequency but high-severity nature of pediatric EMS encounters and highlight considerations for pediatric readiness across both prehospital and hospital emergency care systems.",
+      "journal": "Prehosp Emerg Care",
+      "authors": [
+        "Sanjeevi J",
+        "Lee SA",
+        "Meckler G",
+        "Guise JM"
+      ],
+      "date": "2026 Jul 17",
+      "doi": "10.1080/10903127.2026.2704184",
+      "tier": "filtered",
+      "topics": [
+        "Prehospital"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "prehospital",
+          "strength": "weak",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42467410/"
+    },
+    {
+      "pmid": "42465198",
+      "title": "Impact of vehicular data on trauma outcomes after motor vehicle crashes.",
+      "abstract": "**INTRODUCTION**: Field triage guidelines exist to inform first responder personnel on criteria to expedite the transfer of motor vehicle collision (MVC) patients to trauma centers; however, these guidelines are minimally informed by the vehicle characteristics and collision characteristics. Given this, we studied associations of the vehicle characteristics and collision characteristics with patient injury and outcomes.\n\n**METHODS**: We conducted a retrospective study using Michigan State Police crash reports linked with Michigan Trauma Quality Improvement Program collaborative quality initiative data. Univariable analysis was used to identify characteristics predictive of the primary outcome of severe injury, defined as an Injury Severity Score >15 (ISS>15), and multivariable logistic regression analysis was performed across primary and secondary outcomes of ISS>15, mortality, and the need for surgery, intensive care, or transfer to another hospital.\n\n**RESULTS**: There were 13\u2009154 linked cases between the two data sources. This contained 52.3%\u2009males with a mean age of 41.7 years (SD 20.7 years). In multivariable logistic regression, the collision characteristics associated with the highest increased odds of ISS>15\u2009were single-vehicle crashes (OR 1.35, p<0.01) and head-on crashes (OR 1.54, p<0.01). Head-on crashes (OR 1.60, p<0.01) and single-vehicle crashes (OR 1.46, p=0.03) were associated with a significantly increased risk of mortality. Head-on crashes (OR 1.49, p<0.01) and single-vehicle crashes (OR 1.37, p<0.01) were associated with the highest odds of operative intervention or intensive care.\n\n**CONCLUSIONS**: Several vehicle and collision characteristics are associated with increased odds of severe traumatic injury and death after MVC. The addition of these characteristics to field triage assessments could improve triage decision-making to predict injury severity and the risk of mortality.\n\n**LEVEL OF EVIDENCE**: III, prognostic, epidemiological.",
+      "journal": "Trauma Surg Acute Care Open",
+      "authors": [
+        "Diaz SD",
+        "Picart JK",
+        "Dualeh S",
+        "Aubry ST",
+        "Scott JW",
+        "Wang SC",
+        "Hemmila MR",
+        "Jean RA"
+      ],
+      "date": "2026 Jan 1",
+      "doi": "10.1136/tsaco-2025-001881",
+      "tier": "core",
+      "topics": [
+        "General Trauma",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "injury severity",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "trauma quality",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42465198/"
+    },
+    {
+      "pmid": "42462552",
+      "title": "Should we plate or IM nail simple displaced transverse proximal humeral fractures?",
+      "abstract": "",
+      "journal": "Injury",
+      "authors": [
+        "Gibbon S",
+        "Rangel ET",
+        "Buckley R"
+      ],
+      "date": "2026 Jul 13",
+      "doi": "10.1016/j.injury.2026.113494",
+      "tier": "filtered",
+      "topics": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42462552/"
+    },
     {
       "pmid": "42461313",
       "title": "Reported complications after spinopelvic fixation for U-type sacral fractures in older adults: a systematic review with narrative synthesis.",
@@ -3528,14 +3695,14 @@
     },
     {
       "pmid": "42391298",
-      "title": "Characterizing pediatric trauma patients and EMS agencies that are optimal targets for prehospital pediatric blood transfusion programs.",
-      "abstract": "**OBJECTIVES**: Trauma is a leading cause of death among children the United States. Prehospital blood product administration is a potentially lifesaving measure for injured children. We evaluated how often injured children meet physiological criteria for transfusion, determined the use of prehospital blood products in this sample, and identified agency characteristics that can inform the implementation of additional prehospital transfusion programs.\n\n**METHODS**: We conducted a retrospective analysis of the 2021-2024 National Emergency Medical Services Information System (NEMSIS) datasets. We included children (<18 years) with injury. We identified patients who may be eligible for prehospital blood transfusion based on (a) a combination of a systolic blood pressure (SBP) below the 5\n\n**RESULTS**: Of 2,492,731 encounters, 34,221 (1.37%, 95% confidence interval [CI] 1.36%, 1.39%) were potentially eligible for blood transfusion. Patients meeting these criteria were more frequently adolescents (71.1%) and were involved in falls (23.4%) or motor vehicle collisions (22.6%). Blood products were administered in 669 (0.027%; 95% CI 0.025%, 0.029%) encounters overall and to 1.01% (95% CI 0.91%, 1.13%) of encounters meeting criteria for blood transfusion eligibility. In agency-level analysis, 240/16,848 (1.4%) agencies provided blood products to children, and 84.4% of eligible patients were cared for by agencies whose most common level of service was advanced life support (ALS). In multivariable analysis, agencies caring for pediatric trauma patients meeting physiologic criteria for transfusion were more likely to have higher levels of service (ALS or critical care); rural; mixed volunteer/non-volunteer; and governmental non-fire, hospital, or private, non-hospital (vs fire departments).\n\n**CONCLUSIONS**: In a nationally representative prehospital sample, many injured children appeared eligible for transfusion. Prehospital blood product use was uncommon and varied by system factors. Expanding access will require implementation of blood programs among EMS agencies most likely to treat these patients, and consideration for equipment and protocols that allow for administration of blood to children.",
+      "title": "Characterizing Pediatric Trauma Patients and EMS Agencies That Are Optimal Targets for Prehospital Pediatric Blood Transfusion Programs.",
+      "abstract": "**OBJECTIVES**: Trauma is a leading cause of death among children in the United States. Prehospital blood product administration is a potentially lifesaving measure for injured children. We evaluated how often injured children meet physiological criteria for transfusion, determined the use of prehospital blood products in this sample, and identified agency characteristics that can inform the implementation of additional prehospital transfusion programs.\n\n**METHODS**: We conducted a retrospective analysis of the 2021-2024 National Emergency Medical Services Information System (NEMSIS) datasets. We included children (<18\u2009years) with injury. We identified patients who may be eligible for prehospital blood transfusion based on (a) a combination of a systolic blood pressure (SBP) below the 5\n\n**RESULTS**: Of 2,492,731 encounters, 34,221 (1.37%, 95% confidence interval [CI] 1.36%, 1.39%) were potentially eligible for blood transfusion. Patients meeting these criteria were more frequently adolescents (71.1%) and were involved in falls (23.4%) or motor vehicle collisions (22.6%). Blood products were administered in 669 (0.027%; 95% CI 0.025%, 0.029%) encounters overall and to 1.01% (95% CI 0.91%, 1.13%) of encounters meeting criteria for blood transfusion eligibility. In agency-level analysis, 240/16,848 (1.4%) agencies provided blood products to children, and 84.4% of eligible patients were cared for by agencies whose most common level of service was advanced life support (ALS). In multivariable analysis, agencies caring for pediatric trauma patients meeting physiologic criteria for transfusion were more likely to have higher levels of service (ALS or critical care); rural; mixed volunteer/non-volunteer; and governmental non-fire, hospital, or private, non-hospital (vs fire departments).\n\n**CONCLUSIONS**: In a nationally representative prehospital sample, many injured children appeared eligible for transfusion. Prehospital blood product use was uncommon and varied by system factors. Expanding access will require implementation of blood programs among EMS agencies most likely to treat these patients, and consideration for equipment and protocols that allow for administration of blood to children.",
       "journal": "Prehosp Emerg Care",
       "authors": [
         "Ramgopal S",
         "Martin-Gill C"
       ],
-      "date": "2026 Jul 02",
+      "date": "2026 Jul 17",
       "doi": "10.1080/10903127.2026.2696013",
       "tier": "filtered",
       "topics": [
@@ -4064,35 +4231,6 @@
       ],
       "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/42385208/"
-    },
-    {
-      "pmid": "42385018",
-      "title": "Disparities in Pediatric Out-of-Hospital Cardiac Arrest Outcomes Relating to Race, Urbanicity, and Poverty: A Study of the NEMSIS Database.",
-      "abstract": "**OBJECTIVES**: Sociodemographic disparities exist in out-of-hospital cardiac arrest (OHCA) outcomes among adults, though less is known regarding social drivers of OHCA outcomes among children. Our objective was to evaluate for sociodemographic disparities in prehospital pediatric OHCA (POHCA) outcomes using a nationwide database.\n\n**METHODS**: This observational cross-sectional study utilized the National Emergency Medical Services Information System (NEMSIS) Database to obtain nationwide POHCA data from 2021-2023. Outcomes included performance of bystander cardiopulmonary resuscitation (CPR), bystander automated external defibrillator (AED) usage, and obtainment of return of spontaneous circulation (ROSC). Patient demographic data included age, sex, and race/ethnicity. Patient home population-based geographic categories (urban, suburban, rural/frontier) and community poverty levels were obtained from the United States Census Bureau. Multivariable logistic regression was used to assess for associations between sociodemographic factors and prehospital POHCA outcomes.\n\n**RESULTS**: Among the 14,783 POHCAs, 56.2% received bystander CPR, 20.7% bystander AED usage, and 21.2% ROSC achievement. When compared to White children, Black children were less likely to receive bystander CPR [OR 0.72 (95%CI 0.66-0.80)] and achieve ROSC [OR 0.71 (95%CI 0.63-0.80)]. Hispanic children were less likely to receive bystander CPR [OR 0.73 (96%CI 0.65-0.82)] and bystander AED usage [OR 0.77 (95%CI 0.66-0.89)], though there was no significant association with a difference in ROSC achievement. When compared to children from urban areas, children from rural [OR 1.24 (95%CI 1.08-1.42)] and suburban areas [OR 1.21 (95%CI 1.03-1.42)] were more likely to receive bystander CPR. When compared to communities with moderate poverty levels, communities with the lowest poverty levels were associated with significantly increased bystander CPR [OR 1.31 (95%CI 1.11-1.54)] and AED usage [OR 1.46 (95%CI 1.22-1.75)], while high community poverty levels were associated with decreased bystander CPR [OR 0.78 (95%CI 0.69-0.89)], bystander AED usage [OR 0.74 (95%CI 0.63-0.87)], and ROSC [OR 0.76 (95%CI 0.65-0.90)].\n\n**CONCLUSIONS**: Bystander cardiopulmonary interventions occur least often for children of racial/ethnic minorities and children residing in urban and resourced-limited settings. The lowest ROSC rates occur amongst Black children and children from the most impoverished communities. Further studies are needed to understand these complex health disparities, such that public health interventions can better promote equitable outcomes for all children.",
-      "journal": "Prehosp Emerg Care",
-      "authors": [
-        "Bernardin ME",
-        "Schuler P",
-        "Arora J",
-        "Morales E",
-        "Kendrick E",
-        "Zoellner D"
-      ],
-      "date": "2026 Jul 01",
-      "doi": "10.1080/10903127.2026.2695249",
-      "tier": "filtered",
-      "topics": [
-        "Prehospital"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "prehospital",
-          "strength": "weak",
-          "topic": "Prehospital"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42385018/"
     },
     {
       "pmid": "42384975",
@@ -6276,7 +6414,7 @@
         "Wang W",
         "Luo X"
       ],
-      "date": "2026 Jun 24",
+      "date": "2026 Jul 18",
       "doi": "10.1016/S0140-6736(26)00983-9",
       "tier": "filtered",
       "topics": [
@@ -8023,412 +8161,6 @@
       ],
       "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/42314344/"
-    },
-    {
-      "pmid": "42313528",
-      "title": "Optimal Care for the Polytrauma Patient: The Importance of Surgical Leadership.",
-      "abstract": "Trauma is a team sport in which surgeons remain central to the management of severely injured patients, from resuscitation and operative decision-making through inpatient care, discharge and follow-up. Contemporary trauma systems in Australia and Aotearoa New Zealand are guided by surgical society standards that emphasise verification, quality improvement and adaptable models of service delivery across metropolitan and regional settings. Effective trauma leadership requires not only clinical expertise but also coordination across specialties, governance, education, research and advocacy. As trauma services evolve, surgeons continue to play key leadership roles within hospitals, professional bodies and training pathways, supported by initiatives such as the Australian and New Zealand Association for the Surgery of Trauma and the Post-Fellowship Education and Training Program in Trauma. Sustaining optimal outcomes for polytrauma patients will depend on strengthening multidisciplinary collaboration while ensuring robust surgical leadership across the trauma continuum.",
-      "journal": "Emerg Med Australas",
-      "authors": [
-        "Martin K"
-      ],
-      "date": "2026 Jun 1",
-      "doi": "10.1111/1742-6723.70291",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "polytrauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42313528/"
-    },
-    {
-      "pmid": "42313526",
-      "title": "The Future of Trauma Care in Aotearoa New Zealand: Towards a Collaborative Model.",
-      "abstract": "Trauma care in Aotearoa New Zealand has evolved into a coordinated national system with strong foundations in data-informed practice and multidisciplinary care. At the same time, the epidemiology of trauma is changing, with increasing numbers of older patients with multimorbidity, frailty and complex recovery needs. These shifts have important implications for models of inpatient care and the broader trauma system. While surgical expertise remains central, there is a growing rationale for collaborative models that integrate surgical and non-surgical clinicians to better meet the needs of modern trauma populations. Future system development is likely to include more clearly defined regional networks, strengthened rehabilitation pathways and a continued focus on equity. For trainees, trauma care represents a shared clinical space across multiple specialties, with opportunities to contribute to an evolving, patient-centred system focused not only on survival but on recovery and wellbeing.",
-      "journal": "Emerg Med Australas",
-      "authors": [
-        "Raos M",
-        "Moore JE"
-      ],
-      "date": "2026 Jun 1",
-      "doi": "10.1111/1742-6723.70280",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42313526/"
-    },
-    {
-      "pmid": "42313188",
-      "title": "From single to dual platelet inhibition FIBTEM assay: fibrinogen replacement thresholds for critical bleeding after trauma.",
-      "abstract": "**PURPOSE**: The FIBTEM assay in Rotational Thromboelastometry (ROTEM\n\n**METHODS**: In this retrospective cohort study, we included adult patients with major trauma across Queensland who presented between 2022 and 2025 and had results available for paired ROTEM and conventional coagulation tests on arrival. Patients were sub-grouped into single and dual-platelet inhibition assay groups. Correlations between FIBTEM-A5 and Clauss fibrinogen were analysed, comparing correlation strength and diagnostic accuracy for fibrinogen levels of <\u20092.0\u00a0g/L.\n\n**RESULTS**: The relationship between FIBTEM-A5 and Clauss fibrinogen was similar using single platelet inhibition assays (R\u00b2 0.61;95%CI: 0.51-0.70) and dual-platelet inhibition assays (R\u00b2 0.70;95%CI: 0.62-0.77; p\u2009=\u20090.94). Predicted FIBTEM-A5 amplitudes at 2\u00a0g/L fibrinogen were 7.83\u00a0mm (95%CI: 7.42-8.23) and 7.54\u00a0mm (95%CI: 7.22-7.87). Diagnostic performance for detecting fibrinogen\u2009<\u20092.0\u00a0g/L was comparable between assays, for both FIBTEM-A5\u2009\u2264\u200910\u00a0mm and FIBTEM-A5\u2009\u2264\u20098\u00a0mm (all p\u2009>\u20090.05). For the dual-platelet inhibition assay, sensitivity and specificity were 97.8% and 48.1% at \u2264\u200910\u00a0mm, and 92.1% and 74.7% at \u2264\u20098\u00a0mm.\n\n**CONCLUSION**: Dual-platelet inhibition did not alter the relationship between FIBTEM-A5 and Clauss fibrinogen or the diagnostic accuracy of FIBTEM thresholds for identifying hypofibrinogenemia. FIBTEM-A5\u2009\u2264\u200910\u00a0mm maintained high sensitivity, while\u2009\u2264\u20098\u00a0mm demonstrated greater specificity. Recalibration of established FIBTEM thresholds is not required following transition to dual-platelet inhibition.",
-      "journal": "Eur J Trauma Emerg Surg",
-      "authors": [
-        "Latona A",
-        "Winearls J",
-        "Ho A",
-        "Mitra B"
-      ],
-      "date": "2026 Jun 18",
-      "doi": "10.1097/EJA.0000000000001032",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "Haemorrhage"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "major trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "ROTEM",
-          "strength": "weak",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "fibrinogen",
-          "strength": "strong",
-          "topic": "Haemorrhage"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42313188/"
-    },
-    {
-      "pmid": "42313144",
-      "title": "Pattern of blast injuries. A systematic review: Part 2 - Landmines, unexploded ordnance and terrorism.",
-      "abstract": "**PURPOSE**: This systematic review analyzes the patterns and distribution of blast injuries from landmine explosions, UXOs and terror attacks including suicide bombing, in civilians and military personnel.\n\n**METHODS**: A search was conducted in two databases on 26. March 2025 for observational studies reporting blast injuries in civilian and military populations of all ages. Studies were clustered by explosion typ. A narrative data synthesis was performed. The JBI tool for case series was used.\n\n**PROSPERO**: CRD42023391736.\n\n**RESULTS**: 126 studies were included in the overall systematic review. 45 studies on terror & suicide bombings and 12 studies on landmines & UXOs are analyzed in the present paper. Studies on landmines from 1980 to 2006 included 13,270 individuals (age: 24.0 years (Range 8.2 years - 32.2 years); mainly male (88.9%)) in post-conflict low- and middle-income countries. Lower extremity injuries including amputations were most frequent, followed by eye injuries. Studies on terrorist attacks with a total of 12,518 mainly civilian victims (average age: 33,1 years; 61.6% males) reported on incidents in post-conflict regions and high-income cities mainly from the early 2000s. The injury pattern was multidimensional, with extremity injuries most frequent (28%-30%), including fractures, lacerations, and traumatic amputations (18%-20%).\n\n**CONCLUSION**: This Systematic Review Part 2 on landmines and terror attacks found that extremity injuries, including traumatic amputations, are the most frequent and dominate injury. However, the injury pattern varies depending on the explosion mechanism. Landmines primarily cause lower extremity injuries, as well as eye injuries. Terror and suicide explosions exhibit multidimensional injury pattern depending on the distance and location of the explosion.",
-      "journal": "Eur J Trauma Emerg Surg",
-      "authors": [
-        "Neubert A",
-        "Gaeth C",
-        "Seidelmann M",
-        "Bieler D"
-      ],
-      "date": "2026 Jun 18",
-      "doi": "10.2471/BLT.13.118885",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "Penetrating"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "traumatic",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "blast injury",
-          "strength": "strong",
-          "topic": "Penetrating"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42313144/"
-    },
-    {
-      "pmid": "42313141",
-      "title": "Is nail plate fixation the way forward for distal femur fractures with long segmental metaphyseal comminution? - A study of 56 patients.",
-      "abstract": "**BACKGROUND**: Mechanical instability due to long metaphyseal comminution and medial bone gap after lateral locking plate results in varus collapse and implant failure. We believe that fixation in the form of Nail and plate combination provides better stability and prevents complications.\n\n**MATERIALS**: We performed a retrospective analysis of 56 distal femur fractures with long metaphyseal comminution treated in our institution with nail and plate construct from 2017 to 2023. The mean age was 43.1 years and the mean follow up was 24 Months (4-36 months). Of these 56 patients, 16 were closed injuries underwent primary fixation, and 40 were open injuries requiring staged reconstruction. At the final follow up, patients were assessed for shortening, knee range of movements, Sander et al. functional score, radiological union and loss in alignment.\n\n**RESULTS**: The mean length of metaphyseal comminution was 10.15\u00a0cm(5-18\u00a0cm). Primary Iliac crest bone grafting was done in 25 patients. Of the 56 patients, 51 achieved primary union and the mean time to union was 6 months. Of the remaining, 3 patients united after secondary bone grafting and 2 patients had nonunion. The mean loss in aLDFA at the final follow up was 1.75\u00b0 in 7 patients. Shortening of the limb was noted in 16 patients, and 4 patients had significant shortening of 2\u00a0cm. Three patients developed deep SSI, of which one patient required debridement and 2 patients required implant removal. Patients achieved an average of 0-85\u00b0 flexion and 0-5\u00b0 extension. Functionally, 8 patients had excellent, 25 had good, 15 had fair and 8 patients had poor score.\n\n**CONCLUSION**: The technique of combined intramedullary nail and plate fixation provides adequate stability and achieves good outcome in distal femur fractures with segmental metaphyseal comminution. Nail restores the anatomical alignment, and the plate provides rotational stability to the short distal fragment.",
-      "journal": "Eur J Trauma Emerg Surg",
-      "authors": [
-        "Mahesan H",
-        "Sundaram VP",
-        "Devendra A",
-        "Ramesh P",
-        "Dheenadhayalan J",
-        "Rajasekaran S"
-      ],
-      "date": "2026 Jun 18",
-      "doi": "10.1097/BOT.0000000000000926",
-      "tier": "core",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42313141/"
-    },
-    {
-      "pmid": "42313044",
-      "title": "Accuracy of Point-of-Care Ultrasound Versus Consultative Echocardiography to Identify Right Ventricular Dysfunction in Emergency Department Patients With Pulmonary Embolism.",
-      "abstract": "**STUDY OBJECTIVE**: Assessment of right ventricular dysfunction facilitates risk stratification of emergency department (ED) patients with pulmonary embolism (PE). We evaluated the accuracy of emergency physician-interpreted point-of-care ultrasound (POCUS) compared with cardiologist-interpreted consultative echocardiography for right ventricular dysfunction in patients with PE.\n\n**METHODS**: We developed a retrospective cohort using a regular expression algorithm to identify PE+ patients. Patients were included if they received both an ED POCUS and a cardiologist-interpreted consultative echocardiogram. Right ventricular dysfunction on POCUS was defined as RV size greater than left ventricular size, decreased RV systolic function by tricuspid annular plane systolic excursion, or both. Right ventricular dysfunction on consultative echocardiography was categorized as absent, mild, or moderate to severe using this verbiage to describe the presence of RV dilation, reduced RV function, or both. We report test characteristics (sensitivity and specificity), and agreement as inter-rater reliability coefficients (kappa) of POCUS stratified by right ventricular dysfunction severity and emergency residency training level.\n\n**RESULTS**: In a 194-patient cohort with 97 emergency physician ultrasound operators, POCUS was 76.8% sensitive and 85.9% specific for the identification of right ventricular dysfunction compared with consultative echocardiography. There was 81.4% agreement, overall (kappa=0.63, 95% CI, 0.51 to 0.75). POCUS accuracy improved when right ventricular dysfunction was interpreted as moderate to severe on consultative ultrasound. Inter-rater reliability declined through residency training.\n\n**CONCLUSION**: POCUS is 76.8% sensitive and 85.9% specific for right ventricular dysfunction in ED patients with PE compared with consultative echocardiography. There is moderate agreement between modalities. Accuracy and agreement improve when right ventricular dysfunction is moderate to severe.",
-      "journal": "Ann Emerg Med",
-      "authors": [
-        "Thomas AL",
-        "Rupp JD",
-        "Suszanski J",
-        "Storrow AB",
-        "Kline JA",
-        "Birrenkott DA",
-        "Kabrhel C",
-        "Wrenn JO",
-        "Stubblefield WB"
-      ],
-      "date": "2026 Jun 18",
-      "doi": "10.1016/j.annemergmed.2026.05.003",
-      "tier": "filtered",
-      "topics": [
-        "Imaging"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "POCUS",
-          "strength": "weak",
-          "topic": "Imaging"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42313044/"
-    },
-    {
-      "pmid": "42312871",
-      "title": "Prolonged tourniquet use in extremity trauma: What you need to know.",
-      "abstract": "Routine tourniquet use has significantly improved early survival in both military and civilian settings for extremity hemorrhage in trauma patients. However, most supporting evidence revolves around short-duration tourniquet use stemming from trauma systems with rapid evacuation and early surgical care. Emerging military operations and austere civilian settings risk prolonged prehospital times, introducing uncertainty in the management of prolonged tourniquet application. These scenarios present high-risk situations for medical providers and potentially life-threatening complications for patients. Despite this, management strategies during these scenarios remain poorly defined. This review synthesizes current military and civilian literature to address key challenges in prolonged ischemia, including tourniquet conversion, decision-making surrounding limb salvage versus early amputation, and the pathophysiology and management of ischemia reperfusion injury.",
-      "journal": "J Trauma Acute Care Surg",
-      "authors": [
-        "Lammers D",
-        "Henry R",
-        "McClellan J",
-        "Armen S",
-        "Koch E",
-        "Sulava E",
-        "Lefebvre T",
-        "Eckert M",
-        "Inaba K",
-        "Holcomb JB"
-      ],
-      "date": "2026 Jun 19",
-      "doi": "10.1007/978-3-030-22331-1_3",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "Prehospital",
-        "Procedures"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "tourniquet",
-          "strength": "strong",
-          "topic": "Procedures"
-        },
-        {
-          "keyword": "prehospital",
-          "strength": "weak",
-          "topic": "Prehospital"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42312871/"
-    },
-    {
-      "pmid": "42312687",
-      "title": "Association Between Emergency Department-to-ICU Transfer Time and Hospital Mortality Across ICU Admission Diagnoses: A Post Hoc Subgroup Analysis.",
-      "abstract": "**OBJECTIVES**: To assess the association between emergency department (ED)-to-ICU transfer time and hospital mortality across common ICU diagnoses.\n\n**DESIGN, SETTING, AND PATIENTS**: Secondary analysis of a Dutch retrospective cohort (2009-2020). Twelve hospitals (four academic and eight nonacademic teaching [NACT]) provided ED arrival and ICU admission times. Adult patients directly admitted from the ED to the ICU were included. Seven diagnostic groups (> 1500 patients each) were analyzed: out-of-hospital cardiac arrest (OHCA), nonoperative trauma, overdose, sepsis, pneumonia, respiratory failure (excluding pneumonia), and intracranial hemorrhage (ICH). Logistic regression assessed associations between ED-to-ICU time quintiles and hospital mortality, adjusting for hospital of admission, and Acute Physiology and Chronic Health Evaluation III score. Analyses were stratified by hospital type.\n\n**INTERVENTIONS**: None.\n\n**MEASUREMENTS AND MAIN RESULTS**: Among 18,798 patients, median ED-to-ICU time was 1.9 hours (interquartile range, 1.2-3.1\u2009hr). In OHCA ( n = 3,818), associations differed by hospital type. In academic hospitals, prolonged ED-to-ICU time was associated with higher mortality (odds ratio [OR], 1.48; 95% CI, 1.08-2.02 at 1.1-1.6\u2009hr; OR, 2.94; 95% CI, 1.80-4.78 at > 3.4\u2009hr; Wald \u03c7 2p < 0.001). In NACT hospitals, prolonged ED-to-ICU time was negatively associated with mortality, with ORs less than 1.0 across quintiles (Wald \u03c7 2p < 0.001). In nonoperative trauma, a positive association between ED-to-ICU time and hospital mortality was observed in the overall cohort (OR, 1.90; 95% CI, 1.12-3.21 at > 3.4\u2009hr; Wald \u03c7 2p = 0.05) but was not reproduced after stratification for hospital. No associations were observed in overdose, sepsis, pneumonia, respiratory failure, or ICH.\n\n**CONCLUSIONS**: The association between ED-to-ICU time and hospital mortality varied across diagnostic groups and hospital types. In OHCA, opposing associations were observed in academic and NACT hospitals. In nonoperative trauma, a positive association was observed only in the overall cohort. Prospective studies in homogeneous, risk-defined subgroups with detailed process-of-care data are needed to identify modifiable delays and define transfer-time thresholds.",
-      "journal": "Crit Care Med",
-      "authors": [
-        "van Herwerden MC",
-        "Groenland CNL",
-        "Termorshuizen F",
-        "Rietdijk WJR",
-        "Blokzijl F",
-        "Boer DP",
-        "Dormans T",
-        "Epker JL",
-        "Feyz L",
-        "Gommers DAMPJ",
-        "Gritters van den Oever N",
-        "van der Heiden P",
-        "de Jonge E",
-        "Latten GHP",
-        "Pruijsten RV",
-        "Sir \u00d6",
-        "Spronk PE",
-        "Vermeijden WJ",
-        "van Vliet P",
-        "de Keizer NF",
-        "den Uil CA"
-      ],
-      "date": "2026 Jun 19",
-      "doi": "10.1097/CCM.0000000000007207",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "TBI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "intracranial haemorrhage",
-          "strength": "weak",
-          "topic": "TBI"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42312687/"
-    },
-    {
-      "pmid": "42311103",
-      "title": "Point of Care UCHL1/GFAP for Rapid Assessment of Undifferentiated Trauma Patients.",
-      "abstract": "**BACKGROUND**: Rapid discrimination of traumatic brain injury (TBI) from hemorrhagic shock remains challenging during initial trauma evaluation. Ubiquitin carboxyl-terminal hydrolase L1 (UCHL1) and glial fibrillary acidic protein (GFAP) are established TBI biomarkers; however, UCHL1 may also increase in systemic shock. We evaluated a point-of-care whole-blood UCHL1/GFAP assay in undifferentiated severe injury and examined associations with TBI, massive transfusion, and in-hospital mortality.\n\n**STUDY DESIGN**: In this prospective, single-center study, 273 consecutive highest-level trauma activations at risk for TBI or hemorrhage were enrolled between February 2025 and March 2026. UCHL1 and GFAP were measured using the iSTAT-Alinity platform and compared with arrival point-of-care lactate. Associations were assessed using Mann-Whitney U testing, receiver operating characteristic analysis, Fisher's exact testing, and logistic regression.\n\n**RESULTS**: GFAP >218 pg/mL (OR 73.2, p<0.001) and UCHL1 >2003 pg/mL (OR 3.3, p<0.001) were associated with TBI, whereas lactate >1.8 mmol/L was not (OR 0.6, p=0.12). Massive transfusion was associated with UCHL1 >2678 pg/mL (OR 3.9, p=0.002) and lactate >4 mmol/L (OR 5.5, p<0.001). In-hospital mortality was associated with GFAP >1532 pg/mL (OR 14.4, p<0.001), UCHL1 >2866 pg/mL (OR 4.1, p<0.001), and lactate >5.8 mmol/L (OR 2.0, p=0.03). Extreme GFAP elevation (>10,000 pg/mL) was strongly associated with mortality (30/34 patients; OR 35.4; PPV 88.2%; p<0.001).\n\n**CONCLUSIONS**: Point-of-care UCHL1/GFAP functions as a global trauma biomarker. Concurrent elevation of GFAP and UCHL1 is strongly associated with TBI, whereas isolated UCHL1 elevation may reflect hemorrhagic shock. Extreme GFAP elevation identifies patients at exceptionally high risk for in-hospital mortality, even without radiographic stratification.Level of Evidence: Level II.",
-      "journal": "J Am Coll Surg",
-      "authors": [
-        "Wetmore GC",
-        "Beyeler JT",
-        "Becker ER",
-        "Wakefield D",
-        "Black T",
-        "Puntenney O",
-        "Pattison S",
-        "Baker J",
-        "Pritts TA",
-        "Goodman MD"
-      ],
-      "date": "2026 Jun 19",
-      "doi": "10.1097/XCS.0000000000002073",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Haemorrhage",
-        "TBI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "haemorrhagic shock",
-          "strength": "weak",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "massive transfusion",
-          "strength": "weak",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "traumatic brain injury",
-          "strength": "weak",
-          "topic": "TBI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42311103/"
-    },
-    {
-      "pmid": "42310772",
-      "title": "Ketamine Low dOse Evaluation on morphine consumption in traumatic patients: study protocol for a randomized, double-blind, placebo-controlled trial (KLOE-Trial).",
-      "abstract": "**BACKGROUND**: Severely injured trauma patients frequently experience intense acute pain, are highly exposed to opioids during early intensive care, and remain at risk for opioid-related adverse events and persistent pain. Although multimodal analgesia is recommended, regional analgesia may be limited in patients with multiple injuries, coagulopathy, or limited local expertise. Low-dose intravenous ketamine is an attractive opioid-sparing strategy because of its analgesic properties and favourable safety profile at analgesic doses. However, prospective randomized evidence for ketamine used specifically as an analgesic adjunct in critically ill trauma patients remains scarce.\n\n**METHODS**: KLOE is a single-centre, randomized, double-blind, placebo-controlled trial with co-primary objectives of superiority for opioid reduction and non-inferiority for analgesic efficacy. Adult trauma patients with at least two traumatic lesions in two different body regions and at least two regional injuries with an Abbreviated Injury Scale score greater than 1 are randomized 1:1 to receive ketamine or placebo. The intervention consists of ketamine 0.1\u00a0mg/kg over 30\u00a0min followed by 0.15\u00a0mg/kg/h for 48\u00a0h; the control group receives volume-matched 0.9% sodium chloride. Study treatment must be started within 12\u00a0h after ICU admission. All patients receive protocolized multimodal analgesia. The superiority co-primary endpoint is cumulative opioid consumption at 48\u00a0h, expressed as intravenous morphine equivalents. The non-inferiority co-primary endpoint is mean pain intensity over the first 48\u00a0h assessed by visual analogue scale, with a non-inferiority margin of 10\u00a0mm. The planned sample size was 140 patients.\n\n**DISCUSSION**: This trial will provide prospective randomized evidence on whether early low-dose ketamine infusion can safely reduce opioid exposure in severely injured trauma patients without compromising analgesia. At the time of manuscript submission, recruitment and follow-up have been completed, while data cleaning, blinded data review, database lock, and final statistical analyses are ongoing. Publication of this protocol is intended to ensure transparency of the pre-specified methodology before reporting the main trial results.\n\n**TRIAL REGISTRATION**: ClinicalTrials.gov NCT04833816. First submitted on 5 April 2021; first posted on 6 April 2021. EudraCT 2020-004812-81.",
-      "journal": "Scand J Trauma Resusc Emerg Med",
-      "authors": [
-        "Duclos G",
-        "Resseguier N",
-        "Arbelot C",
-        "Pastene B",
-        "Zieleskiewicz L",
-        "Leone M"
-      ],
-      "date": "2026 Jun 17",
-      "doi": "10.1186/s13049-026-01649-7",
-      "tier": "core",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic",
-          "strength": "strong",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42310772/"
-    },
-    {
-      "pmid": "42309850",
-      "title": "Epidemiology and outcomes of geriatric patients with severe injury in Korea: Nationwide community-based study, 2016-2023.",
-      "abstract": "**INTRODUCTION**: As the number of geriatric populations increases in the aging era, the injury of the older adults is also increasing. This study aimed to investigate the epidemiologic trends and injury characteristics of geriatric patients with severe injuries by age groups and mechanism, using a nationwide database in Korea.\n\n**MATERIALS AND METHODS**: A cross-sectional observational study was conducted for all emergency medical service (EMS) treated geriatric (\u226565 years) patients with severe injuries in Korea between 2016 and 2023. Patients who met the criteria for a field-based injury triage scheme or had a prehospital physiologic abnormality were defined as severe injury. Exposure was age group: young old (65-74), middle old (75-84), and oldest old (\u226585 years) groups. The distribution of age groups was investigated by year. Injury characteristics and outcomes were compared by age group and mechanism. A Multivariable logistic regression analysis was used to investigate the predictors of mortality of geriatric patients with severe injuries.\n\n**RESULTS**: Among 319,567 patients with severe injuries transferred by EMS over 8 years, 92,085 (28.8%) were over 65 years of age. The proportion of older adults increased from 25.7% in 2016 to 32.0% in 2023. Among older adults, young old was 46.4% (42,742), middle old was 39.3% (36,182), and oldest old was 14.3% (13,161). The proportion of oldest old increased from 11.8% in 2016 to 16.6% in 2023. Most common mechanisms were slip/fall (35.9%), traffic accident (TA) (30.1%), and poisoning (17.4%) and 17.0% were suicidal attempts. Overall hospital mortality was 27.9% and the older the age, the higher mortality (young 25.2%, middle 30.0%, and oldest 31.0%). As age group increased, slip/fall increased (33.2% to 46.4%) and TA decreased (34.3% to 15.3%). Older age groups, male, suicidal attempts, and TA and asphyxia (compared with slip/fall) were associated with higher risk of hospital mortality.\n\n**CONCLUSIONS**: The geriatric patients, especially the oldest old with high mortality are increasing among patients with severe injuries. It is necessary to plan target-specific geriatric injury prevention program based on age distribution and common injury mechanism.",
-      "journal": "Injury",
-      "authors": [
-        "Lee SY",
-        "Song KJ",
-        "Hong KJ",
-        "Park JH",
-        "Kim TH",
-        "Jeong J",
-        "Choi SK",
-        "Choi YH"
-      ],
-      "date": "2026 Jun 13",
-      "doi": "10.1016/j.injury.2026.113425",
-      "tier": "filtered",
-      "topics": [
-        "Prehospital",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "prehospital",
-          "strength": "weak",
-          "topic": "Prehospital"
-        },
-        {
-          "keyword": "injury prevention",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42309850/"
     }
   ]
 }
