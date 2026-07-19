@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-18T20:38:02.628505Z",
-  "total_articles": 210,
+  "generated": "2026-07-19T20:38:22.907207Z",
+  "total_articles": 209,
   "all_topics": [
     "Abdominal",
     "Burns",
@@ -378,6 +378,152 @@
     "Cochrane Database Syst Rev": "filtered"
   },
   "articles": [
+    {
+      "pmid": "42470918",
+      "title": "Impact of MRI on the management of CT-defined AO spine A/B thoracolumbar fractures.",
+      "abstract": "**OBJECTIVES**: To assess the added value of emergency spine MRI compared with CT alone in patients with AO Spine A/B thoracolumbar trauma without neurological deficit, focusing on clinical management.\n\n**MATERIALS & METHODS**: This retrospective single-center study included consecutive trauma patients who underwent both CT and spine MRI between November 2023 and October 2025. CT served as the index test and MRI as the adjunct modality for fracture characterization and posterior ligamentous complex (PLC) assessment. MRI was performed according to an indication-driven institutional protocol. Changes in treatment strategy (conservative, minimally invasive, invasive) before versus after MRI were analyzed. Paired Wilcoxon signed-rank, McNemar, and symmetry tests were used as appropriate. Agreement was assessed using Cohen's \u03ba. Predictors of MRI-driven management change were explored using Fisher's exact test and multivariable logistic regression.\n\n**RESULTS**: A total of 158 patients were included (114 men; mean age, 35.8 \u00b1 12.4 years; range 18-59). MRI detected a higher number of fractured vertebrae than CT (2.2 \u00b1 1.8 vs. 1.5 \u00b1 1.0; p\u00a0<\u00a00.001). MRI led to a change in treatment strategy in 19 patients (12%), predominantly reflecting escalation of care (p\u00a0<\u00a00.001). Management change was driven by MRI-detected PLC injury in 17 patients (partial in 8, complete in 9), by occult spinal cord injury without clinical translation in 2 patients, and by both mechanisms simultaneously in 4 patients. AO Spine fracture classification changed after MRI in 39 patients (25%), reflecting substantial overall agreement between MRI and CT (\u03ba\u00a0=\u00a00.64; p\u00a0<\u00a00.001). MRI identified significantly more posterior ligamentous complex injuries (AO Spine type B) than CT when comparing fracture classification (48 vs. 16 patients; p\u00a0<\u00a00.001) and dedicated PLC status assessment (48 vs. 13 patients; p\u00a0<\u00a00.001). No CT-based variable remained independently associated with management change after adjustment.\n\n**CONCLUSION**: In selected patients with neurologically intact thoracolumbar trauma, emergency spine MRI modified therapeutic management in 12% of cases, primarily by revealing posterior ligamentous complex injuries and occult spinal cord findings not apparent on CT. These results support an indication-driven rather than systematic use of MRI.",
+      "journal": "Injury",
+      "authors": [
+        "Quilichini JB",
+        "Dien E",
+        "Ranc PA",
+        "Kilani V",
+        "Pavan LJ",
+        "Desalos K",
+        "Filippigh M",
+        "Bronsard N",
+        "Amoretti ME",
+        "Amoretti N"
+      ],
+      "date": "2026 Jul 16",
+      "doi": "10.1016/j.injury.2026.113499",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Spine"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "spinal cord injury",
+          "strength": "weak",
+          "topic": "Spine"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42470918/"
+    },
+    {
+      "pmid": "42470917",
+      "title": "Percutaneous fixation as definitive care for AO spine type B thoracolumbar fractures in polytrauma patients.",
+      "abstract": "**INTRODUCTION**: Percutaneous pedicle screw fixation is considered the standard treatment for thoracolumbar compression fractures. Its role in unstable injuries with anterior or posterior tension band lesion (AO Spine Type B) remains controversial, as open posterior fusion is traditionally recommended. In polytrauma patients, associated injuries and hemodynamic instability may increase the morbidity of open surgery and delay definitive treatment. In this setting, percutaneous stabilization offers a minimally invasive damage-control strategy, allowing restoration of spinal stability and early mobilization of the patient. This study evaluated the safety and mid-term clinical and radiological outcomes of percutaneous posterior stabilization in polytrauma patients with AO Spine Type B thoracolumbar fractures.\n\n**METHODS**: A retrospective analysis was performed on 43 consecutive polytrauma patients who underwent percutaneous pedicle screw fixation for a total of 48 thoracolumbar AO Spine type B fractures. Inclusion criteria required a minimum follow-up of 12 months. Patients with associated vertebral body fractures scoring \u22657 on the Load Sharing Classification were excluded. Operative time, blood loss and perioperative complications were recorded. Radiological follow-up assessed alignment maintenance, implant failure and hardware-related complications.\n\n**RESULTS**: Thirty-two patients were male, while the mean age was 47.9 years. Fracture distribution was as follows: B1 (27.1%), B2 (37.5%), and B3 (35.4%). No intraoperative or perioperative complications occurred. At a mean follow-up of 2.6 years, no proximal junctional kyphosis, mechanical implant failure, or infections were observed. Two patients (4.6%) showed an asymptomatic mild peri-screw osteolysis at one year. No cases required a revision surgery.\n\n**DISCUSSION**: In polytrauma patients, percutaneous pedicle screw fixation appears to be a safe and effective alternative to open fusion for AO Spine Type B fractures. The minimally invasive approach was associated with low surgical morbidity and enabled early mobilization. Mid-term outcomes support its role as definitive treatment, demonstrating maintained sagittal alignment and absence of clinically relevant hardware complications.\n\n**CONCLUSION**: Percutaneous pedicle screw fixation represents a reliable low-impact damage-control strategy in polytrauma patients with AO Spine Type B thoracolumbar fractures and showed favourable mid-term results consistent with definitive management.",
+      "journal": "Injury",
+      "authors": [
+        "Giorgi PD",
+        "Ramponi A",
+        "Legrenzi S",
+        "Villa F",
+        "Boeris D",
+        "Picano M",
+        "Colistra D",
+        "Bove F",
+        "Cenzato M",
+        "Schir\u00f2 GR"
+      ],
+      "date": "2026 Jul 16",
+      "doi": "10.1016/j.injury.2026.113503",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "polytrauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42470917/"
+    },
+    {
+      "pmid": "42470916",
+      "title": "Deep-learning CT reconstruction improves image quality but not diagnostic accuracy for sacral fragility fractures: MRI remains essential.",
+      "abstract": "**PURPOSE**: To determine whether modern deep-learning CT reconstruction improves trauma-relevant diagnostic performance for sacral fragility fractures (SFF) and whether optimized CT can reduce the need for MRI in routine clinical practice.\n\n**METHODS**: In this retrospective paired-reader study, 171 pelvic CT examinations with corresponding MRI (reference standard) were analyzed (fracture prevalence 63.2%). Two blinded readers independently assessed each dataset reconstructed using standard iterative reconstruction and deep-learning reconstruction (DLR). Binary fracture detection and qualitative image quality were recorded. Diagnostic performance was compared using paired statistical testing.\n\n**RESULTS**: DLR significantly improved perceived image quality and diagnostic confidence across all evaluated domains (p\u00a0<\u00a00.001). However, no significant differences were observed in sensitivity, specificity, or overall diagnostic accuracy between reconstruction techniques for either reader (all p\u00a0>\u00a00.65). Diagnostic accuracy exceeded 87% across all conditions. Missed fractures on CT were primarily associated with nondisplaced or marrow-based injuries detectable on MRI.\n\n**CONCLUSION**: Although advanced CT reconstruction improves image quality and reader confidence, it does not significantly enhance diagnostic accuracy for sacral fragility fractures. Even with optimized reconstruction techniques, CT cannot reliably exclude SFF. MRI therefore remains essential in patients with persistent clinical suspicion despite negative or equivocal CT findings.\n\n**LEVEL OF EVIDENCE**: Level III.",
+      "journal": "Injury",
+      "authors": [
+        "Naisan M",
+        "Brockstedt LA",
+        "Grebe AW",
+        "Joumah M",
+        "Kurz E",
+        "Hartung P",
+        "Othman AE",
+        "Sanner A",
+        "Richter M",
+        "Drees P",
+        "Brockmann MA",
+        "Steinmetz S"
+      ],
+      "date": "2026 Jul 16",
+      "doi": "10.1016/j.injury.2026.113504",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42470916/"
+    },
+    {
+      "pmid": "42470915",
+      "title": "Implementation of a thoracolumbar compression fracture remote review protocol safely reduces in-person spine consultations.",
+      "abstract": "**BACKGROUND**: Thoracolumbar compression fractures (TLCF) are often managed non-operatively with Thoracic-Lumbar-Sacral Orthosis (TLSO) bracing. This study evaluated the safety of a novel remote review protocol for non-operative TLCF management.\n\n**METHODS**: A single-center retrospective analysis was performed on adult trauma patients with acute TLCF. The PRE cohort (5/2022-4/2023) received formal bedside consultation, while the POST cohort (6/2023-6/2024) underwent remote review by an on-call spine surgery resident. The primary outcome was the incidence of TLCF-related complications.\n\n**RESULTS**: Of 120 patients, 79 (65.8%) were in the POST cohort. Demographics, injury mechanisms, vitals, and injury severity score were comparable between cohorts (all p\u00a0>\u00a00.05). Median time to discharge (PRE 28\u00a0h vs. POST 26\u00a0h, p\u00a0=\u00a00.61) was similar. No patients developed TLCF-related complications including neurological deficits or TLSO brace-related complications in either group.\n\n**CONCLUSIONS**: Implementation of a remote review protocol for low-risk acute TLCF appears safe with similar outcomes and time to discharge compared to traditional bedside consultation.\n\n**LEVEL OF EVIDENCE**: Level III.",
+      "journal": "Injury",
+      "authors": [
+        "Nie J",
+        "Di Gerolamo J",
+        "Truong N",
+        "Grigorian A",
+        "Nguyen PD",
+        "Chan A",
+        "Finney N",
+        "Hashmi S",
+        "Oh M",
+        "Nahmias J"
+      ],
+      "date": "2026 Jul 16",
+      "doi": "10.1016/j.injury.2026.113500",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "injury severity",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42470915/"
+    },
     {
       "pmid": "42468511",
       "title": "A multicenter retrospective evaluation of treatment variation in patients with a blunt traumatic pneumothorax; noninvasive treatment versus tube thoracostomy (CONSTRAIN-Retro).",
@@ -7957,177 +8103,6 @@
       ],
       "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/42323689/"
-    },
-    {
-      "pmid": "42321153",
-      "title": "Medical Staffing Models of Inpatient Major Trauma Services in Australia and New Zealand.",
-      "abstract": "**OBJECTIVE**: To quantify and describe the different medical specialty staffing models utilised by inpatient trauma services in Major Trauma Centres in Australia and New Zealand.\n\n**METHODS**: A standardised telephone survey of all Major Trauma Centres (MTCs) in Australia and New Zealand was conducted between May and August 2024.\n\n**RESULTS**: 16/27 (67%) of MTC's in Australia utilise multi-specialty staffing models for their inpatient trauma service. Two of the seven (29%) MTC's in New Zealand utilise a multi-specialty staffing model.\n\n**CONCLUSIONS**: This study presents the results of a survey of all adult and paediatric major trauma centres in Australia and New Zealand. It quantifies and describes medical specialist staffing models of inpatient major trauma services. Two-thirds of MTC's in Australia and almost one-third of MTC's in New Zealand utilise multi-specialty medical specialist staffing models for their inpatient trauma services. The range of non-surgical specialties employed in these roles includes Emergency Physicians (FACEM), Anaesthetists (FANZCA) and Intensivists (FCICM). Of those services that utilise a multi-specialty model, there is wide variation in the number and mix of specialties involved, as well as in the structure and function of the admitting services.",
-      "journal": "Emerg Med Australas",
-      "authors": [
-        "Abbasi H",
-        "Bourke EM",
-        "Ejaz M",
-        "Buck A"
-      ],
-      "date": "2026 Jun 1",
-      "doi": "10.1111/1742-6723.70289",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "major trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42321153/"
-    },
-    {
-      "pmid": "42321120",
-      "title": "Effectiveness of magnets in removing metallic foreign bodies.",
-      "abstract": "**BACKGROUND**: Metallic foreign bodies (MFB) in the extremities are a common clinical problem that requires removal to prevent complications and to avoid contraindications to magnetic resonance imaging. While magnetic extraction represents an alternative to conventional surgical techniques, systematic data regarding its efficacy and clinical utility remain limited. This study aimed to evaluate the clinical efficacy of magnetic extraction for MFBs in extremities, its impact on radiation exposure, and success rates across different anatomical locations and foreign body types.\n\n**METHODS**: We retrospectively reviewed data on patients who underwent MFB removal surgery between 2017 and 2025 at a tertiary trauma center. Of the 364 patients reviewed, 51 met the inclusion criteria after excluding non-metallic foreign bodies, cases in which magnets were not used, and incomplete records. Demographic data, anatomical location, foreign body characteristics, use of image intensifier, and magnet efficiency were recorded.\n\n**RESULTS**: A magnet was used for 52 MFBs in 51 patients. Magnetic extraction of MFBs was successful in 87% (45/52) of cases. The success rate was 100% for metal splinters but decreased to 63% for the needle-type foreign bodies (p\u00a0<\u00a00.001). Magnetic extraction succeeded in all upper-extremity cases (28/28, 100%) and in 68.2% (15/22) of lower-extremity cases; the single patient with bilateral involvement was successfully managed at both sites (p\u00a0=\u00a00.003, Fisher-Freeman-Halton exact test). In 70% of all cases and 80% of magnet successful cases, the image intensifier was not used. Stratified analysis by anatomical location revealed that the inverse relationship between image-intensifier use and magnet-only success was particularly pronounced in lower extremity cases (p\u00a0=\u00a00.020).\n\n**CONCLUSION**: Magnet-assisted extraction is an easy and feasible method with high success rates for MFB removal. The use of a magnet may reduce radiation exposure during MFB removal. Its efficacy decreases at lower-extremity sites, particularly in the sole, and with needle-type foreign bodies. These findings indicate that magnetic extraction of MFBs should be planned according to anatomical location and foreign body type.",
-      "journal": "Injury",
-      "authors": [
-        "Aslant\u00fcrk O",
-        "Ergen E",
-        "Karakaplan M",
-        "\u00d6zde\u015f HU",
-        "Al F",
-        "Ertem K"
-      ],
-      "date": "2026 Jun 18",
-      "doi": "10.1016/j.injury.2026.113455",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "trauma centre",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42321120/"
-    },
-    {
-      "pmid": "42321119",
-      "title": "The economic value and financial burden of informal caregiving during 3 months after geriatric fracture admission: A longitudinal cohort study.",
-      "abstract": "**BACKGROUND**: While fragility fractures result in significant healthcare expenditure, the (in)direct costs of fracture-related informal care are rarely acknowledged. This study quantifies the economic value of informal care and the financial burden among working-age caregivers of older adult patients following a fracture-related hospital admission.\n\n**METHODS**: This longitudinal cohort study included working-age (<67 years) informal caregivers of patients aged \u2265\u00a065 years who were admitted for any fracture. Caregivers reported pre-fracture caregiving details and at 2 weeks, 4 weeks and 3 months post-discharge. The primary outcome measure was the economic value of informal care in Euro (\u20ac) per week, estimated using the opportunity cost method. Secondary outcomes included a composite financial burden score ranging from 0 (low) to 6 (high) and dichotomized (low vs. high) financial worry score. Linear mixed models were constructed to assess associations of time and caregiver/patient characteristics with informal caregiving costs.\n\n**RESULTS**: The 67 included caregivers were on average 54 years old, mostly female (66%), and patients' children (79%). Mean weekly informal care costs were \u20ac91.66 (95%CI 54.62-128.71) before admission, \u20ac244.80 (95%CI 164.62-342.99) at 2 weeks, \u20ac214.57 (95%CI 149.46-279.68) at 4 weeks, and \u20ac133.58 (95%CI 92.01-175.16) at 3 months post-discharge. In linear mixed models, caregiving costs were significantly higher at 2 weeks (243%), at 4 weeks (286%), and at 3 months post-discharge (115%), compared to baseline. Adjusted for time, costs were significantly associated with pre-fracture Katz-ADL (p\u00a0=\u00a0.003), caregiver age (p\u00a0=\u00a0.007), impaired patient mobility (p\u00a0=\u00a0.013), and rib or upper extremity fractures (p\u00a0=\u00a0.043) compared to hip fractures. Mean financial burden composite score were 0.06 (SD 0.39) pre-fracture, and 0.03 (SD 0.25), 0.10 (SD 0.55), and 0.02 (SD 0.13) at 2 weeks, 4 weeks, and 3 months post-discharge, respectively. High financial worry was reported only once by a single caregiver at 2 weeks post-discharge.\n\n**CONCLUSION**: Informal care provided by working-age healthcare proxies has considerable economic value, especially during the first month post-discharge, following a fracture-related admission of older adults. Nevertheless, caregivers rarely reported financial burden or worry. The large variation in caregiving intensity and high proportion of female caregivers may reflect inequality between individual informal caregiving responsibilities.",
-      "journal": "Injury",
-      "authors": [
-        "Raats JH",
-        "Sluijter AJ",
-        "Lintmeijer L",
-        "van der Velde D",
-        "Schuijt HJ"
-      ],
-      "date": "2026 Jun 18",
-      "doi": "10.1016/j.injury.2026.113457",
-      "tier": "filtered",
-      "topics": [],
-      "keyword_matches": [],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42321119/"
-    },
-    {
-      "pmid": "42320432",
-      "title": "Interprofessional collaboration in trauma care in South Asia: A scoping review of barriers, interventions, and implications for patient and system outcomes.",
-      "abstract": "**BACKGROUND**: Trauma is a leading global cause of preventable morbidity and mortality, with South Asia bearing a disproportionate burden due to fragmented trauma systems and resource limitations. Effective trauma care depends on coordinated personnel, infrastructure, clinical processes, and interprofessional collaboration (IPC).\n\n**OBJECTIVE**: To map existing evidence on barriers to adult trauma care delivery in South Asia and to examine how IPC is implemented through educational, practice-based, and organisational interventions.\n\n**METHODS**: A scoping review was conducted following the Arksey and O'Malley framework and reported in accordance with PRISMA-ScR guidelines. Four electronic databases (PubMed, Scopus, Embase, and Web of Science) and Google Scholar were searched for English-language studies published between 2005 and 2025. Eligible studies examined IPC, teamwork, or system-level challenges in adult trauma care across civilian healthcare settings. Data were charted and reported descriptively with multiple categories across system, provider, and patient levels.\n\n**RESULTS**: Twenty-one studies were included from South Asia, with most evidence originating from India, highlighting important regional research disparities. Most were conducted in tertiary emergency departments or trauma centres and employed observational or quasi-experimental designs. Interventions were classified as IP education (n\u00a0=\u00a010), IP practice (n\u00a0=\u00a08), and IP organisation (n\u00a0=\u00a01); two studies provided contextual system analyses without direct interventions. Educational and practice-based interventions consistently improved provider knowledge, confidence, communication, and process reliability. However, organisational-level interventions were scarce, and patient-level outcomes such as mortality and functional recovery were infrequently reported limiting assessment of the true clinical effectiveness of IPC interventions. Recurrent barriers included underdeveloped prehospital systems, inconsistent trauma team activation, protocol variability, workforce turnover, and limited trauma registry coverage.\n\n**CONCLUSIONS**: The evidence base on IPC in South Asia trauma care is dominated by education and practice-level interventions, with limited evaluation of system-level redesign. While IPC interventions improve teamwork and care processes, their impact on patient outcomes remains inadequately measured. Sustainable progress will require trauma registries, standardized protocols, governance reform, and multicountry patient-outcome-driven research. Policymakers should prioritize integrated trauma governance, registry systems, and regional quality assurance to translate IPC gains into measurable improvements in trauma mortality, morbidity, and recovery.",
-      "journal": "Injury",
-      "authors": [
-        "Kunju SA",
-        "Rahman AA",
-        "Mohammed CA",
-        "Krishnan S V",
-        "Soy EM",
-        "Patil DS",
-        "Prakash H",
-        "Prabhu MM"
-      ],
-      "date": "2026 Aug 1",
-      "doi": "10.1016/j.injury.2026.113439",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Prehospital",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "trauma team",
-          "strength": "weak",
-          "topic": "Prehospital"
-        },
-        {
-          "keyword": "prehospital",
-          "strength": "weak",
-          "topic": "Prehospital"
-        },
-        {
-          "keyword": "trauma mortality",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "trauma registry",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42320432/"
-    },
-    {
-      "pmid": "42320412",
-      "title": "Lumbar paraspinal compartment syndrome with concomitant rhabdomyolysis and multifidus necrosis.",
-      "abstract": "Acute lumbar paraspinal compartment syndrome is a rare, function-threatening emergency often misidentified as benign musculoskeletal strain. We describe a 29-year-old male who presented to the emergency department (ED) with acute low back pain following a touch football game. Despite an initial discharge for muscle spasm, he returned 24\u00a0h later with refractory pain and laboratory evidence of rhabdomyolysis (creatine kinase 14,399\u00a0U/L). Magnetic resonance imaging revealed edema of the left paraspinal musculature. Due to persistent pain and progressive laboratory abnormalities, emergent surgical decompression was performed, confirming multifidus necrosis. This case highlights the bounce-back presentation as a critical red flag. Prompt recognition of disproportionate pain and unexplained rhabdomyolysis in the ED is essential to facilitate emergent fasciotomy and prevent irreversible myonecrosis and acute kidney injury.",
-      "journal": "Am J Emerg Med",
-      "authors": [
-        "Kucher VA",
-        "Sahlberg AR",
-        "Miller CL"
-      ],
-      "date": "2026 Jun 17",
-      "doi": "10.1016/j.ajem.2026.06.026",
-      "tier": "filtered",
-      "topics": [
-        "Orthopaedic"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "compartment syndrome",
-          "strength": "strong",
-          "topic": "Orthopaedic"
-        },
-        {
-          "keyword": "rhabdomyolysis",
-          "strength": "strong",
-          "topic": "Orthopaedic"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42320412/"
     }
   ]
 }
