@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-23T20:51:44.636972Z",
-  "total_articles": 232,
+  "generated": "2026-07-24T20:55:28.941427Z",
+  "total_articles": 230,
   "all_topics": [
     "Abdominal",
     "Burns",
@@ -378,6 +378,348 @@
     "Cochrane Database Syst Rev": "filtered"
   },
   "articles": [
+    {
+      "pmid": "42496906",
+      "title": "A global contrast shortage: a descriptive study exploring IV contrast utilization and outcomes in trauma patients at a level I trauma center.",
+      "abstract": "**PURPOSE**: Computed Tomography (CT) with intravenous (IV) contrast is critical to the evaluation of the trauma patient. A pandemic-related lockdown occurred in Spring 2022 in the city where iohexol iodinated contrast media) is manufactured, resulting in a global shortage. We explored the potential impact of this shortage on contrast utilization and patient outcomes.\n\n**METHODS**: A retrospective study was performed of all trauma patients who underwent CT between January and December 2022 at a level I trauma center. Pre-contrast conservation (PRE) period was defined as January to April 2022, and post-conservation (POST) as May to December 2022. Demographics, utilization rates (bolus/patient) and outcomes were evaluated. Chi-square tests were performed for categorical variables and Mann-Whitney U tests for continuous variables. Statistical significance was set at p\u2009<\u20090.05.\n\n**RESULTS**: 1,097 patients were included; 509 in the pre-shortage period, 588 post-shortage. 857 CTs with contrast (1.68 contrast bolus/patient) were performed pre-conservation and 979 post-conservation (1.66 contrast bolus/patient) (p\u2009=\u20090.04). Maximum Abbreviated Injury Scale (AIS) head, head/neck, and extremity were higher post-shortage (p\u2009<\u20090.05); however, mortality was higher in the pre-conservation group (p\u2009<\u20090.0012). There were 9 cases of Acute Kidney Injury (AKI, 8 PRE, 1 POST), 22 delayed diagnoses (14 PRE, 8 POST) and 2 missed injuries (PRE 2, POST 0).\n\n**CONCLUSIONS**: Despite a nationwide IV contrast shortage and volume of contrast utilization per patient, we did not observe an increase in delayed diagnoses, missed injuries or AKI although these events remain small with no clear adverse signal. This may reflect the proactive institutional measures deployed to decrease nonurgent contrast use in the inpatient and outpatient settings in order to conserve contrast for more emergent settings. Based on the limited data set and truncated pre-shortage periods we were not able to reach any meaningful conclusions regarding quality of care and impact on outcomes. Next steps may include multi-center analysis to determine the larger clinical impact of this shortage.",
+      "journal": "Eur J Trauma Emerg Surg",
+      "authors": [
+        "Zakaria H",
+        "Johansen C",
+        "Waldrop C",
+        "Wan B",
+        "Graham C",
+        "Fetzer D",
+        "Minei J",
+        "Bruns B",
+        "Ananthakrishnan L",
+        "Pepin E",
+        "Park C"
+      ],
+      "date": "2026 Jul 24",
+      "doi": "10.1148/radkimiol.221183",
+      "tier": "core",
+      "topics": [
+        "General Trauma",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "strong",
+          "topic": "Systems/QI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42496906/"
+    },
+    {
+      "pmid": "42496898",
+      "title": "Trauma stabilization points in armed conflict: operational evolution and strategic reflections from mosul to Gaza.",
+      "abstract": "**BACKGROUND**: Forward trauma care remains a critical gap in emergency responses to armed conflict, particularly where conventional medical evacuation is disrupted. Trauma Stabilization Points (TSPs) were introduced in previous conflicts to bring life-saving care closer to the point of injury. To improve standards and adaptability, the World Health Organization convened a Technical Working Group to develop operational guidance for TSPs, drawing on diverse field experiences, including the ongoing Gaza deployments.\n\n**CASE PRESENTATION**: Between February and July 2024, three TSPs were established in Gaza, managing over 4,000 consultations. Initially focused on trauma stabilization and referral, these sites quickly adapted to minor injuries and non-traumatic conditions, reflecting population needs and access challenges. Referral rates varied across sites due to hospital proximity, ambulance availability, and shifting frontlines. Security threats limited forward deployment and safe patient access, requiring high mobility and rapid relocation. Experience from Gaza highlighted key operational principles: locating TSPs near the point of injury; integrating within a functioning trauma referral pathway supported by evacuation capacity and hospital readiness; maintaining clear clinical functions and staffing standards; and using standardized documentation for quality assurance and continuity. Lessons from Gaza aligned with those from other conflict zones, emphasizing challenges such as insecurity, fragmented oversight, and disrupted referral systems. The guidance recognizes the need for adaptable models that balance mobility with advanced interventions, including damage control resuscitation in austere settings.\n\n**CONCLUSIONS**: The Gaza experience, together with lessons from other conflict settings, is shaping the development of flexible, context-sensitive operational guidance for TSPs. This guidance aims to support emergency care actors and national authorities in determining when and how to deploy TSPs in complex emergencies, balancing core trauma functions with the realities of modern warfare.",
+      "journal": "Eur J Trauma Emerg Surg",
+      "authors": [
+        "Marta C",
+        "Luca P",
+        "Kai-Hsun H",
+        "Areej AF",
+        "Athanasios G",
+        "Wessam EG",
+        "Jonas Z",
+        "Johan VS",
+        "Luca R",
+        "Flavio S"
+      ],
+      "date": "2026 Jul 24",
+      "doi": "10.1017/S1049023X19004965",
+      "tier": "core",
+      "topics": [
+        "General Trauma",
+        "Haemorrhage"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "damage control",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42496898/"
+    },
+    {
+      "pmid": "42496114",
+      "title": "Management of Anticoagulation Therapy in Focused Ultrasound Thalamotomy: A Series of 687 Patients.",
+      "abstract": "**BACKGROUND AND OBJECTIVES**: Magnetic resonance-guided focused ultrasound (MRgFUS) is an effective minimally invasive treatment of medication-refractory tremor. Risk of intracranial hemorrhage may prompt interruption of antiplatelet or anticoagulant medications. We present a large, single-center experience evaluating the safety of MRgFUS with continued antithrombotic therapies.\n\n**METHODS**: We performed a retrospective review of 687 patients who underwent MRgFUS for tremor with postprocedure MRI. In February 2023, our institution changed its practice to no longer interrupt antithrombotic therapy before procedures. Hemorrhage rates, thromboembolic events, active medications, and sonication parameters were analyzed before and after this change in practice.\n\n**RESULTS**: There were zero intracranial hemorrhages across the entire cohort, including 179 patients with continued antithrombotic therapy at the time of procedure. There were no significant differences in maximum temperature (61.0\u00b0C vs 61.6; P = .135), maximum energy (17\u2009354.6 J vs 17\u2009723.7 J; P = .704), or number of sonications (5.8 vs 5.9; P = .461) between patients on antithrombotic therapy and patients not on therapy. There were no reported thromboembolic events associated with antithrombotic therapy interruption in the pre-2023 cohort.\n\n**CONCLUSION**: Our series of 179 uncomplicated MRgFUS cases performed while on continued antithrombotic therapy may suggest that continuing antithrombotic therapy during MRgFUS is reasonable in select patients.",
+      "journal": "Neurosurgery",
+      "authors": [
+        "Akras Z",
+        "Glaser A",
+        "Mazurek M",
+        "Chua MMJ",
+        "McDannold N",
+        "Cosgrove GR",
+        "Rolston JD"
+      ],
+      "date": "2026 Jul 24",
+      "doi": "10.1227/neu.0000000000004173",
+      "tier": "filtered",
+      "topics": [
+        "TBI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "intracranial haemorrhage",
+          "strength": "weak",
+          "topic": "TBI"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42496114/"
+    },
+    {
+      "pmid": "42493234",
+      "title": "Association between the timing of prehospital epinephrine administration and patient outcomes after out-of-hospital cardiac arrest in Korea: a nationwide observational study.",
+      "abstract": "**OBJECTIVE**: The optimal timing of epinephrine during out-of-hospital cardiac arrest (OHCA) remains uncertain, particularly for neurological recovery. We examined the association between time-to-epinephrine and clinical outcomes in adult OHCA in Korea.\n\n**METHODS**: We conducted a nationwide retrospective cohort of emergency medical service (EMS)-treated, non-traumatic adult OHCA (2019-2021). Patients were classified as early (\u226420 min) or delayed (>20 min) based on arrest-to-first epinephrine. The primary outcome was favourable neurological status at discharge (Cerebral Performance Category (CPC) 1-2); secondary outcomes were return of spontaneous circulation (ROSC) and survival to discharge. We applied 1:1 propensity-score matching and multivariable logistic regression, including continuous (per 1-minute and 5-minute delays) and 5-minute bin analyses of time-to-epinephrine, with effect modification assessed by initial rhythm.\n\n**RESULTS**: Among 10 726 patients, 3589 (33.5%) received epinephrine within 20 min. In the matched cohort (n = 5,734), delayed administration was associated with lower survival (4.46% vs 7.74%; aOR 0.56, 95% CI 0.44-0.71) and lower likelihood of favourable neurological outcome (2.13% vs 3.77%; aOR 0.56, 95% CI 0.40-0.79), compared with early administration. In continuous models, each 1-minute delay was associated with lower odds of good CPC (aOR 0.964, 95% CI 0.942 to 0.987); a 5-minute delay corresponded to aOR 0.833 (95% CI 0.741 to 0.937) and bin-wise estimates showed a marked drop beyond 30 min (aOR 0.048, 95% CI 0.006 to 0.393).\n\n**CONCLUSION**: Early epinephrine administration within 20 min of cardiac arrest onset was associated with higher rates of ROSC, survival to discharge and favourable neurological recovery in this EMS setting. These findings support the importance of timely advanced life support delivery, including early epinephrine, although cautious interpretation is warranted.",
+      "journal": "Emerg Med J",
+      "authors": [
+        "Lee SH",
+        "Hong WP",
+        "Park JH",
+        "Kim M",
+        "Kim YS"
+      ],
+      "date": "2026 Jul 23",
+      "doi": "10.1136/emermed-2025-215848",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Prehospital"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "traumatic",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "prehospital",
+          "strength": "strong",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42493234/"
+    },
+    {
+      "pmid": "42492619",
+      "title": "One-year liver graft survival from brain-dead donors treated with ECPR for out-of-hospital cardiac arrest.",
+      "abstract": "**INTRODUCTION**: Among patients treated with extracorporeal cardiopulmonary resuscitation (ECPR) for refractory out-of-hospital cardiac arrest (OHCA), some ultimately progress to brain death and may become organ donors. This study aimed to evaluate one-year liver graft survival from donors in brain death after ECPR for refractory OHCA.\n\n**METHODS**: A retrospective, single-centre, observational study was conducted between January 2011 and June 2024. All included patients were in brain death and donated at least one organ. Actual liver donors were divided into two groups: an \"ECPR group\" (donors treated with ECPR for refractory OHCA) and a \"Control group\" (donors not treated with ECPR, predominantly admitted for stroke and OHCA). The primary outcome was one-year liver graft survival.\n\n**RESULTS**: Liver retrieval was performed in 15/38 (39%) potential donors treated with ECPR for refractory OHCA, compared with 27/34 (79%) potential donors not treated with ECPR (P<0.01). Actual liver donors in the ECPR group were younger (47 [36-54] vs. 70 [48-79] years, P<0.01) with greater initial severity: for instance peak lactate was higher (9.4 [6.9-12.4] vs. 3.0 [2-5.7] mmol/L, P<0.01). In univariate analysis, one-year liver graft survival did not differ significantly between groups: 12/15 (80%; 95% CI, 55-93) in the ECPR group vs. 24/27 (89%; 95% CI 72-96) in the control group, (P=0.65).\n\n**CONCLUSION**: There was no statistically significant difference in one-year liver graft survival between donors treated with ECPR for refractory OHCA and other donors. Given the limited sample size, this lack of statistical significance should not be interpreted as evidence of equivalence.",
+      "journal": "Resuscitation",
+      "authors": [
+        "Raphalen JH",
+        "Soumagnac T",
+        "Merle-Beral R",
+        "Vimpere D",
+        "Qu\u00e9r\u00e9 R",
+        "Ammar H",
+        "Lafarge A",
+        "Dagron C",
+        "An K",
+        "Mungur A",
+        "Nicol T",
+        "Hutin A",
+        "Lamhaut L"
+      ],
+      "date": "2026 Jul 23",
+      "doi": "10.1016/j.resuscitation.2026.111219",
+      "tier": "filtered",
+      "topics": [
+        "Cardiac Arrest"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "ECPR",
+          "strength": "strong",
+          "topic": "Cardiac Arrest"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42492619/"
+    },
+    {
+      "pmid": "42492419",
+      "title": "Subtrochanteric varisation explains age-related changes in proximal femoral morphology and has implications for hip arthroplasty and trauma surgery.",
+      "abstract": "**BACKGROUND**: Age-related varus remodeling of the proximal femur is well recognized, but its anatomical center of rotation remains unclear. Varus proximal femoral morphology plays a relevant role in fracture patterns, implant positioning, and surgical exposure in geriatric trauma surgery. We investigated whether correlations between the caput-collum-diaphyseal angle (CCD) and trochanteric rotation/offset parameters indicate a subtrochanteric origin of femoral varisation.\n\n**METHODS**: 100 CT angiographies of the pelvis-leg axis from patients of different ages were analyzed. CCD and the critical trochanter angle (CTA) were assessed in their conventional and modified forms (mCCD/mCTA). Additional parameters included greater (OGT/OGTI) and lesser trochanter offsets (OST/OSTI), femoral antetorsion, and trochanteric anteversion/retroversion. Bone quality was classified according to Dorr.\n\n**RESULTS**: mCCD showed a significant negative correlation with age, confirming increasing varus alignment in older individuals. CTA and mCTA positively correlated significantly with both CCD and mCCD (CTA/CCD: p\u00a0=\u00a00.005 and CTA/mCCD p\u00a0<\u00a00.001; mCTA: with both CCD & mCCD p\u00a0<\u00a00.001), indicating that increased medial trochanteric overhang is strongly associated with varus morphology. OGT and OGTI demonstrated strong positive correlations with CCD and mCCD (OGT: with both p\u00a0<\u00a00.001, OGTI: with both p\u00a0=\u00a00.001), whereas OST and OSTI correlated negatively with CCD (p\u00a0=\u00a00.032 and p\u00a0=\u00a00.02), reflecting a decrease in greater trochanter offset and an increase in lesser trochanter offset with progressive varisation. Posterior trochanteric orientation (PTO) of the greater trochanter correlated positively with CCD/mCCD, indicating reduced retroversion in varus hips. In contrast, femoral neck anteversion and anterior trochanteric anteversion showed no significant correlation with CCD parameters (p\u00a0=\u00a00.889 and p\u00a0=\u00a00.125). Lower CCD values were significantly associated with more osteoporotic Dorr types (Kendall's Tau: -0.212 for CCD, p\u00a0=\u00a00.008; -0.197 for mCCD, p\u00a0=\u00a00.014).\n\n**CONCLUSION**: Correlation patterns suggest that age-dependent varisation occurs predominantly in the subtrochanteric region. This morphology may complicate exposure and stem alignment in total hip arthroplasty in varus hips and should influence implant selection, stem design and fracture-related implant strategies in elderly patients.",
+      "journal": "Injury",
+      "authors": [
+        "Ecker N",
+        "Simon M",
+        "Lisitano L",
+        "Fenwick A",
+        "Betsch M",
+        "Donhauser M",
+        "Perl M",
+        "Mayr E",
+        "R\u00f6ttinger T"
+      ],
+      "date": "2026 Jul 19",
+      "doi": "10.1016/j.injury.2026.113524",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42492419/"
+    },
+    {
+      "pmid": "42492083",
+      "title": "Individual skill and institutional competence: A framework for HALO procedure implementation.",
+      "abstract": "High acuity, low occurrence (HALO) procedures are time-critical, life-saving interventions whose intrinsic rarity traditionally limits opportunities for individual clinicians to build and maintain proficiency through clinical exposure alone. The traditional volume-outcome paradigm, which assumes higher procedural volume correlates with better outcomes, confronts a structural paradox: these procedures demand advanced expertise precisely where experiential learning is least available. Evidence from registries on resuscitative endovascular balloon occlusion of the aorta, emergency department thoracotomy, and extracorporeal cardiopulmonary resuscitation consistently demonstrates that outcome variation tracks institutional rather than individual-operator volume. We propose a conceptual framework that distinguishes Individual Skill, the bounded, transferable psychomotor competencies required for procedural execution, from institutional competence, the organizational capacity to deploy those skills safely and reproducibly through deliberate integration of clinical governance, engineered readiness, structured training, and continuous quality learning. Individual skill, while necessary, is insufficient: a skilled operator working outside a competent institution represents a risk rather than an asset. The framework identifies institutional commitment as a prerequisite and defines five jointly necessary operational domains: clinical governance, training and skill maintenance, readiness engineering, downstream pathway integration, and continuous quality learning. This distinction carries implications for credentialing, governance, and resource allocation: competence standards should evaluate systems alongside operators, and institutions serving populations where HALO procedures should commit to building and sustaining these capabilities.",
+      "journal": "J Trauma Acute Care Surg",
+      "authors": [
+        "Colonetti E",
+        "Bonsano M",
+        "Carenzo L",
+        "Migliari M",
+        "Chiara O",
+        "Scalea T",
+        "Henry S"
+      ],
+      "date": "2026 Jul 23",
+      "doi": "10.1097/TA.0000000000005144",
+      "tier": "core",
+      "topics": [
+        "Thoracic"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "thoracotomy",
+          "strength": "weak",
+          "topic": "Thoracic"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42492083/"
+    },
+    {
+      "pmid": "42492082",
+      "title": "Lateral implosion injuries: Epidemiology, outcomes and evaluation of the Ch-Sh classification.",
+      "abstract": "**BACKGROUND**: Lateral implosion injuries (LIIs) result from lateral trauma to the thoracic cage and shoulder, causing concomitant rib and shoulder girdle fractures. While individual combinations of rib and shoulder girdle fractures have been described, the clinical significance of LIIs is poorly understood. Current classification of LIIs relies on radiographic scores such as RibScore, which assess rib or shoulder fractures in isolation. The Ch-Sh (Chest-Shoulder) Classification was proposed to predict risk in LIIs, but its clinical validity has not been evaluated.\n\n**METHODS**: A retrospective cohort study of patients admitted to a Major Trauma Centre in the UK with multiple rib fractures between 2010 and 2024. Patients were classified as LIIs or isolated rib fractures (IRFs) without additional shoulder injury. A validation cohort was established with patients stratified according to the original and a modified Ch-Sh Classification. Multivariable regression was used to assess associations of injury type (LII vs. IRF) and modified Ch-Sh score with outcomes. Discriminatory performance of a modified Ch-Sh Classification, RibScore, and a combined model was compared.\n\n**RESULTS**: A total of 4145 patients met the inclusion criteria. Seven hundred eighty-two (18.9%) suffered LIIs, and 3363 (81.1%) suffered IRFs. LIIs were associated with increased hospital length of stay (p < 0.001), resource utilisation (p < 0.001), and adverse outcomes (p < 0.001). In the validation cohort (n = 539), higher Ch-Sh scores were associated with increased length of stay, resource utilisation, and adverse outcomes. The modified Ch-Sh Classification mostly demonstrated discriminatory ability comparable to RibScore, but Ch-Sh was superior for shoulder open reduction and internal fixation while RibScore was superior for SSRF. Discrimination significantly improved in the combined model.\n\n**CONCLUSIONS**: LIIs represent a distinct injury pattern associated with increased morbidity and resource utilisation compared with IRFs. The Ch-Sh Classification demonstrated associations with outcomes and resource utilisation, suggesting that its use may improve risk stratification in LIIs. (J Trauma Acute Care Surg 2026;00:000-000 Copyright \u00a9 2026 Wolters Kluwer Health, LLC. All rights reserved.).\n\n**LEVEL OF EVIDENCE**: Prognostic/Epidemiological; Level III.",
+      "journal": "J Trauma Acute Care Surg",
+      "authors": [
+        "Hughes-Gooding JE",
+        "Alcock L",
+        "Clarke PTM",
+        "Hunt WJ",
+        "Edwards JG"
+      ],
+      "date": "2026 Jul 23",
+      "doi": "10.1016/j.injury.2026.113373",
+      "tier": "core",
+      "topics": [
+        "General Trauma",
+        "Systems/QI",
+        "Thoracic"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "major trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "rib fracture",
+          "strength": "weak",
+          "topic": "Thoracic"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42492082/"
+    },
+    {
+      "pmid": "42492081",
+      "title": "Declining helmet use and emerging electric vehicle injuries among pediatric patients presenting with micromobility accidents: A single-center analysis.",
+      "abstract": "**BACKGROUND**: Each year, hundreds of thousands of children are treated for injuries related to micromobility use. Helmet use is a proven preventive measure, yet use remains low. Recently, the rise in electric vehicles (EVs) has introduced new risks. The study aimed to characterize pediatric micromobility accidents from motorized and nonmotorized bicycle, scooter, and skateboard accidents, with a focus on helmet use and its impact on injury severity.\n\n**METHODS**: We conducted a retrospective study at a Level 1 adult and Level 2 pediatric trauma center, analyzing 285 cases of pediatric injury from motorized and nonmotorized bicycle, scooter, and skateboard accidents between January 1, 2020, and December 31, 2024. Data from the trauma registry and electronic health records were reviewed. Helmet use and its association with demographic factors, injury severity score, and clinical outcomes were analyzed.\n\n**RESULTS**: On average, there were 57 cases of micromobility injuries each year, with cases increasing from 45 to 77 between 2020 and 2024. Overall, helmet use was 23.5%. Helmet use declined from 31.1% in 2020 to 23.4% in 2024. Lower helmet use was significantly associated with lower socioeconomic status and non-White riders. From 2020 to 2024, EV-related injuries increased from 0% to 37.7%. Increased EV use was significantly associated with older age and male gender.\n\n**CONCLUSIONS**: Despite a helmet mandate in New Jersey, helmet use in our cohort was lower than national estimates, and the issue is getting worse in recent years, especially among non-White individuals from low-opportunity neighborhoods. While helmet use among patients presenting for trauma care did not correlate with lower injury severity, this likely reflects injuries prevented or lessened by helmets, reducing the need for trauma care. EVs constitute an increasingly large percentage of injury mechanisms in our cohort, especially among young males. Our work highlights the need for targeted interventions among the most vulnerable populations. (J Trauma Acute Care Surg. 2026;00: 000-000. Copyright \u00a9 2026 Wolters Kluwer Health, LLC. All rights reserved.).\n\n**LEVEL OF EVIDENCE**: Prognostic/Epidemiology; Level III.",
+      "journal": "J Trauma Acute Care Surg",
+      "authors": [
+        "Henrich M",
+        "Blatt M",
+        "Zielonka T",
+        "Monchar S",
+        "Rosskopf A",
+        "Tashiro J"
+      ],
+      "date": "2026 Jul 23",
+      "doi": "10.1097/TA.0000000000005140",
+      "tier": "core",
+      "topics": [
+        "General Trauma",
+        "Paediatric",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "injury severity",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "paediatric trauma",
+          "strength": "weak",
+          "topic": "Paediatric"
+        },
+        {
+          "keyword": "trauma registry",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42492081/"
+    },
     {
       "pmid": "42490058",
       "title": "Post-Transfusion Management of RhD-Negative Females of Childbearing Potential Who Receive RhD-Positive Low-Titer Group O Whole Blood and Red Blood Cells During Trauma Resuscitation: A Joint Position Statement and Resource Document of the American College of Surgeons Committee on Trauma (ACS-COT), Prehospital Blood Transfusion Coalition (PBTC), National Association of Emergency Medical Services Physicians (NAEMSP), Trauma Hemostasis and Oxygenation Research (THOR) Network, and Allo Hope Foundation (AHF).",
@@ -782,7 +1124,7 @@
         "Dechartres A"
       ],
       "date": "2026 Jul 22",
-      "doi": "10.1001/jama.2026.8977",
+      "doi": "10.1161/SVIN.125.002137",
       "tier": "filtered",
       "topics": [
         "TBI"
@@ -2862,15 +3204,15 @@
     },
     {
       "pmid": "42467413",
-      "title": "Differential association of prehospital physician presence with outcomes in out-of-hospital cardiac arrest: Secondary analysis of a nationwide registry.",
-      "abstract": "**OBJECTIVES**: Although prehospital physician involvement may affect outcomes after out-of-hospital cardiac arrest (OHCA), its effect could vary across patient subgroups. We aimed to evaluate whether physician presence is associated with improved survival in subgroups of patients with OHCA.\n\n**METHODS**: We used an observational study design and a retrospective secondary analysis of data from the nationwide Japanese Association for Acute Medicine OHCA registry (2014-2022). Adult patients (age \u226518 years) resuscitated after hospital arrival with complete prehospital physician data were included. The primary outcome was favorable neurological status at 30 days, defined as a cerebral performance category score of 1 or 2. Multivariate logistic regression was performed to assess the association between physician presence and outcomes, adjusting for clinically relevant confounders. Prespecified subgroup analyses were also performed according to age, witness status, bystander intervention, etiology, and extracorporeal cardiopulmonary resuscitation (ECPR) use.\n\n**RESULTS**: Among 83,239 patients, 9,562 had physician attendance. Physician presence was associated with favorable neurological outcomes at 30 days (adjusted odds ratio 1.49, 95% confidence interval 1.34-1.65). The association was consistent across most prespecified subgroups and was stronger among patients with unwitnessed arrest; however, no significant association was observed in patients who underwent ECPR.\n\n**CONCLUSIONS**: Prehospital physician presence was associated with improved neurological and survival outcomes after OHCA, with variation across patient subgroups; however, given the observational design and potential selection bias, these findings should be regarded as hypothesis-generating. Further prospective studies are warranted to define patient subgroups that benefit most from physician presence on scene and to optimize dispatch protocols accordingly.",
+      "title": "Differential Association of Prehospital Physician Presence with Outcomes in Out-of-Hospital Cardiac Arrest: Secondary Analysis of a Nationwide Registry.",
+      "abstract": "**OBJECTIVES**: Although prehospital physician involvement may affect outcomes after out-of-hospital cardiac arrest (OHCA), its effect could vary across patient subgroups. We aimed to evaluate whether physician presence is associated with improved survival in subgroups of patients with OHCA.\n\n**METHODS**: We used an observational study design and a retrospective secondary analysis of data from the nationwide Japanese Association for Acute Medicine OHCA registry (2014-2022). Adult patients (age \u226518\u2009years) resuscitated after hospital arrival with complete prehospital physician data were included. The primary outcome was favorable neurological status at 30\u2009days, defined as a cerebral performance category score of 1 or 2. Multivariate logistic regression was performed to assess the association between physician presence and outcomes, adjusting for clinically relevant confounders. Prespecified subgroup analyses were also performed according to age, witness status, bystander intervention, etiology, and extracorporeal cardiopulmonary resuscitation (ECPR) use.\n\n**RESULTS**: Among 83,239 patients, 9,562 had physician attendance. Physician presence was associated with favorable neurological outcomes at 30\u2009days (adjusted odds ratio 1.49, 95% confidence interval 1.34-1.65). The association was consistent across most prespecified subgroups and was stronger among patients with unwitnessed arrest; however, no significant association was observed in patients who underwent ECPR.\n\n**CONCLUSIONS**: Prehospital physician presence was associated with improved neurological and survival outcomes after OHCA, with variation across patient subgroups; however, given the observational design and potential selection bias, these findings should be regarded as hypothesis-generating. Further prospective studies are warranted to define patient subgroups that benefit most from physician presence on scene and to optimize dispatch protocols accordingly.",
       "journal": "Prehosp Emerg Care",
       "authors": [
         "Kawahara N",
         "Takayama W",
         "Morishita K"
       ],
-      "date": "2026 Jul 17",
+      "date": "2026 Jul 23",
       "doi": "10.1080/10903127.2026.2704730",
       "tier": "filtered",
       "topics": [
@@ -5127,7 +5469,7 @@
         "Vlaar APJ",
         "van den Bergh WM"
       ],
-      "date": "2026 Jul 07",
+      "date": "2026 Jul 25",
       "doi": "10.1016/S0140-6736(26)00851-2",
       "tier": "filtered",
       "topics": [
@@ -8445,418 +8787,6 @@
       ],
       "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/42349235/"
-    },
-    {
-      "pmid": "42344549",
-      "title": "Choices and support during serious illness in the surgical intensive care unit.",
-      "abstract": "",
-      "journal": "Trauma Surg Acute Care Open",
-      "authors": [
-        "Sanchez SE",
-        "Kang D"
-      ],
-      "date": "2026 Jan 1",
-      "doi": "10.1136/tsaco-2025-001848",
-      "tier": "core",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42344549/"
-    },
-    {
-      "pmid": "42344548",
-      "title": "Surgical site infections: patient education series-understanding trauma and emergency surgery conditions.",
-      "abstract": "",
-      "journal": "Trauma Surg Acute Care Open",
-      "authors": [
-        "McLaughlin C",
-        "Kaplan L"
-      ],
-      "date": "2026 Jan 1",
-      "doi": "10.1136/tsaco-2025-001897",
-      "tier": "core",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42344548/"
-    },
-    {
-      "pmid": "42344545",
-      "title": "Using Instagram for public education in trauma prevention: experience of an academic Trauma League.",
-      "abstract": "**BACKGROUND**: The use of social media offers the possibility of reaching a larger number of people worldwide, being accessible to different social classes, and being used for the dissemination of scientific knowledge, as well as for the prevention of traumatic injury education among lay people.\n\n**STUDY DESIGN**: We analyzed the Instagram of an academic Trauma League (Unicamp Trauma League) from July 2023 to July 2024 and observed the metrics that contributed to the dissemination of scientific knowledge. A Trauma League is an academic group composed of medical and nursing students focused on apprenticeship, extension, and research in trauma. We used data provided by the application's \"insights\" tool, which allows analysis of up to the last 90 days, to identify the reach of the posts, the publications with the highest engagement, and information about the followers.\n\n**RESULTS**: The official profile had 2361 followers and reached more than 10 000 accounts during the analyzed period. The post with the highest reach was a carousel featuring photos of the new league management, reaching 3240 accounts. Another featured publication was a post about a campaign to prevent motorcyclist-related trauma, which reached 940 accounts, 70 shares, and 80 likes. Two reels posted in partnership with another Instagram account (@trauma_unicamp), sharing activities related to the P.A.R.T.Y. (Prevent Alcohol and Risk-Related Trauma in Youth) program, obtained 4386 and 3163 views. 43.8% of the followers identified were residents of Campinas, the city where the project was developed, and the remaining followers were distributed across other Brazilian regions, and a smaller proportion was from abroad. 70.6% were between 18 years and 34 years old, and 64.6% were women.\n\n**CONCLUSION**: The findings suggest that posts addressing timely and relevant topics attract greater visibility and engagement. Among social media platforms, Instagram demonstrated effectiveness in disseminating educational content and promoting health awareness; however, further studies are needed to assess whether these results apply to other platforms.\n\n**LEVEL OF EVIDENCE**: Level IV/Prognostic and Epidemiological.",
-      "journal": "Trauma Surg Acute Care Open",
-      "authors": [
-        "Dos Santos HAF",
-        "Aguilar JMH",
-        "Dos Santos AVQ",
-        "Boaventura AP",
-        "Calderan TRA",
-        "Fraga GP"
-      ],
-      "date": "2026 Jan 1",
-      "doi": "10.1016/S2215-0366(19)30031-8",
-      "tier": "core",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic",
-          "strength": "weak",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42344545/"
-    },
-    {
-      "pmid": "42344544",
-      "title": "Ostomy essentials: patient education series - understanding trauma and emergency surgery conditions.",
-      "abstract": "",
-      "journal": "Trauma Surg Acute Care Open",
-      "authors": [
-        "Portelli Tremont JN",
-        "Smith CB",
-        "Gallaher JR"
-      ],
-      "date": "2026 Jan 1",
-      "doi": "10.1136/tsaco-2025-001880",
-      "tier": "core",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42344544/"
-    },
-    {
-      "pmid": "42344543",
-      "title": "Workplace violence in trauma centers is a serious problem: an AAST Disaster Committee survey on assaults on trauma teams.",
-      "abstract": "**OBJECTIVE**: Violence against healthcare workers (HCWs), especially in emergency departments and trauma centers (TCs), is a significant and growing problem. HCWs have the highest numbers and annual rates of workplace violence (WPV) compared with any other private industry sector. There is less information about the rates of violence and stalking against trauma providers in TCs. We hypothesized that a majority of trauma surgeons and team members have experienced deliberate assaults in their TCs. Our secondary hypothesis was that a majority of trauma providers consider WPV a significant issue in their workplace.\n\n**METHODS**: The American Association for Surgery of Trauma Disaster Committee invited 2,100 members to participate in an online survey in May and July 2024. Questions evaluated practice type, TC characteristics, training, experience with WPV, beliefs about WPV prevention, and potential WPV prevention strategies interventions.\n\n**RESULTS**: The survey response rate was 10.9%, yet the prevalence of WPV in TCs was reported to be high. 63.9% of respondents were aware of a deliberate assault on an HCW in their TC or system. 42.5% had been assaulted personally, and 7.5% suffered injury as a result of a deliberate assault. Respondents generally agreed on the need for WPV prevention measures such as prevention education, metal detectors, armed police, or security, and were aware of deaths and disabilities among HCWs after assaults. However, they did not personally see WPV as a significant issue in their TCs.\n\n**CONCLUSIONS**: There is a high prevalence of WPV with significant effects on the entire trauma workforce, including elevated levels of emotional distress, burnout, post-traumatic stress disorder, and long-term irreversible physical injuries and deaths. Respondents agreed on the need for preventive measures but did not view WPV as a major issue in their own TCs. Research into this discrepancy, as well as effective strategies to reduce WPV in TCs, would support advocacy for improved legislation and policies aimed at preventing WPV in healthcare.\n\n**LEVEL OF EVIDENCE**: V - Survey of expert opinion.",
-      "journal": "Trauma Surg Acute Care Open",
-      "authors": [
-        "Liepert AE",
-        "Fallat ME",
-        "Capella JM",
-        "Fox AD",
-        "Kuhls DA",
-        "Glinik G",
-        "Fischer PE",
-        "Gates JD",
-        "Toscano N",
-        "Kelley K",
-        "Chung SH",
-        "Doucet JJ",
-        "Disaster Committee A"
-      ],
-      "date": "2026 Jan 1",
-      "doi": "10.1016/j.jemermed.2014.12.069",
-      "tier": "core",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic",
-          "strength": "weak",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42344543/"
-    },
-    {
-      "pmid": "42344542",
-      "title": "Medical complications in patients with severe traumatic brain injury during inpatient rehabilitation: a retrospective study.",
-      "abstract": "**BACKGROUND**: Traumatic brain injury (TBI) necessitates comprehensive inpatient rehabilitation for optimal outcomes, addressing challenges across physical, cognitive, and psychosocial domains. This study fills gaps in Indian literature by exploring medical complications during rehabilitation and correlating them with functional outcomes. Emphasizing the preventable nature of complications, our research underscores the importance of early diagnosis and interventions, contributing valuable insights to enhance TBI patient care in inpatient rehabilitation settings.\n\n**AIM**: To analyze medical complications during inpatient rehabilitation of patients with severe TBI during 2017-2019, exploring associations with patient demographics and injury characteristics.\n\n**MATERIALS AND METHODS**: This study included 100 individuals over 18 years, admitted following severe TBI (Glasgow coma scale (GCS) 3-8) for rehabilitation to the Department of Physical Medicine and Rehabilitation from 1 August 2017 to 31 August 2019. A retrospective analysis of their medical records, employing a structured questionnaire, was conducted.\n\n**RESULTS**: Among 100 TBI patients, 81% were male, primarily aged 40-60 years (35%). The mean (SD) age was 35 (15.81) years, and the mean (SD) time since injury was 15.84 (26.13) months. Road traffic accidents accounted for 81% of injuries, with 39% admitted within 6 months. 87% of them had complications, predominantly neurobehavioral issues (35%) and heterotopic ossification (20%).\n\n**CONCLUSION**: Medical complications were prevalent in 87% of patients admitted for rehabilitation, showing associations with age, duration since injury, and level of consciousness. This study emphasizes the importance of regular medical input for individuals with TBI admitted for inpatient rehabilitation and the need for regular follow-up.\n\n**LEVEL OF EVIDENCE**: Level III, retrospective.",
-      "journal": "Trauma Surg Acute Care Open",
-      "authors": [
-        "Zacharia SS",
-        "Thomas R"
-      ],
-      "date": "2026 Jan 1",
-      "doi": "10.1089/neu.2006.0028",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "TBI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "traumatic",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic brain injury",
-          "strength": "strong",
-          "topic": "TBI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42344542/"
-    },
-    {
-      "pmid": "42344541",
-      "title": "'Not the basic ABC of how you control a blood vessel': perceptions of UK Defence Medical Services personnel toward live tissue training for the surgical management of trauma.",
-      "abstract": "**INTRODUCTION**: 'Live tissue training' (LTT) is simulation using live anaesthetized animals as human patient substitutes. The educational benefits specific to LTT are unclear. This study aimed to explore the perceptions and attitudes of UK Defence Medical Services (DMS) personnel toward the use of LTT in the surgical management of trauma.\n\n**METHODS**: Five virtual focus groups were conducted, with 20 regular and reservist DMS personnel representing surgical specialties, anesthesia, emergency medicine and primary care. Participants discussed their experiences of LTT and the impact on their professional development. Systematic text condensation was used to thematically analyze transcribed data.\n\n**RESULTS**: Six themes were constructed, titled: (1) \n\n**CONCLUSION**: DMS personnel report positively about LTT, consider it to be realistic (higher fidelity) simulation training, and have educational and moral rationales to justify its use. The educational attributes of LTT appear to be context-specific and dependent on DMS learner role. This knowledge should influence the design and delivery of military trauma simulation involving live animals, allowing for replacement, reduction and refinement in their use for training different cohorts of learners.\n\n**LEVEL OF EVIDENCE**: 6 - qualitative research.",
-      "journal": "Trauma Surg Acute Care Open",
-      "authors": [
-        "Swain CS",
-        "Harjani MG",
-        "Helgesson G",
-        "Rickard RF",
-        "Karlgren K"
-      ],
-      "date": "2026 Jan 1",
-      "doi": "10.1097/SLA.0000000000003635",
-      "tier": "core",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42344541/"
-    },
-    {
-      "pmid": "42344540",
-      "title": "Role of thromboelastography in risk stratifying patients with traumatic brain injury on prehospital antiplatelet agents.",
-      "abstract": "**INTRODUCTION**: The Brain Injury Guidelines (BIG) offer valuable criteria for identifying trauma patients requiring observation without immediate intervention. One variable evaluated in BIG is prehospital aspirin (ASA) or clopidogrel use. These patients are classified as BIG3 requiring repeat head CT and neurosurgery consultation. This study aims to investigate the rate of hemorrhage progression and neurosurgery intervention (NSI) in patients fulfilling all BIG1 criteria except prehospital ASA or clopidogrel use and how thromboelastography (TEG) with platelet mapping (PM) could be used to identify patients whose platelets remain uninhibited by prehospital antiplatelet therapy, suggesting safe BIG 1 management.\n\n**METHODS**: Retrospective review of data at a Level I trauma center between 2017 and 2022 focused on patients with traumatic brain injury (TBI) who reported prehospital ASA or clopidogrel use. Patients were categorized BIG 1, 2, or 3 based on initial CT, Glasgow Coma Scale admission, intoxication, skull fracture type, and presence/size of intracranial hemorrhages. Impact of antiplatelet agents on platelet function was analyzed using TEG with PM.\n\n**RESULTS**: We identified 236 blunt TBIs on prehospital ASA or clopidogrel. BIG scores, excluding antiplatelet medications, resulted in BIG1 (24.6%), BIG2 (19.5%), and BIG3 (55.9%) classifications. 32% of patients on prehospital clopidogrel showed ADP inhibition greater than 60%, whereas 61% of those on prehospital ASA had arachidonic acid inhibition greater than 60%. Of the 58 cases fulfilling BIG1 criteria in all parameters except prehospital ASA or clopidogrel use, all but one patient demonstrated a stable repeat head CT, and no NSI was required.\n\n**DISCUSSION**: Prehospital ASA or clopidogrel use did not impact hemorrhage progression or need for NSI in patients with blunt TBI otherwise meeting BIG1 criteria. TEG with PM provided valuable insights into platelet inhibition. Findings indicate the benefits of tailoring management strategies for trauma patients on antiplatelet therapy to optimize resource allocation and improve care.\n\n**LEVEL OF EVIDENCE**: IV therapeutic/care management.",
-      "journal": "Trauma Surg Acute Care Open",
-      "authors": [
-        "Okonya T",
-        "Gulati S",
-        "Reeson EA",
-        "Mailolo JK",
-        "Rahaman CA",
-        "Warrington NV",
-        "Matthees NG",
-        "Low TM",
-        "Kupanoff KM",
-        "Weinberg JA",
-        "Bogert JN"
-      ],
-      "date": "2026 Jan 1",
-      "doi": "10.3969/j.issn.1671-5411.2013.01.005",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "Haemorrhage",
-        "Prehospital",
-        "Systems/QI",
-        "TBI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "trauma centre",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "thromboelastography",
-          "strength": "strong",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "traumatic brain injury",
-          "strength": "strong",
-          "topic": "TBI"
-        },
-        {
-          "keyword": "prehospital",
-          "strength": "strong",
-          "topic": "Prehospital"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42344540/"
-    },
-    {
-      "pmid": "42344539",
-      "title": "Extracorporeal membrane oxygenation (ECMO): patient education series - understanding trauma and emergency surgery conditions.",
-      "abstract": "",
-      "journal": "Trauma Surg Acute Care Open",
-      "authors": [
-        "Stolarski AE",
-        "Scantling DR"
-      ],
-      "date": "2026 Jan 1",
-      "doi": "10.1136/tsaco-2025-001886",
-      "tier": "core",
-      "topics": [
-        "Cardiac Arrest",
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "ECMO",
-          "strength": "strong",
-          "topic": "Cardiac Arrest"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42344539/"
-    },
-    {
-      "pmid": "42344538",
-      "title": "Predictors of survival after penetrating cardiac trauma: injury patterns and presentation factors.",
-      "abstract": "**BACKGROUND**: Penetrating cardiac trauma is associated with high mortality. Factors influencing survival remain incompletely characterized. This study aimed to identify injury patterns and presentation characteristics associated with survival after penetrating cardiac trauma at an urban, level 1 trauma center.\n\n**METHODS**: We conducted a retrospective cohort study of patients with penetrating cardiac trauma identified from the hospital trauma registry between 2017 and 2025. Patients with documented penetrating cardiac injury were included. Demographic, physiological, and injury characteristics were compared between survivors and non-survivors using the Mann-Whitney U test for continuous variables and Pearson's \u03c7\n\n**RESULTS**: Among 18\u2009041 trauma activations, 57 patients with penetrating cardiac injury were identified. Overall survival was 25%. Gunshot wound (GSW) was the most common mechanism of injury (67%) and was associated with a higher risk of mortality compared with stab wound injuries (SWIs) (OR 3.70, 95%\u2009CI 1.10 to 12.1). Multichamber cardiac injury (OR 10.9, 95%\u2009CI 1.26 to 1439), thoracic vascular injury (OR 12.3, 95%\u2009CI 1.43 to 1615), and concurrent abdominal injury (OR 4.40, 95%\u2009CI 1.12 to 24.7) were associated with death. Conversely, isolated cardiac injury (OR 0.21, 95%\u2009CI 0.06 to 0.75), spontaneous respirations (OR 0.06, 95%\u2009CI 0.01 to 0.24), and signs of life on presentation (OR 0.01, 95%\u2009CI 0 to 0.10) were predicted survival.\n\n**CONCLUSION**: Penetrating cardiac trauma carries a high mortality rate. Survival was associated with SWI, preserved physiologic status on presentation, and injuries isolated to the heart, whereas GSW and concurrent thoracic vascular or abdominal injuries were associated with death. Recognition of these factors may assist clinicians in early triage and resuscitative decision-making.",
-      "journal": "Trauma Surg Acute Care Open",
-      "authors": [
-        "Mendiola Pla M",
-        "Anderson J",
-        "Mundenmaney E",
-        "Miller J",
-        "Gui H",
-        "Valdez C",
-        "Chang G"
-      ],
-      "date": "2026 Jan 1",
-      "doi": "10.1097/TA.0000000000000648",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "Penetrating",
-        "Systems/QI",
-        "Vascular"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "trauma centre",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "gunshot wound",
-          "strength": "weak",
-          "topic": "Penetrating"
-        },
-        {
-          "keyword": "stab wound",
-          "strength": "weak",
-          "topic": "Penetrating"
-        },
-        {
-          "keyword": "vascular injury",
-          "strength": "weak",
-          "topic": "Vascular"
-        },
-        {
-          "keyword": "trauma registry",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42344538/"
-    },
-    {
-      "pmid": "42341797",
-      "title": "Efficacy and safety of tirofiban after successful endovascular reperfusion in acute ischaemic stroke (ATTRACTION) in China: a multicentre, double-blind, randomised controlled trial.",
-      "abstract": "**BACKGROUND**: Successful reperfusion after endovascular thrombectomy does not consistently result in functional independence in acute ischaemic stroke. We aimed to assess the efficacy and safety of tirofiban, a glycoprotein IIb/IIIa receptor antagonist, given to patients with acute ischaemic stroke who had had a successful endovascular reperfusion.\n\n**METHODS**: This multicentre, double-blind, randomised controlled trial at 82 hospitals in China included patients with acute ischaemic stroke due to anterior-circulation large-vessel occlusion who had had a successful reperfusion after thrombectomy. Eligible patients were randomly assigned (1:1) to receive either tirofiban (intra-arterial bolus 5 \u03bcg/kg followed by intravenous infusion 0\u00b71 \u03bcg/kg per min for 24 h) or placebo (administered with the same volume and according to the same bolus and infusion procedures as tirofiban), using computer-generated randomisation with fixed blocks stratified by study site. Patients, treating clinicians, investigators, and outcome assessors were masked to group assignments. The primary efficacy outcome was functional independence at 90 days (with a modified Rankin Scale score of 0-2), assessed in all randomly assigned participants (intention-to-treat population). Safety outcomes were symptomatic intracranial haemorrhage within 48 h, any evidence of intracranial haemorrhage on imaging within 48 h, and death within 90 days, and they were assessed in patients having received the study treatment with at least one safety evaluation. The Adjunct Tirofiban Treatment after Successful Endovascular Thrombectomy Recanalisation in Acute Anterior Circulation Ischaemic Stroke (ATTRACTION) trial is registered with ClinicalTrials.gov, NCT06265051 and is now completed.\n\n**FINDINGS**: Of 1686 patients assessed, 1380 were randomly assigned to either the tirofiban group (689 patients) or the placebo group (691 patients) between April 9, 2024, and Sept 29, 2025. Median age was 71 years (IQR 62-77), 591 (43%) patients were female and 789 (57%) were male, and 1367 (99%)\u2008were of Han Chinese ethnicity. No patients were lost to follow-up at 90 days. Functional independence at 90 days was recorded in 340 (49%) of 689 patients in the tirofiban group and 299 (43%) of 691 patients in the placebo group (unadjusted absolute risk difference 6\u00b71 percentage points, 95% CI 0\u00b78-11\u00b73, p=0\u00b7023; adjusted risk ratio 1\u00b715, 95% CI 1\u00b703-1\u00b727, p=0\u00b70092). There was no significant difference between study groups in the proportion of patients with symptomatic intracranial haemorrhage within 48 h (82 [12%] of 687 patients in the tirofiban group vs 65 [9%] of 691 patients in the placebo group), the proportion with any intracranial haemorrhage within 48 h (235 [34%] patients vs 219 [32%] patients), and 90-day mortality (126 [18%] patients vs 131 [19%] patients).\n\n**INTERPRETATION**: In patients with acute ischaemic stroke due to anterior-circulation large-vessel occlusion achieving successful reperfusion, adjunctive tirofiban increased the likelihood of functional independence compared with placebo. Although symptomatic intracranial haemorrhage occurred numerically more often with tirofiban, the between-group difference was not significant, and this finding warrants caution when weighing potential benefit against bleeding risk.\n\n**FUNDING**: Tongji Hospital Clinical Research Fund.",
-      "journal": "Lancet",
-      "authors": [
-        "Huang H",
-        "Xu S",
-        "Qin T",
-        "Wang M",
-        "Li G",
-        "Liu C",
-        "Deng G",
-        "Wang Y",
-        "Ao D",
-        "Xie Y",
-        "Zhang Y",
-        "Kong Q",
-        "Lan L",
-        "Yu Y",
-        "Huang S",
-        "Yu Z",
-        "Yi T",
-        "Chen W",
-        "Zhao W",
-        "Su J",
-        "Zhou P",
-        "Li F",
-        "Mei B",
-        "Jing P",
-        "Zhang J",
-        "Du J",
-        "Goyal M",
-        "Nguyen TN",
-        "Wang D",
-        "Saver JL",
-        "Tang Z",
-        "Wang W",
-        "Luo X"
-      ],
-      "date": "2026 Jul 18",
-      "doi": "10.1016/S0140-6736(26)00983-9",
-      "tier": "filtered",
-      "topics": [
-        "TBI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "intracranial haemorrhage",
-          "strength": "weak",
-          "topic": "TBI"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42341797/"
     }
   ]
 }
