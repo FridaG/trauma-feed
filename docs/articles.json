@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-24T20:55:28.941427Z",
-  "total_articles": 230,
+  "generated": "2026-07-25T20:40:50.259376Z",
+  "total_articles": 233,
   "all_topics": [
     "Abdominal",
     "Burns",
@@ -378,6 +378,245 @@
     "Cochrane Database Syst Rev": "filtered"
   },
   "articles": [
+    {
+      "pmid": "42498962",
+      "title": "Evaluating performance and potential clinical benefit of the Swedish On Scene Injury Severity Prediction (OSISP) model for prehospital field triage on Norwegian trauma data.",
+      "abstract": "**BACKGROUND**: Rule-based field triage protocols used by Emergency Medicine Service (EMS) personnel for assessment and prioritization of trauma patients achieve suboptimal field triage performance. An On Scene Injury Severity Prediction (OSISP) model was previously developed on Swedish trauma data with indications to improve field triage performance. This study aims to apply OSISP on external Norwegian data to assess its performance and clinical impact on unseen data.\n\n**METHODS**: Adult trauma incidents involving EMS resources at the scene of incident were included. An eXtreme Gradient Boosting OSISP model was developed on Swedish trauma registry (SweTrau) data for 2013-2020 and trained to predict severely injured patients defined as new injury severity score (NISS)\u2009>\u200915. OSISP was evaluated on Norwegian trauma registry (NTR) data for 2017-2022. The model performance on NTR data was evaluated using overall performance measures for discrimination and calibration (receiver operating characteristic curve, precision-recall curve, area under these curves, Brier score, calibration curve, calibration slope, calibration in the large). OSISP's clinical impact was assessed by evaluating its under- and overtriage rates and comparing to current clinical outcome and mortality.\n\n**RESULTS**: The raw data from SweTrau and NTR had 75,602 and 76,529 registrations, with 47,357 and 29,709 remaining after applying eligibility criteria. In the included data, there were 16.9% and 25.2% patients with NISS\u2009>\u200915 in SweTrau and NTR, respectively. The OSISP predictors represented age, sex, details of the patient's condition, incident and injury details, vital signs, and administrative details. OSISP applied on NTR data yielded an overall performance of AUC\n\n**CONCLUSIONS**: OSISP's overall performance was successfully validated and a potential capability to improve triage and decrease mortality was observed, also for elderly and patients from the northern region, groups often missed with current triage tools.\n\n**REGISTRATION**: Not applicable.\n\n**TRIAL REGISTRATION**: Not applicable.",
+      "journal": "Scand J Trauma Resusc Emerg Med",
+      "authors": [
+        "Bakidou A",
+        "Caragounis EC",
+        "Andersson Hagiwara M",
+        "R\u00f8ise O",
+        "Jonsson A",
+        "Sj\u00f6qvist BA",
+        "Candefjord S"
+      ],
+      "date": "2026 Jul 24",
+      "doi": "10.1186/s13049-020-0703-6",
+      "tier": "core",
+      "topics": [
+        "General Trauma",
+        "Prehospital",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "injury severity",
+          "strength": "strong",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "prehospital",
+          "strength": "strong",
+          "topic": "Prehospital"
+        },
+        {
+          "keyword": "trauma registry",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42498962/"
+    },
+    {
+      "pmid": "42498501",
+      "title": "Alcohol-related minor injuries in an emergency room setting (ARMIERo): a case-crossover study on alcohol consumption and alcohol attributable fraction of minor injuries.",
+      "abstract": "**BACKGROUND**: Injuries represent a major public health burden and are frequently associated with acute alcohol consumption. However, minor injuries are often excluded from previous research, despite accounting for a substantial proportion of the overall injury burden and emergency department (ED) attendances. We aimed to investigate the association between acute alcohol consumption and minor injuries in people presenting to an ED and to identify the alcohol-attributable fraction (AAF) of minor injuries.\n\n**METHODS**: We conducted a prospective case-crossover study in an academic tertiary and level 1 trauma centre in Switzerland over a 4-month period (September to December 2023). Adults aged \u226516 years presenting to the ED with minor injuries were eligible. A total of 526 individuals were screened. The primary objective was the analysis of the association between acute alcohol consumption (within 6\u2009hours before the event) and minor injury risk. The AAF of minor injuries was calculated. Subgroup analysis explored injury risk in relation to drinking patterns, gender and age.\n\n**RESULTS**: Among 353 included participants, 18.1% reported acute alcohol consumption within 6\u2009hours of injury. Acute alcohol consumption was associated with increased odds of minor injury (OR 2.65, 95% CI 1.67 to 4.18). The AAF for minor injuries was 23%.Exploratory subgroup analysis revealed an increased injury risk among participants reporting chronic binge drinking (OR 3.81, 95% CI 1.82 to 7.99) and women (OR 5.52, 95% CI 2.02 to 15.08).\n\n**CONCLUSIONS**: Acute alcohol consumption significantly increases the risk of minor injuries, with nearly one quarter of cases potentially attributable to acute alcohol consumption. Given the high volume of minor injuries in EDs, systematic screening and brief intervention strategies may represent opportunities to reduce the preventable injury burden.",
+      "journal": "Emerg Med J",
+      "authors": [
+        "Paris T",
+        "Carron PN",
+        "Gmel G",
+        "Tr\u00e4chsel B",
+        "Beysard N"
+      ],
+      "date": "2026 Jul 24",
+      "doi": "10.1136/emermed-2025-215799",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42498501/"
+    },
+    {
+      "pmid": "42497639",
+      "title": "External Iliac artery injury in severe pelvic ring trauma: Limb salvage or early hemipelvectomy? A case series.",
+      "abstract": "**PURPOSE**: External iliac artery (EIA) injury associated with pelvic ring injury (PRI) is rare but represents a particularly devastating pattern of pelvic trauma, combining life-threatening hemorrhage and critical limb ischemia. Although vascular reconstruction is generally recommended, limb salvage may be unrealistic when severe soft-tissue destruction and contamination coexist. Guidance on abandoning salvage attempts and proceeding to early amputation or hemipelvectomy remains limited.\n\n**METHODS**: We reviewed our institutional experience with patients sustaining combined PRI and EIA injury between 2013 and 2026. The injury characteristics, treatment strategies, and outcomes were analyzed. The severity of vascular injury, limb ischemia status, and pelvic fracture patterns were classified using established systems. Management decisions were examined within a staged surgical strategy focusing on damage control, stabilization, and reconstruction.\n\n**RESULTS**: Five patients with high-energy trauma were identified. All patients had severe EIA injuries associated with major soft-tissue damage. Revascularization was attempted in two patients, but limb salvage was unsuccessful in all 5 cases. Despite repeated debridement, four patients ultimately required hemipelvectomy following progressive necrosis and infection. All patients survived after prolonged multidisciplinary treatment.\n\n**CONCLUSION**: Combined EIA injury and PRI represents an extreme form of pelvic trauma in which vascular patency alone does not ensure limb survival. When severe soft-tissue destruction is present, prolonged salvage attempts may only delay definitive management. Early recognition of a non-salvageable limb and consideration of timely hemipelvectomy may be important in selected patients.",
+      "journal": "Injury",
+      "authors": [
+        "Yang YJ",
+        "Lai CY",
+        "Tsai PJ",
+        "Chen IJ",
+        "Liu CH",
+        "Yu YH"
+      ],
+      "date": "2026 Jul 22",
+      "doi": "10.1016/j.injury.2026.113532",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Haemorrhage",
+        "Pelvic",
+        "Vascular"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "pelvic fracture",
+          "strength": "weak",
+          "topic": "Pelvic"
+        },
+        {
+          "keyword": "pelvic ring",
+          "strength": "strong",
+          "topic": "Pelvic"
+        },
+        {
+          "keyword": "damage control",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "vascular injury",
+          "strength": "weak",
+          "topic": "Vascular"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42497639/"
+    },
+    {
+      "pmid": "42497459",
+      "title": "Maternal and fetal treatment outcomes of pregnancy-related aneurysmal subarachnoid hemorrhage: a nationwide study.",
+      "abstract": "**OBJECTIVE**: There is a paucity of data concerning the outcomes of aneurysmal subarachnoid hemorrhage (aSAH) in pregnant women. In this study, the authors investigated the clinical progression, treatment, and outcomes in women and their unborn children after aSAH during pregnancy.\n\n**METHODS**: This nationwide retrospective population-based cohort study in Finland spans the years 1987-2016. The authors identified pregnant women diagnosed with aSAH through the Care Register for Health Care and Medical Birth Register (1,773,728 deliveries) and sudden prehospital deaths caused by aSAH from the Cause of Death Register. The authors reviewed medical records to delineate the clinical trajectories of each woman with aSAH.\n\n**RESULTS**: Twenty-eight pregnant women were hospitalized with aSAH between 1987 and 2016. In addition, 3 pregnant women died suddenly of aSAH at home or in the emergency department before hospitalization. Eight (29%) of the 28 hospitalized pregnant women were active smokers. The maximum mean aneurysm diameter was 7.1 (SD 4.2) mm. The aneurysm was surgically treated in 21 (75%) of the 28 women, endovascularly in 4 (14%), and by both methods in 3 (11%) patients. Most procedures (n = 23, 82%) were performed before childbirth. The most common method of delivery was emergency cesarean section (CS) (n = 13, 46%) followed by elective CS (n = 8, 29%). All infants of the hospitalized women survived. Vasospasm occurred in 5 (18%) and delayed cerebral ischemia in 3 (11%) women. There were no maternal or fetal deaths during hospitalization. The median modified Rankin Scale score at 3 months was 1 (IQR 0-2) for the hospitalized women. Two (7%) women received ventriculoperitoneal shunts for post-aSAH hydrocephalus.\n\n**CONCLUSIONS**: Aneurysmal SAH during pregnancy is associated with exceptionally low maternal and neonatal mortality. All maternal and fetal fatalities were due to sudden prehospital deaths. Pregnancy-related immunological modulation and its potential benefits on aSAH outcomes represent a compelling topic for future research.",
+      "journal": "J Neurosurg",
+      "authors": [
+        "Pohjola A",
+        "Korhonen A",
+        "Verho L",
+        "Asikainen A",
+        "Aarnio K",
+        "Rantanen K",
+        "Gissler M",
+        "Laivuori H",
+        "Ij\u00e4s P",
+        "Korja M"
+      ],
+      "date": "2026 Jul 24",
+      "doi": "10.3171/2026.2.JNS252575",
+      "tier": "filtered",
+      "topics": [
+        "Prehospital"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "prehospital",
+          "strength": "weak",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42497459/"
+    },
+    {
+      "pmid": "42497355",
+      "title": "Aspirin versus enoxaparin for postdischarge venous thromboembolism prophylaxis following orthopedic trauma surgery: An ongoing debate.",
+      "abstract": "**BACKGROUND**: Accepted venous thromboembolism (VTE) prophylaxis after orthopedic trauma includes anticoagulants and aspirin, with selection varying by patient and injury factors. This study evaluates a single institution's outcomes after transitioning from low-molecular-weight heparin to aspirin for postdischarge prophylaxis.\n\n**METHODS**: This retrospective cohort study of adult patients (\u226518\u00a0years) with lower extremity or pelvic orthopedic injuries who underwent operative treatment between 2020 and 2024 was identified from the trauma registry of a Level-1 trauma center. Patients were included if they underwent operative fixation during the index hospitalization. Exclusion criteria included a documented VTE or receipt of therapeutic anticoagulation/antiplatelet therapy within six months before admission. The primary outcome was 90-day postdischarge VTE, defined as deep vein thrombosis or pulmonary embolism. Secondary outcomes included 90-day readmission and mortality. Inverse probability of treatment weighting and doubly robust logistic regression were used to compare discharge chemoprophylaxis regimens (aspirin vs. enoxaparin), controlling for age, sex, body mass index, injury severity score, length of stay, comorbidities, and fracture location.\n\n**RESULTS**: A total of 982 patients met inclusion criteria, including 456 (46.4%) patients discharged on aspirin and 526 (53.6%) patients discharged on enoxaparin. Among orthopedic trauma patients, discharge aspirin was associated with significantly higher odds of 90-day postdischarge VTE compared with low-molecular-weight heparin (OR, 4.704; 95% CI, 1.332-16.612; p = 0.016). No significant differences were observed between discharge chemoprophylaxis groups with respect to 90-day readmission or mortality.\n\n**CONCLUSIONS**: Low-molecular-weight heparin was associated with lower odds of postdischarge VTE compared with aspirin in this retrospective cohort of orthopedic trauma patients. Further investigation is needed to better define the optimal postdischarge prophylaxis strategy based on individual patient comorbidities and injury patterns. (J Trauma Acute Care Surg 2026;00:000-000. Copyright \u00a9 2026 Wolters Kluwer Health, LLC. All rights reserved.).\n\n**LEVEL OF EVIDENCE**: Retrospective, Therapeutic/Care Management; Level 3.",
+      "journal": "J Trauma Acute Care Surg",
+      "authors": [
+        "Gangavaram A",
+        "Mahatme RJ",
+        "Gerak SK",
+        "Rost K",
+        "Moore SA",
+        "Breuer L",
+        "Retzloff Q",
+        "McMillan P",
+        "Sagi HC"
+      ],
+      "date": "2026 Jul 24",
+      "doi": "10.1097/TA.0000000000005124",
+      "tier": "core",
+      "topics": [
+        "General Trauma",
+        "Orthopaedic",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "injury severity",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "orthopaedic trauma",
+          "strength": "strong",
+          "topic": "Orthopaedic"
+        },
+        {
+          "keyword": "trauma registry",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42497355/"
+    },
+    {
+      "pmid": "42497352",
+      "title": "Response to comments on \"Contemporary management of large bowel obstruction: What you need to know\".",
+      "abstract": "",
+      "journal": "J Trauma Acute Care Surg",
+      "authors": [
+        "Mathew PJ",
+        "Schuster KM"
+      ],
+      "date": "2026 Jul 24",
+      "doi": "10.1097/TA.0000000000005151",
+      "tier": "core",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42497352/"
+    },
     {
       "pmid": "42496906",
       "title": "A global contrast shortage: a descriptive study exploring IV contrast utilization and outcomes in trauma patients at a level I trauma center.",
@@ -904,7 +1143,7 @@
         "Lacroix J"
       ],
       "date": "2026 Jul 23",
-      "doi": "10.1002/14651858.CD015898.pub2",
+      "doi": "10.1136/archdischild-2011-301265",
       "tier": "filtered",
       "topics": [
         "Haemorrhage"
@@ -8644,149 +8883,6 @@
       ],
       "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/42360868/"
-    },
-    {
-      "pmid": "42351245",
-      "title": "Rapid sequence versus early surgical stabilization of severe chest wall injuries: a propensity score-matched analysis from a multicenter trauma registry.",
-      "abstract": "**BACKGROUND**: The optimal timing for post traumatic Chest Wall Reconstruction (CWR) in severely injured / polytraumatized patients with severe chest wall instability remains a subject of debate. While early surgery within 72\u00a0h is associated with improved outcomes, the efficacy and safety of an even earlier \"rapid sequence\" approach on the day of admission are unclear. This study aims to compare outcomes of severely injured patients undergoing rapid sequence surgery (Day 0) versus early surgery (Days 1-3).\n\n**METHODS**: A retrospective analysis was conducted using data from the TraumaRegister DGU\n\n**RESULTS**: From an initial cohort of 34,659 patients with severe chest wall injuries, 2,498 operatively treated patients with a known date of surgery were analyzed. 1,168 (46.8%) underwent rapid sequence surgery (Day 0) and 567 (22.7%) underwent early surgery (Days 1-3). Before matching, the Rapid Sequence group had a higher ISS (27.7 vs. 26.0), a higher incidence of severe head trauma (14.4% vs. 9.2%), and significantly higher mortality (8.4% vs. 4.1%). PSM yielded 500 matched pairs. Despite matching, the Rapid Sequence group retained a higher baseline injury burden (mean ISS: 28.1 vs. 26.2; mortality prognosis (Revised Injury Severity Classification, Version III (RISC III) Score): 16.2% vs. 10.7%). The primary outcome showed a nearly threefold higher mortality rate in the Rapid Sequence group (10.6% vs. 3.6%; p\u2009<\u2009.001). Rates of sepsis (14.6% vs. 12.0%) and MOF (33.6% vs. 28.3%) were also higher in the rapid group, though not statistically significant.\n\n**CONCLUSION**: In this large registry analysis, rapid sequence CWR on the day of admission identified a distinct subgroup of patients with more severe concomitant injuries and higher baseline risk. The higher mortality in this group likely reflects residual confounding by indication and survivorship bias, rather than a detrimental effect of rapid surgery per se. This suggests that the decision for immediate surgery is likely driven by life-threatening concomitant injuries not fully captured in the matching model, identifying a patient population with an intrinsically higher risk of death. Our findings therefore do not justify a blanket Day-0-for-all strategy, but are consistent with the broader literature suggesting that CWR performed within 72\u00a0h is beneficial when timing is individualized to overall injury severity and physiological stability.",
-      "journal": "Crit Care",
-      "authors": [
-        "Spering C",
-        "Lefering R",
-        "Lehmann W",
-        "Malik HA",
-        "Schulz-Drost S"
-      ],
-      "date": "2026 Jun 25",
-      "doi": "10.1097/TA.0000000000002917",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "injury severity",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "trauma registry",
-          "strength": "strong",
-          "topic": "Systems/QI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42351245/"
-    },
-    {
-      "pmid": "42351216",
-      "title": "Maintenance of prehospital anaesthesia using an intermittent bolus regime in blunt trauma patients with a high GCS and hemodynamic reserve: a retrospective cohort study.",
-      "abstract": "**BACKGROUND**: In-hospital intravenous maintenance of anaesthesia is commonly achieved by continuous infusion, while prehospital maintenance of anaesthesia after rapid sequence induction (RSI) is currently commonly provided by intermittent boluses. However, the practice effect of this approach has never been fully established.\n\n**METHODS**: In a single centre retrospective observational study at a helicopter emergency medical service (HEMS) in the UK, post-RSI anaesthesia maintenance by intermittent boluses was studied between 1 January 2019 and 28 February 2023. Time- and weight-adjusted average maintenance drug doses (as a surrogate for efficacy of sedation) were calculated for a consecutive sample of 101 blunt trauma patients receiving a prehospital anaesthetic with a Glasgow Coma Scale (GCS)\u2009\u2265\u20099 and without significant cardiovascular instability. Associations between (cumulative) maintenance drug doses and induction doses, patient characteristics, physiological parameters, and anaesthesia duration were evaluated using Pearson correlation coefficients and 95% confidence intervals.\n\n**RESULTS**: Median time of prehospital anaesthetic duration was 56\u00a0min (range 16-116\u00a0min). Maintenance dosing of fentanyl clustered around a median [IQR] dose of 0.64 [0-1.41] mcg/kg/h (minimum non-zero: 0.26mcg/kg/h, maximum: 5.56 mcg/kg/h). For midazolam, this was 0.028 [0-0.041] mg/kg/h (minimum non-zero: 0.005\u00a0mg/kg/h, maximum 0.157\u00a0mg/kg/h), and for ketamine 0 [0-0.23] mg/kg/h (minimum non-zero\u00a00.05\u00a0mg/kg/h, maximum: 1.62\u00a0mg/kg/h). Eight patients (duration of anaesthesia between 48 and 74\u00a0min), received no maintenance sedation or analgesic agents. No clinically relevant associations were identified between maintenance dosing of any agent and induction dosing, patient demographics or pre-induction physiological parameters.\n\n**CONCLUSION**: This retrospective analysis of a homogeneous cohort of patients with haemodynamic reserve and a GCS\u2009\u2265\u20099 undergoing prehospital emergency anaesthesia showed that anaesthesia maintenance by an intermittent bolus-only regimen comes with notable variability in cumulative doses administered and may result in a potential risk of sub-therapeutic plasma levels.",
-      "journal": "Scand J Trauma Resusc Emerg Med",
-      "authors": [
-        "Sheridan B",
-        "Griggs J",
-        "Mondim P",
-        "Ter Avest E",
-        "Lyon R"
-      ],
-      "date": "2026 Jun 25",
-      "doi": "10.1186/s13049-026-01654-w",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "Prehospital"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "blunt trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "helicopter emergency",
-          "strength": "weak",
-          "topic": "Prehospital"
-        },
-        {
-          "keyword": "HEMS",
-          "strength": "weak",
-          "topic": "Prehospital"
-        },
-        {
-          "keyword": "prehospital",
-          "strength": "strong",
-          "topic": "Prehospital"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42351216/"
-    },
-    {
-      "pmid": "42349235",
-      "title": "A multi-center retrospective cohort study of SUGAmmadex for neuromuscular blockade reversal in the emergency department: SUGARED study - on behalf of EMPHARM-NET Investigators.",
-      "abstract": "**STUDY OBJECTIVE**: The objective of this study was to describe the proportion of emergency department (ED) patients with traumatic brain injury (TBI) or spontaneous intracranial hemorrhage (sICH) who demonstrated a positive neurologic response to sugammadex-mediated reversal of rocuronium, and to compare outcomes between responders and non-responders.\n\n**METHODS**: This was a multicenter, retrospective, observational cohort study of 11 US Emergency Departments. Adult patients, aged \u226518\u00a0years, who were intubated using rocuronium and subsequently received sugammadex and had a primary diagnosis of TBI or sICH between December 15, 2015, to June 30, 2024 were screened for inclusion. The primary outcome of this study was the proportion of patients who had a positive response (defined as an increase in GCS of \u22651 point) within 30\u00a0min of sugammadex administration. The secondary outcomes included change in analgosedation requirements during the first 30\u00a0min post-sugammadex administration, and the rate of neurosurgical procedures.\n\n**RESULTS**: The primary outcome analysis included 362 patients. An increase in GCS within 30\u00a0min post-sugammadex administration occurred in 54% (n\u00a0=\u00a0196), with a median GCS change of 3 (IQR: 2-4, range 1-9). A positive response was associated with the addition of a new analgesic agent (30.6% 13.9%, difference\u00a0=\u00a016.8%, 95% confidence interval 8.4 to 25.1), sedation agent (33.7% vs. 14.5%, difference\u00a0=\u00a019.2%, 95% confidence interval 10.7 to 27.7), and a non-significant increase in neurosurgical procedures (43.4 vs. 33.7%, difference\u00a0=\u00a09.6%, 95% confidence interval\u00a0-0.4 to 19.7).\n\n**CONCLUSION**: Sugammadex administration to reverse rocuronium in the ED was associated with a significant change in GCS and analgosedation requirements.",
-      "journal": "Am J Emerg Med",
-      "authors": [
-        "Lawson C",
-        "Rech MA",
-        "Sun J",
-        "Celmins L",
-        "Sindelar M",
-        "Van Wert E",
-        "Fletcher AA",
-        "Coralic Z",
-        "Zimmerman DE",
-        "Howington GT",
-        "Woolum JA",
-        "Krenz J",
-        "Mattson AE",
-        "Brown CS",
-        "Zepeski A",
-        "Faine B"
-      ],
-      "date": "2026 Jun 21",
-      "doi": "10.1016/j.ajem.2026.06.021",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "TBI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "traumatic",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic brain injury",
-          "strength": "weak",
-          "topic": "TBI"
-        },
-        {
-          "keyword": "intracranial haemorrhage",
-          "strength": "weak",
-          "topic": "TBI"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42349235/"
     }
   ]
 }
