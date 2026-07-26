@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-25T20:40:50.259376Z",
-  "total_articles": 233,
+  "generated": "2026-07-26T20:46:20.253309Z",
+  "total_articles": 226,
   "all_topics": [
     "Abdominal",
     "Burns",
@@ -378,6 +378,77 @@
     "Cochrane Database Syst Rev": "filtered"
   },
   "articles": [
+    {
+      "pmid": "42501573",
+      "title": "Survival and quality of life after treatment of geriatric odontoid fractures.",
+      "abstract": "**BACKGROUND**: Odontoid fractures are the most common cervical spine injuries in geriatric patients and are associated with substantial morbidity and mortality. Their incidence is increasing with population aging. Optimal management remains controversial, particularly due to poor bone quality and comorbidities in this patient group. While surgical treatment is associated with lower nonunion rates, its impact on survival and patient-reported outcomes is unclear.\n\n**METHODS**: This retrospective single-center study included patients with odontoid fractures who were treated conservatively or surgically between 2017 and 2020. Demographic and clinical data were obtained from medical records. Survival was analyzed using Kaplan-Meier estimates and Cox regression. Health-related quality of life was evaluated in surviving patients using Visual Analog Scale (VAS), Neck Disability Index (NDI), and Short Form-36 (SF-36) questionnaires. Comorbidity burden was determined using the age-adjusted Charlson Comorbidity Index (CACI).\n\n**RESULTS**: A total of 93 patients were included. The mean age was 78.9 \u00b1 13.7 years, and 75% of fractures were Type II. Surgical treatment was performed in 59% of patients, whereas 41% received conservative management, primarily due to comorbidities. The 1-year mortality rate was 26.9% and increased with age and comorbidity burden. Higher CACI scores and conservative treatment were associated with reduced survival. Among 40 respondents, pain levels were low (mean VAS 2.5 \u00b1 2.4). Conservatively treated patients reported significantly lower pain and higher SF-36 scores, while no significant differences were observed in NDI between groups.\n\n**CONCLUSION**: Odontoid fractures in geriatric patients are associated with substantial morbidity and mortality. Surgical treatment showed improved survival, whereas conservative management resulted in better patient-reported quality of life. These findings emphasize a clinically relevant contrast and support individualized, patient-centered treatment decisions based on comorbidity burden and overall patient condition.",
+      "journal": "Injury",
+      "authors": [
+        "Oberth\u00fcr S",
+        "Singer AK",
+        "Roch PJ",
+        "Weiser L",
+        "Lehmann W",
+        "Sehmisch S"
+      ],
+      "date": "2026 Jul 22",
+      "doi": "10.1016/j.injury.2026.113534",
+      "tier": "filtered",
+      "topics": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42501573/"
+    },
+    {
+      "pmid": "42501572",
+      "title": "Fracture orthopedic risk of non-home discharge score II (FORD-II).",
+      "abstract": "**INTRODUCTION**: Post-acute placement after fracture trauma is a major driver of hospital length of stay and cost, but discharge needs are often identified late. We developed and validated the Fracture Orthopedic Risk of Non-Home Discharge score, version II (FORD-II), as an admission-time tool to identify adult fracture-trauma patients likely to require post-acute placement.\n\n**METHODS**: We performed a retrospective development and held-out validation study using the National Trauma Data Bank from 2019 to 2024. Adults with International Classification of Diseases, Tenth Revision fracture diagnoses and classifiable discharge dispositions were included. The primary outcome was non-home discharge to inpatient rehabilitation, skilled nursing facility, long-term acute care hospital, or intermediate care. FORD-II was derived from 41 admission-time predictors using least absolute shrinkage and selection operator regression, converted to a 0-to-10 integer score, locked after derivation, and validated without recalibration. Discrimination and calibration were compared with the original Fracture Orthopedic Risk of Non-Home Discharge score (FORD-I), Geriatric Trauma Outcome Score II, and Trauma Risk Adjusted In-hospital Geriatric Evaluation Score. A hospital-perspective budget-impact analysis explored the potential cost implications of using FORD-II to trigger early discharge planning.\n\n**RESULTS**: Among 1952,210 encounters, 1301,473 were assigned to derivation and 650,737 to validation; 39.9% had non-home discharge. FORD-II retained 16 predictors and achieved an area under the receiver operating characteristic curve of 0.8285 (95% confidence interval, 0.8275-0.8295), exceeding FORD-I (0.7749), Geriatric Trauma Outcome Score II (0.7940), and Trauma Risk Adjusted In-hospital Geriatric Evaluation Score (0.7446; all P\u00a0<\u00a0.001). Calibration was strong, with intercept 0, slope 1, and Brier score 0.164. Observed non-home discharge increased from 7.29% in low-risk patients to 80.47% in high-risk patients. In the exploratory budget-impact model, FORD-II-guided early discharge planning was projected to save $362.25 per patient.\n\n**CONCLUSIONS**: FORD-II is an admission-time score derived from a United States national trauma registry that accurately stratified risk of non-home discharge after adult fracture trauma. Its high-risk category identifies patients who may benefit from earlier case management, rehabilitation assessment, family counseling, and post-acute placement planning. As a United States-derived tool, FORD-II requires external validation before adoption in other trauma systems.",
+      "journal": "Injury",
+      "authors": [
+        "Salman SG",
+        "Phadke R",
+        "Carlin T",
+        "Ramirez J",
+        "Mendez-Reyes JE",
+        "Hoffman MK",
+        "Leonard J",
+        "Davis RW",
+        "Ward JL",
+        "Vera RM",
+        "Silberfein EJ",
+        "Rana A",
+        "Atassi OH",
+        "Perkins CH",
+        "Dawson JR",
+        "Wilson C",
+        "Fitzgerald CA",
+        "Seger CP",
+        "Zielinski MD",
+        "Mattox KL",
+        "Dumas RP"
+      ],
+      "date": "2026 Jul 23",
+      "doi": "10.1016/j.injury.2026.113527",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "trauma registry",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42501572/"
+    },
     {
       "pmid": "42498962",
       "title": "Evaluating performance and potential clinical benefit of the Swedish On Scene Injury Severity Prediction (OSISP) model for prehospital field triage on Norwegian trauma data.",
@@ -8551,338 +8622,6 @@
       "keyword_matches": [],
       "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/42364528/"
-    },
-    {
-      "pmid": "42363248",
-      "title": "Management and outcome of patients with traumatic brain injury treated in three major Nordic intensive care units: a comparative cohort study.",
-      "abstract": "**BACKGROUND**: Traumatic brain injury (TBI) is a major cause of death and disability, with large variations in management strategies and outcomes across countries. Nordic countries are similar in demographics, but differences in treatment strategies likely exist and outcome differences have been reported. We aimed to assess temporal differences in treatments and outcomes in three large Nordic centers, with a hypothesis that outcomes, after adjustment for injury severity, are generally similar and have improved over time.\n\n**MATERIALS AND METHODS**: We performed an international, multicenter, retrospective, observational registry study including consecutive intensive care unit (ICU) managed TBI patients from three of the largest university hospitals in the Nordics (Helsinki (HUS), Finland [2005-2020]; Stockholm (KUH), Sweden [2005-2022]; Oslo (OUH), Norway [2015-2022]). Our primary outcome was 6-12-month unfavorable Glasgow Outcome Scale (GOS, 1-3) and secondary outcome was 30-day mortality. We compared outcomes after adjusting for TBI outcome predictors: age, pupil responsiveness and admission Glasgow Coma Scale (GCS) over time. Other known outcome predictors like computerized tomography (CT) scores (Marshall CT classification and Rotterdam CT score) were collected if available, and intracranial pressure monitoring (ICP) for GCS 3-8 patients was specifically analyzed.\n\n**RESULTS**: In total, 5,970 patients were included (HUS\u2009=\u20092,769, KUH\u2009=\u20091,390, OUH\u2009=\u20091,811). Six-months crude unfavorable outcome was 43% and predicted unfavorable outcome was 44%. Crude 30-day mortality was 17% and predicted 30-day mortality was 18%. Of the included patients, 72% had a moderate-to-severe TBI (GCS 3-12) and 54% underwent some form of neurosurgical intervention. Model application diminished differences between centers, across both outcome measures. Minimal variation in outcomes between hospitals was observed, with a hospital-level variance after applying the model of 0.02 (SD 0.15) for unfavorable outcome and 0.06 (SD 0.24) for 30-day mortality. Overall, no significant temporal trend in predicted unfavorable outcome was observed (OR per year 0.95, 95% CI 0.88-1.03, p\u2009=\u20090.20). Variations in ICP monitoring, but also caseload, were observed.\n\n**CONCLUSION**: Differences in patient case-mix and caseload between hospitals were associated with variation in treatment strategies and crude outcomes. However, after adjusting for TBI outcome predictors, no meaningful between-hospital variation in outcomes was observed, and no temporal trends in outcome found over the study period.",
-      "journal": "Scand J Trauma Resusc Emerg Med",
-      "authors": [
-        "Lidstr\u00f6m H",
-        "Hutchens A",
-        "Froese L",
-        "Nelson DW",
-        "Bartek J",
-        "Fletcher-Sandersj\u00f6\u00f6 A",
-        "Netteland DF",
-        "Aarhus M",
-        "\u00c5kerlund CAI",
-        "Taalas W",
-        "Siironen J",
-        "Vehvil\u00e4inen J",
-        "Skrifvars MB",
-        "Raj R",
-        "Thelin EP",
-        "Tverdal C"
-      ],
-      "date": "2026 Jun 26",
-      "doi": "10.1007/s10143-025-03659-y",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "Systems/QI",
-        "TBI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "traumatic",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "injury severity",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "traumatic brain injury",
-          "strength": "strong",
-          "topic": "TBI"
-        },
-        {
-          "keyword": "ICP monitoring",
-          "strength": "weak",
-          "topic": "TBI"
-        },
-        {
-          "keyword": "intracranial pressure monitoring",
-          "strength": "weak",
-          "topic": "TBI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42363248/"
-    },
-    {
-      "pmid": "42362410",
-      "title": "Re-triage of severely injured patients in no-fault vs. at-fault states.",
-      "abstract": "**IMPORTANCE**: State no-fault laws enforce fewer administrative requirements for automotive insurance to pay hospitals for injury care costs than states without no-fault laws (at-fault states).\n\n**OBJECTIVE**: Determine if no-fault states had lower re-triage (urgent inter-hospital transfer) of patients injured in motor-vehicle collision (MVC) than at-fault states.\n\n**DESIGN**: This was an observational retrospective cohort study.\n\n**SETTING**: FL, NY, MD and WI Healthcare Cost and Utilization Project State Emergency Department and Inpatient Databases from 2016 to 2021.\n\n**PARTICIPANTS**: Severely injured [injury severity score (RISS) >\u00a015] Medicare patients.\n\n**EXPOSURE**: FL and NY had no-fault laws, while MD and WI were at-fault states.\n\n**MAIN OUTCOME**: Re-triage was defined as same-day inter-hospital transfer to a high-level trauma center. Mixed effects multivariable logistic regression estimated the association between no-fault states and re-triage controlling for age, sex, race, comorbidity, RISS, diagnosis, trauma designation, hospital for-profit, adjusting for clustering within hospitals and states. A moderation analysis with an interaction term for mechanism * fault laws was conducted to estimate whether no-fault laws moderated adjusted odds of re-triage differently among patients severely injured in MVC versus falls.\n\n**RESULTS**: In total 6447 Medicare patients in 345 hospitals were severely injured in MVCs among four states. Median age was 70 years [interquartile range (IQR):65-78]. Neurological injury was the most common diagnosis (38.8%). Unadjusted re-triage rates were 2.3% in no-fault and 8.1% in at-fault states (p\u00a0<\u00a00.001). No-fault states had 0.31 lower adjusted odds of re-triage (95% Confidence Interval:0.17-0.56) of severely patients injured in MVCs compared to at-fault states. A moderation analysis with an interaction term for mechanism * fault laws demonstrated Medicare MVC injured patients in at-fault states had 1.77 higher adjusted odds of re-triage compared to falls in at-fault states (95% Confidence Interval=1.23-2.54). Medicare patients severely injured in MVC in no-fault states had 0.38 adjusted odds of re-triage compared to fall patients in at-fault states, 95% Confidence Interval 0.22-0.66.\n\n**CONCLUSION AND RELEVANCE**: Automotive insurance laws moderate odds of re-triage among severely injured MVC patients but not fall patients.\n\n**LEVEL OF EVIDENCE**: Level III.",
-      "journal": "Injury",
-      "authors": [
-        "Visenio MR",
-        "Thivalapill N",
-        "Silver CM",
-        "Sullivan GA",
-        "Thomas AC",
-        "Reddy S",
-        "Ghneim M",
-        "Ryan JL",
-        "Pracht EL",
-        "Crandall ML",
-        "Lundberg A",
-        "Stey AM"
-      ],
-      "date": "2026 Jun 26",
-      "doi": "10.1016/j.injury.2026.113466",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "injury severity",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "trauma centre",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42362410/"
-    },
-    {
-      "pmid": "42361892",
-      "title": "Association of rescue breathing with outcomes in adult suffocation-related cardiac arrest.",
-      "abstract": "**BACKGROUND**: Out-of-hospital cardiac arrest (OHCA) is a public health concern. Whether conventional cardiopulmonary resuscitation (CPR) with rescue breathing may improve outcomes compared with compression-only or no CPR in suffocation-related OHCA is unclear.\n\n**METHODS**: We conducted a retrospective cohort study using the All-Japan Utstein Registry (2005-2023). Adult patients with witnessed suffocation-related OHCA were included, excluding cardiac-origin cases and those treated by EMS personnel. Bystander CPR was categorized as chest compression-only CPR (CC-CPR), chest compression plus ventilation CPR (CCV-CPR), and no bystander CPR (No CPR), with CC-CPR as the reference. The primary outcome was favorable neurological status at one month; secondary outcomes were one-month survival and return of spontaneous circulation (ROSC). Inverse probability of treatment weighting (IPTW) was applied, and prespecified subgroup analyses were performed across year, age, sex, time of EMS call, bystander type, and initial rhythm.\n\n**RESULTS**: Among 76,774 patients, 39,451 received CC-CPR, 8182 received CCV-CPR, and 29,141 received No CPR. Favorable neurological outcome occurred in 1.5%, 1.5%, and 2.0%; one-month survival in 8.3%, 7.2%, and 9.5%; and ROSC in 19.9%, 17.2%, and 17.7%, respectively. After IPTW adjustment, No CPR was associated with a higher likelihood of favorable neurological outcomes compared with CC-CPR (adjusted OR: 1.20, 95%CI: 1.04-1.38), whereas CCV-CPR showed no significant difference (OR: 1.01, 95%CI: 0.78-1.32). No CPR was also associated with higher one-month survival (OR: 1.20, 95%CI: 1.12-1.28), with no significant difference for CCV-CPR. No significant differences were observed for ROSC. Findings were consistent in subgroup and sensitivity analyses using multiple imputation.\n\n**CONCLUSIONS**: In suffocation-related OHCA, the type of bystander CPR was not associated with improved neurological recovery. These findings suggest that the type of bystander CPR alone may not be the primary determinant of recovery, although the relative contributions of CPR type, airway management, and other prehospital factors remain to be clarified.",
-      "journal": "Resuscitation",
-      "authors": [
-        "Okada A",
-        "Tominaga T",
-        "Iwakura M",
-        "Jung S",
-        "Nomura K"
-      ],
-      "date": "2026 Jun 26",
-      "doi": "10.1016/j.resuscitation.2026.111189",
-      "tier": "filtered",
-      "topics": [
-        "Prehospital"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "prehospital",
-          "strength": "weak",
-          "topic": "Prehospital"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42361892/"
-    },
-    {
-      "pmid": "42361889",
-      "title": "Sex differences in OHCA outcomes are driven by arrest circumstances rather than different EMS treatment: a nationwide registry study from Norway 2015 to 2024.",
-      "abstract": "**INTRODUCTION**: Studies on sex-disparities in out-of-hospital cardiac arrest (OHCA) show conflicting results. This study seeks to identify if there are sex-based disparities in prehospital treatment and survival in out-of-hospital cardiac arrests in Norway.\n\n**METHODS**: This is a retrospective 10-year cohort study from the Norwegian Cardiac Arrest Registry (NorCAR). We examined sex in relation to clinically important variables such as bystander cardiopulmonary resuscitation, use of defibrillator, survived event and survival to 30\u00a0days. We conducted multivariable regression analysis to examine associations between sex and survival outcomes.\n\n**RESULTS**: During the years 2015-2024 NorCAR collected 27,621 cases of EMS-treated OHCA. Women comprised 32% of the cohort. Women presented with cardiac arrest at different locations than men and had significantly lower rates of initial shockable rhythm. We found differences in treatment related to cardiopulmonary resuscitation (CPR) duration, use of advanced airway and use of adrenalin. We observed higher rates of bystander CPR for women compared to men. When adjusting for known covariates, we found a higher Odds Ratio (OR) of survived event for women, but survival to 30\u00a0days was lower.\n\n**CONCLUSION**: We found differences in baseline characteristics and treatment performed by Emergency Medical Services (EMS) between women and men, as well as differences in survived event and survival to 30 days. Differences in EMS treatment did not seem to be related to the patient's sex. We did, however, find sex differences in survived event and survival to 30\u00a0days unexplained by our included variables.",
-      "journal": "Resuscitation",
-      "authors": [
-        "Osmundsen SL",
-        "Alm-Kruse K",
-        "Yusuf F",
-        "Holm KT",
-        "Azulay N",
-        "Kramer-Johansen J",
-        "Tjelmeland IBM"
-      ],
-      "date": "2026 Jun 26",
-      "doi": "10.1016/j.resuscitation.2026.111188",
-      "tier": "filtered",
-      "topics": [
-        "Prehospital"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "prehospital",
-          "strength": "weak",
-          "topic": "Prehospital"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42361889/"
-    },
-    {
-      "pmid": "42361888",
-      "title": "Telemedicine-assisted vs conventional telephone instruction in cardiopulmonary resuscitation: the TACTIC cluster randomized trial.",
-      "abstract": "**INTRODUCTION**: Dispatcher-assisted cardiopulmonary resuscitation (DA-CPR) has been shown to increase bystander CPR rates and improve outcomes after out-of-hospital cardiac arrest (OHCA). However, dispatchers cannot directly visualize the scene, which may limit the effectiveness of telephone instructions. Telemedicine-assisted CPR (TA-CPR), incorporating real-time video communication, has been proposed to address this limitation and potentially improve bystander CPR performance. Evidence regarding its effectiveness in real-world EMS systems remains limited. This study aimed to compare bystander CPR rates between TA-CPR and DA-CPR.\n\n**METHODS**: We conducted a pilot pragmatic cluster-randomized controlled trial involving adult patients with suspected non-traumatic OHCA. Monthly block randomization assigned CPR instruction protocols to either a TA-CPR protocol or a DA-CPR protocol. The primary outcome was bystander CPR rate. Secondary outcomes included ongoing bystander CPR at EMS arrival and protocol compliance.\n\n**RESULTS**: A total of 108 patients were included, with 55 managed using TA-CPR and 53 using DA-CPR. Patients in the TA-CPR group were younger (mean age 63.5\u00a0\u00b1\u00a016.2 vs. 68.9\u00a0\u00b1\u00a014.6\u00a0years), and a higher proportion presented with an initial shockable rhythm (20.0% vs. 9.4%). Bystander CPR occurred in 87.3% of TA-CPR cases and 92.5% of DA-CPR cases, with no statistically significant difference (p\u00a0=\u00a00.53). Ongoing bystander CPR at EMS arrival was also similar between groups (76.4% vs. 84.9%; p\u00a0=\u00a00.33). Protocol compliance was significantly lower in the TA-CPR group than in the DA-CPR group (69.1% vs. 92.5%; p\u00a0<\u00a00.01).\n\n**CONCLUSION**: TA-CPR did not increase bystander CPR rates compared with conventional DA-CPR in this real-world EMS setting.",
-      "journal": "Resuscitation",
-      "authors": [
-        "Riyapan S",
-        "Laopran W",
-        "Chantanakomes J",
-        "Chakorn T",
-        "Somboonkul B",
-        "Saelim P"
-      ],
-      "date": "2026 Jun 26",
-      "doi": "10.1016/j.resuscitation.2026.111191",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "traumatic",
-          "strength": "weak",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42361888/"
-    },
-    {
-      "pmid": "42361789",
-      "title": "Comparing the analgesic utility & safety of erector spinae plane block versus thoracic epidural for multiple rib fracture trauma: a retrospective cohort analysis.",
-      "abstract": "**PURPOSE**: Despite long-standing use of thoracic epidural block (TEB) for multiple rib fracture trauma, emerging research suggests that the erector spinae plane block (ESPB) offers similar analgesia and increased safety benefits. This study compared the analgesic effectiveness and safety of TEB versus ESPB for multiple rib fracture trauma.\n\n**METHODS**: A historical cohort analysis was conducted, including 324 adult patients who received continuous TEB (n\u00a0=\u00a0188) or ESPB (n\u00a0=\u00a0136) plus multimodal analgesia following multiple rib fracture trauma. The primary objective compared average numeric pain scale (NPS) scores at rest and with activity over the first five days of local anesthetic infusion. Other outcomes included opioid consumption, length of stay data, venous thromboembolism (VTE) prophylaxis time measures, as well as vasoactive support, complication, and mortality rates.\n\n**RESULTS**: Average pre- and post-block NPS scores at rest were greater in the TEB group [5.6 (2.1) vs. 4.8 (2.2), p\u00a0= 0.002; 48-72\u00a0h: 3.7 (2.2) vs. 2.9 (2.2), p\u00a0= 0.002, respectively). However, the daily changes in NPS scores throughout anesthetic infusion were similar between groups, without significant difference in opioid consumption. First VTE prophylaxis was given prior to block placement more frequently in the ESPB group (66.9 vs. 31.4%, p\u00a0< 0.001), and median time between pre and post block VTE prophylactic doses was shorter [12.6 (13.7) vs. 23.9 (12.3) hours, p\u00a0<\u00a00.001].\n\n**CONCLUSION**: Continuous TEB and ESPB demonstrated similar analgesic efficacy for multiple rib fracture trauma. The ESPB group received earlier VTE prophylaxis without disruption in dose administration for block placement, supporting enhanced safety of ESPB.",
-      "journal": "Injury",
-      "authors": [
-        "Merchant N",
-        "MacLean DJ",
-        "Vincze SR",
-        "Chhabra J",
-        "Walker A",
-        "Finkel K"
-      ],
-      "date": "2026 Aug 1",
-      "doi": "10.1016/j.injury.2026.113435",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Thoracic"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "rib fracture",
-          "strength": "strong",
-          "topic": "Thoracic"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42361789/"
-    },
-    {
-      "pmid": "42361788",
-      "title": "Geriatric tibial plateau fractures: A multicenter analysis of complications and treatment strategies.",
-      "abstract": "**INTRODUCTION**: Tibial plateau fractures are among the most complex periarticular injuries and pose a significant therapeutic challenge, particularly in geriatric patients, due to compromised bone quality, comorbidities, and limited mobility. Against the backdrop of demographic change, this multicenter study aims to analyze complications, risk factors for revision surgery, and treatment strategies for geriatric tibial plateau fractures.\n\n**METHODS**: A retrospective cohort study was conducted at two supraregional trauma centers. Patients aged \u2265\u00a070 years with surgically treated intra-articular tibial plateau fractures (AO/OTA 41-B/C) between 2010 and 2022 were included. Demographic parameters, fracture morphology, complications, risk factors, and surgical treatment were recorded. Statistical analyses were performed using chi-square tests and t-tests (significance p\u00a0\u2264\u00a00.05).\n\n**RESULTS**: 148 patients were included (75% female; mean age 76.4 \u00b1 5.3 years). Postoperative complications occurred in 36 patients (24.3%). Wound healing disorders (7.4%), deformities (6%), and infections (5.4%) were the most frequent. Classic risk factors showed no significant association with complications. Schatzker type VI fractures had the highest complication rate at 44.2%. Longer surgery times and the use of an external fixator were significantly associated with complications. N\u00a0=\u00a09 (6.1%) patients were treated with primary total knee arthroplasty (TKA). In this group the complication rate was 22.2% (n\u00a0=\u00a02). Combinations of plate and screw osteosynthesis, as well as external fixators, showed the highest complication rates.\n\n**DISCUSSION**: Fracture morphology and surgical complexity were the factors most strongly associated with postoperative complications. Classic patient-related risk factors played a subordinate role. Given limited weight-bearing capacity, reduced bone quality, and restricted mobilization, stable, minimally invasive reconstruction should be the goal in geriatric patients. Primary TKA can be beneficial in highly complex, non-reconstructible fractures, but requires strict indications.\n\n**CONCLUSION**: In geriatric tibial plateau fractures, fracture morphology and surgical complexity appear to be the main factors associated with complications. Open reduction and internal fixation (ORIF) remain the standard of care if stable reconstruction is achievable; the indication for primary TKA should be limited to selected cases.",
-      "journal": "Injury",
-      "authors": [
-        "Martin P",
-        "Springer F",
-        "Klaut M",
-        "Bormann M",
-        "Neidlein C",
-        "F\u00fcrmetz J",
-        "B\u00f6cker W",
-        "Keppler L"
-      ],
-      "date": "2026 Aug 1",
-      "doi": "10.1016/j.injury.2026.113470",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42361788/"
-    },
-    {
-      "pmid": "42360887",
-      "title": "A novel approach to blood supply in the era of large-scale combat operations.",
-      "abstract": "Future large-scale combat operations (LSCOs) against a near-peer adversary are projected to generate casualty volumes far exceeding those experienced during the Global War on Terror. Estimates range from 800 to 3,600 US casualties per day, potentially overwhelming a military medical system optimized for counterinsurgency warfare with rapid evacuation and limited daily losses. Hemorrhage remains the leading cause of preventable battlefield death, and blood is the cornerstone of combat casualty care. Although the military blood system advanced significantly during the Iraq and Afghanistan conflicts, it was not designed for sustained, high-volume attrition warfare. The Global War on Terror data provides critical insight. Of \u223c53,000 wounded service members over two decades, roughly 20% received blood transfusions, leaving nearly 42,500 wounded who did not require transfusions. Extrapolated to a projected 72,000-casualty LSCO scenario, \u223c57,500 individuals would constitute a \"walking wounded\" population-hemodynamically stable casualties who could represent a substantial, immediately available donor pool. We propose institutionalizing a structured \"Walking Wounded Blood Bank,\" in which eligible, stable casualties donate blood before evacuation. In addition, integrating blood donation into routine redeployment processing could further augment supply during protracted conflict. In contrast, harvesting blood from the deceased is biologically unsound, ethically problematic, and mathematically negligible as a scalable solution. Preparation for LSCO requires confronting the arithmetic of mass casualties. Leveraging the walking wounded and redeploying forces as structured donor populations offers a pragmatic, ethical, and operationally feasible strategy to expand transfusion capacity before demand exceeds supply.",
-      "journal": "J Trauma Acute Care Surg",
-      "authors": [
-        "Hazen BJ",
-        "Staak BP",
-        "Holcomb JB"
-      ],
-      "date": "2026 Jun 26",
-      "doi": "10.55540/0031-1723.3240",
-      "tier": "core",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42360887/"
-    },
-    {
-      "pmid": "42360868",
-      "title": "The role of shock index, pediatric age-adjusted, in early identification and management of hemorrhagic shock in pediatric trauma.",
-      "abstract": "**BACKGROUND**: Hemorrhagic shock is a leading cause of preventable pediatric trauma death, with hypotension representing a late, decompensated stage associated with high mortality. This study evaluates the shock index, pediatric age-adjusted (SIPA), as an early marker of compensated shock and a potential trigger for timely transfusion in pediatric trauma.\n\n**METHODS**: Retrospective cohort study in a large community hospital system (310,000 annual emergency visits) of all pediatric (age <18 y) Level 1 trauma activations admitted from January 2017 through December 2023. Generalized linear models assessed the adjusted relationship between the initial vital signs and hospital outcomes. The Cox proportional hazard model assessed the effect of SIPA on time to blood transfusion.\n\n**RESULTS**: Among 601 pediatric trauma patients, the median age was 12.2 years; 68.7% were male, 41.3% black, and 35.1% white. Over half of all deaths (50.7%) occurred in the emergency department (ED). Mortality was significantly higher among patients with hypotension on ED arrival (54.4% vs. 1.5%, p < 0.01). ED hypotension [adjusted odds ratio (aOR), 3.93; 95% CI, 1.05-14.73] and ED transfusion (aOR, 5.51; 95% CI, 2.11-14.36) independently predicted mortality. Although patients with initial ED hypotension had a shorter time to blood transfusion [3.3 vs. 15.5 h; hazard ratio, 1.53 (95% CI, 0.87-2.72); p = 0.14], hypotension in the ED remained a strong predictor of death. On the contrary, patients with an elevated SIPA experienced an 82% increase in time to blood transfusion initiation {4.5 vs. 17.8 h; p = 0.04; [hazard ratio, 1.82 (95% CI, 1.14-2.90), p = 0.01]} and a reduction in hospital mortality [aOR, 0.42 (95% CI, 0.22-0.81), p = 0.01].\n\n**CONCLUSIONS**: This finding supports the integration of SIPA into pediatric trauma resuscitation protocols to enhance early recognition and treatment of hemorrhagic shock. (J Trauma Acute Care Surg 2026;00:000-000 Copyright \u00a9 2026 Wolters Kluwer Health, Inc. All rights reserved.).\n\n**LEVEL OF EVIDENCE**: Therapeutic/Care Management; Level III.\n\n**STUDY TYPE**: Observational Cohort Study.",
-      "journal": "J Trauma Acute Care Surg",
-      "authors": [
-        "Adejumo FF",
-        "Ledford C",
-        "Cook N",
-        "Schauer S",
-        "Greenwald E",
-        "Piehl M"
-      ],
-      "date": "2026 Jun 26",
-      "doi": "10.1097/TA.0000000000005077",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "Haemorrhage",
-        "Paediatric",
-        "Prehospital"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "haemorrhagic shock",
-          "strength": "strong",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "blood transfusion",
-          "strength": "weak",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "paediatric trauma",
-          "strength": "strong",
-          "topic": "Paediatric"
-        },
-        {
-          "keyword": "trauma resuscitation",
-          "strength": "weak",
-          "topic": "Prehospital"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42360868/"
     }
   ]
 }
