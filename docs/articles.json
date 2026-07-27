@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-26T20:46:20.253309Z",
-  "total_articles": 226,
+  "generated": "2026-07-27T21:03:13.439273Z",
+  "total_articles": 225,
   "all_topics": [
     "Abdominal",
     "Burns",
@@ -378,6 +378,47 @@
     "Cochrane Database Syst Rev": "filtered"
   },
   "articles": [
+    {
+      "pmid": "42507131",
+      "title": "Elevated risk of wound and systemic complications in MRSA-colonized patients undergoing lower extremity orthopedic trauma surgery.",
+      "abstract": "**PURPOSE**: Preoperative colonization with methicillin-resistant Staphylococcus aureus (MRSA) is a known risk factor for adverse outcomes in arthroplasty but remains under-investigated in orthopedic trauma. This study evaluates the impact of preoperative MRSA colonization on postoperative complication rates in patients undergoing lower extremity orthopedic trauma surgery.\n\n**METHODS**: We conducted a retrospective cohort study using the TriNetX Research Network, identifying adult patients who underwent lower extremity orthopedic trauma procedures over a 20-year period. Patients with a documented MRSA diagnosis within three months before surgery were matched 1:1 to MRSA-negative controls based on demographics and comorbidities. Postoperative outcomes were assessed within three months of surgery, including surgical site infections (SSIs), wound dehiscence, organ dysfunction, thromboembolic events, and healthcare utilization. Odds ratios (ORs) and p-values were calculated, with statistical significance set at p\u2009<\u20090.05.\n\n**RESULTS**: A total of 1,868 MRSA+ and 629,342 control patients were identified. After matching, MRSA+ patients remained at significantly increased risk for wound dehiscence (OR\u2009=\u20091.80, p\u2009=\u20090.005), pneumonia (OR\u2009=\u20092.33, p\u2009<\u20090.001), sepsis (OR\u2009=\u20093.71, p\u2009<\u20090.001), acute renal failure (OR\u2009=\u20091.45, p\u2009<\u20090.001), blood transfusion (OR\u2009=\u20091.74, p\u2009<\u20090.001), deep vein thrombosis (OR\u2009=\u20092.29, p\u2009<\u20090.001), and pulmonary embolism (OR\u2009=\u20092.80, p\u2009<\u20090.001). No significant differences in SSIs were observed after matching.\n\n**CONCLUSION**: Preoperative MRSA colonization is associated with increased risks of wound dehiscence, pneumonia, sepsis, thromboembolic events, blood transfusions, and acute renal failure in orthopedic trauma patients. Preoperative MRSA screening may serve as a risk-stratification tool, enabling surgeons to anticipate systemic complications and optimize management. Where feasible, screening with targeted decolonization or prophylactic strategies may mitigate risk.",
+      "journal": "Eur J Trauma Emerg Surg",
+      "authors": [
+        "Areti AS",
+        "Hafeez H",
+        "Sangineni PV",
+        "Argao L",
+        "Deveza L",
+        "Dawson J"
+      ],
+      "date": "2026 Jul 27",
+      "doi": "10.1302/0301-620X.95B1.27973",
+      "tier": "core",
+      "topics": [
+        "General Trauma",
+        "Haemorrhage",
+        "Orthopaedic"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "blood transfusion",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "orthopaedic trauma",
+          "strength": "strong",
+          "topic": "Orthopaedic"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42507131/"
+    },
     {
       "pmid": "42501573",
       "title": "Survival and quality of life after treatment of geriatric odontoid fractures.",
@@ -8554,74 +8595,6 @@
       ],
       "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/42370060/"
-    },
-    {
-      "pmid": "42365368",
-      "title": "Association between red blood cell transfusion volume and infection risk: a dose-response analysis of a nationwide trauma registry.",
-      "abstract": "**BACKGROUND**: Infection is a major complication after trauma and is associated with worse clinical outcomes. Although red blood cell (RBC) transfusion is an essential component of resuscitation in trauma patients, its relationship with infection risk remains controversial. Furthermore, the dose-response relationship has not been fully elucidated.\n\n**METHODS**: We conducted a retrospective observational study using a nationwide trauma registry in Japan. Trauma patients registered between 2019 and 2021 were included. Patients were categorized into four groups according to RBC transfusion volume within the first 24\u00a0h after admission: None (0 units), Low (1-4 units), Moderate (5-9 units), and High (\u2265\u200910 units). The primary outcome was in-hospital infection. Multivariable modified Poisson regression analyses were performed to estimate adjusted risk ratios (RRs) with 95% confidence intervals (CIs). Furthermore, we performed multivariable-adjusted restricted cubic spline analyses with four knots to assess the adjusted dose-response relationship between RBC transfusion volume and the risk of in-hospital infection.\n\n**RESULTS**: A total of 55,807 patients were analyzed. The incidence of in-hospital infection increased across transfusion categories: 4,399/48,308 (9.1%) in the None group, 618/3,724 (16.6%) in the Low group, 396/1,733 (22.8%) in the Moderate group, and 548/2,042 (26.8%) in the High group. In multivariable analysis, compared with the None group, Low (adjusted RR 1.85, 95% CI 1.62-2.10), Moderate (adjusted RR 1.95, 95% CI 1.69-2.26) and High (adjusted RR 2.07, 95% CI 1.76-2.43) transfusion volumes were associated with significantly increased risks of infection, respectively. Restricted cubic spline analyses showed an increase in infection risk at lower transfusion volumes, followed by a plateau at higher transfusion volumes.\n\n**CONCLUSIONS**: RBC transfusion volume within the first 24\u00a0h after trauma was associated with in-hospital infection risk. The association was generally linear at lower transfusion volumes, whereas a plateau was observed at higher transfusion volumes. Given the observational nature of this study, these findings should be interpreted cautiously.",
-      "journal": "Crit Care",
-      "authors": [
-        "Ogawa T",
-        "Hongo T",
-        "Yoshihiro S",
-        "Nojima T",
-        "Tokioka K",
-        "Hiraoka T",
-        "Ueda Y",
-        "Matsuo I",
-        "Obara T",
-        "Naito H",
-        "Nakao A",
-        "Yumoto T"
-      ],
-      "date": "2026 Jun 27",
-      "doi": "10.1186/s13054-026-06170-y",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "trauma registry",
-          "strength": "strong",
-          "topic": "Systems/QI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42365368/"
-    },
-    {
-      "pmid": "42364528",
-      "title": "The impact of duration of infection on outcome of debridement, antimicrobial treatment and implant retention in fracture-related infections of the lower leg: A multicentre retrospective cohort study.",
-      "abstract": "**AIM**: This study aimed to assess the association between the interval from initial fracture fixation to debridement, antibiotics and implant retention (DAIR) for fracture-related infection (FRI) (referred to as the FF-FRI interval) and treatment outcome in patients with FRI of the lower leg.\n\n**METHODS**: This multinational retrospective cohort study included patients over 18-years of age who were diagnosed with an FRI of the lower leg, who underwent FRI surgery within 12 weeks after initial fracture fixation, between January 1st 2015 and July 1st 2020. All patients had a minimum follow-up of 12 months after cessation of therapy. Treatment success was defined as a combination of implant retention, eradication of infection, fracture healing and preservation of the affected limb. Both univariate and multivariable models were employed to ascertain factors associated with treatment outcome following DAIR.\n\n**RESULTS**: A total of 100 patients were treated with DAIR. The median FF-FRI interval was 17 days (range: 1-63). A total of 57/100 patients (57%) had a successful treatment outcome after a median follow-up of 33.6 (P\n\n**CONCLUSION**: This study found no association between time to DAIR surgery and treatment outcome of DAIR procedures up to nine weeks, in patients with an FRI of the lower leg, however the success rate, when applying strict definition of treatment success, of 57% rate is limited. In clinical practice, this indicates that attempts to retain an implant can be considered at least up to nine weeks after initial fracture fixation, provided that other surgical decision-making factors (e.g. implant stability, adequate debridement, and soft tissue coverage) permit it.",
-      "journal": "Injury",
-      "authors": [
-        "Sliepen J",
-        "Buijs MAS",
-        "Wouthuyzen-Bakker M",
-        "Depypere M",
-        "Rentenaar RJ",
-        "De Vries JPPM",
-        "Onsea J",
-        "Morgenstern M",
-        "Muri T",
-        "Metsemakers WJ",
-        "Govaert GAM",
-        "IJpma FFA"
-      ],
-      "date": "2026 Aug 1",
-      "doi": "10.1016/j.injury.2026.113467",
-      "tier": "filtered",
-      "topics": [],
-      "keyword_matches": [],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42364528/"
     }
   ]
 }
