@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-30T20:56:41.835669Z",
-  "total_articles": 234,
+  "generated": "2026-07-31T20:54:19.000285Z",
+  "total_articles": 225,
   "all_topics": [
     "Abdominal",
     "Burns",
@@ -378,6 +378,215 @@
     "Cochrane Database Syst Rev": "filtered"
   },
   "articles": [
+    {
+      "pmid": "42535210",
+      "title": "Development of a risk calculator for acute kidney injury in trauma patients: an experimental study.",
+      "abstract": "**BACKGROUND**: Acute kidney injury (AKI) is a frequent and serious complication in trauma populations, associated with significant morbidity and mortality. Current risk stratification tools, derived from general medical populations, often lack trauma-specific physiological variables and demonstrate limited applicability in these patients. This study aimed to develop and validate a specialized risk prediction model for the development of AKI within 72 hours of hospitalization in trauma patients requiring surgical intervention.\n\n**METHODS**: A retrospective cohort study was conducted involving 157 consecutive trauma patients requiring surgical intervention at a level I trauma center (2020-2022). AKI was defined and staged according to the Kidney Disease Improving Global Outcomes criteria. Multivariable logistic regression analysis was used to identify independent predictors and develop a risk model, which was then internally validated using a prospective cohort of 53 additional trauma patients.\n\n**RESULTS**: Independent predictors of AKI included advanced age, decreased admission estimated glomerular filtration rate, higher Injury Severity Scores, and lower hemoglobin levels. While body mass index and diabetes mellitus were not independent predictors, their inclusion in the composite model improved predictive accuracy. The final model demonstrated reliable discriminative ability, with an area under the curve of 0.91. Prospective validation confirmed this performance, achieving a probability threshold of 0.91 with only two observed false negatives.\n\n**CONCLUSIONS**: This novel trauma-specific risk calculator, using an additive weighting methodology, provides clinicians with a reliable tool for early AKI identification. By incorporating both patient characteristics and injury-related variables, the model may facilitate the timely initiation of renal-protective measures in high-risk trauma populations.\n\n**LEVEL OF EVIDENCE**: Level II, prognostic/epidemiological.",
+      "journal": "Trauma Surg Acute Care Open",
+      "authors": [
+        "Ramadan E",
+        "Cook R",
+        "Srinivasan R",
+        "Babuji A",
+        "Latham D",
+        "Gunn D",
+        "Foreman M",
+        "Ramamoorthy S"
+      ],
+      "date": "2026 Jan 1",
+      "doi": "10.1136/tsaco-2025-002006",
+      "tier": "core",
+      "topics": [
+        "General Trauma",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "injury severity",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42535210/"
+    },
+    {
+      "pmid": "42535107",
+      "title": "Evaluation framework for assessing the quality and safety of artificial intelligence solutions for the acute care surgeon: a narrative review from the Eastern Association for the Surgery of Trauma quality, safety, and outcomes committee.",
+      "abstract": "Artificial intelligence (AI) has been developing as a field for decades. As acute care surgeons, we have been using AI in the clinical realm and in our everyday lives for years. However, with the public release of conversational large language models, there has been a rapid increase in the uptake of AI, with numerous new products on the market and evolving conversations around what this means for the future of surgery. Given acute care surgeons are leaders in healthcare systems, interfacing with patients and impacting quality and safety through critical timepoints in the emergency department, operating rooms, wards, and intensive care units, it is imperative that we have an understanding of this technology, its potential for bias, its assessment and implementation, and its governance. In this review, we cover these critical concepts and aim to provide a framework for acute care surgeons to understand and evaluate the quality and safety of AI solutions.",
+      "journal": "Trauma Surg Acute Care Open",
+      "authors": [
+        "Soltani T",
+        "Kim P",
+        "McKinley WI",
+        "Frasier L",
+        "Dowzicky P",
+        "Holena DN",
+        "Callcut RA"
+      ],
+      "date": "2026 Jan 1",
+      "doi": "10.1136/tsaco-2025-002163",
+      "tier": "core",
+      "topics": [
+        "General Trauma",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "trauma quality",
+          "strength": "strong",
+          "topic": "Systems/QI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42535107/"
+    },
+    {
+      "pmid": "42533368",
+      "title": "Racial and Demographic Differences in Use of a Trauma Center Confidential Status Policy.",
+      "abstract": "**OBJECTIVES**: Confidential status is a hospital trauma center practice of restricting communication with all visitors of violently injured patients, including family and friends. The practice is intended to protect patients and staff from harm in\u00a0situations involving violence or safety concerns, though it may have unintended negative impacts.\n\n**METHODS**: A mixed-methods study using retrospective cohort and qualitative study designs was conducted at a single urban academic Level 1 trauma center with a confidential status practice. Using retrospective chart review of traumatically injured patients from 2015 to 2020, we performed multivariable logistic regression examining associations between placement on confidential status and patient characteristics including age, race/ethnicity, and intent of injury. Surveys and semi-structured interviews were conducted to examine knowledge of the confidential status policy and perceived effects on patient care and clinical workflow.\n\n**RESULTS**: Of the 42,540 traumatically injured patients were included, 319 were placed on confidential status. Those with confidential status were most commonly injured by assault (62%). Multivariable regression showed Black (OR 2.69, 95% CI 1.97-3.68) and Latine (OR 1.46, 95% CI 1.03-2.07) patients were more likely to be placed on confidential status compared to White patients. All survey respondents reported providing direct care for patients in which the confidential status was enforced; however, only 38% reported having read the policy. Most respondents reported neutral perceptions regarding the policy's impact on patient care and patient experience, while only 12% reported positive perceptions. Four qualitative themes were identified: family trauma, discrimination, stressed workplace environment, and policy ineffectiveness.\n\n**CONCLUSIONS**: Racial/ethnic differences were observed in the use of confidential status. Staff perceptions raised concerns regarding unintended negative effects of the policy on patients and families.",
+      "journal": "Acad Emerg Med",
+      "authors": [
+        "Wodecki DJ",
+        "Osowiecki I",
+        "Adams C",
+        "J Johnson T",
+        "Buggs SAL",
+        "Siefkes HM"
+      ],
+      "date": "2026 Jul 1",
+      "doi": "10.1111/acem.70388",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "strong",
+          "topic": "Systems/QI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42533368/"
+    },
+    {
+      "pmid": "42532722",
+      "title": "Evacuation of hemothorax during SSRF: Does the technique influence the outcome?",
+      "abstract": "**BACKGROUND**: Various surgical protocols suggest the need for chest cavity exploration during surgical stabilization of rib fractures (SSRF) in the presence of a hemothorax (HTX). The aim of this study is to determine the outcome of patients who underwent SSRF with blind HTX evacuation vs. HTX washout under visual inspection.\n\n**METHODS**: This is a retrospective analysis of prospectively collected data from the Chest Injury International Database (CIID), a data repository of the Chest Wall Injury Society (CWIS) contributing members. Two cohorts were created: group VATS (SSRF with Video-Assisted Thoracic Surgery (VATS)) and group IOPI (SSRF with blind intra-operative pleural irrigation (IOPI)). The primary endpoint was chest tube days after SSRF. Secondary endpoints were pneumonia, mortality, Intensive Care Unit length of stay (ICULOS), hospital length of stay (HLOS), 30-day readmission, and mechanical ventilation days.\n\n**RESULTS**: A total of 276 patients were included (VATS n\u00a0=\u00a0129; IOPI n\u00a0=\u00a0147). Chest tube duration was shorter in the VATS group (VATS: 0[0-2], IOPI: 3[2-5]; p\u00a0<\u00a00.001), while hospital length of stay was shorter in the IOPI group (VATS: 10.5[7-15], IOPI 7[5-10]; p\u00a0<\u00a00.001). Mechanical ventilation was more frequent in the VATS group (VATS: n\u00a0=\u00a083/129, IOPI: n\u00a0=\u00a021/147; p\u00a0<\u00a00.001), whereas ventilation duration was longer in the IOPI group (VATS: 1[1], IOPI: 4[2-10]; p\u00a0<\u00a00.001). Mortality (p\u00a0=\u00a00.417), pneumonia (p\u00a0=\u00a00.842), readmission (p\u00a0=\u00a00.107), and ICU length of stay among ICU-admitted patients (p\u00a0=\u00a00.953) did not differ between groups. After adjustment for injury severity and pulmonary contusion burden, VATS remained independently associated with shorter chest tube duration, whereas hemothorax evacuation technique was not independently associated with hospital or ICU length of stay.\n\n**CONCLUSION**: The use of VATS during SSRF was associated with shorter chest tube duration, and this association remained significant after adjustment for injury severity and pulmonary contusion burden. However, broader clinical outcomes were comparable between techniques.\n\n**LEVEL OF EVIDENCE**: Therapeutic / Care Management; Level IV.",
+      "journal": "Injury",
+      "authors": [
+        "Sutori D",
+        "White TW",
+        "Molnar TF",
+        "Harmati IA",
+        "Uri I",
+        "Zsoldos P",
+        "Bauman ZM",
+        "Erdelyi LS",
+        "Doben AR",
+        "Whitbeck SS",
+        "Wijffels MME"
+      ],
+      "date": "2026 Jul 28",
+      "doi": "10.1016/j.injury.2026.113540",
+      "tier": "filtered",
+      "topics": [
+        "Systems/QI",
+        "Thoracic"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "injury severity",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "haemothorax",
+          "strength": "strong",
+          "topic": "Thoracic"
+        },
+        {
+          "keyword": "rib fracture",
+          "strength": "weak",
+          "topic": "Thoracic"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42532722/"
+    },
+    {
+      "pmid": "42531871",
+      "title": "Dissociation between resuscitation success and neurological recovery in nursing home cardiac arrest: A propensity-matched analysis.",
+      "abstract": "**OBJECTIVES**: To compare emergency department (ED) survival and neurological outcomes of out-of-hospital cardiac arrest (OHCA) at home versus in nursing homes.\n\n**METHODS**: Retrospective cohort study of the Korea Out-of-Hospital Cardiac Arrest Surveillance registry, 2019-2023. Among 93,195 medical-etiology OHCA cases, 63,568 occurred at home (n\u00a0=\u00a053,801) or in a nursing home (n\u00a0=\u00a09767). The primary outcome was ED survival, an early process endpoint since discharge survival is not uniformly recorded; the secondary outcome was documented favorable neurological outcome (CPC 1-2) at discharge. Multivariable logistic regression (complete cases, n\u00a0=\u00a024,914), propensity score matching, and multiple imputation adjusted for sex, age, prehospital ROSC, bystander CPR, AED use, and initial rhythm, with prespecified sensitivity analyses excluding ROSC.\n\n**RESULTS**: Crude ED survival was lower in nursing homes (11.2% vs 14.0%), but the adjusted association was small and specification-dependent: multivariable OR 1.13 (95% CI 1.00-1.28, p\u00a0=\u00a00.057), propensity-matched OR 1.21 (1.10-1.32, p\u00a0<\u00a00.001), and a similarly small positive association in whole-cohort imputation regardless of ROSC (OR 1.17-1.21); only the complete-case model with ROSC removed was null (OR 1.02, 0.91-1.14). Favorable neurological outcome was consistently lower in nursing homes (matched OR 0.45, 0.32-0.62): 4.5% of nursing home ED survivors had documented CPC 1-2, versus 21.8% of home ED survivors.\n\n**CONCLUSIONS**: Any ED survival difference for nursing home OHCA is small, specification-dependent, and vulnerable to unmeasured confounding, whereas neurological recovery is uniformly and robustly poor. These findings support early, structured goal-of-care discussions.",
+      "journal": "Am J Emerg Med",
+      "authors": [
+        "Cho G",
+        "Cho Y",
+        "Park T",
+        "Sohn Y"
+      ],
+      "date": "2026 Jul 28",
+      "doi": "10.1016/j.ajem.2026.07.051",
+      "tier": "filtered",
+      "topics": [
+        "Prehospital"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "prehospital",
+          "strength": "weak",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42531871/"
+    },
+    {
+      "pmid": "42531547",
+      "title": "Journal of Trauma Preface.",
+      "abstract": "",
+      "journal": "J Trauma Acute Care Surg",
+      "authors": [
+        "Coimbra R"
+      ],
+      "date": "2026 Jul 29",
+      "doi": "10.1097/TA.0000000000005149",
+      "tier": "core",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42531547/"
+    },
     {
       "pmid": "42530957",
       "title": "National Characteristics of Emergency Medical Services in Rural and Frontier Areas: A 2024 Update on Rural-Urban Differences in EMS Care.",
@@ -1167,7 +1376,7 @@
         "Kagee A"
       ],
       "date": "2026 Jul 29",
-      "doi": "10.1002/14651858.CD016367",
+      "doi": "10.1136/bmj.i4919",
       "tier": "filtered",
       "topics": [
         "General Trauma"
@@ -8554,536 +8763,6 @@
       ],
       "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/42393727/"
-    },
-    {
-      "pmid": "42391665",
-      "title": "Trauma nursing as frontline health diplomacy: A binational ATCN program for Palestinian and Israeli nurses during conflict.",
-      "abstract": "**BACKGROUND**: Nurses are central to trauma care in both peacetime and conflict, where training and expertise directly affect patient outcomes. Cooperative training between healthcare professionals from opposing communities is rare in regions of ongoing violence, yet may be a powerful mechanism for strengthening regional trauma systems and advancing health diplomacy. Operating Together is a binational initiative that brings Palestinian and Israeli trauma providers together for joint training. This study describes the establishment of a regional Advanced Trauma Care for Nurses (ATCN) program serving both Israeli and Palestinian communities, evaluates course effectiveness, and health\u2011diplomacy attitudes.\n\n**METHODS**: Between January 1 and December 31, 2025, six ATCN providers and two ATCN instructor courses were conducted. Participants completed anonymous questionnaires assessing satisfaction, perceived clinical relevance, and attitudes toward Palestinian-Israeli health cooperation. Descriptive statistics summarized responses, and comparisons used independent\u2011samples t tests and Fisher's exact tests (significance p\u00a0<\u00a00.05).\n\n**RESULTS**: Of 52 participants, 36 completed the study (50% Israeli, 50% Palestinian). Participants reported high course satisfaction (M = 8.44/10) and perceived educational impact (M = 4.39/5). Most (94.4%) expressed interest in maintaining professional contact. The belief that cooperation improves patient care is strongly correlated with positive health\u2011diplomacy attitudes (rs =.74, p\u00a0<\u00a0.001). Palestinian nurses reported significantly higher scores regarding the role of health cooperation in conflict resolution and mutual understanding (both p\u00a0=\u00a0.006). Male participants had higher health\u2011diplomacy index scores than female participants (p\u00a0=\u00a0.004).\n\n**CONCLUSION**: In the context of ongoing conflict, joint ATCN courses for Palestinian and Israeli nurses were associated with high educational satisfaction and strong support for continued professional cooperation. Participants perceived binational training as beneficial for trauma care and contributing to a more positive climate. Joint trauma nursing education may provide a promising platform for strengthening trauma systems and advancing health diplomacy in conflict\u2011affected settings.\n\n**LEVEL OF EVIDENCE**: Prognostic and epidemiological; Level II-III (educational intervention).",
-      "journal": "Injury",
-      "authors": [
-        "Jreis T",
-        "Kruyer VN",
-        "Kaim A",
-        "Becker D",
-        "Hani W",
-        "Mohammed A",
-        "Young L",
-        "Bkeirat W",
-        "Alpern A",
-        "Zimmer R",
-        "Bar-Haim R",
-        "Laks S",
-        "Goldstein AL"
-      ],
-      "date": "2026 Aug 1",
-      "doi": "10.1016/j.injury.2026.113477",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42391665/"
-    },
-    {
-      "pmid": "42391298",
-      "title": "Characterizing Pediatric Trauma Patients and EMS Agencies That Are Optimal Targets for Prehospital Pediatric Blood Transfusion Programs.",
-      "abstract": "**OBJECTIVES**: Trauma is a leading cause of death among children in the United States. Prehospital blood product administration is a potentially lifesaving measure for injured children. We evaluated how often injured children meet physiological criteria for transfusion, determined the use of prehospital blood products in this sample, and identified agency characteristics that can inform the implementation of additional prehospital transfusion programs.\n\n**METHODS**: We conducted a retrospective analysis of the 2021-2024 National Emergency Medical Services Information System (NEMSIS) datasets. We included children (<18\u2009years) with injury. We identified patients who may be eligible for prehospital blood transfusion based on (a) a combination of a systolic blood pressure (SBP) below the 5\n\n**RESULTS**: Of 2,492,731 encounters, 34,221 (1.37%, 95% confidence interval [CI] 1.36%, 1.39%) were potentially eligible for blood transfusion. Patients meeting these criteria were more frequently adolescents (71.1%) and were involved in falls (23.4%) or motor vehicle collisions (22.6%). Blood products were administered in 669 (0.027%; 95% CI 0.025%, 0.029%) encounters overall and to 1.01% (95% CI 0.91%, 1.13%) of encounters meeting criteria for blood transfusion eligibility. In agency-level analysis, 240/16,848 (1.4%) agencies provided blood products to children, and 84.4% of eligible patients were cared for by agencies whose most common level of service was advanced life support (ALS). In multivariable analysis, agencies caring for pediatric trauma patients meeting physiologic criteria for transfusion were more likely to have higher levels of service (ALS or critical care); rural; mixed volunteer/non-volunteer; and governmental non-fire, hospital, or private, non-hospital (vs fire departments).\n\n**CONCLUSIONS**: In a nationally representative prehospital sample, many injured children appeared eligible for transfusion. Prehospital blood product use was uncommon and varied by system factors. Expanding access will require implementation of blood programs among EMS agencies most likely to treat these patients, and consideration for equipment and protocols that allow for administration of blood to children.",
-      "journal": "Prehosp Emerg Care",
-      "authors": [
-        "Ramgopal S",
-        "Martin-Gill C"
-      ],
-      "date": "2026 Jul 17",
-      "doi": "10.1080/10903127.2026.2696013",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Haemorrhage",
-        "Paediatric",
-        "Prehospital"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "blood product",
-          "strength": "weak",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "blood transfusion",
-          "strength": "strong",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "prehospital blood",
-          "strength": "weak",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "paediatric trauma",
-          "strength": "strong",
-          "topic": "Paediatric"
-        },
-        {
-          "keyword": "prehospital",
-          "strength": "strong",
-          "topic": "Prehospital"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42391298/"
-    },
-    {
-      "pmid": "42390593",
-      "title": "Prehospital airway and ventilatory management: a collaborative and narrative review.",
-      "abstract": "**PURPOSE**: Prehospital airway and ventilatory management is a frequent, high-stakes and technically demanding component of emergency care. Environmental constraints, limited resources, and variable provider experience make it particularly challenging, and prehospital care systems differ substantially across countries, from paramedic-based to physician-led models, contributing to heterogeneity in clinical practices and patient outcomes. In this narrative review, we discuss evidence-based best practice, including indications, timing, physiological optimization, procedural conduct, and post-intubation management of prehospital tracheal intubation or non-invasive ventilation and high-flow nasal oxygen.\n\n**METHODS**: Tracheal intubation remains the definitive airway management strategy when performed for appropriate indications by adequately trained providers. Indications span major trauma, traumatic brain injury, out-of-hospital cardiac arrest, and comatose patients, though its role in comatose poisoned patients is increasingly questioned. Physiology optimization before intubation is a critical and frequently underappreciated determinant of outcome, encompassing preoxygenation with non-invasive positive pressure ventilation, bag-valve-mask ventilation between induction and laryngoscopy, and careful sedative selection to limit peri-intubation hemodynamic compromise.\n\n**RESULTS**: When intubation fails, a structured escalation strategy including videolaryngoscopy, supraglottic airway devices, and emergency front-of-neck access must be rehearsed and immediately available. In out-of-hospital cardiac arrest, supraglottic airways represent a valid primary alternative with equivalent neurological survival and faster placement. Non-invasive ventilation (primarily CPAP and BiPAP) has a well-established role in acute cardiogenic pulmonary edema and COPD exacerbations, reducing intubation rates and mortality. High-flow nasal oxygen is an emerging modality with strong in-hospital evidence, but prehospital data remain extremely limited and logistical constraints restrict its routine use. Non-invasive support must never delay intubation when clinical deterioration demands it.\n\n**CONCLUSION**: Specific contexts require tailored adaptations: altitude physiology in helicopter transport, obesity-specific positioning, cervical spine precautions in neurological injury, comfort-focused strategies in palliative patients, and proactive stabilization before prolonged transport. Evidence gaps remain, particularly regarding prehospital high-flow nasal oxygen.",
-      "journal": "Intensive Care Med",
-      "authors": [
-        "Vieux T",
-        "Marjanovic N",
-        "Ward A Maia I",
-        "Boyaci Dundar N",
-        "Mikkelsen S",
-        "Lassen A",
-        "Dominguez Bencomo AI",
-        "Xu J",
-        "Landoni G",
-        "Robinson A",
-        "Freund Y"
-      ],
-      "date": "2026 Jul 02",
-      "doi": "10.1177/00031348221146955",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Prehospital",
-        "TBI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "major trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic brain injury",
-          "strength": "weak",
-          "topic": "TBI"
-        },
-        {
-          "keyword": "prehospital",
-          "strength": "strong",
-          "topic": "Prehospital"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42390593/"
-    },
-    {
-      "pmid": "42390557",
-      "title": "The impact of fathers and male role models on recovery and resilience in pediatric victims of violent trauma.",
-      "abstract": "**BACKGROUND**: Despite the growing awareness of social determinants of health in pediatric trauma care, the influence of fathers and male caregivers on recovery following violent injury remains underexplored. Understanding this potential protective factor is essential to developing wraparound service models and resilience-building strategies for high-risk youth.\n\n**METHODS**: We conducted a retrospective cohort analysis of a prospectively maintained database of patients aged 0 to 17 enrolled in a hospital-based violence intervention program at an ACS-verified Level I pediatric trauma center. Eligible patients sustained violent injuries, including gunshot wounds, assaults, or stabbings, and received longitudinal case management over 6 to 12 months. Demographic, household, and social data were collected, with specific attention to caregiver composition. Outcomes included school enrollment, violent reinjury, juvenile court involvement, safety assessments, and resilience scores from Coping Orientation to Problems Experienced (COPE). Comparative analyses were performed based on the presence or absence of a father or male caregiver in the home.\n\n**RESULTS**: Among 227 patients enrolled over 3 years, only 31 (14%) had a father present, and 36 (16%) had any male caregiver. Mothers were present in 89% of households. Mean age was 15 years (IQR: 11-16); 67% were male, and 65% were gunshot wound victims. No significant differences were found in baseline social determinants or postdischarge safety concerns. Children with fathers demonstrated higher Coping Orientation to Problems Experienced resilience scores and showed a greater likelihood of accepting emotional support, engaging in prayer or meditation, and finding comfort in spiritual beliefs (all p <0.05). School enrollment postprogram was higher among those with fathers (100% vs. 82%, p =0.016) and was associated with fewer juvenile adjudications ( p =0.002).\n\n**CONCLUSIONS**: Few violently injured children have a father or male caregiver present. The presence of male caregivers was associated with improved school engagement and psychological resilience following violent trauma, emphasizing the importance of male involvement in recovery and possibly prevention efforts. ( J Trauma Acute Care Surg . 2026;101: 233-240. Copyright \u00a9 2026 Wolters Kluwer Health, Inc. All rights reserved.).\n\n**LEVEL OF EVIDENCE**: Prognostic/Epidemiological; Level IV.",
-      "journal": "J Trauma Acute Care Surg",
-      "authors": [
-        "Lang KJ",
-        "Seewer EC",
-        "Williams RF",
-        "Lin S"
-      ],
-      "date": "2026 Aug 01",
-      "doi": "10.1097/TA.0000000000004951",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "Paediatric",
-        "Penetrating",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "trauma centre",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "gunshot wound",
-          "strength": "weak",
-          "topic": "Penetrating"
-        },
-        {
-          "keyword": "paediatric trauma",
-          "strength": "weak",
-          "topic": "Paediatric"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42390557/"
-    },
-    {
-      "pmid": "42390438",
-      "title": "Peptidyl arginine deiminase 2 (PAD2) inhibition is associated with acute and long-term benefits in a murine model of traumatic brain injury.",
-      "abstract": "**BACKGROUND**: Traumatic brain injury (TBI) is a major contributor to trauma-related deaths and disability worldwide. Management of TBI is currently limited to supportive care. We have previously shown that global knockout of PAD2 confers neuroprotection, but its therapeutic potential was unclear. This study was designed to test the hypothesis that selective inhibition of PAD2 following TBI would improve neurological outcomes.\n\n**METHODS**: Male mice (c57bl6/j, 11-14\u00a0wk) were subjected to controlled cortical impact-induced TBI, and 5 to 10 minutes later, randomly given either PAD2 inhibitor (\"loading dose\" 60\u00a0mg/kg AFM41a dissolved in dimethyl sulfoxide (DMSO) or vehicle (DMSO), (n=6/group). One day post-TBI, frozen brain sections were Nissl-stained to determine lesion size. In a separate experiment, the long-term impact of AFM41a treatment on motor, sensory, and cognitive recovery after TBI was evaluated. In addition to the loading dose, animals received a \"maintenance dose\" of 30\u00a0mg/kg of AFM41a or vehicle on postinjury days (PIDs) 2 to 5. Neurologic Severity Scores (NSS on PIDs 1-8) and visuospatial learning via Morris water maze test (MWM on PIDs 21-30) were assessed.\n\n**RESULTS**: Mice treated with AFM41a had significantly smaller lesion sizes compared with the control group (p<0.05). Treatment with AFM41a also increased the rate of sensory and motor recovery, as evidenced by reduced NSS on PIDs 1 to 5 (p<0.05), and improved visuospatial learning and memory as shown by MWM (p<0.05).\n\n**CONCLUSIONS**: PAD 2 is a promising therapeutic target in TBI, and its inhibition with AFM41a, a first-in-class PAD2-selective inhibitor, confers early neuroprotection as well as sustained cognitive benefits.",
-      "journal": "J Trauma Acute Care Surg",
-      "authors": [
-        "Dawood ZS",
-        "Jang A",
-        "Mei H",
-        "Liggett MR",
-        "Wang B",
-        "Barasa L",
-        "Thompson PR",
-        "Couchenour DC",
-        "Anand A",
-        "Chtraklin K",
-        "Liu B",
-        "Li Y",
-        "Alam HB"
-      ],
-      "date": "2026 Jul 02",
-      "doi": "10.1097/TA.0000000000005086",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "TBI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic brain injury",
-          "strength": "strong",
-          "topic": "TBI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42390438/"
-    },
-    {
-      "pmid": "42390396",
-      "title": "Point-of-Care Ultrasound-Guided Hydrostatic Reduction of Ileocolic Intussusception in the Pediatric Emergency Department.",
-      "abstract": "**STUDY OBJECTIVE**: Our study objective was to describe our experience with POCUS-guided hydrostatic reductions of ileocolic intussusception performed by a PEM physician at the bedside in the pediatric emergency department (PED).\n\n**METHODS**: We describe a case series of children aged 3 to 36 months with ileocolic intussusception in the PED who received a bedside POCUS-guided hydrostatic reduction between May 2022 and November 2025 in our secondary care hospital. Data collected included the time from presentation to successful POCUS-guided hydrostatic reduction, success rate, complications, and 24-hour recurrence.\n\n**RESULTS**: A total of 9 bedside POCUS-guided hydrostatic reductions were performed in the PED by a PEM provider. Successful reduction was achieved in 8 out of 9 (88.9%) cases. The median time from PED arrival to successful POCUS-guided reduction was 1.69 hours (interquartile range 1.04 to 2.45). No complications or 24-hour recurrences occurred. One unsuccessful case was later identified to have a lead point requiring definitive surgical repair.\n\n**CONCLUSION**: Our case series of POCUS-guided hydrostatic reduction performed by a trained PEM physician at the bedside in the PED appears to highlight a safe and expedient form of treatment for ileocolic intussusception. This approach eliminates radiation exposure and may shorten time to intervention in certain cases, particularly in settings without dedicated pediatric radiology services. Further larger studies are needed to validate our findings.",
-      "journal": "Ann Emerg Med",
-      "authors": [
-        "Zymerman SA",
-        "Cramer N",
-        "Klein A",
-        "Cohen S",
-        "Nadir E",
-        "Katzir Y"
-      ],
-      "date": "2026 Jul 02",
-      "doi": "10.1016/j.annemergmed.2026.06.006",
-      "tier": "filtered",
-      "topics": [
-        "Imaging"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "POCUS",
-          "strength": "weak",
-          "topic": "Imaging"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42390396/"
-    },
-    {
-      "pmid": "42390229",
-      "title": "Electric-Scooters: An Emerging Source of High-Severity Pediatric Head Trauma.",
-      "abstract": "**BACKGROUND AND OBJECTIVES**: Electric scooters (ES) have become increasingly popular among children and adolescents in France. To date, very little is known about their impact on the incidence and severity of pediatric head trauma (HT).\n\n**METHODS**: We conducted a retrospective single-center study of patients aged 2 to 18 years admitted to a pediatric neurosurgery ward between 2021 and 2025 for HT related to ES, nonmotorized two-wheeled vehicles (bicycles, kick-scooters; NMTV), or motorbikes. Demographics, accident characteristics, helmet use, clinical and radiological severity, neurosurgical management, hospital course, and need for rehabilitation were collected. Injury severity was assessed using a multivariate model combining neurological, radiological, and in-hospital outcomes. A follow-up phone interview was conducted in a subset of ES patients to assess long-term functional outcome and postinjury behavior regarding mobility habits.\n\n**RESULTS**: ES-related HT rose from 1 case in 2021 to 25 in 2025, whereas the number of HT related to NMTV and motorbikes remained stable. Nearly half of injured ES riders were below the legal age, and helmet use was rare. The severity profile of ES-related HT was greater than that of bicycle and kick-scooter accidents, and comparable to that of motorbike accidents. Five ES patients required surgical intervention, most commonly for epidural hematoma evacuation. At follow-up, most patients had favorable functional outcomes, but nearly one-third experienced persistent disability, and helmet adoption after injury remained limited.\n\n**CONCLUSION**: ES have emerged as a high-severity mechanism of pediatric HT, comparable to motorbikes. Enhanced prevention strategies, including helmet enforcement, and age regulation, are urgently needed.",
-      "journal": "Neurosurgery",
-      "authors": [
-        "Petitet P",
-        "Musarra A",
-        "de Laurentis C",
-        "Beuriat PA",
-        "Szathmari A",
-        "Vinchon M",
-        "Guernouche S",
-        "Javouhey E",
-        "Di Rocco F"
-      ],
-      "date": "2026 Jul 02",
-      "doi": "10.1227/neu.0000000000004153",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Systems/QI",
-        "TBI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "injury severity",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "epidural haematoma",
-          "strength": "weak",
-          "topic": "TBI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42390229/"
-    },
-    {
-      "pmid": "42387588",
-      "title": "Emergency department medical care during civil unrest: a narrative review.",
-      "abstract": "**BACKGROUND**: Civil unrest is a critical societal challenge in many parts of the world. Crowd control weapons (including conducted energy devices, chemical irritants, kinetic impact projectiles, acoustic devices, and water cannons) produce agent-specific injuries that do not precisely map onto standard trauma frameworks. This narrative review synthesises the available evidence on the mechanisms, health effects, and emergency department management of casualties inflicted by crowd-control weapons.\n\n**MAIN BODY**: Emergency department preparedness for civil unrest rests on surge capacity planning across staffing, supplies, space, and systems, with additional demands imposed by chemical decontamination, unpredictable patient volumes, and risks to staff safety. Conducted energy devices cause injury primarily through falls during neuromuscular incapacitation and through probe penetration of sensitive structures; cardiac risk is low but may be amplified by comorbidities and intoxication. Routine cardiac monitoring is not supported for alert, asymptomatic patients after brief exposures. Riot control agents (principally 2-chlorobenzylidene malononitrile [CS], chloroacetophenone [CN], and oleoresin capsicum) activate nociceptive ion channels, producing ocular, respiratory, and dermal injury that is largely self-limiting but can be severe, especially in enclosed spaces or vulnerable populations such as infants, elderly and patients with asthma. Management centres on decontamination and supportive care. Kinetic impact projectiles are responsible for the highest burden of permanent disability, particularly ocular injury; initial presentations may appear deceptively benign, and clinicians must maintain a high index of suspicion for occult internal injury guided by mechanism rather than surface findings. Acoustic devices and water cannons cause auditory barotrauma and blunt trauma, respectively, while improvised incendiary devices produce combined burn and inhalation injury patterns. Each mechanism imposes specific demands on triage, imaging, specialist consultation, and disposition.\n\n**CONCLUSION**: Emergency clinicians should be familiar with the distinct injury profiles associated with crowd-control weapons and be prepared to manage them within the emergency care setting. Preparedness planning, mechanism-guided clinical assessment, and awareness of agent-specific pathology are essential to optimising outcomes for casualties of civil unrest.",
-      "journal": "Scand J Trauma Resusc Emerg Med",
-      "authors": [
-        "Carenzo L",
-        "Leuci L",
-        "D\u00fcnser M",
-        "Granholm F",
-        "Rehn M",
-        "H\u00fcser C",
-        "Ranse J",
-        "Park C",
-        "Tin D",
-        "Caviglia M"
-      ],
-      "date": "2026 Jul 01",
-      "doi": "10.1016/j.ijscr.2023.109009",
-      "tier": "core",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "blunt trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42387588/"
-    },
-    {
-      "pmid": "42387527",
-      "title": "EDEN - Enhanced Dispatch for Efficient Neurointervention: mathematical model from national data.",
-      "abstract": "**BACKGROUND**: Mechanical thrombectomy (MT) has been proven to be an effective treatment for large vessel acute ischemic strokes. A debate is ongoing about whether to use the mothership or the drip-and-ship strategy for stroke patient transfers. Precious time could be lost if prehospital triage is incorrect. Combining a helicopter with an ambulance on the ground may further reduce prehospital delays.\n\n**METHODS**: We conducted a single MT-capable center mathematical model study to assess how many individuals could reach Tampere University Hospital (Tays) within a 120-minute time limit. Population data were obtained from the Finnish Institute of Health and Welfare. Finland is divided into 1-square-kilometer grid cells in the dataset. Travel times were calculated using OpenRouteService. The primary outcome was the number of individuals reaching Tays within the time limit. We evaluated three scenarios: (1) ground transportation only, (2) the Emergency Medical Services (EMS) personnel dispatch the Helicopter Emergency Medical Services (HEMS) unit after being on scene for 10\u2009minutes, and (3) HEMS and EMS are dispatched at the same time.\n\n**RESULTS**: In the first scenario, 1,016,180 individuals could reach Tays within 120\u2009minutes. When ground transportation is combined with a helicopter, 981,391 more individuals could reach Tays within time in scenario 2 settings, corresponding to a 97% increase. Simultaneous dispatch of EMS and HEMS further increased the population reaching Tays with 37,495 individuals. A total of 2,035,067 individuals lived within 120\u2009minutes of the MT center we studied.\n\n**CONCLUSIONS**: A hybrid transportation strategy improved access to MT in a single center study. The use of a helicopter nearly doubled the population in the catchment area of Tays, while early recognition of large vessel occlusion stroke provided only a modest additional increase in the number of individuals accessing Tays within the time limit.",
-      "journal": "Scand J Trauma Resusc Emerg Med",
-      "authors": [
-        "Mattila E",
-        "Hoppu S",
-        "Mahosenaho M",
-        "Vuorinen P"
-      ],
-      "date": "2026 Jul 01",
-      "doi": "10.1186/s13049-026-01653-x",
-      "tier": "core",
-      "topics": [
-        "Prehospital"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "helicopter emergency",
-          "strength": "weak",
-          "topic": "Prehospital"
-        },
-        {
-          "keyword": "HEMS",
-          "strength": "weak",
-          "topic": "Prehospital"
-        },
-        {
-          "keyword": "prehospital",
-          "strength": "weak",
-          "topic": "Prehospital"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42387527/"
-    },
-    {
-      "pmid": "42387340",
-      "title": "The evolving prehospital care: a 12-year retrospective analysis.",
-      "abstract": "**BACKGROUND**: Emergency medical services (EMS) are one of the main interfaces between acutely ill patients in the prehospital environment and hospital-based care. Yet longitudinal, population-level studies of EMS patient populations remain limited. We aimed to characterize temporal trends in EMS demand, triage acuity, hospital admission, and short-term mortality among patients managed by EMS and transported to emergency departments (EDs) in a Swedish healthcare system from 2011 to 2022.\n\n**METHODS**: This was a retrospective, population-based study of all primary EMS assignments in Region \u00d6sterg\u00f6tland, Sweden (catchment population 456,000), from 2011 to 2022. Data were extracted from linked electronic health records encompassing EMS, ED, and inpatient care. Triage acuity was classified using the Rapid Emergency Triage and Treatment System (RETTS). The primary outcome was the temporal trend in triage acuity among EMS patients. Secondary outcomes included hospital admission rates, 1, 7, 30, and 90-day mortality, and non-transport disposition rates. Proportional-odds ordinal regression and multivariable logistic regression were used to assess temporal trends. Descriptive statistics were used to summarize demographic data.\n\n**RESULTS**: Of 474,647 included primary assignments, 394,580 (83.1%) resulted in ED transport. Triage acuity shifted progressively toward higher-severity categories. The combined proportion of acuity levels 1 and 2 (highest) increased from 32% to 57%, with an 8% annual increase in odds of higher classification (OR 1.08 per year, 95% CI 1.08-1.09). Non-transport dispositions rose from 5% to 25% of primary assignments. The hospital admission rate among EMS-transported patients was constant at approximately 50%, but their share of all ED-originating hospital admissions increased from 42% to 57%. Short-term mortality was stable; triage acuity was the strongest predictor of death at all time points (OR 1.14-5.15 per level).\n\n**CONCLUSIONS**: Over 12 years, EMS-transported patients presented with progressively higher triage acuity while constituting an increasing share of hospital admissions. These trends, concurrent with a fivefold expansion in non-transport dispositions, reflect a shift in the role of EMS toward field-based clinical assessment and disposition. These findings have implications for EMS resource planning, triage system evaluation, and the integration of prehospital data into hospital capacity management.",
-      "journal": "Scand J Trauma Resusc Emerg Med",
-      "authors": [
-        "Johansson H",
-        "Wilhelms D",
-        "Wretborn J"
-      ],
-      "date": "2026 Jul 01",
-      "doi": "10.1136/emermed-2023-213444",
-      "tier": "core",
-      "topics": [
-        "Prehospital"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "prehospital",
-          "strength": "strong",
-          "topic": "Prehospital"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42387340/"
-    },
-    {
-      "pmid": "42386488",
-      "title": "Agreement between ChatGPT and emergency physicians in laceration management: A prospective study.",
-      "abstract": "**INTRODUCTION**: Although large language models (LLMs) like ChatGPT are increasingly used in clinical reasoning, their reliability in procedural decision-making remains questionable. Wound management provides a standardized framework for evaluating their performance in practical scenarios. The primary goal of this study was to assess the level of agreement between ChatGPT's recommendations and emergency physicians' decisions in the management of traumatic lacerations.\n\n**METHODS**: The Emergency Department of Manisa Celal Bayar University Hafsa Sultan Hospital served as the site of this prospective, comparative study, conducted from February to May 2025. A cohort of 792 patients with traumatic lacerations was included. Five structured questions were presented to ChatGPT (GPT-4 model) to obtain information on suture material, technique, count, wound classification, and the necessity of antibiotics. Physicians' documented decisions were compared with their recommendations. Concordance was measured using Cohen's kappa (\u03ba), and subgroup analyses were conducted by wound size and location.\n\n**RESULTS**: The median age of the cohort was 28 years (IQR 16-40, range, 2-80), the proportion of males was 79.9%. The leading cause of injury was metal-related trauma, accounting for 47.7%. Across all decision domains, there was considerable to almost perfect agreement between ChatGPT and physicians (\u03ba\u00a0=\u00a00.751-0.848; p\u00a0<\u00a00.001), with accuracy ranging from 82.6% to 91.7%. The most significant concordance was observed for antibiotic indication and wound classification. Agreement was consistently high across all anatomic sites, with higher agreement in wounds measuring 2.5\u00a0cm or more.\n\n**CONCLUSIONS**: The study results suggest that ChatGPT aligns well with physician decision-making in wound management planning, further supporting its potential use as a clinical decision-support and educational tool in emergency medicine. AI systems, when properly validated, may enhance consistency and training, while ensuring physician oversight.",
-      "journal": "Injury",
-      "authors": [
-        "Sa\u011flam G\u00fcrmen E",
-        "Yorganc\u0131o\u011flu M",
-        "Oral A"
-      ],
-      "date": "2026 Jun 29",
-      "doi": "10.1016/j.injury.2026.113478",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic",
-          "strength": "weak",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42386488/"
-    },
-    {
-      "pmid": "42385662",
-      "title": "Clinical features of adults with undiagnosed acute leukemia in the emergency department: A descriptive study.",
-      "abstract": "**BACKGROUND**: Acute leukemia is a life-threatening hematologic malignancy requiring early diagnosis, particularly in the emergency setting. However, initial clinical presentations in the emergency department (ED) remain poorly characterized, resulting in potentially delayed diagnosis. We aimed to describe the initial clinical presentations and major complications of adult patients with previously undiagnosed acute leukemia presenting to the ED.\n\n**METHODS**: We conducted a retrospective descriptive study at a tertiary care ED in Japan from January 2016 to December 2025. We included patients aged 16\u00a0years or older who were newly diagnosed with acute leukemia within 14\u00a0days of the ED visit. Patients were categorized into uncomplicated and complicated groups based on the presence of febrile neutropenia, intracranial hemorrhage, or leukostasis. We examined the frequency of the three common presenting symptoms (fever, dyspnea, and bleeding tendency) and the presence of major complications at ED presentation.\n\n**RESULTS**: Of 49 patients with acute leukemia, 30 (61%) were in the uncomplicated group and 19 (39%) in the complicated group. Fever was the most frequent presenting symptom but was present in only 43% of uncomplicated patients. Among uncomplicated patients, 20% presented with none of the three common presenting symptoms, and 50% presented with only one. In complicated acute leukemia, chief complaints were frequently pain or altered mental status rather than the common symptoms.\n\n**CONCLUSIONS**: A substantial proportion of adult patients with acute leukemia presenting to the ED had heterogeneous symptoms. Emergency physicians should maintain a low threshold for laboratory evaluation including peripheral blood smear.",
-      "journal": "Am J Emerg Med",
-      "authors": [
-        "Kashiwa K",
-        "Okazaki Y",
-        "Ichiba T",
-        "Naito H"
-      ],
-      "date": "2026 Jun 23",
-      "doi": "10.1016/j.ajem.2026.06.036",
-      "tier": "filtered",
-      "topics": [
-        "TBI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "intracranial haemorrhage",
-          "strength": "weak",
-          "topic": "TBI"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42385662/"
-    },
-    {
-      "pmid": "42385566",
-      "title": "Lateral epicondylar fractures in the pediatric population: Presentation, management, and outcomes.",
-      "abstract": "**INTRODUCTION**: Lateral epicondylar fractures in young patients have received limited attention in the literature. This study aims to describe their mechanism of injury, concomitant injuries, management, and long-term outcomes in pediatrics.\n\n**METHODS**: This IRB-approved retrospective case series included patients younger than 18 years diagnosed with lateral epicondyle fractures between (2015-2021). Data collected included patient demographics, fracture characteristics at presentation, management details, and clinical outcomes. Patient-reported outcome measures (PROMs) were assessed using the QuickDASH score and associated functional variables.\n\n**RESULTS**: Twenty-two patients (10 male, 12 female) with a mean age of 10.5 years and BMI of 19.2 were included. Sports-related injuries were the most common mechanism (9 patients, 40.9%), followed by other high-energy falls such as from bicycles, stairs, or hoverboards (13 patients, 59.1%). Sixteen patients (72.7%) had nondisplaced fractures, while six (27.3%) had displaced fractures. Concomitant injuries were present in 12 patients (54.5%), including elbow fracture-dislocations (6, 27.3%), coronoid process fractures (4, 18.2%), and ligamentous injuries (2, 9.1%). Among those with fracture-dislocations, three (50%) also had additional elbow fractures, most commonly involving the medial epicondyle. Three patients (13.6%) required operative intervention-two for symptomatic nonunion and one for lateral collateral ligament reconstruction. All other patients were treated with rigid immobilization in a long arm cast or splint for an average of 4.1 weeks. Post-immobilization stiffness occurred in 36.4% of patients but improved with physical therapy. Sixteen patients (72.7%) had a mean follow-up of 3.2 years. Their average QuickDASH score was 6.0 and the average time to return to activity was 17.4 weeks after injury.\n\n**CONCLUSIONS**: Lateral epicondyle fractures represent a rare but frequently missed fractures, typically resulting from sports activities or high-energy falls that impart axial load and valgus stress to a supinated forearm. Nondisplaced fractures are treated well with long arm immobilization, while displaced fractures and high-energy injuries warrant careful assessment for associated fractures or ligamentous damage, as these may require operative management.",
-      "journal": "Injury",
-      "authors": [
-        "Kushare I",
-        "Ghanta R",
-        "Smadi Z",
-        "Wunderlich N",
-        "Phillips T"
-      ],
-      "date": "2026 Aug 1",
-      "doi": "10.1016/j.injury.2026.113464",
-      "tier": "filtered",
-      "topics": [],
-      "keyword_matches": [],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42385566/"
-    },
-    {
-      "pmid": "42385565",
-      "title": "Variation in surgical indications across national distal radius fracture guidelines: A comparative review.",
-      "abstract": "**AIMS**: Surgical indications for dorsally displaced distal radius fractures (DRFs) are guided by national guidelines, yet variation in clinical practice persists. This study aimed to compare contemporary national guidelines, examine differences in recommended intervention thresholds, and assess their potential impact on treatment decisions and resource utilization.\n\n**METHODS**: A structured search was conducted across biomedical databases, clinical knowledge platforms, guideline repositories, and national health agency websites. National guidelines were included if they provided surgical recommendations for dorsally displaced DRFs in adults. Radiographic thresholds, patient-related criteria, and methodological characteristics were extracted and analysed comparatively.\n\n**RESULTS**: Eight national guidelines were included in the comparative analysis (one from the United States and seven from Europe). Ulnar variance, dorsal tilt, and intra-articular step-off were consistently identified as key radiographic indicators for surgery, although threshold values and age-related modifications varied. Additional parameters, including volar cortical alignment, fracture comminution, osteoporosis, and intra-articular gap, were incorporated inconsistently. Some guidelines applied fixed age thresholds, whereas others emphasised functional demand. Despite methodological variation, recommendations were derived from a largely shared but methodologically limited evidence base, with expert consensus playing a substantial role. These differences may have implications for surgical rates and healthcare resource use across healthcare systems.\n\n**CONCLUSION**: Variation across national DRF guidelines reflects both limitations in the evidence base and differences in clinical prioritisation. The findings highlight ongoing uncertainty in the evidence base and support the need for clearer definitions of instability and stronger links between radiographic parameters and clinically relevant outcomes. International consensus initiatives are needed to support more consistent surgical indications and improve healthcare efficiency.",
-      "journal": "Injury",
-      "authors": [
-        "Oftebro I",
-        "Olsen B",
-        "Enger MM",
-        "Hassellund SS",
-        "Solberg LB"
-      ],
-      "date": "2026 Aug 1",
-      "doi": "10.1016/j.injury.2026.113480",
-      "tier": "filtered",
-      "topics": [],
-      "keyword_matches": [],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42385565/"
-    },
-    {
-      "pmid": "42385564",
-      "title": "Prosthetic leg socket design: New insight on different tibia length and distal bevelled angle using finite element analysis.",
-      "abstract": "Socket is one of the components that can determine the comfort of the user. Poor socket fit can induce pain and discomfort to the residual leg. Besides, poor selection of amputation morphological parameters such as length of bone and tibial bevelling angle can hinder the control of prosthesis. Thus, the surgeon needs to make a wise decision, or else it can cause problems later in prescribing prostheses for the amputee. The aim of the study is to investigate the effect of morphological variability of residual limbs such as tibial length, distal tibia bevelling angle, and stiffness of soft tissue. The residual leg of the volunteer was scanned using a 3D scanner, and a socket was designed based on the contour of the residual leg. The bone 3D model was derived from CT-scanned data and modelled as amputated bone, with the length of the tibia cut to 12.5\u00a0cm, 15\u00a0cm, and 17.5\u00a0cm and the distal is bevelled to 30\u00b0, 45\u00b0, and 60\u00b0. Stiffness of the soft tissue is defined as the D and C hyper-elastic values. From the result, tibial length of 12.5\u00a0cm, distal tibial bevelling angle of 45\u00b0, and stiffness of 55 kPa are found as the optimal parameters for the volunteer by selecting the lowest maximum von Mises stress of soft tissue for each category. No pain is predicted on the soft tissue during standing since the normal stress is not exceeding the pain threshold at fibular head region (0.89\u00a0MPa). The result indicates that the morphology of the residual limb affected the stress distribution on the soft tissue, where for this study specific patient, 15\u00a0cm tibial length, 45\u00b0 tibial beveling angle, and contracted soft tissue are the optimum parameters.",
-      "journal": "Injury",
-      "authors": [
-        "Baharuddin MH",
-        "Abdullah NNAA",
-        "Kori MI",
-        "Gan HS",
-        "Abdul Kadir MR",
-        "Ramlee MH"
-      ],
-      "date": "2026 Aug 1",
-      "doi": "10.1016/j.injury.2026.113472",
-      "tier": "filtered",
-      "topics": [],
-      "keyword_matches": [],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42385564/"
     }
   ]
 }
