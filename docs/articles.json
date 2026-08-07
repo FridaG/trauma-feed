@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-07T00:50:29.074415Z",
-  "total_articles": 204,
+  "generated": "2026-08-07T20:30:20.597923Z",
+  "total_articles": 213,
   "all_topics": [
     "Abdominal",
     "Burns",
@@ -378,6 +378,420 @@
     "Cochrane Database Syst Rev": "filtered"
   },
   "articles": [
+    {
+      "pmid": "42566036",
+      "title": "Robotic vs Laparoscopic Cholecystectomy: Preoperative and Intraoperative Severity-Adjusted Outcomes with Strasberg-Classified Bile Duct Injury.",
+      "abstract": "**BACKGROUND**: Whether robot-assisted cholecystectomy reduces bile duct injury compared with laparoscopic cholecystectomy remains uncertain because prior studies have inadequately accounted for disease severity and have rarely classified injury severity using standardized criteria. This study compared perioperative outcomes after robot-assisted and laparoscopic cholecystectomy across a large healthcare system while adjusting for operative complexity.\n\n**STUDY DESIGN**: Adults undergoing robot-assisted or laparoscopic cholecystectomy within the Mayo Clinic Enterprise (2014-2025) were retrospectively evaluated. Propensity score weighting adjusted for demographics, surgeon case volume, learning curve, and disease severity using the Tokyo Guidelines and Parkland grading system in patients with acute cholecystitis. The primary outcome was bile duct injury; secondary outcomes included general and procedure-specific complications.\n\n**RESULTS**: Among 23,513 patients (19,998 laparoscopic; 3,515 robotic), robot-assisted cholecystectomy was used more frequently for Parkland grade \u22653 disease. Overall, 227 bile duct injuries occurred (204 laparoscopic; 23 robotic), corresponding to absolute risks of 1.02% and 0.65%, respectively (absolute risk difference -0.37%, 95% CI -0.72% to -0.02%; number needed to treat, 273). Robot-assisted cholecystectomy was associated with lower odds of conversion to open surgery, 30-day readmission, and mortality, shorter hospital stay (\u03b2 -0.56, 95% CI -0.66 to -0.45; P<0.001), and a 5-minute longer median operative time. In acute cholecystitis, robot-assisted cholecystectomy was associated with lower adjusted odds of bile duct injury (aOR 0.29, 95% CI 0.07-0.78; P=0.011).\n\n**CONCLUSIONS**: After adjustment for disease severity and surgeon-related factors, robot-assisted cholecystectomy was associated with lower odds of bile duct injury in acute cholecystitis and improved perioperative outcomes, including shorter hospitalization and lower conversion rates, despite greater use in more complex cases.",
+      "journal": "J Am Coll Surg",
+      "authors": [
+        "Kandil O",
+        "Rehman N",
+        "Saleeb A",
+        "Thompson E",
+        "Krosch T",
+        "Beckermann J",
+        "Veenstra B",
+        "Nelson M",
+        "Joshi D",
+        "Abutaka A",
+        "Fong ZV",
+        "Jorge I"
+      ],
+      "date": "2026 Aug 07",
+      "doi": "10.1097/XCS.0000000000002118",
+      "tier": "filtered",
+      "topics": [
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "injury severity",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42566036/"
+    },
+    {
+      "pmid": "42566011",
+      "title": "Impairment in activities of daily living and textbook outcome after major emergency abdominal surgery.",
+      "abstract": "**PURPOSE**: Textbook Outcome (TO) has been a useful tool to assess benchmark patient-centred surgical outcomes in elective abdominal surgery. This study aimed to evaluate the association of preoperative activities of daily living (ADL) status with TOs following major emergency abdominal surgery.\n\n**METHODS**: This retrospective study included 301 consecutive patients who underwent major emergency abdominal surgery for high-risk acute abdominal conditions, including perforated peptic ulcer, intestinal ischemia, bowel obstruction, bowel perforation, and severe intraabdominal bleeding or infection, at Kumamoto Regional Medical Center between April 2019 and March 2025. Preoperative ADL was evaluated using the Barthel Index (range, 0 to 100), with higher scores indicating greater independence. Barthel Index\u2009\u2264\u200985 was defined as ADL impairment. According to a recent international consensus, TO was defined as discharge to \"home\" without major postoperative complications (Clavien-Dindo grade\u2009\u2265\u2009III). Multivariable logistic regression analysis was conducted to assess the association of preoperative ADL with TO achievement, adjusting for clinical features and surgery-related factors.\n\n**RESULTS**: Among the 301 patients, 90 (30%) had preoperative ADL impairment (Barthel Index\u2009\u2264\u200985) and 211 (70%) achieved TO. Multivariable analysis revealed that preoperative ADL impairment was independently associated with failure to achieve TO (odds ratio: 0.40; 95% confidence interval: 0.22-0.75; P\u2009=\u20090.004).\n\n**CONCLUSION**: Preoperative ADL impairment is associated with failure to achieve TO after major emergency abdominal surgery. These findings need to be validated by further study to improve patient-centred postoperative outcomes in high-risk abdominal emergencies.",
+      "journal": "Eur J Trauma Emerg Surg",
+      "authors": [
+        "Mima K",
+        "Nitta H",
+        "Shikiji Y",
+        "Nakashima R",
+        "Uemura S",
+        "Morinaga T",
+        "Itoyama R",
+        "Umezaki N",
+        "Iwatsuki M",
+        "Sugita H"
+      ],
+      "date": "2026 Aug 07",
+      "doi": "10.1038/bjc.2012.92",
+      "tier": "core",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42566011/"
+    },
+    {
+      "pmid": "42566005",
+      "title": "Plain Radiograph Use in Pediatric Blunt Trauma Patients with Suspicion for Cervical Spine Injury: A Prospective Observational Analysis of the Western Pediatric Cervical Spine Study.",
+      "abstract": "**BACKGROUND**: Despite guideline support for plain radiography (XR) in low-risk pediatric blunt trauma, CT remains the predominant imaging modality for cervical spine evaluation, increasing radiation exposure. We evaluated contemporary XR utilization and its diagnostic performance in children meeting consensus criteria for XR-first imaging.\n\n**STUDY DESIGN**: We performed a prospective, multicenter observational study of 19,995 children enrolled in the Western Pediatric Cervical Spine Study across 72 U.S. trauma centers (2022-2025). Children appropriate for XR screening (Glasgow Coma Scale score >13, asymptomatic, non-obtunded) were identified using consensus criteria. XR utilization, sensitivity, and negative predictive value (NPV) were assessed, and multivariable logistic regression identified predictors of XR use.\n\n**RESULTS**: XR was performed in 39% of patients overall and varied significantly by trauma center type (pediatric 48% vs adult 14% vs mixed 15%; p<0.001), whereas CT was used in 60%. Among XR-appropriate children (n=12,650), an estimated 7,705 CT examinations could potentially have been replaced with XR. In the overall cohort, XR sensitivity for any cervical spine injury was 30.3% (95% CI 26.2-34.6%) with an NPV of 95.2% (95% CI 94.7-95.7%). In XR-appropriate children, only two clinically significant cervical spine injuries were missed, yielding a sensitivity of 75.0% (95% CI 34.9-96.8%) and an NPV of 99.9% (95% CI 99.9%-100.0%).\n\n**CONCLUSIONS**: Plain radiography is substantially underutilized in children meeting consensus criteria for XR-first imaging. In appropriately selected patients, XR demonstrated an NPV of 99.9% for clinically significant cervical spine injury, supporting broader implementation of XR-first imaging strategies to reduce CT utilization and pediatric radiation exposure.",
+      "journal": "J Am Coll Surg",
+      "authors": [
+        "Kahan AM",
+        "Wan HY",
+        "Eldredge RS",
+        "Kastenberg ZJ",
+        "Larsen KE",
+        "Wallace MW",
+        "Swendiman RA",
+        "Ravindra VM",
+        "Russell KW"
+      ],
+      "date": "2026 Aug 07",
+      "doi": "10.1097/XCS.0000000000002117",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Spine",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "blunt trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "cervical spine",
+          "strength": "strong",
+          "topic": "Spine"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42566005/"
+    },
+    {
+      "pmid": "42565997",
+      "title": "Early calcium replacement after minimal blood transfusion is associated with adverse outcomes.",
+      "abstract": "**PURPOSE**: Calcium disturbances are common in patients with traumatic injuries, exacerbated by shock and blood product resuscitation. Recently, empiric calcium supplementation has been recommended with the first unit of blood transfusion, despite a lack of data supporting this practice. We hypothesize that there are risks associated with calcium administration in patients receiving small volume transfusion.\n\n**METHODS**: This is a retrospective review of patients admitted to our Level 1 trauma center from 2018 to 2024 who received 1-3 units of red blood cells (RBCs). Patients were stratified by calcium levels and whether they received early calcium supplementation. A logistic regression was used to estimate odds ratios for the association between calcium levels, calcium supplementation, and outcomes. The primary outcome was in-hospital mortality. Secondary outcomes included acute kidney injury, myocardial infarction, acute respiratory distress syndrome, and venous thromboembolism. The model was adjusted for age, sex, ISS and shock index.\n\n**RESULTS**: A total of 2,680 patients were included. When stratified by calcium levels and supplementation status, patients were similar in terms of age, sex, mechanism and injury severity score, but shock index was higher among patients receiving calcium supplementation. After adjustment, hypocalcemic patients who received calcium supplementation had higher odds of developing acute kidney injury, acute respiratory distress syndrome, deep vein thrombosis, and pulmonary embolism (all p\u2009<\u20090.05).\n\n**CONCLUSION**: In trauma patients who received 1-3 units of RBCs, early calcium supplementation was associated with adverse outcomes. The use of early, empiric calcium supplementation in conjunction with minimal transfusion should be carefully considered.",
+      "journal": "Eur J Trauma Emerg Surg",
+      "authors": [
+        "Hewgley WP",
+        "Griffin RL",
+        "Baird E",
+        "Hashmi ZG",
+        "Baker SJ",
+        "Jansen JO",
+        "Kerby J",
+        "Holcomb JB",
+        "Gelbard RB"
+      ],
+      "date": "2026 Aug 07",
+      "doi": "10.1007/s00068-026-03282-6",
+      "tier": "core",
+      "topics": [
+        "General Trauma",
+        "Haemorrhage",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "injury severity",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "blood product",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "blood transfusion",
+          "strength": "strong",
+          "topic": "Haemorrhage"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42565997/"
+    },
+    {
+      "pmid": "42565894",
+      "title": "Peripheral perfusion index as a predictor of severe shock in trauma patients: a prospective observational study.",
+      "abstract": "**BACKGROUND**: Early recognition of haemorrhagic shock is critical in trauma care, particularly in low- and middle-income countries where delayed referral is common. Conventional vital signs may remain normal despite ongoing hypoperfusion. The Perfusion Index (PI), derived from pulse oximetry, is a non-invasive and continuously available marker of peripheral perfusion. This study evaluated the ability of PI to identify severe haemorrhagic shock in trauma patients and compared its performance with the Shock Index (SI) and Modified Shock Index (mSI).\n\n**METHODS**: This prospective, single-centre study was conducted at a Level 1 trauma centre between January and May 2024. Adult Priority 1 trauma patients were enrolled and classified as having no/mild shock (ATLS grades 1-2) or severe shock (grades 3-4). PI was recorded during initial assessment. SI, mSI, lactate, injury severity, transfusion requirement, ICU admission, and 24-hour mortality were analysed. Receiver operating characteristic (ROC) analysis and multivariable logistic regression were performed.\n\n**RESULTS**: A total of 120 patients were included (mean age 40.4\u2009\u00b1\u200917.2 years; 90% male), predominantly with blunt trauma (85% road traffic injuries). Severe shock was present in 35 patients (29.2%). Median PI was significantly lower in severe shock compared with no/mild shock (0.54 [IQR 0.28-1.31] vs. 1.33 [0.71-2.16], p\u2009=\u20090.008). Mean SI (1.24\u2009\u00b1\u20090.47 vs. 0.72\u2009\u00b1\u20090.14, p\u2009<\u20090.001) and mSI (1.50\u2009\u00b1\u20090.49 vs. 0.96\u2009\u00b1\u20090.18, p\u2009=\u20090.001) were significantly higher in severe shock. On multivariable analysis, PI\u2009\u2264\u20090.78 independently predicted severe shock (OR 3.62, 95% CI 1.41-9.29), along with SI\u2009>\u20091.0, mSI\u2009>\u20091.3, and lactate\u2009>\u20094 mmol/L. PI demonstrated fair discrimination for severe shock (AUC 0.76; sensitivity 72%, specificity 66%) and 24-hour mortality (AUC 0.71).\n\n**CONCLUSION**: PI demonstrated moderate discriminatory ability and may serve as a useful non-invasive adjunct for identifying severe haemorrhagic shock. Its continuous, operator-independent measurement supports a potential role in early triage and resuscitation, particularly in resource-limited settings.",
+      "journal": "Eur J Trauma Emerg Surg",
+      "authors": [
+        "Sundar H",
+        "Purushothaman V",
+        "Mathuram SR",
+        "Chandy GM",
+        "Sharma SL",
+        "Nayak S",
+        "James JD"
+      ],
+      "date": "2026 Aug 07",
+      "doi": "10.1080/13685538.2020.1760816",
+      "tier": "core",
+      "topics": [
+        "General Trauma",
+        "Haemorrhage",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "blunt trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "injury severity",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "haemorrhagic shock",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "ATLS",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42565894/"
+    },
+    {
+      "pmid": "42565843",
+      "title": "A prospective study on abdominal trauma: patterns of injury, clinical presentation, organ involvement, associated injuries, and outcomes at a tertiary hospital in Mogadishu, Somalia.",
+      "abstract": "**BACKGROUND**: Trauma is a major global public health problem and one of the leading causes of death and disability worldwide, particularly among individuals younger than 44 years of age. Approximately 6\u00a0million people die each year as a result of traumatic injuries, with nearly 90% of these deaths occurring in low- and middle-income countries. Previous epidemiological studies have reported postoperative complication rates ranging from 18% to 42% and mortality rates between 8.5% and 13%.\n\n**OBJECTIVE**: To evaluate the patterns of injury, clinical presentation, organ involvement, associated injuries, management strategies, and outcomes among adult patients with abdominal trauma in Mogadishu, Somalia.\n\n**METHODS**: A prospective observational study was conducted from August 2023 to July 2024 at Mogadishu Somali-T\u00fcrkiye Recep Tayyip Erdo\u011fan Training and Research Hospital. A total of 146 adult patients with abdominal trauma were enrolled. Data were collected using a pretested structured questionnaire and analyzed using Stata version 16. Univariable and multivariable logistic regression analyses were performed to identify factors independently associated with in-hospital mortality.\n\n**RESULTS**: The study population consisted predominantly of young adult males, with a mean age of 30.18\u2009\u00b1\u20099.2 years, and males accounted for 97.3% of all patients. Penetrating trauma was the predominant mechanism of injury (95.9%), with gunshot wounds representing the most common cause (71.9%). The small intestine and colon were the most frequently injured organs, each accounting for 40.4% of cases, and multiple organ injuries were identified in 56.8% of patients. Surgical intervention was performed in 88.4% of patients, while the overall in-hospital mortality rate was 16.4%. Multivariable logistic regression identified intensive care unit (ICU) admission (adjusted odds ratio [AOR]\u2009=\u200912.85; 95% confidence interval [CI]: 2.34-70.59) and delayed surgical intervention (\u2265\u20096\u00a0h) (AOR\u2009=\u2009107.9; 95% CI: 12.9-903.5) as independent predictors of mortality.\n\n**CONCLUSION**: Penetrating abdominal trauma, predominantly caused by gunshot wounds, represents the leading mechanism of injury in Mogadishu and primarily affects young adult males. Injuries to the small intestine and colon were the most common, and multiple organ involvement was frequently encountered. Most patients required operative management, and prompt surgical intervention was associated with improved survival. ICU admission and delayed surgical intervention were independent predictors of in-hospital mortality. These findings underscore the urgent need to strengthen trauma care infrastructure, optimize emergency surgical services, and implement preventive strategies tailored to Somalia's high-risk environment.",
+      "journal": "Eur J Trauma Emerg Surg",
+      "authors": [
+        "Mohamud AA",
+        "Hassan AI",
+        "Ali AK",
+        "Jubur AA",
+        "Ahmed MR",
+        "Mohamed SS",
+        "Mohamed MM",
+        "Bashir AM"
+      ],
+      "date": "2026 Aug 07",
+      "doi": "10.4236/ijcm.2014.51004",
+      "tier": "core",
+      "topics": [
+        "General Trauma",
+        "Penetrating"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "penetrating trauma",
+          "strength": "weak",
+          "topic": "Penetrating"
+        },
+        {
+          "keyword": "gunshot wound",
+          "strength": "weak",
+          "topic": "Penetrating"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42565843/"
+    },
+    {
+      "pmid": "42565652",
+      "title": "Geographic Access to Care and Mortality in Cardiogenic Shock: A Nationwide Cohort Analysis.",
+      "abstract": "**IMPORTANCE**: Timely access to advanced care is critical for patients with cardiogenic shock (CS), yet the impact of regional disparities in hospital arrival time on mortality remains unclear.\n\n**OBJECTIVES**: To investigate whether regional disparities in hospital arrival time are associated with in-hospital and long-term mortality among patients with CS.\n\n**DESIGN**: Population-based, nationwide cohort study.\n\n**SETTING**: Tertiary hospitals in South Korea, using data from the Korean National Health Insurance Service database and regional hospital accessibility indicators from the Korea Transport Institute.\n\n**PARTICIPANTS**: A total of 80,263 adults (\u2265 18 yr) admitted to an ICU with a diagnosis of CS between 2017 and 2022. The study population was stratified by estimated hospital arrival time using region-level average daytime travel times (< 10, 10-30, 30-60, and > 60\u2009min) for the present study.\n\n**INTERVENTIONS**: None.\n\n**MAIN OUTCOMES AND MEASURES**: The primary outcome was all-cause mortality, including in-hospital and post-discharge mortality. Multivariable logistic and Cox regression models were used to assess associations.\n\n**RESULTS**: Median estimated hospital arrival time was 9.15 minutes. In-hospital mortality increased progressively with longer arrival times: 29.6% (< 10\u2009min), 33.5% (10-30\u2009min), 34.9% (30-60\u2009min), and 38.8% (> 60\u2009min). Compared with less than 10 minutes, the adjusted odds ratios for in-hospital mortality were 1.27 (95% CI, 1.23-1.32), 1.24 (95% CI, 1.14-1.35), and 1.51 (95% CI, 1.29-1.75), respectively. At 1-year follow-up, the adjusted hazard ratios for all-cause mortality were 1.16 (95% CI, 1.14-1.19 for 10-30\u2009min), 1.16 (95% CI, 1.09-1.21 for 30-60\u2009min), and 1.31 (95% CI, 1.19-1.43 for > 60\u2009min), relative to less than 10 minutes. These associations were consistent in both de novo and acute-on-chronic CS.\n\n**CONCLUSIONS**: Longer hospital arrival times are significantly associated with increased in-hospital and long-term mortality in patients with CS. These findings underscore the need for system-level interventions, such as regionally coordinated shock networks and early prehospital triage, to ensure timely access to definitive care.",
+      "journal": "Crit Care Med",
+      "authors": [
+        "Choi KH",
+        "Kang D",
+        "Seo J",
+        "Cha JH",
+        "Park TK",
+        "Lee JM",
+        "Song YB",
+        "Hahn JY",
+        "Choi SH",
+        "Gwon HC",
+        "Cho J",
+        "Yang JH"
+      ],
+      "date": "2026 Aug 07",
+      "doi": "10.1097/CCM.0000000000007287",
+      "tier": "filtered",
+      "topics": [
+        "Prehospital"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "prehospital",
+          "strength": "weak",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42565652/"
+    },
+    {
+      "pmid": "42562704",
+      "title": "Impact of the hybrid emergency room system on long-term functional outcomes in severe traumatic brain injury.",
+      "abstract": "**BACKGROUND**: Severe traumatic brain injury (TBI) remains a major cause of death and disability worldwide. Secondary brain injury due to hypoxia, hypotension, and intracranial hypertension worsens outcomes. The hybrid emergency room (ER) system integrates computed tomography, interventional radiology, and surgery in one suite, enabling an immediate diagnosis and intervention without patient transfer. This study evaluated its long-term effects on functional outcomes in severe TBI.\n\n**METHODS**: This retrospective before-after study included patients with severe TBI (defined as Head Abbreviated Injury Scale \u2265 3, Glasgow Coma Scale [GCS] \u2264 8) admitted to Osaka General Medical Center between 2007 and 2019. Patients were classified into conventional (2007-2011) and hybrid ER (2011-2019) groups. The primary outcome was long-term functional status at follow-up assessed by the Glasgow Outcome Scale-Extended (GOS-E). The secondary outcome was GOS-E at hospital discharge. Multivariate logistic regression adjusted for age, GCS, and Injury Severity Score. An exploratory assessment of psychological and quality-of-life measures among long-term survivors was also performed.\n\n**RESULTS**: A total of 127 patients were analyzed. The hybrid ER group had significantly shorter times to computed tomography (11\u00a0min vs. 27\u00a0min; p\u00a0<\u00a00.001) and surgery (48\u00a0min vs. 69\u00a0min; p\u00a0<\u00a00.001). Favorable outcomes (GOS-E\u00a0\u2265\u00a05) were more frequent in the hybrid ER group at discharge (37% vs. 16%) and follow-up (52% vs. 39%). After adjustment for major prognostic factors, management in the hybrid ER group was associated with favorable functional outcomes (adjusted OR 4.47; 95% CI 1.47-13.60; p\u00a0=\u00a00.008). The exploratory findings on psychological and quality-of-life outcomes were descriptive with no formal conclusions drawn, owing to the limited sample size and low response rate.\n\n**CONCLUSION**: Hybrid ER management was associated with more favorable long-term functional outcomes compared with conventional management. The wide confidence intervals and differences in follow-up duration between groups preclude definitive conclusions; however, these findings are consistent with a sustained benefit of early integrated trauma care and warrant further prospective investigation.",
+      "journal": "Injury",
+      "authors": [
+        "Mitsuyama Y",
+        "Umemura Y",
+        "Nishida T",
+        "Watanabe A",
+        "Nakamoto N",
+        "Kiguchi T",
+        "Nakahori Y",
+        "Fujimi S"
+      ],
+      "date": "2026 Aug 03",
+      "doi": "10.1016/j.injury.2026.113550",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Systems/QI",
+        "TBI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "injury severity",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "traumatic brain injury",
+          "strength": "strong",
+          "topic": "TBI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42562704/"
+    },
+    {
+      "pmid": "42561720",
+      "title": "Successful dispatcher-assisted CPR and outcomes after out-of-hospital cardiac arrest: an age-specific nationwide study.",
+      "abstract": "**BACKGROUND**: Dispatcher-assisted cardiopulmonary resuscitation (DA-CPR) is an essential strategy for increasing bystander CPR and improving outcomes after out-of-hospital cardiac arrest (OHCA). However, evidence comparing the effectiveness of successful DA-CPR in adult and pediatric populations remains limited. This study evaluated the association between successful DA-CPR and clinical outcomes after OHCA in adult and pediatric patients and assessed whether age modified these associations.\n\n**METHODS**: Emergency medical service (EMS)-treated non-traumatic OHCA cases recorded in the nationwide Korean Out-of-Hospital Cardiac Arrest Registry between 2012 and 2021 were analyzed. DA-CPR was classified as successful or unsuccessful according to dispatcher documentation. Patients were categorized a priori as adult (\u226518\u00a0years) or pediatric (<18\u00a0years), and a four-category exposure variable combining age group and DA-CPR status was constructed. The primary outcome was survival to hospital discharge. Multivariable logistic regression models were used to estimate associations between successful DA-CPR and outcomes, including an interaction term between age group and DA-CPR status.\n\n**RESULTS**: A total of 90,931 patients who received DA-CPR instructions before EMS arrival were included. Successful DA-CPR was independently associated with increased odds of survival to hospital discharge in both adults (adjusted odds ratio [aOR] 1.67, 95% confidence interval [CI] 1.55-1.79) and pediatric patients (aOR 1.91, 95% CI 1.21-3.01). No significant interaction was observed between age group and DA-CPR status (P\u00a0=\u00a00.56). Sensitivity analyses yielded similar results.\n\n**CONCLUSION**: Successful DA-CPR was associated with improved survival outcomes in both adult and pediatric patients with OHCA, with no evidence of effect modification by age.",
+      "journal": "Am J Emerg Med",
+      "authors": [
+        "Tak GM",
+        "Park GJ",
+        "Kim YM",
+        "Chai HS",
+        "Kim SC",
+        "Kim H",
+        "Lee SW"
+      ],
+      "date": "2026 Jul 30",
+      "doi": "10.1016/j.ajem.2026.07.059",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "traumatic",
+          "strength": "weak",
+          "topic": "General Trauma"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42561720/"
+    },
+    {
+      "pmid": "42561707",
+      "title": "Collagen nanofibers enhanced by plasma rich growth factors (PRGF) for the burn wound healing.",
+      "abstract": "**BACKGROUND**: Severe burns impair the body's natural healing capacity, often resulting in delayed tissue repair. Platelets facilitate hemostasis and initiate wound healing through growth factor release. This study investigates the therapeutic potential of collagen nanofibers enriched with Plasma Rich Growth Factors (PRGF) to enhance cell proliferation, migration, and wound healing in burn injuries.\n\n**METHODS**: PRGF powder was prepared from whole blood using a two-step centrifugation protocol followed by freeze-thaw activation and incorporated into collagen/polyethylene oxide (COL/PEO) electrospun nanofibers. The physicochemical properties and growth factor release profile of the nanofibers were characterized. In vitro assays evaluated the effects of PRGF-loaded nanofibers on fibroblast viability and migration. For in vivo analysis, a standardized full-thickness burn wound model was induced in male Wistar rats following Orio's rules. Wound healing was assessed over a 21-day period through macroscopic wound closure measurements and histological analyses, including H&E staining, Masson's trichrome staining, and VEGF immunohistochemistry.\n\n**RESULTS**: PRGF-loaded collagen nanofibers showed an initial burst release of growth factors followed by sustained release. In vitro, PRGF incorporation significantly enhanced fibroblast viability and migration. In vivo, the PRGF\u00a0+\u00a0COL/PEO group demonstrated markedly accelerated wound healing, with improved re-epithelialization, reduced inflammation, greater fibroblast infiltration, and more organized collagen deposition. VEGF expression peaked at day 14, indicating increased angiogenesis, and declined by day 21 as vascular remodeling progressed.\n\n**CONCLUSION**: Collagen nanofibers enriched with PRGF provide a promising wound dressing that promotes cell proliferation and migration, accelerating burn wound repair. The absence of leukocytes in PRGF compared to platelet-rich plasma (PRP) further supports its therapeutic advantage in tissue regeneration.",
+      "journal": "Injury",
+      "authors": [
+        "Abedini-Esfahlani M",
+        "Khodabakhshi MR",
+        "Eslami-Mahmoudabadi M",
+        "Nourani MR"
+      ],
+      "date": "2026 Aug 05",
+      "doi": "10.1016/j.injury.2026.113545",
+      "tier": "filtered",
+      "topics": [
+        "Burns"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "burn injury",
+          "strength": "weak",
+          "topic": "Burns"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42561707/"
+    },
     {
       "pmid": "42560998",
       "title": "Surgical stabilization of flail chest: Patient selection, hospital variation, and outcomes.",
@@ -3342,7 +3756,7 @@
     {
       "pmid": "42508598",
       "title": "Emergency response with lights and sirens to patients with a suspected out-of-hospital cardiac arrest and a do-not-attempt-resuscitation order in the hospital record: a one-year observational study.",
-      "abstract": "**INTRODUCTION**: Do-not-attempt-resuscitation (DNAR) orders issued within the hospital are not accessible to prehospital care providers including the emergency medical dispatchers handling distress calls. Danish legislation mandates dispatch of ambulances with lights and sirens and community first responders in suspected out-of-hospital cardiac arrests (OHCA). Attempted resuscitation despite a documented DNAR-order challenges patient autonomy and carries ethical, resource, and safety implications for prehospital personnel.\n\n**OBJECTIVES**: We aimed to report how often emergency vehicles were dispatched with lights and sirens to patients with suspected OHCA despite having a physician-issued DNAR-order in the hospital record. One-day, 30-day, one-year mortality, and resource utilisation were assessed.\n\n**METHODS**: This retrospective observational study included all emergency dispatches to suspected OHCA in 2024 in the Region of Southern Denmark. Data were obtained from prehospital and hospital records. Prehospital and hospital records were systematically reviewed for documentation of DNAR-order, mortality, and prehospital resource utilisation.\n\n**RESULTS**: There were 1,695 dispatches to patients with suspected OHCA. In 266 (15.7%) cases, the patient had a physician-issued DNAR-order in the hospital record. Of these, 126 (47.4%) were registered as requested by the patient. One-day mortality in patients with DNAR was 90.6% versus 69.5% in the group without DNAR (p<0.001). There was no significant difference in the number of units dispatched and arriving at the scene.\n\n**CONCLUSION**: In almost every sixth dispatch to suspected OHCA, the patient had a physician-issued DNAR-order in the hospital record. We call for physician-issued DNAR-orders to be accessible for all healthcare providers, including emergency medical dispatchers and other prehospital personnel.",
+      "abstract": "**INTRODUCTION**: Do-not-attempt-resuscitation (DNAR) orders issued within the hospital are not accessible to prehospital care providers including the emergency medical dispatchers handling distress calls. Danish legislation mandates dispatch of ambulances with lights and sirens and community first responders in suspected out-of-hospital cardiac arrests (OHCA). Attempted resuscitation despite a documented DNAR-order challenges patient autonomy and carries ethical, resource, and safety implications for prehospital personnel.\n\n**OBJECTIVES**: We aimed to report how often emergency vehicles were dispatched with lights and sirens to patients with suspected OHCA despite having a physician-issued DNAR-order in the hospital record. One-day, 30-day, one-year mortality, and resource utilisation were assessed.\n\n**METHODS**: This retrospective observational study included all emergency dispatches to suspected OHCA in 2024 in the Region of Southern Denmark. Data were obtained from prehospital and hospital records. Prehospital and hospital records were systematically reviewed for documentation of DNAR-order, mortality, and prehospital resource utilisation.\n\n**RESULTS**: There were 1695 dispatches to patients with suspected OHCA. In 266 (15.7%) cases, the patient had a physician-issued DNAR-order in the hospital record. Of these, 126 (47.4%) were registered as requested by the patient. One-day mortality in patients with DNAR was 90.6% versus 69.5% in the group without DNAR (p\u00a0<\u00a00.001). There was no significant difference in the number of units dispatched and arriving at the scene.\n\n**CONCLUSION**: In almost every sixth dispatch to suspected OHCA, the patient had a physician-issued DNAR-order in the hospital record. We call for physician-issued DNAR-orders to be accessible for all healthcare providers, including emergency medical dispatchers and other prehospital personnel.",
       "journal": "Resuscitation",
       "authors": [
         "Schmidt PH",
@@ -3988,7 +4402,7 @@
     {
       "pmid": "42492619",
       "title": "One-year liver graft survival from brain-dead donors treated with ECPR for out-of-hospital cardiac arrest.",
-      "abstract": "**INTRODUCTION**: Among patients treated with extracorporeal cardiopulmonary resuscitation (ECPR) for refractory out-of-hospital cardiac arrest (OHCA), some ultimately progress to brain death and may become organ donors. This study aimed to evaluate one-year liver graft survival from donors in brain death after ECPR for refractory OHCA.\n\n**METHODS**: A retrospective, single-centre, observational study was conducted between January 2011 and June 2024. All included patients were in brain death and donated at least one organ. Actual liver donors were divided into two groups: an \"ECPR group\" (donors treated with ECPR for refractory OHCA) and a \"Control group\" (donors not treated with ECPR, predominantly admitted for stroke and OHCA). The primary outcome was one-year liver graft survival.\n\n**RESULTS**: Liver retrieval was performed in 15/38 (39%) potential donors treated with ECPR for refractory OHCA, compared with 27/34 (79%) potential donors not treated with ECPR (P<0.01). Actual liver donors in the ECPR group were younger (47 [36-54] vs. 70 [48-79] years, P<0.01) with greater initial severity: for instance peak lactate was higher (9.4 [6.9-12.4] vs. 3.0 [2-5.7] mmol/L, P<0.01). In univariate analysis, one-year liver graft survival did not differ significantly between groups: 12/15 (80%; 95% CI, 55-93) in the ECPR group vs. 24/27 (89%; 95% CI 72-96) in the control group, (P=0.65).\n\n**CONCLUSION**: There was no statistically significant difference in one-year liver graft survival between donors treated with ECPR for refractory OHCA and other donors. Given the limited sample size, this lack of statistical significance should not be interpreted as evidence of equivalence.",
+      "abstract": "**INTRODUCTION**: Among patients treated with extracorporeal cardiopulmonary resuscitation (ECPR) for refractory out-of-hospital cardiac arrest (OHCA), some ultimately progress to brain death and may become organ donors. This study aimed to evaluate one-year liver graft survival from donors in brain death after ECPR for refractory OHCA.\n\n**METHODS**: A retrospective, single-centre, observational study was conducted between January 2011 and June 2024. All included patients were in brain death and donated at least one organ. Actual liver donors were divided into two groups: an \"ECPR group\" (donors treated with ECPR for refractory OHCA) and a \"Control group\" (donors not treated with ECPR, predominantly admitted for stroke and OHCA). The primary outcome was one-year liver graft survival.\n\n**RESULTS**: Liver retrieval was performed in 15/38 (39%) potential donors treated with ECPR for refractory OHCA, compared with 27/34 (79%) potential donors not treated with ECPR (P\u00a0<\u00a00.01). Actual liver donors in the ECPR group were younger (47 [36-54] vs. 70 [48-79] years, P\u00a0<\u00a00.01) with greater initial severity: for instance peak lactate was higher (9.4 [6.9-12.4] vs. 3.0 [2-5.7] mmol/L, P\u00a0<\u00a00.01). In univariate analysis, one-year liver graft survival did not differ significantly between groups: 12/15 (80%; 95% CI, 55-93) in the ECPR group vs. 24/27 (89%; 95% CI 72-96) in the control group, (P\u00a0=\u00a00.65).\n\n**CONCLUSION**: There was no statistically significant difference in one-year liver graft survival between donors treated with ECPR for refractory OHCA and other donors. Given the limited sample size, this lack of statistical significance should not be interpreted as evidence of equivalence.",
       "journal": "Resuscitation",
       "authors": [
         "Raphalen JH",
@@ -8162,32 +8576,6 @@
       ],
       "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/42425696/"
-    },
-    {
-      "pmid": "42425582",
-      "title": "Traumatic knee injury in a basketball player.",
-      "abstract": "",
-      "journal": "BMJ",
-      "authors": [
-        "Jin H",
-        "Zhang C",
-        "Tang X"
-      ],
-      "date": "2026 Jul 09",
-      "doi": "10.1136/bmj-2026-103548",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "traumatic",
-          "strength": "strong",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42425582/"
     },
     {
       "pmid": "42424812",
