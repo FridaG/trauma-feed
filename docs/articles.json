@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-07T20:30:20.597923Z",
-  "total_articles": 213,
+  "generated": "2026-08-08T20:18:16.662804Z",
+  "total_articles": 204,
   "all_topics": [
     "Abdominal",
     "Burns",
@@ -378,6 +378,40 @@
     "Cochrane Database Syst Rev": "filtered"
   },
   "articles": [
+    {
+      "pmid": "42566780",
+      "title": "Non-O blood groups as independent predictors of chronic subdural hematoma recurrence in antithrombotic-naive patients: risk mitigation by prior aspirin use and new perspectives for stratification.",
+      "abstract": "**OBJECTIVE**: Recurrence after surgical treatment of chronic subdural hematoma (CSDH) remains insufficiently understood. Microvascular pathology of the CSDH membrane is a suspected driver of this recurrence, supported by reduced recurrence following middle meningeal artery embolization. Given the known differences in clotting propensity among ABO blood groups and the frequent use of antiplatelet and/or anticoagulant therapy (AAT) in the CSDH population, this study aimed to investigate the impact of ABO blood groups on postoperative recurrence risk.\n\n**METHODS**: The authors conducted a retrospective analysis of patients with symptomatic CSDH who underwent surgery at their institution between June 2012 and December 2023. Prior AAT was discontinued at hospital admission and reinitiated 3 weeks postoperatively, if CSDH resolution was complete. Recurrence was defined as an episode of radiological hematoma progression, with or without the development of symptoms, that required reoperation.\n\n**RESULTS**: A total of 756 patients with surgically treated CSDH (mean age 75.1 [SD 11.9] years, female-to-male ratio 1:2.1) were included. In patients without prior AAT use (n = 360), univariate analysis showed that non-O blood groups had significantly higher recurrence rates than blood group O (19.4% vs 8.7%, p = 0.006). Multivariate analysis confirmed non-O (p = 0.002, adjusted odds ratio [aOR] 3.5), and particularly A (p < 0.001, aOR 5.1), blood groups were independent predictors of recurrence. Comparing patients with prior acetylsalicylic acid (aspirin) use (n = 190) with those without prior AAT use, univariate analysis revealed that prior aspirin therapy was associated with a significantly lower recurrence rate among non-O (6.9% vs 19.4%, p = 0.002), and particularly A (8% vs 21%, p = 0.011), blood groups. Multivariate analysis identified prior aspirin use in non-O (p = 0.004, aOR 0.284), and particularly A (p = 0.015, aOR 0.324), blood groups as an independent predictor of reduced recurrence.\n\n**CONCLUSIONS**: This large-scale study demonstrated that non-O blood groups, and particularly A blood groups, are independent predictors of increased CSDH recurrence in patients without prior AAT use. These findings support the development of a scoring system based on blood groups, particularly for patients with groups A and O, to improve recurrence risk stratification and to tailor treatment plans. In contrast, prior aspirin use in these groups was an independent predictor of markedly reduced recurrence rates, comparable to those of blood group O.",
+      "journal": "J Neurosurg",
+      "authors": [
+        "Salmanian S",
+        "Rodemerk J",
+        "Al-Rubaiey S",
+        "Ahmadzai M",
+        "Timner E",
+        "Dinger TF",
+        "Gembruch O",
+        "Jabbarli R",
+        "Dammann P",
+        "Sure U",
+        "Chihi M"
+      ],
+      "date": "2026 Aug 07",
+      "doi": "10.3171/2026.2.JNS252663",
+      "tier": "filtered",
+      "topics": [
+        "TBI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "subdural haematoma",
+          "strength": "strong",
+          "topic": "TBI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42566780/"
+    },
     {
       "pmid": "42566036",
       "title": "Robotic vs Laparoscopic Cholecystectomy: Preoperative and Intraoperative Severity-Adjusted Outcomes with Strasberg-Classified Bile Duct Injury.",
@@ -917,7 +951,7 @@
         "Harrington C"
       ],
       "date": "2026 Aug 1",
-      "doi": "10.1111/1742-6723.70324",
+      "doi": "10.1016/j.sipas.2023.100160",
       "tier": "filtered",
       "topics": [
         "General Trauma",
@@ -8205,401 +8239,6 @@
       ],
       "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/42431156/"
-    },
-    {
-      "pmid": "42429795",
-      "title": "The DRoPH score: development of a tool for predicting reduction difficulty in proximal humerus fracture osteosynthesis.",
-      "abstract": "**BACKGROUND**: Proximal humerus fractures (PHFs) are among the most common and challenging fractures due to complex anatomy and variable fracture patterns. While anatomical reduction is critical for successful outcomes, no tool currently predicts the intraoperative difficulty of achieving it. Despite advances in surgical techniques, complications persist. Existing classification systems, such as Codman's, Neer's, AO/OTA, and Mayo-FJD, focus on fracture morphology and displacement but do not address intraoperative complexity. This study aims to develop a new score for the early prediction of intraoperative reduction difficulty in proximal humerus fracture surgery, the DRoPH score (Difficulty of Reduction of Proximal Humerus Fractures).\n\n**METHODS**: An online survey was conducted among experienced upper extremity surgeons in Switzerland to identify factors influencing the difficulty of reducing and retaining proximal humerus fractures. Inclusion criteria for surgeon grading comprised experience with more than 100 surgically treated proximal humerus fractures. Eligible surgeons rated the relevance of factors influencing reduction difficulty using a five-point Likert scale. A rank-based weighting system derived from expert ratings was applied, assigning two points to the three highest-ranked factors. The resulting DRoPH-Score ranged from 0 to 10, with higher values indicating greater surgical complexity.\n\n**RESULTS**: Eleven shoulder surgeons fulfilled the inclusion criteria and completed the survey, identifying the number of fracture fragments, metaphyseal comminution, and fracture-dislocation as the most significant factors influencing surgical difficulty, each with a mean rating\u2009>\u20094.0. These were followed by varus fracture pattern, poor bone quality (DTI\u2009<\u20091.4), anatomical neck fracture, and short calcar segment. Based on these results, a DRoPH-Score was developed, assigning two points to the top three factors and one point to the next four. Factors with lower influence received no points. The resulting score ranged from 0 to 10, with higher values indicating greater surgical complexity.\n\n**CONCLUSION**: The DRoPH criteria represent a structured expert-derived framework for estimating anticipated intraoperative reduction difficulty in proximal humerus fracture surgery, addressing a conceptual gap not specifically covered by existing classification systems. By quantifying factors identified by experienced surgeons as technically relevant, the criteria may support future applications in preoperative planning, resource allocation, and surgical training. Formal clinical validation, including assessment of operative time, reduction quality, complication rates, and reproducibility, is required before broader clinical implementation can be recommended.\n\n**LEVEL OF EVIDENCE**: Level V - Expert opinion / survey-based score development.",
-      "journal": "Eur J Trauma Emerg Surg",
-      "authors": [
-        "Barthel C",
-        "Rudolph F",
-        "Kraus M",
-        "Pape HC",
-        "Allemann F"
-      ],
-      "date": "2026 Jul 10",
-      "doi": "10.1590/1413-785220202801215063",
-      "tier": "core",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42429795/"
-    },
-    {
-      "pmid": "42426883",
-      "title": "Association of lifesaving versus non-lifesaving extracranial surgery with long-term outcome after severe traumatic brain injury: a prospective CENTER-TBI cohort analysis.",
-      "abstract": "**BACKGROUND**: Patients with traumatic brain injury (TBI) frequently undergo extracranial surgery (ES). These procedures may be lifesaving (LS), such as haemorrhage or damage-control interventions, or non-lifesaving (NLS), including definitive fracture fixation or wound closure. Whether ES independently affects neurological recovery remains unclear.\n\n**METHODS**: We analysed adult ICU patients with polytrauma and structural TBI (ISS\u2009\u2265\u200916, AIS Brain\u2009\u2265\u20093, and at least one extracranial injury as AIS\u2009\u2265\u20093) enrolled in the prospective multicentre CENTER-TBI cohort across 65 European sites. Predictors of extracranial surgery (ES) were evaluated using a cause-specific Cox proportional hazards model with competing risks, considering death before surgery as a competing event. LS and NLS categories were assigned by local investigators based on urgency. Associations between ES category (LS, NLS, or no-ES) and six-month unfavourable neurological outcome (GOSE\u2009\u2264\u20094) were assessed using multivariable logistic regression adjusted for IMPACT extended prognostic variables. Sensitivity analyses excluding patients who died within 48\u00a0h and secondary analysis in ICU survivors evaluated six-month outcome while minimizing immortal time bias from later NLS procedures.\n\n**RESULTS**: Of 870 patients, 369 (42.4%) underwent ES: 168 (19.3%) LS and 201 (23.1%) NLS. LS patients were younger, had higher ISS, greater haemodynamic instability, more severe shock, and higher transfusion requirements compared with NLS and no-ES groups. Unadjusted six-month unfavourable outcome rates did not differ significantly (48.9% no-ES, 51.8% LS, 42.3% NLS; p\u2009=\u20090.2). LS remained associated with worse neurological outcome after adjustment (OR 1.86, 95% CI 1.15-3.01; p\u2009=\u20090.011), whereas NLS was not. Results remained consistent across sensitivity analyses, the multiple imputation model, and the secondary analysis.\n\n**CONCLUSIONS**: Emergency/damage-control extracranial surgery operationally classified as LS identified a phenotype of patients with greater extracranial injury burden and physiological instability, associated with worse long-term neurological outcome. This association should be interpreted as reflecting injury severity and treatment indication rather than a direct detrimental effect of surgery itself. NLS procedures were not independently associated with unfavourable recovery.\n\n**TRIAL REGISTRATION**: ClinicalTrials.gov Identifiers: NCT02210221.",
-      "journal": "World J Emerg Surg",
-      "authors": [
-        "Guglielmi A",
-        "Graziano F",
-        "Fornoni A",
-        "Mangili P",
-        "Picetti E",
-        "Baggiani M",
-        "Chesnut RM",
-        "Hawryluk GWJ",
-        "Newcombe VFJ",
-        "Rebora P",
-        "Galimberti S",
-        "Citerio G"
-      ],
-      "date": "2026 Jul 10",
-      "doi": "10.1186/s13017-026-00713-y",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "Systems/QI",
-        "TBI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "polytrauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "injury severity",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "traumatic brain injury",
-          "strength": "strong",
-          "topic": "TBI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42426883/"
-    },
-    {
-      "pmid": "42425740",
-      "title": "National patterns in emergency department diagnoses and mortality: insights from the Nationwide Emergency Department Sample.",
-      "abstract": "**BACKGROUND**: Emergency departments (EDs) are the frontline of acute care in the USA, yet contemporary data on the most common presentations and causes of mortality remain limited. Understanding these patterns is critical for guiding triage, resource allocation and public health priorities. Therefore, using a nationally representative sample of US ED visits from 2016 to 2021, this study aimed to characterise the most common ED diagnoses and leading causes of ED mortality and to assess differences in these patterns across age, sex, race/ethnicity and urban-rural populations.\n\n**METHODS**: We conducted a retrospective cohort study of the Nationwide Emergency Department Sample from 2016 to 2021, encompassing more than 680\u2009million weighted ED visits. Outcomes included the five most common presenting diagnoses and causes of ED mortality, stratified by age, sex, race/ethnicity and urban-rural status. Diagnoses were grouped into clinically relevant categories, including acute coronary syndromes (ACS), severe respiratory compromise, trauma and sepsis.\n\n**RESULTS**: During 2016-2021, there were 680\u2009207\u2009479 ED visits and 1\u2009189\u2009848 ED deaths. Chest pain was the leading diagnosis from 2016 to 2019 (4.3-4.4%); in 2021, COVID-19 became the most common presentation (4.8% vs 4.2% for chest pain). Urinary tract infections were more frequent in women (2.6%), whereas sepsis was more common in men (1.6%). Younger adults presented with respiratory infections, abdominal pain and headaches, while older adults had higher rates of sepsis, chronic obstructive pulmonary disease exacerbations and pneumonia. Racial differences were evident: COVID-19 was most frequent in Hispanic patients (3.4%), sepsis in Asian/Pacific Islanders (2.1%) and alcohol intoxication in Native Americans (2.0%). Cardiac arrest was the leading cause of ED death (58-77%). Trauma (7.9%) and self-harm (0.8%) disproportionately affected younger adults, whereas sepsis (up to 2.7%), respiratory compromise (up to 3.7%) and ACS (0.6-1.4%) contributed more to mortality among older adults, women and racial minorities.\n\n**CONCLUSION**: This national analysis highlights evolving ED utilisation, COVID-19 impact and persistent age-based, sex-based and race-based disparities. Although cardiac arrest dominates ED mortality, the excess burden of sepsis, respiratory failure, ACS, trauma and self-harm in specific populations underscores opportunities to refine triage, target prevention and improve emergency care allocation.",
-      "journal": "Emerg Med J",
-      "authors": [
-        "Goyal A",
-        "Quazi MA",
-        "Saeed H",
-        "Hurjkaliani S",
-        "Maheshwari S",
-        "Singh RP",
-        "Awan AR",
-        "Nadeem MA",
-        "Sohail AH",
-        "Sheikh AB"
-      ],
-      "date": "2026 Jul 09",
-      "doi": "10.1136/emermed-2026-215921",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42425740/"
-    },
-    {
-      "pmid": "42425710",
-      "title": "The provision of palliative care: A Western Trauma Association critical decisions algorithm.",
-      "abstract": "",
-      "journal": "J Trauma Acute Care Surg",
-      "authors": [
-        "Hartwell JL",
-        "Follette C",
-        "Beckman M",
-        "Bower K",
-        "Coimbra R",
-        "Croft C",
-        "Hynes AM",
-        "Inaba K",
-        "Keric N",
-        "Kerwin AJ",
-        "Kopelman T",
-        "Lorenzo M",
-        "Magee GA",
-        "Privette A",
-        "Schuster K",
-        "Schellenberg M",
-        "Tesoriero R",
-        "Windell E",
-        "Stein D"
-      ],
-      "date": "2026 Jul 10",
-      "doi": "10.1177/10499091251395705",
-      "tier": "core",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42425710/"
-    },
-    {
-      "pmid": "42425707",
-      "title": "Association between facility characteristics and hospital outcomes among children and youth with special health care needs following physical trauma.",
-      "abstract": "**BACKGROUND**: Children and Youth with Special Health Care Needs (CYSHCN) have unique injury patterns and outcomes compared with other pediatric trauma patients. Evidence regarding trauma center characteristics' impact on outcomes is conflicting, and the special health care needs status has not been examined. This study examines the interaction between trauma facility characteristics and Special Health Care Needs (SHCN) status and how this relates to hospital outcomes following physical trauma.\n\n**METHODS**: We analyzed the National Trauma Data Bank data for patients aged 1 to 18 years old from 2019 to 2022 (n=492,713). We examined hospital outcomes such as any inpatient complications, unplanned ICU admission, ICU and hospital LOS, and mortality. Mixed effects multivariable logistic and negative binomial regression models were used to estimate the interaction effects between facility characteristics and SHCN status on hospital outcomes, adjusting for patient demographics, Injury Severity Score, and Glasgow Coma Score.\n\n**FINDINGS**: CYSHCN encounters in level I and level II trauma centers exhibited a significantly greater likelihood of complications, longer ICU and hospital LOS, and a higher probability of mortality compared with encounters without SHCN (p<0.001). CYSHCN in Pediatric Trauma Centers and Adult Trauma Centers also showed a greater likelihood of complications, unplanned ICU admissions, longer ICU and hospital LOS, and a higher probability of mortality compared with non-SHCN encounters (p<0.001). CYSHCN in nonprofit, for-profit, and larger hospitals have a greater likelihood of any complication, longer ICU and hospital LOS, and a higher probability of mortality (p<0.001).\n\n**CONCLUSIONS**: CYSHCN encounters have higher risks of adverse hospital outcomes following trauma admission compared with non-SHCN encounters. These results highlight the importance of tailored health care approaches for CYSHCN within trauma care settings, emphasizing the need for specialized protocols and resources to optimize outcomes and mitigate risks in this vulnerable population.\n\n**LEVEL OF EVIDENCE**: Prognostic/Epidemiologic; Level III.",
-      "journal": "J Trauma Acute Care Surg",
-      "authors": [
-        "Estinfort W",
-        "Fabiano T",
-        "Osei H",
-        "Nordin A",
-        "Landsittel DP",
-        "Lillvis DF"
-      ],
-      "date": "2026 Jul 10",
-      "doi": "10.1097/TA.0000000000005079",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "Paediatric",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "injury severity",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "trauma centre",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "paediatric trauma",
-          "strength": "weak",
-          "topic": "Paediatric"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42425707/"
-    },
-    {
-      "pmid": "42425704",
-      "title": "Meetings/Courses.",
-      "abstract": "",
-      "journal": "J Trauma Acute Care Surg",
-      "authors": [],
-      "date": "2026 May 11",
-      "doi": "10.1097/01.ta.0001193292.71096.50",
-      "tier": "core",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42425704/"
-    },
-    {
-      "pmid": "42425702",
-      "title": "Traumatic abdominal wall hernias and intra-abdominal organ injuries in children: A retrospective cohort study using the National Trauma Data Bank.",
-      "abstract": "**BACKGROUND**: Traumatic abdominal wall hernias (TAWHs), though rare in pediatric trauma, may signal severe associated intra-abdominal injury, particularly hollow viscus injury (HVI). This study evaluated whether pediatric TAWH is associated with a higher incidence of HVI and solid organ injury (SOI) compared with abdominal wall hematoma or ecchymosis.\n\n**METHODS**: We performed a retrospective analysis of the National Trauma Data Bank (2018-2022), including patients 18 years of age or older with TAWH or abdominal wall hematoma/ecchymosis. Bivariate statistics and multivariable logistic regression assessed the association between TAWH and HVI and SOI, adjusting for demographics, vitals, and injury severity score (ISS).\n\n**RESULTS**: Among 13,261 patients, 414 (3.1%) had TAWH and 12,847 (98.1%) had abdominal wall hematomas/ecchymoses. TAWH patients presented with lower median SBP (116 vs. 120\u00a0mm\u00a0Hg, p<0.0001) and median ISS (5 vs. 9, p<0.0001). Median hospital length of stay was shorter in TAWH patients (2 vs. 3\u00a0d, p=0.0003). However, TAWH patients had increased rates of HVI (10.3% vs. 2.5%, p<0.0001), but no difference in rates of SOI (19.8% vs. 20.1%, p=0.89). TAWH patients also had increased rates of thoracic and lumbar spine injuries (20.5% vs. 14.7%, p<0.0001), as well as thoracic and abdominal aortic injuries (20.7% vs. 2.8%, p<0.0001). Multivariable analysis confirmed TAWH was independently associated with increased odds of HVI (odds ratio, 1.08; confidence interval, 1.067-1.105; p<0.0001), but not associated with SOI (odds ratio, 0.98; confidence interval, 0.95-1.02; p=0.55).\n\n**CONCLUSIONS**: Pediatric TAWHs are associated with increased risk of HVI despite lower ISS, highlighting the need for heightened clinical suspicion and thorough evaluation. The difference in injury patterns between TAWH and abdominal hematoma highlights the need for treating TAWH as a distinct entity. Recognition of TAWH should prompt careful assessment for intra-abdominal injuries and consideration for early operative intervention. (J Trauma Acute Care Surg. 2026;00: 00-00. Copyright \u00a9 2026 Wolters Kluwer Health, Inc. All rights reserved.).\n\n**LEVEL OF EVIDENCE**: Retrospective Cohort Study; Level IV.",
-      "journal": "J Trauma Acute Care Surg",
-      "authors": [
-        "Giron A",
-        "Flyer Z",
-        "Joachim A",
-        "Schomberg J",
-        "Nahmias J",
-        "Goodman L",
-        "Ahmad H"
-      ],
-      "date": "2026 Apr 27",
-      "doi": "10.1097/TA.0000000000005005",
-      "tier": "core",
-      "topics": [
-        "Abdominal",
-        "General Trauma",
-        "Paediatric",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "injury severity",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "solid organ injury",
-          "strength": "weak",
-          "topic": "Abdominal"
-        },
-        {
-          "keyword": "paediatric trauma",
-          "strength": "weak",
-          "topic": "Paediatric"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42425702/"
-    },
-    {
-      "pmid": "42425697",
-      "title": "Implementing a whole blood pilot program in a rural trauma system: A feasibility, utilization, and cost analysis.",
-      "abstract": "**BACKGROUND**: Hemorrhage is a leading cause of preventable trauma death, particularly in rural settings where prolonged transport times delay resuscitation. Low-titer O+ whole blood (LTOWB) is increasingly favored for prehospital resuscitation due to its combined oxygen-carrying and hemostatic properties. However, logistical challenges and concerns regarding waste and cost have limited its implementation in rural trauma systems. This study evaluates the feasibility and clinical utility of a prehospital LTOWB pilot program at a rural Level I trauma center.\n\n**METHODS**: We conducted a prospective, single-center pilot study from April 2023 to March 2024, comparing LTOWB data to historical component therapy from the prior year. One unit of LTOWB was deployed weekly to the Helicopter Emergency Medical Services. To mitigate waste, unutilized LTOWB was converted to packed red blood cells on Day 14 post collection. Data on utilization, waste, cost, and availability were collected and analyzed.\n\n**RESULTS**: During the 55-week period, 55 units of LTOWB were deployed, of which 45.5% were used as LTOWB (27.3% prehospital, 18.2% in-hospital) and 47.3% as processed packed red blood cells. Only four units (7.2%) were lost to waste or expiration. The average monthly waste cost was $1,576.79 during the study versus $1,493.89 historically (p = 0.692). Despite supply limitations, prehospital LTOWB availability was maintained for 84.2% of the study days.\n\n**CONCLUSIONS**: Implementing a prehospital LTOWB pilot program in a rural trauma system is feasible and cost-neutral. A structured processing protocol achieves high utilization while minimizing waste. These findings support the expansion of whole blood programs to enhance early resuscitation and potentially improve patient outcomes in resource-limited environments. (J Trauma Acute Care Surg. 2026;00: 00-00. Copyright \u00a9 2026 Wolters Kluwer Health, Inc. All rights reserved.).\n\n**LEVEL OF EVIDENCE**: Economic/Value-based Evaluations, Level III.",
-      "journal": "J Trauma Acute Care Surg",
-      "authors": [
-        "Saeg F",
-        "Berry CL",
-        "Tubby B",
-        "LaRock L",
-        "Casos SR",
-        "Behm R"
-      ],
-      "date": "2026 Apr 27",
-      "doi": "10.1097/TA.0000000000005019",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "Haemorrhage",
-        "Prehospital",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "trauma centre",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "packed red blood cells",
-          "strength": "weak",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "helicopter emergency",
-          "strength": "weak",
-          "topic": "Prehospital"
-        },
-        {
-          "keyword": "prehospital",
-          "strength": "weak",
-          "topic": "Prehospital"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42425697/"
-    },
-    {
-      "pmid": "42425696",
-      "title": "The absence of ADAMTS13 improves early outcomes in an experimental model of trauma with uncontrolled hemorrhage.",
-      "abstract": "**BACKGROUND**: Bleeding after trauma is aggravated by trauma-induced coagulopathy (TIC). In trauma patients with shock, ADAMTS13 (a disintegrin and metalloprotease with a thrombospondin type 1 motif, member 13) antigen is decreased, but its activity can be increased, possibly due to specific cleavage by plasmin. Increased ADAMTS13 activity could aggravate TIC and bleeding. Therefore, this study aimed to determine whether knocking-out ADAMTS13 is protective after trauma with uncontrolled bleeding. Furthermore, we examined the effect of plasmin inhibition with tranexamic acid (TXA) on ADAMTS13 antigen and activity.\n\n**METHODS**: Wild-type and ADAMTS13 knockout (ADAMTS13KO) mice were anesthetized, mechanically ventilated, and subjected to traumatic injury with uncontrolled hemorrhage. In a separate experiment, wild-type mice underwent the same traumatic injury, but with additional blood withdrawal to induce shock and treatment with a single dose of TXA or vehicle. Outcomes included mortality, ADAMTS13 activity, von Willebrand factor (VWF) multimers, and rotational thromboelastometry (ROTEM).\n\n**RESULTS**: ADAMTS13KO mice showed significantly lower mortality rates after trauma compared with wild-type mice (13% vs. 47%, P=0.046), with significantly higher VWF multimers. ROTEM parameters did not differ significantly between ADAMTS13KO and wild-type mice. In the wild-type mice subjected to trauma and shock, there was a significant increase in ADAMTS13 activity, which correlated with shock severity. Treatment with TXA significantly reduced mortality, but had no significant effect on ADAMTS13 antigen or activity.\n\n**CONCLUSION**: Knocking-out ADAMTS13 is associated with improved early survival following trauma, demonstrating a role for ADAMTS13 in contributing to early TIC and bleeding. While ADAMTS13 activity increases after trauma and shock, its levels appear unaffected by TXA. (J Trauma Acute Care Surg 2026;00:000-000 \u00a9 2026 The Author(s). Published by Wolters Kluwer Health, Inc. on behalf of the American Association for the Surgery of Trauma.).\n\n**LEVEL OF EVIDENCE**: Level V.",
-      "journal": "J Trauma Acute Care Surg",
-      "authors": [
-        "Sloos PH",
-        "Vermeersch L",
-        "Hameed R",
-        "Maas MAW",
-        "Delmote AS",
-        "Roelofs JJTH",
-        "Muia J",
-        "Tersteeg C",
-        "Vanhoorelbeke K",
-        "Juffermans NP",
-        "Kleinveld DJB"
-      ],
-      "date": "2026 May 27",
-      "doi": "10.1097/TA.0000000000005064",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "Haemorrhage"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "tranexamic acid",
-          "strength": "weak",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "trauma-induced coagulopathy",
-          "strength": "weak",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "ROTEM",
-          "strength": "weak",
-          "topic": "Haemorrhage"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42425696/"
-    },
-    {
-      "pmid": "42424812",
-      "title": "Carpal tunnel release during distal radius fracture fixation is not associated with reduced subsequent carpal tunnel release: A propensity-matched cohort study.",
-      "abstract": "**PURPOSE**: Concomitant carpal tunnel release (CTR) during distal radius fracture (DRF) fixation is performed with the goal of preventing symptomatic carpal tunnel syndrome (CTS). However, evidence supporting this practice remains limited. This study evaluated whether CTR at the time of DRF open reduction and internal fixation reduces subsequent CTR procedures and other associated surgical complications.\n\n**METHODS**: A retrospective cohort study using the TriNetX database identified adult patients who underwent DRF open reduction and internal fixation between 2010 and 2025. Patients were categorized based on whether they received CTR at the time of DRF fixation. Propensity score matching controlled for demographic and clinical variables, including fracture complexity. The primary outcome was subsequent CTR procedure within 2 years. Secondary outcomes included 90-day complications (emergency department visits, readmission, hematoma) and 1-year surgical complications (infection, malunion/nonunion surgery, revision surgery).\n\n**RESULTS**: Among 53,565 patients identified, 5090 matched pairs were analyzed. Patients who received CTR at the time of DRF fixation did not have significantly different rates of subsequent CTR at 1 year (1.75% vs 1.61%; HR 1.112, 95% CI 0.824-1.501) or 2 years (2.24% vs 1.79%; HR 1.306, 95% CI 0.992-1.721). CTR at the time of DRF fixation was associated with higher rates of revision DRF surgery at both 1 year (2.97% vs 2.10%) and 2 years (3.32% vs 2.36%), malunion/nonunion surgery at both 1 year (0.92% vs 0.53%) and 2 years (0.98% vs 0.63%), and 90-day emergency department visits (7.62% vs 6.03%). Infection rates were not significantly different at 1 year or 2 years.\n\n**CONCLUSIONS**: CTR at the time of DRF fixation was not associated with reduced subsequent CTR procedures. These findings do not support routine CTR during DRF fixation.",
-      "journal": "Injury",
-      "authors": [
-        "Dinesh A",
-        "Poursalehian M",
-        "Marjoua Y",
-        "Billow D",
-        "Padubidri A",
-        "Cereijo C",
-        "Peirish RW",
-        "Styron J",
-        "Vallier HA"
-      ],
-      "date": "2026 Jul 08",
-      "doi": "10.1016/j.injury.2026.113484",
-      "tier": "filtered",
-      "topics": [],
-      "keyword_matches": [],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42424812/"
     }
   ]
 }
