@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-09T20:20:31.792757Z",
-  "total_articles": 202,
+  "generated": "2026-08-10T20:31:35.021128Z",
+  "total_articles": 205,
   "all_topics": [
     "Abdominal",
     "Burns",
@@ -378,6 +378,160 @@
     "Cochrane Database Syst Rev": "filtered"
   },
   "articles": [
+    {
+      "pmid": "42573415",
+      "title": "A 1-Hour Resuscitation Bundle for Prehospital Management of Septic Shock.",
+      "abstract": "**OBJECTIVES**: To investigate the effect of a 1-hour resuscitation bundle, including early antibiotics, hemodynamic optimization with fluids and vasopressors as needed, and hydrocortisone therapy as needed, implemented in a prehospital setting by a mobile ICU (MICU) team, on 28-day mortality in adults with septic shock.\n\n**DESIGN**: A multicenter, open-label, cluster-randomized study from May 09, 2016, to November 2, 2018.\n\n**SETTINGS**: Prehospital emergency ambulance in France.\n\n**PATIENTS**: Adults with suspected septic shock at the time of management by the prehospital MICU team.\n\n**INTERVENTIONS**: The 1-hour resuscitation bundle included antibiotics, up to 35\u2009mL/kg of ideal body weight of isotonic saline administered within the first 60 minutes, norepinephrine if mean blood pressure (MBP) remained less than 65\u2009mm Hg or if diastolic blood pressure remained less than 40\u2009mm Hg, and 100\u2009mg of IV hydrocortisone when MBP remained less than 65\u2009mm Hg while the patient was receiving greater than or equal to 1.5\u2009mg/hr of norepinephrine.\n\n**MEASUREMENTS AND MAIN RESULTS**: The primary outcome was 28-day all-cause mortality. Secondary outcomes included mortality rates in the ICU, at hospital discharge, and at 90 days, time alive free of vasopressor drugs, invasive mechanical ventilation, renal replacement therapy, and ICU and hospital lengths of stay. Of 398 participants, 17 did not consent; therefore, 381 participants (96%; mean age, 67\u2009\u00b1\u200915 yr) were analyzed. In total, 23 of 103 deaths (22%) occurred by 28 days in the 1-hour bundle arm and 76 of 278 deaths (27%) in the usual care arm (risk ratio, 0.81; 95% CI [0.61-1.08]; p = 0.16). The intracluster correlation coefficient was estimated at 0.005\u2009\u00b1\u20090.002. Secondary outcomes were similar between groups.\n\n**CONCLUSIONS**: The prehospital initiation of a 1-hour resuscitation bundle did not reduce 28-day all-cause mortality in adults with septic shock. Imbalances in patient enrollment between centers and a small difference in care provided between the groups may explain these results.\n\n**TRIAL REGISTRATION NUMBER**: NCT02473263 (http://clinicaltrials.gov/).",
+      "journal": "Crit Care Med",
+      "authors": [
+        "Jouffroy R",
+        "Annane D",
+        "Elie C",
+        "Mira JP",
+        "Jilet L",
+        "Gueye P",
+        "Vivien B"
+      ],
+      "date": "2026 Aug 10",
+      "doi": "10.1097/CCM.0000000000007283",
+      "tier": "filtered",
+      "topics": [
+        "Prehospital"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "prehospital",
+          "strength": "strong",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42573415/"
+    },
+    {
+      "pmid": "42572148",
+      "title": "Natural Killer Cell Phenotypic Changes and Activating Receptor Loss Posttrauma.",
+      "abstract": "**BACKGROUND**: Trauma induces significant physiological changes that can lead to substantial morbidity and mortality. Many of these changes alter immune homeostasis, which underlies seemingly disparate syndromes of systemic inflammation and global immune suppression, the causes of which remain unclear. Innate immune cells play a key role in the response to trauma, and recent studies have suggested that natural killer (NK) cells are dynamically responsive to mild versus severe systemic trauma.\n\n**MATERIALS AND METHODS**: Herein, we examined NK cell phenotypic maturation in trauma (n = 137) and nontrauma (n = 45) patients. Peripheral blood samples were collected from adult patients within 24 hours of injury and interrogated by flow cytometry for surface markers of maturation (CD16, CD56, and CD57) and associated activating (NKP30, NKP46, and NKG2D) and inhibiting (KIR2DL1 and KIR2DL2) receptors.\n\n**RESULTS**: Following trauma, peripheral NK cells were phenotypically less cytokine-dominant (CD56bright), more mature, and cytotoxic (CD56dim, CD16+). However, in severely injured patients, these changes were not accompanied by an expected increase in the expression of activating receptors, particularly those sensing danger motifs displayed on injured and stressed cells. Indeed, cytotoxic NK cells lacking NKP30, NKP46, and NKG2D were significantly more prevalent in severely injured patients.\n\n**CONCLUSIONS**: This pattern suggests a widespread functional shift in NK cells activated by severe trauma away from the expression of receptors involved in recognizing stressed or \"damaged self\" cells. The absence of activating receptors could be acutely adaptive, avoiding broad cytotoxic responses in the face of overwhelming cell injury, but problematic several days after trauma when infectious complications arise. These data suggest one of many mechanistic explanations for the immune dysregulation seen in individuals who survive major trauma.",
+      "journal": "Ann Surg",
+      "authors": [
+        "Bazzi N",
+        "Stempora L",
+        "Hensman H",
+        "Quinones PM",
+        "Negron IR",
+        "Krynychka K",
+        "Gelbard RB",
+        "Grey SF",
+        "Schobel SA",
+        "Elster E",
+        "Fernandez-Moure J",
+        "Kirk AD"
+      ],
+      "date": "2026 Aug 10",
+      "doi": "10.1097/SLA.0000000000007197",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "major trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42572148/"
+    },
+    {
+      "pmid": "42572147",
+      "title": "Comprehensive Analysis of US Health Care Spending on Injuries.",
+      "abstract": "**BACKGROUND**: Traumatic injury affects every age group, payer, and care setting in the United States, yet how injury-related spending distributes across these dimensions has not been comprehensively quantified.\n\n**OBJECTIVE**: To estimate US health care spending on injuries in 2022 by mechanism, payer, and type of care.\n\n**METHODS**: Cross-sectional analysis using the Institute for Health Metrics and Evaluation's Disease Expenditure Project, which harmonizes over 40 billion claims across Medicare, Medicaid, and commercial payers. Spending was attributed to injury diagnoses, adjusted for comorbidities, and stratified across 38 age and sex groups, 9 mechanism categories, 4 payers, and 5 types of care to evaluate for distinct spending phenotypes.\n\n**RESULTS**: US injury spending totaled $106.7 billion in 2022, with 52% occurring outside acute care settings and ambulatory care ($42.2B, 40%) nearly equaling inpatient care ($42.3B, 40%). Falls predominated ($56.2B, 53%), followed by transport injuries ($23.3B, 22%). Distinct spending phenotypes varied by mechanism: falls concentrated among women aged 65 and older with heavy post-acute utilization, while firearms and assault concentrated among men aged 15 to 39 with predominantly acute care. Payer burden stratified by mechanism (falls: 40% Medicare; transport injuries: 58% private; assault: 52% Medicaid). For patients under age 65, private insurance spent 3 times more per inpatient encounter than Medicaid across all mechanisms, while Medicare and private insurance had similar spending per inpatient encounter for those over 65.\n\n**CONCLUSIONS**: This first comprehensive, claims-based accounting of the nearly $107 billion spent annually on injuries in the United States reveals distinct spending phenotypes defined by mechanism, demographics, and payer, with direct implications for how trauma systems are planned, financed, and sustained.",
+      "journal": "Ann Surg",
+      "authors": [
+        "Scott JW",
+        "Kennedy GE",
+        "Lescinsky H",
+        "Crosby SW",
+        "Beauchamp M",
+        "Thomson A",
+        "Taylor KV",
+        "Stewart BT",
+        "Raykar NP",
+        "Tsai TC",
+        "Sakran JV",
+        "Staudenmayer KL",
+        "Bulger EM",
+        "Dieleman JL"
+      ],
+      "date": "2026 Aug 10",
+      "doi": "10.1097/SLA.0000000000007199",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "weak",
+          "topic": "General Trauma"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42572147/"
+    },
+    {
+      "pmid": "42572013",
+      "title": "Pericardial Decompression for Acute Traumatic Cardiac Tamponade-Pearls and Clamshells.",
+      "abstract": "Acute traumatic cardiac tamponade is a time-critical-but potentially reversible-cause of circulatory collapse. The surgical, operative, nursing and anaesthesiology staff most capable and best trained to perform the procedure are often not immediately available, requiring emergency medical staff to perform this life-saving intervention. When tamponade causes refractory shock or peri-arrest, left anterolateral thoracotomy remains the preferred technique for definitive pericardial decompression, with extension to a clamshell thoracotomy when required.",
+      "journal": "Emerg Med Australas",
+      "authors": [
+        "Fitzgerald M",
+        "Johnny C",
+        "Lew C",
+        "Hsu J",
+        "Groombridge C",
+        "Mathew J",
+        "Weerasinghe M",
+        "Morasco S"
+      ],
+      "date": "2026 Aug 1",
+      "doi": "10.1111/1742-6723.70328",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Thoracic"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "traumatic",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "thoracotomy",
+          "strength": "weak",
+          "topic": "Thoracic"
+        },
+        {
+          "keyword": "cardiac tamponade",
+          "strength": "strong",
+          "topic": "Thoracic"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42572013/"
+    },
     {
       "pmid": "42570522",
       "title": "Paramedic perspectives on prehospital buprenorphine: A qualitative case study of implementation in emergency medical services.",
@@ -3067,7 +3221,7 @@
     },
     {
       "pmid": "42521477",
-      "title": "A socioeconomic equity measured by Indices of Multiple Deprivation for HEMS-attended major trauma in South East England: heterogenous effects in severe traumatic brain injury.",
+      "title": "Socioeconomic equity measured by Indices of Multiple Deprivation for HEMS-attended major trauma in South East England: heterogenous effects in severe traumatic brain injury.",
       "abstract": "**BACKGROUND**: Healthcare inequalities persist across socioeconomic gradients with deprived populations experiencing higher trauma mortality. This study aimed to determine whether 30-day mortality differs across socioeconomic deprivation quintiles in Helicopter Emergency Medical Service (HEMS) attended major trauma and to assess equity of intervention delivery and operational response.\n\n**METHODS**: Retrospective service evaluation cohort study of consecutive HEMS-attended major trauma patients (Injury Severity Score (ISS)>15) by Air Ambulance Charity Kent Surrey and Sussex (July 2013-February 2022). Indices of Multiple Deprivation quintiles derived from preassigned Lower Layer Super Output Area (LSOA) at incident location rather than patient residential address were examined alongside mortality outcomes. The primary outcome was 30-day mortality across socioeconomic quintiles (Q), with prespecified subgroups including traumatic haemorrhage and traumatic brain injury (TBI). Geospatial analysis and multivariable logistic regression were performed.\n\n**RESULTS**: Among 1752 major trauma patients (median ISS 27, IQR 21-36)\u2009geospatial analysis identified missions in 1190 LSOA codes (10.5% of region), with clustering in areas of moderate deprivation. 30-day mortality showed no socioeconomic gradient: 17% (95% CI 12% to 25%) in Q1 vs 21% (95% CI 17% to 25%) in Q5, p=0.861. Multivariable logistic regression confirmed no independent association between deprivation and mortality (adjusted OR per quintile increase 1.01, 95%\u2009CI 0.92 to 1.11, p=0.800). Secondary outcomes demonstrated equitable service provision with prehospital emergency anaesthesia 37-43% (p=0.667), blood transfusion 8-13% (p=0.321) and night operations 28-41% (p=0.124). Exploratory subgroup analysis identified a significant Glasgow Coma Scale\u00d7deprivation interaction in TBI (p=0.003), with possible age-dependent variations warranting further investigation.\n\n**CONCLUSIONS**: Equitable 30-day mortality outcomes were achieved across socioeconomic quintiles within the operational region examined. A regional HEMS may mitigate health inequalities in major trauma, though complete equity requires addressing broader social determinants of health.",
       "journal": "Emerg Med J",
       "authors": [
@@ -8086,45 +8240,6 @@
       ],
       "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/42441866/"
-    },
-    {
-      "pmid": "42435500",
-      "title": "A multimodal intervention reduces computed tomography use in blunt head injury.",
-      "abstract": "**BACKGROUND**: Computed tomography (CT) is frequently used in emergency departments (EDs) for the evaluation of blunt head injury. Unnecessary CT utilization leads to excessive cost, radiation exposure, and operational inefficiencies. Despite validated clinical decision rules, head CT utilization continues to rise, and the need remains for effective implementation strategies.\n\n**METHODS**: We performed a retrospective pre-post analysis after implementing a multi-modal intervention at three EDs within an academic health system. The intervention consisted of a guideline supporting a choice between the NEXUS Head CT Rule or Canadian CT Head Rule, educational sessions, monthly provider feedback, and an EHR-integrated clinical decision support (CDS) tool. All ED encounters among patients ages 18-64 were included after excluding those with high-risk features. Data were analyzed with logistic regression with generalized estimating equations and XmR statistical process control charts. A subgroup analysis was restricted to patients with traumatic chief complaints. The primary outcome was the rate of CT brain utilization. Secondary outcomes included rate of CT studies positive for radiographic traumatic brain injury (TBI), 72-h ED return visits, and 72-h ED return visits with positive head CTs.\n\n**RESULTS**: Logistic regression showed a significant associated reduction in odds of CT brain studies among the pooled sites in the post-intervention period for all encounters (Adjusted OR 0.91, 95% CI 0.89-0.94) and for traumatic chief complaints (Adjusted OR 0.89, 95% CI 0.85-0.94). SPC analysis showed special cause variation both immediately after the intervention and throughout the post-intervention year. There was no difference in the rate of positive head CT post-intervention (OR 0.92, 95% CI 0.72-1.16), rate of 72-h returns (OR 0.96, 95% CI 0.82-1.12), or 72-h returns with positive radiographic TBI (OR 0.78, 95% CI 0.22-2.82).\n\n**CONCLUSIONS**: Deploying an institutional guideline supported by educational sessions, provider feedback, and integrated CDS was associated with a reduction in CT head studies.",
-      "journal": "Am J Emerg Med",
-      "authors": [
-        "Berlyand Y",
-        "Smith Shain R",
-        "Savarino JR",
-        "Shanin DJ",
-        "Anderson JS"
-      ],
-      "date": "2026 Jul 06",
-      "doi": "10.1016/j.ajem.2026.07.005",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "TBI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "traumatic",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic brain injury",
-          "strength": "weak",
-          "topic": "TBI"
-        },
-        {
-          "keyword": "head injury",
-          "strength": "strong",
-          "topic": "TBI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42435500/"
     }
   ]
 }
