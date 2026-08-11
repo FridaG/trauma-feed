@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-10T20:31:35.021128Z",
-  "total_articles": 205,
+  "generated": "2026-08-11T20:34:51.859932Z",
+  "total_articles": 203,
   "all_topics": [
     "Abdominal",
     "Burns",
@@ -378,6 +378,150 @@
     "Cochrane Database Syst Rev": "filtered"
   },
   "articles": [
+    {
+      "pmid": "42574977",
+      "title": "Investigation of the biomechanically optimal length of intramedullary nails in unstable intertrochanteric femur fractures 31A2.2: A finite element analysis study.",
+      "abstract": "**INTRODUCTION**: Achieving sufficient stability in unstable intertrochanteric femur fractures (AO/OTA 31A2.2) is important for bone healing. Although implant-related factors such as nail diameter, proximal fixation configuration, and nail length contribute to mechanical stability at the fracture site, the appropriate nail length for specific fracture patterns remains unclear. This study evaluated the effect of nail length on fixation stability using finite element analysis.\n\n**METHODS**: Finite element models of AO/OTA 31A2.2 fractures, with and without a gap, were developed using CT data from the femur of an average-sized Japanese woman. ASULOCK\u00ae intramedullary nails ranging in length from 170 to 280\u00a0mm were virtually implanted, and stair climbing was simulated to assess interfragmentary motion and implant stress.\n\n**RESULTS**: Interfragmentary motion significantly decreased with increasing nail length under both gap conditions and reached a plateau at nail lengths of 260\u00a0mm or greater. Nail stress tended to be higher in the gap model, but neither nail stress nor lag screw stress showed a significant association with nail length.\n\n**CONCLUSION**: In an AO/OTA 31A2.2 fracture model based on an average-sized Japanese female femur, this study demonstrated that interfragmentary motion reached a plateau at nail lengths of \u2265\u00a0260\u00a0mm, suggesting that sufficient control of interfragmentary motion may be achieved in this model. Furthermore, under simulated loading conditions, the stresses applied to both the nail and lag screw remained below the referenced yield strength under the present static loading conditions.",
+      "journal": "Injury",
+      "authors": [
+        "Den S",
+        "Ueda K"
+      ],
+      "date": "2026 Aug 10",
+      "doi": "10.1016/j.injury.2026.113597",
+      "tier": "filtered",
+      "topics": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42574977/"
+    },
+    {
+      "pmid": "42574291",
+      "title": "Response to letter to the editor: \"reassessing the timing of percutaneous gastrostomy tube placement: too many too soon\".",
+      "abstract": "",
+      "journal": "J Trauma Acute Care Surg",
+      "authors": [
+        "Tatakis A",
+        "Murphy PB"
+      ],
+      "date": "2026 Aug 10",
+      "doi": "10.1097/TA.0000000000005102",
+      "tier": "core",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42574291/"
+    },
+    {
+      "pmid": "42574289",
+      "title": "Better late than never? Efficacy of late surgical stabilization of acute rib fractures as compared to nonoperative management.",
+      "abstract": "**BACKGROUND**: Surgical stabilization of rib fractures (SSRF) for severe chest wall injury has increased, with research showing improved outcomes compared with nonoperative management. Ideally, SSRF is performed within 3 days of injury. We hypothesize that late SSRF (days 5 to 14 post-injury) provides benefit over nonoperative treatment in patients with severe chest trauma.\n\n**METHODS**: We analyzed a prospectively collected database (2016 to 2024) from an urban level I trauma center, including patients with \u22653 severely displaced rib fractures. Propensity score matching (PSM, 1:2) was used to compare patients undergoing late SSRF (days 5 to 14 post-injury) to those hospitalized \u22655 days who did not receive SSRF. Outcomes measured were daily morphine milligram equivalents (MME), epidural use, opioid prescription at discharge, hospital length of stay (LOS), ICU-free days, ventilator-free days (VFD), pneumonia, tracheostomy, and mortality.\n\n**RESULTS**: Among 364 SSRF patients, 28 (8%) underwent late SSRF; these patients were matched to 56 No-SSRF patients. Both groups had similar demographics. SSRF patients had lower injury severity score (ISS) (17 vs. 26) but higher RibScore (3.5 vs. 3.0). Late-SSRF patients had significantly lower maximum daily MME post-day 5 (60\u00a0mg vs. 148\u00a0mg, P=0.045) and nonsignificantly lower median MME (56\u00a0mg vs. 67\u00a0mg, P=0.47) than No-SSRF patients. There were nonsignificant differences in use of epidurals (8% vs. 33%, P=0.22) and discharge with opioids (75% vs. 87%, P=0.38). Late SSRF was associated with more ICU-free days (6.5 vs. 3.5, P=0.02), shorter hospital LOS (9.0 vs. 16.5\u00a0d, P=0.008), and reduced pneumonia incidence (0% vs. 33%, P=0.03). Nonsignificant differences in tracheostomies, VFD, and mortality between the study groups.\n\n**CONCLUSIONS**: Late SSRF is associated with improved in-hospital outcomes. Although early intervention remains ideal, late SSRF may provide clinical benefits in selected patients. (J Trauma Acute Care Surg. 2026;00: 000-000 Copyright \u00a9 2026 Wolters Kluwer Health, LLC. All rights reserved.\n\n**LEVEL OF EVIDENCE**: Level III, retrospective review.",
+      "journal": "J Trauma Acute Care Surg",
+      "authors": [
+        "Ferre AC",
+        "Khakoo A",
+        "Centeno AC",
+        "Porras H",
+        "Sauaia A",
+        "Moore E",
+        "Pieracci F"
+      ],
+      "date": "2026 Aug 10",
+      "doi": "10.1097/TA.0000000000005143",
+      "tier": "core",
+      "topics": [
+        "General Trauma",
+        "Systems/QI",
+        "Thoracic"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "injury severity",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "rib fracture",
+          "strength": "strong",
+          "topic": "Thoracic"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42574289/"
+    },
+    {
+      "pmid": "42574268",
+      "title": "Predicting Prehospital Blood Transfusion After Motor Vehicle Trauma.",
+      "abstract": "**OBJECTIVES**: Prehospital blood transfusion (PHBT) improves outcomes among patients with traumatic hemorrhagic shock, yet the epidemiology and geographic distribution of patients likely to require PHBT remain poorly characterized. We sought to develop predictive models for PHBT among motor vehicle crash (MVC) patients using National Emergency Medical Services Information System (NEMSIS) data and to estimate the national distribution of patients with a high predicted probability of receiving PHBT.\n\n**METHODS**: We conducted an observational study and retrospective cohort study using the 2024 and 2025 NEMSIS data. Eligible encounters included 9-1-1 EMS responses for MVCs among patients aged 8-100 years. A derivation cohort was constructed from EMS agencies with active PHBT programs and at least 10 documented transfusions. Candidate predictors included demographic, physiologic, clinical, and operational variables. Random forest and ridge-penalized logistic regression models were developed to identify covariates associated with PHBT. Variables selected through machine learning approaches were subsequently evaluated in multivariable logistic regression models. Model performance was assessed using area under the receiver operating characteristic curve (AUC), sensitivity, specificity, and calibration metrics. Final models were applied to the remaining national cohort to estimate patients with a high predicted probability of PHBT.\n\n**RESULTS**: Among 2,078,452 eligible EMS activations, 303,383 comprised the derivation cohort. The random forest-selected logistic regression model demonstrated strong discrimination with an AUC of 0.906, sensitivity of 75.3%, and specificity of 96.5%. The ridge-selected logistic regression model achieved an AUC of 0.902, sensitivity of 64.6%, and specificity of 97.3%. Both models identified composite physiologic measures, critical hemorrhagic shock designation, and unspecified traumatic shock as significant predictors of PHBT. Application of the final models to the national cohort identified 73,754 and 48,971 predicted PHBT recipients, representing 3.6% and 2.4% of the evaluated population, respectively.\n\n**CONCLUSIONS**: Predictive modeling applied to NEMSIS data accurately identified patients with a high probability of receiving PHBT following MVC trauma. These findings provide a framework for estimating geographic demand for prehospital blood products and may inform data-driven expansion of PHBT programs in trauma systems.",
+      "journal": "Prehosp Emerg Care",
+      "authors": [
+        "Pope A",
+        "Zadra J",
+        "Page K",
+        "Fisher B",
+        "Race J",
+        "Mann NC"
+      ],
+      "date": "2026 Aug 10",
+      "doi": "10.1080/10903127.2026.2713132",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Haemorrhage",
+        "Prehospital"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "haemorrhagic shock",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "blood product",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "blood transfusion",
+          "strength": "strong",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "prehospital blood",
+          "strength": "strong",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "prehospital",
+          "strength": "strong",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42574268/"
+    },
     {
       "pmid": "42573415",
       "title": "A 1-Hour Resuscitation Bundle for Prehospital Management of Septic Shock.",
@@ -1575,7 +1719,7 @@
     {
       "pmid": "42546174",
       "title": "The Prevalence of Adverse Events After Prehospital Neuromuscular Blockade-Assisted Airway Management.",
-      "abstract": "**OBJECTIVES**: Neuromuscular blockade-assisted airway management is associated with harmful physiologic adverse events, such as hypoxemia, hypotension, bradycardia, and cardiac arrest. The national scope of these events in the prehospital setting is unknown. We sought to estimate the prevalence of adverse events associated with prehospital neuromuscular blockade-assisted airway management in the United States.\n\n**METHODS**: We conducted an observational, cross-sectional study of the 2023 National Emergency Medical Services Information System Public-Release Research Dataset. We included all adult 9-1-1 non-cardiac arrest emergency medical services activations in which neuromuscular blockade-assisted airway management was performed. The primary outcome was the prevalence of hypoxemia, hypotension, and bradycardia within 10\u2009minutes of neuromuscular blocking agent administration. The secondary outcomes were the timing of adverse events relative to neuromuscular blockade, the odds of adverse events occurring based on vital signs before neuromuscular blockade, and the prevalence of EMS-witnessed cardiac arrest after NMBA administration.\n\n**RESULTS**: Of 54,190,579 9-1-1 emergency medical services activations, there were 11,525 (0.02%) neuromuscular blockade-assisted airway cases. Endotracheal intubation was the first technique performed in 97.5% of cases. First pass success was 80.6%. Overall, 27.5% of patients experienced at least one adverse event in the first 10\u2009minutes after neuromuscular blockade. The prevalence of hypoxemia, hypotension, bradycardia, and cardiac arrest within 10\u2009minutes of neuromuscular blockade were 25.0%, 15.0%, 2.7%, and 1.9%, respectively. The odds of an adverse event occurring were higher when vital signs were abnormal before neuromuscular blockade. The presence of preexisting hypoxemia increased the odds of post-neuromuscular blockade hypoxemia by 9.1 (95% CI, 7.9-10.4) and the presence of preexisting hypotension increased the odds of post-neuromuscular blockade hypotension by 16.8 (95% CI, 13.1-21.8). Half of the cases of hypoxemia and hypotension occurred within 6\u2009minutes (95% CI, 6-7) and 10\u2009minutes (95% CI, 9-11), respectively.\n\n**CONCLUSIONS**: In this national series, 1 of every 4 patients undergoing neuromuscular blockade-assisted airway management experienced a physiologic adverse event. Emergency medical services agencies that adopt this procedure should implement measures to mitigate adverse events.",
+      "abstract": "**OBJECTIVES**: Neuromuscular blockade-assisted airway management is associated with harmful physiologic adverse events, such as hypoxemia, hypotension, bradycardia, and cardiac arrest. The national scope of these events in the prehospital setting is unknown. We sought to estimate the prevalence of adverse events associated with prehospital neuromuscular blockade-assisted airway management in the United States.\n\n**METHODS**: We conducted an observational, cross-sectional study of the 2023 National Emergency Medical Services Information System Public-Release Research Dataset. We included all adult 9-1-1 non-cardiac arrest emergency medical services activations in which neuromuscular blockade-assisted airway management was performed. The primary outcome was the prevalence of hypoxemia, hypotension, and bradycardia within 10\u2009min of neuromuscular blocking agent administration. The secondary outcomes were the timing of adverse events relative to neuromuscular blockade, the odds of adverse events occurring based on vital signs before neuromuscular blockade, and the prevalence of EMS-witnessed cardiac arrest after NMBA administration.\n\n**RESULTS**: Of 54,190,579 9-1-1 emergency medical services activations, there were 11,525 (0.02%) neuromuscular blockade-assisted airway cases. Endotracheal intubation was the first technique performed in 97.5% of cases. First pass success was 80.6%. Overall, 27.5% of patients experienced at least one adverse event in the first 10\u2009min after neuromuscular blockade. The prevalence of hypoxemia, hypotension, bradycardia, and cardiac arrest within 10\u2009min of neuromuscular blockade were 25.0%, 15.0%, 2.7%, and 1.9%, respectively. The odds of an adverse event occurring were higher when vital signs were abnormal before neuromuscular blockade. The presence of preexisting hypoxemia increased the odds of post-neuromuscular blockade hypoxemia by 9.1 (95% CI, 7.9-10.4) and the presence of preexisting hypotension increased the odds of post-neuromuscular blockade hypotension by 16.8 (95% CI, 13.1-21.8). Half of the cases of hypoxemia and hypotension occurred within 6\u2009min (95% CI, 6-7) and 10\u2009min (95% CI, 9-11), respectively.\n\n**CONCLUSIONS**: In this national series, 1 of every 4 patients undergoing neuromuscular blockade-assisted airway management experienced a physiologic adverse event. Emergency medical services agencies that adopt this procedure should implement measures to mitigate adverse events.",
       "journal": "Prehosp Emerg Care",
       "authors": [
         "Spigner MF",
@@ -1586,7 +1730,7 @@
         "Martinek A",
         "Wang HE"
       ],
-      "date": "2026 Aug 03",
+      "date": "2026 Aug 10",
       "doi": "10.1080/10903127.2026.2713128",
       "tier": "filtered",
       "topics": [
@@ -2391,8 +2535,8 @@
     },
     {
       "pmid": "42530919",
-      "title": "Prehospital resuscitative endovascular balloon occlusion of the aorta (REBOA) in patients with major trauma and cardiac arrest: a systematic review.",
-      "abstract": "**OBJECTIVES**: Resuscitative endovascular balloon occlusion of the aorta (REBOA) provides temporary hemorrhage control and optimizes perfusion to vital organs. Despite increasing use in civilian and combat prehospital settings, there is limited consensus on its application or effectiveness. Research has shown mixed effects on mid- to long-term survival, and the inherently high mortality risk among patients receiving REBOA complicates the interpretation of literature. This systematic review consolidates evidence on REBOA use in prehospital and transport medicine settings.\n\n**METHODS**: We conducted a systematic review of multiple databases to identify studies describing REBOA use in the prehospital or transport medicine setting. Two independent reviewers screened against inclusion and exclusion criteria. The risk of bias was assessed via the ROBINS-I tool. The primary outcomes were feasibility of REBOA and survival rates. Secondary outcomes included complications and other \u200b\u200brelevant safety outcomes. Owing to anticipated heterogeneity, a narrative synthesis was conducted.\n\n**RESULTS**: The search yielded 1,211 articles, 31 registered trials, and 151 conference abstracts, of which 14 case studies, two prospective cohort studies, one retrospective chart review, one clinical trial, and four registered trials met the inclusion criteria. The included studies were of critical to serious risk of bias due to inherent methodological limitations. When attempted, prehospital REBOA was successfully deployed in 29/38 (76%) of civilian trauma cases, 76/90 (84%) of civilian nontraumatic cardiac arrest cases, and 2/2 (100%) of combat trauma cases. All out-of-hospital cardiac arrest (OHCA) studies reported significant elevation of blood pressure or EtCO\n\n**CONCLUSIONS**: The current evidence for REBOA use in the prehospital and transport medicine settings is limited by the small number of cases in most existing studies, the lack of control groups in all but one study, and limited reporting of patient-focused outcomes.",
+      "title": "Prehospital Resuscitative Endovascular Balloon Occlusion of the Aorta (REBOA) in Patients with Major Trauma and Cardiac Arrest: A Systematic Review.",
+      "abstract": "**OBJECTIVES**: Resuscitative endovascular balloon occlusion of the aorta (REBOA) provides temporary hemorrhage control and optimizes perfusion to vital organs. Despite increasing use in civilian and combat prehospital settings, there is limited consensus on its application or effectiveness. Research has shown mixed effects on mid- to long-term survival, and the inherently high mortality risk among patients receiving REBOA complicates the interpretation of literature. This systematic review consolidates evidence on REBOA use in prehospital and transport medicine settings.\n\n**METHODS**: We conducted a systematic review of multiple databases to identify studies describing REBOA use in the prehospital or transport medicine setting. Two independent reviewers screened against inclusion and exclusion criteria. The risk of bias was assessed \n\n**RESULTS**: The search yielded 1,211 articles, 31 registered trials, and 151 conference abstracts, of which 14 case studies, two prospective cohort studies, one retrospective chart review, one clinical trial, and four registered trials met the inclusion criteria. The included studies were of critical to serious risk of bias due to inherent methodological limitations. When attempted, prehospital REBOA was successfully deployed in 29/38 (76%) of civilian trauma cases, 76/90 (84%) of civilian nontraumatic cardiac arrest cases, and 2/2 (100%) of combat trauma cases. All out-of-hospital cardiac arrest (OHCA) studies reported significant elevation of blood pressure or EtCO\n\n**CONCLUSIONS**: The current evidence for REBOA use in the prehospital and transport medicine settings is limited by the small number of cases in most existing studies, the lack of control groups in all but one study, and limited reporting of patient-focused outcomes.",
       "journal": "Prehosp Emerg Care",
       "authors": [
         "Sun D",
@@ -2404,7 +2548,7 @@
         "Cheskes S",
         "von Vopelius-Feldt J"
       ],
-      "date": "2026 Jul 30",
+      "date": "2026 Aug 10",
       "doi": "10.1080/10903127.2026.2706098",
       "tier": "filtered",
       "topics": [
@@ -7975,271 +8119,6 @@
       ],
       "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/42445947/"
-    },
-    {
-      "pmid": "42442064",
-      "title": "Ultrasound-guided peripheral IV placement practices: A national survey of gel and probe cover use.",
-      "abstract": "**INTRODUCTION**: Point-of-care ultrasound is often used to obtain peripheral intravenous (PIV) access in the emergency department, but the coupling gel can be a source of healthcare-associated infections. On May 13, 2025, the Department of Public Health (DPH) and the Centers for Disease Control and Prevention (CDC) issued a national warning regarding growth of Paraburkholderia fungorum in non-sterile ultrasound gel products, which was in line with both regulatory agencies and specialty society recommendations. The aim of this study was to evaluate the change in ultrasound gel and policies that occurred after the CDC recommendation, along with an evaluation of ultrasound gel and cover use for ultrasound-guided PIV (US-PIV) access.\n\n**METHODS**: This study was a cross-sectional, national survey of US-PIV use in emergency departments (ED) taking place between August 14, 2025, and September 31, 2025. A 15-question Qualtrics survey was sent out to emergency medicine ultrasound organizations. Inclusion criteria was response to the survey, including any international responses, with responses excluded if duplicates were detected. The primary study outcome was the percentage of EDs making changes to their US-PIV gel or policies in response to the CDC recommendation to switch to using sterile gel for all percutaneous procedures. Secondary outcomes included type of gel and level of sterility being used for US-PIV, probe covers used for US-PIV, who performs US-PIV, and whether institutions use sterile gel for non-procedural POCUS examinations. Descriptive statistics were performed using Microsoft Excel.\n\n**RESULTS**: A total of 175 unique responses were received, with 143 included after assessment for duplicate institutional responses. An ED policy for US-PIV was reported at 107 institutions (74.8%), whereas 29 (20.2%) reported no policy, and 7 (4.9%) respondents did not know whether such a policy existed. No changes were made at 98 (68.5%) of the responding institutions, however, 72 (73.5%) of these institutions already used sterile gel for US-PIV. Of the 34 (23.8%) institutions who reported making changes, 31 changed gel to a sterile product for US-PIV, and 3 changed their ED US-PIV policy. For US-PIV gel use, 134 (93.7%) institutions reported using single-use ultrasound gel packets, of which 29 (21.6%) reported using non-sterile single-use ultrasound gel packets or surgilube and 105 (78.4%) reported sterile gel packet use. This is compared to 9 (6.3%) institutions using gel from a multiuse bottle. Noted themes based on respondent comments included both a shift towards sterile gel after the CDC recommendations and inconsistent adherence on both gel and probe cover.\n\n**CONCLUSION**: Our survey found that approximately 25% of responding institutions made changes to their US-PIV policy or gel selection in response to the CDC recommendation to use sterile gel for percutaneous procedures. Close to half of all institutions were already compliant with the sterile gel recommendations and did not need to modify their practices. However, many institutions still do not use covers or sterile gel for US-PIVs, suggesting a need for better compliance with current recommendations.",
-      "journal": "Am J Emerg Med",
-      "authors": [
-        "Boivin Z",
-        "Nomura JT",
-        "Valenzuela J",
-        "Moore CL",
-        "Duran-Gehring P"
-      ],
-      "date": "2026 Jul 08",
-      "doi": "10.1016/j.ajem.2026.07.009",
-      "tier": "filtered",
-      "topics": [
-        "Imaging"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "POCUS",
-          "strength": "weak",
-          "topic": "Imaging"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42442064/"
-    },
-    {
-      "pmid": "42441934",
-      "title": "Is it all about the right? Echocardiographic metrics of right-sided venous congestion are frequent in trauma patients with hemorrhagic shock.",
-      "abstract": "**BACKGROUND**: Detecting right-sided venous congestion (RSVC) is more difficult than left-sided venous congestion (LSVC). Point-of-care ultrasound (POCUS) can assess venous Doppler flow patterns in the hepatic (HV), portal (PV), and renal (RV) veins. RSVC can predict organ injury from volume overload in critically ill patients. The prevalence and feasibility of measuring RSVC are unknown in traumatic hemorrhagic shock (THS).\n\n**METHODS**: This is a retrospective review of quality improvement data regarding feasibility and utility of assessing RSVC in THS. All trauma patients who were transfused, had at least one systolic blood pressure measurement <90\u00a0mmHg, and/or a heart rate >108 beats per minute, and/or lactate >2.0\u00a0mmol/L within one hour of admission were flagged. Sonographic examinations were performed within 48 hours. RSVC included PV >30% pulsatility, HV systolic<diastolic, RV pulsatility. LSVC included B-lines. Statistical significance was assessed with \u03c72 and Fischer exact tests.\n\n**RESULTS**: Of 182 patients screened, 135 met inclusion criteria. Ninety-six examinations were performed. Seventy-eight percent were male with mean age of 48.3 years. Forty-seven percent were African American and 42% Caucasian. Seventy percent sustained blunt injury. Median injury severity score on admission was 24. Venous congestion was assessed in 94.7% of patients; PV in 81.3%, HV in 79.1%, and RV in 51%. Thirty-seven percent had at least one metric of RSVC. Conversely, LSVC was present in only 4.2% of patients, P<0.001. Patients with an abnormal TAPSE (\u22641.7\u00a0cm) have an OR of RSVC of 4.24 (CI: 1.17-13.73, P=0.046).\n\n**CONCLUSIONS**: Evidence of RSVC is prevalent in patients with THS, significantly more than LSVC at 24 hours. This could be an unintended consequence of life-saving massive transfusion and cardiac dysfunction and may identify a cohort of patients that would benefit from a fluid-restricted approach to resuscitation. Further studies are needed for validation and to better understand the etiology and clinical relevance of RSVC in THS. (J Trauma Acute Care Surg 2026;00:000-000 Copyright \u00a9 2026 Wolters Kluwer Health, LLC. All rights reserved.).\n\n**LEVEL OF EVIDENCE**: Level IV.",
-      "journal": "J Trauma Acute Care Surg",
-      "authors": [
-        "Leggett E",
-        "Do A",
-        "Lutton EM",
-        "Fatima S",
-        "Salerno A",
-        "Teeter W",
-        "Murthi S"
-      ],
-      "date": "2026 Jul 13",
-      "doi": "10.1097/TA.0000000000005096",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "Haemorrhage",
-        "Imaging",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "injury severity",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "haemorrhagic shock",
-          "strength": "strong",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "massive transfusion",
-          "strength": "weak",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "POCUS",
-          "strength": "weak",
-          "topic": "Imaging"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42441934/"
-    },
-    {
-      "pmid": "42441923",
-      "title": "The emerging need of adult emergency surgery for general pediatric surgery complications and conditions: A case based early management algorithm.",
-      "abstract": "",
-      "journal": "J Trauma Acute Care Surg",
-      "authors": [
-        "Goyal A",
-        "Wood D",
-        "Marshall WA",
-        "Burlew CC",
-        "Hawley KL"
-      ],
-      "date": "2026 Jul 13",
-      "doi": "10.1097/TA.0000000000005119",
-      "tier": "core",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42441923/"
-    },
-    {
-      "pmid": "42441910",
-      "title": "Tranexamic acid in patients with traumatic brain injury: Is there benefit in patients with fibrinolytic shutdown?",
-      "abstract": "**BACKGROUND**: Tranexamic acid (TXA) is widely used in patients with traumatic brain injury (TBI). However, its pharmacology suggests differences in effectiveness should exist based on fibrinolytic phenotype, particularly fibrinolytic shutdown. This study examined whether fibrinolytic shutdown is associated with increased mortality in TBI and whether TXA retains its benefit in this subgroup.\n\n**METHODS**: This retrospective cohort study included TBI patients who had thromboelastography (TEG) upon presentation at three affiliated trauma centers. Patients were excluded if they received TXA before TEG, had TXA >3 hours postadmission, Glasgow Coma Score (GCS)=3 and a nonreactive pupil or a nonsurvivable injury. The primary endpoint was all-cause mortality, either in-hospital or in-hospice, up to 28 days. Patients were stratified by fibrinolytic phenotype: shutdown (LY30<0.5%), physiologic (0.5-7.7%), or hyperfibrinolytic (>7.7%) and TXA receipt. Univariate and multivariate analyses were performed.\n\n**RESULTS**: Of 394 patients (mean age 64\u00b121\u00a0y; 56% ground-level falls; 74% mild TBI), fibrinolytic shutdown predominated [72% (n=285)], followed by physiologic [27% (n=107)], and hyperfibrinolysis [0.5% (n=2)]. Unadjusted mortality was 16% with shutdown versus 9.2% without (p=0.090). After controlling for age, ISS, GCS, multicompartmental head injury, neurosurgical intervention, and TXA, there was no association between shutdown phenotype and mortality [OR (95% CI) =1.37 (0.62-3.05)]. In patients with fibrinolytic shutdown, unadjusted mortality was lower in patients who received TXA [12% (24/196) vs. 24% (21/89), p=0.015]. After controlling for age, ISS, GCS, multicompartmental head injury, and neurosurgical intervention, mortality remained lower [OR (95% CI)=0.36 (0.16-0.77)]. In patients without fibrinolytic shutdown, no difference in mortality was noted [TXA, 9.6% (7/73) vs. no TXA, 8.3% (3/36), p=1.00]. These results did not change after controlling for the above confounders [OR (95% CI)=0.96 (0.16-5.78)].\n\n**CONCLUSIONS**: TXA remained associated with lower mortality in TBI patients with fibrinolytic shutdown, despite pharmacologic expectations. Fibrinolytic shutdown was not independently associated with higher mortality. These findings support early TXA administration without delaying treatment for TEG interpretation. (J Trauma Acute Care Surg 2026;00:000-000 Copyright \u00a9 2026 Wolters Kluwer Health, LLC. All rights reserved.).\n\n**LEVEL OF EVIDENCE**: Therapeutic/Care Management; Level IV.",
-      "journal": "J Trauma Acute Care Surg",
-      "authors": [
-        "Barletta JF",
-        "Lim H",
-        "Sucher JF",
-        "Mangram AJ",
-        "Dzandu JK",
-        "Zach V"
-      ],
-      "date": "2026 Jul 13",
-      "doi": "10.1097/TA.0000000000005066",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "Haemorrhage",
-        "TBI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "tranexamic acid",
-          "strength": "strong",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "thromboelastography",
-          "strength": "weak",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "traumatic brain injury",
-          "strength": "strong",
-          "topic": "TBI"
-        },
-        {
-          "keyword": "head injury",
-          "strength": "weak",
-          "topic": "TBI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42441910/"
-    },
-    {
-      "pmid": "42441900",
-      "title": "RhD-Positive Transfusion in Females of Childbearing Potential in Hemorrhagic Shock: Risk, Reality, and Policy.",
-      "abstract": "**OBJECTIVES**: \u2028Prehospital transfusion using Rhesus D antigen (RhD)-positive low-titer group O whole blood (LTOWB) or red blood cells is increasingly common when RhD-negative blood products are not available. However, concerns remain regarding D-alloimmunization in RhD-negative females of childbearing potential (FCPs), which could lead to future hemolytic disease of the fetus and newborn (HDFN). The magnitude of these risks, and their policy implications, have been the subject of recent investigation. To summarize the biological and epidemiological impacts and post-exposure management of RhD-positive transfusion in FCPs in hemorrhagic shock.\n\n**METHODS**: \u2028This narrative review synthesizes the literature on the rate of D-alloimmunization, describes the results of modeling studies on the risk of HDFN following RhD-positive transfusion to FCPs, and examines epidemiologic studies estimating the HDFN risk at local, regional, and national levels. The D-alloimmunization risk mitigation strategies and current clinical guidelines are also reviewed.\n\n**RESULTS**: \u2028Several factors, including the low prevalence of RhD-negative individuals, the low rate of D-alloimmunization itself, potentially reduced pregnancy rates post-trauma, and advances in modern perinatal care decrease the overall risk of HDFN following the transfusion of RhD-positive blood products to FCPs in trauma. Some modeling studies estimated that fetal death due to anti-D-mediated HDFN would occur in fewer than 0.1% of FCPs exposed to RhD-positive blood products. Timely prehospital transfusion has demonstrated survival benefits for injured adults and children. National and regional epidemiological studies support the safety and utility of RhD-positive blood product use in emergency settings. Risk mitigation strategies include Rh immune globulin (RhIg) administration and structured post-exposure follow-up to detect alloimmunization and reduce potential future pregnancy harm.\n\n**CONCLUSIONS**: \u2028RhD-positive transfusion in FCPs during hemorrhagic shock when RhD-negative products are not available is supported by current evidence and ethical considerations. The risk of future HDFN is low and favorable perinatal outcomes can be achieved when the woman has access to modern prenatal health care. Risk may be further mitigated through post-exposure protocols. Prehospital transfusion policies should reflect this risk-benefit balance by enabling access to RhD-positive blood products for all trauma patients, including FCPs, if RhD-negative blood products are not available.",
-      "journal": "Prehosp Emerg Care",
-      "authors": [
-        "Murphy TO",
-        "Spinella PC",
-        "Young PP",
-        "Emery SP",
-        "Kulaste R",
-        "Leeper CM",
-        "Hopkins CK",
-        "Sherwood MR",
-        "E M\u00fcller D",
-        "Horvath S",
-        "Pink J",
-        "Yazer MH"
-      ],
-      "date": "2026 Jul 13",
-      "doi": "10.1080/10903127.2026.2701877",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Haemorrhage",
-        "Prehospital"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "haemorrhagic shock",
-          "strength": "strong",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "blood product",
-          "strength": "weak",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "prehospital",
-          "strength": "weak",
-          "topic": "Prehospital"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42441900/"
-    },
-    {
-      "pmid": "42441866",
-      "title": "Western Trauma Association critical decisions in trauma: Lung injury.",
-      "abstract": "**ABSTRACT**: This is the Western Trauma Association's recommended algorithm for the management of a traumatic lung injury. The current algorithm and recommendations are based on available published randomized trials, observational studies, systematic reviews, and the expert opinion of the Western Trauma Association members. The algorithm and accompanying text represent a safe and reasonable approach to this common problem. We recognize that there may be variability in decision-making, local resources, institutional consensus, and patient-specific factors that may require deviations from the presented algorithm. This annotated algorithm is meant to serve as a basis from which protocols at individual institutions can be developed or serve as a quick bedside reference for clinicians.\n\n**LEVEL OF EVIDENCE**: Consensus algorithm from the Western Trauma Association, Level V. (J Trauma Acute Care Surg. 2026;101: 187-198. Copyright c 2026 Wolters Kluwer Health, LLC. All rights reserved.).",
-      "journal": "J Trauma Acute Care Surg",
-      "authors": [
-        "Hynes AM",
-        "Kuckelman JP",
-        "Coimbra R",
-        "Beckman MA",
-        "Bower KL",
-        "Croft CA",
-        "Inaba K",
-        "Keric N",
-        "Kerwin AJ",
-        "Kopelman TR",
-        "Kundi R",
-        "Lorenzo M",
-        "Magee GA",
-        "Privette AR",
-        "Savage SA",
-        "Schellenberg MA",
-        "Schuster KM",
-        "Tesoriero RB",
-        "Windell EM",
-        "Hartwell JL",
-        "Stein DM"
-      ],
-      "date": "2026 Jul 13",
-      "doi": "10.1097/TA.0000000000004991",
-      "tier": "core",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic",
-          "strength": "weak",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42441866/"
     }
   ]
 }
