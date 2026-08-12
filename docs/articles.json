@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-11T20:34:51.859932Z",
-  "total_articles": 203,
+  "generated": "2026-08-12T20:33:25.978654Z",
+  "total_articles": 205,
   "all_topics": [
     "Abdominal",
     "Burns",
@@ -378,6 +378,270 @@
     "Cochrane Database Syst Rev": "filtered"
   },
   "articles": [
+    {
+      "pmid": "42580979",
+      "title": "Age-stratified outcomes after small-volume isolated blunt traumatic brain injury: A national ACS-TQIP analysis.",
+      "abstract": "**BACKGROUND**: Small-volume traumatic brain injuries (TBIs) are often considered low risk clinically, but older adults may face disproportionate adverse outcomes. Evidence outlining age-specific risks related to limited subdural hematomas (SDH), epidural hematomas (EDH), and cerebral contusions remains limited.\n\n**METHODS**: We performed a retrospective cohort study using data from the American College of Surgeons Trauma Quality Programs Participant Use File (ACS-TQIP-PUF), 2017-2022. Adults aged 40 years and older with isolated blunt TBI were included, excluding skull fractures and multisystem trauma (AIS >1 in non-head regions). Injuries were classified as SDH \u2264\u00a08\u00a0mm, EDH \u2264\u00a08\u00a0mm, or contusions \u2264\u00a02\u00a0cm. Patients were stratified by age (40-64 vs. \u226565 years). Subtype-stratified multivariable logistic regression examined associations between age group and (1) in-hospital mortality and (2) emergency department (ED) disposition to the intensive care unit (ICU), adjusting for demographics, comorbidities, injury severity, trauma center level, neurosurgical procedures, anticoagulation, and venous thromboembolism prophylaxis.\n\n**RESULTS**: The cohort included 135,343 patients, with SDH accounting for 93.2% of cases. Unadjusted in-hospital mortality was higher in elderly patients (\u226565 years) than middle-aged adults (40-64 years) across all subtypes: SDH (2.5% vs. 1.5%), EDH (2.1% vs. 1.3%), and contusion (2.0% vs. 0.9%). Unadjusted ICU admission rates were comparable across age groups (SDH: 45.0% vs. 44.7%; EDH: 46.1% vs. 47.3%; contusion: 44.2% vs. 44.2%). On multivariable analysis, elderly patients had significantly higher adjusted odds of in-hospital mortality across all subtypes: SDH (OR 1.774, 95% CI 1.542-2.043), EDH (OR 1.589, 95% CI 1.053-2.397), and contusion (OR 1.591, 95% CI 1.169-2.165). Elderly patients with EDH were more likely to be admitted to the ICU from the ED (OR 1.144, 95% CI 1.020-1.283). Other factors independently associated with mortality included male sex, pre-injury anticoagulation, neurosurgical intervention, renal failure, and functional dependence.\n\n**CONCLUSION**: Among adults with radiographically small-volume isolated TBIs, advanced age is independently linked to increased in-hospital mortality and higher likelihood of ICU admission, especially in EDH. These findings challenge the notion that limited intracranial hemorrhage is clinically harmless in older adults and support age-specific risk assessment in ED triage and critical care decisions.",
+      "journal": "Injury",
+      "authors": [
+        "Rhodes-Lyons H",
+        "McClure DL",
+        "Locklear T",
+        "Martinek L",
+        "Pepe A"
+      ],
+      "date": "2026 Aug 08",
+      "doi": "10.1016/j.injury.2026.113595",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Systems/QI",
+        "TBI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "injury severity",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "traumatic brain injury",
+          "strength": "strong",
+          "topic": "TBI"
+        },
+        {
+          "keyword": "intracranial haemorrhage",
+          "strength": "weak",
+          "topic": "TBI"
+        },
+        {
+          "keyword": "trauma quality",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42580979/"
+    },
+    {
+      "pmid": "42580879",
+      "title": "Paediatric electric-scooter injuries: an emerging public health crisis?",
+      "abstract": "**BACKGROUND**: Electric-scooters (e-scooters) are popular worldwide although there are concerns about their regulation and safety. Since 2019, 59 deaths have been reported in the UK involving e-scooters; 10 under 18 years old. In the UK riding privately owned e-scooters is illegal unless on private land. We reviewed e-scooter injuries in patients presenting to Emergency Departments of three UK Paediatric Major Trauma Centres.\n\n**METHODS**: This was a retrospective observational study of e-scooter-related injuries in patients under 16 years-old from January 2019 to December 2024 at Alder Hey Children's Hospital (AH), Sheffield Children's Hospital (SCH) and Royal Manchester Children's Hospital (RMCH). Patients were identified via electronic triage records and cross-referenced with trauma lists. At RMCH, a change in software limited data collection to 2023-2024. Descriptive statistics were used with 95% CIs for key proportions.\n\n**RESULTS**: 477 patients presented with increasing incidence over the 6\u2009year period. Median age was 12 years (IQR 10-13), with a male predominance (64.4%). Most injuries occurred to the rider (94.8%) and \u226580% were private e-scooters. 2.5% occurred on private land.Most common injuries were limb (40.6% lower, 36.2% upper), head (24.1%), and facial (18.4%) injuries. 10.4% of head injuries had an Abbreviated Injury Scale (AIS) score of 3 or 4, indicating major trauma necessitating imaging, hospital admission, and surgical intervention. Of the most seriously injured (AIS 3 or 4), 48% were from a collision with a motor vehicle or stationary object. Only 1.8% were wearing a helmet; 13.4% were admitted and 6.9% required surgery. Most injured children (74%) lived in the most deprived areas (Index of Multiple Deprivation (IMD) 1/2).\n\n**CONCLUSION**: E-scooter related injuries are rising. Limb, head and facial injuries were most common, with head injuries being most severe, this has serious life-changing implications for families and significant impact on healthcare resources. There is a need for greater public awareness, clear public health messaging and review of government legislation to prevent further injuries and deaths.",
+      "journal": "Emerg Med J",
+      "authors": [
+        "Sabir L",
+        "Waheed S",
+        "Rushmer C",
+        "Helliwell H",
+        "Scott A",
+        "Tricks R",
+        "Durand C"
+      ],
+      "date": "2026 Aug 11",
+      "doi": "10.1136/emermed-2026-215992",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "TBI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "major trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "head injury",
+          "strength": "weak",
+          "topic": "TBI"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42580879/"
+    },
+    {
+      "pmid": "42580875",
+      "title": "In children requiring emergency vascular access, are intraosseous lines associated with significant long-term complications?",
+      "abstract": "Intraosseous (IO) access is a technique increasingly used within trauma and emergency settings where immediate vascular access is required. It provides an effective alternative to intravenous access, particularly in paediatric patients where intravenous access is difficult, or where previous attempts have been unsuccessful. However, concerns remain regarding potential complications associated with IO use, including potential long-term adverse outcomes.A short cut review of the literature was carried out to determine long-term outcomes of IO access in paediatric patients requiring emergency vascular access. A total of 282 unique papers were found, of which 11 observational studies (three prospective, eight retrospective) included data on patients relevant to the clinical question; these are discussed in the paper. Across these studies, severe long-term complications following paediatric IO access were rare. Only one study reported a single case of osteomyelitis following IO access. No evidence of growth disturbance, venous thrombosis or fat embolism was identified, while isolated cases of compartment syndrome, fracture and extravasation were reported at low frequency. The author, date and country of publication, patient group studied, study type, relevant outcomes, results and study weaknesses of the best papers are tabulated.The clinical bottom line is that severe complications are rarely reported with paediatric IO lines. Emergency clinicians should not be deterred from inserting or retaining IO lines when definitive intravenous access has yet to be established.",
+      "journal": "Emerg Med J",
+      "authors": [
+        "Carley ELJ",
+        "Yates GP"
+      ],
+      "date": "2026 Aug 11",
+      "doi": "10.1136/emermed-2026-216214",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Orthopaedic"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "compartment syndrome",
+          "strength": "weak",
+          "topic": "Orthopaedic"
+        },
+        {
+          "keyword": "fat embolism",
+          "strength": "weak",
+          "topic": "Orthopaedic"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42580875/"
+    },
+    {
+      "pmid": "42579960",
+      "title": "The evolution of primary subtalar arthrodesis for displaced intra-articular calcaneal fractures: A historical review.",
+      "abstract": "**BACKGROUND**: Primary subtalar arthrodesis has been advocated for the treatment of severe displaced intra-articular calcaneal fractures for more than a century. Although the procedure remains a valuable option in carefully selected patients, its historical evolution has never been comprehensively reviewed. This study aimed to describe the development of primary subtalar arthrodesis from its introduction in 1911 to contemporary practice and to evaluate how indications, surgical techniques, and reported outcomes have evolved over time.\n\n**METHODS**: A comprehensive search of PubMed and Embase was performed without date restrictions, supplemented by backward and forward citation tracking. Publications describing acute primary subtalar or triple arthrodesis for calcaneal fractures were included. Studies were grouped into four historical eras based on publication volume, treatment philosophy, and technical developments. Data regarding indications, operative techniques, timing, and clinical outcomes were extracted descriptively.\n\n**RESULTS**: The concept of primary subtalar arthrodesis was first introduced by Van Stockum in 1911, who recognized the subtalar joint as the principal source of persistent pain after severe calcaneal fractures. Early reports regarded arthrodesis primarily as a salvage procedure when anatomical reconstruction was considered impossible. During the 1950s-1970s, the concept evolved into reconstructive primary arthrodesis, emphasizing restoration of calcaneal morphology before fusion. Following the introduction of computed tomography and modern open reduction techniques, publications on primary arthrodesis virtually disappeared between 1980 and 1994, reflecting renewed confidence in joint-preserving reconstruction. Since the mid-1990s, primary arthrodesis has re-emerged as a selective treatment for irreparable posterior facet injuries. Although most studies reported favorable union rates and functional outcomes, comparative studies have demonstrated little difference in patient-reported outcomes between reconstruction alone and reconstructive primary arthrodesis, highlighting the importance of appropriate patient selection rather than routine use.\n\n**CONCLUSIONS**: Over more than a century, primary subtalar arthrodesis has evolved from a salvage procedure into a reconstructive strategy reserved for carefully selected patients with irreparable subtalar joint injury. Contemporary evidence suggests that the success of primary arthrodesis depends less on the procedure itself than on identifying the patients most likely to benefit. Future research should focus on validating objective fracture- and patient-related selection criteria.",
+      "journal": "Injury",
+      "authors": [
+        "Schepers T"
+      ],
+      "date": "2026 Aug 06",
+      "doi": "10.1016/j.injury.2026.113549",
+      "tier": "filtered",
+      "topics": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42579960/"
+    },
+    {
+      "pmid": "42579959",
+      "title": "Risk factors and hospital harm: A study of hip fracture patients in the community using population-based data.",
+      "abstract": "**BACKGROUND**: Hip fractures are a leading cause of morbidity, mortality, and hospital-related complications among older adults. While many in-hospital complications are preventable, little is known about how individual and neighborhood-level factors contribute to preventable hospital harm in this population. This study examines associations between individual, neighborhood, and organizational-level characteristics and the likelihood of experiencing hospital harm during acute care for hip fracture among community-dwelling older adults in Ontario, Canada.\n\n**METHODS**: We created a retrospective cohort using linked administrative databases to capture community-dwelling individuals (50+) hospitalized with hip fracture in Ontario, Canada from April 1st, 2008 to March 31st, 2022. We measured associations between preventable hospital harm and demographic, neighborhood-level and organizational risk factors. We included hospital harm as a binary variable (overall harm/no harm) and used multivariable logistic regression, stratified by length of stay (\u2264 6 versus > 6 days), to examine associations between risk factors and hospital harm.\n\n**RESULTS**: Our cohort consisted of 124,570 community-dwelling individuals with a mean age of 80.4 \u00b1 10.6 years. 19.2% of the cohort experienced at least one incident of harm during their acute hospital stay. We observed that regardless of length of stay, individuals who were male, older, frail, had dementia, lived in urban areas or underwent surgery were significantly more likely to experience hospital harm during their hospital stay. At the neighborhood level, people who lived in areas with higher proportions of racialized and newcomer populations were more likely to experience hospital harm. When assessing organizational-level factors, we found that people visiting teaching hospitals were more likely to experience harm compared to those visiting community hospitals.\n\n**CONCLUSIONS**: Our findings highlight the need for targeted safety interventions for male sex, older, frail, or marginalized populations. Future research should explore mechanisms underlying these disparities and inform strategies to prevent harm during hospitalization for hip fracture.",
+      "journal": "Injury",
+      "authors": [
+        "Rashidian L",
+        "Ali A",
+        "Senthinathan A",
+        "Bai YQ",
+        "Wodchis WP",
+        "Bronskill SE",
+        "Backman C",
+        "Thavorn K",
+        "Kuluski K",
+        "Guilcher SJ"
+      ],
+      "date": "2026 Jul 22",
+      "doi": "10.1016/j.injury.2026.113510",
+      "tier": "filtered",
+      "topics": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42579959/"
+    },
+    {
+      "pmid": "42579958",
+      "title": "Do all Gartland type II supracondylar distal humeral fractures need surgery and pinning?",
+      "abstract": "",
+      "journal": "Injury",
+      "authors": [
+        "Qiu R",
+        "Ferrie L",
+        "Buckley R"
+      ],
+      "date": "2026 Aug 06",
+      "doi": "10.1016/j.injury.2026.113589",
+      "tier": "filtered",
+      "topics": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42579958/"
+    },
+    {
+      "pmid": "42579392",
+      "title": "Survival after Resuscitative Thoracotomy in the Emergency Department: An Analysis of 487 Trauma Patients with Prehospital Cardiopulmonary Resuscitation.",
+      "abstract": "**BACKGROUND**: The association between prehospital cardiopulmonary resuscitation (CPR) duration and outcomes after emergency department resuscitative thoracotomy (RT) remains uncertain. We evaluated whether EMS-derived time-stamped prehospital CPR duration was associated with survival and neurologic outcomes after RT.\n\n**STUDY DESIGN**: Single-institution retrospective cohort study of adults undergoing RT after prehospital traumatic cardiac arrest between 2016 and 2023. Prehospital CPR duration was defined as the interval from EMS recognition of cardiac arrest to hospital arrival. The primary outcome was survival to discharge; secondary outcomes were 24-hour survival, return of spontaneous circulation (ROSC), and neurologic status at discharge.\n\n**RESULTS**: Among 487 patients (223 blunt, 264 penetrating; median age 35 years [IQR 28-51]; 87.7% male), median prehospital CPR duration was 15 minutes for both blunt and penetrating trauma. One blunt trauma patient (0.4%) survived after 6 minutes of CPR with severe neurologic disability (CPC 4); no blunt trauma patient achieved favorable neurologic outcome. Six penetrating trauma patients (2.3%) survived with good neurologic outcomes (CPC 1-2), all after prehospital CPR durations of 10 minutes or less. Increasing CPR duration was associated with increasing mortality and decreasing ROSC (Ptrend<0.01).\n\n**CONCLUSIONS**: Longer prehospital CPR duration was associated with progressively worse outcomes after RT. No blunt trauma patient requiring prehospital CPR survived with favorable neurologic function, whereas all neurologically intact survivors after penetrating trauma underwent 10 minutes or less of prehospital CPR. These findings provide additional evidence to inform future studies evaluating patient selection for RT.",
+      "journal": "J Am Coll Surg",
+      "authors": [
+        "Yamaguchi K",
+        "Takahashi K",
+        "Abe T",
+        "Bent CI",
+        "Prasad A",
+        "Karadimitriou T",
+        "Beni C",
+        "Siletz A",
+        "Martin MJ",
+        "Inaba K",
+        "Matsushima K"
+      ],
+      "date": "2026 Aug 11",
+      "doi": "10.1097/XCS.0000000000002130",
+      "tier": "filtered",
+      "topics": [
+        "Cardiac Arrest",
+        "General Trauma",
+        "Penetrating",
+        "Prehospital",
+        "Thoracic"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "blunt trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "penetrating trauma",
+          "strength": "weak",
+          "topic": "Penetrating"
+        },
+        {
+          "keyword": "thoracotomy",
+          "strength": "strong",
+          "topic": "Thoracic"
+        },
+        {
+          "keyword": "prehospital",
+          "strength": "strong",
+          "topic": "Prehospital"
+        },
+        {
+          "keyword": "traumatic cardiac arrest",
+          "strength": "weak",
+          "topic": "Cardiac Arrest"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42579392/"
+    },
     {
       "pmid": "42574977",
       "title": "Investigation of the biomechanically optimal length of intramedullary nails in unstable intertrochanteric femur fractures 31A2.2: A finite element analysis study.",
@@ -3379,7 +3643,7 @@
         "Ream E",
         "Lyon R"
       ],
-      "date": "2026 Jul 28",
+      "date": "2026 Aug 11",
       "doi": "10.1136/emermed-2025-215619",
       "tier": "filtered",
       "topics": [
@@ -7966,159 +8230,6 @@
       ],
       "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/42449390/"
-    },
-    {
-      "pmid": "42447460",
-      "title": "Comments on \"contemporary management of large bowel obstruction: What you need to know\".",
-      "abstract": "",
-      "journal": "J Trauma Acute Care Surg",
-      "authors": [
-        "Atamanalp SS"
-      ],
-      "date": "2026 Jul 14",
-      "doi": "10.1097/TA.0000000000005136",
-      "tier": "core",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42447460/"
-    },
-    {
-      "pmid": "42447442",
-      "title": "Merging realities: Virtual and augmented platforms utilization for complex chest wall surgery-a case series.",
-      "abstract": "**BACKGROUND**: Accurate preoperative planning and incision design remain critical challenges in complex chest wall surgery. Virtual reality (VR) and augmented reality (AR) enable immersive, patient-specific visualization that may improve anatomic understanding and operative precision. We evaluated their use for preoperative planning and intraoperative guidance in chest wall repair and reconstruction.\n\n**METHODS**: Five thoracic surgeons utilized VR and/or AR planning in 35 consecutive patients undergoing chest wall procedures over a nine-month period at two trauma centers. High-resolution computed tomography (CT) imaging was uploaded into a VR platform for preoperative planning, and AR was optionally used intraoperatively to project three-dimensional anatomy, assisting with incision planning and trajectory verification without altering standard operative workflow. Data were extracted from the electronic medical record and analyzed using descriptive statistics.\n\n**RESULTS**: Mean age was 59 years (range: 26 to 89), mean BMI was 28\u00a0kg/m\u00b2, and 57% of patients were male. Combined VR/AR was used in 77% of cases, whereas 22% underwent VR-only planning due to early connectivity and AR calibration limitations. One patient did not proceed to surgery after VR/AR review. The mean interval from CT acquisition to surgery was 5 days overall and 1.5 days for nonelective cases. Procedures included 10 chest wall reconstructions, 22 rib fracture fixations (mean 4 ribs plated), one sternal fixation, and two chest wall mass excisions. The most common incision was a muscle-sparing \"line-of-best-fit\" approach (n=25). Mean operative time was 93 minutes. No intraoperative complications related to VR or AR were observed.\n\n**CONCLUSIONS**: Integration of VR and AR platforms for complex chest wall surgery was feasible within our practice. These technologies supported incision planning, hardware orientation, and spatial mapping without apparent disruption to operative workflow, suggesting a potentially useful adjunct for chest wall repair and reconstruction.\n\n**LEVEL OF EVIDENCE**: Level V, case series.",
-      "journal": "J Trauma Acute Care Surg",
-      "authors": [
-        "Veit T",
-        "Howington J",
-        "DeBarros M",
-        "Templin T",
-        "Cuadrado D",
-        "Kuckelman J"
-      ],
-      "date": "2026 Jul 14",
-      "doi": "10.1097/TA.0000000000005099",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "Thoracic"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "rib fracture",
-          "strength": "weak",
-          "topic": "Thoracic"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42447442/"
-    },
-    {
-      "pmid": "42447382",
-      "title": "Endovascular Repair After Blunt Traumatic Aortic Injury: Definite Progress but Still Work to Do.",
-      "abstract": "",
-      "journal": "J Am Coll Surg",
-      "authors": [
-        "Cabot JH",
-        "Kauvar DS"
-      ],
-      "date": "2026 Jul 14",
-      "doi": "10.1097/XCS.0000000000002082",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Vascular"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "traumatic",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "aortic injury",
-          "strength": "strong",
-          "topic": "Vascular"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42447382/"
-    },
-    {
-      "pmid": "42447354",
-      "title": "Value-Based Approach to Stent-Graft Inventory Selection for Blunt Thoracic Aortic Injury: Multi-Center, Multi-Manufacturer Analysis from the Aortic Trauma Foundation.",
-      "abstract": "**BACKGROUND**: Thoracic endovascular aortic repair (TEVAR) is the standard treatment for blunt thoracic aortic injury (BTAI), but maintaining extensive thoracic stent-graft inventories is costly and logistically challenging. We evaluated whether a limited, anatomy-based inventory could accommodate most BTAI repairs.\n\n**STUDY DESIGN**: The Aortic Trauma Foundation registry was queried for patients with BTAI undergoing TEVAR at 52 trauma centers worldwide from January 2012 to January 2024. Patients with documented initial computed tomography aortic measurements, stent-graft manufacturer, and device size were included. Stent-grafts were ranked by utilization frequency within each manufacturer to determine the minimum number of configurations required to treat at least 90% of patients.\n\n**RESULTS**: Among 346 patients, 80% were male and mean age was 41 \u00b1 15 years. Device utilization was greatest for Gore (60%), followed by Medtronic (21%), Cook (12%), and Terumo (6%). Although each manufacturer offered more than 20 thoracic stent-graft options, the six most frequently used configurations treated 91-97% of patients across manufacturers and spanned proximal diameters of 21-32 mm. Of 36 patients (10%) requiring devices outside these configurations, 83% still underwent repair using proximal diameters within the 21-32 mm range. Only 7 patients (2%) required proximal diameters >32 mm; these patients were older (73.6 versus 41 years) and had larger native aortic diameters. Overall, proximal diameters of 21-32 mm encompassed 98.3% of repairs. BTAI grade, endoleak repair rates, and in-hospital mortality did not differ among manufacturers.\n\n**CONCLUSIONS**: Six stent-graft configurations spanning proximal diameters of 21-32 mm accommodate more than 90% of BTAI TEVAR procedures, while only 2% of patients require larger devices. These findings support evidence-based inventory optimization for trauma centers establishing or maintaining TEVAR capability.",
-      "journal": "J Am Coll Surg",
-      "authors": [
-        "Yep Mendizabal F",
-        "MacHugh A",
-        "Crapps J",
-        "Hutzler J",
-        "DuBose J",
-        "Grimm J",
-        "Brown CV",
-        "Teixeira P"
-      ],
-      "date": "2026 Jul 14",
-      "doi": "10.1097/XCS.0000000000002094",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Vascular"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "aortic injury",
-          "strength": "strong",
-          "topic": "Vascular"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42447354/"
-    },
-    {
-      "pmid": "42445947",
-      "title": "Blood pressure management in reperfused ischemic stroke.",
-      "abstract": "**RATIONALE**: Stroke is the second leading cause of death worldwide and a major contributor to disability, with ischemic strokes accounting for 80% to 85% of all strokes. Appropriate blood pressure management during and after procedures like thrombectomy and thrombolysis is essential, as sustained high blood pressure can worsen outcomes. Guidelines recommend maintaining blood pressure below 180/105 mmHg during the 24 hours after a successful procedure; however, this recommendation is based on low-certainty evidence. Some studies suggest that lowering systolic blood pressure (SBP) to below 160 mmHg could improve outcomes and reduce the risk of intracranial hemorrhage. Given the prevalence of ischemic strokes, establishing optimal blood pressure targets is crucial for minimizing complications, enhancing recovery, and reducing the overall burden on healthcare systems.\n\n**OBJECTIVES**: To assess the benefits and harms of intensive systolic blood pressure management (target less than 160 mmHg) versus conventional management (target less than 180 mmHg) in people undergoing ischemic stroke reperfusion via systemic thrombolysis or endovascular thrombectomy.\n\n**SEARCH METHODS**: We searched CENTRAL, MEDLINE, Embase, and two trial registers, together with reference checking, citation searching, and contact with study authors, to identify studies. The latest search date was 20 March 2025.\n\n**ELIGIBILITY CRITERIA**: We included randomized controlled trials (RCTs) in adults with acute ischemic stroke reperfused by systemic thrombolysis or endovascular thrombectomy, comparing intensive SBP management (targeting any SBP objective less than 160 mmHg) with conventional SBP management (targeting SBP less than 180 mmHg).\n\n**OUTCOMES**: Our critical outcomes were clinical function (assessed dichotomously using the modified Rankin scale (mRS)), quality of life, and neurologic adverse events (assessed as any intracranial hemorrhage (ICH) and as symptomatic ICH). Important outcomes included clinical function (assessed continuously), neurologic status (assessed as a continuous and dichotomous outcome using the National Institutes of Health Stroke Scale (NIHSS)), all-cause mortality, hospital length of stay, and other adverse events.\n\n**RISK OF BIAS**: We used the Cochrane RoB 2 tool to assess risk of bias.\n\n**SYNTHESIS METHODS**: We synthesized results for each outcome using meta-analysis, where possible, with a random-effects model. We used GRADE to assess the certainty of evidence for each outcome.\n\n**INCLUDED STUDIES**: We included nine studies with 4381 participants, primarily from upper-middle and high-income countries. Seven studies focused on participants who underwent endovascular thrombectomy, while two studies focused on participants who received systemic thrombolysis. Five studies aimed for a target blood pressure of < 140 mmHg, two aimed for < 120 mmHg, one for < 160 mmHg, and another study included two intervention arms with different targets (< 140 mmHg and < 160 mmHg). Eight studies targeted blood pressure < 180 mmHg and one study targeted blood pressure < 160 mmHg in the conventional blood pressure management group.\n\n**SYNTHESIS OF RESULTS**: Intensive blood pressure management versus conventional blood pressure management Critical outcomes Intensive SBP management results in little to no clinically meaningful difference in clinical function (dichotomous outcome) (risk ratio (RR) 0.89, 95% confidence interval (CI) 0.80 to 0.98; I\u00b2 = 51%; 9 studies, 4272 participants; high-certainty evidence). Intensive SBP management likely results in little to no clinically meaningful difference in quality of life (standardized mean difference (SMD) -0.14, 95% CI -0.49 to 0.22; I\u00b2 = 75%; 3 studies, 3165 participants; moderate-certainty evidence). For any ICH, intensive SBP management does not increase or reduce neurologic adverse events (RR 0.99, 95% CI 0.87 to 1.14; I\u00b2 = 30%; 9 studies, 4304 participants; high-certainty evidence). For symptomatic neurologic adverse events (ICH), intensive SBP management may result in little to no clinically meaningful difference (RR 1.03, 95% CI 0.77 to 1.36; I\u00b2 = 2%; 9 studies, 4304 participants; low-certainty evidence). Important outcomes Intensive SBP management likely results in little to no clinically meaningful difference in clinical function (continuous outcome) (mean difference (MD) 0.28, 95% CI -0.20 to 0.77; I\u00b2 = 30%; 4 studies, 787 participants; moderate-certainty evidence). It also probably results in little to no clinically meaningful difference in neurologic status (continuous) (MD 1.77, 95% CI 0.37 to 3.16; I\u00b2 = 10%; 6 studies, 1710 participants; moderate-certainty evidence) and it probably reduces the number of participants with a favorable neurologic status (dichotomous) (RR 0.71, 95% CI 0.51 to 1.01; I\u00b2 = 0%; 3 studies, 713 participants; moderate-certainty evidence). Additionally, intensive SBP management probably increases all-cause mortality (RR 1.19, 95% CI 1.08 to 1.32; I\u00b2 = 0%; 9 studies, 4297 participants; moderate-certainty evidence). It also probably results in little to no clinically meaningful difference in hospital length of stay (MD 0.38, 95% CI -1.40 to 2.15; I\u00b2 = 33%; 5 studies, 3086 participants; moderate-certainty evidence) and it may have little to no clinically meaningful effect on other adverse events (RR 1.21, 95% CI 0.86 to 1.72; I\u00b2 = 61%; 8 studies, 4012 participants; very low-certainty evidence). Overall, the certainty of the evidence ranged from high to very low across outcomes, with downgrading mainly due to risk of bias, imprecision, and inconsistency; certainty was lowest for symptomatic neurologic adverse events and other adverse events.\n\n**AUTHORS' CONCLUSIONS**: Intensive systolic blood pressure management likely results in little to no clinically meaningful differences in quality of life, clinical function (continuous outcome), neurologic status (continuous outcome; NIHSS), or hospital length of stay. It also results in little to no clinically meaningful difference in clinical function (dichotomous) and does not increase or reduce neurologic adverse events. Additionally, it may result in little to no clinically meaningful difference in symptomatic neurologic adverse events and other adverse events. Lastly, it probably reduces the number of participants with a favorable neurologic status (dichotomous outcome) and probably increases all-cause mortality. The certainty of the evidence ranged from very low to high. New studies must identify which patients benefit from different blood pressure strategies through subgroup analyses based on age, baseline blood pressure, and stroke severity, while reporting sex-disaggregated data. Including imaging and physiological markers can help set individualized blood pressure targets. Future trials should involve participants from low- and middle-income countries and consider factors such as access to reperfusion therapy and drug availability.\n\n**FUNDING**: This Cochrane review had no dedicated funding.\n\n**REGISTRATION**: Protocol (2025) available via doi.org/10.1002/14651858.CD016085.",
-      "journal": "Cochrane Database Syst Rev",
-      "authors": [
-        "Varela LB",
-        "Escobar Liquitay CM",
-        "D\u00edaz Menai S",
-        "Rodriguez JP",
-        "Quarteroni E",
-        "Ivaldi D",
-        "Burgos MA",
-        "Meza N",
-        "Garegnani LI"
-      ],
-      "date": "2026 Jul 14",
-      "doi": "10.1111/cns.14907",
-      "tier": "filtered",
-      "topics": [
-        "TBI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "intracranial haemorrhage",
-          "strength": "weak",
-          "topic": "TBI"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42445947/"
     }
   ]
 }
