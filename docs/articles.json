@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-12T20:33:25.978654Z",
-  "total_articles": 205,
+  "generated": "2026-08-13T20:31:32.828876Z",
+  "total_articles": 215,
   "all_topics": [
     "Abdominal",
     "Burns",
@@ -378,6 +378,494 @@
     "Cochrane Database Syst Rev": "filtered"
   },
   "articles": [
+    {
+      "pmid": "42586003",
+      "title": "Bougie facilitated Minnesota tube placement for control of massive gastrointestinal hemorrhage.",
+      "abstract": "**BACKGROUND**: Placement of a Minnesota tube is a rare but potentially life saving procedure used to control massive gastroesophageal (GI) hemorrhage but placement can be complicated by coiling or other difficulties advancing the tube into adequate position and rescue techniques are not always successful.\n\n**OBJECTIVE**: This article discusses the use of a bougie to facilitate placement of a Minnesota tube in a case of life threatening GI hemorrhage.\n\n**CASE REPORT**: A 34\u00a0year old woman was brought by emergency medical services to our emergency department with return of circulation after prolonged out of hospital cardiac arrest and found to have life threatening gastrointestinal hemorrhage. Placement of a Minnesota tube in typical blind fashion was unsuccessful and could not be successfully placed despite the use of traditional adjunctive techniques such as optimizing positioning, stiffening the tube in cold water and the use of laryngoscopy with Magill forceps. The Minnesota tube was ultimately successfully placed by placing a bougie into the distal eyelet to guide it into the stomach. The patient was subsequently stabilized and taken for definitive intervention.\n\n**CONCLUSION**: Difficult placement of a Minnesota tube may be addressed by placing the coud\u00e9 tip of a bougie into the distal eyelet and advancing the devices in tandem into proper position. This may be associated with less risk of trauma than the use of stiffened wires as previously described.",
+      "journal": "Am J Emerg Med",
+      "authors": [
+        "Perlmutter MC",
+        "Robinson AE",
+        "Wagner BP",
+        "Reardon RF",
+        "Driver BE"
+      ],
+      "date": "2026 Aug 05",
+      "doi": "10.1016/j.ajem.2026.08.004",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42586003/"
+    },
+    {
+      "pmid": "42585796",
+      "title": "The penetrating injury risk of non-home discharge (PIRD) score: Development and validation of a predictive tool using the National Trauma Data Bank.",
+      "abstract": "**BACKGROUND**: Penetrating trauma disproportionately affects young patients, yet many survivors cannot be discharged directly home and instead require post-acute care. Identifying these patients early could expedite rehabilitation referral and discharge planning, but no validated tool predicts non-home discharge in penetrating trauma. We developed and internally validated the Penetrating Injury Risk of Non-home Discharge (PIRD) score.\n\n**METHODS**: Using the National Trauma Data Bank (NTDB) Trauma Quality Improvement Program Participant Use Files (2019-2024), we selected adult patients (\u226518 years) with penetrating trauma who survived to discharge. The outcome was non-home discharge to post-acute care (e.g., skilled nursing or inpatient rehabilitation) versus home. The cohort was split 2:1 into derivation and validation sets, stratified by outcome. Candidate predictors available early in the hospital course (demographics, insurance, mechanism, emergency-department physiology, the Injury Severity Score [ISS], body-region injury, transport, and comorbidities) underwent univariate screening, collinearity assessment, and backward-stepwise multivariable logistic regression. Unlike the orthopedic FORD score, ISS was retained because penetrating trauma is a high-severity, mortality-driven population. Coefficients were converted to integer points, scaled 0-10.\n\n**RESULTS**: Among 302,399 patients, 21,186 (7.0%) had non-home discharge. The 40-predictor model was led by spinal-cord injury, critical injury severity (ISS \u226525), advanced age, and severe traumatic brain injury, whereas stab mechanism and private-vehicle arrival lowered the odds. Validation discrimination was strong (area under the receiver operating characteristic curve [AUROC] 0.866, 95% confidence interval 0.861-0.871) with excellent calibration (Brier 0.046, calibration slope 1.00), exceeding the GTOS-II, TRIAGES, FORD, and DEPARTS scores (all p\u00a0<\u00a00.001). Non-home discharge rose from 0.7% (low risk) to 37.5% (high risk); at a score \u22654, sensitivity was 86.0% and negative predictive value 98.5%.\n\n**CONCLUSION**: Derived from variables available early in care, the PIRD score accurately predicts post-acute care discharge in adult penetrating trauma and outperforms existing severity scores, supporting timely discharge planning and resource allocation.",
+      "journal": "Injury",
+      "authors": [
+        "Phadke R",
+        "Salman S",
+        "Ilyas MH",
+        "Sontam T",
+        "Rana A",
+        "Leucht P"
+      ],
+      "date": "2026 Aug 08",
+      "doi": "10.1016/j.injury.2026.113594",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Penetrating",
+        "Systems/QI",
+        "TBI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "penetrating trauma",
+          "strength": "weak",
+          "topic": "Penetrating"
+        },
+        {
+          "keyword": "injury severity",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "traumatic brain injury",
+          "strength": "weak",
+          "topic": "TBI"
+        },
+        {
+          "keyword": "penetrating injury",
+          "strength": "strong",
+          "topic": "Penetrating"
+        },
+        {
+          "keyword": "trauma quality",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42585796/"
+    },
+    {
+      "pmid": "42585795",
+      "title": "Minimally invasive plate osteosynthesis, open reduction and plate fixation, and intramedullary nailing for humeral shaft fractures: A network meta-analysis of randomized controlled trials.",
+      "abstract": "**BACKGROUND**: The optimal surgical technique for humeral shaft fractures remains debated, and earlier syntheses often pooled all plate constructs, disregarding the distinction between open reduction and plate fixation (ORPF) and minimally invasive plate osteosynthesis (MIPO). This network meta-analysis compared ORPF, MIPO, and intramedullary nailing (IMN), focusing on iatrogenic radial nerve injury.\n\n**METHODS**: We searched PubMed/MEDLINE, Embase, Cochrane CENTRAL, and Scopus from inception through December 2024, with the PubMed search updated through January 2026, following the PRISMA network meta-analysis extension (PROSPERO CRD420261321547). Randomized controlled trials comparing at least two of the three techniques in adults with closed diaphyseal humeral fractures were eligible. The primary outcome was iatrogenic radial nerve injury; secondary outcomes were nonunion, deep infection, and reoperation. A frequentist random-effects network model estimated odds ratios (OR) with 95% confidence intervals. Treatments were ranked using the surface under the cumulative ranking curve (SUCRA), which orders treatments by estimated effect and is not an absolute event rate.\n\n**RESULTS**: Twelve RCTs (647 patients) met the criteria for the primary network; three non-randomized or non-comparable studies were reserved for sensitivity analysis. MIPO was associated with lower odds of radial nerve injury than ORPF (OR 0.21, 95% CI 0.05-0.88; P\u00a0=\u00a00.033) and with lower odds of reoperation than ORPF (OR 0.18, 95% CI 0.05-0.58) and IMN. IMN carried higher odds of nonunion than MIPO (OR 4.82, 95% CI 1.18-19.74), from a single direct trial. Heterogeneity was absent (I-squared 0%) with no significant inconsistency. SUCRA values for radial nerve safety were 91% (MIPO), 56% (IMN), and 4% (ORPF). The primary finding persisted when non-randomized studies were added, but its significance depended on two middle-to-distal trials in leave-one-out analysis.\n\n**CONCLUSIONS**: For closed diaphyseal humeral fractures, MIPO appears to be associated with a lower risk of iatrogenic radial nerve injury and reoperation than ORPF, and it ranked favorably across complications. Because direct MIPO comparisons are few and confidence intervals wide, these associations should inform rather than dictate technique selection and warrant confirmation in powered trials.\n\n**LEVEL OF EVIDENCE**: Therapeutic Level I.\n\n**REGISTRATION**: This review was registered in PROSPERO (CRD420261321547).",
+      "journal": "Injury",
+      "authors": [
+        "Prot\u00e1sio Netto J",
+        "Giordano V",
+        "Elias N",
+        "Belangero WD",
+        "Cavalcante B"
+      ],
+      "date": "2026 Aug 09",
+      "doi": "10.1016/j.injury.2026.113551",
+      "tier": "filtered",
+      "topics": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42585795/"
+    },
+    {
+      "pmid": "42585794",
+      "title": "Higher Rate of Treatment Success of Infected Femoral Shaft Non-unions with Ultrathin Silver-Polysiloxane-Coated Implants.",
+      "abstract": "**BACKGROUND**: Infected non-union represents a severe complication after femoral shaft fractures, often associated with high recurrence rates and the need for multiple surgical revisions. Antimicrobial implant coatings may improve treatment success; however, evidence on the use of silver as an implant coating remains limited. This study aimed to (1) report short-term outcomes following treatment of infected femoral shaft non-union and (2) investigate if silver-polysiloxane-coating of implants leads to a significantly higher rate of treatment success at one-year follow-up.\n\n**METHODS**: This prospective cohort study (REFECT) with a historical control group included 70 patients treated for infected femoral shaft non-unions from 2013 to 2024 using either conventional, uncoated (UC, n\u00a0=\u00a062) or silver-polysiloxan-coated (SC, n\u00a0=\u00a08) implants with minimum of one-year follow-up. The primary outcome was successful treatment at one-year follow-up, defined as bony consolidation, and full weight-bearing and without recurrent infection. Secondary outcomes included clinical outcomes, blood serum analysis (including silver-ion concentration), radiographic outcomes, and patient reported outcome measures (SC-cohort only) including Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC), Lower Extremity Functional Scale (LEFS), and EuroQol-Visual Analogue Scale (EQ-VAS).\n\n**RESULTS**: Mean follow-up was 43.9\u00b133.1 months (SC: median (interquartile range), age 39 (27-62); UC: 52 (41-57); 25% female; 40% multidrug-resistant bacteria). The treatment success rate was significantly higher in the SC-cohort at one-year follow-up (SC: 100%, 95% CI 63-100% vs. UC: 61%, 95% CI 48-73%; p\u00a0=\u00a00.028). The SC-cohort showed a non-significant reduction of length of stay (p\u00a0=\u00a00.165) and number of operations (p\u00a0=\u00a00.182), while treatment costs were significantly lower (33886 \u20ac vs. 48937 \u20ac, p\u00a0=\u00a00.048). Compared to the preoperative state, the SC-cohort demonstrated improvement in WOMAC (p\u00a0=\u00a00.183), LEFS (p\u00a0=\u00a00.097), and EQ-VAS (p\u00a0<\u00a00.001). Serum silver ion concentration reached maximum 0.014\u00a0mg/l without clinical signs of argyria, and all SC-cohort patients had a reduction to normal concentration thresholds at final follow-up.\n\n**CONCLUSIONS**: This study presents short-term outcomes following treatment of patients with infected femoral shaft non-unions. Application of a silver-polysiloxane implant coating was associated with a significantly higher rate of treatment success at one-year-follow-up compared to conventional, uncoated implants.\n\n**LEVEL OF EVIDENCE**: Prospective Cohort Study with Historical Control Group, III.",
+      "journal": "Injury",
+      "authors": [
+        "Mueller MM",
+        "Niclassen CM",
+        "Kowald B",
+        "Klinger CE",
+        "Gerlach UJ",
+        "Grimme C",
+        "Schulz AP",
+        "Frosch KH",
+        "Schoop-Schmetgens R"
+      ],
+      "date": "2026 Aug 06",
+      "doi": "10.1016/j.injury.2026.113586",
+      "tier": "filtered",
+      "topics": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42585794/"
+    },
+    {
+      "pmid": "42585647",
+      "title": "Evidence-Based Tobacco-Cessation Strategies for Low- and Middle-Income Countries.",
+      "abstract": "Tobacco use is the leading cause of preventable death globally, claiming more than 7 million lives each year. The burden of disease is highest in low- and middle-income countries, where more than 80% of the world's 1.3 billion tobacco users reside. The World Health Organization (WHO) defines six proven strategies to reduce tobacco use, referred to by the acronym MPOWER, with one of the strategies being to offer tobacco users help with quitting. Many low- and middle-income countries provide tobacco-cessation services; however, only 31 meet the WHO best practice, defined as providing both cost-covered behavioral interventions and pharmacotherapy. In this article, case studies from India and Vietnam illustrate how cross-country differences in tobacco-related sociocultural norms, tobacco-use patterns (e.g., smokeless tobacco or water pipes), the tobacco-control regulatory environment, industry influence, and health care system financing shape treatment access and uptake. These cases further show that cost-effective population-level strategies, including quitlines, digital interventions, and systemwide screening for tobacco use paired with clinician advice to quit, are essential for expanding treatment reach. Combining these interventions with pharmacotherapy products that are included on the WHO Model List of Essential Medicines (e.g., cytisine and nicotine-replacement therapy) further improves cessation outcomes. System-level models, such as the Ask-Advise-Connect model (ask about tobacco use, advise to quit, connect to cessation help), offer a feasible, low-burden pathway for integrating cessation care into routine practice. Ultimately, curbing the rising global burden of tobacco-related disease requires establishing comprehensive cessation support as a universal standard of care, which would ensure equitable access for those most affected.",
+      "journal": "N Engl J Med",
+      "authors": [
+        "Shelley D",
+        "Rigotti NA",
+        "Murthy P",
+        "Van Minh H",
+        "Siddiqi K"
+      ],
+      "date": "2026 Aug 13",
+      "doi": "10.1056/NEJMra2507061",
+      "tier": "filtered",
+      "topics": [
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "preventable death",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42585647/"
+    },
+    {
+      "pmid": "42584706",
+      "title": "The road to the Pearl-String Technique: lessons learned from early IMT modifications using RIA autograft and cancellous allograft granules.",
+      "abstract": "**BACKGROUND**: The induced membrane technique (IMT) is widely used for reconstruction of large bone defects; however, reported outcomes vary considerably among technical modifications. One potential mechanism impairing consolidation is graft sedimentation, particularly when low-density cancellous autograft harvested using the reamer-irrigator-aspirator (RIA) is applied. This study evaluates a standardized modification of the IMT and explores mechanical factors potentially affecting graft consolidation.\n\n**METHODS**: In this retrospective single-center study, 28 patients were treated following eradication of osteomyelitis using a defined modification of the IMT. Mean follow-up was 7.4 years. Defect length ranged from 3.2 to 15.7\u00a0cm. During the second stage, RIA-harvested autologous cancellous bone was combined with lyophilized cancellous bone allograft granules. Definitive fixation was achieved using intramedullary nailing or locking plate fixation; one patient was treated with a ring fixator.\n\n**RESULTS**: Primary consolidation was achieved in 57.1% of cases. Aseptic nonunion occurred in 10.7%, with secondary consolidation achieved after revision in all affected patients. Recurrent infection was observed in 35.7%; infection control was achieved in 90% of these cases following additional procedures, and reconstruction was ultimately completed using alternative strategies. Median time to full weight bearing was 35 weeks. Graft sedimentation occurred in 42.9% of cases and was predominantly observed in patients who failed to achieve primary consolidation.\n\n**CONCLUSIONS**: This modification of the IMT allowed bone union in a substantial proportion of patients but was associated with high rates of complications, particularly infection recurrence and nonunion. The findings indicate that insufficient mechanical stability of cancellous composite grafts may promote graft sedimentation and impair consolidation, particularly when extensive allograft expansion and compromised host biology coexist. While the combination of autologous and allogenic cancellous bone within an induced membrane remains conceptually attractive, ensuring adequate mechanical stability of the graft construct appears essential when treating large bone defects.",
+      "journal": "Eur J Trauma Emerg Surg",
+      "authors": [
+        "H\u00fcckst\u00e4dt M",
+        "Scholl C",
+        "Langwald S",
+        "Klauke F",
+        "Mendel T",
+        "Kobbe P",
+        "Fischer C"
+      ],
+      "date": "2026 Aug 12",
+      "doi": "10.1302/0301-620X.106B6.BJJ-2023-1443.R1",
+      "tier": "core",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42584706/"
+    },
+    {
+      "pmid": "42584703",
+      "title": "Non-tourniquet strategy with high-position low-perfusion in distal humeral fracture surgery: reduces swelling without increasing blood loss.",
+      "abstract": "**INTRODUCTION**: To evaluate the feasibility of non-tourniquet strategy combined with \"High-position Low-Perfusion\" positioning in distal humeral fractures ORIF (DHF-ORIF), and to investigate its effects on perioperative blood loss, postoperative rehabilitation, and functional outcomes.\n\n**METHODS**: Prospective inclusion of patients aged 18-45 with distal humeral fractures, randomly divided into an experimental group without tourniquets (Group A) and a control group with traditional tourniquets (Group B). The Group A adopted a lateral position with high and low perfusion of the affected limb, and received intravenous injection of TXA (15\u00a0mg/kg) combined with continuous flushing with 4 \u2103 physiological saline during the operation; The control group received routine use of tourniquets.\n\n**PRIMARY OUTCOMES**: perioperative blood loss, elbow ROM and degree of limb swelling.\n\n**SECONDARY OUTCOMES**: Postoperative VAS score, Mayo elbow joint score and DASH score, and incidence of complications.\n\n**RESULTS**: No significant difference was observed in total perioperative blood loss between the Group A and the Group B (240.78 mL vs. 228.53 mL, p\u2009>\u20090.05). However, the Group A demonstrated significantly reduced postoperative drainage volume and hidden blood loss (p\u2009<\u20090.05). The Group A exhibited significantly superior outcomes in terms of VAS scores and limb swelling, compared with the control group. Additionally, elbow ROM improvement was more significant at 2-4 weeks and 2 months postoperatively in the Group A. At the 6-month follow-up, the Group A showed significantly higher Mayo scores (89.78\u2009\u00b1\u200911.89 vs. 83.55\u2009\u00b1\u200916.29) compared with the control group (p\u2009=\u20090.036). Furthermore, the Group A had significantly lower wound complication rates and shorter hospital stays (7.25\u2009\u00b1\u20091.53 vs. 8.11\u2009\u00b1\u20092.34 days, p\u2009=\u20090.037).\n\n**CONCLUSION**: The non-tourniquet strategy combined with \"High-position Low-Perfusion\" positioning is safe and effective for DHF-ORIF. It effectively controls postoperative swelling and pain without increasing perioperative blood loss, leading to improved clinical outcomes and quality of life.",
+      "journal": "Eur J Trauma Emerg Surg",
+      "authors": [
+        "Wang Z",
+        "Ai X",
+        "Ren T",
+        "Wu B",
+        "Zhang K",
+        "Li Z",
+        "Xue H",
+        "Li M",
+        "Wang Q"
+      ],
+      "date": "2026 Aug 12",
+      "doi": "10.1016/j.jhsa.2017.11.007",
+      "tier": "core",
+      "topics": [
+        "Orthopaedic",
+        "Procedures"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "humeral fracture",
+          "strength": "strong",
+          "topic": "Orthopaedic"
+        },
+        {
+          "keyword": "tourniquet",
+          "strength": "strong",
+          "topic": "Procedures"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42584703/"
+    },
+    {
+      "pmid": "42584695",
+      "title": "Impacts of intracranial pressure monitoring on mortality and length of stay in severe traumatic brain injury: a systematic review and meta-analysis.",
+      "abstract": "**PURPOSE**: This systematic review and meta-analysis examined the association between intracranial pressure monitoring (ICPm) and mortality in patients with severe traumatic brain injury (sTBI), with additional focus on functional neurological outcomes and intensive care unit (ICU) and hospital length of stay (LOS).\n\n**METHODS**: This review followed Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines and was registered with PROSPERO (CRD42025643607). MEDLINE, Embase, and the Cochrane Central Register of Controlled Trials were searched through August 1, 2025, for studies comparing ICP-monitored and non-ICP-monitored patients with traumatic brain injury. Eligible study designs included randomized controlled trials, prospective observational cohort studies, retrospective observational cohort studies, registry-based cohort studies, and case-control studies. Study quality was assessed using the Strengthening the Reporting of Observational Studies in Epidemiology checklist, Risk of Bias 2.0 for randomized trials, and the Oxford Centre for Evidence-Based Medicine Levels of Evidence framework.\n\n**RESULTS**: Thirty-one studies met inclusion criteria. The mortality meta-analysis included 121,799 patients. Pooled crude analysis showed lower mortality in ICP-monitored patients than in non-monitored patients (OR 0.79, 95% CI 0.68-0.91, p\u2009=\u20090.002), with high heterogeneity (I\u00b2=92%). Across studies with extractable group-level mortality percentages, median mortality was 28.6% in ICP-monitored patients and 33.2% in non-monitored patients. Functional neurological outcomes were inconsistently reported and did not show a consistent benefit with ICPm. ICU and hospital LOS were generally longer in ICP-monitored patients. Ten studies reported complication data, most commonly infection, hemorrhagic events, and mechanical or device-related complications; reporting was heterogeneous and precluded pooled analysis.\n\n**CONCLUSIONS**: ICPm was associated with lower crude mortality in sTBI; however, substantial heterogeneity and residual confounding limit causal interpretation. Functional outcomes did not show consistent benefit. Complication reporting was inconsistent, but reported events included infection, hemorrhage, and device-related complications. Future studies should standardize functional outcome reporting and adjust for key confounders.\n\n**LEVEL OF EVIDENCE**: Systematic review and meta-analysis; Level III.",
+      "journal": "Eur J Trauma Emerg Surg",
+      "authors": [
+        "Merakis M",
+        "Kim N",
+        "Velli G",
+        "Balogh ZJ"
+      ],
+      "date": "2026 Aug 12",
+      "doi": "10.1371/journal.pone.0168901",
+      "tier": "core",
+      "topics": [
+        "General Trauma",
+        "TBI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "traumatic",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic brain injury",
+          "strength": "strong",
+          "topic": "TBI"
+        },
+        {
+          "keyword": "intracranial pressure monitoring",
+          "strength": "strong",
+          "topic": "TBI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42584695/"
+    },
+    {
+      "pmid": "42584683",
+      "title": "Prehospital point-of-care lactate for identification of severe injury in trauma team-activated patients: a prospective multicenter cohort study.",
+      "abstract": "**BACKGROUND**: Accurate prehospital trauma triage remains challenging despite structured activation criteria, particularly in patients without overt physiologic instability. Prehospital point-of-care lactate has been proposed as a physiologic adjunct to support early identification of severely injured patients. This prospective multicenter cohort study evaluated the association between prehospital lactate and injury severity in trauma team-activated patients within a structured guideline-based trauma system.\n\n**METHODS**: This prospective observational multicenter cohort study included adult trauma patients transported by emergency medical services to three Level I trauma centers and managed in the trauma room following trauma team activation (TTA). Prehospital lactate was measured by capillary earlobe sampling before or during transport and was not used for clinical decision-making. The primary outcome was severe injury, defined as Injury Severity Score (ISS) \u226516. Secondary outcomes were Abbreviated Injury Scale (AIS) \u22654 in at least one body region and intensive care unit (ICU) admission\u2009>\u200924\u2009hours. Diagnostic performance was assessed using receiver operating characteristic (ROC) analysis and predefined lactate thresholds of \u22652\u2009mmol/L and \u22654\u2009mmol/L.\n\n**RESULTS**: A total of 108 patients were included, of whom 26 (24.1%) had ISS\u2009\u2265\u200916. Prehospital lactate levels were higher in severely injured than in non-severely injured patients. For prediction of ISS\u2009\u2265\u200916, prehospital lactate yielded an area under the curve (AUC) of 0.636 (95% CI 0.509-0.763). At a threshold of \u22652\u2009mmol/L, sensitivity was 80.7%, whereas specificity was limited. Higher thresholds increased specificity at the expense of sensitivity. Similarly limited discriminatory performance was observed for AIS\u2009\u2265\u20094 and ICU admission\u2009>\u200924\u2009hours.\n\n**CONCLUSION**: In trauma team-activated patients within a structured guideline-based trauma system, prehospital lactate was associated with severe injury but showed limited discriminatory performance for ISS-defined severe injury. Based on these findings, prehospital lactate does not appear suitable as a stand-alone trauma triage parameter in this setting but may provide complementary physiologic information when integrated into multimodal prehospital assessment strategies alongside established trauma team activation criteria. Future adequately powered prospective studies should evaluate its incremental value in combination with established physiologic parameters and focus on clinically proximal outcomes such as trauma team activation, hemorrhage control procedures, transfusion requirements, or other early life-saving interventions.",
+      "journal": "Eur J Trauma Emerg Surg",
+      "authors": [
+        "Faul P",
+        "Hagebusch P",
+        "Bertram E",
+        "Naujoks F",
+        "St\u00f6rmann P",
+        "Schweigkofler U",
+        "Koch D"
+      ],
+      "date": "2026 Aug 12",
+      "doi": "10.1007/s00068-021-01811-z",
+      "tier": "core",
+      "topics": [
+        "General Trauma",
+        "Prehospital",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "injury severity",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "trauma team",
+          "strength": "strong",
+          "topic": "Prehospital"
+        },
+        {
+          "keyword": "prehospital trauma",
+          "strength": "weak",
+          "topic": "Prehospital"
+        },
+        {
+          "keyword": "prehospital",
+          "strength": "strong",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42584683/"
+    },
+    {
+      "pmid": "42584679",
+      "title": "Surgical timing and mortality in acute traumatic subdural hematoma: is the four-hour threshold confounded by injury severity?",
+      "abstract": "**PURPOSE**: Early surgical evacuation within four hours has long been advocated for acute traumatic subdural hematoma (ASDH), yet the supporting evidence is largely observational and unadjusted for injury severity. We examined whether surgical timing is independently associated with in-hospital mortality after accounting for baseline severity.\n\n**METHODS**: We retrospectively analyzed 91 consecutive patients who underwent surgical evacuation for ASDH between January 2014 and December 2024. The primary outcome was in-hospital mortality; the secondary outcome was functional status at discharge measured by the Glasgow Outcome Scale (GOS). Surgical timing (\u2264\u20094 vs. >4\u00a0h) was assessed through unadjusted comparison, stratification by Glasgow Coma Scale (GCS) score, multivariable Firth penalized logistic regression with 1000-iteration bootstrap internal validation, and sensitivity analyses including alternative timing thresholds (1-12\u00a0h), restricted cubic spline modeling, and timing-by-severity interaction testing.\n\n**RESULTS**: In-hospital mortality was 33.0% (30/91; 95% Wilson CI 24.2-43.1%). Crude analysis showed higher mortality with early surgery (50.0% vs. 15.6%, p\u2009=\u20090.001), but these patients had lower admission GCS and higher rates of CT-defined traumatic axonal injury (TAI) and cerebral contusion. After stratification, no statistically detectable mortality difference was observed within the severe traumatic brain injury (TBI) subgroup (GCS\u2009\u2264\u20098: 69.6% vs. 66.7%, p\u2009=\u20091.000), although the late-surgery stratum contained only six patients. On multivariable Firth penalized analysis adjusting for the four-hour threshold, admission GCS, traumatic axonal injury (TAI), and age, the four-hour threshold was not independently associated with mortality (adjusted OR 1.46, 95% CI 0.41-5.04); admission GCS (OR 0.75 per point, 95% CI 0.63-0.87) and TAI (OR 7.56, 95% CI 1.81-38.04) were the only independent predictors. The model demonstrated strong discrimination (apparent AUC 0.920; bootstrap 95% CI 0.856-0.974; optimism-corrected AUC 0.902). Calibration was also satisfactory (Brier score 0.112). Threshold sensitivity analyses (1, 2, 3, 6, 8, and 12\u00a0h) yielded no threshold with an independent association after severity adjustment. Good functional outcome (GOS 4-5) was achieved by 56 patients (61.5%); the parallel timing distribution (early 41.3% vs. late 82.2%) reflected the same severity-driven pattern observed for mortality.\n\n**CONCLUSION**: In surgically treated ASDH, no statistically significant independent association between the four-hour threshold and in-hospital mortality was identified after adjustment for available severity markers. These findings should not be interpreted as support for delaying surgery in clinically indicated ASDH: ASDH with progressive neurological deterioration and significant intracranial mass effect remains a true neurosurgical emergency requiring prompt surgical evacuation. The four-hour benchmark should be applied in conjunction with severity-stratified prognostication rather than as a standalone criterion, with admission GCS and TAI as the principal determinants of outcome.",
+      "journal": "Eur J Trauma Emerg Surg",
+      "authors": [
+        "Rakip U",
+        "Y\u0131ld\u0131zhan S",
+        "Canbek \u0130",
+        "Boyac\u0131 MG",
+        "Korkmaz S",
+        "\u00d6zt\u00fcrk KH",
+        "Aslan MZ",
+        "Aslan A"
+      ],
+      "date": "2026 Aug 12",
+      "doi": "10.1089/neu.2022.0052",
+      "tier": "core",
+      "topics": [
+        "General Trauma",
+        "Systems/QI",
+        "TBI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "traumatic",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "injury severity",
+          "strength": "strong",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "traumatic brain injury",
+          "strength": "weak",
+          "topic": "TBI"
+        },
+        {
+          "keyword": "subdural haematoma",
+          "strength": "strong",
+          "topic": "TBI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42584679/"
+    },
+    {
+      "pmid": "42584678",
+      "title": "Association between time to transfusion and outcomes in patients with traumatic haemorrhagic shock: an analysis of a nationwide trauma registry in Japan.",
+      "abstract": "**PURPOSE**: To investigate the association of in-hospital time to transfusion on outcomes of patients with traumatic haemorrhagic shock.\n\n**METHODS**: Using data from the Japan Trauma Data Bank (January 2019-December 2023), we identified adult patients (aged\u2009\u2265\u200918 years) with haemorrhagic shock following trauma (systolic blood pressure\u2009<\u200990 mmHg; shock index\u2009\u2265\u20091.0 upon hospital arrival) and received\u2009\u2265\u200910 units red blood cells within 24\u00a0h of injury. We excluded patients transferred from or to other hospitals after emergency treatment, with burn injuries or cardiac arrest, without transfusion time records, and with first transfusion\u2009>\u200960\u00a0min after hospital arrival. Mixed-effect multivariable logistic regression estimated the association between time to transfusion for in-hospital mortality, adjusting for patient characteristics, comorbidities, and injury severity. Heterogeneity in the association between transfusion timing and mortality was assessed through nine subgroup analyses.\n\n**RESULTS**: Overall, 698 patients (median age 59 years, 66.2% male) from 132 hospitals were analysed, of whom 265 (38.0%) died during hospitalisation. Mean time to transfusion varied from 4 to 58\u00a0min across hospitals. A positive association was observed between time to transfusion and in-hospital mortality. Each 1-min delay in transfusion initiation was associated with higher in-hospital mortality (adjusted odds ratio 1.015, 95% confidence interval 1.002-1.028). Subgroup analyses did not show statistically significant evidence of interaction between transfusion timing and subgroup variables.\n\n**CONCLUSION**: Delayed transfusion initiation was significantly associated with higher in-hospital mortality in patients with traumatic haemorrhagic shock. Reducing in-hospital delays to transfusion may represent an important target for trauma care quality improvement.",
+      "journal": "Eur J Trauma Emerg Surg",
+      "authors": [
+        "Shibahashi K",
+        "Inoue K",
+        "Kato T",
+        "Sugiyama K"
+      ],
+      "date": "2026 Aug 12",
+      "doi": "10.1111/trf.14443",
+      "tier": "core",
+      "topics": [
+        "Burns",
+        "General Trauma",
+        "Haemorrhage",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "injury severity",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "haemorrhagic shock",
+          "strength": "strong",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "burn injury",
+          "strength": "weak",
+          "topic": "Burns"
+        },
+        {
+          "keyword": "trauma registry",
+          "strength": "strong",
+          "topic": "Systems/QI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42584678/"
+    },
+    {
+      "pmid": "42584667",
+      "title": "Neutrophil phenotyping reflects injury severity when base excess and lactate remain normal.",
+      "abstract": "**INTRODUCTION**: Accurate assessment of injury severity is essential for optimal trauma care, as it dictates timing and intensity of interventional strategy. Conventional markers, such as base excess and lactate levels are usually borderline deranged in patients with midrange injury severity. This study explored whether determining circulating neutrophil phenotypes in these patients (ISS 9-35) might aid in the assessment of injury severity.\n\n**METHODS**: A descriptive single-center cohort study of trauma patients\u2009\u2265\u200916 years between 2013 and 2023 was conducted. Data was collected from the Dutch National Trauma Registry and the Utrecht Patient-Oriented Database (<\u200910% missing values). Base excess, lactate levels and neutrophil phenotypes were routinely measured in emergency department blood samples. The dynamics of these parameters was analyzed in the context of increasing Injury Severity Scores (ISS).\n\n**RESULTS**: 807 patients were included, of whom 591 were classified as midrange severely injured. In these patients, banded neutrophils showed a greater fold increase between ISS 9 and 35 compared with base excess and lactate (6.7, 2.7, and 1.5, respectively). Furthermore, the number of banded neutrophils exceeded the upper interquartile range of controls at lower trauma severities compared to base excess or lactate (ISS 17 vs. 30 and 39, respectively).\n\n**DISCUSSION**: Although base excess and lactate perform well as indicators of physiological derangement in severe trauma (ISS\u2009>\u200935), increased numbers of banded neutrophils are detectable at lower ISS levels and rise more rapidly than conventional chemistry markers in midrange severely injured patients. As such, neutrophil phenotyping can complement traditional physiological markers in injury burden assessment in midrange severely injured patients.",
+      "journal": "Eur J Trauma Emerg Surg",
+      "authors": [
+        "van Eerten FJC",
+        "Duebel LV",
+        "de Fraiture EJ",
+        "Brands SR",
+        "van Wessem KJP",
+        "Vrisekoop N",
+        "Venhuizen JH",
+        "de Groot MCH",
+        "Haitjema S",
+        "Koenderman L",
+        "Hietbrink F"
+      ],
+      "date": "2026 Aug 12",
+      "doi": "10.1016/j.heliyon.2024.e28883",
+      "tier": "core",
+      "topics": [
+        "General Trauma",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "injury severity",
+          "strength": "strong",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "trauma registry",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42584667/"
+    },
+    {
+      "pmid": "42584664",
+      "title": "Limb occlusion pressure-based individualized tourniquet pressure management in patients undergoing internal fixation for extremity fractures: a prospective comparative feasibility study.",
+      "abstract": "**OBJECTIVE**: This study aimed to evaluate the feasibility of limb occlusion pressure (LOP)-based individualized tourniquet pressure management and to quantify the reduction in applied tourniquet pressure compared with a traditional fixed-pressure protocol in patients undergoing internal fixation for extremity fractures.\n\n**METHODS**: A prospective comparative study was conducted at Civil Aviation Shanghai Hospital from January to September 2025. Patients undergoing internal fixation for extremity fractures were enrolled and allocated to either the LOP-based group (n\u2009=\u2009171) or the traditional fixed-pressure group (n\u2009=\u2009235) according to the attending surgical team and operative scheduling, without randomization. The LOP-based group received individualized tourniquet pressure based on preoperative LOP measurement plus a safety margin, while the control group received standardized pressures (40-50\u00a0kPa; 300-375 mmHg). The primary outcome was applied tourniquet inflation pressure. Secondary outcomes included demographic characteristics, extremity location, operative duration, and subgroup analyses stratified by extremity location, age, and sex; multivariable linear regression was performed to adjust for potential confounders.\n\n**RESULTS**: The LOP-based group demonstrated significantly lower mean tourniquet pressure compared with the traditional group (32.82 +/- 3.63\u00a0kPa [246 +/- 27 mmHg] versus 48.21 +/- 3.84\u00a0kPa [362 +/- 29 mmHg]; mean difference: 15.39\u00a0kPa; 95% CI: 14.66-16.12; P\u2009<\u20090.001), representing a 31.93% reduction; the difference remained significant after adjustment for extremity location, age, and sex (adjusted mean difference: 15.71\u00a0kPa; 95% CI: 15.36-16.06; P\u2009<\u20090.001). Baseline characteristics including age (46.09 +/- 15.20 versus 47.51 +/- 15.66 years; P\u2009=\u20090.361), sex distribution (P\u2009=\u20090.809), extremity location (P\u2009=\u20090.457), and operative duration (82.80 +/- 46.64 versus 80.55 +/- 43.50\u00a0min; P\u2009=\u20090.618) were comparable between groups. Within the LOP-based group, applied pressure was lower for upper than for lower extremity procedures (26.24 +/- 4.21 versus 34.16 +/- 1.30\u00a0kPa; P\u2009<\u20090.001), while exploratory analyses revealed no significant pressure variations across sex (male: 32.97 +/- 3.52\u00a0kPa; female: 32.53 +/- 3.85\u00a0kPa; P\u2009=\u20090.445) or age categories (<\u200940, 40-59, >=60 years; P\u2009=\u20090.807). All procedures achieved adequate intraoperative hemostasis without pressure escalation.\n\n**CONCLUSIONS**: LOP-based individualized tourniquet pressure management was feasible and achieved a substantial reduction in applied tourniquet pressure while maintaining adequate intraoperative surgical field visualization in extremity fracture internal fixation. Applied pressure varied with extremity location but was independent of patient age and sex. Because patient-centered clinical outcomes were not assessed, these findings demonstrate the feasibility and pressure-reducing effect of LOP-based protocols rather than proven clinical superiority; randomized trials with clinical endpoints are warranted.",
+      "journal": "Eur J Trauma Emerg Surg",
+      "authors": [
+        "Yang J",
+        "Hu P",
+        "Wang L"
+      ],
+      "date": "2026 Aug 12",
+      "doi": "10.1002/aorn.14425",
+      "tier": "core",
+      "topics": [
+        "Procedures"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "tourniquet",
+          "strength": "strong",
+          "topic": "Procedures"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42584664/"
+    },
     {
       "pmid": "42580979",
       "title": "Age-stratified outcomes after small-volume isolated blunt traumatic brain injury: A national ACS-TQIP analysis.",
@@ -8130,106 +8618,6 @@
       ],
       "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/42457220/"
-    },
-    {
-      "pmid": "42456095",
-      "title": "Prehospital Management of Suspected Spinal Cord Injuries: Perspectives from the American College of Surgeons Committee on Trauma.",
-      "abstract": "",
-      "journal": "Prehosp Emerg Care",
-      "authors": [
-        "Staudenmayer KL",
-        "Nathens AB",
-        "Kerby JD"
-      ],
-      "date": "2026 Jul 21",
-      "doi": "10.1080/10903127.2026.2703176",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Prehospital"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "prehospital",
-          "strength": "strong",
-          "topic": "Prehospital"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42456095/"
-    },
-    {
-      "pmid": "42455344",
-      "title": "Antiseizure medication dosing and monitoring in the intensive care unit: a practical narrative review.",
-      "abstract": "**PURPOSE**: Antiseizure medications (ASMs) are commonly used in the intensive care unit (ICU) and often exhibit pharmacokinetics that differ substantially from those in healthy volunteers or in the outpatient setting. Organ dysfunction, polypharmacy, exogenous devices, and greater severity of illness all influence ASM pharmacokinetics, dosing decisions, and monitoring parameters. It is essential for critical care clinicians to familiarize themselves with the pharmacokinetics, dosing considerations, effects of exogenous devices, and therapeutic drug monitoring (TDM)-all covered in this narrative review-to incorporate in their approach to ASMs in the critical care setting.\n\n**METHODS**: We identified relevant literature from MEDLINE from inception to March 2026 related to ASMs in the ICU. Data on pharmacokinetics, dosing in the ICU, the effect of renal replacement therapy, extracorporeal membrane oxygenation (ECMO), and plasmapheresis (PLEX) on ASM exposure, and the role of TDM in the ICU were collected and summarized.\n\n**RESULTS**: Considerations for 15 ASMs (brivaracetam, cannabidiol, carbamazepine, cenobamate, clobazam, lacosamide, lamotrigine, levetiracetam, oxcarbazepine, perampanel, phenobarbital, phenytoin, topiramate, valproate, and zonisamide) were included in the review. Dosing considerations for TDM, including indications and target reference ranges, and specific settings such as organ dysfunction, illness severity, renal replacement therapy, ECMO, and PLEX are discussed.\n\n**CONCLUSION**: The use of ASMs in the ICU require a distinct approach from outpatient settings. Severity of illness, organ dysfunction and replacement devices, and frequent drug-drug interactions warrant tailored agent selection, dosing, and monitoring.",
-      "journal": "Intensive Care Med",
-      "authors": [
-        "Webb AJ",
-        "Barlow B",
-        "Seto SL",
-        "Maciel CB",
-        "Brennan J",
-        "Cook AM"
-      ],
-      "date": "2026 Jul 15",
-      "doi": "10.1016/s1059-1311(96)80043-4",
-      "tier": "filtered",
-      "topics": [
-        "Cardiac Arrest"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "ECMO",
-          "strength": "weak",
-          "topic": "Cardiac Arrest"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42455344/"
-    },
-    {
-      "pmid": "42449390",
-      "title": "Evaluation of a redesigned two-day trauma course incorporating blended learning compared with the traditional three-day trauma course: a retrospective non-inferiority study.",
-      "abstract": "**BACKGROUND**: During the multidisciplinary Definitive Surgical and Anesthetic Trauma Care (DSATC) course, trauma specialists are trained to apply damage control principles to polytrauma patients. The course was redesigned in 2020 from a three-day, traditional format to a restructured two-day format combining online and traditional learning methods to enhance course quality and learning outcomes. Considering that learning opportunities on the work floor are scarce, continuous course evaluation is crucial to ensure benefits for medical professionals and their patients.\n\n**METHODS**: This retrospective non-inferiority study compared self-assessed confidence in technical and non-technical skills between a cohort in the traditional DSATC course and a cohort in the redesigned DSATC course. Self-assessed confidence ratings were collected through quantitative pre-course and post-course questionnaires. Mean changes in confidence ratings were calculated and compared using independent samples t-tests with a non-inferiority margin of -0.5. Sub-analyses investigated differences between participants of the same profession, between physicians with different levels of experience, and the influence of individual preparation on self-assessed confidence in skills before on-site training.\n\n**RESULTS**: A total of 180 (21%) participants completed the pre-course and one-day post-course questionnaires completely. Both cohorts showed increased self-assessed confidence in skills following course completion, with the redesigned DSATC cohort demonstrating non-inferior improvements compared with the traditional cohort in general technical skills (mean difference (MD) 0.07, lower bound one-sided 97.5% confidence interval (CI) -0.14, p\u2009<\u20090.001 for non-inferiority) and in general non-technical skills (MD 0.09, lower bound one-sided 97.5% CI -0.09, p\u2009<\u20090.001 for non-inferiority). Self-assessed confidence in non-technical skills declined in the 2024 redesigned course group following individual preparation (MD -0.21, p\u2009=\u20090.042).\n\n**CONCLUSIONS**: The redesigned format of the DSATC course is not inferior to the traditional model in improving self-assessed confidence in technical and non-technical skills. Exploratory findings suggest that individual pre-course preparation may be associated with greater awareness of learning needs and support self-directed learning. These results indicate that a traditional, one-size-fits-all approach to training might not fully address differences in learners' needs. Blended learning could support individualized learning pathways. Further research should investigate the effectiveness of such pathways in multidisciplinary trauma education and their relation to competence, clinical performance and patient outcomes.",
-      "journal": "World J Emerg Surg",
-      "authors": [
-        "Iskander M",
-        "Haverkamp FJC",
-        "Geeraedts LMG",
-        "van Bilsen SJA",
-        "Tan ECTH"
-      ],
-      "date": "2026 Jul 14",
-      "doi": "10.1186/s13017-026-00714-x",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "Haemorrhage"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "polytrauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "damage control",
-          "strength": "weak",
-          "topic": "Haemorrhage"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42449390/"
     }
   ]
 }
