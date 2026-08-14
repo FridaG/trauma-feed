@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-13T20:31:32.828876Z",
-  "total_articles": 215,
+  "generated": "2026-08-14T20:22:01.938315Z",
+  "total_articles": 213,
   "all_topics": [
     "Abdominal",
     "Burns",
@@ -378,6 +378,239 @@
     "Cochrane Database Syst Rev": "filtered"
   },
   "articles": [
+    {
+      "pmid": "42599090",
+      "title": "Glucagon-Like Peptide-1 Receptor Agonists for Patients with Conservatively Managed Nontraumatic Subdural Hematoma.",
+      "abstract": "**BACKGROUND AND OBJECTIVES**: Medical management options for nontraumatic subdural hematoma (SDH) remain limited, with only atorvastatin demonstrating benefit in a single phase 2 randomized clinical trial and mixed evidence for dexamethasone. Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) may benefit SDH outcomes. The objective of this study was to evaluate the association between GLP-1 RA use and rescue surgery rates and mortality in patients with medically managed nontraumatic SDH.\n\n**METHODS**: We conducted a retrospective cohort study using the TriNetX database from 2016 to 2025, including adults with SDH who were managed conservatively without surgical evacuation or middle meningeal artery embolization. Patients prescribed GLP-1 RAs were compared with nonusers. After propensity matching, rescue surgical evacuation, all-cause mortality at 1 year, and GLP-1 RA-associated adverse events were analyzed.\n\n**RESULTS**: A total of 134\u2009901 patients with conservatively managed nontraumatic SDH were identified, of whom 1470 (1.1%) were GLP-1 RA users. After propensity score matching, 2922 patients remained, with 1461 in each group. At 1 year, GLP-1 RA users experienced significantly lower rates of rescue surgery (2.23% vs 3.51%; P = .046), culminating in an overall 38% reduction in relative hazard. All-cause mortality was also significantly lower for GLP-1 RA users at 1 year (16.1% vs 23.7%, P < .001), reflecting a 33% reduction in hazards. GLP-1 RA users did not experience different rates of adverse events, such as pancreatitis, gallbladder disease, or ileus/bowel obstruction (all P > .05).\n\n**CONCLUSION**: Among patients with medically managed nontraumatic SDH, GLP-1 RA use was associated with significantly lower rates of rescue surgery and all-cause mortality without significantly increased risk of common GLP-1 RA-related complications.",
+      "journal": "Neurosurgery",
+      "authors": [
+        "Chen H",
+        "McIntyre MK",
+        "Kakadiya J",
+        "Rai P",
+        "Azzam AY",
+        "Essibayi MA",
+        "Salim HA",
+        "Mandel DM",
+        "Buzzeli M",
+        "Yedavalli VS",
+        "Dmytriw AA",
+        "Malhotra A",
+        "Gandhi D",
+        "Colasurdo M",
+        "Lakhani DA"
+      ],
+      "date": "2026 Aug 14",
+      "doi": "10.1227/neu.0000000000004193",
+      "tier": "filtered",
+      "topics": [
+        "TBI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "subdural haematoma",
+          "strength": "strong",
+          "topic": "TBI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42599090/"
+    },
+    {
+      "pmid": "42599047",
+      "title": "Early vs Late Surgical Intervention for Morel-Lavall\u00e9e Injuries: A Pacific Coast Surgical Association Prospective Multicenter Study.",
+      "abstract": "**BACKGROUND**: Morel-Lavall\u00e9e lesions (MLLs) are closed degloving injuries that occur throughout the body and present treatment challenges due to their rarity and variability in management. We aimed to compare characteristics and outcomes for MLL patients undergoing early (less than 48 hours) vs late (more than 48 hours) surgical intervention, hypothesizing decreased length of stay (LOS) with early intervention.\n\n**STUDY DESIGN**: Fifteen centers participated in this prospective observational study, including all adult patients who sustained a MLL and underwent surgery. No patients were excluded. Bivariate comparisons for early vs late intervention cohorts were performed.\n\n**RESULTS**: Of 150 MLL patients, 101 (67.3%) underwent early intervention. Both cohorts had comparable ages, BMI, vitals, Charlson Comorbidity Index, and injury severity scores (all p > 0.05). However, early intervention patients more commonly had abdominal (37% vs 6.3%, p < 0.001) MLLs, whereas late intervention patients more often had hip (16.7% vs 3.0%, p = 0.01) and thigh (41.7% vs 22%, p = 0.03) MLLs. Early patients had shorter ICU LOS (2 vs 5, p = 0.003) but statistically similar hospital LOS (12 vs 20, p = 0.06). There was no difference in wound-related complications (19.8% vs 24.5%, p = 0.51) or mean number of additional surgeries (p = 0.41) between cohorts.\n\n**CONCLUSIONS**: Over two-thirds of MLL patients underwent early operation. These patients had decreased ICU LOS and a statistically similar albeit clinically shorter overall LOS, despite similar demographics, comorbidities, injury severity, and number of additional surgeries. Therefore, early operation appears beneficial and should be pursued in MLL patients when clinically indicated and feasible.",
+      "journal": "J Am Coll Surg",
+      "authors": [
+        "Smith MB",
+        "Grigorian A",
+        "Santorelli JE",
+        "Dilday JC",
+        "Stephens DJ",
+        "Minoza KG",
+        "Biffl WL",
+        "Coimbra R",
+        "Tillou A",
+        "Nahmias J"
+      ],
+      "date": "2026 Sep 01",
+      "doi": "10.1097/XCS.0000000000001918",
+      "tier": "filtered",
+      "topics": [
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "injury severity",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42599047/"
+    },
+    {
+      "pmid": "42599044",
+      "title": "Number Needed to Treat Analysis for Ground Prehospital Blood in Hemorrhagic Shock.",
+      "abstract": "**BACKGROUND**: Early hemorrhage control remains the cornerstone of trauma resuscitation, yet traditional ground emergency medical services (EMS) resuscitation relies predominantly on crystalloid fluids. We compared outcomes after prehospital crystalloid, packed red blood cells (pRBC), and whole blood (WB) resuscitation and quantified absolute risk reduction (ARR) and number needed to treat (NNT) for survival.\n\n**STUDY DESIGN**: Trauma patients with hemorrhagic shock (evidence of hemorrhage and shock index >1.0) enrolled in a prospective multicenter ground EMS registry who received crystalloid alone, pRBC, or WB during transport were evaluated. The primary outcome was in-hospital mortality. Secondary outcomes included change in shock index from the prehospital setting to emergency department arrival. ARR and NNT were calculated with 95% confidence intervals.\n\n**RESULTS**: Among 299 patients, mortality was highest after crystalloid resuscitation (13/84, 15.5%) compared with pRBC (9/168, 5.4%) and WB (2/47, 4.3%). Shock index improved in all groups, with the greatest reduction after pRBC (\u0394-0.32 vs crystalloid \u0394-0.14; p<0.001). Compared with crystalloid, ARR was 10.1% (95% CI, 2.5-19.7%) for pRBC (NNT\u224810; p=0.02), 11.2% (95% CI, 1.5-20.9%) for WB (NNT\u22489; p=0.03), and 10.4% (95% CI, 2.7-18.0%) for combined blood products (NNT\u224810; p=0.006). Contextual comparison demonstrated favorable NNT estimates relative to established trauma interventions.\n\n**CONCLUSIONS**: In this prospective multicenter observational cohort, prehospital blood resuscitation was associated with lower in-hospital mortality than crystalloid alone, with a NNT of approximately 9-10. These findings support implementation research and systems-level evaluation of ground EMS prehospital blood programs for hemorrhagic shock.",
+      "journal": "J Am Coll Surg",
+      "authors": [
+        "Severance AC",
+        "Kutcher ME",
+        "Taghavi S",
+        "Dransfield T",
+        "Duchesne JC"
+      ],
+      "date": "2026 Aug 14",
+      "doi": "10.1097/XCS.0000000000002131",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Haemorrhage",
+        "Prehospital"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "haemorrhagic shock",
+          "strength": "strong",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "blood product",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "packed red blood cells",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "prehospital blood",
+          "strength": "strong",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "trauma resuscitation",
+          "strength": "weak",
+          "topic": "Prehospital"
+        },
+        {
+          "keyword": "prehospital",
+          "strength": "strong",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42599044/"
+    },
+    {
+      "pmid": "42596016",
+      "title": "Ambient oxygen enrichment during cardiopulmonary resuscitation: an overestimated risk? - Insights from a manikin study.",
+      "abstract": "**BACKGROUND/ AIM**: To reduce the risk of fire, the ERC resuscitation guidelines recommend removing all oxygen-delivery devices at least 1\u00a0m away from the patient's chest prior to defibrillation. This recommendation is based on the assumption of relevant local oxygen accumulation. The presented study aimed to characterise ambient oxygen concentrations during cardiopulmonary resuscitation (CPR) and to assess the effect of removing oxygen-delivery devices.\n\n**METHODS**: In a controlled mannequin-based simulation study, 20 resuscitation scenarios were performed under standardised conditions, varying oxygen delivery, airway management, ventilation mode, environment (room vs. ambulance), and distance of oxygen sources. Oxygen concentrations were continuously measured and recorded at 10-second intervals at three locations corresponding to typical defibrillation sites. Linear mixed-effects models were used to analyse predictors of oxygen fraction.\n\n**RESULTS**: A total of 6,555 oxygen measurements were recorded. Median oxygen concentration was 21.6% (IQR 21.3-22.1%). Removing oxygen delivery devices to >\u20091\u00a0m did not result in lower oxygen concentrations compared with leaving them in proximity of the mannequin's head. Endotracheal intubation compared to an open airway and the use of an OxyDemand valve compared to a reservoir with 15\u00a0L/min oxygen flow were associated with slightly lower oxygen fractions, whereas other factors (handling of upper garments, site, use of mechanical CPR) showed no clinically relevant effects.\n\n**CONCLUSION**: Clinically relevant oxygen accumulation at defibrillation sites was not observed. Likewise, removing oxygen-delivery devices did not result in a reduction in oxygen concentrations. Under the tested conditions, these findings do not support clinically relevant oxygen enrichment during CPR, questioning the risk of oxygen-enriched atmospheres during CPR as well as the role of routine removal of oxygen sources prior to defibrillation.",
+      "journal": "Scand J Trauma Resusc Emerg Med",
+      "authors": [
+        "Hoechter DJ",
+        "Pfeiffer F",
+        "Storz M",
+        "Higl A",
+        "Schmalbach B",
+        "Petrowski K",
+        "Achtsnit T"
+      ],
+      "date": "2026 Aug 11",
+      "doi": "10.1542/peds.112.3.677",
+      "tier": "core",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42596016/"
+    },
+    {
+      "pmid": "42596010",
+      "title": "Effect of an app-guided advanced cardiac life support algorithm on teamwork, non-technical skills, and workload in simulated in-hospital cardiac arrest: a randomized controlled feasibility trial.",
+      "abstract": "**BACKGROUND**: In-hospital cardiac arrest carries high mortality despite advances in monitoring, rapid response systems, and adherence to advanced life support (ALS) guidelines. Digital decision-support tools, including mobile applications, are increasingly explored to improve guideline adherence, yet their impact on cognitive workload, team performance, and ALS performance remains uncertain.\n\n**METHODS**: We conducted a prospective, randomized, simulation-based controlled feasibility trial with 40 interprofessional teams (80 participants) comparing ALS performance with and without the use of the 'CPR Leader' app. Two-person teams were randomized 1:1 to intervention or control and followed standardized in-hospital cardiac arrest scenarios (asystole and ventricular fibrillation). Primary outcomes included team performance (TEAM), non-technical skills (ANTS), and subjective workload (NASA-TLX). Secondary outcomes comprised objective resuscitation metrics, including time to rhythm analysis, defibrillation, medication administration, and chest compression quality.\n\n**RESULTS**: Overall NASA-TLX scores were high but comparable between intervention and control group (mean 49.2\u2009\u00b1\u200913.6 vs. 54.1\u2009\u00b1\u200914.6; p\u2009=\u20090.2), with higher effort reported in the app group and higher frustration in the control group. TEAM and ANTS scores showed no evidence of meaningful between-group differences. Across the two scenarios types, ALS performance metrics-including rhythm analysis, defibrillation, medication administration, and chest compression quality-were similar between groups, with the exception of earlier chest compression initiation in the control group during ventricular fibrillation.\n\n**CONCLUSIONS**: In this exploratory randomized simulation study involving predominantly experienced in-hospital healthcare professionals, the use of a resuscitation support application did not demonstrate a clear improvement in adherence to guideline-recommended ALS algorithms or resuscitation performance compared with standard practice. These findings likely reflect the high level of participants' clinical experience and should not be generalized to novice providers, mixed-experience teams, prehospital settings, or training environments. Further studies are warranted to evaluate the potential benefits of cognitive aids in less experienced populations and in real-world clinical practice.\n\n**TRIAL NUMBER**: None.",
+      "journal": "Scand J Trauma Resusc Emerg Med",
+      "authors": [
+        "Kamphausen A",
+        "Pilz M",
+        "Baumg\u00e4rtel M",
+        "Kubitz JC",
+        "Engelen C"
+      ],
+      "date": "2026 Aug 12",
+      "doi": "10.1186/s13049-017-0379-8",
+      "tier": "core",
+      "topics": [
+        "Prehospital"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "prehospital",
+          "strength": "weak",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42596010/"
+    },
+    {
+      "pmid": "42594691",
+      "title": "Complications after operatively treated fractures in patients with solid organ transplantation - A systematic review of the literature.",
+      "abstract": "**INTRODUCTION**: Solid organ transplantation is associated with multiple risk factors, reduced bone quality and relevant comorbidities, which may negatively affect postoperative outcomes after fracture treatment. Furthermore, these patients usually require lifelong immunosuppressive therapy. A systematic review was performed to evaluate the incidence of postoperative complications and to assess whether specific considerations are required in this special patient group.\n\n**METHODS**: A systematic review of the literature according to the PRISMA guidelines was performed. A total of 3743 studies were identified and subsequently assessed for eligibility. Studies investigating elective orthopedic procedures were excluded. After full-text screening, six studies were included in the final analysis.\n\n**RESULTS**: Overall, the six studies investigated 2317 patients. Cohort sizes ranged from 12 to 2163 patients, with a median cohort size of 33.5 patients. Mean age of patients was 67.9 years. Follow-up durations varied between 18 weeks and 3 years. The most frequently investigated fracture type was proximal femoral fractures with three studies, followed by lower extremity fractures (two studies). One study examined distal radius fractures. Infectious complications were reported in four studies, with a pooled infection rate of 10%. The pooled 90-day readmission rate was 20%. Mortality was reported heterogeneously across studies, ranging from 2% to 52%.\n\n**CONCLUSION**: Studies investigating outcomes after operatively treated fractures in solid organ transplant recipients are rare. Interestingly, infectious complication rates and 90-day readmission rates do not appear to be substantially increased compared to the general population. The wide range of reported mortality rates is likely attributable to differences in fracture types and patient populations, as certain fractures-such as femoral neck fractures-are associated with high mortality even in non-transplanted patients.",
+      "journal": "Injury",
+      "authors": [
+        "H\u00fcbner CT",
+        "Anranter A",
+        "Kalbas Y",
+        "Klingebiel FK",
+        "Shehu A",
+        "Halvachizadeh S",
+        "Pfeifer R",
+        "R\u00f6ssler F",
+        "Pape HC",
+        "Teuben MP"
+      ],
+      "date": "2026 Aug 11",
+      "doi": "10.1016/j.injury.2026.113592",
+      "tier": "filtered",
+      "topics": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42594691/"
+    },
+    {
+      "pmid": "42594675",
+      "title": "Independent predictors of hyperoxemia following prehospital oxygen therapy: A prospective cohort study.",
+      "abstract": "**BACKGROUND**: Hyperoxemia is a potential consequence of prehospital oxygen therapy. However, data on independent predictors of hyperoxemia in patients managed by prehospital emergency medical services (PEMS) remain limited. This study aimed to identify factors associated with hyperoxemia in patients receiving prehospital oxygen therapy.\n\n**METHODS**: This prospective single-center cohort study was conducted in the emergency department of a tertiary-care hospital between May 2025 and February 2026. Adult patients transported by PEMS while receiving supplemental oxygen were enrolled. Demographic, hemodynamic, transport, oxygen delivery, and arterial blood gas data were recorded. Hyperoxemia was defined as PaO\u2082 >120\u00a0mmHg. Independent predictors were identified using multivariate logistic regression.\n\n**RESULTS**: Of 245 patients, 60 (24.5%) had hyperoxemia on ED arrival. Hyperoxemic patients had higher intubation rates, longer transport durations, higher oxygen delivery rates, and higher ED SpO\u2082 levels (all p\u00a0<\u00a00.05). Multivariate analysis identified two independent predictors of hyperoxemia: intubation (OR 38.89, 95% CI 14.21-106.45) and transport duration \u226524\u00a0min (OR 13.74, 95% CI 4.43-42.66). ROC curve analysis revealed that an ED SpO\n\n**CONCLUSION**: Hyperoxemia was common among patients receiving prehospital oxygen therapy. These findings emphasize the importance of individualized oxygen titration and regular reassessment during transport, particularly in intubated patients and in those with longer transport durations, to reduce avoidable hyperoxemia.",
+      "journal": "Am J Emerg Med",
+      "authors": [
+        "Ulu M",
+        "Yavuz E"
+      ],
+      "date": "2026 Aug 10",
+      "doi": "10.1016/j.ajem.2026.08.007",
+      "tier": "filtered",
+      "topics": [
+        "Prehospital"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "prehospital",
+          "strength": "strong",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42594675/"
+    },
     {
       "pmid": "42586003",
       "title": "Bougie facilitated Minnesota tube placement for control of massive gastrointestinal hemorrhage.",
@@ -8330,294 +8563,6 @@
       "keyword_matches": [],
       "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/42462552/"
-    },
-    {
-      "pmid": "42461313",
-      "title": "Reported complications after spinopelvic fixation for U-type sacral fractures in older adults: a systematic review with narrative synthesis.",
-      "abstract": "**BACKGROUND**: Spinopelvic fixation (SPF), alone or combined with iliosacral or transiliac-transsacral fixation, is often used for highly unstable posterior pelvic ring injuries and some fragility fracture patterns in older adults. However, the evidence specifically describing complications after SPF in older patients with U-type sacral fractures is limited.\n\n**METHODS**: This systematic review was conducted according to the Cochrane Handbook and PRISMA recommendations. PubMed, Embase, and grey-literature sources were searched from January 1, 2000 to July 31, 2025. Eligible studies included adults aged 60 years or older with U-type sacral fractures or closely related spinopelvic dissociation/FFP IVb patterns treated with SPF, and reporting at least one complication. Because of the small number of eligible studies, probable cohort overlap, heterogeneity in fracture definitions, treatment indications, fixation constructs, and outcome reporting, findings were synthesized narratively rather than pooled quantitatively.\n\n**RESULTS**: Three studies met the eligibility criteria, comprising 157 patients overall; however, only a subset underwent SPF, and two studies were produced by the same group with probable cohort overlap. The available cohorts mixed bilateral sacral fragility fractures, FFP IVb patterns, and comparative SPF-versus-trans-sacral constructs. Reported adverse events included wound or infectious complications, urinary tract infection and other medical complications, reoperation, and mortality. Construct-specific complication rates for true SPF-treated U-type fractures in older adults could not be estimated reliably.\n\n**CONCLUSION**: The available literature on SPF for U-type sacral fractures in older adults is extremely limited, clinically heterogeneous, and partly overlapping. Current evidence permits only a cautious narrative description of reported complications; it does not allow reliable estimation of complication rates, meaningful comparison with alternative fixation strategies, or definitive conclusions regarding indications for routine SPF use in this population.",
-      "journal": "Eur J Trauma Emerg Surg",
-      "authors": [
-        "Giordano V",
-        "Pinheiro HRS",
-        "Pires RE",
-        "Varga P",
-        "Freitas A",
-        "Giannoudis PV"
-      ],
-      "date": "2026 Jul 16",
-      "doi": "10.1016/j.ssaho.2022.100381",
-      "tier": "core",
-      "topics": [
-        "Pelvic"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "pelvic ring",
-          "strength": "weak",
-          "topic": "Pelvic"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42461313/"
-    },
-    {
-      "pmid": "42461297",
-      "title": "Influence of allograft augmentation on surgical outcomes and complications in proximal humerus fractures: a matched-pair analysis.",
-      "abstract": "**BACKGROUND**: Proximal humerus fractures predominantly affect elderly patients and pose a growing clinical burden. This study evaluates the impact of allograft augmentation on operative time, fracture reduction quality, and complication rates compared with standard fixation across different fracture morphologies.\n\n**METHODS**: This retrospective matched-pair study included patients surgically treated for proximal humerus fractures with locking plate fixation at a single tertiary trauma center between 01.01.2014 and 31.12.2024. Patients treated with allograft augmentation (Group A) were matched 1:1 to patients without allograft (Group NA) using exact matching for Mayo FJD fracture morphology and sex, and propensity score matching for age. Radiological outcomes were assessed using pre- and postoperative neck-shaft angles, with normalization defined as correction into the physiological range (120\u00b0-150\u00b0). Complications and operative parameters were recorded. Paired statistical analyses were applied.\n\n**RESULTS**: A total of 1,012 patients were treated during the study period; after selection and matching, 102 matched patient pairs (204 patients) were analyzed. Operative time was longer with allograft augmentation (141.3\u2009\u00b1\u200940.3 vs. 126.9\u2009\u00b1\u200950.0\u00a0min; p\u2009=\u20090.08), reaching statistical significance only in varus posteromedial fractures (144.4\u2009\u00b1\u200937.8 vs. 122.2\u2009\u00b1\u200939.6\u00a0min; p\u2009=\u20090.007). Although overall postoperative alignment rates were comparable, allograft augmentation more frequently achieved correction to a physiological neck-shaft angle (62.7% vs. 48.0%; p\u2009=\u20090.044). Overall complication rates were comparable (20.6% vs. 26.5%; p\u2009=\u20090.43), while functional complications occurred less frequently with allograft augmentation (1.0% vs. 7.8%; p\u2009=\u20090.035).\n\n**CONCLUSIONS**: Allograft augmentation was associated with a higher rate of restoration to a physiological neck-shaft angle without an increase in overall complication rates, although at the cost of slightly longer operative time in selected fracture patterns. The clinical relevance of these radiographic findings requires further evaluation using validated patient-reported outcome measures. While secondary analyses were exploratory, the findings suggest that allograft augmentation may be useful in situations where achieving and maintaining anatomical alignment is challenging.\n\n**LEVEL OF EVIDENCE**: III, retrospective comparative study.",
-      "journal": "Eur J Trauma Emerg Surg",
-      "authors": [
-        "Barthel C",
-        "Rudolph F",
-        "Kalbas Y",
-        "Russek R",
-        "Pape HC",
-        "Allemann F"
-      ],
-      "date": "2026 Jul 16",
-      "doi": "10.12659/MSM.928982",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "trauma centre",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42461297/"
-    },
-    {
-      "pmid": "42461284",
-      "title": "Impact of a comprehensive trauma pathway on workflow and clinical processes in a level III trauma center.",
-      "abstract": "**PURPOSE**: Organized trauma systems improve coordination of care and may enhance the efficiency of trauma management, potentially improving outcomes and reducing hospital length of stay and costs. The aim of the study was to evaluate key process-of-care indicators and clinical outcomes before and after the introduction of a comprehensive trauma pathway.\n\n**METHODS**: We conducted a single-center retrospective-prospective cohort study at Rivoli Hospital, Italy. Trauma patients admitted to the Emergency Department (ED) between 2024 and 2025 who met the criteria for trauma team activation were prospectively included. Outcomes were compared with a retrospective cohort from the period prior to the implementation of the dedicated trauma pathway (2023-2024).\n\n**RESULTS**: A total of 465 patients were included. Implementation of a comprehensive trauma pathway was associated with significant improvements in several time-dependent quality indicators, including ED boarding time (888 vs. 1021\u00a0min; p\u2009=\u20090.02), time to imaging (48 vs. 78\u00a0min; p\u2009<\u20090.01), time to surgery (183 vs. 237\u00a0min; p\u2009=\u20090.03), time to ICU admission (226 vs. 343\u00a0min; p\u2009=\u20090.02), and time to interhospital transfer (238 vs. 305\u00a0min; p\u2009=\u20090.04). We observed a trend toward a reduction in early mortality (2% vs. 3.6%; p\u2009=\u20090.41) and 30-day mortality (3.7% vs. 5.9%; p\u2009=\u20090.62).\n\n**CONCLUSIONS**: The adoption of a structured multidisciplinary trauma management pathway was associated with improved timeliness of care for trauma patients. Although mortality rates were lower after pathway implementation, the study was not powered to demonstrate a survival benefit.",
-      "journal": "Eur J Trauma Emerg Surg",
-      "authors": [
-        "Neitzert L",
-        "Druetto C",
-        "Forno D",
-        "Molino P",
-        "Vitale D",
-        "Grio M"
-      ],
-      "date": "2026 Jul 16",
-      "doi": "10.1007/s00068-025-02840-8",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "Prehospital",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "trauma centre",
-          "strength": "strong",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "trauma team",
-          "strength": "weak",
-          "topic": "Prehospital"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42461284/"
-    },
-    {
-      "pmid": "42461017",
-      "title": "Commentary: CEREBLEED: Automated Quantification and Severity Scoring of Intracranial Hemorrhage on Noncontrast CT.",
-      "abstract": "",
-      "journal": "Neurosurgery",
-      "authors": [
-        "El-Ghandour NMF"
-      ],
-      "date": "2026 Jul 16",
-      "doi": "10.1227/neu.0000000000004020",
-      "tier": "filtered",
-      "topics": [
-        "TBI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "intracranial haemorrhage",
-          "strength": "strong",
-          "topic": "TBI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42461017/"
-    },
-    {
-      "pmid": "42460987",
-      "title": "Developing an Emergency Medical Services Research Reading List for Emergency Medical Services Practitioners.",
-      "abstract": "**OBJECTIVES**: High-impact primary research is a cornerstone of emergency medical services (EMS) education and protocol development, yet EMS practitioners and EMS leaders often lack a clear, prioritized way to identify the most important recent primary literature. Because formal evidence-based guideline (EBG) development frequently lags behind emerging evidence, curated primary research plays a critical role in translating science into practice. Therefore, we sought to identify and evaluate recent high-impact EMS research-related publications through recommendations and ratings from key stakeholders and experts in EMS to identify a priority research reading list in EMS medicine.\n\n**METHODS**: We issued an open call through member organizations of the Prehospital Guidelines Consortium for high-impact primary literature (excluding EBGs) published between 2021-2023 related to EMS clinical care and operations. An expert panel, selected from the Prehospital Guidelines Consortium and member organizations, reviewed submissions, rating each by importance (1-5, with 5 being most important) in an asynchronous electronic survey. The expert panel selected a cutoff point using average importance rating to generate the final priority reading list.\n\n**RESULTS**: A total of 29 submissions resulted from the public call. After submissions outside the date range, duplicate submissions, and prehospital EBGs were excluded, nine experts in EMS medicine rated 22 submissions. The average importance rating of submissions ranged from 1.56 to 4.56. There was a natural inflection point in average importance scores at 3.56, and we classified the 10 primary articles at or above this threshold as being highly rated.\n\n**CONCLUSIONS**: We identified 10 high-impact primary publications to prioritize for inclusion in initial and ongoing EMS education to inform evidenced-based out-of-hospital care and address gaps in existing prehospital EBGs.",
-      "journal": "Prehosp Emerg Care",
-      "authors": [
-        "Richards CT",
-        "Cash RE",
-        "Crowe RP",
-        "Fishe J",
-        "Jarvis JL",
-        "Shah MI",
-        "Somes J",
-        "White N",
-        "Martin-Gill C"
-      ],
-      "date": "2026 Jul 21",
-      "doi": "10.1080/10903127.2026.2693158",
-      "tier": "filtered",
-      "topics": [
-        "Prehospital"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "prehospital",
-          "strength": "weak",
-          "topic": "Prehospital"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42460987/"
-    },
-    {
-      "pmid": "42458552",
-      "title": "Geographical alignment of prehospital critical care services with population need for out-of-hospital cardiac arrest patients.",
-      "abstract": "**BACKGROUND**: Prehospital critical care is associated with improved outcomes following out-of-hospital cardiac arrest (OHCA), but may not be distributed equitably.\n\n**AIM**: To examine the alignment between prehospital critical care provision and neighbourhood OHCA risk, predicted survival, and deprivation across three neighbouring ambulance regions in England.\n\n**METHODS**: Data on all OHCAs treated by three neighbouring English ambulance services (2018-2023) were aggregated to the neighbourhood level. Prehospital critical care response time predictions were generated from service-supplied operational parameters and calibrated against observed data with rural-urban adjustment. High-risk neighbourhoods were defined by above-median OHCA incidence and below-median bystander CPR. Pre-EMS predicted survival was estimated using a published model. Deprivation was measured with Index of Multiple Deprivation. Weighted regression models with service-by-response time interaction terms examined each neighbourhood metric per 5-minute response time increase. A secondary analysis examined a HEMS-only configuration by removing the unique urban, NHS car asset in service B.\n\n**RESULTS**: Overall, 52.9% of the resident population and 51.3% of OHCAs were within 15\u00a0min of a prehospital critical care response. In two services, increasing response time was associated with higher odds of a neighbourhood being high-risk and with greater deprivation. For pre-EMS predicted survival, poor alignment was found in one service, favourable alignment in another, and no significant association in the third. Service B showed favourable alignment across all three metrics. Removing the urban car asset (HEMS-only configuration) reversed this favourable pattern, producing gradients consistent with the other two services. Sensitivity analysis using observed response times and distances produced consistent but attenuated associations.\n\n**CONCLUSION**: Prehospital critical care provision, particularly HEMS, is generally poorly aligned with neighbourhood OHCA risk, pre-EMS predicted survival, and deprivation. The only region demonstrating favourable cardiac arrest alignment was attributable to its urban NHS car asset. Expanding car-based prehospital critical care in deprived urban areas may warrant consideration as a strategy to reach more OHCA patients and improve equity of access.",
-      "journal": "Scand J Trauma Resusc Emerg Med",
-      "authors": [
-        "Boulton AJ",
-        "Lang N",
-        "Miller J",
-        "Whitley GA",
-        "Zorab O",
-        "de Paeztron A",
-        "Leech C",
-        "Gill P",
-        "Perkins GD",
-        "de Albuquerque JP",
-        "Brown TP",
-        "Yeung J"
-      ],
-      "date": "2026 Jul 15",
-      "doi": "10.1186/s13049-026-01655-9",
-      "tier": "core",
-      "topics": [
-        "Prehospital"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "HEMS",
-          "strength": "weak",
-          "topic": "Prehospital"
-        },
-        {
-          "keyword": "prehospital",
-          "strength": "strong",
-          "topic": "Prehospital"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42458552/"
-    },
-    {
-      "pmid": "42457440",
-      "title": "Venous thromboembolism in children with lower limb fractures: A systematic review and meta-analysis.",
-      "abstract": "**OBJECTIVES**: There is limited evidence regarding Venous Thromboembolism (VTE) in children with lower limb fractures. Our primary objective was to assess the rate, risk factors, mortality and role of pharmacological prophylaxis of VTE in children with lower limb fractures.\n\n**METHODS**: Systematic review and meta-analysis. PubMed, CINAHL, and Cochrane CENTRAL were searched. Full published studies reporting on the rate of venous thromboembolism and/or on the efficacy of chemical thromboprophylaxis in children with lower limb fractures. Data extraction and quality appraisal were performed. Meta-analysis was conducted using a random effects model. The protocol was prospectively registered with PROSPERO (CRD42021278566).\n\n**RESULTS**: Literature search identified 8342 articles of which 8 were included. All included studies were retrospective and studied paediatric populations in the USA and China. Meta-analysis of 5 studies reporting on children aged equal to or less than 18 years showed an overall estimated VTE rate of 0.53% (95%CI 0.20-1.38). There was sparse evidence related to risk factors for VTE and mortality rates in this patient population, and no evidence related to the impact of VTE prophylaxis.\n\n**CONCLUSIONS**: VTE is a recognised occurrence in children with lower limb fractures, but it is estimated to be infrequent. There is a need for high-quality research to further evaluate the rates of VTE in subgroups of paediatric patients as well as to determine the risk factors, mortality and efficacy of pharmacological prophylaxis. Individualised assessment and management is recommended in the meantime.\n\n**LEVEL OF EVIDENCE**: Level III, systematic review of Level III retrospective studies.",
-      "journal": "Injury",
-      "authors": [
-        "Habib Z",
-        "Ahmed EM",
-        "Zipitis CS",
-        "Sutton PM",
-        "Malik RA",
-        "Charalambous CP"
-      ],
-      "date": "2026 Jun 03",
-      "doi": "10.1016/j.injury.2026.113396",
-      "tier": "filtered",
-      "topics": [],
-      "keyword_matches": [],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42457440/"
-    },
-    {
-      "pmid": "42457242",
-      "title": "Epidural analgesia in labour and neonatal and childhood outcomes: national population based cohort study.",
-      "abstract": "**OBJECTIVES**: To examine whether epidural analgesia in labour is associated with neonatal neurological morbidity, other neonatal morbidity, neonatal sepsis, low Apgar score, neonatal mortality, and childhood cerebral palsy.\n\n**DESIGN**: National population based cohort study.\n\n**SETTING**: All NHS hospitals in Scotland, using Scottish NHS administrative linked data.\n\n**PARTICIPANTS**: 495\u2009695 women in labour with a singleton pregnancy between 24+0 and 42+6 weeks' gestation delivering vaginally or via unplanned caesarean birth between 1 January 2007 and 31 December 2019.\n\n**MAIN OUTCOME MEASURES**: The primary outcome was neonatal neurological morbidity defined using ICD-10 codes as one or more of hypoxic ischaemic encephalopathy, neonatal seizures, intraventricular haemorrhage, intraventricular infarction, periventricular leukomalacia, meningitis, encephalitis, kernicterus, hypotonia, birth asphyxia, or other cerebral diagnosis occurring within 28 days of birth. Secondary outcomes were other neonatal morbidity (one or more of acidosis at birth (cord artery pH <7.10), traumatic birth injury, brachial plexus injury, necrotising enterocolitis, respiratory distress syndrome, respiratory failure, pneumothorax, hypoglycaemia, or hypothermia), neonatal sepsis, Apgar score <4 at five minutes following birth, neonatal mortality, and cerebral palsy diagnosed at any point during childhood.\n\n**RESULTS**: Of the 495\u2009695 women, 114\u2009897 (23.2%) had epidural analgesia in labour. Neonatal neurological morbidity occurred in 434 babies (0.9 per 1000 births, 95% confidence interval (CI) 0.8 to 1.0). No association was found between epidural analgesia in labour and neonatal neurological morbidity (adjusted relative risk 0.87, 95% CI 0.68 to 1.12), other severe neonatal morbidity (1.17, 0.90 to 1.51), neonatal sepsis (1.11, 0.90 to 1.37), Apgar score <4 at five minutes (0.97, 0.87 to 1.09), neonatal mortality at 28 days (0.81, 0.62 to 1.06), or cerebral palsy in childhood (0.80, 0.60 to 1.06). Findings were consistent across subgroups including women considered to have high risk pregnancies, preterm births, and across different modes of birth.\n\n**CONCLUSION**: Epidural analgesia during labour was not associated with clinically significant risks of harm to newborn babies or children, including risks of neonatal morbidity, death, or cerebral palsy. These findings have important policy implications, and support widening availability and equitable access to epidural analgesia as a safe component of intrapartum care.",
-      "journal": "BMJ",
-      "authors": [
-        "Kearns RJ",
-        "Kyzayeva A",
-        "Singh S",
-        "Lawlor DA",
-        "Shaw M",
-        "Nelson S"
-      ],
-      "date": "2026 Jul 15",
-      "doi": "10.1136/bmj-2026-343320",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Thoracic"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "traumatic",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "pneumothorax",
-          "strength": "weak",
-          "topic": "Thoracic"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42457242/"
-    },
-    {
-      "pmid": "42457220",
-      "title": "Management of Adult Closed Head Injury in Rural Queensland Without Hospital-Based CT: A Retrospective Cohort Study.",
-      "abstract": "**OBJECTIVE**: To describe management, imaging pathways and systems challenges for adult closed head injury presentations to a rural Queensland emergency department without hospital-based CT.\n\n**METHODS**: A retrospective cohort study was conducted at Dalby Hospital from January 2022 to January 2023. Adult patients presenting with closed head injury were identified through manual Emergency Department Information System review. Demographic, clinical, imaging, disposition and documentation variables were extracted from medical records. CT access was categorised as local offsite private radiology or interhospital transfer.\n\n**RESULTS**: A total of 118 patients were included; 73/118 (61.9%) were male and mean age was 48.6\u2009years. CT head was performed in 60/118 (50.8%) patients. Of these, 30/60 (50.0%) underwent CT through an offsite private radiology provider and 30/60 (50.0%) required interhospital transfer. Intracranial haemorrhage was identified in 9/60 (15.0%) imaged patients, comprising 7 subdural and 2 subarachnoid haemorrhages. Documentation of observation and discharge advice was variable. A planned period of observation was documented in 55/118 (46.6%) cases. Among patients discharged from the emergency department or short-stay unit, written patient information was documented in 36/72 (50.0%), red-flag discussion in 32/72 (44.4%), and no-driving advice in 5/72 (6.9%).\n\n**CONCLUSION**: Patients with closed head injury in this rural emergency department had substantial neuroimaging needs despite the absence of hospital-based CT. Imaging was obtained through either local offsite private radiology or interhospital transfer, requiring clinicians to consider both imaging need and pathway safety. Variable documentation of observation and discharge advice highlights an opportunity to strengthen safety-netting in rural head injury care.",
-      "journal": "Emerg Med Australas",
-      "authors": [
-        "Maouris T",
-        "Clarke L",
-        "Dew J"
-      ],
-      "date": "2026 Aug 1",
-      "doi": "10.1111/1742-6723.70307",
-      "tier": "filtered",
-      "topics": [
-        "TBI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "head injury",
-          "strength": "strong",
-          "topic": "TBI"
-        },
-        {
-          "keyword": "intracranial haemorrhage",
-          "strength": "weak",
-          "topic": "TBI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42457220/"
     }
   ]
 }
