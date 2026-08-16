@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-15T20:12:12.735464Z",
-  "total_articles": 215,
+  "generated": "2026-08-16T20:11:45.119703Z",
+  "total_articles": 214,
   "all_topics": [
     "Abdominal",
     "Burns",
@@ -379,6 +379,107 @@
   },
   "articles": [
     {
+      "pmid": "42603602",
+      "title": "Paediatric out-of-hospital cardiac arrest occurring before and after emergency medical service arrival: a retrospective study.",
+      "abstract": "**AIM**: To examine the association between witness status and the incidence, characteristics, and survival outcomes of paediatric out-of-hospital cardiac arrest (OHCA) attended by emergency medical services (EMS).\n\n**METHODS**: We conducted a retrospective cohort study of paediatric (<18 years) OHCA cases attended by EMS between 1 January 2000 and 31 December 2024. Cases were identified from the Victorian Ambulance Cardiac Arrest Registry (VACAR). Witness status was categorised as unwitnessed, bystander witnessed, or EMS witnessed. Multivariable logistic regression was used to evaluate the association between witness status and outcomes, adjusting for age, sex, arrest location, region, aetiology, initial rhythm and year.\n\n**RESULTS**: A total of 2,645 paediatric OHCAs were attended by EMS, of which 1,891 (71.5%) received a resuscitation attempt. Among EMS-treated cases, 59.8% were unwitnessed, 32.0% were bystander witnessed, and 8.1% were EMS witnessed. The incidence of unwitnessed and bystander witnessed OHCA declined over the 25-year period (p<0.001), whereas EMS witnessed incidence remained stable. After adjustment, EMS witnessed arrests were associated with significantly higher odds of survival to hospital discharge (AOR 1.91, 95% CI 1.04-3.52) and prehospital ROSC (AOR 1.83, 95% CI 1.20-2.77) compared with bystander witnessed arrests, while unwitnessed arrests had substantially lower survival across all outcomes.\n\n**CONCLUSION**: Paediatric OHCA witnessed by EMS is associated with significantly higher adjusted odds of survival compared with bystander witnessed events. These findings highlight the importance of early professional intervention and support the need for paediatric-specific strategies to improve recognition and response to these events.",
+      "journal": "Resuscitation",
+      "authors": [
+        "Kennedy C",
+        "Nehme E",
+        "McManamny T",
+        "Anderson D",
+        "Dantanarayana A",
+        "Nehme Z"
+      ],
+      "date": "2026 Aug 15",
+      "doi": "10.1016/j.resuscitation.2026.111267",
+      "tier": "filtered",
+      "topics": [
+        "Prehospital"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "prehospital",
+          "strength": "weak",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42603602/"
+    },
+    {
+      "pmid": "42603601",
+      "title": "Pediatric extracorporeal cardiopulmonary resuscitation for out-of-hospital cardiac arrest: outcomes and clinical trajectories.",
+      "abstract": "**AIMS**: To characterize management, outcomes, and donation trajectories of pediatric extracorporeal cardiopulmonary resuscitation (ECPR) for out-of-hospital cardiac arrest (OHCA), and to describe early features observed among survivors and non-survivors.\n\n**METHODS**: We conducted a retrospective single-centre observational cohort study including all consecutive children (<18 years) treated with ECPR for OHCA at a tertiary pediatric ECMO referral centre between 1 January 2013 and 31 December 2025. Survivors were compared with non-survivors, and among non-survivors, patients with brain death diagnosis were compared with those without brain death diagnosis.\n\n**RESULTS**: Among 155 pediatric OHCA patients managed at our institution during the study period, 42 (27.1%) underwent ECPR and were included in the present analysis. Median age was 9 years, median low-flow time 85 min, and median ECMO duration 55 h. Survival to hospital discharge was 19.0% (8/42). In exploratory comparisons, survivors more often received bystander CPR (100.0% vs 52.9%, p=0.016), had more frequent transient pre-hospital ROSC (62.5% vs 20.6%, p=0.031), and shorter low-flow duration (53 vs 90 min, p=0.006) than non-survivors. Survivors also had lower initial lactate (11.18 vs 18.00 mmol/L, p=0.003), lower 24-h vasoactive-inotropic score (5 vs 18, p=0.0053), and lower 24-h transfusion burden (12 vs 40 mL/kg, p=0.029). Non-survivors had more severe and persistent early organ injury. Of 34 deaths, 12 had a brain death diagnosis (35.3% of non-survivors; 28.6% of the total cohort), and 4 became effective organ donors. At last follow-up (median, 412 days), 7 of 8 hospital survivors were alive, and 6 of 7 had PCPC \u22642.\n\n**CONCLUSIONS**: Pediatric OHCA-ECPR yielded limited but meaningful survival. Measures of early resuscitation quality, low-flow duration, and early metabolic and organ-injury profiles may help distinguish different clinical trajectories after pediatric OHCA-ECPR.",
+      "journal": "Resuscitation",
+      "authors": [
+        "Veronese G",
+        "Grazioli L",
+        "Meani P",
+        "Fochi O",
+        "Fazzi F",
+        "Bronco A",
+        "Colombo G",
+        "Serafini M",
+        "Salurso A",
+        "Pellicioli I",
+        "Ferrari F",
+        "Vedovati S",
+        "Valoti OF",
+        "Ghitti D",
+        "Viscardi S",
+        "Ammirati E",
+        "Seddio F",
+        "Uricchio N",
+        "Bonacina D",
+        "Volpi C",
+        "Raimondi F",
+        "Bonanomi E",
+        "Lorusso R",
+        "Lorini FL"
+      ],
+      "date": "2026 Aug 15",
+      "doi": "10.1016/j.resuscitation.2026.111263",
+      "tier": "filtered",
+      "topics": [
+        "Cardiac Arrest"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "ECMO",
+          "strength": "weak",
+          "topic": "Cardiac Arrest"
+        },
+        {
+          "keyword": "ECPR",
+          "strength": "weak",
+          "topic": "Cardiac Arrest"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42603601/"
+    },
+    {
+      "pmid": "42603393",
+      "title": "A double-hit analysis: Evaluating the nephrotoxicity of dual intravenous and vancomycin impregnated cement exposure.",
+      "abstract": "**PURPOSE**: The concomitant use of postoperative intravenous vancomycin (IVV) in patients treated with vancomycin-impregnated cement (VIC) may represent a \"double hit\" contributing to nephrotoxicity, yet its impact on acute kidney injury (AKI) remains unclear. This study evaluated whether postoperative IVV in patients treated with VIC is associated with increased AKI incidence (primary outcome) and greater changes in serum creatinine (secondary outcome) compared with VIC alone.\n\n**METHODS**: A retrospective cohort study was conducted at a multi-hospital academic health system from 2012 to 2024. Adults undergoing VIC implantation for fracture-related infection were grouped by postoperative IVV exposure (IVV+VIC versus VIC alone). AKI was defined using Kidney Disease: Improving Global Outcomes (KDIGO) creatinine-based criteria. Secondary outcomes included mean absolute and percent serum creatinine change. A subgroup analysis evaluated 81 patients with chronic kidney disease (CKD). Multivariable regression adjusted for baseline creatinine, tobramycin dose, CKD, ASA class, and VIC dose.\n\n**RESULTS**: A total of 589 patients were included: 326 (55.4%) received IVV\u00a0+\u00a0VIC and 263 (44.6%) received VIC alone, with similar baseline characteristics. Among IVV\u00a0+\u00a0VIC patients, mean IV vancomycin dose was 1160\u00a0mg (SD 354) over a mean of 6.6 doses (SD 7.6), with a mean VIC dose of 4.9\u00a0g (SD 3.3). The VIC alone group had a mean VIC dose of 4.3\u00a0g (SD 3.3). AKI incidence did not differ between groups (18.1% vs 14.5%, p\u00a0=\u00a00.282). However, IVV\u00a0+\u00a0VIC was associated with greater mean absolute (0.19 vs 0.00\u00a0mg/dL, p\u00a0<\u00a00.001) and percent serum creatinine change (17.98 vs -0.86). Among CKD patients, AKI rates were similarly elevated in both cohorts (56.8% vs 40.5%, p\u00a0=\u00a00.216). On multivariable analysis, IVV\u00a0+\u00a0VIC was not independently associated with AKI (OR=1.37, 95% CI 0.84-2.23, p\u00a0=\u00a00.207) but was associated with greater absolute (\u03b2\u00a0=\u00a00.182, 95% CI 0.082-0.282, p\u00a0<\u00a00.001) and percent creatinine change (\u03b2\u00a0=\u00a017.683, 95% CI 9.659-25.706, p\u00a0<\u00a00.001).\n\n**CONCLUSION**: Postoperative IV vancomycin in patients treated with vancomycin-impregnated cement was not associated with increased AKI risk. While dual antibiotic therapy resulted in greater creatinine elevations, AKI risk appeared driven primarily by underlying renal disease. These findings support cautious use of dual therapy with close renal monitoring, particularly in patients with pre-existing CKD.",
+      "journal": "Injury",
+      "authors": [
+        "Vu NH",
+        "Esper GW",
+        "Egol KA",
+        "Ganta A",
+        "Konda SR"
+      ],
+      "date": "2026 Aug 06",
+      "doi": "10.1016/j.injury.2026.113585",
+      "tier": "filtered",
+      "topics": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42603393/"
+    },
+    {
       "pmid": "42602950",
       "title": "Incarcerated and strangulated hernias: patient education series - understanding trauma and emergency surgery conditions.",
       "abstract": "",
@@ -415,7 +516,7 @@
         "Kuwabara S"
       ],
       "date": "2026 Jan 1",
-      "doi": "10.1136/tsaco-2026-002270",
+      "doi": "10.1186/s13017-023-00510-x",
       "tier": "core",
       "topics": [
         "General Trauma"
@@ -442,7 +543,7 @@
         "Appelbaum RD"
       ],
       "date": "2026 Jan 1",
-      "doi": "10.1136/tsaco-2026-002279",
+      "doi": "10.1177/1524839918774571",
       "tier": "core",
       "topics": [
         "General Trauma"
@@ -8330,178 +8431,6 @@
       ],
       "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/42470915/"
-    },
-    {
-      "pmid": "42468511",
-      "title": "A multicenter retrospective evaluation of treatment variation in patients with a blunt traumatic pneumothorax; noninvasive treatment versus tube thoracostomy (CONSTRAIN-Retro).",
-      "abstract": "**BACKGROUND**: There is no clear consensus to which extent noninvasive treatment can be used with regard to posttraumatic pneumothorax size. This results in treatment variation among physicians. This study primarily aimed to examine the current treatment variation in the management of unilateral pneumothorax after blunt trauma, varying in size. Secondarily, clinical outcomes were evaluated in patients with the greatest treatment variation.\n\n**METHODS**: This multicenter retrospective cohort study included adult patients admitted with unilateral pneumothorax following blunt trauma between January 1, 2021, and December 31, 2022. The primary outcome measure was the type of index treatment, and secondary outcome measures were secondary tube thoracostomy (TT), adverse events, and hospital length of stay.\n\n**RESULTS**: Of 275 eligible patients in the overall study population, 126 (45.8%) patients received noninvasive treatment, and 149 (54.2%) underwent TT. Treatment variation was greatest for pneumothorax sizes of 15% to 50%, defined as medium-sized pneumothorax (36.6% noninvasive and 63.4% TT). Secondary TT was performed in 14 (29.2%) patients with medium-sized pneumothorax. Hospital length of stay was shorter for the noninvasive group with medium-sized pneumothorax compared with the TT group, although this finding did not reach statistical significance after IPTW analysis (4\u00a0d vs. 5\u00a0d; p =0.313). No statistical difference was found for overall complications (32.8% vs. 30.2%; OR: 1.14 (95% CI: 0.40-3.28); p =0.811).\n\n**CONCLUSIONS**: In this study, noninvasive treatment was used in 45.8% of patients for managing pneumothorax after blunt trauma. Treatment variation was mainly seen for patients with pneumothorax sizes of 15% to 50%. Noninvasive treatment in patients with such medium-sized pneumothorax was associated with similar hospital length of stay and complication rates compared with TT, and deemed a safe treatment strategy. ( J Trauma Acute Care Surg . 2026;100: 863-870. Copyright \u00a9 2025 The Author(s). Published by Wolters Kluwer Health, LLC. on behalf of the American Association for the Surgery of Trauma.).\n\n**LEVEL OF EVIDENCE**: Therapeutic/Care Management; Level IV.",
-      "journal": "J Trauma Acute Care Surg",
-      "authors": [
-        "Hartman A",
-        "Vellekoop L",
-        "Van Delft CH",
-        "Verhofstad MHJ",
-        "Ayez N",
-        "Van Lieshout EMM",
-        "Wijffels MME"
-      ],
-      "date": "2026 Jul 16",
-      "doi": "10.1097/TA.0000000000005113",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "Thoracic"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "blunt trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "pneumothorax",
-          "strength": "strong",
-          "topic": "Thoracic"
-        },
-        {
-          "keyword": "thoracostomy",
-          "strength": "strong",
-          "topic": "Thoracic"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42468511/"
-    },
-    {
-      "pmid": "42468510",
-      "title": "To reverse or not to reverse: Direct oral anticoagulants in mild traumatic brain injury.",
-      "abstract": "**BACKGROUND**: The growing usage of direct oral anticoagulants (DOACs) has brought into question the need for pharmacologic reversal in patients who develop traumatic brain injuries (TBIs). While there are specific benefits in reversal for TBI patients on warfarin, the impact has not been clearly shown in DOAC populations. This study evaluated radiographic and clinical outcomes among patients with isolated mild TBIs to determine whether DOAC usage or its reversal confers measurable differences in early outcomes.\n\n**METHODS**: We conducted a retrospective review of adults (18 to 99\u00a0y) with isolated mild TBI (Glasgow Coma Scale: 13 to 15) after ground-level falls at a Level I trauma center from 2016 to 2024. The primary outcome was radiographic hemorrhage progression, defined as >2-mm increase in hemorrhage or need for >2 head computed tomographies within 24 hours. Secondary outcomes included Glasgow Coma Scale decline, intensive care unit length of stay, neurosurgical intervention, thromboembolic events, disposition, and inpatient mortality. Multivariable logistic regression and propensity score matching were used to evaluate associations between DOAC usage, reversal therapy, and outcomes.\n\n**RESULTS**: Among 273 patients, 96 (35%) were taking a DOAC, and of these, 41 received four-factor prothrombin complex concentrate and 18 received andexanet alfa. DOAC patients demonstrated similar rates of radiographic progression, intensive care unit length of stay, and discharge disposition compared with non-DOAC patients. In multivariate analysis, DOAC usage was not associated with increased radiographic progression, measured by subdural hemorrhage growth (47.5% vs. 44.8%; p = 0.70) or increased need for >2 computed tomography scans (49.1% vs. 48.9%, p = 1.00). Among DOAC users, reversal was also not associated with improved radiographic progression or secondary outcomes. No significant outcome differences were observed between reversal with four-factor prothrombin complex concentrate and andexanet alfa.\n\n**CONCLUSIONS**: In isolated mild TBI after ground-level falls, DOAC usage was not associated with worsened clinical outcomes or increased radiographic progression. Pharmacologic reversal offered no measurable benefit. These findings support selective reversal in stable mild TBI. ( J Trauma Acute Care Surg . 2026;00: 000-000 Copyright \u00a9 2026 Wolters Kluwer Health, LLC. All rights reserved.).\n\n**LEVEL OF EVIDENCE**: Therapeutic/Care Management; Level III.",
-      "journal": "J Trauma Acute Care Surg",
-      "authors": [
-        "Chen LB",
-        "Stiffler M",
-        "Pawar OS",
-        "Ross JT",
-        "Rushing AP"
-      ],
-      "date": "2026 Jul 17",
-      "doi": "10.1097/TA.0000000000005133",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "Haemorrhage",
-        "Systems/QI",
-        "TBI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "trauma centre",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "prothrombin complex",
-          "strength": "weak",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "traumatic brain injury",
-          "strength": "strong",
-          "topic": "TBI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42468510/"
-    },
-    {
-      "pmid": "42468197",
-      "title": "Risk of immediate and delayed intracranial hemorrhage after minor head trauma: DOACs vs warfarin vs no anticoagulation.",
-      "abstract": "**BACKGROUND**: Minor head trauma frequently prompts emergency department (ED) evaluation and raises concern for intracranial hemorrhage (ICH) in anticoagulated patients. Comparative data on outcomes among patients receiving direct oral anticoagulants (DOACs), warfarin, or no anticoagulation remain limited.\n\n**METHODS**: We conducted a multicenter retrospective cohort study using the TriNetX Global Collaborative Network (2014-2024). Adults (\u226518\u00a0years) presenting to the ED with minor head trauma who underwent head CT were included; patients with major or penetrating trauma or recent neurosurgery were excluded. Patients were classified as receiving a DOAC (apixaban, rivaroxaban, dabigatran, edoxaban), warfarin, or no anticoagulant within 7 days prior to presentation. Three pairwise propensity-score-matched comparisons were performed. The primary outcome was delayed ICH within 30\u00a0days after an initially negative head CT. Secondary outcomes included immediate ICH, 30-day mortality, neurosurgical intervention, seizure, transfusion, and ED recidivism.\n\n**RESULTS**: Among 1,819,568 encounters, 34,307 (1.9%) patients were on DOACs, 14,541 (0.8%) on warfarin, and 1,770,720 (97.3%) on neither. After matching, DOAC use was associated with lower immediate ICH (3.8% vs 5.0%; OR 0.74, 95% CI 0.67-0.83), delayed ICH (2.6% vs 3.3%; OR 0.79, 95% CI 0.69-0.91), and 30-day mortality (3.5% vs 4.4%; OR 0.80, 95% CI 0.71-0.90) compared with warfarin. Compared with no anticoagulation, DOAC use was not associated with differences in ICH or mortality.\n\n**CONCLUSION**: In adults with minor head trauma, DOAC use was associated with a more favorable safety profile than warfarin.",
-      "journal": "Am J Emerg Med",
-      "authors": [
-        "O'Brien J",
-        "Tucker R",
-        "Nene R",
-        "Brown J"
-      ],
-      "date": "2026 Jul 06",
-      "doi": "10.1016/j.ajem.2026.07.006",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Penetrating",
-        "TBI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "penetrating trauma",
-          "strength": "weak",
-          "topic": "Penetrating"
-        },
-        {
-          "keyword": "intracranial haemorrhage",
-          "strength": "strong",
-          "topic": "TBI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42468197/"
-    },
-    {
-      "pmid": "42468150",
-      "title": "Response to: \"CAB versus ABC in trauma resuscitation: When physiology meets selection bias\".",
-      "abstract": "",
-      "journal": "J Trauma Acute Care Surg",
-      "authors": [
-        "Choi D",
-        "Jung K"
-      ],
-      "date": "2026 Jul 16",
-      "doi": "10.1097/TA.0000000000005132",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "Prehospital"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "trauma resuscitation",
-          "strength": "strong",
-          "topic": "Prehospital"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42468150/"
     }
   ]
 }
