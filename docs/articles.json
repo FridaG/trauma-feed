@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-16T20:11:45.119703Z",
-  "total_articles": 214,
+  "generated": "2026-08-17T20:16:02.685229Z",
+  "total_articles": 212,
   "all_topics": [
     "Abdominal",
     "Burns",
@@ -379,6 +379,76 @@
   },
   "articles": [
     {
+      "pmid": "42606208",
+      "title": "Amount and Burden of Brain Tissue Hypoxia to Determine Clinical Efficacy of Secondary Decompressive Craniectomy After Moderate/Severe Traumatic Brain Injury.",
+      "abstract": "**BACKGROUND AND OBJECTIVES**: Optimal timing and patient selection for secondary decompressive craniectomy (DC) in traumatic brain injury (TBI) with refractory intracranial hypertension remain uncertain. Surgical indication is primarily based on intracranial pressure (ICP), without routinely incorporating brain tissue oxygen tension (PbtO2). Whether the severity and duration of cerebral hypoxia improve prognostic stratification for DC is unclear. We aimed to determine whether hypoxic burden and composite ischemic metrics integrating ICP and PbtO2 are associated with 6-month neurological outcome in patients with TBI undergoing secondary DC.\n\n**METHODS**: This retrospective study included 45 adults with isolated moderate-to-severe TBI who underwent DC for refractory intracranial hypertension (ICP >25 mm Hg for >60 minutes despite second-tier therapy) at 2 neurocritical care units. Continuous ICP and PbtO2 monitoring was performed. Hypoxic burden was defined as the duration and percentage of time spent with PbtO2 <15 mm Hg. Ischemic burden was calculated as pre-DC ICP \u00d7 % time with PbtO2 <15 mm Hg. Outcome at 6 months was assessed using the Glasgow Outcome Scale (favorable 4-5 vs unfavorable 1-3).\n\n**RESULTS**: Thirty patients (67%) achieved a favorable outcome. Favorable outcome was associated with higher admission PbtO2, shorter hypoxia duration (7.5 vs 15 hours, P = .017), and lower hypoxic burden (12.8% vs 70%, P < .001). Ischemic burden demonstrated good discrimination (area under the curve 0.831). In multivariable analysis using Firth penalized-likelihood logistic regression, greater change in PbtO2 (postadmission) independently predicted a favorable outcome (odds ratio 1.30 per mm Hg, P < .001), whereas higher ischemic burden was strongly associated with worse outcome (odds ratio 0.15 per 1-SD, P < .001).\n\n**CONCLUSION**: Severity and duration of cerebral hypoxia, particularly when integrated with ICP into an ischemic burden metric, are strongly associated with outcome after DC and may improve patient selection and timing for secondary decompression.",
+      "journal": "Neurosurgery",
+      "authors": [
+        "Lubillo S",
+        "Lopez P",
+        "Parrilla D",
+        "Blanco J",
+        "Morera J",
+        "Dominguez J",
+        "Rovegno M",
+        "Godoy DA"
+      ],
+      "date": "2026 Aug 17",
+      "doi": "10.1227/neu.0000000000004182",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "TBI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "traumatic",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic brain injury",
+          "strength": "strong",
+          "topic": "TBI"
+        },
+        {
+          "keyword": "decompressive craniectomy",
+          "strength": "strong",
+          "topic": "TBI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42606208/"
+    },
+    {
+      "pmid": "42605833",
+      "title": "Patterns of Online Medical Direction Utilization in an Urban EMS System: A Retrospective Analysis of 9,944 Consultations.",
+      "abstract": "**OBJECTIVES**: Emergency medical services (EMS) clinicians primarily rely on standing protocols for prehospital care but may seek real-time physician guidance through online medical direction (OLMD) when situations fall outside established protocols. This study aimed to characterize patterns of OLMD consultation, including indications, timing, and physician decision-making within an urban EMS system and identify potential opportunities for protocol refinement.\n\n**METHODS**: We used an observational study design and retrospective descriptive analysis of 9,944 OLMD consultation records from July 2016 to December 2024. Data included patient demographics, consultation timing, reasons for contact, physician type, refusal factors, specific requests, hospital destinations, and the training level of the EMS clinician initiating the consultation. Records were captured in real time using Research Electronic Data Capture (REDCap) software by physicians at the University Medical Center of El Paso. Descriptive statistics were used to summarize OLMD utilization and consultation characteristics.\n\n**RESULTS**: In line with required clinical protocols, the common OLMD consultations included refusals, termination of resuscitation, and transport decisions. Patient refusals accounted for 65% (n\u2009=\u20095,175) of OLMD consultations, with physician approval documented in 97% of these cases. Requests for termination of resuscitation and transport destination changes demonstrated approval rates of 98% and 90%, respectively. Most consultations involved adult patients with a balanced sex distribution. Call volume was highest during late morning hours. Approval rates were similar between attending physicians and resident physicians (approximately 93%).\n\n**CONCLUSIONS**: Within this urban border EMS system, OLMD consultations are most frequently requested for patient refusals and are associated with high levels of physician agreement. These findings suggest strong alignment between paramedic clinical judgment and physician decision-making and may support expansion of standing protocols for selected clinical scenarios. Continued physician involvement remains important for complex clinical and ethical situations.",
+      "journal": "Prehosp Emerg Care",
+      "authors": [
+        "Baker R",
+        "Soljacic F",
+        "Snow T",
+        "Khan N",
+        "Pasapula V"
+      ],
+      "date": "2026 Aug 17",
+      "doi": "10.1080/10903127.2026.2713129",
+      "tier": "filtered",
+      "topics": [
+        "Prehospital"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "prehospital",
+          "strength": "weak",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42605833/"
+    },
+    {
       "pmid": "42603602",
       "title": "Paediatric out-of-hospital cardiac arrest occurring before and after emergency medical service arrival: a retrospective study.",
       "abstract": "**AIM**: To examine the association between witness status and the incidence, characteristics, and survival outcomes of paediatric out-of-hospital cardiac arrest (OHCA) attended by emergency medical services (EMS).\n\n**METHODS**: We conducted a retrospective cohort study of paediatric (<18 years) OHCA cases attended by EMS between 1 January 2000 and 31 December 2024. Cases were identified from the Victorian Ambulance Cardiac Arrest Registry (VACAR). Witness status was categorised as unwitnessed, bystander witnessed, or EMS witnessed. Multivariable logistic regression was used to evaluate the association between witness status and outcomes, adjusting for age, sex, arrest location, region, aetiology, initial rhythm and year.\n\n**RESULTS**: A total of 2,645 paediatric OHCAs were attended by EMS, of which 1,891 (71.5%) received a resuscitation attempt. Among EMS-treated cases, 59.8% were unwitnessed, 32.0% were bystander witnessed, and 8.1% were EMS witnessed. The incidence of unwitnessed and bystander witnessed OHCA declined over the 25-year period (p<0.001), whereas EMS witnessed incidence remained stable. After adjustment, EMS witnessed arrests were associated with significantly higher odds of survival to hospital discharge (AOR 1.91, 95% CI 1.04-3.52) and prehospital ROSC (AOR 1.83, 95% CI 1.20-2.77) compared with bystander witnessed arrests, while unwitnessed arrests had substantially lower survival across all outcomes.\n\n**CONCLUSION**: Paediatric OHCA witnessed by EMS is associated with significantly higher adjusted odds of survival compared with bystander witnessed events. These findings highlight the importance of early professional intervention and support the need for paediatric-specific strategies to improve recognition and response to these events.",
@@ -568,7 +638,7 @@
         "Amos A"
       ],
       "date": "2026 Aug 1",
-      "doi": "10.1111/1742-6723.70330",
+      "doi": "10.1111/ans.14940",
       "tier": "filtered",
       "topics": [
         "General Trauma",
@@ -8285,152 +8355,6 @@
       ],
       "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/42472846/"
-    },
-    {
-      "pmid": "42470918",
-      "title": "Impact of MRI on the management of CT-defined AO spine A/B thoracolumbar fractures.",
-      "abstract": "**OBJECTIVES**: To assess the added value of emergency spine MRI compared with CT alone in patients with AO Spine A/B thoracolumbar trauma without neurological deficit, focusing on clinical management.\n\n**MATERIALS & METHODS**: This retrospective single-center study included consecutive trauma patients who underwent both CT and spine MRI between November 2023 and October 2025. CT served as the index test and MRI as the adjunct modality for fracture characterization and posterior ligamentous complex (PLC) assessment. MRI was performed according to an indication-driven institutional protocol. Changes in treatment strategy (conservative, minimally invasive, invasive) before versus after MRI were analyzed. Paired Wilcoxon signed-rank, McNemar, and symmetry tests were used as appropriate. Agreement was assessed using Cohen's \u03ba. Predictors of MRI-driven management change were explored using Fisher's exact test and multivariable logistic regression.\n\n**RESULTS**: A total of 158 patients were included (114 men; mean age, 35.8 \u00b1 12.4 years; range 18-59). MRI detected a higher number of fractured vertebrae than CT (2.2 \u00b1 1.8 vs. 1.5 \u00b1 1.0; p\u00a0<\u00a00.001). MRI led to a change in treatment strategy in 19 patients (12%), predominantly reflecting escalation of care (p\u00a0<\u00a00.001). Management change was driven by MRI-detected PLC injury in 17 patients (partial in 8, complete in 9), by occult spinal cord injury without clinical translation in 2 patients, and by both mechanisms simultaneously in 4 patients. AO Spine fracture classification changed after MRI in 39 patients (25%), reflecting substantial overall agreement between MRI and CT (\u03ba\u00a0=\u00a00.64; p\u00a0<\u00a00.001). MRI identified significantly more posterior ligamentous complex injuries (AO Spine type B) than CT when comparing fracture classification (48 vs. 16 patients; p\u00a0<\u00a00.001) and dedicated PLC status assessment (48 vs. 13 patients; p\u00a0<\u00a00.001). No CT-based variable remained independently associated with management change after adjustment.\n\n**CONCLUSION**: In selected patients with neurologically intact thoracolumbar trauma, emergency spine MRI modified therapeutic management in 12% of cases, primarily by revealing posterior ligamentous complex injuries and occult spinal cord findings not apparent on CT. These results support an indication-driven rather than systematic use of MRI.",
-      "journal": "Injury",
-      "authors": [
-        "Quilichini JB",
-        "Dien E",
-        "Ranc PA",
-        "Kilani V",
-        "Pavan LJ",
-        "Desalos K",
-        "Filippigh M",
-        "Bronsard N",
-        "Amoretti ME",
-        "Amoretti N"
-      ],
-      "date": "2026 Jul 16",
-      "doi": "10.1016/j.injury.2026.113499",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Spine"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "spinal cord injury",
-          "strength": "weak",
-          "topic": "Spine"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42470918/"
-    },
-    {
-      "pmid": "42470917",
-      "title": "Percutaneous fixation as definitive care for AO spine type B thoracolumbar fractures in polytrauma patients.",
-      "abstract": "**INTRODUCTION**: Percutaneous pedicle screw fixation is considered the standard treatment for thoracolumbar compression fractures. Its role in unstable injuries with anterior or posterior tension band lesion (AO Spine Type B) remains controversial, as open posterior fusion is traditionally recommended. In polytrauma patients, associated injuries and hemodynamic instability may increase the morbidity of open surgery and delay definitive treatment. In this setting, percutaneous stabilization offers a minimally invasive damage-control strategy, allowing restoration of spinal stability and early mobilization of the patient. This study evaluated the safety and mid-term clinical and radiological outcomes of percutaneous posterior stabilization in polytrauma patients with AO Spine Type B thoracolumbar fractures.\n\n**METHODS**: A retrospective analysis was performed on 43 consecutive polytrauma patients who underwent percutaneous pedicle screw fixation for a total of 48 thoracolumbar AO Spine type B fractures. Inclusion criteria required a minimum follow-up of 12 months. Patients with associated vertebral body fractures scoring \u22657 on the Load Sharing Classification were excluded. Operative time, blood loss and perioperative complications were recorded. Radiological follow-up assessed alignment maintenance, implant failure and hardware-related complications.\n\n**RESULTS**: Thirty-two patients were male, while the mean age was 47.9 years. Fracture distribution was as follows: B1 (27.1%), B2 (37.5%), and B3 (35.4%). No intraoperative or perioperative complications occurred. At a mean follow-up of 2.6 years, no proximal junctional kyphosis, mechanical implant failure, or infections were observed. Two patients (4.6%) showed an asymptomatic mild peri-screw osteolysis at one year. No cases required a revision surgery.\n\n**DISCUSSION**: In polytrauma patients, percutaneous pedicle screw fixation appears to be a safe and effective alternative to open fusion for AO Spine Type B fractures. The minimally invasive approach was associated with low surgical morbidity and enabled early mobilization. Mid-term outcomes support its role as definitive treatment, demonstrating maintained sagittal alignment and absence of clinically relevant hardware complications.\n\n**CONCLUSION**: Percutaneous pedicle screw fixation represents a reliable low-impact damage-control strategy in polytrauma patients with AO Spine Type B thoracolumbar fractures and showed favourable mid-term results consistent with definitive management.",
-      "journal": "Injury",
-      "authors": [
-        "Giorgi PD",
-        "Ramponi A",
-        "Legrenzi S",
-        "Villa F",
-        "Boeris D",
-        "Picano M",
-        "Colistra D",
-        "Bove F",
-        "Cenzato M",
-        "Schir\u00f2 GR"
-      ],
-      "date": "2026 Jul 16",
-      "doi": "10.1016/j.injury.2026.113503",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "polytrauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42470917/"
-    },
-    {
-      "pmid": "42470916",
-      "title": "Deep-learning CT reconstruction improves image quality but not diagnostic accuracy for sacral fragility fractures: MRI remains essential.",
-      "abstract": "**PURPOSE**: To determine whether modern deep-learning CT reconstruction improves trauma-relevant diagnostic performance for sacral fragility fractures (SFF) and whether optimized CT can reduce the need for MRI in routine clinical practice.\n\n**METHODS**: In this retrospective paired-reader study, 171 pelvic CT examinations with corresponding MRI (reference standard) were analyzed (fracture prevalence 63.2%). Two blinded readers independently assessed each dataset reconstructed using standard iterative reconstruction and deep-learning reconstruction (DLR). Binary fracture detection and qualitative image quality were recorded. Diagnostic performance was compared using paired statistical testing.\n\n**RESULTS**: DLR significantly improved perceived image quality and diagnostic confidence across all evaluated domains (p\u00a0<\u00a00.001). However, no significant differences were observed in sensitivity, specificity, or overall diagnostic accuracy between reconstruction techniques for either reader (all p\u00a0>\u00a00.65). Diagnostic accuracy exceeded 87% across all conditions. Missed fractures on CT were primarily associated with nondisplaced or marrow-based injuries detectable on MRI.\n\n**CONCLUSION**: Although advanced CT reconstruction improves image quality and reader confidence, it does not significantly enhance diagnostic accuracy for sacral fragility fractures. Even with optimized reconstruction techniques, CT cannot reliably exclude SFF. MRI therefore remains essential in patients with persistent clinical suspicion despite negative or equivocal CT findings.\n\n**LEVEL OF EVIDENCE**: Level III.",
-      "journal": "Injury",
-      "authors": [
-        "Naisan M",
-        "Brockstedt LA",
-        "Grebe AW",
-        "Joumah M",
-        "Kurz E",
-        "Hartung P",
-        "Othman AE",
-        "Sanner A",
-        "Richter M",
-        "Drees P",
-        "Brockmann MA",
-        "Steinmetz S"
-      ],
-      "date": "2026 Jul 16",
-      "doi": "10.1016/j.injury.2026.113504",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42470916/"
-    },
-    {
-      "pmid": "42470915",
-      "title": "Implementation of a thoracolumbar compression fracture remote review protocol safely reduces in-person spine consultations.",
-      "abstract": "**BACKGROUND**: Thoracolumbar compression fractures (TLCF) are often managed non-operatively with Thoracic-Lumbar-Sacral Orthosis (TLSO) bracing. This study evaluated the safety of a novel remote review protocol for non-operative TLCF management.\n\n**METHODS**: A single-center retrospective analysis was performed on adult trauma patients with acute TLCF. The PRE cohort (5/2022-4/2023) received formal bedside consultation, while the POST cohort (6/2023-6/2024) underwent remote review by an on-call spine surgery resident. The primary outcome was the incidence of TLCF-related complications.\n\n**RESULTS**: Of 120 patients, 79 (65.8%) were in the POST cohort. Demographics, injury mechanisms, vitals, and injury severity score were comparable between cohorts (all p\u00a0>\u00a00.05). Median time to discharge (PRE 28\u00a0h vs. POST 26\u00a0h, p\u00a0=\u00a00.61) was similar. No patients developed TLCF-related complications including neurological deficits or TLSO brace-related complications in either group.\n\n**CONCLUSIONS**: Implementation of a remote review protocol for low-risk acute TLCF appears safe with similar outcomes and time to discharge compared to traditional bedside consultation.\n\n**LEVEL OF EVIDENCE**: Level III.",
-      "journal": "Injury",
-      "authors": [
-        "Nie J",
-        "Di Gerolamo J",
-        "Truong N",
-        "Grigorian A",
-        "Nguyen PD",
-        "Chan A",
-        "Finney N",
-        "Hashmi S",
-        "Oh M",
-        "Nahmias J"
-      ],
-      "date": "2026 Jul 16",
-      "doi": "10.1016/j.injury.2026.113500",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "injury severity",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42470915/"
     }
   ]
 }
