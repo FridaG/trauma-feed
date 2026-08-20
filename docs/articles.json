@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-19T20:16:24.850041Z",
-  "total_articles": 197,
+  "generated": "2026-08-20T20:18:21.861723Z",
+  "total_articles": 189,
   "all_topics": [
     "Abdominal",
     "Burns",
@@ -378,6 +378,139 @@
     "Cochrane Database Syst Rev": "filtered"
   },
   "articles": [
+    {
+      "pmid": "42618393",
+      "title": "Modified HAS-BLED score for predicting delayed intracranial hemorrhage in DOAC-treated geriatric head trauma.",
+      "abstract": "**BACKGROUND**: Geriatric patients receiving direct oral anticoagulants (DOACs) are at risk of delayed intracranial hemorrhage (DICH) after head trauma despite an initially normal cranial CT. Clear guidance on observation and repeat imaging is lacking. This study evaluated the clinical utility of the modified HAS-BLED score for predicting DICH and informing follow-up imaging decisions.\n\n**METHODS**: This retrospective cohort study included 472 patients aged \u226565\u00a0years who were receiving DOACs, presented with blunt head trauma, and had a normal initial cranial CT. Clinical and laboratory data were extracted from electronic records. The modified HAS-BLED score was calculated for each patient. The primary outcome was DICH detected on follow-up imaging. Multivariable logistic regression and ROC analyses were performed.\n\n**RESULTS**: Delayed intracranial hemorrhage (DICH) occurred in 22 patients (4.7%). Patients with DICH were older and had lower eGFR and higher INR levels in univariate analysis. The modified HAS-BLED score was significantly higher in patients who developed DICH and remained an independent predictor in multivariable analysis. ROC analysis demonstrated good discriminative performance, with an AUC of 0.878 (95% CI 0.806-0.931), and a cut-off value of \u22653 provided a sensitivity of 90.9% and a specificity of 75.3% with a high negative predictive value for identifying low-risk patients.\n\n**CONCLUSION**: The modified HAS-BLED score is a strong independent predictor of delayed intracranial hemorrhage in geriatric DOAC users with head trauma. It may serve as a practical tool for early risk stratification, supporting selective rather than routine repeat imaging.",
+      "journal": "Am J Emerg Med",
+      "authors": [
+        "Damar \u00d6",
+        "Yaman M"
+      ],
+      "date": "2026 Aug 11",
+      "doi": "10.1016/j.ajem.2026.08.013",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "TBI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "intracranial haemorrhage",
+          "strength": "strong",
+          "topic": "TBI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42618393/"
+    },
+    {
+      "pmid": "42618180",
+      "title": "Whole Blood Versus Component Therapy for Out-of-Hospital Trauma Resuscitation: September 2026 Annals of Emergency Medicine Journal Club.",
+      "abstract": "",
+      "journal": "Ann Emerg Med",
+      "authors": [
+        "Carvey MMT",
+        "Hynes AM"
+      ],
+      "date": "2026 Sep 1",
+      "doi": "10.1016/j.annemergmed.2026.07.013",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Prehospital"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "trauma resuscitation",
+          "strength": "strong",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42618180/"
+    },
+    {
+      "pmid": "42617392",
+      "title": "High-dose melatonin for early tibial fracture healing: A prospective study of safety, feasibility, and preliminary biological effects.",
+      "abstract": "**BACKGROUND**: Tibial shaft fractures represent a prevalent orthopedic challenge, particularly in public health systems, due to delayed healing and limited access to biological adjuvants. Melatonin, a pleiotropic indoleamine with antioxidant and osteogenic properties, has demonstrated consistent efficacy in preclinical bone repair models; however, its clinical application, especially at pharmacological doses, remains poorly explored. This prospective controlled study evaluated the effects of high-dose melatonin (30\u00a0mg/day) on early bone healing, safety, and tolerability following reamed intramedullary nailing for diaphyseal tibial fractures.\n\n**METHODS**: Twenty-five adults (18-60 years) with closed tibial shaft fractures (AO/OTA 42-A/B/C) were sequentially allocated to a melatonin group (n\u00a0=\u00a012) or a standard care control group (n\u00a0=\u00a013), with nightly oral melatonin administered for 49 consecutive postoperative days. Primary outcomes included serum alkaline phosphatase (ALP) levels and the Radiographic Union Score for Tibial fractures (RUST) assessed at 21 and 49 days, while secondary outcomes encompassed adverse events, treatment adherence, and sleep quality.\n\n**RESULTS**: Both groups showed significant increases in ALP and RUST scores over time (p\u00a0<\u00a00.001), reflecting expected fracture healing progression; however, no significant between-group differences were observed for ALP (p\u00a0=\u00a00.324) or RUST scores (p\u00a0=\u00a00.261). The intervention was well tolerated, with high adherence (91.7%), no serious adverse events, and only one report of mild, transient daytime sleepiness.\n\n**CONCLUSION**: High-dose melatonin was safe and feasible but did not accelerate early biochemical or radiographic bone healing within the 49-day follow-up, supporting the need for larger randomized trials with longer follow-up and more sensitive biomarkers.",
+      "journal": "Injury",
+      "authors": [
+        "Ninomiya AF",
+        "Bertolucci V",
+        "Nonose N",
+        "Messias LO",
+        "Beck WR",
+        "Pejon TMM",
+        "de Almeida Guerreiro F",
+        "Domingues VM",
+        "de Godoy Baruel GJ",
+        "da Silva LFM",
+        "Scariot PPM",
+        "Messias LHD"
+      ],
+      "date": "2026 Aug 14",
+      "doi": "10.1016/j.injury.2026.113548",
+      "tier": "filtered",
+      "topics": [
+        "Orthopaedic"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "tibial fracture",
+          "strength": "strong",
+          "topic": "Orthopaedic"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42617392/"
+    },
+    {
+      "pmid": "42616134",
+      "title": "Multifocal necrotizing fasciitis: what makes it different? A German trauma center experience.",
+      "abstract": "**BACKGROUND**: Multifocal necrotizing fasciitis (MulNF) is a rare presentation of necrotizing fasciitis (NF) characterized by involvement of more than one non-contiguous anatomical site during the same disease episode. Comparative data between monofocal and multifocal NF remain limited.\n\n**METHODS**: We performed a retrospective single-center cohort study of patients treated for NF between 2015 and 2026. Patients were classified as MNF (single site) or MulNF (multiple non-contiguous sites) based on chart review. Demographics, comorbidities, microbiology, laboratory values, organ failure, ICU course, surgical burden, and outcomes were compared.\n\n**RESULTS**: Forty-seven patients were included, of whom five (10.6%) had multifocal NF. Four of these showed clearly synchronous non-contiguous involvement, whereas one developed a delayed second non-contiguous focus within the first four days of the same disease episode. Compared with MNF, MulNF was associated with higher ICU burden, more frequent mechanical ventilation, and a greater number of debridements and total operations. Higher rates of septic shock, hemodynamic failure, and renal replacement therapy were observed in MulNF. No deaths occurred in the small multifocal cohort, whereas 11/42 patients with monofocal NF died during hospitalization. Given the small multifocal sample size and multiple comparisons performed, all findings should be interpreted cautiously.\n\n**CONCLUSION**: In this single-center cohort, multifocal NF represented a rare but clinically severe disease pattern associated with greater ICU and surgical burden than monofocal NF. These findings support heightened clinical vigilance for additional non-contiguous foci and emphasize the importance of rapid diagnosis and repeated surgical assessment. Larger multicenter studies are needed to validate these exploratory observations and better define the clinical relevance and pathogenesis of multifocal NF.",
+      "journal": "Eur J Trauma Emerg Surg",
+      "authors": [
+        "Ke\u00dfler F",
+        "Frank J",
+        "St\u00f6rmann P",
+        "Wagner N",
+        "Saman AE",
+        "Marzi I",
+        "Leiblein M"
+      ],
+      "date": "2026 Aug 19",
+      "doi": "10.4269/ajtmh.2009.80.646",
+      "tier": "core",
+      "topics": [
+        "General Trauma",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "strong",
+          "topic": "Systems/QI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42616134/"
+    },
     {
       "pmid": "42615870",
       "title": "Research and Knowledge Translation Priorities for the Prehospital Care of Older Adults: A Modified Delphi Study.",
@@ -7404,413 +7537,6 @@
       ],
       "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/42485870/"
-    },
-    {
-      "pmid": "42485507",
-      "title": "Heterogeneity of treatment effect in balanced resuscitation of traumatic hemorrhage: An important clinical question but robust methodology is required.",
-      "abstract": "",
-      "journal": "J Trauma Acute Care Surg",
-      "authors": [
-        "Milford EM",
-        "Edwards F",
-        "Moran B",
-        "Patterson T",
-        "Arroyo D",
-        "Reade MC"
-      ],
-      "date": "2026 Jul 22",
-      "doi": "10.1097/TA.0000000000005146",
-      "tier": "core",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "traumatic",
-          "strength": "strong",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42485507/"
-    },
-    {
-      "pmid": "42485024",
-      "title": "Mechanical Thrombectomy in Ischemic Stroke With a Medium or Distal Arterial Occlusion: The DISCOUNT Randomized Clinical Trial.",
-      "abstract": "**IMPORTANCE**: Evidence regarding efficacy and safety of thrombectomy in acute ischemic stroke (AIS) due to medium or distal vessel occlusions (MDVOs) is lacking.\n\n**OBJECTIVE**: To evaluate the benefit of thrombectomy, in addition to medical treatment over medical treatment alone, in patients with an AIS related to a primary and isolated MDVO.\n\n**DESIGN, SETTING, AND PARTICIPANTS**: Randomized clinical trial conducted at 22 stroke centers in France from November 2021 to April 2025, with planned enrollment of 488 patients. The trial has been stopped after the planned interim analysis on the recommendation of the data and safety monitoring board for futility and increased rate of symptomatic intracranial hemorrhage with thrombectomy. Eligible adult patients had an AIS due to a primary MDVO within 8 hours of symptom onset or within 24 hours of last seen well if no hyperintense signal was present on fluid-attenuated inversion recovery imaging.\n\n**INTERVENTION**: Thrombectomy in addition to medical treatment (n\u2009=\u2009123) or medical treatment alone (n\u2009=\u2009121).\n\n**MAIN OUTCOMES AND MEASURES**: The primary end point was a good clinical outcome at 3\u2009months, defined as a modified Rankin Scale score of 0 to 2, assessed by an independent, blinded assessor. Secondary end points included mortality rate at 3 months and adverse and serious adverse events.\n\n**RESULTS**: Of the 244 patients randomized (median age, 75 years [IQR, 67-81]; 56% male; median National Institutes of Health Stroke Scale score, 8 [IQR, 6-12]), 100 of the 123 patients in the thrombectomy group (81%) received thrombectomy and none of the 121 patients in the control group received thrombectomy; 217 (89%) completed follow-up. At 3 months, 72 of 116 patients (62%) in the thrombectomy group had a good clinical outcome vs 81 of 119 patients (68%) in the control group (odds ratio, 0.73 [95% CI, 0.40-1.31]; P\u2009=\u2009.29; adjusted absolute difference, -6.8% [95% CI, -19.4% to 5.7%]). The incidence of symptomatic intracranial hemorrhages was higher among the 100 patients who actually received thrombectomy than in those who did not (11% vs 3%, P\u2009=\u2009.008), as was incidence of subarachnoid hemorrhages (13% vs 2%, P\u2009<\u2009.001) and embolus migration (5% vs 1%, P\u2009=\u2009.04). Mortality rate did not significantly differ between the 2 groups (6% vs 8%; P\u2009=\u2009.49).\n\n**CONCLUSIONS AND RELEVANCE**: Thrombectomy did not lead to a higher rate of good clinical outcome at 3 months compared with medical treatment alone in patients with acute ischemic stroke related to an MDVO. Hemorrhagic complications were more frequent after thrombectomy.\n\n**TRIAL REGISTRATION**: ClinicalTrials.gov Identifier: NCT05030142.",
-      "journal": "JAMA",
-      "authors": [
-        "Claren\u00e7on F",
-        "Bala F",
-        "Baptiste A",
-        "Pasi M",
-        "Marnat G",
-        "Sibon I",
-        "Gory B",
-        "Richard S",
-        "Pop R",
-        "Wolff V",
-        "Fauch\u00e9 C",
-        "Lamy M",
-        "Costalat V",
-        "Arquizan C",
-        "Rodriguez-R\u00e9gent C",
-        "Turc G",
-        "Cognard C",
-        "Fontaine L",
-        "Di Maria F",
-        "Lapergue B",
-        "Bricout N",
-        "Henon H",
-        "Tuilier T",
-        "Wittwer A",
-        "Alexandre PL",
-        "De Gaalon S",
-        "Spelle L",
-        "Denier C",
-        "Chabert E",
-        "Ferrier A",
-        "Rouchaud A",
-        "Macian-Montoro F",
-        "Soize S",
-        "Moulin S",
-        "Boisseau W",
-        "Sabben C",
-        "Barbier C",
-        "Boulanger M",
-        "Eker OF",
-        "Cho TH",
-        "Gentric JC",
-        "Timsit S",
-        "Labeyrie MA",
-        "Reiner P",
-        "Pico F",
-        "Durand-Zaleski I",
-        "Alamowitch S",
-        "Dechartres A"
-      ],
-      "date": "2026 Jul 22",
-      "doi": "10.1161/SVIN.125.002137",
-      "tier": "filtered",
-      "topics": [
-        "TBI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "intracranial haemorrhage",
-          "strength": "weak",
-          "topic": "TBI"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42485024/"
-    },
-    {
-      "pmid": "42484343",
-      "title": "A Tale of 2 Institutions: Differences in Sociodemographic Factors, Presenting Features, Treatment Characteristics, and Outcomes in Patients Undergoing Surgery for Spinal Metastases.",
-      "abstract": "**BACKGROUND AND OBJECTIVES**: The objective of this study was to compare sociodemographic factors, presenting characteristics, and outcomes between cohorts of patients receiving surgery for spinal metastases at 2 neighboring institutions, 1 private and 1 public, affiliated with a single major academic medical center in a large metropolitan area.\n\n**METHODS**: This analysis included all patients who underwent decompressive surgery for extradural spinal metastases. Sociodemographic factors, treatment characteristics, and outcomes were compared between those treated at a private hospital and a neighboring public hospital using Rao-Scott \u03c7 2 tests for categorical variables, Student t tests for continuous variables, and the Kaplan-Meier product-limit method for overall survival and progression-free survival.\n\n**RESULTS**: Compared with those treated at our private hospital, patients treated at our public hospital were more often younger ( P = .005), of Black or Hispanic race (72.6% vs 19%, P < .001), and uninsured (16% vs 5.6%, P = .005). They more frequently presented with epidural spinal cord compression grade 3 (76% vs 56.8%, P = .027), were nonambulatory before surgery (56.9% vs 13.5%, P < .001), and had increased neurological impairment as denoted by American Spinal Injury Association Impairment Scale grades of A, B, or C (39.2% vs 7.5%). Patients treated at our public hospital had shorter median follow-up time (92 vs 302.5 days, P = .004). Multivariate analysis did not reveal a significant difference in overall survival or progression-free survival between hospitals, instead demonstrating associations with primary tumor histology and number of spinal metastases ( P < .05).\n\n**CONCLUSION**: There were substantial disparities in sociodemographic factors, presenting local disease burden, and postoperative neurological outcome but no difference in survival outcome, between patients treated at our public and private hospitals. These findings underscore the need for more equitable screening, surveillance, and referral structures.",
-      "journal": "Neurosurgery",
-      "authors": [
-        "Khan HA",
-        "Palla A",
-        "Ashayeri K",
-        "McLaughlin L",
-        "Kurland DB",
-        "Frempong-Boadu A",
-        "Lau D",
-        "Laufer I",
-        "Pacione D"
-      ],
-      "date": "2026 Jul 22",
-      "doi": "10.1007/s40615-025-02615-2",
-      "tier": "filtered",
-      "topics": [
-        "Spine"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "spinal injury",
-          "strength": "weak",
-          "topic": "Spine"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42484343/"
-    },
-    {
-      "pmid": "42483935",
-      "title": "Prophylactic versus selective use of surfactant for preventing morbidity and mortality in preterm infants at risk of respiratory distress syndrome.",
-      "abstract": "**BACKGROUND**: Respiratory distress syndrome (RDS), or hyaline membrane disease, is a common condition in preterm infants (< 37 weeks' gestation) and a leading cause of neonatal morbidity and mortality. The risk is highest in extremely preterm (< 28 weeks) and very preterm (28 to < 31 weeks) infants due to immature lung and cardiovascular development. RDS results from a deficiency or dysfunction of pulmonary surfactant, which lines the alveoli to reduce surface tension, prevent atelectasis, and protect the lungs. Surfactant is primarily composed of dipalmitoylphosphatidylcholine (DPPC), other phospholipids, and four proteins that support its function, recycling, and innate lung defense. Surfactant replacement therapy improves lung compliance, reduces the need for ventilator support, and decreases the risk of pneumothorax, death, and the combined outcome of death or bronchopulmonary dysplasia. Its widespread use has substantially improved survival among preterm infants without increasing long-term neurological or developmental disability. Various surfactant preparations, including animal-derived, synthetic, and protein or peptide-containing formulations have been evaluated. Surfactant can be administered prophylactically immediately after birth or selectively once RDS develops. Both strategies are effective, with theoretical advantages and disadvantages. Prophylactic surfactant may prevent respiratory insufficiency, reduce the need for ventilator support, and distribute surfactant more evenly in fluid-filled lungs, lowering the risk of lung injury. Selective treatment targets only infants with clinical RDS, avoiding unnecessary therapy, potential risks, and costs for those who would not benefit. Administration methods include endotracheal tube, intubation with rapid extubation, thin catheter, laryngeal mask, hypopharyngeal deposition, and, more recently, aerosolized or nebulized approaches, though the effectiveness of the latter remains unproven. For this review, a prophylactic strategy refers to intubation and bolus surfactant administration immediately after birth, while selective therapy refers to administration once evidence of RDS is present. The effect of surfactant may differ in infants stabilized early on continuous positive airway pressure (CPAP) and those whose mothers received a complete course of antenatal corticosteroids. In these infants, the benefits of prophylactic surfactant appear less pronounced than in neonates who did not receive early CPAP or antenatal steroids. In this update, we explored these factors in subgroup analyses, as in the previous version of the review. Additionally, we examined how the threshold of FiO\u2082 (fraction of inspired oxygen) used to initiate selective treatment, as well as the method of surfactant administration, might influence the effect of the surfactant replacement strategies.\n\n**OBJECTIVES**: To compare the effect of prophylactic surfactant administration versus selective surfactant administration on morbidity and mortality in preterm infants at risk of respiratory distress syndrome (RDS).\n\n**SEARCH METHODS**: We searched CENTRAL, MEDLINE, Embase, and CINAHL on 31 January 2025. To identify any studies not captured by our search of bibliographical databases, we also searched clinical trial registers, conference proceedings, and reference lists of included studies and surfactant reviews.\n\n**SELECTION CRITERIA**: We included randomized controlled trials (RCTs) and quasi-RCTs comparing the effects of prophylactic surfactant administration in preterm infants at risk of RDS versus surfactant treatment of preterm infants with established RDS.\n\n**DATA COLLECTION AND ANALYSIS**: We used standard Cochrane methods. Our main outcomes were mortality, neurodevelopmental disability, and complications of preterm birth including pneumothorax and chronic lung disease. We performed meta-analysis and expressed our results using mean difference (MD), standardized mean difference (SMD), or risk ratio (RR), with 95% confidence intervals (CIs). We used GRADE to assess the certainty of the evidence.\n\n**MAIN RESULTS**: We identified 10 relevant individually randomized controlled trials (involving 3151 preterm infants). All trials were conducted in North America and Europe. Eight were conducted in the 1990s, and two were published more recently, at a time of greater use of antenatal steroids and nasal continuous positive airway pressure (CPAP). Nine trials were at risk of performance and detection bias. When all studies are considered, prophylactic surfactant probably results in little to no difference in the risk of chronic lung disease (CLD) at 36 weeks' postmenstrual age compared to selective use of surfactant (RR 1.13, 95% CI 1.00 to 1.28; I\u00b2 = 0%; RD 0.04, 95% CI 0.00 to 0.08; NNTH 25 95% CI 13 to > 1000; I\u00b2 = 0%; 5 trials, 1874 infants; moderate-certainty evidence). There may be little to no difference between the prophylactic and selective approaches in moderate to severe neurodevelopmental impairment (RR 0.83, 95% CI 0.57 to 1.21; 1 trial, 976 infants; I\n\n**AUTHORS' CONCLUSIONS**: Studies of prophylactic surfactant administration in infants at risk of developing RDS that were conducted prior to widespread use of maternal prenatal steroids and routine early stabilization on CPAP demonstrated a decreased risk of mortality and slight reduction in pneumothorax compared with selective surfactant use in infants with established RDS. However, larger trials that reflect current neonatal care practices do not support this finding. Instead, they show that, compared with selective surfactant administration in infants stabilized on CPAP, prophylactic surfactant likely results in little to no difference in the risk of chronic lung disease and slightly increases mortality.",
-      "journal": "Cochrane Database Syst Rev",
-      "authors": [
-        "Beijers RJ",
-        "Alonso-Fern\u00e1ndez S",
-        "Soll RF",
-        "Rojas-Reyes MX"
-      ],
-      "date": "2026 Jul 22",
-      "doi": "10.1002/14651858.CD000510",
-      "tier": "filtered",
-      "topics": [
-        "Thoracic"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "pneumothorax",
-          "strength": "weak",
-          "topic": "Thoracic"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42483935/"
-    },
-    {
-      "pmid": "42483532",
-      "title": "Impact of a rib fracture treatment protocol: a propensity score matching analysis.",
-      "abstract": "**BACKGROUND**: Rib fractures (RFx) increase morbidity, mortality, and resource utilization. This retrospective study aimed to evaluate the effectiveness of a novel RFx treatment protocol (RFTP) on patient outcomes.\n\n**STUDY DESIGN**: We included 3679 RFx patients admitted to a single level 1 trauma center between January 2011 and October 2018. The RFTP, launched as a computer physician order entry on October 25, 2016, included an escalating multimodal pain management, a standardized nursing assessment with interventions, and an atelectasis and mucus clearance regimen. Patients' characteristics and outcomes before and after the protocol were compared. Propensity score matching analysis was used to account for differences in baseline characteristics between groups. Intention-to-treat and protocol analyses were done. Outcome measures included mortality, length of stay (LOS), pulmonary complications, rapid response activations, and elevation in level of care.\n\n**RESULTS**: There were 2393 and 1286 patients treated in the pre-protocol and post-protocol time periods, respectively. Adherence rate to the RFTP was 53.3%. Multivariate adjustment showed a significant reduction in hospital LOS by 1.4\u2009days (95%\u2009CI 0.71 to 2.02), a significant decrease in the odds of requiring mechanical ventilation (OR 0.77, 95%\u2009CI 0.58 to 1.00)\u2009and rapid responses (OR 0.55, 95%\u2009CI 0.42 to 0.72). Comparison of the matched samples also showed a significant decrease in LOS (14.7\u2009days vs 11.2\u2009days, p<0.001), rapid responses (17.7% vs 12.8%, p=0.010), and mortality (10.7% vs 6.5%) in those treated using the RFTP in the post-protocol period. These findings were mostly substantiated on per-protocol analyses.\n\n**CONCLUSION**: The RFx protocol was associated with significant improvements in the LOS and a reduction in rapid responses required. In a severely morbid matched sample, the RFTP was also associated with reduced mortality. Multidisciplinary protocolized care of patients with RFx is associated with better outcomes.\n\n**LEVEL OF EVIDENCE**: Level III evidence (retrospective cohort study).",
-      "journal": "Trauma Surg Acute Care Open",
-      "authors": [
-        "Djanie T",
-        "Pfaff A",
-        "Miller C",
-        "Ata A",
-        "Stolarski AE",
-        "Evans L",
-        "Rosati C",
-        "Johnson M",
-        "Bartscherer A",
-        "Stain SC",
-        "Tafen M"
-      ],
-      "date": "2026 Jan 1",
-      "doi": "10.1016/j.injury.2018.03.037",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "Systems/QI",
-        "Thoracic"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "trauma centre",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "rib fracture",
-          "strength": "strong",
-          "topic": "Thoracic"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42483532/"
-    },
-    {
-      "pmid": "42483527",
-      "title": "Military medical readiness cannot be created on demand: a 'Seaworthy' test of the Military Health System's flagship.",
-      "abstract": "",
-      "journal": "Trauma Surg Acute Care Open",
-      "authors": [
-        "Van Gent JM",
-        "Kaminski C",
-        "Gurney J"
-      ],
-      "date": "2026 Jan 1",
-      "doi": "10.1097/TA.0000000000004063",
-      "tier": "core",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42483527/"
-    },
-    {
-      "pmid": "42483525",
-      "title": "Improving trauma care in Pakistan: a need for intervention-based studies.",
-      "abstract": "",
-      "journal": "Trauma Surg Acute Care Open",
-      "authors": [
-        "Broecker J",
-        "Sahi SL"
-      ],
-      "date": "2026 Jan 1",
-      "doi": "10.1136/bmjopen-2025-101071",
-      "tier": "core",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42483525/"
-    },
-    {
-      "pmid": "42482112",
-      "title": "Outcomes of anterior versus posterior rib fractures and surgical treatment: analysis of 249 patients.",
-      "abstract": "**BACKGROUND**: Traditionally, rib fracture severity has been quantified by fracture count and radiographic displacement. However, emerging evidence indicates that the outcomes following rib fractures widely vary and are not fully explained by injury burden alone. Whether anterior and posterior fracture locations lead to distinct recovery patterns remains unclear.\n\n**METHODS**: A prospective longitudinal cohort study involving patients with traumatic rib fractures was conducted. Fractures were classified as anterior or posterior based on radiographic location. Pain intensity and functional status were serially evaluated for up to 3 months. Multivariable analyses were conducted with adjustment for age, body mass index, injury severity score, fracture number, displacement severity, associated injuries, and surgical stabilization of rib fractures (SSRF).\n\n**RESULTS**: Fracture displacement severity and the number of fracture ribs independently predicted higher pain intensity. After adjustment, anterior and posterior fractures exhibited comparable pain trajectories over time. However, posterior fractures were linked to greater functional status improvement from 1 to 3 months. Surgical stabilization might be associated with greater early pain reduction and higher early functional scores but did not alter the long-term recovery slope. Early health status on day 14 strongly predicted 3-month outcomes, independent of baseline injury severity.\n\n**CONCLUSIONS**: The number of fracture ribs and displacement severity appear to reflect injury intensity, whereas fracture location may influence physiologic consequences. Posterior fractures show similar pain levels to anterior fractures but somewhat greater functional recovery.",
-      "journal": "World J Emerg Surg",
-      "authors": [
-        "Cheng YF",
-        "Huang CL",
-        "Chang YJ",
-        "Cheng CY",
-        "Chang CC",
-        "Wang BY"
-      ],
-      "date": "2026 Jul 21",
-      "doi": "10.1186/s13017-026-00715-w",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "Systems/QI",
-        "Thoracic"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "traumatic",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "injury severity",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "rib fracture",
-          "strength": "strong",
-          "topic": "Thoracic"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42482112/"
-    },
-    {
-      "pmid": "42480289",
-      "title": "Regional versus general anesthesia in volar plate fixation of distal radius fractures: An AO/OTA-stratified matched-pair analysis of radiographic reduction quality.",
-      "abstract": "**BACKGROUND**: Regional anesthesia is increasingly used for volar plate fixation of distal radius fractures and may offer advantages over general anesthesia. However, its association with radiographic reduction quality remains unclear. This study compared regional versus general anesthesia with respect to radiographic reduction quality and early clinical outcomes using an AO/OTA-stratified matched-pair design.\n\n**METHODS**: This single-center, retrospective study included operatively treated distal radius fractures from January 2016 to December 2024. A strict 1:1 matched-pair cohort compared regional anesthesia (RA; axillary brachial plexus block) with general anesthesia (GA), using exact matching on AO/OTA main type (A/B/C) and nearest-neighbor matching on a propensity score including age and sex. The primary outcome was radiographic reduction quality assessed across five radiographic parameters and summarized using a composite radiographic reduction quality score (0-5). Secondary outcomes were operative time, complications, Soong grade, and wrist flexion/extension at the last documented follow-up.\n\n**RESULTS**: Of 797 screened cases, 660 met inclusion criteria. The matched cohort comprised 112 pairs (A=48, B=13, C=51). In AO/OTA type A and B fractures, radiographic reduction quality did not differ between anesthesia groups. In AO/OTA type C fractures, reduction quality score was 3.96\u00b11.26 in the RA group and 4.43\u00b10.88 in the GA group (p\u00a0=\u00a00.021). Residual dorsal malreduction (volar tilt <0\u00b0) occurred significantly more frequently in the RA group than in the GA group (19.6% [10/51] vs 3.9% [2/51], p\u00a0=\u00a00.039). Among the remaining radiographic parameters, differences for radial inclination and radial height did not reach statistical significance (p\u00a0=\u00a00.064 and p\u00a0=\u00a00.057), whereas ulnar variance and intra-articular step-off were similar (p\u00a0=\u00a00.727 and p\u00a0=\u00a01.000). No differences were observed for any AO type in operative time, complication rate, Soong grade, or wrist motion.\n\n**CONCLUSION**: In this matched-pair analysis, regional versus general anesthesia was associated with differences in reduction quality in AO/OTA type C fractures, with residual dorsal tilt occurring more frequently in the RA group. While clinical outcomes were comparable between both groups early after injury, the residual dorsal tilt in AO/OTA type C fractures could lead to adverse long-term outcomes. Larger studies should confirm whether general anesthesia should be recommended for all complex fracture patterns.\n\n**LEVEL OF EVIDENCE**: Level III, Retrospective matched-pair analysis.",
-      "journal": "Injury",
-      "authors": [
-        "Pieringer A",
-        "Hinkelmann MA",
-        "Zumsteg J",
-        "Pape HC",
-        "Allemann F",
-        "Barthel C"
-      ],
-      "date": "2026 Jul 18",
-      "doi": "10.1016/j.injury.2026.113509",
-      "tier": "filtered",
-      "topics": [],
-      "keyword_matches": [],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42480289/"
-    },
-    {
-      "pmid": "42480288",
-      "title": "The influence of pelvic tilt on regional bone mineral density of the sacrum: A quantitative CT analysis.",
-      "abstract": "**BACKGROUND**: Spinopelvic alignment plays a crucial role in the biomechanical load distribution of the lumbosacral junction. Pelvic tilt (PT), as a key sagittal alignment parameter, reflects compensatory pelvic rotation and increases with age and degenerative spinal changes. While sacral insufficiency fractures represent a growing clinical problem in elderly populations, the relationship between pelvic orientation and regional sacral bone mineral density remains poorly understood.\n\n**PURPOSE**: To investigate the association between pelvic tilt and regional trabecular bone mineral density within the S1 vertebra using quantitative computed tomography (QCT).\n\n**METHODS**: In this retrospective study, 204 patients who underwent CT imaging of the spine and standing radiographs of the lumbar spine between 2017 and 2024 were analyzed. Trabecular volumetric bone mineral density (vBMD) was measured using QCT at five predefined anatomical regions within S1: right lateral mass of S1 (MLR), right sacral ala (ALR), vertebral body S1 (CS1), left sacral ala (ALL), and left lateral mass of S1 (MLL). Pelvic tilt was measured on standing lateral radiographs. Associations between pelvic tilt, bone mineral density, age, and sex were assessed using correlation analysis and multivariable linear regression.\n\n**RESULTS**: Pelvic tilt increased significantly with age and was higher in women than in men. Trabecular bone mineral density decreased across all measured regions with increasing age. Pearson correlation analysis demonstrated a significant negative association between pelvic tilt and vBMD at all anatomical regions. After adjustment for age and sex, pelvic tilt remained an independent negative predictor of bone mineral density at ALR, CS1, and ALL.\n\n**CONCLUSION**: Pelvic tilt is associated with regional variations in sacral bone mineral density, particularly in the sacral alae and the S1 vertebral body. These findings suggest that sagittal spinopelvic alignment is associated with regional differences in trabecular bone density within the sacrum.",
-      "journal": "Injury",
-      "authors": [
-        "Klockner FS",
-        "von Stosch D",
-        "J\u00e4ckle K",
-        "Malik HA",
-        "Roch J",
-        "Meier MP",
-        "Lehmann W",
-        "Weiser L"
-      ],
-      "date": "2026 Jul 17",
-      "doi": "10.1016/j.injury.2026.113517",
-      "tier": "filtered",
-      "topics": [],
-      "keyword_matches": [],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42480288/"
-    },
-    {
-      "pmid": "42480287",
-      "title": "Prehospital pelvic binder use and transfusion requirements in patients with pelvic fractures: A nationwide propensity-matched cohort study.",
-      "abstract": "**PURPOSE**: Pelvic binders are recommended for suspected pelvic fractures to provide early stabilization and hemorrhage control, but robust comparative evidence regarding their real-world impact on transfusion requirements and subsequent hemorrhage-control strategies remains limited. We evaluated the association between prehospital pelvic binder use, early transfusion requirements, and pelvic angioembolization in a nationwide trauma registry.\n\n**METHODS**: We conducted a retrospective cohort study using the Japan Trauma Data Bank from 2019 to 2023. Adult patients with blunt pelvic fractures were included. One-to-three propensity score matching was used to adjust for confounding by indication. The primary outcome was 24-hour red blood cell transfusion volume. Secondary outcomes included in-hospital mortality and hemorrhage-control interventions, particularly pelvic angioembolization. Multivariable regression analyses and mixed-effects models were used to assess associations between prehospital pelvic binder use and outcomes.\n\n**RESULTS**: Among 10,332 eligible patients, 182 patients (1.8%) received a prehospital pelvic binder. After matching, 182 patients with prehospital pelvic binder use and 546 controls were analyzed. Median 24-hour red blood cell transfusion volume did not differ significantly between groups (2.0 [interquartile range, 0.0-10.0] vs. 0.0 [0.0-8.0] units; P\u00a0=\u00a00.486), and regression analyses showed no independent association between prehospital pelvic binder use and transfusion volume. In-hospital mortality was similar between groups. In contrast, prehospital pelvic binder use was associated with a higher rate of pelvic angioembolization (33.0% vs. 21.2%; odds ratio, 1.82; 95% confidence interval, 1.24-2.66; P\u00a0=\u00a00.002). Subgroup analyses, including patients with acetabular and proximal femur fractures, showed no evidence of effect modification.\n\n**CONCLUSION**: In this nationwide propensity-matched cohort of patients with blunt pelvic fractures, prehospital pelvic binder use was not associated with reduced 24-hour transfusion requirements or in-hospital mortality, but was associated with a higher rate of pelvic angioembolization. These findings suggest that prehospital pelvic binder use may influence, or reflect differences in, subsequent hemorrhage-control strategies rather than directly reducing transfusion requirements.",
-      "journal": "Injury",
-      "authors": [
-        "Matsumoto S",
-        "Aoki M",
-        "Shimizu M"
-      ],
-      "date": "2026 Jul 19",
-      "doi": "10.1016/j.injury.2026.113501",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Pelvic",
-        "Prehospital",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "pelvic binder",
-          "strength": "strong",
-          "topic": "Pelvic"
-        },
-        {
-          "keyword": "prehospital",
-          "strength": "strong",
-          "topic": "Prehospital"
-        },
-        {
-          "keyword": "trauma registry",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42480287/"
-    },
-    {
-      "pmid": "42480228",
-      "title": "Delayed intestinal perforation caused by overheated peritoneal dialysate: A disease prone to missed diagnosis and misdiagnosis.",
-      "abstract": "**BACKGROUND**: Thermal injury caused by overheated peritoneal dialysis fluid is extremely rare and often overlooked. However, delayed intestinal perforation is life-threatening and associated with high mortality. We report a fatal case of delayed bowel perforation caused by overheated peritoneal dialysis fluid resulting from a dialysate warmer malfunction, highlighting the diagnostic challenges.\n\n**CASE REPORT**: A 62-year-old woman receiving continuous ambulatory peritoneal dialysis (CAPD) for 8\u00a0years presented with abdominal pain 1\u00a0h after intraperitoneal infusion of dialysate inadvertently heated to 49\u00a0\u00b0C because of a dialysate warmer malfunction. Initial peritoneal effluent analysis was unremarkable, whereas abdominal CT revealed a small amount of free intraperitoneal air. As her symptoms improved, she was discharged without specific treatment. Nine days later, she returned with abdominal pain and fever and was admitted with presumed peritoneal dialysis-associated peritonitis. Intraperitoneal antibiotics were initiated, with initial clinical improvement. She subsequently developed severe abdominal pain, high fever, and feculent peritoneal effluent. Repeat abdominal CT confirmed bowel perforation. Surgery was recommended but declined by her family. She was discharged against medical advice and died shortly thereafter. WHY SHOULD EMERGENCY PHYSICIANS BE AWARE OF THIS ENTITY?: Overheated peritoneal dialysate can cause delayed bowel perforation with subtle early manifestations. In patients receiving peritoneal dialysis who present with abdominal pain, clinicians should ask how the dialysate was heated and whether it felt unusually hot. If thermal injury is suspected, prompt abdominal CT, discontinuation of peritoneal dialysis, antibiotics, and early surgical consultation are essential.",
-      "journal": "Am J Emerg Med",
-      "authors": [
-        "Zhang L",
-        "Li J",
-        "Zhu J",
-        "Zhang C",
-        "Pei H"
-      ],
-      "date": "2026 Jul 15",
-      "doi": "10.1016/j.ajem.2026.07.027",
-      "tier": "filtered",
-      "topics": [
-        "Burns"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "thermal injury",
-          "strength": "weak",
-          "topic": "Burns"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42480228/"
     }
   ]
 }
