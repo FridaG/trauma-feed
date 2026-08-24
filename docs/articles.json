@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-23T20:11:46.225240Z",
-  "total_articles": 188,
+  "generated": "2026-08-24T20:19:19.859911Z",
+  "total_articles": 187,
   "all_topics": [
     "Abdominal",
     "Burns",
@@ -378,6 +378,37 @@
     "Cochrane Database Syst Rev": "filtered"
   },
   "articles": [
+    {
+      "pmid": "42635359",
+      "title": "Diagnostic Imaging in Pediatric Trauma: Time for Reassessment.",
+      "abstract": "",
+      "journal": "J Am Coll Surg",
+      "authors": [
+        "Haydon KL",
+        "Gosain AK"
+      ],
+      "date": "2026 Aug 24",
+      "doi": "10.1097/XCS.0000000000002108",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Paediatric"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "paediatric trauma",
+          "strength": "strong",
+          "topic": "Paediatric"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42635359/"
+    },
     {
       "pmid": "42632352",
       "title": "Comparative efficacy of the femoral neck system, cannulated cancellous screws combined with medial buttress plate, and cannulated cancellous screws in the treatment of femoral neck fractures in young and middle-aged adults.",
@@ -7396,77 +7427,6 @@
       ],
       "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/42507131/"
-    },
-    {
-      "pmid": "42501573",
-      "title": "Survival and quality of life after treatment of geriatric odontoid fractures.",
-      "abstract": "**BACKGROUND**: Odontoid fractures are the most common cervical spine injuries in geriatric patients and are associated with substantial morbidity and mortality. Their incidence is increasing with population aging. Optimal management remains controversial, particularly due to poor bone quality and comorbidities in this patient group. While surgical treatment is associated with lower nonunion rates, its impact on survival and patient-reported outcomes is unclear.\n\n**METHODS**: This retrospective single-center study included patients with odontoid fractures who were treated conservatively or surgically between 2017 and 2020. Demographic and clinical data were obtained from medical records. Survival was analyzed using Kaplan-Meier estimates and Cox regression. Health-related quality of life was evaluated in surviving patients using Visual Analog Scale (VAS), Neck Disability Index (NDI), and Short Form-36 (SF-36) questionnaires. Comorbidity burden was determined using the age-adjusted Charlson Comorbidity Index (CACI).\n\n**RESULTS**: A total of 93 patients were included. The mean age was 78.9 \u00b1 13.7 years, and 75% of fractures were Type II. Surgical treatment was performed in 59% of patients, whereas 41% received conservative management, primarily due to comorbidities. The 1-year mortality rate was 26.9% and increased with age and comorbidity burden. Higher CACI scores and conservative treatment were associated with reduced survival. Among 40 respondents, pain levels were low (mean VAS 2.5 \u00b1 2.4). Conservatively treated patients reported significantly lower pain and higher SF-36 scores, while no significant differences were observed in NDI between groups.\n\n**CONCLUSION**: Odontoid fractures in geriatric patients are associated with substantial morbidity and mortality. Surgical treatment showed improved survival, whereas conservative management resulted in better patient-reported quality of life. These findings emphasize a clinically relevant contrast and support individualized, patient-centered treatment decisions based on comorbidity burden and overall patient condition.",
-      "journal": "Injury",
-      "authors": [
-        "Oberth\u00fcr S",
-        "Singer AK",
-        "Roch PJ",
-        "Weiser L",
-        "Lehmann W",
-        "Sehmisch S"
-      ],
-      "date": "2026 Jul 22",
-      "doi": "10.1016/j.injury.2026.113534",
-      "tier": "filtered",
-      "topics": [],
-      "keyword_matches": [],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42501573/"
-    },
-    {
-      "pmid": "42501572",
-      "title": "Fracture orthopedic risk of non-home discharge score II (FORD-II).",
-      "abstract": "**INTRODUCTION**: Post-acute placement after fracture trauma is a major driver of hospital length of stay and cost, but discharge needs are often identified late. We developed and validated the Fracture Orthopedic Risk of Non-Home Discharge score, version II (FORD-II), as an admission-time tool to identify adult fracture-trauma patients likely to require post-acute placement.\n\n**METHODS**: We performed a retrospective development and held-out validation study using the National Trauma Data Bank from 2019 to 2024. Adults with International Classification of Diseases, Tenth Revision fracture diagnoses and classifiable discharge dispositions were included. The primary outcome was non-home discharge to inpatient rehabilitation, skilled nursing facility, long-term acute care hospital, or intermediate care. FORD-II was derived from 41 admission-time predictors using least absolute shrinkage and selection operator regression, converted to a 0-to-10 integer score, locked after derivation, and validated without recalibration. Discrimination and calibration were compared with the original Fracture Orthopedic Risk of Non-Home Discharge score (FORD-I), Geriatric Trauma Outcome Score II, and Trauma Risk Adjusted In-hospital Geriatric Evaluation Score. A hospital-perspective budget-impact analysis explored the potential cost implications of using FORD-II to trigger early discharge planning.\n\n**RESULTS**: Among 1952,210 encounters, 1301,473 were assigned to derivation and 650,737 to validation; 39.9% had non-home discharge. FORD-II retained 16 predictors and achieved an area under the receiver operating characteristic curve of 0.8285 (95% confidence interval, 0.8275-0.8295), exceeding FORD-I (0.7749), Geriatric Trauma Outcome Score II (0.7940), and Trauma Risk Adjusted In-hospital Geriatric Evaluation Score (0.7446; all P\u00a0<\u00a0.001). Calibration was strong, with intercept 0, slope 1, and Brier score 0.164. Observed non-home discharge increased from 7.29% in low-risk patients to 80.47% in high-risk patients. In the exploratory budget-impact model, FORD-II-guided early discharge planning was projected to save $362.25 per patient.\n\n**CONCLUSIONS**: FORD-II is an admission-time score derived from a United States national trauma registry that accurately stratified risk of non-home discharge after adult fracture trauma. Its high-risk category identifies patients who may benefit from earlier case management, rehabilitation assessment, family counseling, and post-acute placement planning. As a United States-derived tool, FORD-II requires external validation before adoption in other trauma systems.",
-      "journal": "Injury",
-      "authors": [
-        "Salman SG",
-        "Phadke R",
-        "Carlin T",
-        "Ramirez J",
-        "Mendez-Reyes JE",
-        "Hoffman MK",
-        "Leonard J",
-        "Davis RW",
-        "Ward JL",
-        "Vera RM",
-        "Silberfein EJ",
-        "Rana A",
-        "Atassi OH",
-        "Perkins CH",
-        "Dawson JR",
-        "Wilson C",
-        "Fitzgerald CA",
-        "Seger CP",
-        "Zielinski MD",
-        "Mattox KL",
-        "Dumas RP"
-      ],
-      "date": "2026 Jul 23",
-      "doi": "10.1016/j.injury.2026.113527",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "trauma registry",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42501572/"
     }
   ]
 }
