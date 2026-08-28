@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-26T22:36:22.870465Z",
-  "total_articles": 211,
+  "generated": "2026-08-28T03:55:38.931252Z",
+  "total_articles": 190,
   "all_topics": [
     "Abdominal",
     "Burns",
@@ -379,6 +379,214 @@
   },
   "articles": [
     {
+      "pmid": "42658290",
+      "title": "The impact of pre- versus postoperative geriatric consultation in elderly patients with hip fractures.",
+      "abstract": "**PURPOSE**: To determine whether preoperative geriatric consultation was independently associated with lower incidence of delirium for elderly patients with hip fractures compared with postoperative geriatric consultation.\n\n**METHODS**: This retrospective cohort study was conducted at two urban Level 1 trauma centers in the United States. Patients aged\u2009\u2265\u200970 years with isolated proximal femur fractures treated surgically between 2018 and 2024 were included. Patients with pathological or periprosthetic fractures, non-orthopedic admissions, and those without geriatric consultation were excluded. Patients were categorized based on timing of initial geriatric consultation: preoperative versus postoperative. Delirium was selected as the primary outcome because geriatric consultation most directly addresses modifiable delirium risk factors. Secondary outcomes included the incidence of one or more in-hospital complications, length of stay, 30-day all-cause readmissions, and mortality. Multivariable logistic and linear regression analyses were used to determine the independent association between timing of initial geriatric consultation and primary and secondary outcomes.\n\n**RESULTS**: Of 1776 patients included, 1382 (78%) received initial geriatric consultation preoperatively and 394 (22%) postoperatively. Median age was 84 years (IQR 78-90), 70% were female, 73% ASA III, and 87% lived at home pre-admission. Delirium occurred in 19.7% in the preoperative vs. 19.5% in the postoperative groups. After adjustment, consultation timing was not independently associated with delirium (aOR\u2009=\u20091.09, 95%-CI\u2009=\u20090.81-1.47, p=.567).\n\n**CONCLUSIONS**: Preoperative versus postoperative initial geriatric consultation was not independently associated with delirium incidence and produced comparable short-term clinical outcomes.\n\n**LEVEL OF EVIDENCE**: Prognostic Level III.",
+      "journal": "Eur J Trauma Emerg Surg",
+      "authors": [
+        "Aydin FB",
+        "Laane DWPM",
+        "van Rossum du Chattel A",
+        "DiStefano MT",
+        "King AH",
+        "Wignakumar T",
+        "Nwagbata A",
+        "van der Velde D",
+        "van Delden JJM",
+        "Weaver MJ"
+      ],
+      "date": "2026 Aug 27",
+      "doi": "10.1007/s00402-019-03294-5",
+      "tier": "core",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42658290/"
+    },
+    {
+      "pmid": "42658233",
+      "title": "Volume-dependent detection of free intraperitoneal fluid by FAST: a prospective in-vivo study with sequential fluid instillation.",
+      "abstract": "**PURPOSE**: To assess the volume-dependent sensitivity of the Focused Assessment with Sonography for Trauma (FAST) and to analyse regional detection performance under controlled in-vivo conditions.\n\n**METHODS**: In this prospective single-centre study, sequential intraperitoneal instillation of 0.9% NaCl (250-1500 mL) was performed during elective laparoscopic procedures in 35 adults. Standardised FAST examinations were conducted by two experienced sonographers using transverse and longitudinal views of Morison's pouch, the Douglas recess, and Koller's space. Sensitivity was calculated for each instilled volume and anatomical region. Specificity could not be assessed due to the experimental design with mandatory fluid presence. Regional differences were tested using one-way ANOVA, and a Monte Carlo simulation (1000 resamples) evaluated detection stability across body-mass-index (BMI) groups.\n\n**RESULTS**: FAST sensitivity increased with volume: 14.3% (95% CI 4.8-30.3) at 250 mL, 37.1% (21.5-55.1) at 500 mL, 74.3% (56.7-87.5) at 1000 mL, and 91.4% (76.9-98.2) at 1500 mL. The highest detection rate occurred in Morison's pouch, followed by the Douglas and Koller recesses. Longitudinal scanning of the Douglas pouch improved sensitivity by >\u200920% compared with the transverse view. ANOVA confirmed significant regional variability (F(5, 153)\u2009=\u20094.37, p\u2009=\u20090.001, \u03b7\u00b2 = 0.125). Detection rates declined in participants with BMI\u2009\u2265\u200930\u00a0kg/m\u00b2 non-significantly, while instilled volume remained the dominant predictor (OR\u2009>\u200920 for 1500 mL vs. 250 mL).\n\n**CONCLUSIONS**: FAST sensitivity is strongly volume-dependent, with reliable detection achieved only beyond 1000 mL. Incorporating longitudinal pelvic views-particularly of the Douglas pouch-significantly enhances diagnostic accuracy. These findings support refinement of FAST training and underscore the need for clinical correlation and adjunct imaging when FAST results are negative in unstable trauma patients.",
+      "journal": "Eur J Trauma Emerg Surg",
+      "authors": [
+        "G\u00fcsgen C",
+        "Nada A",
+        "Kornek MT",
+        "Willms A",
+        "Schaaf S"
+      ],
+      "date": "2026 Aug 27",
+      "doi": "10.1177/000313481908500849",
+      "tier": "core",
+      "topics": [
+        "General Trauma",
+        "Imaging"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "focused assessment with sonography",
+          "strength": "weak",
+          "topic": "Imaging"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42658233/"
+    },
+    {
+      "pmid": "42658232",
+      "title": "When demography challenges policy: the rising burden of proximal femur fractures as a role model and driver for geriatric trauma care in Germany.",
+      "abstract": "**PURPOSE**: Germany's hospital reforms will substantially reshape service delivery and capacity planning. Proximal femur fractures (PFFs), the most frequent geriatric fractures, are highly sensitive to demographic aging and therefore serve as a model condition to assess future healthcare system requirements.\n\n**METHODS**: Nationwide inpatient data from the German Federal Statistical Office (2000-2023) were analyzed for proximal femur fractures (ICD-10-GM S72.0-S72.2). Demographic projections up to 2050 were combined with Poisson regression, exponential smoothing, and autoregressive integrated moving average models to forecast future incidence and case numbers. Model performance was evaluated in a hold-out period (2016-2023) using mean absolute percentage error and root mean square error. Direct costs were estimated using the official German cost-of-illness framework. Staffing and hospital bed requirements were derived from case-based activity times, profession-specific full-time equivalent coefficients, and observed department-specific occupancy rates.\n\n**RESULTS**: Between 2000 and 2023, annual proximal femur fracture cases in Germany increased from 118,243 to 182,447 (+\u200954.3%). Forecasts project a rise to 317,877 cases by 2050 (95% CI 262,436-373,317), corresponding to an increase of approximately 75% compared with 2023. Patients aged\u2009\u2265\u200980 years are projected to account for 74% of all cases. The mean projected incidence will rise to 391 per 100,000 inhabitants (95% CI 322-459), with the strongest relative increases in eastern federal states. The total economic burden is projected to increase from \u20ac3.2\u00a0billion in 2023 to \u20ac6.39\u00a0billion in 2050. To meet future demand, the model indicates additional requirements of approximately 700 trauma surgeons, 7,500 geriatricians, and substantial increases in nursing, rehabilitation, and therapy capacity. Trauma bed requirements are projected to increase from 18,762 to 26,960, while geriatric rehabilitation beds are projected to almost double.\n\n**CONCLUSION**: Proximal femur fractures expose critical future gaps in capacity, workforce, and regional access to care. Early and targeted policy action will be required to preserve timely, guideline-conforming geriatric trauma care under demographic aging and structural hospital reform.",
+      "journal": "Eur J Trauma Emerg Surg",
+      "authors": [
+        "Klug A",
+        "M\u00fcnzberg M",
+        "Sibbel R"
+      ],
+      "date": "2026 Aug 27",
+      "doi": "10.1089/tmj.2023.0708",
+      "tier": "core",
+      "topics": [
+        "General Trauma",
+        "Orthopaedic"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "femur fracture",
+          "strength": "weak",
+          "topic": "Orthopaedic"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42658232/"
+    },
+    {
+      "pmid": "42648019",
+      "title": "Professional obstacles: A perception-based survey of women members of AO trauma - Latin America.",
+      "abstract": "**PURPOSE**: Orthopaedic surgery remains one of the most homogenous fields in medicine, with men accounting for over 95% of all orthopaedic surgeons worldwide. Regardless of age, experience, or academic achievement, women orthopedists have historically been underrepresented in leadership positions, academic medicine, and specialty societies and associations. While these trends are recognized globally, limited studies examine gender-based dynamics in Latin America. This perception-based survey aims to bring awareness to the experiences and challenges of women members of AO Trauma Latin America (AO T Lat).\n\n**METHODS**: A questionnaire evaluating the experiences and challenges of women orthopedic surgeons was designed in collaboration with AO T Lat and several national Latin American orthopaedic societies. The questionnaire was divided into sections: demographics, motivations and opportunities, challenges and barriers, and AO-faculty-specific questions utilizing a 5-point Likert scale to rank items. The survey was distributed to women orthopaedic surgeons identified through AO T Lat, national orthopaedic societies, and professional networks throughout Latin America.\n\n**RESULTS**: 116 women responded to the survey, representing current or former AO T Lat members from 16 Latin American countries. Intellectual stimulation and personal gratification and desire to work \"hands-on\" were the strongest motivators for specializing in orthopaedics (91%). Most respondents agreed with statements that they felt supported, included, and equal as women in AO Trauma, although there was a wide distribution of scores pertaining to these perceptions. Argentina, Colombia, Guatemala, and Mexico had sufficient respondents to evaluate statistically significant differences between these countries. The extent to which respondents felt included in their national AO chapter varied significantly between countries (p\u00a0=\u00a00.022), as did the perceived equality for faculty opportunities between men and women within the respondents' country (p\u00a0=\u00a00.05).\n\n**CONCLUSION**: Perspectives expressed by women members of Latin America's largest international orthopaedic trauma surgeon organization, AO T Lat, provide insight into their views on the support they receive and the biases they experience. Understanding these perceptions will assist in developing strategies for the continued diversification of the field of orthopaedic trauma, in Latin America and other regions globally.",
+      "journal": "Injury",
+      "authors": [
+        "Medina C",
+        "Arroyo-Berezowsky C",
+        "Oberlohr V",
+        "Amaral A",
+        "Calcado I",
+        "Gelvez AG",
+        "Tobia R",
+        "Rodarte P",
+        "Ricci C",
+        "Miclau T",
+        "MacKechnie MC",
+        "Cubecino A",
+        "S\u00e1ez LE",
+        "Valladares I",
+        "Giordano V"
+      ],
+      "date": "2026 Aug 03",
+      "doi": "10.1016/j.injury.2026.113546",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Orthopaedic"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "orthopaedic trauma",
+          "strength": "weak",
+          "topic": "Orthopaedic"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42648019/"
+    },
+    {
+      "pmid": "42648018",
+      "title": "Association of CT-derived adipose measurements with prolonged intensive care unit stay in moderate and severe trauma patients.",
+      "abstract": "**BACKGROUND**: Obesity as measured by body mass index (BMI) has been associated with worse clinical outcomes in moderate and severe trauma patients. However, while BMI does not differentiate between different fat compartments, routine CT-derived body composition provides detailed assessment and may thus provide more accurate risk assessment.\n\n**METHODS**: 200 eligible patients with moderate or severe trauma (injury severity score (ISS)\u2265\u202f9 from a level-1 trauma center were retrospectively identified and assembled into a 1:1 matched cohort (obese, BMI \u2265 30\u202fkg/m vs. non-obese, BMI < 30\u202fkg/m\u00b2), with exact matching on sex and close balancing on age and ISS. Patients with low quality CT imaging (n\u202f=\u202f10), without intensive care unit (ICU) stay (n\u202f=\u202f27) and death while hospital stay (n\u202f=\u202f21) were excluded. CT-derived body composition measures including visceral adipose tissue (VAT), subcutaneous adipose tissue (SAT), their respective indices (VATI, SATI) and a combined abdominal fat tissue index (AATI) were assessed from a single axial slice at the L3 vertebral level using a previously developed and validated deep learning segmentation model.\n\n**RESULTS**: A total of 142 ICU survivors formed the final study cohort (median age: 56 years (IQR 47-65), 16% female, 52% obese). VATI (\u03c1 = 0.25 and 0.27, p\u202f=\u202f0.003 and 0.001) and SATI (\u03c1 = 0.19 and 0.24, p\u202f=\u202f0.024 and 0.003) were significantly correlated with ICU length of stay (LOS) and ventilation duration, while BMI did not show a significant correlation. In a combined model with the BMI, AATI remained significant while BMI did not (+15.5% per SD; 95% CI 2.7-29.9%; p\u202f=\u202f0.016 for ICU LOS; +30.8% per SD; 95% CI 12.4-52.3%; p\u202f<\u202f0.001 for ventilation duration).\n\n**CONCLUSION**: CT-derived abdominal adiposity measurements from routine scans were more strongly and consistently associated with ICU LOS and ventilation duration than BMI. Thus, CT-based body composition analysis may improve individual risk assessment and management on ICU patients.",
+      "journal": "Injury",
+      "authors": [
+        "Zander C",
+        "M\u00fchlenfeld N",
+        "Erdle B",
+        "Scheef T",
+        "Rau A",
+        "Reisert M",
+        "Kalbhenn J",
+        "Klingler F",
+        "Schmal H",
+        "Wei\u00df J",
+        "Bamberg F",
+        "Diallo TD"
+      ],
+      "date": "2026 Aug 22",
+      "doi": "10.1016/j.injury.2026.113625",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "injury severity",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42648018/"
+    },
+    {
+      "pmid": "42648017",
+      "title": "An epidemiological evaluation of fatal and nonfatal assault related firearm injuries among youth aged 0-17 years.",
+      "abstract": "**BACKGROUND**: Firearm-related injuries are a leading cause of death and disability among youth in the United States (US). Children are at risk for assault-related firearm injuries based on their race, ethnicity, age, and gender. The present study quantifies assault-related firearm morbidity and mortality among US children aged 0-17 years.\n\n**METHODS**: We utilized data from 41 states reporting to both the Nationwide Emergency Sample (NEDS) and the National Violent Death Reporting System (NVDRS) from 2019 to 2020 to calculate rates of nonfatal and fatal firearm-related assaults, respectively. We also calculated disproportionality and disparity, using the Disproportionality Representation Index (DRI) and Disparity Index (DI).\n\n**RESULTS**: An estimated 6820 (weighted) children experienced a nonfatal firearm assault and over 2300 children died within the two-year study timeframe. Disproportionality and disparity calculations suggest that non-Hispanic Black, male, and older youth bore the greatest burden of morbidity and mortality.\n\n**CONCLUSION**: Identifying root causes of fatal and nonfatal pediatric firearm assaults in future studies can support preventive healthcare and firearm policy reform in the US. Decreasing the burden of firearm-related death and disability will require additional funding and implementation of community violence reduction programs and councils.",
+      "journal": "Injury",
+      "authors": [
+        "Gilani N",
+        "Hunter AA",
+        "Lazzarini Z",
+        "DiVietro S"
+      ],
+      "date": "2026 Aug 23",
+      "doi": "10.1016/j.injury.2026.113621",
+      "tier": "filtered",
+      "topics": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42648017/"
+    },
+    {
       "pmid": "42647750",
       "title": "American Association for the Surgery of Trauma/American College of Surgeons Committee on Trauma clinical protocol for nutrition support in adult trauma.",
       "abstract": "**ABSTRACT**: The provision of nutrition in adult trauma patients requires a detailed and personalized approach to achieve optimal patient outcomes. Initial assessment for malnutrition is required in all patients, as the hypermetabolic state of acute trauma may exacerbate malnutrition risk during the acute phase. Initial assessment in ICU patients includes determination of nutrition risk (high vs. low) using the modified NUTRIC or NRS scores and evaluation for malnutrition. In critically ill trauma patients, indirect calorimetry is most accurate for determination of calorie/protein requirements. Early enteral nutrition is recommended when resuscitation is complete. Continuous gastric feeds are recommended, with postpyloric jejunal feeding for patients at high risk of aspiration. In patients with enteral feeding intolerance and ileus, prokinetic agents should be implemented first, followed by postpyloric feeding tube if persistent feeding intolerance. Parenteral nutrition should be initiated if enteral nutrition is contraindicated (intestinal obstruction, severe ileus, high-output fistula, ischemia), and in patients who cannot achieve goal enteral nutrition. In patients with shock requiring vasopressors, an individualized approach should evaluate the risks and benefits of early enteral nutrition versus the potential risk of nonocclusive mesenteric ischemia. Critically ill geriatric, obese, and cirrhotic trauma patients warrant specialized nutrition care. Immunonutrition, glutamine, and probiotics/prebiotics are not currently recommended for trauma or burn patients. (J Trauma Acute Care Surg. 2026; 00:000-000 Copyright \u00a9 2026 Wolters Kluwer Health, LLC. All rights reserved.).\n\n**LEVEL OF EVIDENCE**: Therapeutic/care management; Level V.",
@@ -408,30 +616,6 @@
       ],
       "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/42647750/"
-    },
-    {
-      "pmid": "42646905",
-      "title": "\"The Hole\": Poetry Like a Gunshot Wound.",
-      "abstract": "",
-      "journal": "JAMA",
-      "authors": [
-        "Campo R"
-      ],
-      "date": "2026 Aug 26",
-      "doi": "10.1001/jama.2026.8365",
-      "tier": "filtered",
-      "topics": [
-        "Penetrating"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "gunshot wound",
-          "strength": "strong",
-          "topic": "Penetrating"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42646905/"
     },
     {
       "pmid": "42645559",
@@ -539,7 +723,7 @@
         "Chang G"
       ],
       "date": "2026 Jan 1",
-      "doi": "10.1136/tsaco-2026-002350",
+      "doi": "10.1111/bjh.16736",
       "tier": "core",
       "topics": [
         "General Trauma",
@@ -606,7 +790,7 @@
         "Byrne JP"
       ],
       "date": "2026 Jan 1",
-      "doi": "10.1136/tsaco-2026-002374",
+      "doi": "10.1097/TA.0000000000002103",
       "tier": "core",
       "topics": [
         "General Trauma",
@@ -643,7 +827,7 @@
         "Levy M"
       ],
       "date": "2026 Jan 1",
-      "doi": "10.1136/tsaco-2025-002134",
+      "doi": "10.1136/tsaco-2025-002217",
       "tier": "core",
       "topics": [
         "Haemorrhage",
@@ -681,7 +865,7 @@
         "Pepe A"
       ],
       "date": "2026 Jan 1",
-      "doi": "10.1136/tsaco-2026-002316",
+      "doi": "10.1136/tsaco-2024-001606",
       "tier": "core",
       "topics": [
         "General Trauma",
@@ -725,7 +909,7 @@
         "Adil MT"
       ],
       "date": "2026 Jan 1",
-      "doi": "10.1136/tsaco-2025-002054",
+      "doi": "10.1213/ANE.0b013e3182a823f4",
       "tier": "core",
       "topics": [
         "General Trauma"
@@ -747,7 +931,7 @@
         "O'Connor JV"
       ],
       "date": "2026 Jan 1",
-      "doi": "10.1136/tsaco-2025-002015",
+      "doi": "10.1097/TA.0000000000001895",
       "tier": "core",
       "topics": [
         "General Trauma",
@@ -810,7 +994,7 @@
         "Hira E"
       ],
       "date": "2026 Jan 1",
-      "doi": "10.1136/tsaco-2026-002422",
+      "doi": "10.1002/ams2.143",
       "tier": "core",
       "topics": [
         "General Trauma",
@@ -860,7 +1044,7 @@
         "Burgess J"
       ],
       "date": "2026 Jan 1",
-      "doi": "10.1136/tsaco-2026-002430",
+      "doi": "10.1177/0896860820970834",
       "tier": "core",
       "topics": [
         "Haemorrhage"
@@ -884,7 +1068,7 @@
         "Chizmar T"
       ],
       "date": "2026 Jan 1",
-      "doi": "10.1136/tsaco-2026-002517",
+      "doi": "10.1056/NEJMoa1802345",
       "tier": "core",
       "topics": [
         "Haemorrhage",
@@ -3017,7 +3201,7 @@
         "Damar \u00d6",
         "Yaman M"
       ],
-      "date": "2026 Aug 11",
+      "date": "2026 Oct 1",
       "doi": "10.1016/j.ajem.2026.08.013",
       "tier": "filtered",
       "topics": [
@@ -3706,7 +3890,7 @@
     {
       "pmid": "42603602",
       "title": "Paediatric out-of-hospital cardiac arrest occurring before and after emergency medical service arrival: a retrospective study.",
-      "abstract": "**AIM**: To examine the association between witness status and the incidence, characteristics, and survival outcomes of paediatric out-of-hospital cardiac arrest (OHCA) attended by emergency medical services (EMS).\n\n**METHODS**: We conducted a retrospective cohort study of paediatric (<18 years) OHCA cases attended by EMS between 1 January 2000 and 31 December 2024. Cases were identified from the Victorian Ambulance Cardiac Arrest Registry (VACAR). Witness status was categorised as unwitnessed, bystander witnessed, or EMS witnessed. Multivariable logistic regression was used to evaluate the association between witness status and outcomes, adjusting for age, sex, arrest location, region, aetiology, initial rhythm and year.\n\n**RESULTS**: A total of 2,645 paediatric OHCAs were attended by EMS, of which 1,891 (71.5%) received a resuscitation attempt. Among EMS-treated cases, 59.8% were unwitnessed, 32.0% were bystander witnessed, and 8.1% were EMS witnessed. The incidence of unwitnessed and bystander witnessed OHCA declined over the 25-year period (p<0.001), whereas EMS witnessed incidence remained stable. After adjustment, EMS witnessed arrests were associated with significantly higher odds of survival to hospital discharge (AOR 1.91, 95% CI 1.04-3.52) and prehospital ROSC (AOR 1.83, 95% CI 1.20-2.77) compared with bystander witnessed arrests, while unwitnessed arrests had substantially lower survival across all outcomes.\n\n**CONCLUSION**: Paediatric OHCA witnessed by EMS is associated with significantly higher adjusted odds of survival compared with bystander witnessed events. These findings highlight the importance of early professional intervention and support the need for paediatric-specific strategies to improve recognition and response to these events.",
+      "abstract": "**AIM**: To examine the association between witness status and the incidence, characteristics, and survival outcomes of paediatric out-of-hospital cardiac arrest (OHCA) attended by emergency medical services (EMS).\n\n**METHODS**: We conducted a retrospective cohort study of paediatric (<18\u00a0years) OHCA cases attended by EMS between 1 January 2000 and 31 December 2024. Cases were identified from the Victorian Ambulance Cardiac Arrest Registry (VACAR). Witness status was categorised as unwitnessed, bystander witnessed, or EMS witnessed. Multivariable logistic regression was used to evaluate the association between witness status and outcomes, adjusting for age, sex, arrest location, region, aetiology, initial rhythm and year.\n\n**RESULTS**: A total of 2645 paediatric OHCAs were attended by EMS, of which 1891 (71.5%) received a resuscitation attempt. Among EMS-treated cases, 59.8% were unwitnessed, 32.0% were bystander witnessed, and 8.1% were EMS witnessed. The incidence of unwitnessed and bystander witnessed OHCA declined over the 25-year period (p\u00a0<\u00a00.001), whereas EMS witnessed incidence remained stable. After adjustment, EMS witnessed arrests were associated with significantly higher odds of survival to hospital discharge (AOR 1.91, 95% CI 1.04-3.52) and prehospital ROSC (AOR 1.83, 95% CI 1.20-2.77) compared with bystander witnessed arrests, while unwitnessed arrests had substantially lower survival across all outcomes.\n\n**CONCLUSION**: Paediatric OHCA witnessed by EMS is associated with significantly higher adjusted odds of survival compared with bystander witnessed events. These findings highlight the importance of early professional intervention and support the need for paediatric-specific strategies to improve recognition and response to these events.",
       "journal": "Resuscitation",
       "authors": [
         "Kennedy C",
@@ -3983,8 +4167,8 @@
     },
     {
       "pmid": "42600766",
-      "title": "Association of Emergency Physician Critical Care Training on Outcomes after Non-traumatic Out-of-Hospital Cardiac Arrest (OHCA).",
-      "abstract": "**BACKGROUND**: In physician-staffed emergency medical services (EMS) systems, emergency physicians may differ in postgraduate specialist and critical care training. Whether such differences are associated with outcomes after out-of-hospital cardiac arrest (OHCA) remains uncertain. We investigated the association between emergency physician qualification and outcomes after non-traumatic OHCA.\n\n**METHODS**: This retrospective cohort study included adult patients with non-traumatic OHCA from the Marburg-Biedenkopf EMS region from 2018 to 2024. Patients were treated by residents, specialists without additional critical care training, or specialists with additional critical care training. The primary outcome was survival to discharge. Secondary outcomes included return of spontaneous circulation (ROSC), hospital admission with ROSC, 24-hour survival, and favourable neurological outcome. Multivariable logistic regression was performed for each endpoint with residents as reference.\n\n**RESULTS**: Among 1,426 patients, any ROSC did not differ significantly between groups (39.9%, 42.5%, and 45.7%; p = 0.211). Operational response times and time to first ROSC were comparable. Specialists with additional critical care training achieved faster vascular access and earlier vasopressor administration, with fewer access failures. Survival to discharge increased across groups (12.2%, 14.4%, and 18.0%; p = 0.047). In adjusted analyses, specialists with additional critical care training had higher odds of hospital admission with ROSC (OR 1.42, 95% CI 1.05-1.93) and survival to discharge (OR 1.59, 95% CI 1.05-2.40) compared with residents.\n\n**CONCLUSIONS**: Additional critical care training was associated with selected prehospital procedural measures and higher odds of hospital admission with ROSC and survival to discharge. These observational findings are hypothesis-generating and do not establish causality.",
+      "title": "Association of emergency physician critical care training on outcomes after non-traumatic out-of-hospital cardiac arrest (OHCA).",
+      "abstract": "**BACKGROUND**: In physician-staffed emergency medical services (EMS) systems, emergency physicians may differ in postgraduate specialist and critical care training. Whether such differences are associated with outcomes after out-of-hospital cardiac arrest (OHCA) remains uncertain. We investigated the association between emergency physician qualification and outcomes after non-traumatic OHCA.\n\n**METHODS**: This retrospective cohort study included adult patients with non-traumatic OHCA from the Marburg-Biedenkopf EMS region from 2018 to 2024. Patients were treated by residents, specialists without additional critical care training, or specialists with additional critical care training. The primary outcome was survival to discharge. Secondary outcomes included return of spontaneous circulation (ROSC), hospital admission with ROSC, 24-h survival, and favorable neurological outcome. Multivariable logistic regression was performed for each endpoint with residents as reference.\n\n**RESULTS**: Among 1426 patients, any ROSC did not differ significantly between groups (39.9%, 42.5%, and 45.7%; p\u00a0=\u00a00.211). Operational response times and time to first ROSC were comparable. Specialists with additional critical care training achieved faster vascular access and earlier vasopressor administration, with fewer access failures. Survival to discharge increased across groups (12.2%, 14.4%, and 18.0%; p\u00a0=\u00a00.047). In adjusted analyses, specialists with additional critical care training had higher odds of hospital admission with ROSC (OR 1.42, 95% CI 1.05-1.93) and survival to discharge (OR 1.59, 95% CI 1.05-2.40) compared with residents.\n\n**CONCLUSIONS**: Additional critical care training was associated with selected prehospital procedural measures and higher odds of hospital admission with ROSC and survival to discharge. These observational findings are hypothesis-generating and do not establish causality.",
       "journal": "Resuscitation",
       "authors": [
         "Kreutz J",
@@ -7354,1024 +7538,6 @@
       ],
       "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/42531871/"
-    },
-    {
-      "pmid": "42531547",
-      "title": "Journal of Trauma Preface.",
-      "abstract": "",
-      "journal": "J Trauma Acute Care Surg",
-      "authors": [
-        "Coimbra R"
-      ],
-      "date": "2026 Jul 29",
-      "doi": "10.1097/TA.0000000000005149",
-      "tier": "core",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42531547/"
-    },
-    {
-      "pmid": "42530957",
-      "title": "National Characteristics of Emergency Medical Services in Rural and Frontier Areas: A 2024 Update on Rural-Urban Differences in EMS Care.",
-      "abstract": "**OBJECTIVES**: A prior 2012 national analysis first characterized emergency medical services (EMS) care in frontier and remote areas of the continental United States. We updated that work using the 2024 National EMS Information System (NEMSIS) Public Release Research Dataset to describe rural-urban differences in EMS response characteristics, clinical care, and on-scene mortality, and assess progress.\n\n**METHODS**: We performed an observational study and cross-sectional analysis of 911-initiated EMS responses and qualifying specialty-care interfacility transports reported to NEMSIS in 2024 across 50 states and the District of Columbia. We categorized responses as urban or rural using the NEMSIS-computed Rural Urban Area Commuting Area Codes (RUCA)-derived Urbanicity field (RUCA 7+ rural). Rural-urban differences were tested with t tests, Wilcoxon rank-sum tests, and odds ratios with 95% confidence intervals. A multivariable logistic regression for trauma on-scene death adjusted for age, first systolic blood pressure below 90\u2009mm Hg, first oxygen saturation below 90%, and level of care.\n\n**RESULTS**: Of 60,298,684 EMS records, 45,383,694 met inclusion criteria; rural responses comprised 6.9%. Rural patients were older (58.8 vs 56.1 years; P\u2009<\u20090.001), more likely to be American Indian or Alaska Native (3.4% vs 0.8%; OR 3.16), and more likely to use Medicare (24.2% vs 12.9%; OR 2.56). Air-medical use was concentrated in rural responses (OR 7.14, 95% CI 7.03-7.25). On-scene mortality was higher in rural responses overall (8.3 vs 6.0 per 1,000; OR 1.39) and among trauma responses (OR 2.00, 95% CI 1.84-2.18). After multivariable adjustment for age, vital signs, and level of care, the rural trauma-mortality disparity was attenuated (adjusted OR 1.07; 95% CI 1.00-1.14; P\u2009=\u20090.05). No rural disadvantage was observed for stroke mortality (OR 0.82, broad; OR 0.75, ischemic), in contrast to the 2012 stroke OR of 2.29 (95% CI 1.19-4.40).\n\n**CONCLUSIONS**: Rural EMS responses in 2024 remain distinct from urban responses, with greater air-medical use and higher on-scene mortality. The rural trauma-mortality excess is largely explained by differences in patient physiology at first EMS contact rather than by a geographic effect. The rural stroke-mortality gap observed in 2012 was not present in 2024, consistent with progress in regionalized stroke systems.",
-      "journal": "Prehosp Emerg Care",
-      "authors": [
-        "Henry R",
-        "Holcomb JB",
-        "Coleman JR",
-        "Raykar NP",
-        "Hashmi ZG",
-        "Barrett CD",
-        "Lammers DT"
-      ],
-      "date": "2026 Jul 30",
-      "doi": "10.1080/10903127.2026.2712606",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42530957/"
-    },
-    {
-      "pmid": "42530919",
-      "title": "Prehospital Resuscitative Endovascular Balloon Occlusion of the Aorta (REBOA) in Patients with Major Trauma and Cardiac Arrest: A Systematic Review.",
-      "abstract": "**OBJECTIVES**: Resuscitative endovascular balloon occlusion of the aorta (REBOA) provides temporary hemorrhage control and optimizes perfusion to vital organs. Despite increasing use in civilian and combat prehospital settings, there is limited consensus on its application or effectiveness. Research has shown mixed effects on mid- to long-term survival, and the inherently high mortality risk among patients receiving REBOA complicates the interpretation of literature. This systematic review consolidates evidence on REBOA use in prehospital and transport medicine settings.\n\n**METHODS**: We conducted a systematic review of multiple databases to identify studies describing REBOA use in the prehospital or transport medicine setting. Two independent reviewers screened against inclusion and exclusion criteria. The risk of bias was assessed \n\n**RESULTS**: The search yielded 1,211 articles, 31 registered trials, and 151 conference abstracts, of which 14 case studies, two prospective cohort studies, one retrospective chart review, one clinical trial, and four registered trials met the inclusion criteria. The included studies were of critical to serious risk of bias due to inherent methodological limitations. When attempted, prehospital REBOA was successfully deployed in 29/38 (76%) of civilian trauma cases, 76/90 (84%) of civilian nontraumatic cardiac arrest cases, and 2/2 (100%) of combat trauma cases. All out-of-hospital cardiac arrest (OHCA) studies reported significant elevation of blood pressure or EtCO\n\n**CONCLUSIONS**: The current evidence for REBOA use in the prehospital and transport medicine settings is limited by the small number of cases in most existing studies, the lack of control groups in all but one study, and limited reporting of patient-focused outcomes.",
-      "journal": "Prehosp Emerg Care",
-      "authors": [
-        "Sun D",
-        "Dion PM",
-        "Olejarz M",
-        "McGowan M",
-        "Ziegler C",
-        "Beckett A",
-        "Cheskes S",
-        "von Vopelius-Feldt J"
-      ],
-      "date": "2026 Aug 10",
-      "doi": "10.1080/10903127.2026.2706098",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Haemorrhage",
-        "Prehospital"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "major trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "REBOA",
-          "strength": "strong",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "prehospital",
-          "strength": "strong",
-          "topic": "Prehospital"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42530919/"
-    },
-    {
-      "pmid": "42530900",
-      "title": "Nicotine E-Cigarettes for Cigarette Smoking Cessation: Recommendations to US-Based Clinicians.",
-      "abstract": "**IMPORTANCE**: Cigarette smoking, maintained predominantly by nicotine dependence, is a long-term and relapsing behavior that continues to be a leading cause of preventable death and disease worldwide. E-cigarettes with nicotine are less harmful than cigarettes and have been shown to be more effective for smoking cessation than US Food and Drug Administration-approved nicotine replacement therapies. However, misperceptions of the harms of e-cigarettes are common, even among clinicians. This Special Communication is a position manuscript developed by a working group within the Treatment Research Network of the international Society for Research on Nicotine and Tobacco. The aims of the manuscript were to summarize the evidence on the use of e-cigarettes for smoking cessation and to provide recommendations for clinicians on how to engage in conversations with adult patients who currently smoke cigarettes. Specifically, advice is provided on (1) integration of e-cigarettes into patient-centered shared decision-making conversations on the risks and benefits of various pharmacologic smoking cessation treatments; and (2) practical guidance on the use of e-cigarettes for smoking cessation.\n\n**OBSERVATIONS**: This Special Communication includes one overarching recommendation: integrate e-cigarettes into conversations on the risks and benefits of all evidence-based pharmacologic treatments for smoking cessation. In support of this recommendation, specific guidance is provided regarding how to discuss potential misperceptions and suggests questions to guide patient conversations. Finally, evidence-based best practices are provided for using e-cigarettes to quit smoking, which can be shared with patients.\n\n**CONCLUSIONS AND RELEVANCE**: The significant burden of cigarette smoking, coupled with scientific evidence supporting e-cigarettes for smoking cessation, clearly indicates that it is appropriate to include e-cigarettes in discussions of evidence-based pharmacologic treatment for smoking cessation to reduce the harms of cigarette smoking. These recommendations are intended to provide evidence-informed guidance to clinicians regarding use of e-cigarettes for smoking cessation.",
-      "journal": "JAMA",
-      "authors": [
-        "Leavens ELS",
-        "Pebley K",
-        "Smith TT",
-        "Ahluwalia JS",
-        "Bello MS",
-        "Bold KW",
-        "Cantrell J",
-        "Carpenter MJ",
-        "Cioe PA",
-        "Felicione NJ",
-        "Havard A",
-        "Hawk LW",
-        "Kaye JT",
-        "Klemperer EM",
-        "Kleykamp BA",
-        "Lindson N",
-        "McClure EA",
-        "McRobbie H",
-        "Murphy CM",
-        "Rigotti NA",
-        "Walker NK",
-        "Yang MJ",
-        "Rojewski AM",
-        "Johnson AL"
-      ],
-      "date": "2026 Jul 30",
-      "doi": "10.1001/jama.2026.13087",
-      "tier": "filtered",
-      "topics": [
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "preventable death",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42530900/"
-    },
-    {
-      "pmid": "42527227",
-      "title": "Low incidence of severe cardiac complications in traumatic sternal fractures: Rethinking routine rhythm monitoring.",
-      "abstract": "**BACKGROUND**: Blunt cardiac injury (BCI) is a common finding after traumatic sternal fracture. For suspected BCI, cardiac rhythm monitoring is generally advised. However, the risk of severe complications of BCI remains unclear. This study analysed the occurrence of severe cardiac complications among hospitalised sternal fracture patients.\n\n**METHODS**: A single-centre retrospective cohort study (January 2011 to December 2022) was conducted including adult blunt trauma patients with traumatic sternal fractures. Patients were excluded in case of non-blunt trauma, military status, transfer from another hospital >\u00a024\u00a0h after trauma, transfer to another hospital during admission, or cardiopulmonary resuscitation prior to imaging. Primary outcome was the occurrence of severe cardiac complications, defined as sustained ventricular tachycardia, high-degree atrioventricular block, need for cardiac surgical intervention, primary cardiac arrest, or death from a primary cardiac cause. Secondary outcome was the occurrence of clinically relevant cardiac findings requiring treatment or outpatient follow-up.\n\n**RESULTS**: Suspected BCI, defined as elevated troponin levels and/or ECG abnormalities within 6\u00a0h of presentation, occurred in 113 patients (32.3%). Two cases (2/113, 1.8%) of severe cardiac complications occurred in this group (both transient high-degree AV-block). Four patients (1.1%) developed cardiac arrest during admission due to a secondary non-cardiac cause. In total, 40 patients (11.4%) had clinically significant cardiac findings: 31 patients had new abnormalities, 7 patients showed changes in pre-existing cardiac conditions, and 2 patients had potential cardiac syncope as trauma cause. No major structural cardiac injury was found on echocardiography; 6 patients (1.7%) showed minor abnormalities on echocardiography.\n\n**CONCLUSIONS**: Severe cardiac complications are rare after traumatic sternal fracture. Cardiac arrest occurred secondary to trauma-related, non-cardiac causes. These findings suggest that suspected BCI alone is not a sufficient indication for routine cardiac rhythm monitoring, and that admission to a monitored unit should be based on the patient's overall clinical condition. Non-urgent cardiac abnormalities were common, underlining the importance of cardiology consultation in these patients.",
-      "journal": "Injury",
-      "authors": [
-        "Klei DS",
-        "Verstegen SBH",
-        "Ahmetagic D",
-        "van Osch D",
-        "van Wessem KJP"
-      ],
-      "date": "2026 Jul 26",
-      "doi": "10.1016/j.injury.2026.113541",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "blunt trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42527227/"
-    },
-    {
-      "pmid": "42527226",
-      "title": "Progressive enhancement in cadaver-based trauma surgery simulation: A 22-course longitudinal evaluation of partecipant-reported realism, learning and satisfaction.",
-      "abstract": "**BACKGROUND**: Reduced operative exposure has increased the need for high-fidelity simulation in trauma surgery training. We evaluated whether progressive enhancement of a cadaver-based trauma course from non-perfused to perfused and mechanically ventilated models was associated with improved participant-reported educational outcomes.\n\n**METHODS**: We performed a longitudinal observational study of 22 consecutive editions (2018-2025) of a standardized course on advanced vascular control in massive thoraco-abdominal hemorrhage. A total of 176 surgeons and surgical trainees attended. Participants rated comparison with other training modalities, learning, realism and satisfaction using a 10-point scale. Outcomes were compared across three cadaveric modalities: non-perfused (NP), perfused (PP) and perfused-reventilated (PR).\n\n**RESULTS**: Mean overall ratings increased across modalities (NP: 8.10, PP: 9.23, PR: 9.75; p\u00a0<\u00a00.001). The largest improvement followed the introduction of vascular perfusion. Addition of mechanical ventilation was associated with further gains, particularly in learning and satisfaction domains. High-fidelity models also generated marked ceiling-effects, limiting score discrimination at the upper end of the scale.\n\n**CONCLUSION**: Progressive increases in cadaver-model fidelity were associated with consistently higher participant-reported realism, learning, and satisfaction. These findings support the educational value of perfused and mechanically ventilated cadaver models for advanced trauma training. Because all outcomes are based on participant perceptions, future studies should incorporate objective performance measures and report resource requirements to further define the practical and educational return of these models.",
-      "journal": "Injury",
-      "authors": [
-        "Mongardini FM",
-        "Bellanova G",
-        "Calderale S",
-        "Ceci F",
-        "Chiantera V",
-        "Cipriani B",
-        "Ciraolo R",
-        "Del Fabbro D",
-        "Di Grezia M",
-        "Di Lorenzo G",
-        "Fogato L",
-        "Militerno G",
-        "Piccirillo M",
-        "Tugnoli G",
-        "Mao F",
-        "Vagni D",
-        "Di Grezia G",
-        "Stagnitti F"
-      ],
-      "date": "2026 Jul 17",
-      "doi": "10.1016/j.injury.2026.113513",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42527226/"
-    },
-    {
-      "pmid": "42526943",
-      "title": "Antithrombotic treatment for migraine in patients with patent foramen ovale: multicentre, randomised, active controlled, open label trial.",
-      "abstract": "**OBJECTIVES**: To evaluate the efficacy and safety of antithrombotic treatment for migraine prevention in participants with patent foramen ovale (PFO).\n\n**DESIGN**: Investigator initiated, multicentre, prospective, randomised, active controlled, open label clinical trial with blinded outcome assessment and hierarchical hypothesis testing.\n\n**SETTING**: Secondary and tertiary care hospitals across 39 centres in China.\n\n**PARTICIPANTS**: 1000 adults aged 18-64 years with a diagnosis of migraine for more than one year, experiencing at least four migraine days per month, and with PFO confirmed by echocardiography. All participants completed a 12 week screening period before randomisation during which eligibility was confirmed and baseline headache data were prospectively recorded. Participants with previous stroke, transient ischaemic attack, intracranial haemorrhage, non-PFO right-to-left shunt, or contraindications to study drugs were excluded. Of the randomised participants, 984 (75.1% female) were included in the full analysis set.\n\n**INTERVENTIONS**: After the screening phase, participants were randomised in a 1:1:1:1 ratio to receive aspirin (300 mg once daily), clopidogrel (75 mg once daily), rivaroxaban (20 mg once daily), or metoprolol (25 mg twice daily) for 12 weeks. No additional preventive migraine treatments were permitted during the intervention period.\n\n**MAIN OUTCOME MEASURES**: The primary outcome was the proportion of participants achieving a \u226550% reduction in monthly migraine days or attacks from baseline to weeks 9-12. Safety outcomes included bleeding and other adverse events.\n\n**RESULTS**: For the primary endpoint, aspirin, clopidogrel, and rivaroxaban were all non-inferior to metoprolol. Responder rates were 61.7% (148/240) with aspirin, 66.8% (157/235) with clopidogrel, 78.4% (185/236) with rivaroxaban, and 61.8% (144/233) with metoprolol. Rivaroxaban further showed a statistically higher responder rate than metoprolol, with an absolute difference of 16.2% (98.33% confidence interval 6.0 to 26.4; P<0.001). Among secondary endpoints, rivaroxaban was associated with greater reductions in migraine days and attacks, higher rates of complete migraine cessation, and greater improvements in migraine specific quality-of-life scores than metoprolol. No major bleeding events occurred.\n\n**CONCLUSIONS**: The antithrombotic agents evaluated in this trial (aspirin, clopidogrel, and rivaroxaban) were all non-inferior to metoprolol for responder rate in participants with PFO and migraine. Rivaroxaban also showed superior responder rates over metoprolol without an increase in major bleeding events.\n\n**TRIAL REGISTRATION**: ClinicalTrials.gov NCT05546320.",
-      "journal": "BMJ",
-      "authors": [
-        "Li Z",
-        "Wang C",
-        "Tang Y",
-        "Dong J",
-        "Dong J",
-        "Ouyang W",
-        "Zhang F",
-        "Pan J",
-        "Wan J",
-        "Han Y",
-        "Yang K",
-        "Liu Y",
-        "Wang Q",
-        "Li B",
-        "Tursun I",
-        "Shen Q",
-        "Li S",
-        "Lai H",
-        "Che H",
-        "Wang G",
-        "Ma Q",
-        "Hang Y",
-        "Huang K",
-        "Li Y",
-        "Wang P",
-        "Gao F",
-        "Liu W",
-        "Zhang H",
-        "Hu H",
-        "You T",
-        "Liu H",
-        "Chen L",
-        "Cheng Y",
-        "Zhang C",
-        "Wang R",
-        "Chen Z",
-        "Gong M",
-        "Fu Q",
-        "He C",
-        "Wang P",
-        "Shen C",
-        "Tan H",
-        "Zhang X",
-        "Zhang X",
-        "Zhang R",
-        "Wang Y",
-        "Pan X"
-      ],
-      "date": "2026 Jul 29",
-      "doi": "10.1136/bmj-2026-100103",
-      "tier": "filtered",
-      "topics": [
-        "TBI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "intracranial haemorrhage",
-          "strength": "weak",
-          "topic": "TBI"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42526943/"
-    },
-    {
-      "pmid": "42526473",
-      "title": "Psoriasis.",
-      "abstract": "Psoriasis is a common, chronic, immune-mediated skin disease affecting more than 40 million individuals worldwide. Psoriasis, along with psoriatic arthritis, are part of a broader psoriatic disease spectrum, and present with inflammatory skin and musculoskeletal manifestations driven by shared genetic, environmental, and immunological mechanisms. Skin psoriasis presents with diverse clinical phenotypes, including chronic plaque psoriasis, guttate, palmoplantar, erythrodermic, and pustular forms. Beyond cutaneous manifestations, psoriasis is associated with a substantial psychosocial burden and a wide range of comorbidities, including mental health disorders and cardio-metabolic diseases. Key psoriasis risk factors include genetic polymorphisms (most notably HLA-C*06:02), obesity, and environmental factors such as trauma, infections, and specific medications. Advances in understanding the key role of the IL-23-IL-17 inflammatory axis and related immunogenetic pathways have redefined psoriasis as a complex immune disorder, leading to the development of highly effective targeted biologic and small-molecule therapies that modulate cytokine signalling and intracellular pathways, offering improved disease control across cutaneous and musculoskeletal domains.",
-      "journal": "Lancet",
-      "authors": [
-        "Eder L",
-        "Perez-Chada L",
-        "Liao W",
-        "Merola JF"
-      ],
-      "date": "2026 Aug 22",
-      "doi": "10.1016/S0140-6736(26)00349-1",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42526473/"
-    },
-    {
-      "pmid": "42526297",
-      "title": "Efficacy and safety of prehospital whole blood resuscitation in traumatic haemorrhagic shock a systematic review and meta-analysis.",
-      "abstract": "**OBJECTIVE**: To evaluate the efficacy and safety of prehospital whole blood (WB) resuscitation compared with the standard care blood components (BC) in adult patients with traumatic haemorrhagic shock.\n\n**METHODS**: We included RCTs of adult patients with traumatic haemorrhagic shock requiring prehospital blood; non-randomised studies, non-traumatic haemorrhage, and combat casualties were excluded. PubMed/MEDLINE, CENTRAL, Embase, Scopus, the Web of Science, and ClinicalTrials.gov were searched from inception to 20 May 2026. Two reviewers assessed risk of bias using the Cochrane RoB 2 tool (cluster-randomised variant where appropriate). Dichotomous outcomes were pooled as odds ratios by generic inverse-variance under a random-effects model. The primary outcome of this review was all-cause mortality at 24\u00a0h after randomisation.\n\n**RESULTS**: Three RCTs met the eligibility criteria, randomising 2048 patients (1695 in the trials' primary-analysis populations). Prehospital WB did not differ significantly from BC in 24-h all-cause mortality (OR 1.12, 95% CI 0.81-1.55; p\u00a0=\u00a00.49) or 28-30-day mortality (OR 1.15, 95% CI 0.90-1.47; p\u00a0=\u00a00.28). Massive transfusion within 24\u00a0h (OR 1.09, 95% CI 0.80-1.50) and thromboembolic complications (deep-vein thrombosis, pulmonary embolism, and ischaemic stroke) likewise showed no significant difference, with all confidence intervals crossing the null. Statistical heterogeneity was absent throughout (I\n\n**CONCLUSION**: Among adults with traumatic haemorrhagic shock, pooled randomised evidence showed no significant mortality benefit for prehospital whole blood over standard blood-component therapy. Because much of the observational evidence compared whole blood with crystalloid or no transfusion rather than with components, these randomised data refine rather than overturn that signal. Given only three trials of limited size and quality, the findings warrant caution, and adequately powered randomised trials are needed to confirm them and to identify the subgroups most likely to benefit.",
-      "journal": "Am J Emerg Med",
-      "authors": [
-        "Khan YY",
-        "Alzahrani AA",
-        "Alghamdi RS",
-        "Alshammasi ZR",
-        "AlAwadh BW",
-        "Alghamdi OG",
-        "Alshahrani MS"
-      ],
-      "date": "2026 Jul 24",
-      "doi": "10.1016/j.ajem.2026.07.040",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Haemorrhage",
-        "Prehospital"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "traumatic",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "haemorrhagic shock",
-          "strength": "strong",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "massive transfusion",
-          "strength": "weak",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "whole blood resuscitation",
-          "strength": "strong",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "prehospital blood",
-          "strength": "weak",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "prehospital",
-          "strength": "strong",
-          "topic": "Prehospital"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42526297/"
-    },
-    {
-      "pmid": "42526083",
-      "title": "Diagnostic evaluation of delayed flexion-extension radiographs after blunt cervical spine trauma: A prospective study.",
-      "abstract": "**BACKGROUND**: The value of delayed cervical flexion-extension radiographs after blunt cervical spine trauma remains debated in alert patients with persistent neck pain, normal neurological examination, and normal initial static imaging. At Nantes University Hospital, a dedicated delayed dynamic radiography pathway has been used for more than 20 years. This study reassessed its diagnostic relevance.\n\n**METHODS**: Prospective, observational, single-centre study conducted in routine clinical practice between May 2022 and May 2024. Two populations were analyzed: patients referred to the delayed dynamic radiography pathway after blunt cervical trauma (n\u00a0=\u00a0303), and patients who underwent surgery for unstable post-traumatic cervical ligamentous injury diagnosed during the acute emergency department assessment (n\u00a0=\u00a024). The objectives were to determine whether delayed flexion-extension radiographs identify surgically relevant unstable cervical injuries in alert patients without neurological/radiological abnormalities at initial emergency department assessment, and to describe the clinical and radiological features of surgically treated unstable ligamentous injuries.\n\n**RESULTS**: Among 303 patients referred to the delayed dynamic radiography pathway, 4 unstable cervical ligamentous injuries were identified. Retrospective review showed that all 4 patients had abnormal initial imaging and/or neurological symptoms, and therefore did not meet the intended low-risk pathway criteria. No unstable cervical ligamentous injury was diagnosed among the 299 other patients referred according to the pathway criteria, i.e. without initial neurological/radiological features suggestive of instability. During the same period, 23 unstable cervical ligamentous injuries were diagnosed in the emergency department and treated surgically. Among all 27 surgically treated patients, initial imaging was abnormal in 25 (92.6%) and neurological impairment was present in 16 (59.3%); all (100%) had either abnormal initial imaging and/or neurological findings.\n\n**CONCLUSION**: In alert patients with persistent neck pain, normal neurological examination, and no suspicious abnormality on initial static imaging, delayed flexion-extension radiographs did not identify any surgically relevant injury. Routine use of this pathway should be reconsidered, with initial assessment relying on neurological examination and CT-based evaluation, and dynamic radiographs reserved for cases after specialist evaluation.",
-      "journal": "Injury",
-      "authors": [
-        "Emin L",
-        "Lafont C",
-        "Ravaillault S",
-        "Gardeton L",
-        "Lehuede A",
-        "Geay C",
-        "Montassier E",
-        "Moles A",
-        "Salaud C",
-        "Samarut E"
-      ],
-      "date": "2026 Jul 23",
-      "doi": "10.1016/j.injury.2026.113502",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Spine"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "cervical spine",
-          "strength": "strong",
-          "topic": "Spine"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42526083/"
-    },
-    {
-      "pmid": "42525598",
-      "title": "Socioeconomic and geographic variation in response to trauma medical home intervention.",
-      "abstract": "**BACKGROUND**: Many injury survivors experience persistent biopsychosocial morbidity after hospital discharge. The trauma medical home (TMH), a multidisciplinary coordinated care model, demonstrated modest benefit in a multicenter randomized trial, but its effectiveness across rural and socioeconomically deprived populations remains unclear.\n\n**METHODS**: This post hoc retrospective analysis of the TMH parent randomized trial included patients aged older than or equal to 50 years with an Injury Severity Score \u22659 across four level I trauma centers. For this study, patients were categorized by rurality and Area Deprivation Index (ADI). Outcomes included the SF-36 Physical and Mental Component Scores (PCS, MCS), depression [Patient Health Questionnaire-9 (PHQ-9)], anxiety [Generalized Anxiety Disorder (GAD-7)], physical function [Short Physical Performance Battery (SPPB)], and health care utilization. Interaction effects between TMH and rural/urban status or ADI were evaluated at baseline, 6 months, and 12 months.\n\n**RESULTS**: Four hundred thirty patients were included [216 TMH and 214 in usual care (UC)]. On the basis of urbanicity, the effectiveness of TMH on quality of life, psychological, physical, and health care utilization was similar at 6 and 12 months. ADI stratification showed greater differences. In high-ADI urban areas, baseline MCS scores were similar between TMH (47.5 \u00b1 13.0) and UC (48.6 \u00b1 12.8). By 6 months, TMH patients improved to 54.9 \u00b1 8.8 compared with 49.0 \u00b1 13.1 in UC, with a predicted difference of 7.7 (95% CI: 1.32, 12.83, P=0.016), demonstrating a clinically and statistically significant benefit of TMH.\n\n**CONCLUSIONS**: The TMH was associated with greater mental health improvement among patients with high area deprivation, particularly in urban settings, suggesting a potential role in reducing disparities through coordinated care.\n\n**LEVEL OF EVIDENCE**: Level III, retrospective secondary analysis of a randomized trial.",
-      "journal": "J Trauma Acute Care Surg",
-      "authors": [
-        "Ilkhani S",
-        "Boustani M",
-        "Holler E",
-        "Ortiz D",
-        "Perkins A",
-        "Gao S",
-        "Khan B",
-        "Zarzaur BL"
-      ],
-      "date": "2026 Jul 28",
-      "doi": "10.1136/ip-2024-045436",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "injury severity",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42525598/"
-    },
-    {
-      "pmid": "42525279",
-      "title": "Patterns of patient worry following major emergency abdominal surgery: a 180-day follow-up study.",
-      "abstract": "**PURPOSE**: Major emergency abdominal surgery is associated with high postoperative morbidity and mortality. Beyond physical complications, patients experience psychological distress. This study aimed to describe the distribution of patient-reported worry across independent cross-sectional samples and its association with Days Alive and out of Hospital (DAOH) over 180 days postoperatively.\n\n**METHODS**: Prospective cohort at Copenhagen University Hospital Herlev (March 30, 2023-March 31, 2024). Degree of Worry (DOW) was surveyed at discharge and postoperative day (POD) 30, 90, and 180, categorized as physical, mental, and physical-generic domains of worry. DAOH was computed cumulatively and incrementally for 0-30, 30-90, and 90-180 days. Associations between high DOW (hDOW) and subsequent DAOH were tested with Mann-Whitney U.\n\n**RESULTS**: hDOW was reported by 36.1% at discharge, 22.4% at POD 30, 45.0% at POD 90, and 32.0% at POD 180. Across 180 days, the most frequent worries were relapse (21.3%), disease (14.1%), functional level (12.0%) and daily living (9.1%). The proportion of physical worries was significantly higher at POD 30 than at discharge and significantly lower at POD 180; mental worries varied between time points without statistically significant differences. hDOW at POD 30 was associated with fewer cumulative DAOH by POD 90 (p\u2009=\u20090.008).\n\n**CONCLUSION**: Patient-reported worry following major emergency abdominal surgery demonstrates meaningful variation over time. Physical worries peak during early recovery, whereas mental worry varied across timepoints. hDOW at POD 30 is associated with reduced DAOH by POD 90, highlighting the relevance of monitoring patient-reported worry during early postoperative recovery.",
-      "journal": "Eur J Trauma Emerg Surg",
-      "authors": [
-        "Parner MK",
-        "Jensen LR",
-        "Gamst-Jensen H",
-        "Burcharth J",
-        "Kokotovic D"
-      ],
-      "date": "2026 Jul 29",
-      "doi": "10.2147/JMDH.S104807",
-      "tier": "core",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42525279/"
-    },
-    {
-      "pmid": "42525160",
-      "title": "Outcomes and complications of metallic vs. bioabsorbable screw fixation for displaced medial epicondylar fractures in pediatric and adolescent patients.",
-      "abstract": "**PURPOSE**: The use of bioabsorbable screws in orthopedics and trauma surgery is increasing. The major advantage of not having to remove the implant is of particular interest in pediatric surgery. Due to drawbacks, most notably implant fracture, bioabsorbable screw osteosynthesis has not yet surpassed the gold standard of metallic screw osteosynthesis. This single-centre study compares metallic screw and bioabsorbable screw osteosynthesis of medial humeral epicondyle fractures in children and adolescents over a two-year period.\n\n**MATERIALS AND METHODS**: Retrospective analysis of surgically treated (screw fixation with either bioabsorbable magnesium-based or metallic screw) patients with a medial humeral epicondyle fracture between 2020 and 2022 at the author's institution.\n\n**RESULTS**: Seventeen patients with medial epicondyle fractures underwent surgical treatment using either bioabsorbable screws (n\u2009=\u20098) or metallic screws (n\u2009=\u20099). Baseline characteristics, surgical approach, and postoperative care were similar between groups. Two complications (Clavien-Dindo I) occurred in the bioabsorbable group due to implant failure (screw breakage), though without clinical sequelae. These implant failures led to a significantly increased number of postoperative radiographs in the bioabsorbable group (median 4.8 vs. 2.5; p\u2009=\u20090.014). Functional outcomes (LOM, MEPI) and follow-up durations were comparable between groups.\n\n**CONCLUSION**: Bioabsorbable screws appear to be a promising alternative to conventional metallic fixation in the treatment of pediatric medial epicondyle fractures. Although screw breakage-and the associated increase in radiographic surveillance-remains a notable concern, advances in biomaterial technology may help reduce this complication in the future.",
-      "journal": "Eur J Trauma Emerg Surg",
-      "authors": [
-        "Jhala T",
-        "Scherer S",
-        "Esser M",
-        "Lieber J",
-        "Fuchs J",
-        "Dietzel M"
-      ],
-      "date": "2026 Jul 29",
-      "doi": "10.5999/aps.2016.43.1.40",
-      "tier": "core",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42525160/"
-    },
-    {
-      "pmid": "42525151",
-      "title": "Characteristics and temporal trends of mobility scooter accidents in the Netherlands: a multicenter cohort study.",
-      "abstract": "**PURPOSE**: Mobility scooters are increasingly used by older individuals. The aim of this study was to assess the characteristics and temporal trends of mobility scooter accidents (MSAs) in the Netherlands over a 10-year period using a representative dataset derived from fourteen Emergency Departments (EDs).\n\n**METHODS**: In this retrospective multicenter cohort study, we analyzed MSA-related ED visits between January 2014 and December 2023, using the Dutch Injury Surveillance System (DISS). Information about age, sex, hospital admission, type and location of injury, mechanism of injury, and operational errors was analyzed. Injury severity was classified using the maximum abbreviated injury score (MAIS). Trend analyses were only performed for ED visits of patients with MAIS2+ injuries.\n\n**RESULTS**: In total, 2,702 MSA-related ED visits were identified. Forty-nine percent of patients was male and the median age was 75 years (IQR 64.0-83.0). The most common mechanism of injury was a mobility scooter rollover (34.2%). From 2014 to 2023, the number of MSA-related ED visits of patients with MAIS2+ injuries increased by 38.0%. In the 70-79 age group, this rise was 91%. The total number of traumatic brain injuries (TBI) rose steeply bij 103.0%, which includes a modest (+34.0%) increase in moderate-severe TBI. The hospital admission rate was 30.1%, with a median length of stay of 7 days (IQR 3.0-10.0). Age, sex, and mechanism of injury were independent predictors for hospital admission.\n\n**CONCLUSION**: In the Netherlands, there was a 38.0% increase of MSA-related ED visits of patients with MAIS2+ injuries from 2014 to 2023, with a disproportionate rise in older patients. Age, sex, and mechanism of injury were independent predictors for hospital admission. The total number of TBIs rose steeply by 103.0% which includes a modest (+34.0%) increase in moderate-severe TBI. These findings suggest that targeted preventive measures are needed in order to reduce the number and severity of MSAs.",
-      "journal": "Eur J Trauma Emerg Surg",
-      "authors": [
-        "Stensen Z",
-        "Peters A",
-        "Keereweer D",
-        "Krul I",
-        "van Osch F",
-        "de Groot B",
-        "Barten D"
-      ],
-      "date": "2026 Jul 29",
-      "doi": "10.1371/journal.pone.0303859",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "Systems/QI",
-        "TBI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "traumatic",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "injury severity",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "traumatic brain injury",
-          "strength": "weak",
-          "topic": "TBI"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42525151/"
-    },
-    {
-      "pmid": "42525111",
-      "title": "\"Is the effect of intraoperative 3D imaging beneficial in plate fixation of distal radius fractures: a matched-pair analysis\".",
-      "abstract": "**BACKGROUND**: Distal radius fractures (DRFs) are among the most common adult fractures and are frequently treated with volar plate fixation. While intraoperative 3D imaging has been proposed to improve detection of malreduction and implant malposition, its impact on clinical and radiological outcomes remains unclear. This study aimed to evaluate whether intraoperative 3D imaging provides advantages over conventional 2D fluoroscopy. Outcome criteria were accuracy of fracture reduction, plate positioning relative to the watershed line, complication rates, operative time, and functional outcomes following volar plate fixation of distal radius fractures.\n\n**METHODS**: This retrospective single-centre study included patients aged\u2009\u2265\u200916 years who underwent volar plate fixation for distal radius fractures between 2016 and 2024. Patients were assigned to a 3D imaging group or a conventional 2D fluoroscopy group. To ensure comparability, patients were matched 1:1 using exact AO/OTA subgroup matching and propensity score matching for age and sex. Outcomes included operative duration, radiographic reduction quality, plate positioning, complications, and wrist range of motion. Matched-pair comparisons were performed using appropriate paired statistical tests.\n\n**RESULTS**: Of 1,259 patients screened, 418 patients (209 matched pairs) were included after exact AO/OTA subgroup matching and propensity score matching for age and sex. Operative time was significantly longer in the 3D group across AO type A, B, and C fractures (all p\u2009<\u20090.05), with the largest difference observed in complex C3 fractures. Reduction quality was comparable in AO type A fractures, whereas higher reduction scores were observed in the 3D group for AO type B fractures and complex C3 fractures. No significant differences were observed in plate positioning, complication rates, or wrist range of motion between groups.\n\n**CONCLUSION**: Intraoperative 3D imaging was associated with longer operative times than conventional 2D fluoroscopy and did not improve plate positioning, complication rates, or short-term wrist range of motion. While reduction quality was comparable in simple fracture patterns, exploratory analyses demonstrated higher reduction scores in AO type B and complex intra-articular C3 fractures treated with 3D imaging. These findings suggest that the potential benefit of intraoperative 3D imaging may be concentrated in selected complex fracture patterns rather than routine distal radius fracture fixation. Prospective studies are required to confirm these findings.",
-      "journal": "Eur J Trauma Emerg Surg",
-      "authors": [
-        "Zumsteg JS",
-        "Pieringer A",
-        "Hinkelmann MA",
-        "Isenmann K",
-        "Pape HC",
-        "Allemann F",
-        "Barthel C"
-      ],
-      "date": "2026 Jul 29",
-      "doi": "10.1186/s13018-025-06284-z",
-      "tier": "core",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42525111/"
-    },
-    {
-      "pmid": "42525108",
-      "title": "High-velocity gunshot chest trauma: tailoring patient care through insights from a mass casualty experience.",
-      "abstract": "**OBJECTIVES**: This study describes the management strategies and clinical outcomes of a cohort of patients sustaining high-velocity military rifle gunshot wounds to the thorax during a mass casualty incident (MCI). The analysis focuses on damage control surgical techniques, the incidence and timeline of venous thromboembolism (VTE), regional pain management, and early psychiatric protocols.\n\n**METHODS**: A descriptive retrospective analysis was conducted on patients presenting with a single penetrating high-velocity ballistic wound to the thorax on October 7, 2023. Inclusion criteria were limited to patients with a projectile trajectory traversing the lung parenchyma, managed by the cardiothoracic surgery department. Injuries to immediately adjacent structures (subclavian vessels, brachial plexus, clavicle, and scapula) were recorded as associated injuries. Patients presenting with multi-system trauma involving entirely separate, distant anatomical regions were excluded.\n\n**RESULTS**: The cohort comprised 11 male patients (age range: 19-49 years; 9 soldiers, 2 civilians) injured by 7.62\u00a0mm assault rifle rounds. Six patients (54.5%) required emergency thoracotomy, sternotomy, or VATS within the first 24\u00a0h due to ongoing hemorrhage; primary hemorrhage control consisted of deep parenchymal lung suturing (n\u2009=\u20095) and temporary chest packing (n\u2009=\u20091). Four patients (36.4%) underwent delayed, elective surgical stabilization of rib fractures. All patients survived to discharge and were successfully weaned from mechanical ventilation, with no cases of ARDS, pneumonia, or oxygen requirement at discharge. Venous thromboembolism occurred in 45.5% (n\u2009=\u20095), including deep vein thrombosis (n\u2009=\u20093) and pulmonary embolism (n\u2009=\u20092). Ipsilateral brachial plexus injury was present in 63.6% (n\u2009=\u20097), occurring exclusively in patients wearing ballistic protective vests. At 3-month follow-up, 4 patients had persistent upper limb neuropathy and 1 reported chronic post-thoracotomy pain. Mean hospital length of stay was 15.27 days (range: 2-41).\n\n**CONCLUSIONS**: Lung-preserving, suture-based damage control strategies were effective for hemorrhage control during this mass casualty surge and supported rapid operative management in a resource-constrained setting. A high incidence of VTE (45.5%) was observed, including pulmonary embolism without documented lower-extremity deep vein thrombosis, supporting the need for early post-stabilization diagnostic surveillance. Brachial plexus injury was common among patients wearing ballistic protection and was associated with long-term functional impairment in this cohort.",
-      "journal": "Eur J Trauma Emerg Surg",
-      "authors": [
-        "Azulay AA",
-        "Stein M",
-        "Tabo LY",
-        "Lebenthal A",
-        "Ruderman L",
-        "Refaely Y"
-      ],
-      "date": "2026 Jul 29",
-      "doi": "10.1097/PRA.0000000000000091",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "Haemorrhage",
-        "Penetrating",
-        "Thoracic"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "rib fracture",
-          "strength": "weak",
-          "topic": "Thoracic"
-        },
-        {
-          "keyword": "thoracotomy",
-          "strength": "weak",
-          "topic": "Thoracic"
-        },
-        {
-          "keyword": "damage control",
-          "strength": "weak",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "gunshot wound",
-          "strength": "weak",
-          "topic": "Penetrating"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42525108/"
-    },
-    {
-      "pmid": "42525086",
-      "title": "Intracranial pressure physiology, monitoring and individualized management in the acute brain injured patient.",
-      "abstract": "Acute brain injury (ABI), including traumatic brain injury, ischemic and hemorrhagic stroke, is associated with high morbidity and mortality, which is driven not only by the primary brain injury, but also by the development of secondary cerebral insults. Among these, raised intracranial pressure (ICP) plays a central pathophysiological role, acting both as a consequence and a driver of ongoing brain injury through mechanical deformation and cerebral ischemia. Although invasive intracranial pressure (ICP) monitoring has a longstanding and ongoing role in neurocritical care management, the interpretation and clinical use of ICP remain controversial. Traditional management strategies rely on fixed ICP thresholds (e.g.,\u2009>\u200922\u00a0mmHg) to trigger a standardized stepwise escalation of therapy; however, growing clinical evidence indicates that tolerance to ICP elevation varies widely across patients, disease entities, and physiological contexts. This review summarizes the physiological determinants of ICP, including intracranial compliance, cerebrospinal fluid dynamics, cerebral blood volume, and systemic factors, and describes the mechanisms underlying intracranial hypertension. We discuss limitations of using fixed ICP thresholds and highlight emerging concepts, such as ICP burden, waveform morphology, cerebral autoregulation, and functional brain monitoring, as tools to individualize ICP interpretation. The role of invasive and noninvasive ICP monitoring (nICP) modalities is reviewed, emphasizing the complementary value of nICP in guiding decision-making when invasive monitoring is unavailable or contraindicated. Particular attention is given to the integration of ICP within multimodal neuromonitoring frameworks assessing cerebral perfusion, oxygenation, and metabolism. Finally, we explore future perspectives, including the potential of artificial intelligence-based approaches to analyse complex neuromonitoring data, predict secondary insults, and move toward actionable, patientspecific therapeutic strategies. Collectively, these advances support a shift from a uniform, threshold-driven approach toward individualized, physiology-informed management of intracranial hypertension.",
-      "journal": "Intensive Care Med",
-      "authors": [
-        "Taccone FS",
-        "Arabi Y",
-        "Baggiani M",
-        "Brasil S",
-        "Figaji A",
-        "Gouvea Bogossian E",
-        "Hawryluk G",
-        "Mccredie V",
-        "Moller K",
-        "Puppo C",
-        "Robba C",
-        "Shrestha GS",
-        "Tokmak F",
-        "Udy A",
-        "Wong YL",
-        "Meyfroidt G"
-      ],
-      "date": "2026 Jul 29",
-      "doi": "10.1007/s00134-021-06446-7",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "TBI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "traumatic",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic brain injury",
-          "strength": "weak",
-          "topic": "TBI"
-        },
-        {
-          "keyword": "ICP monitoring",
-          "strength": "weak",
-          "topic": "TBI"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42525086/"
-    },
-    {
-      "pmid": "42524832",
-      "title": "Determinants of Timely Prehospital Thrombolysis Administration Within a Pharmacoinvasive STEMI Network in Victoria, Australia.",
-      "abstract": "**OBJECTIVES**: We aimed to describe the proportion of patients receiving prehospital thrombolysis (PHT) within 30\u2009min of first medical contact (FMC) and identify factors associated with timely administration within a statewide pharmacoinvasive network.\n\n**METHODS**: We conducted a retrospective observational cohort study of consecutive adults (\u226518\u2009years) treated with paramedic-administered thrombolysis for suspected ST-segment elevation myocardial infarction (STEMI) between January 2018 and December 2023 using data obtained from the Victorian Ambulance STEMI Quality Initiative registry. Patients presenting in cardiac arrest were excluded. Multivariable logistic regression was used to identify system- and patient-level factors independently associated with FMC-to-PHT time, with delayed PHT defined as FMC-to-PHT greater than 30\u2009min, and findings validated against a 60-minute threshold. Log-linear regression was used to estimate the percentage change in FMC-to-PHT time for each variable.\n\n**RESULTS**: A total of 1440 patients were analyzed (median age, 65\u2009years; 71.0% male). Overall, 32.5% of patients received PHT within 30\u2009min of FMC (median 37\u2009min [IQR 28-48]). Patients with delayed treatment (>30\u2009min) were older and more likely to report mild pain severity (0-3/10), present after-hours, and have paramedics utilize clinical consultation prior to PHT administration. In the multivariable analysis, electrocardiogram (ECG) acquisition within 10\u2009min of FMC was associated with reduced odds of delay (aOR 0.40, 95%CI 0.27-0.59), while mild pain severity was the strongest predictor of delayed PHT administration (aOR 2.08, 95% CI 1.44-3.01). Clinical consultation and after-hours presentations were also independently associated with increased odds of delay. In the log-linear analysis, mild pain severity (+14.8%), clinical consultation (+11.1%), and after-hours presentation (+9.2%) were associated with longer FMC-to-PHT times, whereas early ECG acquisition was associated with a 20% reduction. The findings were broadly consistent in the >60-minute model, with stronger associations for mild pain severity and after-hours presentation. Treatment times improved incrementally over the study period (aOR 0.83 per year, 95% CI 0.76-0.89).\n\n**CONCLUSIONS**: Achieving FMC-to-PHT \u226430\u2009min was challenging, and delays were associated with both patient presentation and system- and process-related factors. These findings suggest that opportunities exist to improve the timeliness of thrombolysis administration in pharmacoinvasive settings.",
-      "journal": "Prehosp Emerg Care",
-      "authors": [
-        "Bishop A",
-        "Nehme Z",
-        "Stub D",
-        "Murdoch K",
-        "Dantanarayana A",
-        "Wijaya J",
-        "Meadley B"
-      ],
-      "date": "2026 Aug 04",
-      "doi": "10.1080/10903127.2026.2711274",
-      "tier": "filtered",
-      "topics": [
-        "Prehospital"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "prehospital",
-          "strength": "strong",
-          "topic": "Prehospital"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42524832/"
-    },
-    {
-      "pmid": "42524825",
-      "title": "The Estimated Prevalence of Multiple Record Encounters in the National Emergency Medical Services Information System.",
-      "abstract": "**OBJECTIVES**: The National Emergency Medical Services Information System (NEMSIS) is a large repository of de-identified Emergency Medical Services (EMS) data supported by the National Highway Traffic Safety Administration and is a cornerstone of large database EMS research. A known concern with large EMS datasets like NEMSIS is that multiple records may exist for a single episode of patient care. However, the extent of potentially related records is not well described. We evaluated potential EMS episodes of care contained within NEMSIS.\n\n**METHODS**: We used an observational study design and conducted a retrospective analysis of the 2023 NEMSIS dataset. We identified hierarchical clusters of likely related episodes of care for the same patient using tiered criteria of temporal (dispatch call times of 30\u2009s to 2\u2009min) and Census Division, EMS agency, urbanicity, patient demographics, dispatch characteristics, clinical impression, and location type. We evaluated all possible combinations of these criteria and reported the percentage of episodes of care out of all included records overall and for five specific EMS subpopulations: cardiac arrest, trauma, stroke, airway intervention, and pediatric patients.\n\n**RESULTS**: We included 36,757,562 EMS records. When applying all criteria, the final algorithm identified 36,552,901 likely episodes of care, representing 99.4% of all records. Most episodes of care (36,353,329, 99.5%) consisted of a single EMS record, with fewer episodes having 2 (195,786, 0.5%), 3 (3,088, <0.1%), 4 (428, <0.1%), and 5 or more (270, <0.1%) records. When evaluating all possible alternative combinations of the criteria, most resulted in a similar number of episodes of care. Among the subpopulations, the number of episodes of care approached the total number of encounters for that condition: cardiac arrest (89.2%-98.5%), pediatric (73.8%-99.3%), stroke (89.5%-99.3%), airway procedure (95.4%-99.4%), and trauma (84.1%-99.6%). Findings were robust to sensitivity analyses which relaxed the time- and age-based criteria.\n\n**CONCLUSIONS**: Nearly all included EMS records in NEMSIS appeared to represent unique patient-care episodes. Approximately 0.5% of episodes involved more than one EMS record, suggesting that related records or multi-unit documentation is uncommon but should be considered in analyses, particularly for selected clinical subgroups.",
-      "journal": "Prehosp Emerg Care",
-      "authors": [
-        "Ramgopal S",
-        "Toy J",
-        "Cash RE",
-        "Spigner M",
-        "Bosson N",
-        "Martin-Gill C"
-      ],
-      "date": "2026 Aug 18",
-      "doi": "10.1080/10903127.2026.2711920",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42524825/"
-    },
-    {
-      "pmid": "42524719",
-      "title": "Burn Injury Rewires Immune and Neuronal Extracellular Vesicle Communication.",
-      "abstract": "**OBJECTIVE**: We examined extracellular vesicle (EV) protein alterations after burn injury to elucidate molecular pathways linking immune-neural communication and the pathophysiology of burns.\n\n**BACKGROUND**: Severe burn injury triggers widespread inflammation and metabolic stress with downstream consequences. EVs are essential mediators of cell-to-cell communication and protein transport for regulating inflammation, metabolism, and neuronal signaling that may reflect burn-related alterations.\n\n**METHODS**: Plasma EVs from 37 adult burn patients (\u226515% total body surface area burn [TBSA]) and 21 nonburn controls were analyzed. An age-restricted subcohort (<40\u00a0years) was additionally evaluated to minimize potential confounding of age. A subset (4 per group) underwent cell type-specific EV enrichment. Proteomic profiling and functional enrichment analyses, including gene ontology (GO) over-representation analysis (ORA), Reactome gene set enrichment analysis (GSEA), and Ingenuity Pathway Analysis (IPA), were performed to identify differential protein abundance and associated biological pathways.\n\n**RESULTS**: Burn injury produced distinct alterations in EV proteomic profiles. Among 919 detected proteins, 326 were decreased and 593 were increased. The 5 most significant proteins (adjusted P -value<0.05) distinguishing burns from controls were CRP, ITGA11, MYH9, CALR, and ANTXR2. GO ORA, Reactome GSEA, and IPA consistently identified enrichment of immune activation and inflammatory regulation pathways, including immune cell chemotaxis, acute-phase signaling, cytokine signaling, complement activation, coagulation, and cellular stress pathways. Similar inflammatory pathway enrichment persisted in the age-restricted subcohort. Exploratory analyses of cell type-enriched EVs demonstrated distinct proteomic trends across immune and neuronal EV populations, although no subtype-specific proteins exhibited statistical significance.\n\n**CONCLUSIONS**: Burn injury profoundly alters EV cargo across general, immune, and neuronal types, reflecting proinflammatory and neuroimmune-associated signaling. This coordinated EV remodeling may reflect the hyperinflammatory responses, altered healing, and downstream biological pathway alterations. EV-based biomarkers may enable improved diagnostic and therapeutic strategies to mitigate dysregulated immune and healing responses in burn patients.",
-      "journal": "Ann Surg",
-      "authors": [
-        "Grimsrud KN",
-        "Green T",
-        "Tang Y",
-        "Clayton SM",
-        "Ward BM",
-        "Wang D",
-        "Durbin-Johnson B",
-        "Wang A",
-        "Palmieri TL"
-      ],
-      "date": "2026 Jul 29",
-      "doi": "10.1097/SLA.0000000000007161",
-      "tier": "filtered",
-      "topics": [
-        "Burns"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "burn injury",
-          "strength": "strong",
-          "topic": "Burns"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42524719/"
-    },
-    {
-      "pmid": "42524309",
-      "title": "How hospital-based violence prevention professionals work: a qualitative study.",
-      "abstract": "**BACKGROUND**: Hospital-based violence intervention programs (HVIP) hinge on the ability of violence prevention professionals to assist the recovery of intentionally injured patients to prevent further spread of violence. Yet, we know little about the tactics these professionals use or whether the tactics developed by one violence prevention professional transfer to another. To address these gaps, this research catalogs the tactics frontline professionals use to meet the recovery needs of violently injured patients.\n\n**METHODS**: Semi-structured interviews were conducted with 23 hospital-based violence prevention professionals to identify tactics used in everyday work. Interviews were organized around 10 \"hinge points\" on the patient's recovery continuum deemed integral to program success, identified a priori. The Action Actor Context Target Time (AACTT) rubric helped ascertain essential information about each tactic identified via inductive thematic analysis.\n\n**RESULTS**: We identified 214 tactics used by violence prevention professionals. Tactics addressing the initial patient encounter (n=49), trustbuilding efforts with patients (n=44), and service navigation (n=39) represented the largest and most diverse share of tactics identified. Comparably few tactics engaged patient retention (n=11) or aftercare as patients exited the program (n=3).\n\n**SIGNIFICANCE**: Dissemination of these tactics will strengthen the skillsets of current HVIP professionals, while enhancing the training of future violence prevention personnel. Findings may support the creation of practical, readily deployable toolkits to translate tactical insight to diverse contexts where HVIPs operate, including HVIPs not yet established.\n\n**LEVEL OF EVIDENCE**: VI: Evidence from a single descriptive or qualitative study.",
-      "journal": "Trauma Surg Acute Care Open",
-      "authors": [
-        "Almquist LE",
-        "Ahlness EA",
-        "Rowhani-Rahbar A",
-        "Walker SC",
-        "Helfrich CD"
-      ],
-      "date": "2026 Jan 1",
-      "doi": "10.1017/CBO9780511816796",
-      "tier": "core",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42524309/"
-    },
-    {
-      "pmid": "42522780",
-      "title": "Psychological and psychosocial interventions for trauma-related psychological distress in adults living in ongoing conflict.",
-      "abstract": "This is a protocol for a Cochrane Review (intervention). The objectives are as follows: To evaluate the relative benefit and harms of different psychotherapeutic or psychosocial interventions for trauma-related psychological distress in adults affected by ongoing conflict.",
-      "journal": "Cochrane Database Syst Rev",
-      "authors": [
-        "Mahomed-Kola S",
-        "Mall S",
-        "Daniels K",
-        "Haffejee S",
-        "Veronese G",
-        "Abujamei Y",
-        "Hohlfeld A",
-        "Ras Y",
-        "Balakrishna Y",
-        "Kagee A"
-      ],
-      "date": "2026 Jul 29",
-      "doi": "10.1136/bmj.i4919",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42522780/"
-    },
-    {
-      "pmid": "42521593",
-      "title": "Abdominal trauma and laparotomy in wartime civilian and military casualties: A National Registry Study.",
-      "abstract": "**BACKGROUND**: Combat-related abdominal trauma remains a major challenge in modern warfare, typically resulting from high-energy penetrating injuries. Studying injury patterns provides insight into surgical decision-making. This study aimed to characterize abdominal trauma sustained during the conflict and identify predictors for laparotomy.\n\n**METHODS**: Retrospective nationwide cohort study was conducted using the Israeli National Trauma Registry. Patients with abdominal trauma between October 7, 2023, and May 31, 2024, during the Swords of Iron War were included and classified into laparotomy and non-laparotomy groups. Military and civilian casualties were compared. The primary outcome was mortality; secondary outcomes included ICU admission and rehabilitation discharge. A multivariable regression model was constructed to identify variables associated with the need for laparotomy.\n\n**RESULTS**: Of 2422 trauma patients, 561 (23%) sustained abdominal injuries, and 140 (25%) underwent laparotomy. Compared with non-laparotomy patients, laparotomy patients had higher rates of penetrating trauma (92.1% vs 84.6%, p\u00a0=\u00a00.030), hypotension (16.2% vs 1.5%, p\u00a0<\u00a00.001), and Injury Severity Score >25 (46.4% vs 13%, p\u00a0<\u00a00.001). Mortality was higher in the laparotomy group (7.9% vs 2.4%, p\u00a0=\u00a00.007). Multivariable regression identified increasing injury severity, small bowel injury (OR 7.08, 95% CI 3.66-14.05), colon injury (OR 6.10, 95% CI 3.00-12.92), liver injury (OR 3.58, 95% CI 1.69-7.66), and retroperitoneal hemorrhage (OR 5.26, 95% CI 2.11-14.26) as independent variables associated with undergoing laparotomy. In univariable analyses among laparotomy patients, abdominal vascular injury was associated with mortality (OR 4.69, 95% CI 1.22-18.07), while ISS >=16 (OR 7.54, 95% CI 2.75-20.68), abdominal vascular injury (OR 11.81, 95% CI 1.52-91.59) and colonic injury (OR 2.49, 95% CI 1.17-5.31) were associated with ICU admission.\n\n**CONCLUSION**: In this cohort of modern warfare casualties, abdominal trauma was common, and one-quarter of these patients required laparotomy. Despite high injury severity, in-hospital mortality remained relatively low. Small bowel, colonic, liver, and retroperitoneal injuries, together with increasing injury severity, were independently associated with the need for laparotomy. These findings underscore the surgical burden of abdominal trauma in conflict and may help guide triage and management in both military and civilian trauma systems.",
-      "journal": "Injury",
-      "authors": [
-        "Gendler S",
-        "Sarfaty E",
-        "Talmy T",
-        "Givon A",
-        "Schrier I"
-      ],
-      "date": "2026 Jul 24",
-      "doi": "10.1016/j.injury.2026.113535",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Penetrating",
-        "Systems/QI",
-        "Vascular"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "penetrating trauma",
-          "strength": "weak",
-          "topic": "Penetrating"
-        },
-        {
-          "keyword": "injury severity",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "penetrating injury",
-          "strength": "weak",
-          "topic": "Penetrating"
-        },
-        {
-          "keyword": "vascular injury",
-          "strength": "weak",
-          "topic": "Vascular"
-        },
-        {
-          "keyword": "trauma registry",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42521593/"
-    },
-    {
-      "pmid": "42521477",
-      "title": "Socioeconomic equity measured by Indices of Multiple Deprivation for HEMS-attended major trauma in South East England: heterogenous effects in severe traumatic brain injury.",
-      "abstract": "**BACKGROUND**: Healthcare inequalities persist across socioeconomic gradients with deprived populations experiencing higher trauma mortality. This study aimed to determine whether 30-day mortality differs across socioeconomic deprivation quintiles in Helicopter Emergency Medical Service (HEMS) attended major trauma and to assess equity of intervention delivery and operational response.\n\n**METHODS**: Retrospective service evaluation cohort study of consecutive HEMS-attended major trauma patients (Injury Severity Score (ISS)>15) by Air Ambulance Charity Kent Surrey and Sussex (July 2013-February 2022). Indices of Multiple Deprivation quintiles derived from preassigned Lower Layer Super Output Area (LSOA) at incident location rather than patient residential address were examined alongside mortality outcomes. The primary outcome was 30-day mortality across socioeconomic quintiles (Q), with prespecified subgroups including traumatic haemorrhage and traumatic brain injury (TBI). Geospatial analysis and multivariable logistic regression were performed.\n\n**RESULTS**: Among 1752 major trauma patients (median ISS 27, IQR 21-36)\u2009geospatial analysis identified missions in 1190 LSOA codes (10.5% of region), with clustering in areas of moderate deprivation. 30-day mortality showed no socioeconomic gradient: 17% (95% CI 12% to 25%) in Q1 vs 21% (95% CI 17% to 25%) in Q5, p=0.861. Multivariable logistic regression confirmed no independent association between deprivation and mortality (adjusted OR per quintile increase 1.01, 95%\u2009CI 0.92 to 1.11, p=0.800). Secondary outcomes demonstrated equitable service provision with prehospital emergency anaesthesia 37-43% (p=0.667), blood transfusion 8-13% (p=0.321) and night operations 28-41% (p=0.124). Exploratory subgroup analysis identified a significant Glasgow Coma Scale\u00d7deprivation interaction in TBI (p=0.003), with possible age-dependent variations warranting further investigation.\n\n**CONCLUSIONS**: Equitable 30-day mortality outcomes were achieved across socioeconomic quintiles within the operational region examined. A regional HEMS may mitigate health inequalities in major trauma, though complete equity requires addressing broader social determinants of health.",
-      "journal": "Emerg Med J",
-      "authors": [
-        "Griggs J",
-        "Harris J",
-        "Barrett J",
-        "Curtis L",
-        "de Coverly R",
-        "Clarke S",
-        "Bootland D",
-        "Ream E",
-        "Lyon R"
-      ],
-      "date": "2026 Aug 11",
-      "doi": "10.1136/emermed-2025-215619",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Haemorrhage",
-        "Prehospital",
-        "Systems/QI",
-        "TBI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "major trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "injury severity",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "blood transfusion",
-          "strength": "weak",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "traumatic brain injury",
-          "strength": "strong",
-          "topic": "TBI"
-        },
-        {
-          "keyword": "helicopter emergency",
-          "strength": "weak",
-          "topic": "Prehospital"
-        },
-        {
-          "keyword": "HEMS",
-          "strength": "strong",
-          "topic": "Prehospital"
-        },
-        {
-          "keyword": "prehospital",
-          "strength": "weak",
-          "topic": "Prehospital"
-        },
-        {
-          "keyword": "trauma mortality",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42521477/"
-    },
-    {
-      "pmid": "42520558",
-      "title": "Moral injury in orthopaedic surgery: Distinguishing burnout from system-level ethical conflict.",
-      "abstract": "Orthopaedic surgeons experience some of the highest rates of burnout, depression, and suicidal ideation among all surgical specialties, yet existing wellness frameworks may not fully account for the specific nature of their distress. When surgeons are prevented from providing timely, indicated care by system constraints, pressured to participate in clinical decisions that conflict with their professional judgment, or repeatedly exposed to preventable disability and suffering, the resulting harm is not simply exhaustion. It is moral injury-a deeper disruption of professional identity, trust, and conscience that burnout frameworks alone do not capture. This manuscript introduces a three-domain model of moral injury in orthopaedic surgery, linking constraint-based, permission-based, and exposure-based mechanisms to measurable surgeon-level and system-level outcomes. We examine how this framework differs from burnout and moral distress, why orthopaedic surgery is uniquely vulnerable, and what individual, departmental, and institutional interventions are most applicable. A structured research agenda and GRADE-informed recommendations are provided to guide future investigation and departmental implementation.",
-      "journal": "Injury",
-      "authors": [
-        "Saad J",
-        "Aboukar M",
-        "Quick JC",
-        "Saleh A",
-        "Saleh KJ"
-      ],
-      "date": "2026 Jul 19",
-      "doi": "10.1016/j.injury.2026.113516",
-      "tier": "filtered",
-      "topics": [],
-      "keyword_matches": [],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42520558/"
-    },
-    {
-      "pmid": "42520557",
-      "title": "Navigating the antithrombotic challenge in hip-fracture care: A framework to avoid delays and optimise patient outcomes.",
-      "abstract": "**INTRODUCTION**: Hip fractures are a critical surgical emergency in older adults, frequently complicated by chronic antithrombotic therapy. Balancing expedited surgery with haemostatic and anaesthetic safety remains a major multidisciplinary challenge, with direct implications for survival and functional recovery.\n\n**OBJECTIVE**: To propose an evidence-based decision-making framework for the perioperative management of anticoagulated patients with hip fractures, prioritising early surgery through an active clinical approach.\n\n**FRAMEWORK**: This review proposes a pragmatic multidisciplinary framework, derived from practice in a Level 1 Trauma Centre and informed by current international guidelines (NICE, AAOS, Association of Anaesthetists, ESAIC/ESRA, and ASRA). It integrates recent evidence on antithrombotic management, regional anaesthesia safety, reversal strategies, and Patient Blood Management.\n\n**MAIN RECOMMENDATIONS**: Early surgery-ideally within 24\u00a0h and no later than 48\u00a0h-is the overriding objective. Decision-making is guided by active haemostatic assessment, including drug-specific assays where available. A foundational principle is the clinical decoupling of safety thresholds for surgery and anaesthesia, recognising that the haemostatic requirements for surgery are distinct from the more stringent criteria for neuraxial or deep regional techniques. When neuraxial safety thresholds are not met, general anaesthesia, supplemented where appropriate by low-bleeding-consequence peripheral nerve blocks, should be considered to avoid unnecessary surgical delay. Reversal strategies and Patient Blood Management measures are integrated in parallel to optimise the patient's physiological status without postponing intervention. While this allows for an expedited pathway, surgical intervention remains contingent on achieving a baseline haemostatic profile to mitigate procedural bleeding risk.\n\n**CONCLUSION**: This framework replaces passive drug-clearance waiting times with a structured, active strategy. By adapting haemostatic and anaesthetic tracks to the clinical urgency, it ensures that antithrombotic therapy is managed as a treatable condition rather than an automatic barrier to life-saving surgery.",
-      "journal": "Injury",
-      "authors": [
-        "Marta M",
-        "Costa L",
-        "Paulo Moreira J",
-        "Ara\u00fajo F"
-      ],
-      "date": "2026 Jul 25",
-      "doi": "10.1016/j.injury.2026.113529",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "trauma centre",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42520557/"
     }
   ]
 }
