@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-29T02:37:32.701628Z",
-  "total_articles": 196,
+  "generated": "2026-08-29T22:08:04.366606Z",
+  "total_articles": 199,
   "all_topics": [
     "Abdominal",
     "Burns",
@@ -379,6 +379,118 @@
   },
   "articles": [
     {
+      "pmid": "42667231",
+      "title": "Pulmonary Vein Isolation Using Pulsed Field Ablation With vs Without Posterior Wall Isolation in Patients With Symptomatic Persistent Atrial Fibrillation: The PIFPAF-PFA Randomized Clinical Trial.",
+      "abstract": "**IMPORTANCE**: Pulmonary vein isolation (PVI) is less effective in persistent than in paroxysmal atrial fibrillation (AF).\n\n**OBJECTIVE**: To determine whether adding posterior left atrial wall isolation (PWI) to pulsed field ablation (PFA)-based PVI reduces atrial tachyarrhythmia in patients with persistent AF.\n\n**DESIGN, SETTING, AND PARTICIPANTS**: This investigator-initiated, multicenter, randomized superiority trial with blinded end-point adjudication was conducted at 6 centers in Switzerland. Patients with symptomatic, persistent AF were enrolled from November 2023 to February 2025, with 1-year follow-up completed February 2026.\n\n**INTERVENTION**: Patients were randomized 1:1 to PFA-based PVI with PWI vs PFA-based PVI alone. All patients received an implantable cardiac monitor (ICM) after ablation.\n\n**MAIN OUTCOMES AND MEASURES**: The primary end point was first recurrence of atrial tachyarrhythmia during days 91 to 365 after ablation, detected by continuous ICM monitoring and adjudicated by an independent clinical events committee blinded to treatment allocation. There were 29 secondary end points, including atrial arrhythmia burden during days 91 to 365, time to arrhythmia recurrence during days 91 to 365 using different minimum episode durations, and a safety composite, which comprised cardiac tamponade requiring drainage, persistent phrenic nerve palsy lasting more than 24 hours, serious vascular complications requiring intervention, stroke or transient ischemic attack, atrioesophageal fistula, or death up to day 90.\n\n**RESULTS**: Among 206 randomized patients (mean [SD] age, 65.8 [9.2] years; 165 [80.1%] males; 102 randomized to PVI with PWI; 104 randomized to PVI alone), atrial tachyarrhythmia recurred in 51 of 102 patients (50.6%) assigned to PVI with PWI and in 63 of 104 patients (60.6%) assigned to PVI alone (rate ratio [RR], 0.75 [95% CI, 0.51-1.09]; P\u2009=\u2009.13). Of the 29 prespecified secondary outcomes, 22 were not significantly different. The mean atrial arrhythmia burden was 6.9% and 11.0%, respectively (difference, -4.1 percentage points; 95% CI, -8.0 to -0.2 percentage points; P\u2009=\u2009.04). Across minimum episode durations of 1 hour or longer, 6 hours or longer, 1 day or longer, 2 days or longer, and 7 days or longer, RRs for PVI with PWI vs PVI alone were 0.64 (95% CI, 0.41-0.99), 0.62 (95% CI, 0.38-1.03), 0.37 (95% CI, 0.18-0.78), 0.40 (95% CI, 0.18-0.88), and 0.51 (95% CI, 0.22-1.23), respectively. The safety composite end point occurred in 2 patients assigned to PVI with PWI.\n\n**CONCLUSIONS AND RELEVANCE**: In patients with persistent AF, adding PFA-based PWI to PVI did not significantly reduce atrial tachyarrhythmia recurrence lasting 30 seconds or longer compared with PVI alone. The findings for secondary end points are hypothesis generating and warrant further evaluation in a larger trial.\n\n**TRIAL REGISTRATION**: ClinicalTrials.gov Identifier: NCT05986526.",
+      "journal": "JAMA",
+      "authors": [
+        "Roten L",
+        "Maurhofer J",
+        "Krisai P",
+        "Breitenstein A",
+        "Koepfli P",
+        "Saguner AM",
+        "Franzeck F",
+        "Pascale P",
+        "Kueffer T",
+        "Knecht S",
+        "Jufer C",
+        "Spahiu V",
+        "Schaerli N",
+        "Herrera Siklody C",
+        "Thalmann G",
+        "Kozhuharov N",
+        "Kovacs B",
+        "Mahfoud F",
+        "Heg D",
+        "Pereira TV",
+        "Servatius H",
+        "Tanner H",
+        "K\u00fchne M",
+        "Sticherling C",
+        "Reichlin T",
+        "J\u00fcni P",
+        "Badertscher P"
+      ],
+      "date": "2026 Aug 29",
+      "doi": "10.1001/jama.2026.17598",
+      "tier": "filtered",
+      "topics": [
+        "Thoracic"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "cardiac tamponade",
+          "strength": "weak",
+          "topic": "Thoracic"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42667231/"
+    },
+    {
+      "pmid": "42665994",
+      "title": "Prehospital Emergency Care for Traumatic Brain Injury Patients in Hanoi: A Multicenter Study of Outcomes and Quality of Care.",
+      "abstract": "**OBJECTIVE**: Evaluate prehospital care quality and outcomes for traumatic brain injury (TBI) patients in Vietnam.\n\n**METHODS**: We conducted a retrospective multicentre audit at three tertiary Hanoi hospitals (January-August 2025), including adults with moderate-severe TBI. Prehospital care was assessed against five EPIC-TBI standards and in-hospital mortality recorded.\n\n**RESULTS**: Of 80 cases, 45 (56.3%) were transported by EMS; 14 (17.5%) received oxygen or saturation monitoring and 11 (13.8%) had blood pressure management. In-hospital mortality was 22/80 (27.5%), with 14/22 (63.6%) of deaths potentially preventable.\n\n**CONCLUSION**: Major prehospital TBI care gaps support the need for enhanced resources, training and quality assurance.",
+      "journal": "Emerg Med Australas",
+      "authors": [
+        "Hoang BH",
+        "Tran TL",
+        "Nguyen T",
+        "Luong QC",
+        "Dinh MM"
+      ],
+      "date": "2026 Oct 1",
+      "doi": "10.1111/1742-6723.70338",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Prehospital",
+        "TBI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "traumatic",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic brain injury",
+          "strength": "strong",
+          "topic": "TBI"
+        },
+        {
+          "keyword": "prehospital",
+          "strength": "strong",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42665994/"
+    },
+    {
+      "pmid": "42664758",
+      "title": "Early mortality prediction of prognosis in cardiac arrest patients using machine learning: Development, external validation, and explainability with SHAP.",
+      "abstract": "**BACKGROUND**: Cardiac arrest (CA) is a major global health challenge, accounting for a significant proportion of deaths and healthcare resource utilization. However, due to the lack of interpretability, most predictive models for CA mortality have not been applied in clinical practice. We aimed to construct an interpretable model for predicting in-hospital mortality for CA patients in the intensive care units (ICU).\n\n**METHODS**: Data from the MIMIC-IV database were split, with 70% allocated to the training set and 30% to the internal validation set. The eICU database served as an external validation set. Using the variables selected by least absolute shrinkage and selection operator (LASSO), we constructed and evaluated seven machine-learning (ML) models. The optimal model was rendered explainable through the Shapley additive explanations (SHAP) approach. And, a web-based calculator was developed based on the optimal performance model for easy use.\n\n**RESULTS**: A total of 1749 patients with CA were finally enrolled from MIMIC-IV in this study. By LASSO regression, 21 variables were selected to construct the ML models. Among seven constructed models, the eXtreme Gradient Boosting (XGBoost) model emerged as the best-performing model in internal validation set (AUC = 0.8486) and external validation set (AUC=0.8471). In addition\uff0cXGBoost model showed higher net benefit and wider threshold probability in DCA. Furthermore, SHAP force analysis visualized the individualized mortality prediction performed by the model.\n\n**CONCLUSIONS**: We developed an XGBoost-based prediction model with good performance for early mortality prediction in CA patients. Model interpretability was enhanced using SHAP analysis. An online calculator based on the model is also provided.",
+      "journal": "Injury",
+      "authors": [
+        "Sun Y",
+        "Wang L",
+        "You H",
+        "Liu X",
+        "Ren J",
+        "Wu Y",
+        "He Z"
+      ],
+      "date": "2026 Aug 27",
+      "doi": "10.1016/j.injury.2026.113643",
+      "tier": "filtered",
+      "topics": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42664758/"
+    },
+    {
       "pmid": "42664475",
       "title": "Trauma critical care in trauma patients during large-scale combat operations: gaps but also concrete advances.",
       "abstract": "",
@@ -625,7 +737,7 @@
         "Harvey LA"
       ],
       "date": "2026 Aug 28",
-      "doi": "10.1002/14651858.CD014476.pub2",
+      "doi": "10.1186/1471-2458-9-168",
       "tier": "filtered",
       "topics": [
         "Spine"
