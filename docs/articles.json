@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-01T22:12:07.238761Z",
-  "total_articles": 208,
+  "generated": "2026-09-02T22:10:32.854858Z",
+  "total_articles": 214,
   "all_topics": [
     "Abdominal",
     "Burns",
@@ -378,6 +378,358 @@
     "Cochrane Database Syst Rev": "filtered"
   },
   "articles": [
+    {
+      "pmid": "42683977",
+      "title": "Impact of Nearby Hospital Closure on Surgical Services: A Retrospective Quasi-Experimental Study.",
+      "abstract": "**BACKGROUND**: Hospital closures are increasing because of consolidation, acquisition, and rising operating costs, yet their effects on surgical workload redistribution within regional health systems remain poorly defined. We evaluated the impact of an urban hospital closure on operative volume, essential surgical procedures, payer mix, and timing of presentation at a neighboring community hospital (NCH) and a state trauma center (TC).\n\n**STUDY DESIGN**: A retrospective review compared surgical activity before (2015-2017) and after (2018-2024) closure of an urban hospital. Patient demographics, insurance status, operative volume, and presentation timing were analyzed at the NCH and TC. Essential operations were defined as laparoscopic cholecystectomy, laparoscopic appendectomy, and incision and drainage. Analyses were stratified by zip codes previously served by the closed hospital.\n\n**RESULTS**: Following hospital closure, total operative volume increased by 2.9% at the NCH and decreased by 3.5% at the TC. Essential operations increased by 20.2% at the NCH but decreased by 11.6% at the TC. Both hospitals experienced increases in holiday/weekend operations (NCH, 15.8%; TC, 10.3%). Patients from zip codes previously served by the closed hospital disproportionately contributed to growth in off-hours surgical care and were more likely to be publicly insured. Private insurance coverage did not differ before versus after closure at either hospital.\n\n**CONCLUSIONS**: Closure of an urban hospital was associated with redistribution of urgent surgical care toward neighboring hospitals, particularly increases in off-hours essential operations among publicly insured patients. These findings may inform operating room capacity planning, workforce allocation, and resource deployment across surgical systems serving vulnerable populations.",
+      "journal": "J Am Coll Surg",
+      "authors": [
+        "Goosman M",
+        "Friend T",
+        "Aluisio AR",
+        "Heffernan DS",
+        "Emigh B",
+        "Lueckel S",
+        "Dagen N",
+        "Stephen AH"
+      ],
+      "date": "2026 Sep 02",
+      "doi": "10.1097/XCS.0000000000002186",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42683977/"
+    },
+    {
+      "pmid": "42683976",
+      "title": "Superlarge-Bore Versus Large-Bore Aspiration Catheters in Mechanical Thrombectomy: A Multicenter Propensity-Matched Analysis.",
+      "abstract": "**BACKGROUND AND OBJECTIVES**: Aspiration catheters are an integral component of mechanical thrombectomy for acute ischemic stroke (AIS). Following early series demonstrating increasing procedural efficiency and improved outcomes with use of large-bore (LB) aspiration catheters, there is increased interest in the use of emerging superlarge-bore (SLB) catheters.\n\n**METHODS**: We retrospectively analyzed AIS patients with large vessel occlusion treated at 34 international centers (2018-2025) using SLB or LB aspiration catheters on the first attempt. We used propensity score matching (1:6) to define a balanced cohort based on baseline and technical confounders between the catheter groups. Safety, efficacy, and technical outcomes were compared, with the primary outcome being the first pass effect (FPE).\n\n**RESULTS**: A total of 2032 patients treated with aspiration as the frontline technique were included (SLB n = 107; LB n = 1925). After propensity score matching (SLB n = 107; LB n = 642), there was no significant difference in FPE between the SLB and LB groups (56.1% vs 54.8%; odds ratio [OR] 1.05, P = .8). Secondary efficacy outcomes were similarly comparable, including functional independence at 90 days (50.0% vs 46.9%; OR 1.13, P = .586), successful recanalization (modified thrombolysis in cerebral infarction \u22652b) (96.3% vs 93.5%; OR 1.78, P = .3), and median time to modified thrombolysis in cerebral infarction \u22652b (22.0 vs 22.8 minutes; \u03b2 = -5.94, P = .7). Safety outcomes were also comparable, including intraprocedural complications (10.3% vs 8.2%, P = .5), symptomatic intracranial hemorrhage (8.7% vs 6.6%, P = .4), embolization to new territory (15.9% vs 13.1%, P = .4), and 90-day mortality (21.6% vs 27.1%, P = .3). Using a 10% noninferiority margin, LB aspiration catheters met the prespecified noninferiority criterion compared with SLB aspiration catheters for successful recanalization and FPE. Our findings remained consistent in the subgroup restricted to internal carotid artery and M1 occlusions.\n\n**CONCLUSION**: The use of SLB aspiration catheters showed comparable safety and efficacy with standard LB catheters for mechanical thrombectomy in AIS.",
+      "journal": "Neurosurgery",
+      "authors": [
+        "Chacon A",
+        "Alawieh AM",
+        "Motiwala M",
+        "Hijazi D",
+        "Inoa V",
+        "Cawley CM",
+        "Howard BM",
+        "Rai A",
+        "Siddiqui F",
+        "Alaraj A",
+        "Romano DG",
+        "Fiorella D",
+        "Maier I",
+        "Dye J",
+        "Ezzeldin M",
+        "Wolfe SQ",
+        "Mascitelli J",
+        "Fragata I",
+        "Matouk C",
+        "Limaye K",
+        "S Ogilvy C",
+        "Brinjikji W",
+        "Jabbour P",
+        "Almallouhi E",
+        "Daglioglu E",
+        "Park MS",
+        "Navia P",
+        "Grandhi R",
+        "Altschul DJ",
+        "Schirmer C",
+        "Paul AR",
+        "Mokin M",
+        "Nickele C",
+        "Matsukawa H",
+        "Uchida K",
+        "Psychogios MN",
+        "Levitt MR",
+        "Starke RM",
+        "Spiotta AM",
+        "Grossberg JA",
+        "Goyal N"
+      ],
+      "date": "2026 Sep 02",
+      "doi": "10.1227/neu.0000000000004186",
+      "tier": "filtered",
+      "topics": [
+        "TBI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "intracranial haemorrhage",
+          "strength": "weak",
+          "topic": "TBI"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42683976/"
+    },
+    {
+      "pmid": "42681637",
+      "title": "Blunt versus penetrating trauma: differences in early physiology, coagulopathy, and outcomes in a Scandinavian trauma centre.",
+      "abstract": "**BACKGROUND**: Blunt and penetrating trauma differ in injury patterns, management, and outcomes, but data comparing early physiological and haemostatic responses within Scandinavian trauma systems remain limited. We aimed to investigate differences in clinical characteristics, early physiology, and outcomes between blunt and penetrating trauma patients at a major Swedish trauma centre.\n\n**METHODS**: This registry-based observational cohort study included adult trauma patients admitted to the Karolinska University Hospital, Stockholm, between November 2022 and December 2024. Detailed prospective data were collected for patients receiving blood transfusion within two hours of arrival. Patients were categorised by injury type (blunt vs. penetrating). Clinical outcomes included 30-day mortality, hospital length of stay, and functional outcome. Secondary analyses compared physiological, metabolic, and coagulation parameters. Multivariable logistic regression was used to compare 30-day mortality between groups, adjusted for age, sex, Injury Severity Score, and preinjury comorbidity.\n\n**RESULTS**: A total of 2,193 patients were included, of whom 353 (16%) sustained penetrating trauma. Patients with penetrating trauma were younger (median 34 vs. 49 years, p\u2009<\u20090.001), more often male (78% vs. 66%, p\u2009<\u20090.001), and more frequently presented in shock (5.9% vs. 2.2%, p\u2009<\u20090.001), with a greater need for emergency surgery (53% vs. 30%, p\u2009<\u20090.001) and early blood transfusion (20% vs. 4.5%, p\u2009<\u20090.001). Blunt trauma patients had higher injury severity (median ISS 10 vs. 4, p\u2009<\u20090.001), longer hospital stays (>\u20097 days: 26% vs. 18%, p\u2009=\u20090.001), and worse functional outcomes at discharge (Glasgow Outcome Scale 2 or 3: 40% vs. 12%, p\u2009<\u20090.001). In the early transfusion subgroup (n\u2009=\u2009152), blunt trauma patients exhibited lower fibrinogen levels (median 2.1 vs. 2.5 g/L, p\u2009=\u20090.027), lower platelet counts (median 239 vs. 271 10\u2079/L, p\u2009=\u20090.011), and prolonged activated partial thromboplastin time (median 26 vs. 23 s, p\u2009<\u20090.001) compared with penetrating trauma patients, despite similar rates of trauma-induced coagulopathy defined by INR\u2009>\u20091.2 (23% vs. 16%, p\u2009=\u20090.32). After exclusion of non-trauma-related deaths, 30-day mortality did not differ significantly between groups in unadjusted or adjusted analyses.\n\n**CONCLUSIONS**: Within this Scandinavian trauma system, blunt and penetrating trauma represent distinct clinical entities with differing injury patterns, physiological responses, and management needs. Despite these differences, adjusted mortality was comparable. These findings may support mechanism-specific assessment and prioritisation in trauma management.\n\n**TRIAL REGISTRATION**: This study is a secondary analysis of a prospectively registered observational trauma cohort (ClinicalTrials.gov NCT05573841, registered 6 October, 2022).",
+      "journal": "Scand J Trauma Resusc Emerg Med",
+      "authors": [
+        "von Oelreich E",
+        "Eriksson J",
+        "Arnason B",
+        "Ohl\u00e9n D",
+        "Hedin A",
+        "Gille A",
+        "Fagerlund MJ",
+        "Hedberg M"
+      ],
+      "date": "2026 Aug 29",
+      "doi": "10.1038/s41572-021-00264-3",
+      "tier": "core",
+      "topics": [
+        "General Trauma",
+        "Haemorrhage",
+        "Penetrating",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "blunt trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "penetrating trauma",
+          "strength": "strong",
+          "topic": "Penetrating"
+        },
+        {
+          "keyword": "injury severity",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "strong",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "trauma-induced coagulopathy",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "blood transfusion",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "fibrinogen",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42681637/"
+    },
+    {
+      "pmid": "42679438",
+      "title": "Eye injuries associated with desk supplies presenting to United States emergency departments, 2005-2024.",
+      "abstract": "**PURPOSE**: Desk supplies are a cause of accidental ocular injury, particularly among children. The objective of this study is to characterize the incidence, demographic patterns, injury characteristics, and temporal trends of desk supply-related eye injuries (DSEI) presenting to United States (U.S.) emergency departments from 2005 to 2024.\n\n**METHODS**: A cross-sectional analysis of data from the National Electronic Injury Surveillance System (NEISS) was conducted for cases involving ocular trauma (body part code 77) from pens and pencils (product code 1685) and other desk supplies (product code 1650). Patient demographics, injury location, product type, diagnosis and disposition were examined across age and product cohorts. All statistical analyses were conducted using R.\n\n**RESULTS**: Over the 20-year study period, a total of 2764 cases were identified. This corresponds to a national estimate of 73,750 cases total, or approximately 3700 cases annually. Annual case counts declined over time (\u03b2\u00a0=\u00a0-5.44 cases/year; 95% CI, -6.81 to -4.07; p\u00a0<\u00a00.001). Children aged 5-11\u00a0years accounted for nearly half of all cases (49.2%), followed by children aged 0-4\u00a0years (20.3%) and adolescents aged 12-17\u00a0years (17.9%); adults comprised 12.6% of injuries. Most injuries were caused by pencils (62.9%) or pens (14.1%) and occurred at school (31.2%) or at home (27.5%).\n\n**CONCLUSIONS**: DSEI are a frequent cause of emergency department visits. While injury incidence has declined in recent years, potentially due to classroom digitization, these findings highlight the need for improved prevention strategies and ongoing surveillance.",
+      "journal": "Am J Emerg Med",
+      "authors": [
+        "Zhou J",
+        "Somia S",
+        "Ho M",
+        "Peng W",
+        "Lee MJ",
+        "Rizzuto PR"
+      ],
+      "date": "2026 Aug 26",
+      "doi": "10.1016/j.ajem.2026.08.047",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42679438/"
+    },
+    {
+      "pmid": "42679432",
+      "title": "Impact of altered consciousness on the risk of fasciotomy for acute compartment syndrome following traumatic tibial fracture.",
+      "abstract": "**BACKGROUND**: Acute compartment syndrome (ACS) following tibial fracture is a limb-threatening emergency that relies heavily on clinical assessment for diagnosis. In patients with altered consciousness (hereafter referred to as obtunded status), key symptoms such as pain out of proportion cannot be reliably assessed, potentially influencing surgical decision-making. Whether obtunded status independently affects fasciotomy rates remains poorly understood.\n\n**OBJECTIVE**: To determine whether obtunded status is independently associated with increased likelihood of fasciotomy for suspected ACS in patients with traumatic tibial fractures.\n\n**METHODS**: A retrospective cohort study was performed using the National Trauma Data Bank (NTDB) from 2016 to 2018. Patients with tibial plateau (AO/OTA 41) and tibial shaft (AO/OTA 42) fractures were included. Obtunded status was defined as sedation/intubation, severe alcohol intoxication, or Glasgow Coma Scale score <\u202f9. The primary outcome was fasciotomy during hospitalization. Multivariable logistic regression was used to evaluate the association between obtunded status and fasciotomy while adjusting for age, sex, fracture location, fracture complexity, open fracture status, and skull fracture.\n\n**RESULTS**: Among 119,393 patients with tibial fractures, 6854 (5.7%) underwent fasciotomy. On univariable analysis, obtunded patients experienced higher fasciotomy rates than non-obtunded patients (7.1% vs 5.6%, p\u202f<\u202f0.001). After multivariable adjustment, obtunded status remained independently associated with increased odds of fasciotomy (OR 1.14, 95% CI 1.03-1.25). Other significant predictors included open fractures (OR 2.00), male sex (OR 1.72), proximal tibial fractures (OR 1.68), and increasing fracture complexity (all p\u202f<\u202f0.001). Increasing age was associated with reduced odds of fasciotomy (p\u202f<\u202f0.001). Skull fractures were not independently associated with fasciotomy (p\u202f=\u202f0.16).\n\n**CONCLUSIONS**: Obtunded status is independently associated with a modest but significant increase in fasciotomy rates following tibial fractures. Although fracture characteristics remain the primary determinants of surgical intervention, being obtunded appears to lower the threshold for fasciotomy when clinical assessment is unreliable. These findings highlight the diagnostic challenges of ACS in obtunded patients and support further investigation into objective monitoring strategies, including continuous intracompartmental pressure monitoring, to reduce uncertainty and optimize decision-making in high-risk populations.",
+      "journal": "Injury",
+      "authors": [
+        "Bouklouch Y",
+        "Poirier P",
+        "Parent-Harvey S",
+        "Esfahani SJ",
+        "McBeth K",
+        "Harvey EJ"
+      ],
+      "date": "2026 Aug 20",
+      "doi": "10.1016/j.injury.2026.113607",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Orthopaedic"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "open fracture",
+          "strength": "weak",
+          "topic": "Orthopaedic"
+        },
+        {
+          "keyword": "tibial fracture",
+          "strength": "strong",
+          "topic": "Orthopaedic"
+        },
+        {
+          "keyword": "compartment syndrome",
+          "strength": "strong",
+          "topic": "Orthopaedic"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42679432/"
+    },
+    {
+      "pmid": "42679431",
+      "title": "Innovative intramedullary nail system with internally locking: A safe alternative fixation technique for humerus shaft fracture that reduces the risk of the iatrogenic radial nerve injury and surgical time.",
+      "abstract": "**PURPOSE**: Humeral shaft fractures may be managed conservatively or operatively; however, increasing non-union and complications after non-operative treatment have renewed interest in intramedullary fixation. Innovative intramedullary nails with distal internally locking, requiring neither fluoroscopy nor external guidance, aim to reduce surgical time, simplify the procedure, and minimise the risk of iatrogenic radial nerve injury. This study evaluates the clinical and radiological outcomes of a humeral nail utilising distal internally locking.\n\n**MATERIAL AND METHOD**: A retrospective review included 75 patients treated with antegrade intramedullary nailing for humeral shaft fractures between 2020 and 2025. Patients with pathological fractures, preoperative radial nerve palsy, concomitant upper-limb injuries, or insufficient follow-up were excluded. Operative parameters, complications, union time, hospital stay, and return to activity were recorded. Functional outcomes were assessed at final follow-up using the Constant-Murley score, QDASH, VAS, and shoulder range of motion.\n\n**RESULTS**: Operative time was 46.4\u202f\u00b1\u202f11.1\u202fmin, and hospital stay was 3.2\u202f\u00b1\u202f0.8 days. Radiological union occurred at 13.0\u202f\u00b1\u202f2.9 weeks, and patients returned to daily activities at 12.6\u202f\u00b1\u202f2.5 weeks. No postoperative radial nerve palsy or infections were observed. One non-union required exchange nailing, and three cases of proximal screw irritation resolved after screw removal. Functional outcomes were excellent overall, with a Constant score of 93.4\u202f\u00b1\u202f9.4, QDASH of 2.9\u202f\u00b1\u202f6.0, VAS of 0.8\u202f\u00b1\u202f1.3, and near-complete restoration of shoulder mobility.\n\n**CONCLUSION**: Intramedullary nailing with an internally distal locking mechanism, without the need for fluoroscopy and an external guidance system, offers a safe and efficient treatment option for humeral shaft fractures. This technique significantly reduces surgical time and the risk of iatrogenic radial nerve injury, while maintaining excellent union rates and functional outcomes. This system represents a reliable alternative to traditional interlocking nails and plate fixation, particularly in clinical settings where minimising surgical time is essential.\n\n**CLINICAL TRIAL REGISTRATION**: Not applicable.",
+      "journal": "Injury",
+      "authors": [
+        "Onder Y",
+        "Tuncez M",
+        "Kurtulus T",
+        "Bulut T"
+      ],
+      "date": "2026 Aug 27",
+      "doi": "10.1016/j.injury.2026.113639",
+      "tier": "filtered",
+      "topics": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42679431/"
+    },
+    {
+      "pmid": "42679429",
+      "title": "Surgical rib fixation in pediatric patients: Following the adult trend or a different story?",
+      "abstract": "**INTRODUCTION**: For many years, non-operative management has been an established standard of care for rib fractures. In adults, surgical stabilization of rib fractures (SSRF) has become an increasingly accepted alternative, with growing evidence supporting its benefits. In contrast, the role of SSRF in pediatric trauma remains poorly defined. This study presents the largest known cohort of pediatric SSRF patients to describe their characteristics and assess whether pediatric practice mirrors adult trends.\n\n**METHOD**: A retrospective review of pediatric patients (<18 years) with rib fractures was conducted using the TQIP database (2017-2023). Patients were stratified by treatment (SSRF vs. non-operative). Demographic, injury, surgical, and outcome characteristics were compared. Adult SSRF patients during the same period were included for secondary analysis.\n\n**RESULTS**: Among 28,465 pediatric rib fractures, 87 (0.31%) underwent SSRF. Pediatric SSRF rates remained stable over time (0.16%-0.39%; p\u202f=\u202f0.17), while adult SSRF use increased (1.5%-2.37%; p\u202f=\u202f0.0027). Pediatric SSRF patients were older (14.6 vs. 13.0 years; p\u202f<\u202f0.001), more likely to present with flail chest (25.3% vs. 1.2%, p\u202f<\u202f0.001), and had higher ISS (25.9 vs. 20.3; p\u202f<\u202f0.001) compared to non-SSRF pediatric patients. Compared to adults, pediatric SSRF patients underwent less extensive fixation but had more open thoracic injuries (14.9% vs. 2.3%; p\u202f<\u202f0.001). Among pediatric SSRF patients, 50.6% had a same-day major thoracic/open-chest procedure. Pediatric SSRF patients had zero mortality, compared to 7.3% in non-operative pediatric patients (p\u202f=\u202f0.009) and 2.7% in adults (p\u202f=\u202f0.123).\n\n**CONCLUSION**: SSRF in pediatric patients remains rare, while adult SSRF is increasing in incidence. Our data suggest it is being used in highly selected pediatric cases, largely confined to older children and those presenting with severe or complex thoracic injuries such as flail chest or open fractures. Further research is needed to clarify pediatric-specific indications and determine which injury patterns may be appropriate for SSRF.",
+      "journal": "Injury",
+      "authors": [
+        "Hamdan HS",
+        "Halabi M",
+        "Nouiri AE",
+        "Gardner C",
+        "Djuric M",
+        "Hill L",
+        "Johnson JL"
+      ],
+      "date": "2026 Aug 28",
+      "doi": "10.1016/j.injury.2026.113645",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Orthopaedic",
+        "Paediatric",
+        "Thoracic"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "rib fracture",
+          "strength": "weak",
+          "topic": "Thoracic"
+        },
+        {
+          "keyword": "flail chest",
+          "strength": "weak",
+          "topic": "Thoracic"
+        },
+        {
+          "keyword": "paediatric trauma",
+          "strength": "weak",
+          "topic": "Paediatric"
+        },
+        {
+          "keyword": "open fracture",
+          "strength": "weak",
+          "topic": "Orthopaedic"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42679429/"
+    },
+    {
+      "pmid": "42679428",
+      "title": "Delivery outcomes following previous pelvic ring injury: A systematic review, meta-analysis and evidence informed management pathway.",
+      "abstract": "Pelvic ring injuries (PRI) are hypothesised to cause mechanical obstruction to the pelvic outlet thus affecting delivery mode in pregnancy. Research has shown a higher caesarean section rate following PRI as a result. Our objective was to synthesise the current evidence for delivery outcomes following PRI and appraise the influence of fracture morphology, operative management and retained implants to derive an evidence informed management pathway. A systematic review with meta-analysis of proportions was conducted in line with PRISMA guidelines. Women of reproductive age with any previous pelvic ring injury were included. Maternal and neonatal outcomes were recorded as secondary outcomes. Ten observational studies (1983-2024) contributed 1253 women and 1719 deliveries. The pooled caesarean section (CS) rate was 40% (95% CI 27-53) with high heterogeneity (I",
+      "journal": "Injury",
+      "authors": [
+        "Gupta VK",
+        "Phua SN",
+        "Rai SK",
+        "Thakker A",
+        "Qayum K",
+        "Sanghera RS",
+        "Varma J",
+        "Vallier HA"
+      ],
+      "date": "2026 Aug 28",
+      "doi": "10.1016/j.injury.2026.113642",
+      "tier": "filtered",
+      "topics": [
+        "Pelvic"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "pelvic ring",
+          "strength": "strong",
+          "topic": "Pelvic"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42679428/"
+    },
     {
       "pmid": "42678774",
       "title": "Suction vs Water Seal for Initial Treatment of Traumatic Pneumothorax Trial (SEAL IT): A Pragmatic Cluster-Randomized Study.",
@@ -8075,71 +8427,6 @@
       "keyword_matches": [],
       "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/42551083/"
-    },
-    {
-      "pmid": "42550258",
-      "title": "Comparison of fluoroscopic versus electromagnetic distal locking in humeral shaft osteosynthesis using intramedullary nail: a retrospective study.",
-      "abstract": "**PURPOSE**: Intramedullary nailing is a standard method for osteosynthesis of diaphyseal humeral fractures. Distal locking, however, typically requires fluoroscopic guidance, which increases radiation exposure. This study aimed to compare standard fluoroscopy-guided distal locking with the Ezy-Aim system (Austofix, Australia) based on electromagnetic pulse detection from the perspectives of surgical times, radiation exposure, and complications.\n\n**METHODS**: A retrospective study included 58 patients treated for diaphyseal humeral fractures (AO/OTA 12A, 12B) between 2019 and 2023. Group A (n\u2009=\u200928) received osteosynthesis using the Ezy-Aim system; Group B (n\u2009=\u200930) underwent fluoroscopy-guided distal locking. Data on operative time, fluoroscopy time, radiation dose, and complications were analysed.\n\n**RESULTS**: In all, distal locking was not successful at the first attempt in 14.3% (4/28) of screws placed with Ezy-Aim and 20.0% (6/30) when fluoroscopy was used. Time and dose analyses were performed on the remaining 48 patients. The total surgical time was significantly longer with the Ezy-Aim system (median 58\u2009min) compared to fluoroscopy (median 52\u2009min, p\u2009=\u20090.034), primarily due to the time required for the device assembly. However, distal screw placement was faster with Ezy-Aim (median 12\u2009min vs. 14\u2009min, p\u2009=\u20090.019). Radiation exposure was significantly lower in the Ezy-Aim group (median total dose 418 cGy/cm\n\n**CONCLUSIONS**: The Ezy-Aim system reduces radiation exposure and speeds up distal screw placement, though it prolongs total operative time due to assembly requirements. This method offers a safe and effective alternative to fluoroscopic guidance for distal locking in humeral shaft fractures.",
-      "journal": "Eur J Trauma Emerg Surg",
-      "authors": [
-        "Madeja R",
-        "Szeliga J",
-        "Voves J",
-        "Pometlova J",
-        "Konde A",
-        "Janosek J",
-        "Dousa P"
-      ],
-      "date": "2026 Aug 04",
-      "doi": "10.1016/j.otsr.2020.102785",
-      "tier": "core",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42550258/"
-    },
-    {
-      "pmid": "42546549",
-      "title": "Advanced vs basic life support outcomes in treatment of out-of-hospital-cardiac-arrest: A registry-based cohort study.",
-      "abstract": "**IMPORTANCE**: The absolute effect on outcomes with Advanced, (ALS) as compared to Basic Life Support, (BLS) care in Out of Hospital Cardiac Arrest, (OHCA) remains unclear.\n\n**OBJECTIVE**: To assess the association of ALS compared to BLS alone prehospital care on return of spontaneous circulation, (ROSC), survival to hospital discharge, and neurological outcome in OHCA in Detroit, MI.\n\n**METHODS**: Retrospective analysis of 6746 patients from the Cardiac Arrest Registry to Enhance Survival database from January 2016 to December 2021 who had non-traumatic OHCA and received cardiopulmonary resuscitation. Cohorts were grouped by ALS v BLS care then initial rhythm and then compared by chi-squared, multivariable logistic, and multinomial regression analysis for outcomes of sustained ROSC, survival to hospital discharge and favorable neurological outcome at hospital discharge. The BLS cohort is defined by units that provided manual CPR, automated rhythm and defibrillation, airway management, but no endotracheal intubation or parenteral medications. ALS care was defined as manual rhythm interpretation, manual defibrillation, intravenous or intraosseous drug administration or endotracheal intubation.\n\n**RESULTS**: Mean age was 62.6\u00a0years (SD-16.7), with 56.3% male and 84.6% Black. Cohort breakdown: shockable ALS (S-ALS; n\u00a0=\u00a0330, 4.9%); shockable BLS (S-BLS; n\u00a0=\u00a0466, 6.9%); non-shockable ALS (NS-ALS; n\u00a0=\u00a02793, 41.4%); non-shockable BLS (NS-BLS; n\u00a0=\u00a03157, 46.8%). ROSC rates by cohort: S-ALS (37.9%); S-BLS (19.5%); NS-ALS (18.6%); NS-BLS (9.3%). ALS was associated with increased sustained ROSC for all initial rhythms (p\u00a0<\u00a0.001). S-ALS was associated with increased survival (p\u00a0=\u00a0.03), and neurologic outcome (p\u00a0=\u00a0.01) when compared to S-BLS.\n\n**CONCLUSION & RELEVANCE**: Advanced Life Support, relative to Basic Life Support alone, was associated with improved sustained return of spontaneous circulation across all initial rhythms, and improved survival to discharge and favorable neurologic outcome in shockable initial rhythms.",
-      "journal": "Am J Emerg Med",
-      "authors": [
-        "Silvagi R",
-        "Rodriguez-Fohn E",
-        "Reece RJ",
-        "Cranford JA",
-        "Alangaden K",
-        "Byrd M",
-        "Klausner H",
-        "Pravin R",
-        "Li J",
-        "Conn C",
-        "Dunne R",
-        "O'Neil BJ"
-      ],
-      "date": "2026 Jul 23",
-      "doi": "10.1016/j.ajem.2026.07.021",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Prehospital"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "traumatic",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "prehospital",
-          "strength": "weak",
-          "topic": "Prehospital"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42546549/"
     }
   ]
 }
