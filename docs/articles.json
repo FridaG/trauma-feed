@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-03T22:00:45.467646Z",
-  "total_articles": 228,
+  "generated": "2026-09-04T21:57:35.148145Z",
+  "total_articles": 233,
   "all_topics": [
     "Abdominal",
     "Burns",
@@ -379,6 +379,347 @@
   },
   "articles": [
     {
+      "pmid": "42696141",
+      "title": "From rib fixation to dynamic chest wall reconstruction: historical lessons for modern surgical stabilization of rib fractures.",
+      "abstract": "**PURPOSE**: Surgical stabilization of rib fractures (SSRF) has re-emerged as an important component of chest wall trauma care, yet its history is often presented as a simple timeline rather than as a source of operative and biomechanical lessons. This literature, problem-oriented historical review re-examines earlier rib fixation strategies in order to identify the mechanical and operative problems they were intended to solve, why many disappeared, and which principles remain relevant to contemporary SSRF practice.\n\n**METHODS**: A literature review was conducted focusing on historically important fixation techniques and conceptual milestones in the management of serious rib fractures and flail chest. PubMed/MEDLINE and Google Scholar were searched from database inception to 19 March 2026 using terms related to rib fracture fixation, flail chest, SSRF, intramedullary fixation, and history. Studies were purposively selected if they described key fixation concepts, major shifts in management strategy, recurrent technical problems still seen in modern SSRF, or contemporary guideline context. Forty-seven articles were included and synthesized using a problem-based rather than purely chronological framework.\n\n**RESULTS**: Across eras, rib fixation evolved around recurring challenges: (1) restoration of chest wall stability and thoracic continuity, (2) the tension between internal pneumatic stabilization by positive-pressure ventilation and structural repair, (3) difficult access to posterior, subscapular, and upper-rib fractures, (4) implant-rib mismatch and preservation of the intercostal neurovascular bundle, and (5) a limited evidence base. Historical methods - including suture and wire cerclage, clamp-based plates, intramedullary devices, and percutaneous or limited-incision techniques - were early attempts to solve these problems rather than obsolete curiosities. Their main limitations were invasive exposure, bulky and excessively rigid implants, poor conformity to rib curvature, neurovascular irritation, and weak clinical evidence. The most important transition was conceptual: reframing rib fracture patterns as dynamic chest wall instability in which a static CT fracture map must be translated into an operative construct that restores functional thoracic mechanics while preserving the muscular and soft-tissue envelope.\n\n**CONCLUSIONS**: Modern SSRF represents the maturation - not the replacement - of historical fixation concepts under improved biomechanical, biological, and evidentiary conditions. The lasting lessons are that fixation should target the mechanically relevant instability, balance stability with biological restraint, match access strategy to fracture location and chest wall anatomy, and expand indications selectively and discipline. Reinterpreting historical techniques through this problem-oriented lens may help refine current SSRF practice, avoid repetition of past errors with new implants, and guide future development of dynamic chest wall reconstruction.",
+      "journal": "Eur J Trauma Emerg Surg",
+      "authors": [
+        "Sutori D",
+        "White TW",
+        "Bauman ZM",
+        "Whitbeck SS",
+        "Spering C"
+      ],
+      "date": "2026 Sep 04",
+      "doi": "10.1007/s00590-025-04443-w",
+      "tier": "core",
+      "topics": [
+        "General Trauma",
+        "Thoracic"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "rib fracture",
+          "strength": "strong",
+          "topic": "Thoracic"
+        },
+        {
+          "keyword": "flail chest",
+          "strength": "weak",
+          "topic": "Thoracic"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42696141/"
+    },
+    {
+      "pmid": "42696117",
+      "title": "Patient-reported outcome measures within European cohorts of severely injured patients: a systematic review and meta-analysis.",
+      "abstract": "**PURPOSE**: Severe injury affects multiple health-related domains, yet comprehensive European data on patient-reported outcomes remain limited. This systematic review and meta-analysis evaluates patient-reported outcome measures (PROMs) use and outcomes in severely injured European cohorts.\n\n**METHODS**: A systematic search of four databases up to October 14, 2025, identified European studies from 2000 onward reporting PROMs in severely injured patients. Severe injury was defined as an Injury Severity Score\u2009\u2265\u200916, Glasgow Coma Scale\u2009\u2264\u20098, intensive care unit admission, spinal cord injury, traumatic amputations, or pelvic fractures. Two reviewers independently screened records, with disagreements resolved by a third reviewer. Meta-analysis was performed when \u2265\u20093 studies reported comparable PROMs at similar follow-up timepoints.\n\n**RESULTS**: Of 2,479 studies, 119 were included. Most cohorts originated from the Netherlands (26%), Norway (18%), and Germany (16%). General severely injured cohorts were most frequently studied (61%), followed by traumatic brain injury (17%), and spinal cord injury (15%). In total, 94 PROMs were used across 277 follow-up timepoints. Health-related quality of life was assessed most frequently (63%), after that anxiety/depression (14%), post-traumatic stress (9%), and social functioning (6%). At one year follow-up, the pooled EuroQol-5D-3\u00a0L index score was 0.70 (95% CI 0.62-0.77) and VAS score was 68 (95% CI 60-75), indicating persistent impairment compared to population norms.\n\n**CONCLUSION**: Severely injured patients show persistent impairments with incomplete restoration of pre-injury functioning. Despite increased PROMs use, heterogeneity in selection and outcome reporting limits comparability, underscoring the need for standardised PROM assessment to improve outcome evaluation after severe injury.",
+      "journal": "Eur J Trauma Emerg Surg",
+      "authors": [
+        "van den Berg L",
+        "van Ditshuizen JC",
+        "Leliefeld PHC",
+        "den Hartog D",
+        "Giannak\u00f3poulos GF",
+        "Verhofstad MHJ",
+        "de Jongh MAC"
+      ],
+      "date": "2026 Sep 04",
+      "doi": "10.1016/j.injury.2006.10.026",
+      "tier": "core",
+      "topics": [
+        "General Trauma",
+        "Spine",
+        "Systems/QI",
+        "TBI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "traumatic",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "injury severity",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "traumatic brain injury",
+          "strength": "weak",
+          "topic": "TBI"
+        },
+        {
+          "keyword": "spinal cord injury",
+          "strength": "weak",
+          "topic": "Spine"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42696117/"
+    },
+    {
+      "pmid": "42695757",
+      "title": "Healthcare Encounters in the Week Preceding a Sepsis Hospitalization in Pediatric Patients.",
+      "abstract": "**OBJECTIVES**: Sepsis is a leading cause of morbidity and mortality for critically ill children, yet the pattern of healthcare use before admission for sepsis remains unknown. We measured the proportion and characteristics of healthcare encounters within 7 days before sepsis hospitalizations.\n\n**DESIGN**: Using the Merative MarketScan administrative claims database, we conducted a retrospective observational cohort study to quantify pre-admission healthcare encounters among children hospitalized with sepsis.\n\n**SETTING**: The Merative MarketScan database includes inpatient, outpatient, and emergency medical claims from employer-based insurance plans and Medicaid data from approximately 7 million healthcare consumers across multiple states.\n\n**PATIENTS**: Included patients were 0-18 years old and hospitalized with sepsis between January 1, 2016, and December 31, 2022. Children were required to have 30 days of continuous insurance enrollment before admission.\n\n**INTERVENTIONS**: None.\n\n**MEASUREMENTS AND MAIN RESULTS**: Our primary outcome was the occurrence of any healthcare encounter in the 7 days before sepsis hospitalization, including outpatient, emergency department, or inpatient visits. Of those encounters, we identified the proportion that were related to infection. We compared hospitalization characteristics, including mechanical ventilation, ICU use, and length of stay, among those with vs. without pre-sepsis healthcare utilization. We identified 6928 pediatric sepsis hospitalizations, of whom 64.3% (4452/6928) had a complex chronic condition with a median age of 10 years (interquartile range, 3-15 yr). Overall, 53.5% (3707/928) of sepsis hospitalizations had a healthcare encounter within 7 days of admission, including 33.7% (2338/6928) with an outpatient visit, 28.2% (1956/6928) with an emergency department visit, and 6.2% (431/6928) with an inpatient hospitalization. Among sepsis hospitalizations with any pre-admission encounter, 38.9% (1445/3707) had an infection-related diagnosis documented at the encounter. There was no difference in mechanical ventilation, ICU use, or length of stay between those with vs. without pre-sepsis healthcare encounters.\n\n**CONCLUSIONS**: Over half of children hospitalized with sepsis were evaluated in the outpatient or emergency department setting in the week preceding admission, with one in five evaluated for infection. Further understanding of these pre-admission encounters may allow for earlier sepsis identification and possibly intervention in the prehospital setting.",
+      "journal": "Crit Care Med",
+      "authors": [
+        "Cartwright JD",
+        "Rahman M",
+        "Pollack B",
+        "Gorga SM",
+        "Smith KA",
+        "Prescott HC",
+        "Carlton EF"
+      ],
+      "date": "2026 Sep 04",
+      "doi": "10.1097/CCM.0000000000007336",
+      "tier": "filtered",
+      "topics": [
+        "Prehospital"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "prehospital",
+          "strength": "weak",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42695757/"
+    },
+    {
+      "pmid": "42692184",
+      "title": "Pulseless electrical activity versus asystole as initial pulseless rhythm in children: challenging convention regarding non-shockable rhythms.",
+      "abstract": "**BACKGROUND**: Pulseless electrical activity (PEA) and asystole are the predominant initial rhythms in pediatric in-hospital cardiac arrest (IHCA) and are often grouped as \"non-shockable.\" Whether they represent distinct entities in children remains unclear.\n\n**METHODS**: We analyzed pediatric (<18\u202fyears) IHCA cases from the American Heart Association Get With The Guidelines-Resuscitation (GWTG\u00ae-R) registry (2000-2023). Patients with an initial rhythm of PEA or asystole were included. Outcomes were return of spontaneous circulation (ROSC), restoration of circulation (ROC, defined as ROSC or ROC with ECMO), and survival to hospital discharge. Mixed-effects regression adjusted for demographics, comorbidities, event features, and hospital factors. Additional analyses excluded NICU events and stratified patients by age.\n\n**RESULTS**: Of 9423 patients, 5416 (57.5%) had PEA and 4007 (42.5%) had asystole. Compared with PEA, asystole was associated with lower odds of ROSC (aOR 0.70, 95% CI 0.64-0.77), ROC (aOR 0.71, 95% CI 0.64-0.78), and survival to discharge (aOR 0.89, 95% CI 0.81-0.99). In the NICU-excluded cohort, asystole remained associated with lower odds of ROSC and ROC, but survival to discharge no longer differed between rhythms (36.1% vs 34.1%; aOR 0.99, 95% CI 0.90-1.11). Age-stratified analyses showed the overall survival difference was driven by neonates; in older age groups, survival to discharge did not differ between PEA and asystole.\n\n**CONCLUSION**: PEA and asystole differ in patient characteristics and short-term resuscitation outcomes in pediatric IHCA. However, the overall survival difference appears driven by neonates and NICU-associated events, with no significant survival difference in older children.",
+      "journal": "Resuscitation",
+      "authors": [
+        "Wong R",
+        "Lasa JJ",
+        "Topjian A",
+        "Joyner BL",
+        "Jiang T",
+        "Li Y",
+        "Zhao J",
+        "Guerguerian AM",
+        "Nadkarni V",
+        "Raymond T"
+      ],
+      "date": "2026 Sep 03",
+      "doi": "10.1016/j.resuscitation.2026.111289",
+      "tier": "filtered",
+      "topics": [
+        "Cardiac Arrest"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "ECMO",
+          "strength": "weak",
+          "topic": "Cardiac Arrest"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42692184/"
+    },
+    {
+      "pmid": "42691890",
+      "title": "Clinical outcomes of interventional radiology versus operative management in hemodynamically stable and unstable moderate-to-severe high-grade blunt renal trauma.",
+      "abstract": "**BACKGROUND**: Blunt renal trauma remains a major source of morbidity and mortality despite advances in non-operative management. This study evaluates clinical outcomes in adults with moderate-to-severe high-grade blunt renal trauma, comparing interventional radiology (IR) and operative management.\n\n**METHODS**: This retrospective cohort study utilized the ACS-TQIP-PUF dataset (2017-2023) to evaluate outcomes in adult (\u226518 years) trauma patients with moderate-to-severe (AIS abdomen \u2265 2, ISS \u2265 9) high-grade (AAST grade \u22654) blunt renal trauma who underwent operative management or IR approach. Patients were stratified by hemodynamic stability, initial hypertension, and trauma center level. Primary outcomes included mortality and nephrectomy rates. Secondary outcomes included transfusion requirements, nonoperative management failure, and complications.\n\n**RESULTS**: In hemodynamically stable adult trauma patients with moderate-to-severe blunt renal injuries, IR was associated with lower 24-hour (aOR 0.477, 95% CI 0.274-0.83, p\u202f=\u202f0.009) and in-hospital mortality (aOR 0.210, 95% CI 0.116-0.378, p\u202f<\u202f0.001). Among unstable patients, IR was associated with reduced in-hospital mortality (aOR 0.076, CI: 0.007-0.847, p\u202f=\u202f0.036). IR was also associated with reduced in-hospital mortality when stratifying by presence of initial hypertension (aOR 0.317, 95% CI:0.103-0.973, p\u202f=\u202f0.045) and trauma center level, specifically at level I centers (24-hour mortality: aOR 0.047, CI:0.006-0.370, p\u202f=\u202f0.004; in-hospital mortality: aOR 0.135, CI: 0.042-0.435, p\u202f<\u202f0.001). Overall, no significant difference in odds of complications were observed.\n\n**CONCLUSION**: IR intervention was determined to be a safe and effective management approach for adult trauma patients with moderate-to-severe high-grade blunt renal injuries regardless of hemodynamic stability, initial hypertension, or trauma center level.",
+      "journal": "Injury",
+      "authors": [
+        "Hus A",
+        "Indorewala Y",
+        "Nasef H",
+        "Prashar S",
+        "Rogers L",
+        "Nasef Y",
+        "Elkbuli A"
+      ],
+      "date": "2026 Aug 31",
+      "doi": "10.1016/j.injury.2026.113634",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42691890/"
+    },
+    {
+      "pmid": "42691889",
+      "title": "Pectoralis major reference technique improves humeral height restoration and tuberosity healing after hemiarthroplasty for complex proximal humeral fractures: A comparative study.",
+      "abstract": "**BACKGROUND**: Accurate humeral stem positioning is critical for achieving favorable outcomes after hemiarthroplasty for complex proximal humeral fractures. This study aimed to compare the clinical and radiological outcomes of hemiarthroplasty performed using the pectoralis major reference technique (PMRT) with those performed using a conventional technique (CT) METHODS: Thirty-nine patients who underwent hemiarthroplasty for complex proximal humeral fractures were included in this study. The conventional technique was used in the first 24 cases (CT group) and PMRT was applied in the subsequent 15 cases (PMRT group). The mean follow-up period was 54.5 months (range, 12-96 months) in the PMRT group and 56.1 months (range, 24-132 months) in the CT group. Radiographic outcomes included postoperative head-tuberosity distance and tuberosity healing status, assessed using serial plain radiographs. Clinical outcomes were evaluated using the visual analog scale (VAS) pain score, the University of California, Los Angeles (UCLA) score, the American Shoulder and Elbow Surgeons (ASES) score, the subjective shoulder value (SSV), and active range of motions.\n\n**RESULTS**: The rate of complete tuberosity healing was significantly higher in the PMRT group than in the CT group (80.0% vs 58.3%). The mean postoperative head-tuberosity distance was significantly shorter in the PMRT group compared with the CT group (5.9\u202fmm vs 11.8\u202fmm). In the PMRT group, total humeral height did not differ significantly between the operated and contralateral sides (294.4\u202fmm vs 293.4\u202fmm). The PMRT group demonstrated significantly greater external and internal rotation than the CT group; however, no significant differences were observed in clinical scores, forward flexion, or abduction. The overall complication rates did not differ significantly between the two groups (26.6% vs 45.8%, p\u202f=\u202f0.231). At the final follow-up, rotator cuff insufficiency was observed in 4 patients (26.7%) in the PMRT group and 9 patients (37.5%) in the CT group.\n\n**CONCLUSION**: Compared with the conventional technique, PMRT was associated with more favorable restoration of proximal humeral anatomy, improved tuberosity healing, and better postoperative rotational function following HA for complex proximal humeral fractures.",
+      "journal": "Injury",
+      "authors": [
+        "Park BS",
+        "Kim DH",
+        "Sohn HJ",
+        "Cho CH"
+      ],
+      "date": "2026 Sep 01",
+      "doi": "10.1016/j.injury.2026.113651",
+      "tier": "filtered",
+      "topics": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42691889/"
+    },
+    {
+      "pmid": "42691888",
+      "title": "Pediatric digit replantation: A mixed methods outcomes study.",
+      "abstract": "**BACKGROUND**: Indications for pediatric digital replantation/revascularization (replant/revasc) are broader than those for adults. Pediatric patients suffer many of the same challenges seen in adult replant/revasc patients with similar rates of digit salvage. The purpose of this study was to review the incidence of and long-term outcomes after pediatric replant/revasc.\n\n**METHODS**: Data was collected from medical records of patients presenting to our Level 1 Trauma Pediatric Hospital Emergency Room between January 2011 and March 2017. All charts with ICD-9 codes for upper extremity trauma were queried and reviewed. Additional data was collected on patients undergoing digit replant/revasc or revision amputation. Patients whose replant/revasc digits survived to the first post-operative visit underwent further outcomes assessment.\n\n**RESULTS**: Of the 1364 patients who presented with upper extremity trauma over the study period, 19 underwent replant/revasc and 12 digits survived to the first post-operative visit. 10 of the patients and their families participated in interviews (mean follow up 89 months (range 74-119) post-procedure). Children and parents had different perspectives on their treatment experience. Six patients reported excellent function with no limitations in schoolwork or sports. Nine patients and seven parents stated they would choose to undergo replant/revasc surgery again.\n\n**CONCLUSIONS**: Replant/revasc was often technically successful, albeit with difficult short and long-term courses. The majority of patients reported excellent function and return to normal activities; however, many reported ongoing negative physical and psychological outcomes. Future larger scale and comparative studies would improve our understanding of indications for and long-term sequelae of pediatric digit replant/revasc.",
+      "journal": "Injury",
+      "authors": [
+        "Saoud K",
+        "Bruce JG",
+        "Bettlach C",
+        "Tung TH",
+        "Fox IK"
+      ],
+      "date": "2026 Aug 26",
+      "doi": "10.1016/j.injury.2026.113641",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42691888/"
+    },
+    {
+      "pmid": "42691887",
+      "title": "Modified Delphi consensus recommendations for the use of negative-pressure wound therapy in orthopedic trauma and complex wounds in low- and middle-income countries: anAn African consensus study.",
+      "abstract": "**BACKGROUND**: Open fractures and complex traumatic wounds remain a major cause of morbidity in low- and middle-income countries, where delayed presentation, limited reconstructive capacity, and restricted access to specialized wound care complicate management. Although negative-pressure wound therapy is increasingly used as an adjunct in complex wound management, evidence specific to low- and middle-income countries remains limited and practical consensus recommendations are lacking.\n\n**PURPOSE**: To develop evidence-informed consensus recommendations for negative-pressure wound therapy use in orthopedic trauma and complex wounds in low- and middle-income countries and validate them through a multinational African modified Delphi process.\n\n**METHODS**: A narrative literature review identified evidence regarding negative-pressure wound therapy in orthopedic trauma and complex wounds, with particular emphasis on low- and middle-income countries settings. Draft recommendations were developed by the writing committee and externally validated through a modified Delphi process involving orthopedic-trauma and plastic surgeons from across Africa. Recommendations were initially classified as strong, moderate, or conditional and evaluated by the expert panel. Consensus was predefined as \u2265\u202f80% agreement with the proposed recommendation category, while \u2265\u202f90% agreement was considered very strong consensus.\n\n**RESULTS**: Forty-five experts were invited to participate, and forty completed the survey (response rate 88.9%). Fourteen draft recommendations were evaluated. Two achieved very strong consensus (\u226590% agreement), eight achieved strong consensus (80-89%), and four did not reach the predefined threshold and were revised according to the predominant opinion of the panel. Agreement was highest for recommendations emphasizing negative-pressure wound therapy as an adjunct to standard open fracture management, adequate surgical debridement before negative-pressure wound therapy application, and timely definitive soft-tissue reconstruction. Lower agreement concerned technical parameters and organizational aspects, reflecting limited evidence and variability in local resources.\n\n**CONCLUSION**: These recommendations represent a multinational African modified Delphi consensus on negative-pressure wound therapy use in orthopedic trauma and complex wounds in low- and middle-income countries. By integrating the best available evidence with broad expert experience, they provide a pragmatic framework to support safe, context-adapted negative-pressure wound therapy implementation in resource-constrained settings while identifying areas requiring further clinical research.",
+      "journal": "Injury",
+      "authors": [
+        "Manegabe JDT",
+        "Englebert A",
+        "Kabakuli AN",
+        "Buzisa Mbuku R",
+        "Tissingh E",
+        "Schubert T",
+        "Munguakonkwa PB",
+        "Cornu O"
+      ],
+      "date": "2026 Aug 23",
+      "doi": "10.1016/j.injury.2026.113615",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Orthopaedic"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "open fracture",
+          "strength": "weak",
+          "topic": "Orthopaedic"
+        },
+        {
+          "keyword": "orthopaedic trauma",
+          "strength": "strong",
+          "topic": "Orthopaedic"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42691887/"
+    },
+    {
+      "pmid": "42691886",
+      "title": "Correlation of functional and radiological outcome after surgical treatment of acetabular fractures with quadrilateral plate involvement. A meta-analysis.",
+      "abstract": "**PURPOSE**: Quadrilateral plate fractures are complex injuries often requiring surgical management. Nevertheless, postoperative reduction quality has not been consistently correlated with functional outcome. We conducted a meta-analysis evaluating the association between functional and radiological outcomes of patients with acetabular fracture involving the quadrilateral plate who were treated surgically with open reduction and internal fixation.\n\n**METHODS**: A comprehensive search of PubMed, Cochrane Library and Web of Science databases was performed to identify prospective and retrospective studies reporting the functional and radiological outcomes after internal fixation of acetabular fractures with quadrilateral plate involvement. Literature screening was based on eligibility criteria, extracted relevant data and on the quality of included studies. Meta-analysis evaluated functional (Harris Hip Score (HHS) and the Merle d'Aubign\u00e9 and Postel (MAP)) outcomes as well as radiological (MATTA) outcomes, pooling agreement proportions, assessing heterogeneity, and performing meta-regression using R.\n\n**RESULTS**: We included 12 studies with 336 patients treated for acetabular fracture involving the quadrilateral plate. Seven studies (177 patients) reported MAP scores: excellent 41%, good 47%, poor 12%. Seven studies (217 patients) reported HHS scores: excellent 47%, good 31%, poor 22%. Overall, MATTA scores in 336 patients were excellent 66%, good 27%, poor 7%. Agreement between MAP and MATTA was 51% overall (95% CI 29-71%, I2=85%), 53% excellent vs good, 95% excellent vs poor, and 71% good vs poor. Agreement between HHS and MATTA was 58% overall (95% CI 46-71%, I2=43%), 65% excellent vs good, 70% good vs poor, and 90% excellent vs poor. Meta-regression found no significant predictors.\n\n**CONCLUSION**: Association was observed between postoperative radiological outcomes and functional outcomes (MAP, HHS) in acetabular fractures involving the quadrilateral plate, particularly when scoring was excellent versus poor, underscoring the importance of anatomic reduction as a primary management goal. However, the moderate associations identified suggest that anatomic reduction alone may not determine treatment success, highlighting the role of rigid fixation. The lack of strong correlation between MAP and MATTA scores raises concerns about the adequacy of commonly used functional assessment tools. Further research is warranted to refine evaluation methods and identify predictors of long-term functional recovery in acetabular fracture management.",
+      "journal": "Injury",
+      "authors": [
+        "Solou K",
+        "Galanopoulos G",
+        "Lakoumentas J",
+        "Zacharakis E",
+        "Kyprianou A",
+        "Papachristos IV",
+        "Nikolopoulos F"
+      ],
+      "date": "2026 Aug 29",
+      "doi": "10.1016/j.injury.2026.113630",
+      "tier": "filtered",
+      "topics": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42691886/"
+    },
+    {
+      "pmid": "42691795",
+      "title": "Pediatric orbital compartment syndrome: A lymphatic malformation complication.",
+      "abstract": "Orbital compartment syndrome (OCS) is a vision-threatening emergency. In adult cases, most are caused by trauma. Pediatric OCS is rare and associated with non-traumatic etiologies. Pediatric OCS poses unique diagnostic and procedural challenges related to anatomy, intraocular pressure measurement, and sedation. A 15-year-old male presented to the pediatric emergency department (PED) with three days of progressive right eye pain, swelling, and blurry vision with similar milder episodes one year prior. Eye exam revealed decreased right vision (20/70), proptosis, and ophthalmoplegia. CT imaging demonstrated multiple right intra-orbital masses. The patient suddenly developed severe eye pain prompting OCS concerns with emergent lateral canthotomy. MRI demonstrated lymphatic malformation with complete optic nerve encasement, severe proptosis, and posterior scleral tenting. With definitive management (percutaneous drainage, steroids, and sirolimus), visual acuity improved with no optic nerve damage. This pediatric OCS case highlights the non-traumatic etiologies, particularly lymphatic malformations prone to spontaneous intralesional hemorrhage. For pediatric eye pain complaints, emergency physicians must maintain vigilance for OCS by recognizing worsening orbital signs and facilitating decisive intervention lateral canthotomy.",
+      "journal": "Am J Emerg Med",
+      "authors": [
+        "Wang K",
+        "Kulkarni A",
+        "Kulkarni M",
+        "Gayagoy A",
+        "Ziegler M"
+      ],
+      "date": "2026 Aug 24",
+      "doi": "10.1016/j.ajem.2026.08.034",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Orthopaedic"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "compartment syndrome",
+          "strength": "strong",
+          "topic": "Orthopaedic"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42691795/"
+    },
+    {
       "pmid": "42690432",
       "title": "ABCB5\u207a mesenchymal stem cells enable high-ratio cellular augmentation of bone grafts without loss of osteogenic function.",
       "abstract": "Autologous bone grafting remains the standard for reconstruction of bone defects but is constrained by limited graft volume and loss of osteogenic capacity when expanded with acellular materials. We hypothesized that allogeneic ABCB5\u207a mesenchymal stem cells (MSCs) can serve as a biologic cell source to augment bone marrow-derived MSC (BM-MSC) populations without impairing osteogenesis. Primary human BM-MSCs from five donors were combined with GMP-manufactured ABCB5\u207a MSCs at graded replacement ratios (0-95%) and cultured under osteogenic conditions for 21 days. Osteogenic potential was evaluated using complementary assays of mineralization, biochemical activity, and matrix composition. Robust osteogenesis was maintained across all groups, with cultures containing 50% ABCB5\u207a MSCs demonstrating comparable functional osteogenic activity to BM-MSC controls, including similar ",
@@ -598,7 +939,7 @@
         "Egodage T"
       ],
       "date": "2026 Jan 1",
-      "doi": "10.1136/tsaco-2026-002358",
+      "doi": "10.1097/TA.0000000000003820",
       "tier": "core",
       "topics": [
         "General Trauma",
@@ -652,7 +993,7 @@
         "Ley EJ"
       ],
       "date": "2026 Jan 1",
-      "doi": "10.1136/tsaco-2026-002546",
+      "doi": "10.1136/tsaco-2021-000686",
       "tier": "core",
       "topics": [
         "General Trauma",
@@ -880,7 +1221,7 @@
         "Lebares CC"
       ],
       "date": "2026 Sep 02",
-      "doi": "10.1001/jamasurg.2026.3853",
+      "doi": "10.1016/j.jss.2024.03.045",
       "tier": "filtered",
       "topics": [
         "General Trauma"
@@ -8496,241 +8837,6 @@
       ],
       "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/42561707/"
-    },
-    {
-      "pmid": "42560998",
-      "title": "Surgical stabilization of flail chest: Patient selection, hospital variation, and outcomes.",
-      "abstract": "**BACKGROUND**: Surgical stabilization of rib fractures (SSRF) is increasingly used for flail chest, yet practice remains heterogeneous. We aimed to identify predictors of SSRF, quantify hospital-level variation, and evaluate whether hospital SSRF volume and utilization rate are associated with outcomes in flail chest.\n\n**METHODS**: Using ACS-TQIP 2017 to 2020, we conducted a retrospective cohort study of trauma patients older than or equal to 18 years with flail chest. Mixed-effects logistic regression evaluated predictors of SSRF and between-hospital variation. Hospitals that performed \u22651 SSRF were grouped into quintiles by SSRF case volume and by SSRF utilization rate (proportion of flail chest patients undergoing SSRF), and associations with in-hospital mortality, 28-day ventilator-free days, ICU length of stay (LOS), and hospital LOS were assessed using adjusted regression models.\n\n**RESULTS**: Among 718 centers treating flail chest, 216 (30.1%) did not perform SSRF. Among 15,380 flail chest patients treated at 502 SSRF-performing trauma centers, 3,484 (22.7%) underwent SSRF. Older age (\u226565\u00a0y), female sex, Black race, self-pay status, and traumatic brain injury (AIS head \u22653) were associated with lower odds of SSRF; pulmonary contusion, hemothorax, and higher Injury Severity Score were associated with higher odds. Median odds ratio was 3.08 (95% CI: 2.75-3.49), indicating that for two otherwise similar patients treated at two randomly selected hospitals, the median difference in odds of receiving SSRF was 3.08-fold. Higher hospital SSRF volume was associated with more ventilator-free days and shorter ICU and hospital LOS without mortality differences. Higher SSRF utilization rate was associated with fewer ventilator-free days and longer ICU and hospital LOS without mortality differences.\n\n**CONCLUSIONS**: SSRF use for flail chest varied widely across trauma centers. These findings suggest that not only whether patients receive SSRF, but also how hospitals use SSRF within their systems, may be critical to optimizing outcomes in flail chest.\n\n**LEVEL OF EVIDENCE**: Level III, therapeutic/care management.",
-      "journal": "J Trauma Acute Care Surg",
-      "authors": [
-        "Karikis I",
-        "Olsen G",
-        "Hong M",
-        "DeWane MP",
-        "Ramadei JD",
-        "Maurer LR",
-        "Bartek MA",
-        "Luckhurst CM",
-        "Salim A",
-        "Kaafarani HM",
-        "Velmahos G",
-        "Ng-Kamstra JS"
-      ],
-      "date": "2026 Aug 06",
-      "doi": "10.1097/TA.0000000000005156",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "Systems/QI",
-        "TBI",
-        "Thoracic"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "injury severity",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "haemothorax",
-          "strength": "weak",
-          "topic": "Thoracic"
-        },
-        {
-          "keyword": "rib fracture",
-          "strength": "weak",
-          "topic": "Thoracic"
-        },
-        {
-          "keyword": "flail chest",
-          "strength": "strong",
-          "topic": "Thoracic"
-        },
-        {
-          "keyword": "traumatic brain injury",
-          "strength": "weak",
-          "topic": "TBI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42560998/"
-    },
-    {
-      "pmid": "42560803",
-      "title": "Infant and toddler trauma patients have similar associated risk of complications and mortality at pediatric-only versus combined pediatric-adult trauma centers.",
-      "abstract": "**BACKGROUND**: Previous research has demonstrated that pediatric-onlyhospitals (POHs) and combined pediatric-adult trauma centers (CPACs) have comparable outcomes in generalized pediatric trauma populations. However, infants and toddlers have distinct injuries and physiology that may be infrequently seen at CPACs. This study compared pediatric trauma patients (PTPs) \u22642 years old treated at POHs versus CPACs, hypothesizing similar associated risk of mortality and in-hospital complications between hospital types.\n\n**METHODS**: The 2017 to 2023 TQIP database was queried for PTPs \u22642 years old. Patients were grouped by treatment at POHs or CPACs. Hypotension was defined as systolic blood pressure <70\u00a0mm\u00a0Hg, tachypnea as respiratory rate >40 breaths per minute, and tachycardia as heart rate >190 beats per minute (bpm) for PTPs \u22641 year old and >140\u00a0bpm for PTPs 2 years old. Bivariate analyses and multivariable logistic regression controlling for age, injury severity score (ISS), and vitals on arrival were performed.\n\n**RESULTS**: Of 39,373 PTPs \u22642 years old, 26,412 (67.1%) were treated at POHs and 12,961 (32.9%) at CPACs. Demographics, ISS (4 vs. 4), and rates of emergent operation (12.1% vs. 12.5%) were similar between cohorts (all p>0.05). On arrival, POH patients were less often hypotensive (0.6% vs. 0.9%, p=0.002) and tachycardic (\u22641\u00a0y old: 1.4% vs. 1.7%, p=0.007; 2\u00a0y old: 27.9% vs. 32.9%, p<0.001), but more commonly tachypneic (3.8% vs. 2.4%, p<0.001). The CPAC cohort had increased complications (1.3% vs. 1.0%, p=0.03); however, this was not significant after multivariable analysis (OR 0.87, CI: 0.71-1.08, p=0.21). Mortality rate (1.3% vs. 1.6%, p=0.07) and associated risk (OR 1.08, CI: 0.86-1.37, p=0.51) were also similar between groups.\n\n**CONCLUSIONS**: This seven-year national analysis demonstrated that in PTPs \u22642 years old, the associated risks of in-hospital mortality and complications were similar between POHs and CPACs. These findings reinforce that trauma verification is maintaining similar outcomes across both hospital types, even among infants and toddlers.\n\n**STUDY TYPE**: Retrospective database.\n\n**LEVEL OF EVIDENCE**: Therapeutic/care management; Level IV.",
-      "journal": "J Trauma Acute Care Surg",
-      "authors": [
-        "Martensen J",
-        "Nguyen PD",
-        "Grigorian A",
-        "Jebbia M",
-        "Shettig A",
-        "Kuza CM",
-        "Goodman LF",
-        "Nahmias J"
-      ],
-      "date": "2026 Aug 06",
-      "doi": "10.1097/TA.0000000000005159",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "Paediatric",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "injury severity",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "paediatric trauma",
-          "strength": "weak",
-          "topic": "Paediatric"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42560803/"
-    },
-    {
-      "pmid": "42557918",
-      "title": "Trauma in Pregnancy: A 5-Year Multi-Centre Retrospective Registry Analysis in South Australia.",
-      "abstract": "**OBJECTIVES**: We aim to describe characteristics, assessments and outcomes of pregnant trauma patients (PTP) in South Australia (SA).\n\n**METHODS**: The SA Trauma Registry was utilised to identify PTP from 1 July 2018-30 June 2023. Registry data and patient electronic medical records were analysed using descriptive statistics.\n\n**RESULTS**: Four hundred two patients were included. The mean maternal and gestational ages were 28\u2009years and 27\u2009weeks, respectively. 80% had no comorbidities. Blunt trauma accounted for 98% of injury type. The mechanism of injury for 60% of patients was Motor Vehicle Crash; 16% were uninjured; 58% sustained minor soft tissue injuries only. Despite the low mean ISS (1.6, SD 2.87), trauma teams were activated in 95% of cases. A primary survey was documented in 34%. An obstetric clinician was documented as present in 4% of cases. 96% did not require a medical procedure; three patients underwent emergency Lower Segment Caesarean Section. 93% were discharged directly from ED. Admitted patients had a mean hospital LOS of 21.8\u2009h. There were no maternal deaths. Two patients suffered trauma-related intrauterine foetal demise. The mean gestational age at delivery was 38\u2009weeks; 12% had preterm delivery. No trauma-related neonatal deaths were recorded.\n\n**CONCLUSIONS**: PTP presentations in SA are infrequent, primarily resulting in minor injuries. Trauma assessments are incompletely documented, and along with investigations, often do not adhere to local guidelines. Good trauma care for PTPs should involve an obstetrician and follow ATLS principles. Guidelines should be implemented and followed to ensure standardised comprehensive care of PTPs.",
-      "journal": "Emerg Med Australas",
-      "authors": [
-        "Linde D",
-        "Pisaniello M",
-        "Popa EA",
-        "Nikos D",
-        "Bird B",
-        "Harrington C"
-      ],
-      "date": "2026 Aug 1",
-      "doi": "10.1016/j.sipas.2023.100160",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Obstetric",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "blunt trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "trauma in pregnancy",
-          "strength": "strong",
-          "topic": "Obstetric"
-        },
-        {
-          "keyword": "trauma registry",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "ATLS",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42557918/"
-    },
-    {
-      "pmid": "42556283",
-      "title": "No-flow duration and outcomes in adult blunt traumatic out-of-hospital cardiac arrest.",
-      "abstract": "**OBJECTIVE**: Out-of-hospital cardiac arrest (OHCA) due to blunt trauma has extremely poor outcomes and may have a shorter tolerable no-flow duration than nontraumatic OHCA. This study aimed to characterize the association between no-flow duration and prognosis in adults with witnessed blunt traumatic OHCA using dynamic probability curves.\n\n**METHODS**: This nationwide, population-based, retrospective cohort study used the All-Japan Utstein Registry from January 1, 2010, through December 31, 2023. Adults with witnessed OHCA due to blunt trauma were included. No-flow time was defined as the interval from witnessed cardiac arrest to initiation of CPR by emergency medical services personnel. The primary outcome was 30-day favorable neurological outcome (Cerebral Performance Category 1 or 2), and the secondary outcome was 30-day survival. Dynamic probability curves with pointwise 95% confidence intervals (CIs) were estimated using the exact Clopper-Pearson method, and no-flow thresholds below 1% were estimated with bootstrap 95% CIs.\n\n**RESULTS**: Among 1,795,502 registry patients, 14,334 met the eligibility criteria. Median age was 66\u00a0years, 9451 patients (65.9%) were male, and median no-flow time was 10\u00a0min. Thirty-day favorable neurological outcome occurred in 73 patients (0.5%), and 264 patients (1.8%) survived to 30\u00a0days. The no-flow thresholds below 1% with 95% CIs were 0 (0-0) minutes for 30-day favorable neurological outcome and 6 (4-8) minutes for 30-day survival.\n\n**CONCLUSIONS**: Adults with witnessed OHCA due to blunt trauma, the no-flow duration compatible with a chance of 30-day favorable neurological outcome was extremely short, and overall prognosis was poor.",
-      "journal": "Am J Emerg Med",
-      "authors": [
-        "Kishihara Y",
-        "Kashiura M",
-        "Yasuda H",
-        "Amagasa S",
-        "Tamura H",
-        "Nakajima C",
-        "Shiraoka Y",
-        "Okubo M",
-        "Matsushima K",
-        "Moriya T"
-      ],
-      "date": "2026 Jul 30",
-      "doi": "10.1016/j.ajem.2026.07.047",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "blunt trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42556283/"
-    },
-    {
-      "pmid": "42556282",
-      "title": "Ultrasound-guided infraspinatus-teres minor plane block for acute post traumatic shoulder pain in the emergency department: A case series.",
-      "abstract": "Acute traumatic shoulder injuries are often associated with severe pain that hinders examination, radiographic positioning, and timely orthopaedic management. Conventional systemic analgesia may be inadequate, while interscalene and superior trunk blocks can be limited by hemidiaphragmatic paresis. The ultrasound-guided infraspinatus teres minor (ITM) inter-fascial plane block is a recently described diaphragm-sparing technique that targets the suprascapular and axillary nerves through a single posterior injection and has shown promising anatomic and postoperative analgesic coverage in earlier reports. In this case series, four patients presenting to the emergency department with acute traumatic shoulder pain refractory to multimodal systemic analgesia, received ultrasound-guided ITM block using 20-25\u00a0mL of 0.375% ropivacaine with dexamethasone; three of them also received a continuous catheter infusion of 0.2% ropivacaine. Injuries included displaced proximal humeral fracture, glenoid fracture, humeral neck fracture, and humeral head dislocation. In all cases, pain scores fell rapidly from 8 to 10/10 to 0-1/10 within 30\u00a0min, facilitating examination, imaging, plaster application, immobilization, or closed reduction without rescue analgesia or procedural sedation. Analgesia remained satisfactory during observation, and no block-related complications were reported. These preliminary findings suggest that the ITM block may be an effective and practical diaphragm-sparing option for emergency department analgesia in acute shoulder injuries, with the added advantage of catheter-based prolongation when needed. Larger prospective comparative studies are required to confirm its efficacy, define safety, and clarify its role relative to other regional techniques.",
-      "journal": "Am J Emerg Med",
-      "authors": [
-        "Reena"
-      ],
-      "date": "2026 Jul 30",
-      "doi": "10.1016/j.ajem.2026.07.057",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Orthopaedic"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "traumatic",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "humeral fracture",
-          "strength": "weak",
-          "topic": "Orthopaedic"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42556282/"
     },
     {
       "pmid": "42552190",
