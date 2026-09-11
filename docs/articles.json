@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-10T22:05:55.795911Z",
-  "total_articles": 219,
+  "generated": "2026-09-11T22:06:38.008756Z",
+  "total_articles": 229,
   "all_topics": [
     "Abdominal",
     "Burns",
@@ -378,6 +378,475 @@
     "Cochrane Database Syst Rev": "filtered"
   },
   "articles": [
+    {
+      "pmid": "42726697",
+      "title": "Glasgow Coma Scale-Centered Trauma Activation for Geriatric Ground-Level Falls: A 37-Center Cohort Study.",
+      "abstract": "**BACKGROUND**: Ground-level falls (GLFs) in older adults generate substantial trauma-center volume, yet few patients require immediate trauma-team interventions. We evaluated predictors of High-Intensity Time-Sensitive (HITS) interventions and whether Glasgow Coma Scale (GCS)-centered full trauma activation (fTA) could improve triage efficiency.\n\n**STUDY DESIGN**: This retrospective observational cohort study analyzed trauma registry data from adults aged 65-89 years with GLFs at 37 U.S. Level I/II trauma centers (2017-2019). The primary outcome was receipt of \u22651 HITS intervention. Mixed-effects logistic regression with hospital random intercepts and dominance analysis identified independent predictors of HITS utilization. Observed triage performance was compared with theoretical GCS-based fTA thresholds.\n\n**RESULTS**: Among 41,737 patients, 5% (n=2,154) received fTA; 26% received \u22651 HITS intervention, yielding 74.2% (1,598/2,154) observed overtriage. Observed undertriage was 2.3% (919/39,583). GCS \u22648 was strongly associated with HITS utilization (aOR=42.3 [35.00-54.6]) and accounted for 58.4% of total model explanatory power. In a theoretical strategy restricting fTA to GCS \u22648, fTA decreased from 5.2% (2,154/41,737) to 2.4% (934/39,016) and overtriage from 74.2% (1,598/2,154) to 39% (317/811; P<.001), while undertriage changed from 2.3% (919/39,583) to 2.4% (934/39,016; P=.52).\n\n**CONCLUSIONS**: These findings challenge current geriatric activation protocols by demonstrating physiologic depression-not age, comorbidities, or anticoagulation-is the dominant determinant of early trauma team-level care for GLFs. A GCS-centered activation strategy could substantially reduce fTA overtriage without significantly increasing undertriage; prospective evaluation within broader triage algorithms is warranted.",
+      "journal": "J Am Coll Surg",
+      "authors": [
+        "Fakhry SM",
+        "Scott T",
+        "Shen Y",
+        "Mazumder H",
+        "Fomina A",
+        "Orlando A"
+      ],
+      "date": "2026 Sep 11",
+      "doi": "10.1097/XCS.0000000000002199",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Prehospital",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "trauma team",
+          "strength": "weak",
+          "topic": "Prehospital"
+        },
+        {
+          "keyword": "trauma activation",
+          "strength": "strong",
+          "topic": "Prehospital"
+        },
+        {
+          "keyword": "trauma registry",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42726697/"
+    },
+    {
+      "pmid": "42725825",
+      "title": "How Early Is Early? Prehospital Management of Septic Shock.",
+      "abstract": "",
+      "journal": "Crit Care Med",
+      "authors": [
+        "Peake SL",
+        "Delaney A"
+      ],
+      "date": "2026 Sep 11",
+      "doi": "10.1056/NEJMoa2516225",
+      "tier": "filtered",
+      "topics": [
+        "Prehospital"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "prehospital",
+          "strength": "strong",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42725825/"
+    },
+    {
+      "pmid": "42725800",
+      "title": "Cardiopulmonary resuscitation quality during the transition in care from paramedic services to emergency department teams.",
+      "abstract": "**OBJECTIVES**: In patients who experience out-of-hospital cardiac arrest (OHCA), high quality cardiopulmonary resuscitation (CPR) is associated with improved outcomes. The transition of care from paramedic services to emergency department (ED) teams represents a potentially vulnerable period where CPR quality may deteriorate. This study evaluated CPR quality during the prehospital-to-ED transition.\n\n**METHODS**: We conducted a retrospective observational study of adult patients with non-traumatic OHCA transported to a tertiary academic ED between August 2023 and August 2024. Metrics assessing CPR quality were obtained from prehospital and ED defibrillator recordings. Four predefined intervals were analyzed: paramedic baseline, paramedic pre-transition, ED post-transition, and ED baseline. The primary outcome was each adherence to the American Heart Association (AHA) guidelines defined as the mean depth of compressions, mean rate of compressions, and mean chest compression fraction for each interval. Secondary outcomes included comparison between intervals for each metric. Continuous variables were compared using a linear mixed effect model and comparison of categorical data, including the proportion of cases adhering to AHA guidelines, was done using the Cochran's Q test.\n\n**RESULTS**: Thirty-five OHCA cases met inclusion criteria. Mean patient age was 49.9 years (SD 13.6), and 80.0% were male. Mean CCF was guideline compliant throughout all intervals (89-92%) with no significant differences between intervals. Compression rate was guideline compliant across all intervals (109.9-117.5 compressions/minute). Compression depth was guideline compliant during paramedic intervals (5.8 and 5.9\u2009cm) and was significantly higher (p < 0.001) during ED transition and ED baseline intervals (6.4 and 6.8\u2009cm) exceeding guideline targets. No significant differences across intervals were observed in the proportion of cases meeting guideline targets for CCF, rate, or depth.\n\n**CONCLUSIONS**: Quality of CPR was overall maintained during the transition of care from paramedic services to the ED, with no deterioration in chest compression fraction or overall guideline adherence. Compression depth exceeded guideline recommendations in the ED, representing a potential target for future quality improvement initiatives.",
+      "journal": "Prehosp Emerg Care",
+      "authors": [
+        "Myers V",
+        "Drennan IR",
+        "Lin S",
+        "Cheskes S",
+        "Bradshaw D",
+        "Mok G"
+      ],
+      "date": "2026 Sep 11",
+      "doi": "10.1080/10903127.2026.2731188",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Prehospital"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "traumatic",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "prehospital",
+          "strength": "weak",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42725800/"
+    },
+    {
+      "pmid": "42725789",
+      "title": "Consensus Guidelines for Prehospital Transfusion in Children: A Modified Delphi Study.",
+      "abstract": "**OBJECTIVES**: Hemorrhagic shock is a leading cause of early trauma-related mortality in children, yet implementation of prehospital blood transfusion (PHT) in children is heterogenous and without consistent guidance. Limited pediatric-specific evidence and physiologic differences from adults have contributed to substantial variability among existing emergency medical services (EMS) protocols. The objective of this study was to develop expert consensus recommendations for identifying pediatric patients who may benefit from PHT.\n\n**METHODS**: We conducted a modified Delphi consensus study using a multidisciplinary panel of 20 experts in pediatric surgery, pediatric emergency medicine, and EMS medicine. Investigators compiled candidate criteria from existing PHT protocols and expert input. We conducted iterative electronic surveys to achieve expert consensus. We predefined consensus thresholds as \u226580% agreement for inclusion and <50% for exclusion. We employed descriptive statistics to summarize responses across rounds.\n\n**RESULTS**: The panel evaluated 208 candidate items and accepted 35 recommendations for inclusion over six rounds of voting. Consensus defined eligibility for PHT in children consisting of 1) known or suspected severe hemorrhage or major blood loss; and 2) at least one indicator of shock following first-line hemorrhage control, and 3) EMS clinical judgment of the need for transfusion. Shock indicators included physiologic compromise, hemodynamic instability, poor perfusion, low cardiac output, or an abnormal validated pediatric shock index. Contraindications included do not resuscitate orders prohibiting transfusion and non-hemorrhagic shock. We were unable to reach consensus on routine inclusion of end-tidal carbon dioxide as an indication for transfusion.\n\n**CONCLUSIONS**: Experts came to consensus on pediatric-focused, pragmatic criteria to guide prehospital blood product transfusion in children. Implementation of these recommendations may reduce practice variability, support protocol development, and inform future prospective validation studies.",
+      "journal": "Prehosp Emerg Care",
+      "authors": [
+        "Magill CF",
+        "Heintz H",
+        "Finney J",
+        "Nimmer M",
+        "Antevy PM",
+        "Clukies LD",
+        "Guyette FX",
+        "Ignacio RC",
+        "Kothari KM",
+        "Shah MI",
+        "Siegler JE",
+        "Studnek JR",
+        "Su J",
+        "Browne LR"
+      ],
+      "date": "2026 Sep 11",
+      "doi": "10.1080/10903127.2026.2729895",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Haemorrhage",
+        "Prehospital"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "haemorrhagic shock",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "blood product",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "blood transfusion",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "prehospital blood",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "prehospital",
+          "strength": "strong",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42725789/"
+    },
+    {
+      "pmid": "42725780",
+      "title": "2026 Systematic Review of Evidence-Based Guidelines for Prehospital Care.",
+      "abstract": "**OBJECTIVES**: Evidence-based guidelines (EBGs) are widely regarded as a valuable means of translating scientific evidence to clinical practice. Efforts continue to promote the development and implementation of new EBGs across all aspects of emergency medical services (EMS), but with variable quality and gaps in the content addressed by existing EBGs. We performed a biennial systematic review of prehospital EBGs to identify and assess the quality of EBGs published between 2023 and 2025 that can inform prehospital clinical care and operations.\n\n**METHODS**: We used a systematic review study design and searched Ovid Medline, EMBASE, and CINAHL from January 1, 2023, to May 21, 2025, for prehospital EBGs providing recommendations following an organized review of relevant literature. We appraised the quality of published EBGs with adapted criteria of the National Academy of Medicine (NAM) and the Appraisal of Guidelines for Research and Evaluation (AGREE) II Tool.\n\n**RESULTS**: In total, 71 new EBGs were identified. These addressed a variety of EMS clinical and operational topics. Most EBGs (n\u2009=\u200967, 94.4%) addressed clinical topics of EMS medicine, with a focus on time-life critical conditions (n\u2009=\u200945, 63.4%), along with injury and special clinical considerations (n\u2009=\u200937, 52.1% each). About half (n\u2009=\u200937, 52.1%) met all adapted NAM criteria for high-quality EBGs, of which 32 (86.5%) represented compilations of guidelines related to cardiopulmonary resuscitation, emergency cardiovascular care, and trauma. The mean AGREE II overall domain score was 70.9% (SD 11.4%), and 30 (42.3%) EBGs had an average domain score above 75%. These 71 new EBGs demonstrated incremental improvement in the NAM criteria and AGREE II scoring compared to the 178 EBGs identified in previous reviews.\n\n**CONCLUSIONS**: This updated systematic review identified many published EBGs intended for EMS. These EBGs were overall of higher quality than those previously published, and their appraisal continues to yield important findings that can serve to inform guideline developers on how to continually improve the quality of prehospital EBGs. The high-quality EBGs identified in this review should serve as targets to promote the dissemination and implementation of evidence-based recommendations, inform prehospital protocol development, and guide the initial certification and continuing education of EMS personnel.",
+      "journal": "Prehosp Emerg Care",
+      "authors": [
+        "Martin-Gill C",
+        "Patterson PD",
+        "Richards CT",
+        "Bishop ST",
+        "Potts BT",
+        "Cash RE"
+      ],
+      "date": "2026 Sep 11",
+      "doi": "10.1080/10903127.2026.2731488",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Prehospital"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "prehospital",
+          "strength": "strong",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42725780/"
+    },
+    {
+      "pmid": "42725750",
+      "title": "Translational Inefficiencies in Traumatic Brain Injury Research: Evidence From 94\u2009399 Publications.",
+      "abstract": "**BACKGROUND AND OBJECTIVES**: Despite extensive investigation, no proven neuroprotective therapy exists for traumatic brain injury. Although this translational gap has been widely discussed, it has not been objectively characterized through systematic analysis. We hypothesized that this deficit reflects not only biological intractability but also constraints within the research ecosystem that impede translational progress.\n\n**METHODS**: Web of Science, PubMed, and Scopus were searched without date or document type restrictions. A natural language processing pipeline screened results and classified study designs, topical areas, geographic affiliations, and funding sources. All analyses and visualizations were performed using open-source Python libraries.\n\n**RESULTS**: 94\u2009399 publications spanning 1829 to 2026 comprised the corpus. Research output was geographically concentrated. Thematic network analysis revealed 4 discrete research domains (preclinical, acute clinical, chronic/rehabilitation, and sports-related), with the preclinical domain spatially isolated from all 3 clinical clusters. Randomized controlled trials comprised 1.5% of publications, while reviews exceeded 20% of annual output throughout the 21st century. Preclinical research share peaked near 23% of annual publications around 2000 and subsequently declined without a commensurate rise in clinical trial activity (Chow test, P < .001). Diagnostic biomarker research comprised 3.8% of publications but remained poorly integrated with prospective trial designs. Postacute pharmacotherapy research represented 0.8% of publications and the smallest trial-integrated fraction of any area examined. Citation concentration was substantial (Gini 0.725), with nearly one-fifth of publications uncited. Journal-level analysis revealed a sustained decline in neurosurgery-specific journal representation from 1980 to 2025; in 1993, neurology and neuroscience journals surpassed neurosurgery journals in proportional share of annual publications and have maintained that lead since. National Institutes of Health-funded research, the largest funder by a factor of 5, produced randomized controlled trial rates indistinguishable from those of unfunded literature (1.6%).\n\n**CONCLUSION**: Traumatic brain injury literature has grown substantially without commensurate advances in high-evidence research, reflecting identifiable inefficiencies in infrastructure and funding strategy that represent targets for intervention.",
+      "journal": "Neurosurgery",
+      "authors": [
+        "de Souza DN",
+        "Frome S",
+        "Grin EA",
+        "Grossman SN",
+        "Huang PP",
+        "Kurland DB"
+      ],
+      "date": "2026 Sep 11",
+      "doi": "10.1227/neu.0000000000004208",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "TBI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "traumatic",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic brain injury",
+          "strength": "strong",
+          "topic": "TBI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42725750/"
+    },
+    {
+      "pmid": "42721570",
+      "title": "Beyond surviving: The mental and physical impairment of health-related quality of life after polytrauma emphasizes the need for interprofessional long-term aftercare.",
+      "abstract": "**BACKGROUND**: Major trauma, particularly from road traffic accidents, is a leading cause of death and long-term disability in young adults worldwide. Advances in trauma center management, especially in Germany, have substantially improved survival rates to approximately 90%, which can be considered excellent. They often experience a reduced health-related quality of life (HrQoL) due to persistent physical, emotional, and mental challenges, underscoring the need for comprehensive long-term aftercare. This study focuses on the traumatic aftermath two years after polytrauma beyond the individual pattern of injury.\n\n**METHODS**: This single-center cohort study was performed at the polytrauma outpatient center of the Department of Trauma Surgery, Orthopaedics, and Plastic Surgery of the University Medical Center G\u00f6ttingen (UMG), Germany. Patients were retrospectively identified from hospital and trauma registry records, and data collection (questionnaires and interviews) was performed prospectively. Seventy patients aged 18 years or older with multiple trauma (ICD-10: T07 or related combinations) participated in the study 24 months after the initial trauma. Data on general HrQoL, depressive and anxiety symptoms, and socioeconomic consequences were collected using validated questionnaires (validated trauma-specific questionnaire, SF-36, PHQ-9 & GAD-7), trauma-specific surveys, and patient records. Statistical analyses were used to assess differences and correlations between patient factors and outcomes.\n\n**RESULTS**: Participants displayed significantly lower HrQoL scores across all SF-36 dimensions compared to the general population (p\u202f<\u202f0.005), with pronounced deficits in physical functioning, pain, and emotional role functioning. Nearly half of the participants exhibited mild depressive symptoms, and approximately 40% showed mild to severe anxiety symptoms. Pain, particularly in the lower extremities, and difficulties in daily activities were strongly associated with reduced physical and mental health sum scores. Socioeconomic impacts included changes in social relationships and employment status, with only 51% returning to full-time work and nearly 30% losing their jobs post-injury. Rehabilitation was rated positively, but access remained limited.\n\n**CONCLUSIONS**: Polytrauma should be conceptualized as a chronic disease with complex physical, psychological, and socioeconomic sequelae that significantly impair long-term HrQoL. Effective management requires individualized interdisciplinary aftercare programs focusing on physical rehabilitation, mental health support, and socioeconomic reintegration. Coordinated care models, such as specialized outpatient centers, are essential for addressing these multifaceted needs and improving long-term outcomes for polytrauma survivors.",
+      "journal": "Injury",
+      "authors": [
+        "Spering C",
+        "Bator F",
+        "von Steinb\u00fcchel N",
+        "Neubert A",
+        "Awan Malik H",
+        "Lehmann W"
+      ],
+      "date": "2026 Sep 07",
+      "doi": "10.1016/j.injury.2026.113644",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "polytrauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "major trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "trauma registry",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42721570/"
+    },
+    {
+      "pmid": "42721569",
+      "title": "Patellar fractures: To plate them all? Results of a new treatment protocol.",
+      "abstract": "**INTRODUCTION**: In recent years, anatomically contoured locking plates have been introduced as an alternative fixation method for patellar fractures. Biomechanical studies have demonstrated superior mechanical stability and clinical studies further suggest that plating reduces complication and revision rates, especially in comminuted fracture patterns. However, there is uncertainty regarding the role of plating in less complex fracture types. Following an institutional shift to routine plating of all surgically treated patellar fractures, this study compares outcomes and costs of plate versus non-plate fixation for patellar fractures.\n\n**METHODS**: Retrospective cohort at a level-I trauma center (2016-2023). Patients undergoing fixation with \u2265\u202f6-month follow-up were included. Major complications were fixation failure or deep infection; minor included superficial infection, ROM <\u202f110\u00b0, persistent knee pain, or stair-climbing difficulty. Hardware removal was analyzed separately.\n\n**RESULTS**: 125 patients met criteria (48 plating; 77 non-plate); 70% had AO C1-C2 patterns. Major complications occurred in 4% after plating versus 15% with non-plate (p\u202f=\u202f0.07). Hardware removal rate was 8.3% with plating versus 26.0% without. Minor complication rates were lower with plating (p\u202f<\u202f0.05). ROM was better after plating (0-136\u00b0) than non-plate fixation (1-126\u00b0). Cost analysis showed higher primary cost with plating, offset by fewer complications, yielding a net additional expenditure of $6413 overall.\n\n**CONCLUSION**: Plating reduced complications and hardware removal and improved overall function, with modest additional cost.",
+      "journal": "Injury",
+      "authors": [
+        "Davidson A",
+        "Harats E",
+        "Levy Y",
+        "Stavsky M",
+        "Lieberman I",
+        "Altergot A",
+        "Bloom S"
+      ],
+      "date": "2026 Sep 06",
+      "doi": "10.1016/j.injury.2026.113652",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42721569/"
+    },
+    {
+      "pmid": "42721568",
+      "title": "Emerging intraoperative diagnostic modalities for fracture-related infection: A scoping review.",
+      "abstract": "**BACKGROUND**: Fracture-related infection (FRI) remains a challenge in orthopedic trauma care. Conventional culturing of deep intraoperative samples is the current diagnostic standard, but confirmation occurs postoperatively, delaying targeted treatment. Real-time intraoperative diagnostic techniques may offer earlier, more precise detection and improved surgical decision-making, but their clinical value remains uncertain and requires further investigation.\n\n**METHODS**: A scoping review was conducted in accordance with PRISMA-ScR guidelines using the JBI PCC framework. Studies were included if they assessed any intraoperative diagnostic technique in patients with confirmed or suspected FRI or in relevant experimental models. Data on study design, population, technique characteristics, outcomes and key findings were charted and synthesised narratively.\n\n**RESULTS**: Seven studies met the inclusion criteria, covering two categories of intraoperative techniques: frozen section analysis (n\u202f=\u202f3) and fluorescence-based imaging (n\u202f=\u202f4). Frozen section analysis demonstrated variable diagnostic performance. One diagnostic accuracy study in upper-limb nonunion surgery reported high sensitivity (88%), specificity (96%) and negative predictive value (98%), whereas a prospective cohort of revision fracture surgery for presumed aseptic failure showed low sensitivity (0%) for detecting indolent infection. Studies assessing intraoperative diagnostic modalities for FRI were heterogeneous in terms of study design, populations, and reference standards. Studies focusing on fluorescence-based imaging were predominantly experimental, including bacterial-targeted fluorescent tracers, fluorescence-assisted assessment of bone viability, and perfusion-based imaging. These techniques consistently demonstrated technical feasibility in ex vivo models, murine infection models, and small clinical feasibility studies, but none have been evaluated in larger FRI cohorts.\n\n**CONCLUSION**: The evidence base for intraoperative diagnostic modalities in FRI is limited. Frozen section analysis is the most established method but shows variable performance across clinical contexts. Fluorescence-based intraoperative imaging techniques seem promising but remain largely developmental. In particular, vancomycin-based fluorescent tracers have shown strong preclinical performance and may enable targeted, real-time visualization of bacterial infections during surgery. Further prospective clinical studies using consistent diagnostic frameworks and validated reference standards are needed to clarify their value in FRI.",
+      "journal": "Injury",
+      "authors": [
+        "Bessems L",
+        "Meuris A",
+        "Onsea J",
+        "Alt V",
+        "Verhofstad MHJ",
+        "Zalavras C",
+        "Trampuz A",
+        "Obremskey WT",
+        "Gitajn IL",
+        "IJpma FFA",
+        "Moriarty TF",
+        "Metsemakers WJ"
+      ],
+      "date": "2026 Sep 05",
+      "doi": "10.1016/j.injury.2026.113654",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Orthopaedic"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "orthopaedic trauma",
+          "strength": "weak",
+          "topic": "Orthopaedic"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42721568/"
+    },
+    {
+      "pmid": "42721567",
+      "title": "Are Staphylococcus aureus fracture-related infections clonal, and what are the implications for bacteriophage therapy?",
+      "abstract": "Fracture related infections (FRI) are a devastating complication of orthopedic trauma care, most commonly caused by Staphylococcus aureus. The organisms' ability to form biofilms complicates conventional antibiotic therapy and drives demands for novel therapeutics. One promising novel approach is bacteriophage therapy, however this therapeutic has a narrow host range. Thus, understanding whether S. aureus FRIs are clonal or polyclonal is crucial for development of bacteriophage therapy. Consequently, the aim, of this study, was to evaluate 15 S. aureus clinical FRI isolates to determine clonality. For each individual FRI, eight colonies underwent whole-genome sequencing and results were compared to a reference strain to determine genomic variants. Isolates from each individual patient demonstrated greater than 92% shared genomic variants and over a 98% overlap with a merged variant profile, indicating clonal infections across all 15 FRIs. Furthermore, we assessed bacteriophage K activity to the planktonic states of the isolates for which there was similar activity against each individual FRI but different activity amongst the 15 FRI isolates. Lastly, we evaluated variations of genes associated with bacteriophage attachment receptors glycosylation (tarS, M, P) in which there were identical sequences across colonies for each individual FRI, indicating limited intra-infection variation in glycosylation potential of this receptor. This data supports that S. aureus FRI are clonal infections which typically have uniform bacteriophage attachment receptor glycosylation profiles within individual infections. These findings are vital for the development of bacteriophage therapy, suggesting that a single S. aureus colony is sufficient to conduct in vitro testing to determine bacteriophage activity to planktonic forms of S. aureus FRI in vivo. Yet further similar studies evaluating sessile heterogeneity are warranted. Nonetheless, the foundation of knowledge seen here supports further translational research and refinement of bacteriophage therapeutic strategies for S. aureus FRI.",
+      "journal": "Injury",
+      "authors": [
+        "Doub JB",
+        "Nebeluk N",
+        "Tallon L",
+        "Hand R",
+        "Vavikolanu K",
+        "Santana-Cruz I",
+        "Levack AE"
+      ],
+      "date": "2026 Sep 05",
+      "doi": "10.1016/j.injury.2026.113682",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Orthopaedic"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "orthopaedic trauma",
+          "strength": "weak",
+          "topic": "Orthopaedic"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42721567/"
+    },
+    {
+      "pmid": "42721566",
+      "title": "Comparison of outcomes based on treatment type for geriatric acetabular fractures: A systematic review and meta-analysis.",
+      "abstract": "**INTRODUCTION**: Acetabular fractures in geriatric patients are increasing in frequency and present unique challenges due to poor bone quality and pre-existing osteoarthritis. High rates of secondary conversion to Total Hip Arthroplasty (THA) have led to the increased use of a \"Fix and Replace\" strategy (Trauma Arthroplasty). This systematic review and meta-analysis compares clinical outcomes and complications of ORIF with primary THA/Combined Hip Procedure (CHP) based on fracture-based treatment strategies in the elderly.\n\n**METHODS**: A systematic literature search was conducted (PubMed, Embase, Cochrane, and Web of Science) for studies published between 1997 and 2025 involving patients aged \u226555 years with acetabular fractures. We compared ORIF (n\u202f=\u202f2034) versus Arthroplasty (CHP/THA, n\u202f=\u202f417) [Synthesized from updated dataset]. Primary outcomes were functional scores (Harris Hip Score and Oxford Hip Score), 90-day and 1-year mortality rates, and reoperation/conversion rates. Absolute numbers and pooled odds ratios (OR) were calculated using a random-effects model RESULTS: Out of 2163 screened articles, 20 (0.9%) were included in this study, encompassing a total cohort of 2703 patients. The mean age of the study population was 74.14 years (SD 6.97), with a mean ASA score of 2.8. The primary THA/CHP group achieved a significantly higher postoperative Harris Hip Score with a mean of 73.6 compared to 66.3 in the ORIF group at three months (p\u202f<\u202f0.05). Surgical intensity was higher in the \"Fix and Replace\" cohort in several series, which demonstrated a significantly longer median operative time (185 vs. 125\u202fmin, p\u202f<\u202f0.001) and an increased intraoperative blood loss (median 1000\u202fml vs. 500\u202fml, p\u202f=\u202f0.006) compared to isolated ORIF. The 90-day mortality rate was 11% for ORIF and 15% for THA/CHP, showing no statistically significant difference (OR 1.08; 95% CI 0.58-2.02; p\u202f=\u202f0.82). Patients initially treated with ORIF had a significantly higher risk of failure requiring secondary surgery, with a 14-45% conversion rate to THA due to post-traumatic osteoarthritis or hardware failure. The primary THA/CHP group had a significantly lower reoperation rate of 4.4% to 7.7%, yielding a pooled odds ratio of 2.34 (95% CI 1.31-5.67; p\u202f<\u202f0.001) in favor of primary arthroplasty CONCLUSION: Primary Trauma Arthroplasty (Fix and Replace) provides superior functional outcomes and lower reoperation rates compared to ORIF alone in geriatric patients with comminuted acetabular fractures or joint impaction. While surgical intensity is higher, the avoidance of \"failed\" osteosynthesis and subsequent complex revision surgery suggests that primary THA is a viable first-line treatment for selected elderly patients.",
+      "journal": "Injury",
+      "authors": [
+        "Halvachizadeh S",
+        "Starr AJ",
+        "Bell L",
+        "Pfeifer R",
+        "Osterhoff G",
+        "H\u00f6ch A",
+        "Hildebrand F",
+        "Hax J",
+        "R\u00fcdiger HA",
+        "Pape HC",
+        "Berk T"
+      ],
+      "date": "2026 Sep 05",
+      "doi": "10.1016/j.injury.2026.113677",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "weak",
+          "topic": "General Trauma"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42721566/"
+    },
+    {
+      "pmid": "42721565",
+      "title": "Predictive factors for outcomes in pyogenic flexor tenosynovitis: a 10-year analysis of 341 patients.",
+      "abstract": "**INTRODUCTION**: Pyogenic flexor tenosynovitis (PFT) is a surgical emergency that requires prompt diagnosis and treatment to prevent severe hand dysfunction. This study aims to identify epidemiological, clinical, and therapeutic factors influencing outcomes in a large cohort of adult patients.\n\n**METHODS**: We conducted a retrospective observational study of 341 adult patients treated for PFT at a tertiary university hospital between January 2015 and January 2025. Diagnosis was based on Kanavel's signs, and severity was graded using the Michon classification. Functional outcomes were evaluated using the Strickland and Glogovac criteria, DASH scores, and grip strength at final follow-up. Predictors were examined using bivariate correlation and multivariable regression analysis.\n\n**RESULTS**: The median age was 48 years with a male predominance (56.0%). The most common clinical sign was fusiform swelling (87%). Staphylococcus aureus was the predominant pathogen (43.4%). Surgical management primarily involved lavage and debridement (53.7%) or necrosectomy (34.9%). Amputation was required in 11.4% of cases. Functional outcomes were excellent or good in 68.9% of patients. Advanced Michon stage at presentation significantly correlated with higher DASH scores and loss of grip strength. After multivariable adjustment, consultation delay (adjusted OR 1.13 per day, 95% CI 1.02-1.25), diabetes mellitus (aOR 3.19, 95% CI 1.51-6.72) and Michon stage (aOR 8.71 per level, 95% CI 4.61-16.48) remained independent predictors of an unfavourable functional outcome, and polymicrobial infection independently predicted a higher DASH score (\u03b2 5.83, 95% CI 2.50-9.15).\n\n**CONCLUSION**: Early presentation and aggressive management are critical for favorable outcomes in PFT. The absence of pain on passive extension in advanced stages is a grave prognostic sign indicating tissue necrosis rather than improvement.",
+      "journal": "Injury",
+      "authors": [
+        "Idarrha F",
+        "Demnati B",
+        "Boumediane EM",
+        "El Khir YF",
+        "Aziz S",
+        "Benhima MA",
+        "Abkari I"
+      ],
+      "date": "2026 Sep 08",
+      "doi": "10.1016/j.injury.2026.113631",
+      "tier": "filtered",
+      "topics": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42721565/"
+    },
     {
       "pmid": "42721363",
       "title": "Rib fixation still helps: Surgical stabilization of rib fractures in traumatic brain injury, a TQIP Study.",
@@ -1571,7 +2040,7 @@
     {
       "pmid": "42692184",
       "title": "Pulseless electrical activity versus asystole as initial pulseless rhythm in children: challenging convention regarding non-shockable rhythms.",
-      "abstract": "**BACKGROUND**: Pulseless electrical activity (PEA) and asystole are the predominant initial rhythms in pediatric in-hospital cardiac arrest (IHCA) and are often grouped as \"non-shockable.\" Whether they represent distinct entities in children remains unclear.\n\n**METHODS**: We analyzed pediatric (<18\u202fyears) IHCA cases from the American Heart Association Get With The Guidelines-Resuscitation (GWTG\u00ae-R) registry (2000-2023). Patients with an initial rhythm of PEA or asystole were included. Outcomes were return of spontaneous circulation (ROSC), restoration of circulation (ROC, defined as ROSC or ROC with ECMO), and survival to hospital discharge. Mixed-effects regression adjusted for demographics, comorbidities, event features, and hospital factors. Additional analyses excluded NICU events and stratified patients by age.\n\n**RESULTS**: Of 9423 patients, 5416 (57.5%) had PEA and 4007 (42.5%) had asystole. Compared with PEA, asystole was associated with lower odds of ROSC (aOR 0.70, 95% CI 0.64-0.77), ROC (aOR 0.71, 95% CI 0.64-0.78), and survival to discharge (aOR 0.89, 95% CI 0.81-0.99). In the NICU-excluded cohort, asystole remained associated with lower odds of ROSC and ROC, but survival to discharge no longer differed between rhythms (36.1% vs 34.1%; aOR 0.99, 95% CI 0.90-1.11). Age-stratified analyses showed the overall survival difference was driven by neonates; in older age groups, survival to discharge did not differ between PEA and asystole.\n\n**CONCLUSION**: PEA and asystole differ in patient characteristics and short-term resuscitation outcomes in pediatric IHCA. However, the overall survival difference appears driven by neonates and NICU-associated events, with no significant survival difference in older children.",
+      "abstract": "**BACKGROUND**: Pulseless electrical activity (PEA) and asystole are the predominant initial rhythms in pediatric in-hospital cardiac arrest (IHCA) and are often grouped as \"non-shockable.\" Whether they represent distinct entities in children remains unclear.\n\n**METHODS**: We analyzed pediatric (<18\u00a0years) IHCA cases from the American Heart Association Get With The Guidelines-Resuscitation (GWTG\u00ae-R) registry (2000-2023). Patients with an initial rhythm of PEA or asystole were included. Outcomes were return of spontaneous circulation (ROSC), restoration of circulation (ROC, defined as ROSC or ROC with ECMO), and survival to hospital discharge. Mixed-effects regression adjusted for demographics, comorbidities, event features, and hospital factors. Additional analyses excluded NICU events and stratified patients by age.\n\n**RESULTS**: Of 9423 patients, 5416 (57.5%) had PEA and 4007 (42.5%) had asystole. Compared with PEA, asystole was associated with lower odds of ROSC (aOR 0.70, 95% CI 0.64-0.77), ROC (aOR 0.71, 95% CI 0.64-0.78), and survival to discharge (aOR 0.89, 95% CI 0.81-0.99). In the NICU-excluded cohort, asystole remained associated with lower odds of ROSC and ROC, but survival to discharge no longer differed between rhythms (36.1% vs 34.1%; aOR 0.99, 95% CI 0.90-1.11). Age-stratified analyses showed the overall survival difference was driven by neonates; in older age groups, survival to discharge did not differ between PEA and asystole.\n\n**CONCLUSION**: PEA and asystole differ in patient characteristics and short-term resuscitation outcomes in pediatric IHCA. However, the overall survival difference appears driven by neonates and NICU-associated events, with no significant survival difference in older children.",
       "journal": "Resuscitation",
       "authors": [
         "Wong R",
@@ -1922,7 +2391,7 @@
     {
       "pmid": "42689915",
       "title": "Predicting the Prehospital Blood Transfusion Need in a Large Metropolitan Center.",
-      "abstract": "**OBJECTIVES**: Prehospital blood transfusion (PHBT) has been associated with reduced mortality for trauma patients in hemorrhagic shock. However, there are currently no standardized prehospital criteria to identify patients who may benefit from PHBT. We designed this study to assess the positive predictive value (PPV) of a set of PHBT criteria to identify patients requiring emergent transfusion within four hours of emergency department (ED) arrival.\n\n**METHODS**: We conducted an observational retrospective cohort study of all trauma patients \u2265 15 years-old who were transported by emergency medical services (EMS) between November 1st, 2021 and September 30th, 2023 to a trauma center prior to the implementation of PHBT protocols in LAC. We retrospectively applied the PHBT criteria: systolic blood pressure (SBP) < 70mmHg, a simultaneous reading of SBP < 90\u2009mmHg and heart rate (HR) \u2265 110 beats per minute (BPM), or EMS-witnessed traumatic arrest. We excluded patients with cardiac arrest prior to EMS arrival, isolated head injury, or ground-level fall as the only mechanism of injury. Our primary outcome was the PPV of the PHBT criteria as a whole as well as each individual PHBT criterion for emergent transfusion need, which we defined as the proportion of trauma patients requiring in-hospital transfusion within four hours of ED arrival.\n\n**RESULTS**: Of the 25,473 trauma patients, 905 met one or more PHBT criterion with no exclusion. These patients were primarily male (76%, n\u2009=\u2009688) with a median age of 35 (IQR 27-47) and most suffered blunt trauma (68%, n\u2009=\u2009618). Overall, 475 (52%) received blood within four hours of hospital arrival. The PHBT criterion of SBP < 90\u2009mmHg and HR \u2265 110 BPM was found to have the highest PPV (56%, 95% CI 52-60%) for in-hospital transfusion within four hours. PPV for the other PHBT criteria ranged between 51-53%.\n\n**CONCLUSIONS**: The PHBT criteria of SBP < 90\u2009mmHg and HR \u2265 110 bpm had the greatest PPV for transfusion within four hours of ED arrival. This information may be used to further optimize criteria for PHBT and identify patients most likely to benefit.",
+      "abstract": "**OBJECTIVES**: Prehospital blood transfusion (PHBT) has been associated with reduced mortality for trauma patients in hemorrhagic shock. However, there are currently no standardized prehospital criteria to identify patients who may benefit from PHBT. We designed this study to assess the positive predictive value (PPV) of a set of PHBT criteria to identify patients requiring emergent transfusion within four hours of emergency department (ED) arrival.\n\n**METHODS**: We conducted an observational retrospective cohort study of all trauma patients \u2265 15\u2009years-old who were transported by emergency medical services (EMS) between November 1st, 2021 and September 30th, 2023 to a trauma center prior to the implementation of PHBT protocols in LAC. We retrospectively applied the PHBT criteria: systolic blood pressure (SBP) < 70\u2009mmHg, a simultaneous reading of SBP < 90\u2009mmHg and heart rate (HR) \u2265 110 beats per minute (BPM), or EMS-witnessed traumatic arrest. We excluded patients with cardiac arrest prior to EMS arrival, isolated head injury, or ground-level fall as the only mechanism of injury. Our primary outcome was the PPV of the PHBT criteria as a whole as well as each individual PHBT criterion for emergent transfusion need, which we defined as the proportion of trauma patients requiring in-hospital transfusion within four hours of ED arrival.\n\n**RESULTS**: Of the 25,473 trauma patients, 905 met one or more PHBT criterion with no exclusion. These patients were primarily male (76%, \n\n**CONCLUSIONS**: The PHBT criteria of SBP < 90\u2009mmHg and HR \u2265 110 bpm had the greatest PPV for transfusion within four hours of ED arrival. This information may be used to further optimize criteria for PHBT and identify patients most likely to benefit.",
       "journal": "Prehosp Emerg Care",
       "authors": [
         "Warren J",
@@ -1933,7 +2402,7 @@
         "Rangwala R",
         "Wilhelm K"
       ],
-      "date": "2026 Sep 03",
+      "date": "2026 Sep 11",
       "doi": "10.1080/10903127.2026.2723329",
       "tier": "filtered",
       "topics": [
@@ -1951,11 +2420,6 @@
         },
         {
           "keyword": "traumatic",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "blunt trauma",
           "strength": "weak",
           "topic": "General Trauma"
         },
@@ -5324,8 +5788,8 @@
     },
     {
       "pmid": "42636409",
-      "title": "Documentation of weight in pediatric 9-1-1 responses with administration of weight-based medications.",
-      "abstract": "**OBJECTIVES**: Determining a child's weight is a critical first step in administering the appropriate dose of a medication in an emergency. The National Emergency Medical Services Quality Alliance (NEMSQA) patient safety process measure, \"Pediatrics-03b,\" calls for weight documentation in kilograms or length-based weight estimate for pediatric patients who receive weight-based medications in the prehospital setting. To date, no publication has identified compliance with this measure at a national level. The goal of this study was to describe weight documentation in pediatric 9-1-1 responses and factors associated with this quality measure.\n\n**METHODS**: Using the ImageTrend Collaborate 2024 national dataset, we analyzed 9-1-1 responses for pediatric patients (<18 years of age) who received medication by EMS clinicians consistent with the Pediatrics-03b definition denominator. Weight documentation was obtained from eExam01 and eExam02 National EMS Information System fields. Differences in weight documentation were assessed by patient demographics, unit, and scene characteristics. Furthermore, medication type and administration routes were examined. Statistical analyses included chi-square tests for comparison of proportions and population averaged univariable logit regression models for the binary outcome of weight documentation with clustering for state.\n\n**RESULTS**: Overall, 57,378 responses met inclusion criteria, and 41,963 (73.1%) had a documented weight. Weights were less likely to be documented in cases involving adolescent (age 13-17) patients (Odds Ratio [OR]: 0.87, 95% Confidence Interval [95% CI]: 0.75-0.99), patients described as Black (OR: 0.72, 95% CI: 0.61-0.85), or those with lower acuity (OR: 0.59, 95% CI: 0.50-0.71). Weights were more likely to be documented in cases managed by advanced life support units (OR: 2.02, 95% CI: 1.31-3.11) and in patients described as male (OR: 1.08, 95%: 1.03-1.14).\n\n**CONCLUSIONS**: Three quarters of 9-1-1 responses meeting the Pediatrics-03b case definition were compliant with the measure. Future studies should be focused on evaluating the case definition for the measure to determine how to best evaluate and improve care in this domain.Establishing a benchmark, evaluating that benchmark, and understanding barriers to optimal implementation are critical to improving prehospital care and documentation of pediatric patients by EMS clinicians.",
+      "title": "Documentation of Weight in Pediatric 9-1-1 Responses with Administration of Weight-Based Medications.",
+      "abstract": "**OBJECTIVES**: Determining a child's weight is a critical first step in administering the appropriate dose of a medication in an emergency. The National Emergency Medical Services Quality Alliance (NEMSQA) patient safety process measure, \"Pediatrics-03b,\" calls for weight documentation in kilograms or length-based weight estimate for pediatric patients who receive weight-based medications in the prehospital setting. To date, no publication has identified compliance with this measure at a national level. The goal of this study was to describe weight documentation in pediatric 9-1-1 responses and factors associated with this quality measure.\n\n**METHODS**: Using the ImageTrend Collaborate 2024 national dataset, we analyzed 9-1-1 responses for pediatric patients (<18\u2009years of age) who received medication by EMS clinicians consistent with the Pediatrics-03b definition denominator. Weight documentation was obtained from eExam01 and eExam02 National EMS Information System fields. Differences in weight documentation were assessed by patient demographics, unit, and scene characteristics. Furthermore, medication type and administration routes were examined. Statistical analyses included chi-square tests for comparison of proportions and population averaged univariable logit regression models for the binary outcome of weight documentation with clustering for state.\n\n**RESULTS**: Overall, 57,378 responses met inclusion criteria, and 41,963 (73.1%) had a documented weight. Weights were less likely to be documented in cases involving adolescent (age 13-17) patients (Odds Ratio [OR]: 0.87, 95% Confidence Interval [95% CI]: 0.75-0.99), patients described as Black (OR: 0.72, 95% CI: 0.61-0.85), or those with lower acuity (OR: 0.59, 95% CI: 0.50-0.71). Weights were more likely to be documented in cases managed by advanced life support units (OR: 2.02, 95% CI: 1.31-3.11) and in patients described as male (OR: 1.08, 95%: 1.03-1.14).\n\n**CONCLUSIONS**: Three quarters of 9-1-1 responses meeting the Pediatrics-03b case definition were compliant with the measure. Future studies should be focused on evaluating the case definition for the measure to determine how to best evaluate and improve care in this domain. Establishing a benchmark, evaluating that benchmark, and understanding barriers to optimal implementation are critical to improving prehospital care and documentation of pediatric patients by EMS clinicians.",
       "journal": "Prehosp Emerg Care",
       "authors": [
         "Burnett SJ",
@@ -5336,7 +5800,7 @@
         "Leslie Salewon M",
         "Clemency BM"
       ],
-      "date": "2026 Aug 24",
+      "date": "2026 Sep 11",
       "doi": "10.1080/10903127.2026.2719957",
       "tier": "filtered",
       "topics": [
@@ -8314,56 +8778,6 @@
       ],
       "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/42596010/"
-    },
-    {
-      "pmid": "42594691",
-      "title": "Complications after operatively treated fractures in patients with solid organ transplantation - A systematic review of the literature.",
-      "abstract": "**INTRODUCTION**: Solid organ transplantation is associated with multiple risk factors, reduced bone quality and relevant comorbidities, which may negatively affect postoperative outcomes after fracture treatment. Furthermore, these patients usually require lifelong immunosuppressive therapy. A systematic review was performed to evaluate the incidence of postoperative complications and to assess whether specific considerations are required in this special patient group.\n\n**METHODS**: A systematic review of the literature according to the PRISMA guidelines was performed. A total of 3743 studies were identified and subsequently assessed for eligibility. Studies investigating elective orthopedic procedures were excluded. After full-text screening, six studies were included in the final analysis.\n\n**RESULTS**: Overall, the six studies investigated 2317 patients. Cohort sizes ranged from 12 to 2163 patients, with a median cohort size of 33.5 patients. Mean age of patients was 67.9 years. Follow-up durations varied between 18 weeks and 3 years. The most frequently investigated fracture type was proximal femoral fractures with three studies, followed by lower extremity fractures (two studies). One study examined distal radius fractures. Infectious complications were reported in four studies, with a pooled infection rate of 10%. The pooled 90-day readmission rate was 20%. Mortality was reported heterogeneously across studies, ranging from 2% to 52%.\n\n**CONCLUSION**: Studies investigating outcomes after operatively treated fractures in solid organ transplant recipients are rare. Interestingly, infectious complication rates and 90-day readmission rates do not appear to be substantially increased compared to the general population. The wide range of reported mortality rates is likely attributable to differences in fracture types and patient populations, as certain fractures-such as femoral neck fractures-are associated with high mortality even in non-transplanted patients.",
-      "journal": "Injury",
-      "authors": [
-        "H\u00fcbner CT",
-        "Anranter A",
-        "Kalbas Y",
-        "Klingebiel FK",
-        "Shehu A",
-        "Halvachizadeh S",
-        "Pfeifer R",
-        "R\u00f6ssler F",
-        "Pape HC",
-        "Teuben MP"
-      ],
-      "date": "2026 Aug 11",
-      "doi": "10.1016/j.injury.2026.113592",
-      "tier": "filtered",
-      "topics": [],
-      "keyword_matches": [],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42594691/"
-    },
-    {
-      "pmid": "42594675",
-      "title": "Independent predictors of hyperoxemia following prehospital oxygen therapy: A prospective cohort study.",
-      "abstract": "**BACKGROUND**: Hyperoxemia is a potential consequence of prehospital oxygen therapy. However, data on independent predictors of hyperoxemia in patients managed by prehospital emergency medical services (PEMS) remain limited. This study aimed to identify factors associated with hyperoxemia in patients receiving prehospital oxygen therapy.\n\n**METHODS**: This prospective single-center cohort study was conducted in the emergency department of a tertiary-care hospital between May 2025 and February 2026. Adult patients transported by PEMS while receiving supplemental oxygen were enrolled. Demographic, hemodynamic, transport, oxygen delivery, and arterial blood gas data were recorded. Hyperoxemia was defined as PaO\u2082 >120\u00a0mmHg. Independent predictors were identified using multivariate logistic regression.\n\n**RESULTS**: Of 245 patients, 60 (24.5%) had hyperoxemia on ED arrival. Hyperoxemic patients had higher intubation rates, longer transport durations, higher oxygen delivery rates, and higher ED SpO\u2082 levels (all p\u00a0<\u00a00.05). Multivariate analysis identified two independent predictors of hyperoxemia: intubation (OR 38.89, 95% CI 14.21-106.45) and transport duration \u226524\u00a0min (OR 13.74, 95% CI 4.43-42.66). ROC curve analysis revealed that an ED SpO\n\n**CONCLUSION**: Hyperoxemia was common among patients receiving prehospital oxygen therapy. These findings emphasize the importance of individualized oxygen titration and regular reassessment during transport, particularly in intubated patients and in those with longer transport durations, to reduce avoidable hyperoxemia.",
-      "journal": "Am J Emerg Med",
-      "authors": [
-        "Ulu M",
-        "Yavuz E"
-      ],
-      "date": "2026 Aug 10",
-      "doi": "10.1016/j.ajem.2026.08.007",
-      "tier": "filtered",
-      "topics": [
-        "Prehospital"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "prehospital",
-          "strength": "strong",
-          "topic": "Prehospital"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42594675/"
     }
   ]
 }
