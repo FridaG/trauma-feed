@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-12T21:49:41.126104Z",
-  "total_articles": 225,
+  "generated": "2026-09-13T21:57:02.369300Z",
+  "total_articles": 236,
   "all_topics": [
     "Abdominal",
     "Burns",
@@ -378,6 +378,658 @@
     "Cochrane Database Syst Rev": "filtered"
   },
   "articles": [
+    {
+      "pmid": "42731896",
+      "title": "Clinical and patient-reported outcomes for bicycle and micro-mobility accidents: A prospective study with 12-month injury follow-up.",
+      "abstract": "**INTRODUCTION**: There has been a huge increase in bicycle and micromobility device use in Europe but the systematic collection of accident and injury data including patient-reported outcome measures is lacking.\n\n**MATERIALS AND METHODS**: Prospective registration of accidents from bicycle-and micro-mobility usage within Agder County, Norway from 1st June 2022-30\u202fth September 2023. Study sites had posters, folders and business cards with project QR codes linked to accident questionnaires covering helmet use, type of bicycle, type of accident and retrospective pre-injury EQ-5D-5L. Within 5 days, the injured were telephoned and asked for consent to the collection of clinical data covering injury and treatment, and EQ-5D-5L follow-up at 3, 6, and 12 months. The Abbreviated Injury Scale (AIS) and New Injury Severity Score (NISS) were used for injury severity/site and overall severity, respectively. Multi-trauma followed the Newcastle definition. Multiple injury was defined as >\u202f1 affected AIS body chapter.\n\n**RESULTS**: Of 460 eligible patients, 317 (68%) completed the baseline EQ-5D-5L. The mean age was 37\u202fyrs and 39% were female. Median (IQR) NISS was 4 (1-5), 38% had multiple (2-5) injuries, 1% were multi-trauma according to the Newcastle definition, AIS upper extremity injuries affected over 60%. 78% had worn a helmet, 25% rode an electric bicycle, and 75% of accidents did not involve other road users. Median (IQR) recovery was 37 (14-61) days; 11 (3%) had not fully recovered at 12 months. At 12 months both EQ-5D-5L index (p\u202f=\u202f0.001) and EQ VAS (p\u202f=\u202f0.001) scores exceeded those at pre-injury, and the only significant difference across demographic and clinical strata was observed for injury type: those with multiple injuries had lower improvements in EQ-5D-5L index scores compared to those with single injuries (p\u202f=\u202f0.034).\n\n**CONCLUSION**: Within this sample of bicycle and micromobility accidents that is broadly representative for Norway, the great majority of injuries were to the head and extremities, with fast recovery to pre-accident self-reported health-related quality of life. Given the high number of bicycle accidents and continued increase in bicycle and e-scooter use, further accident and injury monitoring is recommended.",
+      "journal": "Injury",
+      "authors": [
+        "Mj\u00e5land O",
+        "Hesjevoll IS",
+        "Bj\u00f8rnskau T",
+        "R\u00f8ise O",
+        "Garratt AM"
+      ],
+      "date": "2026 Sep 09",
+      "doi": "10.1016/j.injury.2026.113705",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "injury severity",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42731896/"
+    },
+    {
+      "pmid": "42731895",
+      "title": "Do ECG abnormalities, degree of sternal displacement or troponin level influence outcomes following sternal fracture?",
+      "abstract": "**BACKGROUND**: Sternal fractures are critical indicators of significant blunt chest trauma, with reported mortality rates ranging from 4.3% to 32%. While associations between sternal fractures and mortality have been noted, the specific factors influencing outcomes remain incompletely understood.\n\n**OBJECTIVE**: To analyze potential factors influencing clinical outcomes in patients with sternal fractures, specifically examining the relationship between mortality risk and degree of sternal displacement, troponin levels, and ECG changes.\n\n**METHODS**: This retrospective cohort study analyzed data obtained from clinical audit. There were 245 patients with documented sternal fractures presenting to a Level 1 Trauma Centre in Adelaide, South Australia from November 2020 to March 2024. Demographic information, clinical data including ECG changes, troponin levels, degree of sternal fracture displacement, and outcome data were extracted from a departmental clinical audit.\n\n**RESULTS**: The study population had a 9% mortality rate (22/245). Significant associations were found between mortality and sternal displacement severity (Fisher's exact test, p\u202f=\u202f0.022), with moderate/complete displacement showing higher mortality (36%) compared to no/mild displacement (8%). High-sensitivity initial troponin T levels exceeding 17.5\u202fng/L (a post-hoc cut-point) were associated with 20% mortality (17/84), compared to 2% (3/143) at lower levels. Delta troponin T levels were significantly higher in non-survivors (20.5\u202fng/L, IQR 8.0-154.0) than in survivors (1.0\u202fng/L, IQR -1.0-4.0; Mann-Whitney U test, p\u202f<\u202f0.001). ECG abnormalities were significantly associated with mortality (Fisher-Freeman-Halton exact test, p\u202f=\u202f0.001), with mortality rates increasing progressively from normal sinus rhythm (1%) to conduction abnormalities (33%).\n\n**CONCLUSION**: Degree of sternal fracture displacement, elevated troponin levels, ECG abnormalities, age and injury severity are significant univariate predictors of mortality in patients with sternal fractures. A moderate or severely displaced sternal fracture and/or troponin T level exceeding 17.5\u202fng/L should serve as red flags for significantly increased mortality risk, warranting heightened clinical vigilance and potentially more aggressive management.",
+      "journal": "Injury",
+      "authors": [
+        "Yeoh C",
+        "Ellis DY",
+        "Foo N",
+        "Hercus C",
+        "Petrakis N"
+      ],
+      "date": "2026 Sep 02",
+      "doi": "10.1016/j.injury.2026.113650",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "injury severity",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42731895/"
+    },
+    {
+      "pmid": "42731894",
+      "title": "Digital Stop The Bleed\u00ae training compared with in-person Stop The Bleed\u00ae training: Human instructors needed to demonstrate psychomotor skills.",
+      "abstract": "**BACKGROUND**: Stop the Bleed\u00ae (STB) training can effectively prepare first responders to intervene and prevent the injured from dying from uncontrolled bleeding, but traditional in-person instruction limits the number of people who can access training. The aim of this study was to evaluate the effectiveness of a digital STB training package consisting of an animated video and a short interactive quiz, compared with conventional instructor-led training.\n\n**STUDY DESIGN**: Pseudo-randomised non-inferiority simulation study with N\u202f=\u202f93 layperson participants recruited at a single health service precinct. Groups were randomised to either in-person training with an instructor or digital training on a laptop. Participants' knowledge and ability to perform STB bleeding control techniques was assessed with a manikin arm. Participant self-rating and self-efficacy were compared with performance.\n\n**RESULTS**: Participants' mean (standard deviation) knowledge scores were significantly non-inferior in the digital group (9.74 (0.26)) compared with in-person (9.62 (0.35), p\u202f=\u202f0.003) at a non-inferiority margin of 0.2 SDs. However, digital training participants succeeded less frequently at wound packing (80%) and tourniquet application (52%) compared to in-person training participants (100% packing and 86% tourniquet). Participants' self-efficacy ratings of performance correlated poorly with actual performance.\n\n**CONCLUSIONS**: Digital Stop the Bleed\u00ae training was as effective as instructor-led training for teaching laypersons the recognition and theory of immediate management of life-threatening bleeding. Psychomotor skills (packing, tourniquet) were inferior, highlighting the utility of observing physical demonstration for skill acquisition. These findings inform future improvements to digital STB training and suggest that the place of digital training in the widespread rollout of STB is to supplement rather than replace instructor-led training.",
+      "journal": "Injury",
+      "authors": [
+        "Salisbury I",
+        "Manzanero S",
+        "Santomauro C",
+        "Pearce S",
+        "Young J",
+        "Young R",
+        "Jennings M",
+        "Williamson F",
+        "Muller M"
+      ],
+      "date": "2026 Sep 05",
+      "doi": "10.1016/j.injury.2026.113666",
+      "tier": "filtered",
+      "topics": [
+        "Procedures"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "tourniquet",
+          "strength": "weak",
+          "topic": "Procedures"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42731894/"
+    },
+    {
+      "pmid": "42731461",
+      "title": "Factors associated with unplanned emergency department return visits after mild traumatic brain injury.",
+      "abstract": "**OBJECTIVE**: Mild traumatic brain injuries (mTBI) account for millions of emergency department (ED) visits annually. Persistent symptoms may prompt unplanned return visits (URVs), but the frequency and associated factors remain unclear. This study examined whether patient characteristics, injury mechanism, clinical workflow, discharge instructions, and follow-up plans were associated with ED URVs.\n\n**METHODS**: We conducted a retrospective chart review of patients presenting with mTBI to a suburban academic hospital. Exclusions included psychiatric illness, positive findings on diagnostic head imaging, or impaired capacity. The primary outcome was an URV related to the index injury within 8\u00a0weeks. Data collected included demographics, injury mechanism, provider type, imaging, EPIC-created pre-populated patient education handout, and follow-up plans. Uni- and multivariate analyses were performed.\n\n**RESULTS**: Among 733 unique visits, the URV rate was 10.9%. URV rates did not differ by head imaging status (p\u00a0=\u00a00.708), referral for follow-up (p\u00a0=\u00a00.978), or practitioner level (p\u00a0=\u00a00.840). Common injury mechanisms included falls (41.0%), unintended contact with an object (30.2%), and sports-related injuries (14.5%). Patients who received educational handouts had lower URV rates than those who did not (p\u00a0=\u00a00.016). After adjustment for demographic factors, receipt of pre-populated educational handouts remained associated with lower odds of URV.\n\n**CONCLUSIONS**: Approximately 1 in 10 patients with mTBI had UVRs. While clinical workflow factors, imaging, and referrals were not associated with URVs, disparities by ethnicity and differences by injury mechanism were observed. Educational handouts were independently associated with URV. Enhancing patient education and anticipatory guidance may reduce URVs and improve equity in post-mTBI care.",
+      "journal": "Am J Emerg Med",
+      "authors": [
+        "Patrick DP",
+        "Kostyun R",
+        "Cherneskie T",
+        "Subramanyam V"
+      ],
+      "date": "2026 Sep 04",
+      "doi": "10.1016/j.ajem.2026.09.007",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "TBI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "traumatic",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic brain injury",
+          "strength": "strong",
+          "topic": "TBI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42731461/"
+    },
+    {
+      "pmid": "42731460",
+      "title": "Successful surgical repair of blunt traumatic cardiac rupture with V-A ECMO initiated during open cardiac massage: a case report.",
+      "abstract": "Blunt traumatic cardiac rupture is a rare and frequently fatal injury. The role of veno-arterial extracorporeal membrane oxygenation (V-A ECMO) during active surgical resuscitation remains uncertain. A 55-year-old man was transported to our hybrid emergency room in profound shock after a motorcycle collision. Focused Assessment with Sonography for Trauma demonstrated pericardial effusion with cardiac tamponade. Emergency resuscitative thoracotomy and pericardiotomy revealed a right ventricular rupture. Despite manual compression of the rupture site and open cardiac massage, the patient developed cardiac arrest. V-A ECMO was initiated during the ongoing open cardiac massage 12\u00a0min after cardiac arrest. After restoration of systemic circulation, an approximately 2-cm right ventricular rupture was primarily repaired. Cardiac function promptly recovered, permitting successful weaning from V-A ECMO immediately after repair. Subsequent imaging revealed a blunt thoracic aortic injury, an unstable pelvic fracture, and thoracic spine fractures, that were treated with staged definitive interventions. The patient was discharged 6\u00a0months after the injury and resumed an independent life without significant neurological or functional disabilities. This case suggests that V-A ECMO initiated during open cardiac massage may provide temporary circulatory support and serve as a bridge to definitive repair in selected patients with blunt traumatic cardiac rupture and refractory circulatory collapse. Successful implementation requires immediate surgical hemorrhage control, rapid ECMO deployment, and a coordinated multidisciplinary trauma system.",
+      "journal": "Am J Emerg Med",
+      "authors": [
+        "Tanikawa A",
+        "Katsuta K",
+        "Sato T",
+        "Fujita M",
+        "Kudo D"
+      ],
+      "date": "2026 Sep 05",
+      "doi": "10.1016/j.ajem.2026.09.004",
+      "tier": "filtered",
+      "topics": [
+        "Cardiac Arrest",
+        "General Trauma",
+        "Imaging",
+        "Pelvic",
+        "Thoracic",
+        "Vascular"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "thoracotomy",
+          "strength": "weak",
+          "topic": "Thoracic"
+        },
+        {
+          "keyword": "cardiac tamponade",
+          "strength": "weak",
+          "topic": "Thoracic"
+        },
+        {
+          "keyword": "pelvic fracture",
+          "strength": "weak",
+          "topic": "Pelvic"
+        },
+        {
+          "keyword": "aortic injury",
+          "strength": "weak",
+          "topic": "Vascular"
+        },
+        {
+          "keyword": "focused assessment with sonography",
+          "strength": "weak",
+          "topic": "Imaging"
+        },
+        {
+          "keyword": "ECMO",
+          "strength": "strong",
+          "topic": "Cardiac Arrest"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42731460/"
+    },
+    {
+      "pmid": "42731252",
+      "title": "Major trauma centre clinicians: who cares? A comprehensive study of major trauma centre clinicians: are they prone to increased levels of stress, burnout and secondary trauma symptoms?",
+      "abstract": "**OBJECTIVES**: Major Trauma Centres (MTCs) treat the most severely injured patients. Clinicals working in MTCs and with trauma victims are regularly exposed to the most severe and tragic cases, which can result in burnout, compassion fatigue and secondary traumatic stress (STS). These can negatively impact on work performances, social relations, physical and psychological health. The present study aimed to investigate whether MTC consultants are at an increased risk of burnout, compassion fatigue, stress and STS compared to non-MTC consultants. It also sought to identify the contributing factors to stress and ways to manage stress at work and home.\n\n**METHODS**: MTC orthopaedic and vascular consultants and non-MTC 'general' orthopaedic consultants completed questionnaires about their burnout, compassion fatigue, stress and STS. MTC consultants then took part in an interview asking what contributes to their stress and how they manage stress at work and at home.\n\n**RESULTS**: 20 consultants responded to the questionnaire, 11 MTC orthopaedic consultants, 4 MTC vascular consultants and 5 \"general\" orthopaedic consultants. 19 were male and 1 was female. MTC/ vascular consultants had higher median scores in perceived stress, burnout, compassion satisfaction and STS compared to non-MTC consultants. MTC/ vascular consultants identified their main cause of stress to be aspects relating to 'Time' and 'Personal factors'. To cope with stress, participants wanted to feel 'supported at work' and found 'distractions' at home, such as hobbies and exercise, to be beneficial.\n\n**CONCLUSIONS**: MTC/ vascular consultants are more likely to experience the negative consequences of working with trauma patients, such as burnout and STS, compared to non-MTC consultants. To cope with stress, they sought support from colleagues, peers and family and engaged in distracting activities at home. This study indicates that consultants working in MTCs are more likely to experience the adverse consequences, but more research is needed to examine the psychological impact and interventions.",
+      "journal": "Injury",
+      "authors": [
+        "Johnson L",
+        "Loonat S",
+        "Harwood PJ",
+        "Vollans SR"
+      ],
+      "date": "2026 Sep 05",
+      "doi": "10.1016/j.injury.2026.113655",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "major trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "strong",
+          "topic": "Systems/QI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42731252/"
+    },
+    {
+      "pmid": "42731251",
+      "title": "Occupational injuries among orthopaedic surgeons in Greece: A cross-sectional study.",
+      "abstract": "**INTRODUCTION**: Orthopaedic surgery is a high-risk specialty for occupational injuries, both physical and psychological, while European data remain limited. This study assessed the prevalence, spectrum, risk factors, and impact of occupational injuries among orthopaedic surgeons in Greece.\n\n**METHODS**: A de novo web-based questionnaire was distributed to 1118 members of the Hellenic Association of Orthopaedic Surgery and Traumatology (HAOST). Survey items included demographics, professional characteristics, workload, injury history and type, affected anatomical regions, injury impact, reporting behavior, and prior ergonomic training. Descriptive analysis and appropriate logistic regression and chi-square tests were performed.\n\n**RESULTS**: A total of 137 surgeons completed the survey (response rate 12.2%). The mean age was 43.4 years, and most participants were male (82.6%). Overall, 103 surgeons (75.2%) reported at least one occupational injury. Among injured participants, acute and sharp object injuries (97.1%), psychological or emotional strain (89.3%), and musculoskeletal disorders (79.6%) predominated. Hands and wrists were most commonly affected (72.8%). Medication was required in 38 cases (37.9%) and work absence in 13 (12.6%). Only 31 incidents (30.1%) were formally reported, and 12 surgeons (11.7%) had received previous training. Female gender was protective factor (p\u202f=\u202f0.042). Sports medicine was associated with lower injury risk (p\u202f=\u202f0.021), while traumatology showed higher odds of injury (OR 3.75, p\u202f=\u202f0.114). No associations were observed for age, experience, workplace, or prior training.\n\n**CONCLUSION**: This study provides the first national data on occupational injuries among Greek orthopaedic surgeons. The high prevalence observed underscores the need for structured preventive strategies focused on ergonomics and occupational health education.",
+      "journal": "Injury",
+      "authors": [
+        "Zampetakis K",
+        "Dimitriou R",
+        "Alpantaki K",
+        "Chaniotakis C",
+        "Tsioupros A",
+        "Ritzakis N",
+        "Ktistakis I",
+        "Stavrakakis IM"
+      ],
+      "date": "2026 Sep 08",
+      "doi": "10.1016/j.injury.2026.113688",
+      "tier": "filtered",
+      "topics": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42731251/"
+    },
+    {
+      "pmid": "42731149",
+      "title": "Robot-assisted fracture reduction and treatment outcomes in type III and IV fragility fractures of the pelvis: A retrospective cohort study.",
+      "abstract": "**INTRODUCTION**: This study compared robot-assisted fracture reduction (RAFR) with manual closed reduction followed by navigation-assisted fixation in surgically treated patients with fragility fractures of the pelvis (FFP) type III or IV. Outcomes after operative versus initial non-operative management were also examined.\n\n**PATIENTS AND METHODS**: This retrospective cohort study included 115 patients aged \u2265\u202f60 years treated between March 2021 and June 2025: 39 underwent RAFR, 34 manual closed reduction with navigation-assisted fixation, and 42 initial non-operative treatment. The primary outcome was postoperative reduction quality according to the Matta criteria. Secondary outcomes included 1-year functional scores, mortality, and surgery-related complications.\n\n**RESULTS**: RAFR was associated with lower odds of a worse postoperative Matta grade than manual closed reduction with navigation-assisted fixation (adjusted common OR=0.139, 95% CI 0.039-0.440; P\u202f=\u202f0.001). Among 58 operated survivors with complete 1-year assessments, RAFR was associated with a higher Parker Mobility Score (\u03b2=2.030, 95% CI 1.093-2.966; P\u202f<\u202f0.001), whereas adjusted differences in Barthel Index, EQ-5D-5L, and NRS were not statistically significant. In the operative versus initial non-operative comparison, 6-month mortality was 4.3% versus 15.8% (P\u202f=\u202f0.064) and 1-year mortality was 8.6% versus 21.1% (P\u202f=\u202f0.078), with no significant difference in overall survival (P\u202f=\u202f0.536). Operative treatment was associated with better 1-year functional and pain outcomes after adjustment.\n\n**CONCLUSION**: RAFR was associated with better postoperative reduction quality and a higher 1-year Parker Mobility Score than manual reduction/navigation, whereas adjusted differences in Barthel Index, EQ-5D-5L, and NRS were not statistically significant. Operative treatment was associated with better 1-year functional and pain outcomes in exploratory analyses, but a survival advantage was not demonstrated.",
+      "journal": "Injury",
+      "authors": [
+        "Xiao H",
+        "Zhao C",
+        "Cao Q",
+        "Sun Q",
+        "Ma Y",
+        "Jian Y",
+        "Ming Y",
+        "Wang Y",
+        "Zhu G",
+        "Wu X"
+      ],
+      "date": "2026 Sep 09",
+      "doi": "10.1016/j.injury.2026.113703",
+      "tier": "filtered",
+      "topics": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42731149/"
+    },
+    {
+      "pmid": "42731148",
+      "title": "Epidemiology of mountain bike-related injury presentations to emergency departments: A 15-year retrospective analysis.",
+      "abstract": "**OBJECTIVES**: To determine the epidemiology of mountain bike (MTB)-related presentations to public hospital emergency departments (ED) in Tasmania, Australia, pre- and post-development of purpose-built MTB trails.\n\n**METHODS**: Retrospective analysis of presentations to Tasmanian public hospital EDs pre- and post-MTB trail development in 2015 (total period: 1st January 2010-31\u202fst December 2024). MTB-related injuries were determined from hospital medical records. Epidemiological characteristics were prevalence, clinical urgency (Australasian Triage Scale [ATS] categories 1-5, most to least urgent), arrival mode (ambulance vs private transport), mortality, admission rate, seasonal variation, injury profile and patient demographics.\n\n**RESULTS**: For the total period, there were 6643 MTB-related presentations. Prevalence increased 3-fold post-trail development, 1.0-3.6/1000 ED presentations (n\u202f=\u202f743-5900) with seasonal burden highest in summer. Clinical urgency increased 375% for ATS category 1 from 0.8 (0.8) mean (SD) to 3.8 (2.8) presentations/year, and 1343% for category 2 from 8.2 (4.0) to 118.3 (65.5) presentations/year. Ambulance arrivals increased 372% from 21.2 (3.6) to 100 (47.6) /year. Hospital admission rate increased 663% post-trail development, from 17.2 (7.4) to 131.3 (64.4) /year. All four deaths were post-trail development. Over the total period, 41.6% of MTB injuries were orthopaedic, soft tissue injuries 27.5%, open wounds 19.3%, and multiple major trauma was 1.8%. Upper extremities were the dominantly injured body region (51.1%). Injured males were more prevalent (pre- 80%, post- 85%). Age distribution widened (10-50 years pre-, 5-80 years post-). 10-14 year-olds had the highest presentations/year increase from 13.8 (7.0) to 118.8 (67.2)/year.\n\n**CONCLUSIONS**: Increased rates of ED presentations, clinical urgency, and increased arrival by ambulance was observed post purpose-built MTB trail development. This study provides epidemiological data to inform riders about the risks, guide injury prevention strategies and health resource allocation.",
+      "journal": "Injury",
+      "authors": [
+        "Course G",
+        "Sharman JE",
+        "Zhao T",
+        "Otahal P",
+        "Tran V"
+      ],
+      "date": "2026 Sep 05",
+      "doi": "10.1016/j.injury.2026.113673",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "major trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "injury prevention",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42731148/"
+    },
+    {
+      "pmid": "42731147",
+      "title": "Comparison of anterior-only and combined anterior-posterior approaches for complex acetabular fractures.",
+      "abstract": "**BACKGROUND**: Complex acetabular fractures involving both columns (T-type, both-column, and anterior column with posterior hemitransverse) often require combined anterior-posterior surgical exposures. Advances in anterior intrapelvic fixation raise the possibility that the posterior column can be reduced and stabilized from the intrapelvic side alone in selected cases, avoiding an additional posterior exposure. We compared radiological and clinical outcomes between an anterior-only intrapelvic strategy and a combined anterior-posterior strategy.\n\n**METHODS**: This retrospective comparative study included 31 patients with T-type, both-column, or ACPHT acetabular fractures: 12 treated through the modified Stoppa approach alone (anterior-only) and 19 treated with combined Kocher-Langenbeck and anterior intrapelvic exposures (combined). Postoperative CT-based reduction quality (Matta-based thresholds), Harris Hip Score (HHS), Majeed Pelvic Score, complications, and perioperative transfusion requirements were compared between groups.\n\n**RESULTS**: Anatomic reduction was achieved in 50.0% of the anterior-only group and 36.8% of the combined group (p\u202f=\u202f0.710). Native-hip HHS (83.0 vs. 81.0, p\u202f=\u202f0.229) and Majeed scores (76.0 vs. 79.0, p\u202f=\u202f0.795) were comparable between groups. Total cumulative erythrocyte suspension transfusion was higher in the combined group (median 3 vs. 2 units, p\u202f=\u202f0.003), reflecting its greater cumulative operative burden. Reduction quality, rather than surgical strategy, was associated with outcome: post-traumatic arthritis occurred in 7.7% of patients after anatomic reduction versus 50.0% after non-anatomic reduction (p\u202f=\u202f0.020), and native-hip HHS was significantly higher after anatomic reduction (82 vs. 74, p\u202f=\u202f0.036). Major vascular injury occurred in three patients (9.7%), all during the anterior intrapelvic exposure.\n\n**CONCLUSION**: In selected complex acetabular fractures, an anterior-only modified Stoppa strategy can achieve radiological and clinical outcomes comparable to a combined anterior-posterior approach when satisfactory reduction and stable fixation of the posterior component can be obtained from the intrapelvic side. Reduction quality, rather than the number of surgical exposures, should remain the principal determinant of the surgical strategy.",
+      "journal": "Injury",
+      "authors": [
+        "Kaptan AY",
+        "Dolap MA",
+        "G\u00f6\u00e7er E",
+        "Demir M",
+        "Varol R",
+        "Bal T",
+        "Durmaz \u00dc",
+        "Y\u0131ld\u0131z AE"
+      ],
+      "date": "2026 Sep 10",
+      "doi": "10.1016/j.injury.2026.113706",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Vascular"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "traumatic",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "vascular injury",
+          "strength": "weak",
+          "topic": "Vascular"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42731147/"
+    },
+    {
+      "pmid": "42731146",
+      "title": "Return to duty after suture anchor repair of thumb metacarpophalangeal ulnar collateral ligament injuries in active duty soldiers.",
+      "abstract": "**OBJECTIVE**: Thumb metacarpophalangeal (MCP) ulnar collateral ligament (UCL) injury, commonly referred to as \"Skier's thumb,\" is traditionally considered a sports-related injury. However, military personnel are frequently exposed to activities that may generate similar valgus stress mechanisms. This study aimed to evaluate the clinical characteristics, injury mechanisms, and surgical outcomes of thumb MCP UCL injuries in a South Korean military referal hospital.\n\n**METHODS**: A retrospective review was conducted on 35 active duty military personnel who underwent surgical treatment for acute or subacute thumb MCP UCL injuries between May 2022 and May 2025. Patients with associated avulsion fractures requiring Kirschner-wire fixation or chronic injuries requiring ligament reconstruction were excluded. Demographic characteristics, injury mechanisms, presence of Stener lesions, clinical outcomes, return-to-duty status, and postoperative complications were analyzed. Surgical repair was performed using a suture anchor technique.\n\n**RESULTS**: The mean follow-up period was 12.0 months. Rifle-related injuries accounted for 60.0% of all cases and represented the most common injury mechanism. Stener lesions were identified in 18 patients (51.4%). At final follow-up, the mean Visual Analog Scale score was 0.5, the mean Quick Disabilities of the Arm, Shoulder and Hand score was 4.2, and the mean Kapandji opposition score was 9.1. All patients demonstrated a firm endpoint on clinical valgus stress examination at final follow-up. The mean return-to-duty time was 11.8 weeks, and 94.3% of patients returned to unrestricted military duty within 3 months after surgery. One superficial wound infection and three transient sensory disturbances were observed, all of which resolved without additional surgery.\n\n**CONCLUSION**: In this surgical cohort of active-duty soldiers with thumb MCP UCL injuries, rifle-related injury was the most commonly documented injury mechanisms. Surgical repair using suture anchor fixation showed absence of residual clinical valgus instability, favorable functional outcomes, and a high rate of return to duty. Awareness of military-specific injury mechanisms may facilitate early diagnosis and appropriate treatment in active duty soldiers.\n\n**LEVEL OF STUDY**: IV case series.",
+      "journal": "Injury",
+      "authors": [
+        "Lee J",
+        "Chung JI",
+        "Yun Y",
+        "Jeong C",
+        "Lee SM",
+        "Woo I",
+        "Son S",
+        "Cheon JH",
+        "Ha C"
+      ],
+      "date": "2026 Sep 10",
+      "doi": "10.1016/j.injury.2026.113711",
+      "tier": "filtered",
+      "topics": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42731146/"
+    },
+    {
+      "pmid": "42731145",
+      "title": "A structured three-step reduction strategy for locked posterior fracture-dislocation of the proximal humerus through a standard deltopectoral approach: A retrospective case series.",
+      "abstract": "**BACKGROUND**: Locked posterior fracture-dislocation of the proximal humerus is a rare and technically demanding injury in which the humeral head remains impacted posterior to the glenoid. Although several reduction techniques have been described, the practical details of anterior-only reduction remain incompletely standardized. We evaluated a structured three-step anterior reduction strategy performed through a standard deltopectoral approach.\n\n**METHODS**: We retrospectively reviewed 16 consecutive patients with acute locked posterior fracture-dislocation of the proximal humerus treated between January 2016 and January 2022. All patients underwent reduction through a single deltopectoral approach followed by locking-plate fixation supplemented with suture fixation. The reduction strategy consisted of (1) establishing an anterior reduction corridor by opening the anterior joint through an L-shaped subscapularis incision or a lesser-tuberosity fracture interval, (2) guiding the humeral head with a periosteal elevator introduced between the humeral head and glenoid, and (3) unlocking and translating the head anteriorly using gentle elevator assistance, controlled arm rotation, and, when head-shaft control was limited, direct digital manipulation. Outcomes included fracture union, avascular necrosis (AVN), recurrent dislocation, implant-related complications, range of motion, Constant-Murley score, and subscapularis function.\n\n**RESULTS**: The mean age was 41.1\u202f\u00b1\u202f8.4 years. The mean interval from injury to surgery was 3.4\u202f\u00b1\u202f1.0 days. All 16 reductions were completed through the initial deltopectoral approach without an additional posterior incision, conversion to arthroplasty, or intraoperative complication. Mean operative time was 85.9\u202f\u00b1\u202f10.5\u202fmin and mean estimated blood loss was 152.5\u202f\u00b1\u202f27.7\u202fmL. All fractures achieved radiographic union during available follow-up. At a mean follow-up of 21.2\u202f\u00b1\u202f9.4 months (range, 12-48 months), the mean Constant-Murley score was 85.4\u202f\u00b1\u202f8.6 (range, 70-96). Mean forward flexion, abduction, extension, and external rotation were 151.6\u202f\u00b1\u202f22.7\u00b0, 135.0\u202f\u00b1\u202f29.9\u00b0, 29.4\u202f\u00b1\u202f10.0\u00b0, and 38.1\u202f\u00b1\u202f4.8\u00b0, respectively. Internal rotation ranged from T7 to L4. Using the descriptive thresholds applied in the original study (excellent, \u226590; good, 80-89; fair, 70-79), 5 patients were excellent, 8 good, and 3 fair. No AVN, recurrent dislocation, implant-related complication, deep infection, or reoperation was observed during the available follow-up. Lift-off and bear-hug tests were negative in all patients at 12 months.\n\n**CONCLUSIONS**: This series supports a structured, reproducible anterior-only reduction strategy for selected acute locked posterior fracture-dislocations of the proximal humerus. The principal contribution is the standardization of the reduction sequence and the description of how the humeral head can be disengaged and translated without a posterior approach. The technique should not be interpreted as a wholly novel reduction maneuver, and the absence of AVN should be interpreted within the available follow-up period.\n\n**LEVEL OF EVIDENCE**: Level IV; Therapeutic study.",
+      "journal": "Injury",
+      "authors": [
+        "Jiang Z",
+        "Xiang Y",
+        "Lei C",
+        "Fu Q",
+        "Huang M",
+        "Zhi XS",
+        "Wang HS"
+      ],
+      "date": "2026 Sep 08",
+      "doi": "10.1016/j.injury.2026.113679",
+      "tier": "filtered",
+      "topics": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42731145/"
+    },
+    {
+      "pmid": "42731144",
+      "title": "Age-specific TBSA thresholds for pediatric burn complications: A 13-year single-center inpatient retrospective cohort.",
+      "abstract": "**INTRODUCTION**: Pediatric burns are common, yet practical tools that stratify presentation features into age-specific risk remain limited.\n\n**OBJECTIVE**: To characterize pediatric burn presentations and derive clinically interpretable, age-specific total body surface area (TBSA) thresholds, with absolute-risk tables, for fever (\u226538.5 \u00b0C), Intensive Care Unit (ICU) transfer, surgery, and infection, to guide emergency department (ED) triage and inpatient management.\n\n**METHODS**: A retrospective cohort of children 0-18 years with acute burns admitted to a tertiary pediatric center (December 2012-May 2025). Exposures included age, TBSA, depth, anatomic site, circumferential pattern, etiology, and post-burn days. Outcomes were ICU transfer, surgery, and in-hospital infection. Fever was analyzed as a clinical sign. We estimated absolute risks by age\u00d7TBSA, assessed co-occurrence of adverse events, and derived age-specific TBSA cutoffs using Youden optimizations.\n\n**RESULTS**: Among 942 children (mean age 4.6\u202f\u00b1\u202f4.6\u202fy; 57.4% male; mean TBSA 5.0\u202f\u00b1\u202f5.7%), scalds predominated (74.5%). Event rates were fever 29.0%, ICU transfer 4.4%, surgery 7.7%, infection 5.2%. Delayed presentation (>24\u202fh) was associated with more fever (p\u202f\u2248\u202f0.05). Operative risk varied by site: highest in lower extremities and buttocks and was more frequent with circumferential burns. ICU transfer and surgery rarely occurred without fever. Age-stratified adjusted TBSA cutoffs separated higher- from lower-risk strata. Discrimination was strongest for ICU (Youden 0.55-0.99) and lower for surgery (peak 0.71 in ages 6-12). Thresholds populate absolute-risk grids for clinical use.\n\n**CONCLUSIONS**: We provide a deployable framework linking age and adjusted TBSA at presentation to four key complications. Findings support earlier ICU consideration at ~8-10% adjusted TBSA in toddlers and ~15% in school-age/adolescents, depth/site-driven surgical review (hands/joints/perineum/buttocks), and heightened vigilance with persistent fever or delayed presentation.",
+      "journal": "Injury",
+      "authors": [
+        "Hilewitz D",
+        "Har-Shai L",
+        "Keller A",
+        "Bal M",
+        "Hayun Y",
+        "Meshulam-Derazon S",
+        "Ad-El D",
+        "Kalish E",
+        "Olshinka A"
+      ],
+      "date": "2026 Sep 06",
+      "doi": "10.1016/j.injury.2026.113683",
+      "tier": "filtered",
+      "topics": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42731144/"
+    },
+    {
+      "pmid": "42731143",
+      "title": "Occupational recovery after work-related AO Spine type A1 compression fractures: Association between treatment strategy and sick-leave duration.",
+      "abstract": "**PURPOSE**: Return-to-work (RTW) is an important indicator of functional recovery after spinal trauma, yet occupational outcomes following stable thoracolumbar compression fractures remain poorly characterized. This study evaluated factors associated with sick-leave duration and occupational recovery in patients with work-related AO Spine type A1 vertebral compression fractures.\n\n**METHODS**: This retrospective cohort study included adults with work-related AO Spine type A1 thoracolumbar compression fractures without neurological deficit treated at a tertiary referral center between 2007 and 2025. Patients underwent percutaneous vertebroplasty, orthopedic bracing, or posterior spinal arthrodesis. The primary outcome was sick-leave duration, defined as the interval between injury and resolution of work capacity. Multivariable linear regression using log-transformed sick-leave duration was performed to identify factors independently associated with occupational recovery.\n\n**RESULTS**: Seventy patients were included: 35 underwent vertebroplasty, 18 orthopedic bracing, and 17 spinal arthrodesis. Sick-leave duration differed significantly among treatment groups (p\u202f<\u202f0.001). Median sick-leave duration was 62 days (IQR 38-94) after vertebroplasty, 144.5 days (IQR 112-186) after orthopedic bracing, and 178 days (IQR 120-327) after spinal arthrodesis. In multivariable analysis, treatment strategy remained independently associated with sick-leave duration. Compared with vertebroplasty, sick leave was approximately 2.2 times longer after orthopedic bracing and 3.1 times longer after spinal arthrodesis. Age and associated injury severity were not independently associated with sick-leave duration. Stratified analyses demonstrated a similar gradient in occupational recovery among patients without major associated injuries.\n\n**CONCLUSIONS**: In this cohort of work-related AO Spine type A1 vertebral compression fractures, treatment strategy was strongly associated with occupational recovery. Patients treated with vertebroplasty had shorter sick leave than those managed with orthopedic bracing or spinal arthrodesis. Because treatment allocation was non-randomized, these findings should be interpreted as associations rather than evidence of causality. Prospective studies incorporating standardized functional and occupational outcomes are needed to clarify the role of different treatment strategies.",
+      "journal": "Injury",
+      "authors": [
+        "Jord\u00e1-G\u00f3mez P",
+        "Saiz-Sapena N",
+        "Vanaclocha L",
+        "Barrios C",
+        "Vanaclocha V"
+      ],
+      "date": "2026 Sep 10",
+      "doi": "10.1016/j.injury.2026.113712",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "injury severity",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42731143/"
+    },
+    {
+      "pmid": "42731142",
+      "title": "Factors associated with U-type sacral fractures in geriatric patients: A retrospective cohort study.",
+      "abstract": "**OBJECTIVES**: To identify demographic and clinical factors associated with geriatric U-type sacral fractures.\n\n**METHODS**: Design: Retrospective cohort study.\n\n**SETTING**: Two Academic Level 1 trauma centers. Patient Selection Criteria: Patients \u2265\u202f65 years with sacral fractures between January 2023 and January 2025 who underwent advanced imaging (CT or MRI) were included. Outcome Measures and Comparisons: The primary outcome was U-type sacral fracture morphology (AO/OTA 55C0, 54C3), defined as bilateral sacral ala fractures with a transverse fracture through the sacral body, consistent with spinopelvic dissociation. Factors associated with U-type morphology were evaluated using univariate logistic regression, followed by multivariable logistic regression to identify independent associations.\n\n**RESULTS**: 263 geriatric patients with sacral fractures were included, of whom 76 (28.9%) had U-type fractures. On multivariable analysis, spondylosis/spondylolisthesis (OR 2.08, 95% CI 1.10-3.98, p\u202f=\u202f0.025), independent ambulation prior to injury (with assistive device use as the reference group; OR 2.18, 95% CI 1.13-4.29, p\u202f=\u202f0.022), and an atraumatic mechanism of injury (with low-energy injury mechanism as the reference group; OR 2.34, 95% CI 1.05-5.27, p\u202f=\u202f0.038) were independently associated with U-type fractures.\n\n**CONCLUSIONS**: Nearly one-third of geriatric patients with sacral fractures who underwent advanced imaging demonstrated U-type morphology. Compared with non-U-type sacral fractures, U-type morphology was independently associated with degenerative spinal disease, independent ambulation prior to injury, and atraumatic presentation, suggesting a distinct injury profile in relatively functional older adults with underlying spinal degeneration.",
+      "journal": "Injury",
+      "authors": [
+        "Wong AW",
+        "Musick AN",
+        "Wagner RK",
+        "Lehle CH",
+        "Vise HS",
+        "van Weezenbeek MA",
+        "Patel R",
+        "Zhang BB",
+        "Aneja A"
+      ],
+      "date": "2026 Sep 09",
+      "doi": "10.1016/j.injury.2026.113694",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42731142/"
+    },
+    {
+      "pmid": "42731141",
+      "title": "Traumatic spinal injuries in a rural tourist area: Epidemiology, seasonal trends and implications for healthcare resource allocation.",
+      "abstract": "**PURPOSE**: Several epidemiological studies have evaluated trends and epidemiology of Traumatic Spinal Injury (TSI) but often they don't take into account the geographical variability of nations. Having identified a lack of literature on the epidemiology of rural and touristic areas we conducted this retrospective study in our hospital near Como Lake to understand how best to manage TSI patients.\n\n**METHODS**: This retrospective epidemiological study included all patients with TSI admitted to Emergency Department (ED) of Gravedona ed Uniti Hospital between April 2018 and March 2024. We focused on vertebral fractures. Demographics, trauma mechanisms, regions of the spine involved, patient comorbidities, polytrauma or Traumatic Brain Injury (TBI), any surgical treatment were analysed. We then focused on differences between warm and cold seasons.\n\n**RESULTS**: 140 patients were included, but only 132 were considered due to missing data. Average age was 60.0\u202fyears. TSI involved cervical spine in 23.5% of the cases, thoracic in 27.3%, lumbosacral in 37.1%, and multiple sites in 12.1%. 54.5% of the patients were treated with conservative therapies while 45.5% underwent surgery (78.3% spinal arthrodesis and 21.7% vertebroplasty). Mechanisms of trauma were as follows: accidental falls 56.8%, vehicular accidents 21.2%, sports 20.4% and violence 1.5%. There was a statistically significant increase in TSIs during warm months compared to cold ones (78 vs 54, p-value 0.04) due to a marked increase in sports injuries (22 vs 5, p-value 0.001).\n\n**CONCLUSION**: Rural areas with high levels of summer tourism and sporting activity could benefit from deployment of resources and teams at specific times.",
+      "journal": "Injury",
+      "authors": [
+        "Peppucci E",
+        "Ferlito D",
+        "Meletti L",
+        "Montalbetti A",
+        "Piras G",
+        "Bucpapaj R",
+        "Giussani CG",
+        "Zoia C"
+      ],
+      "date": "2026 Sep 09",
+      "doi": "10.1016/j.injury.2026.113710",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Spine",
+        "TBI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "polytrauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic brain injury",
+          "strength": "weak",
+          "topic": "TBI"
+        },
+        {
+          "keyword": "spinal injury",
+          "strength": "weak",
+          "topic": "Spine"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42731141/"
+    },
+    {
+      "pmid": "42731140",
+      "title": "Stress displacement and surgical benefit in Beckmann 7-9 pelvic ring injuries: A retrospective multicenter analysis.",
+      "abstract": "**INTRODUCTION**: We assessed whether stress-induced displacement identifies stability-indeterminate lateral compression type 1 (LC1) pelvic ring injuries in which surgical treatment is associated with fewer early adverse or ambulatory-decline outcomes.\n\n**METHODS**: This multicenter retrospective cohort study was performed at eight Level I trauma centers. Skeletally mature patients with OTA/AO 61B2 LC1 pelvic ring injuries, Beckmann scores 7-9, and documented stress examination were included; follow-up duration was modeled as a covariate rather than used as an inclusion restriction. The primary outcome was a composite of all-cause mortality, non-elective hardware failure or revision, or worsening ambulatory category. Outcomes were compared between surgical and nonoperative management within displacement strata of less than 12\u202fmm, 12-16\u202fmm, and greater than 16\u202fmm.\n\n**RESULTS**: The primary analytic cohort included 187 patients (98 nonoperative, 89 operative); follow-up duration was modeled as a covariate. Surgical patients had greater median displacement than nonoperative patients (14.3 vs 5.8\u202fmm; P\u202f<\u202f0.001). The composite outcome occurred in 41 nonoperative patients (41.8%) and 21 operative patients (23.6%; P\u202f=\u202f0.009). In the 12-16\u202fmm stratum, events occurred in 6 of 11 nonoperative patients (54.5%) and 3 of 20 operative patients (15.0%), corresponding to a 39.5% absolute risk reduction, number needed to treat of 2.5, and Fisher exact P\u202f=\u202f0.038; after adjustment for follow-up duration, operative management remained associated with lower odds of the composite outcome (odds ratio 0.20; 95% CI, 0.04-0.90; P\u202f=\u202f0.037). In the conservative sensitivity cohort restricted to at least 90 days of follow-up (121 patients), the 12-16\u202fmm absolute risk reduction was 33.3% (number needed to treat, 3.0; P\u202f=\u202f0.139).\n\n**CONCLUSIONS**: Surgical management of 12-16\u202fmm stability-indeterminate LC1 injuries was associated with a statistically significant reduction in early composite outcome that persisted after adjustment for follow-up duration and attenuated in a conservative follow-up-restricted sensitivity analysis. The finding was statistically fragile and derived from a small stratum in a retrospective cohort; it is hypothesis-generating and requires prospective validation.\n\n**LEVEL OF EVIDENCE**: Therapeutic Level III.",
+      "journal": "Injury",
+      "authors": [
+        "Achebe CC",
+        "Thorne T",
+        "Mau M",
+        "Higgins TF",
+        "Rothberg DL",
+        "Haller JM",
+        "Sato E",
+        "Steffenson L",
+        "Shymon SJ",
+        "Choi DS",
+        "Kody MT",
+        "DeKeyser GJ",
+        "Working ZM",
+        "Hutchison CE",
+        "Lawson MM",
+        "McKibben NS",
+        "Peterson DF",
+        "Tucker NJ",
+        "Parry JA",
+        "Saade A",
+        "Day H",
+        "Tse S",
+        "Saiz A",
+        "Warner SJ",
+        "Kellam P",
+        "Routt ML",
+        "Eastman JG",
+        "Lee C",
+        "Mayer EN",
+        "Mooney B",
+        "Patterson J",
+        "Wier J",
+        "Dobitsch A",
+        "Becerra J",
+        "Hasegawa I",
+        "Nakata H",
+        "Kabaish K",
+        "Sepehri A",
+        "Marchand LS"
+      ],
+      "date": "2026 Sep 09",
+      "doi": "10.1016/j.injury.2026.113696",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Pelvic"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "pelvic ring",
+          "strength": "strong",
+          "topic": "Pelvic"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42731140/"
+    },
+    {
+      "pmid": "42731139",
+      "title": "Longitudinal radiographic comparison of percutaneous and open pedicle screw fixation for thoracolumbar burst fractures: A two-year follow-up study.",
+      "abstract": "**PURPOSE**: While percutaneous pedicle screw fixation (PPSF) and open pedicle screw fixation (OPSF) demonstrate comparable clinical outcomes at 1-year follow-up, the longitudinal evolution of sagittal alignment beyond one year remains poorly characterized. This study compared the longitudinal radiographic outcomes of PPSF and OPSF in patients with thoracolumbar burst fractures (TLBF) over a two-year follow-up period.\n\n**METHODS**: This retrospective cohort study included 54 patients with TLBF who underwent short-segment posterior fixation using either PPSF (n\u202f=\u202f29) or OPSF (n\u202f=\u202f25). The primary radiographic outcome was Cobb angle. Secondary outcomes included lumbar lordosis angle (LLA), operative time, intraoperative blood loss, postoperative hospital stay, and revision surgery. Serial radiographic evaluations were performed preoperatively and at 3 months, 6 months, 1 year, and 2 years postoperatively.\n\n**RESULTS**: Baseline demographic characteristics and preoperative radiographic parameters were comparable between groups. PPSF was associated with significantly lower intraoperative blood loss than OPSF (61.9\u202f\u00b1\u202f34.8\u202fmL vs. 262.7\u202f\u00b1\u202f205.1\u202fmL, P\u202f<\u202f0.001), whereas operative time and postoperative hospital stay did not differ significantly. Both groups demonstrated significant reductions in Cobb angle over the two-year follow-up. No significant between-group differences in Cobb angle were observed during the first year postoperatively. However, the PPSF group demonstrated a significantly lower Cobb angle than the OPSF group at two years (6.7\u00b0 \u00b1 3.5\u00b0 vs. 9.1\u00b0 \u00b1 6.4\u00b0, P\u202f=\u202f0.049). LLA remained comparable between groups throughout follow-up (P\u202f=\u202f0.523). No construct failure or revision surgery occurred during the two-year follow-up period.\n\n**CONCLUSIONS**: Serial radiographic evaluation demonstrated that differences in sagittal alignment became apparent only after the first postoperative year. Compared with OPSF, PPSF achieved lower intraoperative blood loss and superior two-year Cobb angle outcomes. These findings underscore the importance of longitudinal radiographic follow-up when evaluating fixation strategies for thoracolumbar burst fractures.",
+      "journal": "Injury",
+      "authors": [
+        "Wung CH",
+        "Chang CY",
+        "Hsu CC",
+        "Wu RW",
+        "Yang FS",
+        "Lu ML",
+        "Chen HT"
+      ],
+      "date": "2026 Sep 09",
+      "doi": "10.1016/j.injury.2026.113699",
+      "tier": "filtered",
+      "topics": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42731139/"
+    },
     {
       "pmid": "42727312",
       "title": "Prehospital transfusion requirements in severe trauma: A multicenter, retrospective estimate of requirements.",
@@ -1861,7 +2513,7 @@
         "Dahm P"
       ],
       "date": "2026 Sep 09",
-      "doi": "10.1002/14651858.CD013291.pub2",
+      "doi": "10.1177/15579883221113203",
       "tier": "filtered",
       "topics": [
         "Haemorrhage"
@@ -8425,227 +9077,6 @@
       ],
       "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/42605833/"
-    },
-    {
-      "pmid": "42603602",
-      "title": "Paediatric out-of-hospital cardiac arrest occurring before and after emergency medical service arrival: a retrospective study.",
-      "abstract": "**AIM**: To examine the association between witness status and the incidence, characteristics, and survival outcomes of paediatric out-of-hospital cardiac arrest (OHCA) attended by emergency medical services (EMS).\n\n**METHODS**: We conducted a retrospective cohort study of paediatric (<18\u00a0years) OHCA cases attended by EMS between 1 January 2000 and 31 December 2024. Cases were identified from the Victorian Ambulance Cardiac Arrest Registry (VACAR). Witness status was categorised as unwitnessed, bystander witnessed, or EMS witnessed. Multivariable logistic regression was used to evaluate the association between witness status and outcomes, adjusting for age, sex, arrest location, region, aetiology, initial rhythm and year.\n\n**RESULTS**: A total of 2645 paediatric OHCAs were attended by EMS, of which 1891 (71.5%) received a resuscitation attempt. Among EMS-treated cases, 59.8% were unwitnessed, 32.0% were bystander witnessed, and 8.1% were EMS witnessed. The incidence of unwitnessed and bystander witnessed OHCA declined over the 25-year period (p\u00a0<\u00a00.001), whereas EMS witnessed incidence remained stable. After adjustment, EMS witnessed arrests were associated with significantly higher odds of survival to hospital discharge (AOR 1.91, 95% CI 1.04-3.52) and prehospital ROSC (AOR 1.83, 95% CI 1.20-2.77) compared with bystander witnessed arrests, while unwitnessed arrests had substantially lower survival across all outcomes.\n\n**CONCLUSION**: Paediatric OHCA witnessed by EMS is associated with significantly higher adjusted odds of survival compared with bystander witnessed events. These findings highlight the importance of early professional intervention and support the need for paediatric-specific strategies to improve recognition and response to these events.",
-      "journal": "Resuscitation",
-      "authors": [
-        "Kennedy C",
-        "Nehme E",
-        "McManamny T",
-        "Anderson D",
-        "Dantanarayana A",
-        "Nehme Z"
-      ],
-      "date": "2026 Aug 15",
-      "doi": "10.1016/j.resuscitation.2026.111267",
-      "tier": "filtered",
-      "topics": [
-        "Prehospital"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "prehospital",
-          "strength": "weak",
-          "topic": "Prehospital"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42603602/"
-    },
-    {
-      "pmid": "42603601",
-      "title": "Pediatric extracorporeal cardiopulmonary resuscitation for out-of-hospital cardiac arrest: outcomes and clinical trajectories.",
-      "abstract": "**AIMS**: To characterize management, outcomes, and donation trajectories of pediatric extracorporeal cardiopulmonary resuscitation (ECPR) for out-of-hospital cardiac arrest (OHCA), and to describe early features observed among survivors and non-survivors.\n\n**METHODS**: We conducted a retrospective single-center observational cohort study including all consecutive children (<18\u00a0years) treated with ECPR for OHCA at a tertiary pediatric ECMO referral center between 1 January 2013 and 31 December 2025. Survivors were compared with non-survivors, and among non-survivors, patients with brain death diagnosis were compared with those without brain death diagnosis.\n\n**RESULTS**: Among 155 pediatric OHCA patients managed at our institution during the study period, 42 (27.1%) underwent ECPR and were included in the present analysis. Median age was 9\u00a0years, median low-flow time 85\u00a0min, and median ECMO duration 55\u00a0h. Survival to hospital discharge was 19.0% (8/42). In exploratory comparisons, survivors more often received bystander CPR (100.0% vs 52.9%, p\u00a0=\u00a00.016), had more frequent transient pre-hospital ROSC (62.5% vs 20.6%, p\u00a0=\u00a00.031), and shorter low-flow duration (53 vs 90\u00a0min, p\u00a0=\u00a00.006) than non-survivors. Survivors also had lower initial lactate (11.18 vs 18.00\u00a0mmol/L, p\u00a0=\u00a00.003), lower 24-h vasoactive-inotropic score (5 vs 18, p\u00a0=\u00a00.0053), and lower 24-h transfusion burden (12 vs 40\u00a0mL/kg, p\u00a0=\u00a00.029). Non-survivors had more severe and persistent early organ injury. Of 34 deaths, 12 had a brain death diagnosis (35.3% of non-survivors; 28.6% of the total cohort), and 4 became effective organ donors. At last follow-up (median, 412\u00a0days), 7 of 8 hospital survivors were alive, and 6 of 7 had PCPC \u22642.\n\n**CONCLUSIONS**: Pediatric OHCA-ECPR yielded limited but meaningful survival. Measures of early resuscitation quality, low-flow duration, and early metabolic and organ-injury profiles may help distinguish different clinical trajectories after pediatric OHCA-ECPR.",
-      "journal": "Resuscitation",
-      "authors": [
-        "Veronese G",
-        "Grazioli L",
-        "Meani P",
-        "Fochi O",
-        "Fazzi F",
-        "Bronco A",
-        "Colombo G",
-        "Serafini M",
-        "Salurso A",
-        "Pellicioli I",
-        "Ferrari F",
-        "Vedovati S",
-        "Valoti OF",
-        "Ghitti D",
-        "Viscardi S",
-        "Ammirati E",
-        "Seddio F",
-        "Uricchio N",
-        "Bonacina D",
-        "Volpi C",
-        "Raimondi F",
-        "Bonanomi E",
-        "Lorusso R",
-        "Lorini FL"
-      ],
-      "date": "2026 Aug 15",
-      "doi": "10.1016/j.resuscitation.2026.111263",
-      "tier": "filtered",
-      "topics": [
-        "Cardiac Arrest"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "ECMO",
-          "strength": "weak",
-          "topic": "Cardiac Arrest"
-        },
-        {
-          "keyword": "ECPR",
-          "strength": "weak",
-          "topic": "Cardiac Arrest"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42603601/"
-    },
-    {
-      "pmid": "42603393",
-      "title": "A double-hit analysis: Evaluating the nephrotoxicity of dual intravenous and vancomycin impregnated cement exposure.",
-      "abstract": "**PURPOSE**: The concomitant use of postoperative intravenous vancomycin (IVV) in patients treated with vancomycin-impregnated cement (VIC) may represent a \"double hit\" contributing to nephrotoxicity, yet its impact on acute kidney injury (AKI) remains unclear. This study evaluated whether postoperative IVV in patients treated with VIC is associated with increased AKI incidence (primary outcome) and greater changes in serum creatinine (secondary outcome) compared with VIC alone.\n\n**METHODS**: A retrospective cohort study was conducted at a multi-hospital academic health system from 2012 to 2024. Adults undergoing VIC implantation for fracture-related infection were grouped by postoperative IVV exposure (IVV+VIC versus VIC alone). AKI was defined using Kidney Disease: Improving Global Outcomes (KDIGO) creatinine-based criteria. Secondary outcomes included mean absolute and percent serum creatinine change. A subgroup analysis evaluated 81 patients with chronic kidney disease (CKD). Multivariable regression adjusted for baseline creatinine, tobramycin dose, CKD, ASA class, and VIC dose.\n\n**RESULTS**: A total of 589 patients were included: 326 (55.4%) received IVV\u00a0+\u00a0VIC and 263 (44.6%) received VIC alone, with similar baseline characteristics. Among IVV\u00a0+\u00a0VIC patients, mean IV vancomycin dose was 1160\u00a0mg (SD 354) over a mean of 6.6 doses (SD 7.6), with a mean VIC dose of 4.9\u00a0g (SD 3.3). The VIC alone group had a mean VIC dose of 4.3\u00a0g (SD 3.3). AKI incidence did not differ between groups (18.1% vs 14.5%, p\u00a0=\u00a00.282). However, IVV\u00a0+\u00a0VIC was associated with greater mean absolute (0.19 vs 0.00\u00a0mg/dL, p\u00a0<\u00a00.001) and percent serum creatinine change (17.98 vs -0.86). Among CKD patients, AKI rates were similarly elevated in both cohorts (56.8% vs 40.5%, p\u00a0=\u00a00.216). On multivariable analysis, IVV\u00a0+\u00a0VIC was not independently associated with AKI (OR=1.37, 95% CI 0.84-2.23, p\u00a0=\u00a00.207) but was associated with greater absolute (\u03b2\u00a0=\u00a00.182, 95% CI 0.082-0.282, p\u00a0<\u00a00.001) and percent creatinine change (\u03b2\u00a0=\u00a017.683, 95% CI 9.659-25.706, p\u00a0<\u00a00.001).\n\n**CONCLUSION**: Postoperative IV vancomycin in patients treated with vancomycin-impregnated cement was not associated with increased AKI risk. While dual antibiotic therapy resulted in greater creatinine elevations, AKI risk appeared driven primarily by underlying renal disease. These findings support cautious use of dual therapy with close renal monitoring, particularly in patients with pre-existing CKD.",
-      "journal": "Injury",
-      "authors": [
-        "Vu NH",
-        "Esper GW",
-        "Egol KA",
-        "Ganta A",
-        "Konda SR"
-      ],
-      "date": "2026 Aug 06",
-      "doi": "10.1016/j.injury.2026.113585",
-      "tier": "filtered",
-      "topics": [],
-      "keyword_matches": [],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42603393/"
-    },
-    {
-      "pmid": "42602950",
-      "title": "Incarcerated and strangulated hernias: patient education series - understanding trauma and emergency surgery conditions.",
-      "abstract": "",
-      "journal": "Trauma Surg Acute Care Open",
-      "authors": [
-        "Eussen CM",
-        "Lasinski AM"
-      ],
-      "date": "2026 Jan 1",
-      "doi": "10.1136/tsaco-2026-002394",
-      "tier": "core",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42602950/"
-    },
-    {
-      "pmid": "42602947",
-      "title": "Management of penetrating traumatic diaphragm injury.",
-      "abstract": "",
-      "journal": "Trauma Surg Acute Care Open",
-      "authors": [
-        "Nobuhiro M",
-        "Sudo N",
-        "Kobayashi K",
-        "Kuwabara S"
-      ],
-      "date": "2026 Jan 1",
-      "doi": "10.1186/s13017-023-00510-x",
-      "tier": "core",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "traumatic",
-          "strength": "strong",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42602947/"
-    },
-    {
-      "pmid": "42602852",
-      "title": "Future is NOW (Non-violent Options Win): mixed methods evaluation of a primary violence prevention program.",
-      "abstract": "**BACKGROUND**: Gun violence is the leading cause of death in children and a public health epidemic, disproportionately affecting Black youth. The Future is Now (Non-violent Options Win) was established in 2023 as a multiorganizational partnership and primary violence prevention effort. Medical student volunteers host once-a-month education sessions for children ages 4-15 on healthcare topics and wellness practices. Our study aimed to better characterize program participants and assess its initial impact.\n\n**METHODS**: We used a mixed-methods approach. We invited children and guardians to complete questionnaires, which included demographics and questions focused on their perceptions of healthcare and the program on a five-point Likert scale. We then conducted in-depth, semistructured individual interviews with the guardians to further understand the impact of the program and ways to expand. We used thematic analysis to identify and compare common themes.\n\n**RESULTS**: A total of eight guardians and seven children completed the questionnaires. Four out of eight guardians completed the interview. Seven (88%) of the guardians and six (86%) of the children were Black. The remaining guardian and child were White. Three (38%) of the guardians who completed the questionnaire and one (25%) of those interviewed reported that they had witnessed or experienced gun violence. Major themes from the interview analysis included positive feelings towards healthcare and the Future is NOW program, with the most impactful aspects being the hands-on activities, exposure to different topics and careers, and interactions with the volunteers. Most of the children experienced bullying; the guardians recommended including education about bullying. Other recommendations included bringing in more representative guest speakers and teaching violence prevention.\n\n**CONCLUSION**: This primary prevention program appears to have positively influenced the involved children and guardians. Additional efforts will be made to expand the curriculum to address the needs of the participants and reach more children in the community.",
-      "journal": "Trauma Surg Acute Care Open",
-      "authors": [
-        "Li SZ",
-        "Sims JK",
-        "Dandy A",
-        "Appelbaum RD"
-      ],
-      "date": "2026 Jan 1",
-      "doi": "10.1177/1524839918774571",
-      "tier": "core",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42602852/"
-    },
-    {
-      "pmid": "42601593",
-      "title": "Trauma Under the Influence: A Cross-Sectional Registry Audit of Drug and Alcohol-Related Major Trauma in North Queensland.",
-      "abstract": "**OBJECTIVE**: Alcohol and drug use is an established factor contributing to traumatic injury globally, yet regional and remote prevalence and impact are poorly characterised. This study examines associations between alcohol and drug use and clinical outcomes among major trauma patients in North Queensland.\n\n**METHODS**: A retrospective audit of major trauma patients in Townsville University Hospital Trauma Registry between October 2022-2023. Patients were classified by alcohol and drug use based on toxicology results and electronic medical record. Demographic, injury and outcome variables were compared using descriptive and non-parametric analysis.\n\n**RESULTS**: Of 319 eligible patients, 110 (34.4%) patients were identified within the alcohol and drug cohort. Alcohol was most frequently detected (82.7%), followed by cannabis (20.0%) and amphetamines (12.7%), with 18.2% demonstrating polysubstance use. Alcohol and/or drug-positive patients were significantly younger (40.7 vs. 49.0\u2009years, p\u2009=\u20090.002) and more likely to sustain assault-related injuries (OR 6.9 (95% CI: 3.1-15.3), p\u2009<\u20090.001). No statistical significance was found between groups for ICU admission rate, ICU LOS or hospital LOS. Discharge and mortality outcomes did not differ between groups.\n\n**CONCLUSION**: This study highlights the impact of alcohol and drug use in regional major trauma patients. Standardised testing, targeted prevention and tailored clinical pathways may improve outcomes and reduce the burden of alcohol and drug-related trauma. Inconsistent screening practices mean the true prevalence remains uncertain, warranting further research to determine the impact and guide interventions.",
-      "journal": "Emerg Med Australas",
-      "authors": [
-        "Ryan M",
-        "Spring B",
-        "Crowley BJ",
-        "Perks B",
-        "Grant A",
-        "Pretorius C",
-        "David MB",
-        "Amos A"
-      ],
-      "date": "2026 Aug 1",
-      "doi": "10.1111/ans.14940",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "major trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "trauma registry",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42601593/"
     }
   ]
 }
