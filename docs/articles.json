@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-13T21:57:02.369300Z",
-  "total_articles": 236,
+  "generated": "2026-09-14T22:51:51.141485Z",
+  "total_articles": 237,
   "all_topics": [
     "Abdominal",
     "Burns",
@@ -378,6 +378,46 @@
     "Cochrane Database Syst Rev": "filtered"
   },
   "articles": [
+    {
+      "pmid": "42734354",
+      "title": "Low-Molecular-Weight Heparin Versus Unfractionated Heparin for Venous Thromboembolism Prophylaxis in Adult Traumatic Brain Injury: A Systematic Review and Meta-Analysis.",
+      "abstract": "**BACKGROUND AND OBJECTIVES**: Traumatic brain injury (TBI) is associated with a high risk of venous thromboembolism (VTE), yet the optimal strategy for thromboprophylaxis remains uncertain. Low-molecular-weight heparin (LMWH) and unfractionated heparin (UFH) are commonly used agents in clinical practice, but their comparative effects in adult TBI have not been formally synthesized.\n\n**METHODS**: Medical databases were searched through March 2026 for studies comparing LMWH and UFH for prophylaxis in adult patients with TBI. Randomized trials and cohort studies reporting at least one thromboembolic, hemorrhagic, or mortality outcome were included. Random-effects models were used to pool risk ratios (RR) with 95% CI. Risk of bias was assessed using Risk Of Bias In Non-randomized Studies of Interventions, and certainty of evidence was evaluated using Grading of Recommendations Assessment, Development, and Evaluation.\n\n**RESULTS**: Twelve retrospective studies met the inclusion criteria. LMWH was associated with a lower risk of VTE than UFH (RR 0.59, 95% CI, 0.46-0.75; I2 = 41.82%). This pattern was consistent across thromboembolic outcomes, including deep vein thrombosis (RR 0.64, 95% CI, 0.53-0.79; I2 = 59.09%) and pulmonary embolism (PE) (RR 0.61, 95% CI, 0.56-0.67; I2 = 0%). Hemorrhagic outcomes also favored LMWH, including intracranial hemorrhage progression (RR 0.69, 95% CI, 0.50-0.96; I2 = 0%) and delayed craniectomy (RR 0.55, 95% CI, 0.42-0.72; I2 = 80.36%). In-hospital mortality was lower for LMWH (RR 0.50, 95% CI, 0.36-0.71; I2 = 83.36%). Certainty of evidence was moderate for VTE and PE, low for deep vein thrombosis and intracranial hemorrhage progression, and very low for delayed craniectomy and in-hospital mortality.\n\n**CONCLUSION**: LMWH was associated with a lower thromboembolic risk than UFH, without evidence of increased hemorrhagic complications. These findings support consideration of LMWH as a preferred pharmacological prophylactic agent in appropriately selected patients. Prospective comparative studies are needed to determine whether this observed advantage is causal.",
+      "journal": "Neurosurgery",
+      "authors": [
+        "Raccagni NG",
+        "Di Cosmo L",
+        "Dotti M",
+        "Colella FE",
+        "Carmelini S",
+        "Zaed I"
+      ],
+      "date": "2026 Sep 14",
+      "doi": "10.1227/neu.0000000000004212",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "TBI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "traumatic",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic brain injury",
+          "strength": "strong",
+          "topic": "TBI"
+        },
+        {
+          "keyword": "intracranial haemorrhage",
+          "strength": "weak",
+          "topic": "TBI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42734354/"
+    },
     {
       "pmid": "42731896",
       "title": "Clinical and patient-reported outcomes for bicycle and micro-mobility accidents: A prospective study with 12-month injury follow-up.",
@@ -8694,7 +8734,7 @@
     {
       "pmid": "42612190",
       "title": "Identifying Quality Indicators for Prehospital Care Following Out-of-Hospital Cardiac Arrest: A Focused Scoping Review.",
-      "abstract": "**OBJECTIVES**: Out-of-hospital cardiac arrest (OHCA) has a high rate of mortality. While prehospital management of OHCA is well described, post-return of spontaneous circulation (ROSC) care in the prehospital setting is often based on in-hospital care and broadly lacks evidence-based prehospital-specific recommendations. Additionally, there are no formal standardized quality indicators to benchmark post-ROSC care in the prehospital setting. This study served to systematically identify and appraise post-ROSC documents to synthesize a set of potential quality indicators to inform the survey of a multi-stage Delphi consensus for national quality indicators for prehospital care after out-of-hospital cardiac arrest.\n\n**METHODS**: Following PRISMA guidelines, a systematic search was conducted across various databases for quality indicators and recommendations for prehospital care for post-ROSC following OHCA. Two reviewers performed title and abstract screening, full-text review, and quality appraisal using the Mixed Methods Appraisal Tool (MMAT) independently and in duplicate. Identified quality indicators and recommendations were extracted as potential quality indicators and categorized into functional domains by the research team.\n\n**RESULTS**: The search yielded 337 initial records, of which 87 underwent full-text review, and 46 studies met the \n\n**CONCLUSIONS**: This focused scoping review highlights a lack of specific prehospital post-ROSC benchmarks and quality indicators. The identified potential quality indicators provide a foundational framework for a Delphi process for expert consensus on specific and measurable quality indicators. These indicators aim to standardize prehospital post-ROSC care for OHCA for national datasets like the Cardiac Arrest Registry to Enhance Survival.",
+      "abstract": "**OBJECTIVES**: Out-of-hospital cardiac arrest (OHCA) has a high rate of mortality. While prehospital management of OHCA is well described, post-return of spontaneous circulation (ROSC) care in the prehospital setting is often based on in-hospital care and broadly lacks evidence-based prehospital-specific recommendations. Additionally, there are no formal standardized quality indicators to benchmark post-ROSC care in the prehospital setting. This study served to systematically identify and appraise post-ROSC documents to synthesize a set of potential quality indicators to inform the survey of a multi-stage Delphi consensus for national quality indicators for prehospital care after OHCA.\n\n**METHODS**: Following Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines, a systematic search was conducted across various databases for quality indicators and recommendations for prehospital care for post-ROSC following OHCA. Two reviewers performed title and abstract screening, full-text review, and quality appraisal using the Mixed Methods Appraisal Tool (MMAT) independently and in duplicate. Identified quality indicators and recommendations were extracted as potential quality indicators and categorized into functional domains by the research team.\n\n**RESULTS**: The search yielded 337 initial records, of which 87 underwent full-text review, and 46 studies met the \n\n**CONCLUSIONS**: This focused scoping review highlights a lack of specific prehospital post-ROSC benchmarks and quality indicators. The identified potential quality indicators provide a foundational framework for a Delphi process for expert consensus on specific and measurable quality indicators. These indicators aim to standardize prehospital post-ROSC care for OHCA for national datasets like the Cardiac Arrest Registry to Enhance Survival.",
       "journal": "Prehosp Emerg Care",
       "authors": [
         "Malherbe P",
@@ -8703,7 +8743,7 @@
         "Cella L",
         "Rappaport L"
       ],
-      "date": "2026 Aug 18",
+      "date": "2026 Sep 14",
       "doi": "10.1080/10903127.2026.2719960",
       "tier": "filtered",
       "topics": [
