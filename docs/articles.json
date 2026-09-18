@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-17T22:32:45.593908Z",
-  "total_articles": 253,
+  "generated": "2026-09-18T22:05:07.694103Z",
+  "total_articles": 255,
   "all_topics": [
     "Abdominal",
     "Burns",
@@ -378,6 +378,319 @@
     "Cochrane Database Syst Rev": "filtered"
   },
   "articles": [
+    {
+      "pmid": "42758640",
+      "title": "A Causal Model for Prehospital Blood Transfusion and Mortality in Traumatic Hemorrhagic Shock.",
+      "abstract": "**OBJECTIVES**: Utilization of prehospital blood transfusion (PBT) as a treatment for traumatic hemorrhagic shock (THS) has been expanding nationally, yet evidence supporting the practice in some operational environments remains limited. Development of strong scientific evidence to support this practice requires a clear causal model linking prehospital transfusion to mortality and other clinically relevant outcomes. The aim of this project is to develop such a causal model, identifying pathways among the intervention, mediators, and contextual factors through which PBT may impact mortality.\n\n**METHODS**: The causal model was designed to link PBT with all-cause mortality, compared with standard resuscitation using crystalloid fluid, in patients with suspected THS. An initial causal model was developed based on existing literature and emergency medical services (EMS) operational workflows. The model was subsequently refined through an iterative expert-informed review process involving multidisciplinary stakeholders, including EMS clinicians, EMS physicians, trauma surgeons, transfusion medicine specialists, and investigators with expertise in EMS system and causal inference.\n\n**RESULTS**: The causal model includes exposure to PBT, confounders, mediators, and colliders, all of which may impact the primary outcome of interest: patient survival. The model includes multiple exposures, or types of PBT, including packed red blood cells (PRBCs), plasma, platelets, and whole blood. Potential confounders include EMS system-level factors, such as EMS system times (response time, on-scene time, and transport time), EMS clinician training and protocols, units of blood products available, and quality improvement programs associated with program operation. Patient-level confounders include type of injury, injury severity, age, and patient comorbidities. The model also includes two categories of mediators through which PBT is thought to impact patient outcomes: physiologic mediators, such as improved blood pressure, heart rate, acidosis and coagulopathy, and system mediators, including reduced crystalloid exposure and decreased time from injury to transfusion.\n\n**CONCLUSIONS**: A causal model was developed to provide a transparent framework and methodological foundation for pragmatic research and comparative effectiveness studies. The model identifies key confounding processes that should be considered when developing study-specific adjustment strategies for observational analyses. This model is intended to guide implementation, evaluation, and future research on the impact of PBT in patients with THS.",
+      "journal": "Prehosp Emerg Care",
+      "authors": [
+        "Gaither JB",
+        "Lerman M",
+        "Hu C",
+        "Rice AD",
+        "Spaite DW",
+        "Baykara Y",
+        "Munn R",
+        "Jansen JO",
+        "Shah M",
+        "McMullan J",
+        "Keim S",
+        "Stewart C",
+        "Magnotti L",
+        "Granillo AB",
+        "Bradley G",
+        "Barnhart B",
+        "Wang H"
+      ],
+      "date": "2026 Sep 18",
+      "doi": "10.1080/10903127.2026.2733966",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Haemorrhage",
+        "Prehospital",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "injury severity",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "haemorrhagic shock",
+          "strength": "strong",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "blood product",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "blood transfusion",
+          "strength": "strong",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "packed red blood cells",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "prehospital blood",
+          "strength": "strong",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "prehospital",
+          "strength": "strong",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42758640/"
+    },
+    {
+      "pmid": "42756873",
+      "title": "Acute cholecystitis in high-risk patients: a systematic review, meta-analysis, and practice management guideline from the Eastern Association for the Surgery of Trauma (EAST).",
+      "abstract": "**BACKGROUND**: High-risk patients with acute calculous cholecystitis (ACC) require an individualized approach and may not be eligible for cholecystectomy. The aim of this systematic review was to evaluate the management of ACC in patients with either high operative risk or delayed presentation.\n\n**METHODS**: An evidence-based systematic review was performed to answer the Population, Intervention, Comparator, Outcomes (PICO) questions. This systematic review was registered with PROSPERO (CRD42024610156). An academic health science librarian and lead authors developed the search strategy. The search was conducted in Medline (Ovid), Embase (Elsevier), Cochrane CENTRAL (Ovid), and Web of Science. The search strategy was written for Medline and translated using each database's syntax, subject headings, and search fields. An initial search, conducted on August 3, 2020, was updated on June 5, 2025.\n\n**RESULTS**: A total of 25 studies were identified. We conditionally recommend that high-risk patients with ACC undergo treatment with antibiotics alone versus using percutaneous cholecystostomy (PC) and antibiotics. No recommendation was made to treat patients with ACC with more than 5 days of symptoms with either cholecystectomy or antibiotics. No recommendation was made to treat patients with ACC with more than 5 days of symptoms with PC or antibiotics. We conditionally recommend removing the PC catheter without performing cholecystectomy after resolution of ACC in high-risk patients who have evidence of cystic duct patency.\n\n**CONCLUSION**: Risks of cholecystectomy and PC must be balanced in patients who are high-risk for operative management.\n\n**LEVEL OF EVIDENCE**: Level III, systematic review and meta-analysis.",
+      "journal": "Trauma Surg Acute Care Open",
+      "authors": [
+        "Ratnasekera A",
+        "Rattan R",
+        "Bhattacharya B",
+        "Zhang Z",
+        "Harris M",
+        "Seng SS",
+        "Magura C",
+        "Butts CA",
+        "Rabinowitz J",
+        "Kirsch JM",
+        "Molavi I",
+        "Kaafarani H",
+        "Brahmbhatt TS",
+        "Cripps MW",
+        "Bugaev N",
+        "Como JJ"
+      ],
+      "date": "2026 Jan 1",
+      "doi": "10.1136/tsaco-2025-002191",
+      "tier": "core",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42756873/"
+    },
+    {
+      "pmid": "42756544",
+      "title": "Transfixing trauma: management of a rare fence post impalement injury.",
+      "abstract": "",
+      "journal": "Trauma Surg Acute Care Open",
+      "authors": [
+        "Satzke C",
+        "Hallmark J",
+        "Mallah M",
+        "Hink A"
+      ],
+      "date": "2026 Jan 1",
+      "doi": "10.1136/tsaco-2026-002309",
+      "tier": "core",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42756544/"
+    },
+    {
+      "pmid": "42754897",
+      "title": "Personalised energy targeting during venovenous ECMO: serial assessment of resting energy expenditure reveals phase-dependent metabolic demand and systematic discordance with predictive equations.",
+      "abstract": "**BACKGROUND**: In patients receiving extracorporeal membrane oxygenation (ECMO), metabolic demand varies dynamically across the disease course, while conventional indirect calorimetry in ECMO patients underestimates measured energy expenditure (measured EE) because a substantial proportion of gas exchange occurs across the membrane lung. Specialised protocols can overcome this limitation and measure EE directly during ECMO. However, no adult study has yet compared serial measured EE measurements with concurrent energy intake to assess feeding equipoise or to quantify the temporal variability that personalised nutrition must address.\n\n**METHODS**: Post-hoc analysis of prospectively collected data from 9 adult patients receiving venovenous ECMO for acute respiratory distress syndrome at Charit\u00e9 - Universit\u00e4tsmedizin Berlin. Measured-EE was assessed using the MEEP protocol (75 valid measurements). Feeding equipoise was assessed as the ratio of actual energy intake to measured EE (equipoise: 80-110%). Discordance analysis compared measurement-based classification with hypothetical ESPEN-guided nutrition (25\u00a0kcal/kg/day) using adjusted body weight (primary) and actual body weight (sensitivity analysis).\n\n**RESULTS**: Median measured EE was 1923\u00a0kcal/day (interquartile range, 1594-2222). The ECMO circuit accounted for 60.5% \u00b1 18.2% of total gas exchange. Feeding equipoise was achieved on only 30 of 75 measurement days (40%); patients were overfed on 44% and underfed on 16%. ESPEN 25\u00a0kcal/kg/day with adjusted body weight misclassified feeding equipoise on 55% of days (concordance 45%); actual body weight yielded concordance of 49%. The respiratory quotient (0.908\u2009\u00b1\u20090.131) did not correlate with the feeding ratio (\u03c1\u2009=\u20090.024).\n\n**CONCLUSION**: Both actual feeding practice and standard predictive equations failed to match measured energy requirements regardless of body weight choice. The substantial intra-individual measured EE variability and the progressive decline in extracorporeal gas exchange contribution support a phase-specific, personalised approach guided by serial assessment of measured EE rather than static weight-based targets.",
+      "journal": "Crit Care",
+      "authors": [
+        "Wilke SK",
+        "Behnel N",
+        "Weber-Carstens S",
+        "Edel A",
+        "M\u00fcller M",
+        "Mahlau A",
+        "Falk R",
+        "Ru\u00df M",
+        "Wollersheim T"
+      ],
+      "date": "2026 Sep 16",
+      "doi": "10.1186/s13054-026-06123-5",
+      "tier": "filtered",
+      "topics": [
+        "Cardiac Arrest"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "ECMO",
+          "strength": "strong",
+          "topic": "Cardiac Arrest"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42754897/"
+    },
+    {
+      "pmid": "42753573",
+      "title": "Medial clavicle resection for acute traumatic posterior sternoclavicular dislocation: Experience from Grenoble Alpes University Hospital.",
+      "abstract": "**BACKGROUND**: Posterior sternoclavicular dislocations (PSCDs) are rare but potentially life-threatening injuries. Beyond the acute management of mediastinal complications, restoring optimal shoulder function remains the primary goal of treatment. Although the optimal surgical strategy remains controversial, our institutional protocol consists of systematic medial clavicle resection performed during emergency surgery, with the aim of reducing the risk of residual sternoclavicular instability. The aim of this study was to evaluate the functional outcomes and complications of systematic medial clavicle resection performed as an emergency procedure for acute traumatic PSCDs.\n\n**METHODS**: A retrospective single-centre study was conducted at Grenoble Alpes University Hospital (2019-2026). All consecutive patients who underwent medial clavicle resection for acute traumatic PSCDs were included. The primary outcome was the QuickDASH score at 12 months. Secondary outcomes included the QuickDASH score at 1-month, postoperative complications according to the Clavien-Dindo classification, and return-to-work and return-to-sport outcomes.\n\n**RESULTS**: Twenty-five patients (23 males, 2 females; mean age 29 years) were included. Sports injuries accounted for 84% of cases. The median time from injury to surgery was 2 days [IQR, 1-6]. The median operative time was 33\u202fmin [IQR, 24-45]. No intraoperative complications occurred. The overall complication rate was 12% (n\u202f=\u202f3), consisting of superficial wound infections. No vascular complications, pneumothorax, or deaths were observed. The median QuickDASH score at 12 months was 4.55 points [IQR, 2.29-13.64]. At 12 months, 75% of patients achieved a QuickDASH score \u2264\u202f10. The return-to-work rate was 100% and the return-to-sport rate was 100%.\n\n**CONCLUSION**: Systematic medial clavicle resection performed as an emergency procedure for acute traumatic PSCDs yields excellent functional outcomes with low complication rate. This approach, performed by thoracic surgeons, provides a definitive solution to posterior instability while minimising risks to mediastinal structures.",
+      "journal": "Injury",
+      "authors": [
+        "Datry V",
+        "Gagnepain E",
+        "Guillot M",
+        "Pirvu A",
+        "Frey G"
+      ],
+      "date": "2026 Sep 13",
+      "doi": "10.1016/j.injury.2026.113662",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Thoracic"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "traumatic",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "pneumothorax",
+          "strength": "weak",
+          "topic": "Thoracic"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42753573/"
+    },
+    {
+      "pmid": "42753572",
+      "title": "Understanding the outliers: A qualitative analysis of leaders' perspectives on performance and safety in trauma centers.",
+      "abstract": "**INTRODUCTION**: The factors explaining variability in trauma center performance across quality measures are not well understood. We aimed to characterize the influence of social, cultural, and organizational factors on trauma center performance.\n\n**METHODS**: We used an explanatory sequential design to study ACS TQIP-participating level I and II trauma centers that were ranked as high- and low-performing (first and last decile) across multiple representative quality indicators. The Chief Safety Officers, Directors of Quality and Safety, Trauma Medical Directors, and Trauma Program Managers within these centers were approached for semi-structured interviews guided by the framework of high-reliability organizations (HROs). Qualitative description methodology was used. Salient themes were inductively developed, and themes between centers in the first and last deciles were contrasted.\n\n**RESULTS**: We interviewed 28 participants across 15 centers. Of these, 8 centers were in the first decile, and 7 centers were in the last decile. All participants expressed a commitment to making care safer and to improving hospital performance. Leaders in first decile centers more strongly expressed having adopted and used theory pertinent to safety and high reliability organizations (HROs). This manifested as an increased preoccupation with failure and with the ongoing and never-ending maintenance of safe processes. In first decile centers, leaders were also increasingly focused on communication and relationship-building. Conversely, leaders in last decile centers less frequently referred to following HRO principles, or to the importance of building close relationships within the workplace.\n\n**CONCLUSIONS**: Our work suggests an association between trauma center performance and principles of high reliability, as well as safety culture. Leaders in the highest performing centers most consistently referenced and leveraged existing theory on safety and high reliability. These principles represent a useful theoretical foundation for centers wishing to improve their processes and outcomes.",
+      "journal": "Injury",
+      "authors": [
+        "Hamad DM",
+        "Conn LG",
+        "Haas B",
+        "Jerath A",
+        "Nathens AB"
+      ],
+      "date": "2026 Sep 10",
+      "doi": "10.1016/j.injury.2026.113669",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42753572/"
+    },
+    {
+      "pmid": "42753348",
+      "title": "What is the best pin care for external fixation pins?",
+      "abstract": "",
+      "journal": "Injury",
+      "authors": [
+        "Elaschuk C",
+        "Nikpay A",
+        "Buckley R"
+      ],
+      "date": "2026 Sep 16",
+      "doi": "10.1016/j.injury.2026.113716",
+      "tier": "filtered",
+      "topics": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42753348/"
+    },
+    {
+      "pmid": "42753322",
+      "title": "After the scan: Timing of first analgesia relative to CT initiation in adult trauma patients.",
+      "abstract": "**OBJECTIVE**: To measure the timing of first emergency department analgesia relative to CT initiation in adult trauma patients and evaluate its association with trauma activation level and CT scan scope.\n\n**METHODS**: We performed a retrospective cohort study of adult trauma patients at a Level I trauma center from May 2022 through April 2025. The primary analytic cohort included patients who underwent CT and received qualifying emergency department analgesia, with both timestamps documented. The primary outcome was first analgesia occurring after CT initiation. Modified Poisson regression estimated adjusted risk ratios for activation level and pan-scan status.\n\n**RESULTS**: Of 2663 patients in the primary cohort, 44.1% received first analgesia after CT initiation, as did 43.8% of the 2320-patient complete-case cohort. Injury Severity Score above 15 was present in only 6.3%. Compared with no activation, the adjusted risk ratio for first documented analgesia after CT initiation was 1.35 for Level 3, 1.70 for Level 2, and 2.38 for Level 1 activation (all P\u00a0<\u00a00.001). Pan-scan imaging remained independently associated with first documented analgesia after CT initiation (adjusted risk ratio 1.27, 95% CI 1.12-1.44). Adjusted predicted probability rose from 32.5% with no activation to 70.7% with Level 1 activation.\n\n**CONCLUSION**: First analgesia followed CT initiation in 44% of adult trauma patients who underwent CT imaging and received qualifying analgesia. Higher activation level and pan-scan imaging were independently associated with this sequence. These findings describe medication-imaging timing rather than undertreatment and support studying analgesia delivery alongside trauma imaging.",
+      "journal": "Am J Emerg Med",
+      "authors": [
+        "Hahn B",
+        "Nama A",
+        "Cohen E",
+        "Van Tuyl A",
+        "Greenstein J",
+        "Banks M"
+      ],
+      "date": "2026 Sep 09",
+      "doi": "10.1016/j.ajem.2026.09.019",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Prehospital",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "injury severity",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "trauma activation",
+          "strength": "weak",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42753322/"
+    },
     {
       "pmid": "42752941",
       "title": "Diagnostic accuracy and predictive value of hard signs for operative or endovascular management and major injury in penetrating neck trauma: a single-centre retrospective cohort study.",
@@ -1025,7 +1338,7 @@
         "Dumas RP"
       ],
       "date": "2026 Sep 16",
-      "doi": "10.1001/jamasurg.2026.4161",
+      "doi": "10.1177/0141076818769477",
       "tier": "filtered",
       "topics": [
         "General Trauma",
@@ -1070,7 +1383,7 @@
         "Refaai M"
       ],
       "date": "2026 Sep 16",
-      "doi": "10.1001/jamasurg.2026.4153",
+      "doi": "10.1111/trf.13807",
       "tier": "filtered",
       "topics": [
         "Haemorrhage"
@@ -4144,7 +4457,7 @@
     {
       "pmid": "42697466",
       "title": "Trends in the incidence and outcomes of cardiopulmonary resuscitation-induced consciousness in out-of-hospital cardiac arrest: a retrospective study.",
-      "abstract": "**OBJECTIVE**: To examine the incidence, trends, characteristics, and patient outcomes associated with cardiopulmonary resuscitation induced consciousness (CPRIC) in out-of-hospital cardiac arrest (OHCA).\n\n**METHODS**: We conducted a retrospective cohort study of adult (\u226516\u202fyears) OHCA events between 1st January 2008 and 31st December 2024. Patients with CPRIC were identified from prehospital patient care records and linked to data from the Victorian Ambulance Cardiac Arrest Registry (VACAR). Poisson regression was used to assess temporal trends in CPRIC incidence and multivariable logistic regression to examine the association between CPRIC and survival to hospital discharge.\n\n**RESULTS**: Among 43,402 OHCA events, 1,438 patients (3.3%) experienced CPRIC. The annual incidence of CPRIC increased over time in the overall cohort (IRR 1.083, 95% CI 1.07-1.10) and across all arrest rhythms (p\u202f<\u202f0.001 for all). Factors independently associated with CPRIC included younger age, calendar year, cardiac aetiology, public location, witnessed arrest, initial shockable rhythm and use of mechanical CPR. In adjusted analysis, CPRIC was independently associated with improved survival to hospital discharge (OR 2.71, 95% CI: 2.38-3.09), with similar findings for both interfering (OR 2.36, 95% CI: 2.04-2.74) and non-interfering phenotypes (OR 4.09, 95% CI: 3.17-5.29). CPRIC was also associated with return of spontaneous circulation and survival to hospital admission.\n\n**CONCLUSION**: Over the 16-year study period, the annual incidence of CPRIC increased, and patients with CPRIC found to have better OHCA survival outcomes. CPRIC may help identify patients with favourable physiology and is associated with improved survival outcomes.",
+      "abstract": "**OBJECTIVE**: To examine the incidence, trends, characteristics, and patient outcomes associated with cardiopulmonary resuscitation induced consciousness (CPRIC) in out-of-hospital cardiac arrest (OHCA).\n\n**METHODS**: We conducted a retrospective cohort study of adult (\u226516\u00a0years) OHCA events between 1st January 2008 and 31st December 2024. Patients with CPRIC were identified from prehospital patient care records and linked to data from the Victorian Ambulance Cardiac Arrest Registry (VACAR). Poisson regression was used to assess temporal trends in CPRIC incidence and multivariable logistic regression to examine the association between CPRIC and survival to hospital discharge.\n\n**RESULTS**: Among 43,402 OHCA events, 1438 patients (3.3%) experienced CPRIC. The annual incidence of CPRIC increased over time in the overall cohort (IRR 1.083, 95% CI 1.07-1.10) and across all arrest rhythms (p\u00a0<\u00a00.001 for all). Factors independently associated with CPRIC included younger age, calendar year, cardiac aetiology, public location, witnessed arrest, initial shockable rhythm and use of mechanical CPR. In adjusted analysis, CPRIC was independently associated with improved survival to hospital discharge (OR 2.71, 95% CI: 2.38-3.09), with similar findings for both interfering (OR 2.36, 95% CI: 2.04-2.74) and non-interfering phenotypes (OR 4.09, 95% CI: 3.17-5.29). CPRIC was also associated with return of spontaneous circulation and survival to hospital admission.\n\n**CONCLUSION**: Over the 16-year study period, the annual incidence of CPRIC increased, and patients with CPRIC found to have better OHCA survival outcomes. CPRIC may help identify patients with favourable physiology and is associated with improved survival outcomes.",
       "journal": "Resuscitation",
       "authors": [
         "Howard J",
@@ -9467,239 +9780,6 @@
       ],
       "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/42625180/"
-    },
-    {
-      "pmid": "42624508",
-      "title": "When normal anatomy fails: imaging clues after blunt trauma.",
-      "abstract": "",
-      "journal": "Emerg Med J",
-      "authors": [
-        "Buskes J",
-        "Beukes D"
-      ],
-      "date": "2026 Aug 20",
-      "doi": "10.1136/emermed-2025-215654",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "blunt trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42624508/"
-    },
-    {
-      "pmid": "42624157",
-      "title": "Risk of transmission of amyloid \u03b2 pathology via transfused blood products.",
-      "abstract": "Seeded protein misfolding and aggregation are relevant to many neurodegenerative diseases. The archetype are prions: protein-only infectious agents that cause fatal neurodegenerative diseases including Creutzfeldt-Jakob disease (CJD). The recent recognition of iatrogenic amyloid \u03b2 cerebral amyloid angiopathy (CAA) and Alzheimer's disease, caused by inadvertent seeding of amyloid \u03b2 pathology following historical medical procedures, raises concerns that these conditions might also be transmitted via blood components and products, as was the case in rare instances for variant CJD. Recent epidemiological data showing the apparent transmission of haemorrhage risk between blood donors and recipients raise the possibility of blood-based CAA transmission. In this Viewpoint, we review the evidence for amyloid \u03b2 transmission, provide an overview of relevant prion biology, and consider the circumstances under which bloodborne prion transmission has previously occurred. We discuss the implications for blood transfusion services, particularly in light of the UK Infected Blood Inquiry, and the key questions that need to be addressed to better quantify transfusion-related risk.",
-      "journal": "Lancet",
-      "authors": [
-        "Banerjee G",
-        "Edgren G",
-        "Zhao J",
-        "Ferguson NM",
-        "Harvala H",
-        "Hope J",
-        "Jackson GS",
-        "Lowry PJ",
-        "Mead S",
-        "Purro SA",
-        "Schott JM",
-        "Turner ML",
-        "Werring DJ",
-        "Zetterberg H",
-        "Collinge J"
-      ],
-      "date": "2026 Aug 22",
-      "doi": "10.1016/S0140-6736(26)00767-1",
-      "tier": "filtered",
-      "topics": [
-        "Haemorrhage"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "blood product",
-          "strength": "strong",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "blood transfusion",
-          "strength": "weak",
-          "topic": "Haemorrhage"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42624157/"
-    },
-    {
-      "pmid": "42624048",
-      "title": "Orbital compartment syndrome after periocular acupuncture: Vision preserved by emergent decompression.",
-      "abstract": "Acupuncture is widely utilized as a safe complementary therapy, but its application in the periocular region carries underappreciated vascular risks. We report a rare case of orbital compartment syndrome immediately following periocular acupuncture. Upon presentation to the Emergency Department 90\u00a0min post-procedure, the patient exhibited periorbital ecchymosis, tense eyelid edema, proptosis, complete ophthalmoplegia, an intraocular pressure of 79\u00a0mmHg, visual acuity of no light perception, and an absent pupillary light reflex. Emergent surgical decompression via lateral canthotomy and inferior cantholysis was executed within 2\u00a0h of symptom onset. Post-decompression, the intraocular pressure normalized, and the visual acuity progressively recovered to 20/25 by 3\u00a0months. Despite this excellent functional recovery, advanced imaging at 6\u00a0months via optical coherence tomography (OCT) and OCT angiography revealed permanent subclinical sequelae, including diffuse thinning of the macular ganglion cell-inner plexiform layer and capillary dropout within the deep capillary plexus. This case represents the first documented report of orbital compartment syndrome secondary to periocular acupuncture, in which emergent intervention remarkably restored visual acuity from no light perception to 20/25. It underscores that emergency physicians must perform immediate surgical decompression based on clinical grounds; significant visual salvage remains achievable in eyes presenting with no light perception if managed urgently. Furthermore, favorable recovery of visual acuity does not preclude long-term structural and microvascular damage, emphasizing the necessity of longitudinal ophthalmic follow-up.",
-      "journal": "Am J Emerg Med",
-      "authors": [
-        "Wong TH",
-        "Chen YY",
-        "Wang HC",
-        "Huang CH"
-      ],
-      "date": "2026 Aug 14",
-      "doi": "10.1016/j.ajem.2026.08.023",
-      "tier": "filtered",
-      "topics": [
-        "Orthopaedic"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "compartment syndrome",
-          "strength": "strong",
-          "topic": "Orthopaedic"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42624048/"
-    },
-    {
-      "pmid": "42623366",
-      "title": "Eastern vs. Western trauma guidelines for resuscitative thoracotomy: A comparative analysis of indications, outcomes, and philosophical approaches.",
-      "abstract": "**BACKGROUND**: Resuscitative thoracotomy (RT) for traumatic cardiac arrest (TCA) carries a high mortality, and national guidance for RT indications varies in their emphasis on signs of life (SOL) and arrest duration. The Eastern Association for the Surgery of Trauma (EAST) prioritizes SOL, while the Western Trauma Association (WTA) emphasizes prehospital arrest time. To evaluate the clinical utility of each framework, we compared survival based on adherence to EAST and WTA RT guidelines.\n\n**METHODS**: We conducted a retrospective review of all TCA patients who underwent RT at our ACS-verified Level 1 trauma center. Demographics, presenting features, and outcomes were abstracted from the electronic medical record. The 2012 WTA and 2015 EAST guidelines were applied to categorize each case as guideline-adherent or nonadherent. Survival outcomes at various timepoints were assessed, including neurologically intact survival (NIS; discharge without hypoxia-related neurological deficit). \u03c72 analysis compared survival between EAST and WTA-adherent groups.\n\n**RESULTS**: A total of 467 patients underwent RT; overall survival to discharge was 5.8%, and NIS was 4.7%. EAST criteria were met in 460 (98.5%), and adherence was associated with 5.9% survival and 4.8% NIS. WTA criteria were met in 371 patients (79.4%); adherence was associated with 7.0% survival and 5.9% NIS. Patients not meeting either guideline had markedly lower survival. Three survivors lacked documented SOL but met favorable time criteria; all were neurologically intact. Of 96 patients exceeding WTA-arrest time limits, 1 (1.0%) survived, but without neurological recovery.\n\n**CONCLUSIONS**: Despite prioritizing different clinical factors, EAST and WTA guidelines identified similar subsets of potential survivors with comparable survival outcomes. Both SOL and prehospital arrest duration are integral in predicting survival. These findings support the development of a unified, evidence-based guideline that integrates both systems to standardize practice and optimize decision-making around RT. (J Trauma Acute Care Surg. 2026;00: 000-000).\n\n**LEVEL OF EVIDENCE**: Therapeutic/Care Management; Level III.",
-      "journal": "J Trauma Acute Care Surg",
-      "authors": [
-        "Hart L",
-        "Lester S",
-        "Grady Z",
-        "Meyer C",
-        "Castro LL",
-        "Dente C",
-        "Castater C",
-        "Davis M",
-        "Fransman R",
-        "Sciarretta JD",
-        "Smith RN",
-        "Nguyen J"
-      ],
-      "date": "2026 Aug 20",
-      "doi": "10.1097/TA.0000000000005166",
-      "tier": "core",
-      "topics": [
-        "Cardiac Arrest",
-        "General Trauma",
-        "Prehospital",
-        "Systems/QI",
-        "Thoracic"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "trauma centre",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "thoracotomy",
-          "strength": "strong",
-          "topic": "Thoracic"
-        },
-        {
-          "keyword": "prehospital",
-          "strength": "weak",
-          "topic": "Prehospital"
-        },
-        {
-          "keyword": "traumatic cardiac arrest",
-          "strength": "weak",
-          "topic": "Cardiac Arrest"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42623366/"
-    },
-    {
-      "pmid": "42623355",
-      "title": "Leveling the playing field: A pressure-sensing trocar improves speed and accuracy in tube thoracostomy.",
-      "abstract": "**BACKGROUND**: Tube thoracostomy is performed over one million times annually in the United States, including ~300,000 emergent procedures often without imaging guidance. Conventional open techniques carry complication rates of 25% to 30%, largely due to malpositioning. ThoraSET (Thoracic Safety Enhancing Trocar) is a pressure-sensing trocar system that differentiates tissue layers and provides real-time visual feedback. We hypothesized that ThoraSET would improve placement accuracy and reduce placement time, narrowing the gap between novice and expert users.\n\n**METHODS**: This prospective study combined iterative device development with stakeholder feedback and comparative evaluation on porcine cadaver and mannequin models. Participants across four experience levels (novices, residents, APPs, attending surgeons) completed paired open and ThoraSET-assisted tube thoracostomy trials. Primary outcomes were placement time and anatomical accuracy. Paired t tests and McNemar or exact McNemar tests were used for analysis, with sensitivity analyses by model type.\n\n**RESULTS**: Among 25 participants, ThoraSET reduced placement time for novices (-62%), residents (-26%), and APPs (-43%), but increased time for attendings (+33%). Large effect sizes were observed for novices and APPs. Overall accuracy was higher with ThoraSET (79% vs. 54%; P=0.07). Residents' accuracy improved from 10% to 80%; APPs and attendings remained 100%; novices decreased from 50% to 25%. Sensitivity analyses confirmed similar trends, with significant time reductions on pig (p=0.038, d=-0.57) and mannequin models (P=0.028, d=-0.73).\n\n**CONCLUSIONS**: ThoraSET improved placement speed and accuracy, particularly among less experienced users, and may reduce procedural variability and complications. Its mechanically responsive, blunt trocar provides tactile feedback, enhanced control, and intrathoracic access, supporting safer placement and use of smaller, softer tubes. These pilot results suggest ThoraSET has the potential to elevate safety and standardization in emergency and trauma care, warranting further clinical validation. (J Trauma Acute Care Surg. 2026;00: 000-000.).\n\n**LEVEL OF EVIDENCE**: Therapeutic/Care Management; Level V.",
-      "journal": "J Trauma Acute Care Surg",
-      "authors": [
-        "Medrano A",
-        "Frankiewicz P",
-        "Park E",
-        "Camarena A",
-        "Peloquin J",
-        "Fernandez-Moure J"
-      ],
-      "date": "2026 Aug 20",
-      "doi": "10.1097/TA.0000000000005134",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "Thoracic"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "thoracostomy",
-          "strength": "strong",
-          "topic": "Thoracic"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42623355/"
-    },
-    {
-      "pmid": "42622881",
-      "title": "Early treatment goal uncertainty as a barrier to regional analgesia and respiratory deterioration in traumatic rib fractures: a propensity-weighted analysis.",
-      "abstract": "**PURPOSE**: Patients with multiple rib fractures (\u2265\u20093) admitted to the intensive care unit (ICU) are at high risk of early respiratory deterioration, for which timely and effective analgesia is essential. Although multimodal analgesic strategies are widely recommended, their real-world implementation may be influenced by variability in early clinical decision-making, including treatment goal uncertainty (TGU). We aimed to investigate the association between early TGU, analgesic strategy selection, and respiratory outcomes in critically injured patients with rib fractures.\n\n**METHODS**: This single-center observational cohort study included 236 adult ICU patients with \u2265\u20093 radiologically confirmed rib fractures who did not require invasive mechanical ventilation at admission (2020-2024). TGU within the first 48\u00a0h was assessed using blinded electronic medical record review as a process-level marker of variability in early care prioritization. Analgesic strategies were categorized as regional-based analgesia (RA), systemic-dominant analgesia (SA), or multimodal conservative management. The primary outcome was respiratory deterioration, defined as a composite of escalation of respiratory support, endotracheal intubation, or pulmonary complications requiring intervention. Associations were evaluated using propensity score overlap weighting and adjusted regression models.\n\n**RESULTS**: High TGU was identified in 39.8% of patients and was associated with a higher likelihood of respiratory deterioration (adjusted odds ratio [aOR] 2.48; 95% confidence interval [CI] 1.35-4.58; P\u2009=\u20090.004). Patients with high TGU were less likely to receive RA (P\u2009=\u20090.01). In the weighted cohort, RA was associated with a lower likelihood of respiratory deterioration compared with systemic-dominant analgesia (aOR 0.44; 95% CI 0.23-0.85; P\u2009=\u20090.01).\n\n**CONCLUSIONS**: Early TGU is common in ICU patients with multiple rib fractures and, in this observational cohort, was associated with lower use of regional analgesia and a higher likelihood of respiratory deterioration. These findings may reflect the clinical relevance of early care-prioritization variability and support further evaluation of multidisciplinary goal clarification and more standardized RA pathways in this setting. Causal inferences cannot be drawn from this study.",
-      "journal": "Eur J Trauma Emerg Surg",
-      "authors": [
-        "Yi SB",
-        "Wu JH",
-        "Zhang XN",
-        "Lin DC",
-        "Zheng YL"
-      ],
-      "date": "2026 Aug 20",
-      "doi": "10.1111/hex.13255",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "Thoracic"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "traumatic",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "rib fracture",
-          "strength": "strong",
-          "topic": "Thoracic"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42622881/"
     }
   ]
 }
