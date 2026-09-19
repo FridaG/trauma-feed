@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-18T22:05:07.694103Z",
-  "total_articles": 255,
+  "generated": "2026-09-19T21:56:57.372776Z",
+  "total_articles": 249,
   "all_topics": [
     "Abdominal",
     "Burns",
@@ -379,6 +379,225 @@
   },
   "articles": [
     {
+      "pmid": "42760195",
+      "title": "Cooler by cooler - Forecasting transfusion demand and volumes in trauma.",
+      "abstract": "**INTRODUCTION**: Predictive algorithms may optimize the delivery of care by facilitating early identification of resource requirements. We hypothesize that injury patterns and vitals obtained early after trauma can predict blood volume requirements for blunt and penetrating trauma across a wide array of environments.\n\n**METHODS**: Patients 18-60 years with blunt, penetrating and burn were included from the 2020 American College of Surgeons-Trauma Quality Improvement Program (TQIP) registry. Emergency Medical Services (EMS) and emergency department (ED) vital signs were analyzed. External injuries that could be easily noted in the field were curated from ICD codes. Blood volumes were treated as a continuous variable with probabilistic distributions predicted. Blood products characterized include packed red blood cells, plasma, platelets, cryoprecipitate and whole blood. The Field Artificial Intelligence Triage (FAIT) tool utilizes 10-fold cross validation using logistic regression and class-based weighting for predictions.\n\n**RESULTS**: The population was 401,337 patients; (314,790 blunt, 71,760 penetrating, and 5726 burn) patients. The median age was 37 (interquartile range (IQR), 27-50). Median injury severity score (ISS) of 6 (IQR, 4-12) with ISS of 26 (IQR, 17-35) for those receiving massive transfusion (>4 units/4\u202fh). FAIT accurately predicted when patients did not require blood; 0.91\u202f\u00b1\u202f0.00 (AUC). Overall predictive capabilities for transfusion volume across ranges corresponding to transfusion (>0 units/4\u202fh), massive transfusion (>4 units/4\u202fh), and ultra-massive transfusion (>10 units/4\u202fh and >20 units/4\u202fh) had an AUC of 0.91-0.95 for the EMS\u202f+\u202fED and 0.87-0.91 for the EMS vitals alone. Overall survival for different transfusion thresholds was 71% for >\u202f5 units, 62% for >\u202f10 units and 35% for >\u202f50 units (AUC 0.94-0.95\u202f\u00b1\u202f0.01).\n\n**CONCLUSION**: The FAIT tool capably distinguishes patients who require transfusion from those who do not across a wide array of injury patterns, severity, and environments. With only limited pre-hospital inputs, the model predicts transfusion volumes within clinically relevant margins.",
+      "journal": "Injury",
+      "authors": [
+        "Stolarski AE",
+        "Brady KJ",
+        "Stallings JD",
+        "Scantling D",
+        "Torres C",
+        "Ong C",
+        "Lagazzi E",
+        "Seamon M",
+        "Martin N",
+        "Telfer BA",
+        "Saillant N"
+      ],
+      "date": "2026 Sep 14",
+      "doi": "10.1016/j.injury.2026.113719",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Haemorrhage",
+        "Penetrating",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "penetrating trauma",
+          "strength": "weak",
+          "topic": "Penetrating"
+        },
+        {
+          "keyword": "injury severity",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "massive transfusion",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "blood product",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "packed red blood cells",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "cryoprecipitate",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "trauma quality",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42760195/"
+    },
+    {
+      "pmid": "42759966",
+      "title": "Quantifying the impact of prehospital arterial line insertion on scene time.",
+      "abstract": "Enhanced prehospital care services, globally, have demonstrated the feasibility of establishing intra-arterial blood pressure monitoring prehospital to adapt their interventions to their patient's physiology. There is concern, however, that arterial line insertion may increase time on scene and subsequently delay transport to definitive care.A focused, systematic review was undertaken to investigate this. A structured keyword search of MEDLINE and EMBASE identified four studies meeting the inclusion criteria.All four studies noted an association between arterial line insertion and increased scene time (4-34.4\u2009min). The strength and interpretability of this evidence is limited. The clinical significance of this delay is unclear and is likely to be context specific.",
+      "journal": "Emerg Med J",
+      "authors": [
+        "Lyon J",
+        "Garner S"
+      ],
+      "date": "2026 Sep 18",
+      "doi": "10.1136/emermed-2026-215949",
+      "tier": "filtered",
+      "topics": [
+        "Prehospital"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "prehospital",
+          "strength": "strong",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42759966/"
+    },
+    {
+      "pmid": "42759438",
+      "title": "State-level retrospective analysis of the burden of emergency and operative conditions in India from 1980 to 2023.",
+      "abstract": "**INTRODUCTION**: Disease burden is a crucial factor in determining healthcare policy and resource allocation. We analyzed the subnational burden of emergency and operative conditions in India from 1980 to 2023.\n\n**MATERIALS AND METHODS**: We extracted mortality and disability-adjusted life-year (DALY) estimates for 31 Indian states and Union Territories from 1980 to 2023 from the Global Burden of Disease 2023 Study. We used existing expert-consensus-based classifications for defining emergency (30 conditions), operative (57 conditions), and emergency-operative conditions (7 conditions). We investigated rates per 100,000 people and proportions attributable to the above conditions, expressed as percentages of total mortality and DALYs. We conducted a post-hoc uncertainty analysis to calculate the mean and 95% uncertainty interval (UI) for each estimate.\n\n**RESULTS**: In 2023, emergency (mortality rate: 340 deaths per 100,000, 95% UI [282, 416]; DALY rate: 13,732 DALYs per 100,000 people, 95% UI [11,492, 16,277]), operative (mortality rate: 158 deaths per 100,000, 95% UI [123, 196]; DALY rate: 7284 DALYs per 100,000 people, 95% UI [5765, 9018]), and emergency-operative conditions (mortality rate:\u00a070 deaths per 100,000, 95% UI [58, 83]; DALY rate: 3830 DALYs per 100,000 people, 95% UI [3229, 4396])\u00a0accounted for 49.76% (95% UI [43.44%, 58.14%]), 23.12% (95% UI [19.05%, 27.52%]), and 10.31% (95% UI [8.96%, 11.58%]) of all-cause mortality and 40.88% (95% UI [36.91%, 45.40%]), 21.66% (95% UI [18.69%, 24.85%]), and 11.41% (95% UI [10.22%, 12.60%]) of all-cause DALYs, respectively. Telangana, Chhattisgarh, and Uttarakhand had some of the highest mortality and DALY rates for all three condition groups. Mortality rates from 1980-2023 and DALY rates from 1990-2023 generally decreased across all conditions, with the largest decreases in emergency conditions. States such as Kerala and Goa did not show substantial decreases in their mortality and DALY rates between 1980 and 2023.\n\n**CONCLUSION**: Despite significant nationwide improvements in healthcare, several states in India have shown a consistent trend over time, reporting a persistently high burden of emergency, operative, and emergency-operative conditions. Given the relatively large share of emergency and operative conditions in all-cause mortality, surgical care should be a high priority in national and state-level cross-sectoral policymaking.",
+      "journal": "Injury",
+      "authors": [
+        "Gerardo R",
+        "Zadey S",
+        "Shetty R",
+        "Arora A",
+        "Gupta U",
+        "Rao S",
+        "Afsar AP",
+        "Staton CA",
+        "Vissoci JRN"
+      ],
+      "date": "2026 Sep 06",
+      "doi": "10.1016/j.injury.2026.113674",
+      "tier": "filtered",
+      "topics": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42759438/"
+    },
+    {
+      "pmid": "42759234",
+      "title": "Bedside predictors of left ventricular systolic dysfunction in children with suspected infection undergoing cardiac ultrasound.",
+      "abstract": "**BACKGROUND**: Left ventricular systolic dysfunction in children with suspected infection can worsen outcomes and complicate early management of sepsis. Cardiac ultrasound enables bedside assessment of ventricular function, but it remains unclear which bedside markers are associated with an increased risk of myocardial dysfunction.\n\n**OBJECTIVE**: To identify which bedside markers commonly incorporated into pediatric sepsis assessment are associated with reduced left ventricular systolic function on cardiac ultrasound in children with suspected infection.\n\n**METHODS**: In this retrospective cohort study, we included patients aged 1\u00a0month to 21\u00a0years with suspected infection who had documented heart rate and blood pressure within 6\u00a0h of emergency department presentation and underwent cardiac ultrasound assessment (CUS), defined as either cardiac point of care ultrasound (POCUS) or transthoracic echocardiography (TTE), within 24\u00a0h (N\u00a0=\u00a02046). Patients whose CUS was performed after initiation of vasoactive therapy were excluded. Reduced left ventricular systolic function was defined as either qualitative assessment of reduced function on expert reviewed cardiac POCUS or a left ventricular ejection fraction <50% on TTE. A multivariable logistic regression model assessed associations between bedside markers included in commonly used pediatric sepsis assessment tools (tachycardia, systolic hypotension, altered mental status, capillary refill time [CRT], and a high risk condition) and reduced left ventricular systolic function. Adjusted odds ratios (aOR) and 95% confidence intervals (CI) were calculated.\n\n**RESULTS**: Among 2046 eligible patients undergoing CUS, 89 (4.3%) had reduced left ventricular systolic function. In multivariable analysis, systolic hypotension (aOR 2.16, 95% CI 1.00 to 4.65) and prolonged capillary refill time (CRT 3\u00a0s, aOR 1.84, 95% CI 1.03 to 3.28; CRT \u22654\u00a0s, aOR 2.22, 95% CI 0.98 to 5.03) were associated with reduced left ventricular systolic function. Tachycardia (aOR 0.79, 95% CI 0.50 to 1.26), altered mental status (aOR 1.18, 95% CI 0.63 to 2.21), and a high risk condition (aOR 1.19, 95% CI 0.69 to 2.05) were not associated with reduced function.\n\n**CONCLUSIONS**: Reduced left ventricular systolic function on cardiac ultrasound among children with suspected infection was uncommon but associated with systolic hypotension and prolonged capillary refill time. Notably, it was not associated with tachycardia alone. These findings suggest that systolic hypotension and prolonged capillary refill are bedside markers associated with an increased risk of myocardial dysfunction and may help inform the selective use of cardiac ultrasound during the early evaluation of children with suspected infection. Prospective studies are needed to validate these findings.",
+      "journal": "Am J Emerg Med",
+      "authors": [
+        "Hoffmann RM",
+        "Georgette N",
+        "Eisenberg MA",
+        "Mayourian J",
+        "Neal JT",
+        "Gravel CA",
+        "Chiang E",
+        "Leff R",
+        "Miller AF"
+      ],
+      "date": "2026 Sep 01",
+      "doi": "10.1016/j.ajem.2026.08.055",
+      "tier": "filtered",
+      "topics": [
+        "Imaging"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "POCUS",
+          "strength": "weak",
+          "topic": "Imaging"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42759234/"
+    },
+    {
+      "pmid": "42759116",
+      "title": "Anatomical fit of a precontoured suprapectineal plate in japanese patients with acetabular fractures: A three-dimensional morphometric study.",
+      "abstract": "**BACKGROUND**: Anatomically precontoured suprapectineal plates have been developed to reduce intraoperative contouring and facilitate anatomical fixation of acetabular fractures. However, their fit to the pelvic morphology of Japanese patients remains inadequately investigated. We aimed to evaluate the anatomical fit of a commercially available precontoured suprapectineal plate using mirrored three-dimensional (3D) pelvic models reconstructed from computed tomography (CT) images.\n\n**METHODS**: This retrospective morphometric study included 12 consecutive Japanese patients with acetabular fractures (nine men and three women; mean age, 73.5 years). Thin-slice CT images (1-2\u202fmm) were reconstructed into patient-specific 3D pelvic models using ZedView software. The intact contralateral hemipelvis was mirrored to create an anatomical model. The mirrored models were exported as stereolithography (STL) files, processed using Z-SUITE software, and fabricated at full scale (1:1) using a Zortrax\u00ae fused deposition modeling 3D printer with acrylonitrile butadiene styrene (ABS) filament. A commercially available precontoured suprapectineal anatomical plate was placed on each mirrored pelvic model without additional contouring. Plate fit, iliopectineal line length, and pelvic curvature were evaluated. Poor fit was defined as a gap >\u202f5\u202fmm between the plate and bone surface. Plate fit and morphometric measurements were performed by a single orthopedic surgeon according to predefined criteria. Correlations between anthropometric parameters and pelvic morphology were analyzed using Pearson's correlation coefficient. Statistical significance was set at p\u202f<\u202f0.05.\n\n**RESULTS**: Poor plate fit was identified in eight of 12 patients (66.7%). In four patients (33.3%), the anterior portion of the plate overhung the pubic symphysis despite appropriate positioning along the pelvic brim. Iliopectineal line length was positively correlated with body height (r\u202f=\u202f0.628, p\u202f=\u202f0.029) and body weight (r\u202f=\u202f0.610, p\u202f=\u202f0.035), but not pelvic curvature (r\u202f=\u202f0.385, p\u202f=\u202f0.216).\n\n**CONCLUSIONS**: The precontoured suprapectineal anatomical plate frequently showed inadequate anterior conformity in Japanese patients with acetabular fractures. Preoperative patient-specific evaluation using mirrored 3D pelvic models may facilitate implant selection and surgical planning while providing valuable information for future anatomical plate design.",
+      "journal": "Injury",
+      "authors": [
+        "Yoshida M",
+        "Iwata M",
+        "Takahashi N"
+      ],
+      "date": "2026 Sep 14",
+      "doi": "10.1016/j.injury.2026.113709",
+      "tier": "filtered",
+      "topics": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42759116/"
+    },
+    {
+      "pmid": "42759057",
+      "title": "Impact of the absence of a designated healthcare proxy preadmission in adults 65 years or older with operative traumatic brain injury.",
+      "abstract": "**OBJECTIVE**: Traumatic brain injury (TBI) is a leading cause of morbidity and mortality in older adults, often necessitating complex medical decisions during the acute care phase. Authors of this study examine the impact of the absence of an established healthcare proxy (HCP) on clinical outcomes, hospital course, and healthcare costs in older adults who underwent operative management of TBI.\n\n**METHODS**: At a large, urban, level 1 trauma center, a retrospective cohort study was conducted in patients 65 years of age or older who underwent operative management for TBI in the period from 2015 to 2021. Patients were stratified by the presence or absence of an HCP preadmission. Univariate and multivariate logistic analyses were performed. Outcomes of interest included mortality, functional recovery, overall hospital length of stay (LOS), and ICU stay. The financial implications of prolonged ICU stays were estimated using published cost data.\n\n**RESULTS**: Among the 74 patients eligible for study inclusion, 28.4% (n = 21) did not have a designated HCP preadmission. These patients were more likely to undergo craniectomy (38.1% vs 9.4%, p < 0.01), and they experienced longer median ICU stays (12.5 vs 6 days, p = 0.02) and overall hospital stays (15 vs 9 days, p < 0.01). Only 11.3% of patients with an HCP underwent tracheostomy placement compared to 42.9% of those without an HCP (p < 0.01). Furthermore, those without HCPs were more likely to undergo gastrostomy (42.9% vs 18.9%, p = 0.03) and had significantly higher in-hospital mortality (52.4% vs 22.6%, p = 0.01). At the last follow-up, they had worse functional outcomes, with fewer attaining a modified Rankin Scale score \u2264 3 (20.0% vs 65.9%, p < 0.01). Craniectomy (OR 6.99, 95% CI 1.14-42.69, p = 0.04) remained significant after multivariate analysis, controlling for overall LOS, cardiovascular disease, procedure type, tracheostomy placement, gastrostomy placement, and primary care physician in the medical record.\n\n**CONCLUSIONS**: The absence of a designated HCP in older adults with operative TBI is associated with significantly higher mortality, worse functional outcomes, and longer hospitalizations. These findings highlight the need for proactive advance care planning and routine HCP designation discussions for older adults. Routine HCP designation could reduce unnecessary invasive care, improve patient-centered outcomes, and lower healthcare expenditures in this vulnerable population.",
+      "journal": "J Neurosurg",
+      "authors": [
+        "Sconzo D",
+        "Arunachalam Sakthiyendran N",
+        "Wadhwa A",
+        "Perkins T",
+        "Nwoke N",
+        "Balagurunath K",
+        "Enriquez-Marulanda A",
+        "Binello E"
+      ],
+      "date": "2026 Sep 18",
+      "doi": "10.3171/2026.4.JNS253016",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Systems/QI",
+        "TBI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "traumatic brain injury",
+          "strength": "strong",
+          "topic": "TBI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42759057/"
+    },
+    {
       "pmid": "42758640",
       "title": "A Causal Model for Prehospital Blood Transfusion and Mortality in Traumatic Hemorrhagic Shock.",
       "abstract": "**OBJECTIVES**: Utilization of prehospital blood transfusion (PBT) as a treatment for traumatic hemorrhagic shock (THS) has been expanding nationally, yet evidence supporting the practice in some operational environments remains limited. Development of strong scientific evidence to support this practice requires a clear causal model linking prehospital transfusion to mortality and other clinically relevant outcomes. The aim of this project is to develop such a causal model, identifying pathways among the intervention, mediators, and contextual factors through which PBT may impact mortality.\n\n**METHODS**: The causal model was designed to link PBT with all-cause mortality, compared with standard resuscitation using crystalloid fluid, in patients with suspected THS. An initial causal model was developed based on existing literature and emergency medical services (EMS) operational workflows. The model was subsequently refined through an iterative expert-informed review process involving multidisciplinary stakeholders, including EMS clinicians, EMS physicians, trauma surgeons, transfusion medicine specialists, and investigators with expertise in EMS system and causal inference.\n\n**RESULTS**: The causal model includes exposure to PBT, confounders, mediators, and colliders, all of which may impact the primary outcome of interest: patient survival. The model includes multiple exposures, or types of PBT, including packed red blood cells (PRBCs), plasma, platelets, and whole blood. Potential confounders include EMS system-level factors, such as EMS system times (response time, on-scene time, and transport time), EMS clinician training and protocols, units of blood products available, and quality improvement programs associated with program operation. Patient-level confounders include type of injury, injury severity, age, and patient comorbidities. The model also includes two categories of mediators through which PBT is thought to impact patient outcomes: physiologic mediators, such as improved blood pressure, heart rate, acidosis and coagulopathy, and system mediators, including reduced crystalloid exposure and decreased time from injury to transfusion.\n\n**CONCLUSIONS**: A causal model was developed to provide a transparent framework and methodological foundation for pragmatic research and comparative effectiveness studies. The model identifies key confounding processes that should be considered when developing study-specific adjustment strategies for observational analyses. This model is intended to guide implementation, evaluation, and future research on the impact of PBT in patients with THS.",
@@ -485,7 +704,7 @@
         "Como JJ"
       ],
       "date": "2026 Jan 1",
-      "doi": "10.1136/tsaco-2025-002191",
+      "doi": "10.1186/s13017-024-00561-8",
       "tier": "core",
       "topics": [
         "General Trauma"
@@ -512,7 +731,7 @@
         "Hink A"
       ],
       "date": "2026 Jan 1",
-      "doi": "10.1136/tsaco-2026-002309",
+      "doi": "10.1016/j.emc.2017.08.008",
       "tier": "core",
       "topics": [
         "General Trauma"
@@ -9301,485 +9520,6 @@
       ],
       "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/42629558/"
-    },
-    {
-      "pmid": "42629302",
-      "title": "Risk stratification in older adults with rib fractures: Performance of the STUMBL score.",
-      "abstract": "**INTRODUCTION**: Rib fractures are the most common injury following blunt chest trauma, with around 10% of patients requiring hospital admission. The STUMBL (STUdy of the Management of BLunt chest trauma) score was developed to guide admission decisions, but its ability to predict mortality and geriatric-relevant outcomes in older adults is unclear. We evaluated whether the STUMBL score stratifies risk for mortality, delirium, and discharge destination in adults aged \u2265\u202f65 years.\n\n**METHODS**: We conducted a retrospective single-centre cohort study of patients aged \u2265\u202f65 years presenting with traumatic rib fractures to a Level 1 trauma centre between 1 January and 31 December 2022. The primary outcome was 3-month mortality. Secondary outcomes included delirium, 12-month mortality, length of stay, functional decline, and failure to return to usual place of residence. Discrimination was assessed using receiver operating characteristic analysis, and threshold performance was evaluated at a clinically used cut-point (STUMBL >15).\n\n**RESULTS**: Among 476 patients (mean age 77.8 years [SD 10.3]; median Clinical Frailty Scale 3 IQR [2-5]), the mean STUMBL score was 24.1 (SD 12.3). Higher STUMBL scores were independently associated with 3-month mortality (OR 1.03, 95% CI 1.01-1.05), delirium (OR 1.04, 95% CI 1.02-1.06), failure to return to usual place of residence (OR 1.05, 95% CI 1.03-1.07), and longer length of stay (all p\u202f<\u202f0.01). A STUMBL score >\u202f15 demonstrated high sensitivity but low specificity as a screening threshold for delirium and not returning to usual place of residence on discharge.\n\n**CONCLUSION**: The STUMBL score is associated with mortality and geriatric-relevant morbidity in older adults with rib fractures. In conjunction with assessment of frailty and cognition, it may support early risk stratification and care planning, including timely geriatric specialist involvement.",
-      "journal": "Injury",
-      "authors": [
-        "Bui A",
-        "Gregorevic K",
-        "Read D",
-        "Lim WK"
-      ],
-      "date": "2026 Aug 19",
-      "doi": "10.1016/j.injury.2026.113601",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Systems/QI",
-        "Thoracic"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "trauma centre",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "rib fracture",
-          "strength": "strong",
-          "topic": "Thoracic"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42629302/"
-    },
-    {
-      "pmid": "42628231",
-      "title": "Epidemiological characteristics and temporal trends of adult acute compartment syndrome From 2015 to 2025.",
-      "abstract": "**INTRODUCTION**: Acute compartment syndrome (ACS) is a rare surgical emergency that carries limb- and life-threatening risk. Existing literature demonstrates limited patient cohorts, leaving knowledge gaps regarding the epidemiology, clinical characteristics, and outcomes of ACS. Using a large national dataset, this study characterized demographic variables, national trends, and epidemiological characteristics among patients undergoing fasciotomies for ACS.\n\n**METHODS**: The TriNetX US Collaborative Network database was queried to identify patients aged 18 and older who underwent fasciotomy for ACS from 2015 to 2025 using relevant ICD-10 and CPT codes. The primary outcome was incidence proportion of ACS over time. Cohort characteristics were collected, including age, sex, race, body mass index (BMI), comorbidities, associated orthopedic injuries, anatomic location of compartment syndrome, and geographic distribution of patients. A secondary descriptive subgrouping of non-traumatic and traumatic ACS was also reported.\n\n**RESULTS**: A total of 117,592,405 patients were identified from initial query within TriNetX, of which 10,045 patients were diagnosed with ACS. The mean age of the cohort was 44.8\u202f\u00b1\u202f19.4 years with a mean BMI of 28.2\u202f\u00b1\u202f6.9\u202fkg/m\n\n**CONCLUSIONS**: ACS remains a rare condition, with most cases occurring with lower-extremity fractures. Overall incidence has remained stable over the previous decade. Future studies are needed to define risk profiles and outcomes.\n\n**LEVEL OF EVIDENCE**: retrospective cohort study, level of evidence IV.",
-      "journal": "Injury",
-      "authors": [
-        "Ruppert NF",
-        "Sanghvi PA",
-        "Good LM",
-        "Florentino SA",
-        "Berk AN",
-        "Adelstein JM",
-        "Farrell ND",
-        "Ochenjele G",
-        "Wetzel RJ",
-        "Napora JK"
-      ],
-      "date": "2026 Aug 19",
-      "doi": "10.1016/j.injury.2026.113614",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Orthopaedic"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "traumatic",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "compartment syndrome",
-          "strength": "strong",
-          "topic": "Orthopaedic"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42628231/"
-    },
-    {
-      "pmid": "42628230",
-      "title": "A pragmatic clinical definition of traumatic shock using systolic blood pressure and shock index: A national registry study.",
-      "abstract": "**BACKGROUND**: Traumatic shock (TS) is implicated in up to 40% of early trauma deaths; however, no consensus definition exists, and its epidemiology and outcomes have not been characterised at a population level in Australia.\n\n**AIMS**: To apply a pragmatic clinical definition of TS, based on systolic blood pressure (SBP) and shock index (SI), to a national trauma registry, and to describe the epidemiology and outcomes of major trauma (MT) patients with and without clinical signs of shock.\n\n**METHODS**: A retrospective cohort study was conducted using Australia New Zealand Trauma Registry (ANZTR) data (2017-2022). TS was defined as pre-hospital SBP \u2264\u202f90\u202fmmHg or SI >\u202f1, or hospital arrival SBP \u2264\u202f90\u202fmmHg or SI >\u202f1. Epidemiology and outcomes were compared with patients without these features. Outcomes were reported as absolute risk differences and risk ratios alongside odds ratios; analyses were unadjusted.\n\n**RESULTS**: Among 47,730 adult MT patients in the hospital arrival analysis, 16,463 (34.5%) were excluded from the pre-hospital analysis due to incomplete centre-level data. Patients with pre-hospital or hospital arrival signs of TS were younger, more severely injured, and more likely to sustain penetrating trauma. Clinical signs of shock were associated with substantially higher absolute in-hospital mortality: h-SBP \u2264\u202f90\u202fmmHg, 30.9% versus 7.4% (ARD 23.5 %age points, 95% CI 21.7-25.3; RR 4.2); h-SI >\u202f1, 19.2% versus 7.1% (ARD 12.1; RR 2.7); with similar findings pre-hospital. ED mortality differences, although associated with very large odds ratios, were small in absolute terms given the low baseline (h-SBP \u226490\u202fmmHg: ARD 5.6%, RR 25.0, OR 26.5). A stepwise relationship between decreasing hospital arrival SBP and mortality was observed across thresholds of \u2264\u202f100, \u2264\u202f90, and \u2264\u202f80\u202fmmHg. Patients with shock also had higher rates of operative intervention and longer ICU and acute hospital lengths of stay.\n\n**CONCLUSIONS**: A pragmatic clinical definition of TS using SBP and SI identified a major trauma subgroup with substantially higher mortality and resource use. Although unadjusted analyses limit causal inference, this descriptive study provides a foundation for future validation and prospective research, while highlighting important gaps in national trauma registry data quality.",
-      "journal": "Injury",
-      "authors": [
-        "Noonan M",
-        "O'Reilly G",
-        "Balogh ZJ",
-        "Mathew J",
-        "Ellis DY",
-        "Groombridge C",
-        "Cameron P",
-        "Fitzgerald M"
-      ],
-      "date": "2026 Aug 20",
-      "doi": "10.1016/j.injury.2026.113613",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Penetrating",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "major trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "penetrating trauma",
-          "strength": "weak",
-          "topic": "Penetrating"
-        },
-        {
-          "keyword": "trauma registry",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42628230/"
-    },
-    {
-      "pmid": "42628229",
-      "title": "Epidemiology, associated injuries, and surgical intervention of 255,081 clavicle fractures in the United States from 2015 to 2024.",
-      "abstract": "**BACKGROUND**: Clavicle fractures are a relatively common injury and are often associated with other injuries, especially those of the thorax. While they have traditionally been treated conservatively, rates of surgical intervention have been reportedly increasing. This study investigates recent epidemiological trends and demographic distributions of clavicle fractures in the US. Additionally, it reports on rates of injuries associated with clavicle fractures and on rates and trends of surgical intervention for clavicle fractures.\n\n**METHODS**: The TriNetX US Collaborative Network database was used to identify patients who experienced a clavicle fracture in the US from 2015 to 2024. The primary outcome was incidence proportion (IP), stratified by both age and sex. Rates of associated injuries and surgical treatment were also assessed.\n\n**RESULTS**: A total of 255,081 patients were identified as having a clavicle fracture in the US TriNetX database from 2015 through 2024. The average yearly IP was 52.11 cases per 100,000 patients. From 2015-2024, the IP increased by 68.2%. Males made up 64% of the cohort and had a larger IP than females every year. The mean age was 35\u202f\u00b1\u202f27 and the age-stratified IP followed a bimodal distribution, with the highest values in those under 19 and over 80. Rib fractures (14%) were the most common associated injury assessed. Overall, 7.5% were treated with ORIF. The percentage treated surgically increased from 2015 (6.40%) to 2021 (8.73%) and decreased slightly through 2024 (8.56%). The highest percentage treated by ORIFs were in the 20-24 (17.70%) and 25-29 (17.59%) age groups, while the lowest percentage were in the 0-4 (0.06%), 5-9 (0.47%) and 85\u202f+\u202f(0.91%) age groups.\n\n**CONCLUSIONS**: Clavicle fractures in the US appear to be increasing. They occur more in males and demonstrate a bimodal age distribution. They are associated with many other injuries, especially rib fractures. Rates of surgical intervention have increased and are highest in young adults and lowest in pediatric and elderly patients. These results can be used to identify at-risk populations and commonly associated injuries to screen for with clavicle fracture presentations, and they show changes in orthopaedic care and its age variation.",
-      "journal": "Injury",
-      "authors": [
-        "Rodio LA",
-        "Adelstein JM",
-        "Burkhart RJ",
-        "Good LM",
-        "Moyal AJ",
-        "Napora JK"
-      ],
-      "date": "2026 Aug 19",
-      "doi": "10.1016/j.injury.2026.113618",
-      "tier": "filtered",
-      "topics": [
-        "Thoracic"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "rib fracture",
-          "strength": "weak",
-          "topic": "Thoracic"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42628229/"
-    },
-    {
-      "pmid": "42628228",
-      "title": "Operative and non-operative management of people with hip fracture: A modified-Delphi study to develop an international consensus.",
-      "abstract": "**OBJECTIVE**: To develop a series of consensus statements regarding the operative and non-operative management of hip fracture patients.\n\n**METHOD**: A two-round modified-Delphi study was used to obtain consensus on statements for the the operative and non-operative management of hip fracture patients. Panel members rated the importance of each statement to guide the decision to operatively or non-operatively treat hip fracture patients. High consensus was defined as agreement of \u2265\u202f70% and moderate consensus 50-69% between participants.\n\n**RESULTS**: There were 67 round 1 and 55 round 2 panellists. Panellists were working across 17 countries and commonly were anaesthetists (30%), orthopaedic or trauma surgeons (28%), or geriatricians (27%). Just less than one-quarter of panellists (24%) indicated the facility they predominately worked in had a protocol for the non-operative management of hip fracture patients. At the conclusion of the modified-Delphi study, 14 (93%) statements achieved high consensus and one (7%) statement moderate consensus.\n\n**CONCLUSION**: The consensus statements are intended to support shared decision-making regarding non-operative hip fracture care and to promote a more consistent approach to the management of older adults with hip fracture at the end of life. Ultimately, the decision for operative or non-operative management should be made based on each patient's individual circumstances.",
-      "journal": "Injury",
-      "authors": [
-        "Mitchell RJ",
-        "Johansen A",
-        "Willems HC",
-        "Tabu I",
-        "Seymour H",
-        "Moppett I"
-      ],
-      "date": "2026 Aug 19",
-      "doi": "10.1016/j.injury.2026.113620",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42628228/"
-    },
-    {
-      "pmid": "42628227",
-      "title": "Dorsal subchondral arc line: A novel radiographic marker to avoid dorsal screw prominence during distal radius fixation with volar locking plates.",
-      "abstract": "**OBJECTIVES**: The aim of this study was to evaluate a novel radiographic marker for measuring screw length during fixation of distal radius fractures with volar locking plates. The Dorsal Subchondral Arc Line (DSAL) is visualized on the lateral wrist view and screw length is determined using the intersection of a line along the longitudinal axis of the radius and the most dorsal extent of the subchondral arc. The hypothesis was that use of this marker would yield screws that did not penetrate the dorsal cortex and would provide similar fixation in the distal segment to bicortical screws.\n\n**METHODS**: This was a study performed on 10 matched pairs of cadaveric forearms. Each specimen in a matched pair was randomized into two groups; one group received distal locking screws measured using the DSAL and the other group received distal locking screws that were fully bicortical. Specimens were all instrumented using volar locking plates and subsequently denuded of all soft tissue to determine presence of dorsal cortex penetration. Osteotomies were performed in order to simulate and extra-articular distal radius fracture with significant comminution (OTA 23-A3). All specimens were then tested under cyclical axial compression utilizing a servoelectric load frame and then loaded under axial compression to failure.\n\n**RESULTS**: All 10 matched pairs were included in final analysis. No distal screws in the DSAL group penetrated the dorsal cortex. All distal screws in the long group had bicortical purchase. No significant differences existed between the DSAL and bicortical groups in terms of stiffness (271\u00a0N/mm vs 297\u00a0N/mm, p\u00a0=\u00a00.65; respectively) or load to failure (1957\u00a0N vs 1929\u00a0N, p\u00a0=\u00a00.92; respectively).\n\n**CONCLUSIONS**: The results of this study suggest that utilizing the DSAL during fixation of distal radius fractures using volar locked plates provides a patient-specific radiographic marker to ensure ample fixation of the distal segment while minimizing the risk of dorsal screw prominence.",
-      "journal": "Injury",
-      "authors": [
-        "Worhacz K",
-        "Castaneda P",
-        "Hui C",
-        "Walker JB"
-      ],
-      "date": "2026 Aug 11",
-      "doi": "10.1016/j.injury.2026.113596",
-      "tier": "filtered",
-      "topics": [],
-      "keyword_matches": [],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42628227/"
-    },
-    {
-      "pmid": "42628226",
-      "title": "Surgical stabilization of rib fractures in adult trauma patients with flail chest with or without severe traumatic brain injury: A national analysis.",
-      "abstract": "**INTRODUCTION**: We aim to compare clinical outcomes of surgical stabilization of rib fractures (SSRF) versus non-operative management (NOM) in adult non-TBI patients with isolated flail chest and severe TBI patients with flail chest.\n\n**METHODS**: A retrospective cohort analysis was performed utilizing the American College of Surgeons Trauma Quality Improvement Program Participant Use File (ACS-TQIP PUF) dataset from 2017 to 2021. Adult non-TBI trauma patients with isolated flail chests and severe TBI patients with flail chests were included. Outcomes included in-hospital mortality, intensive care unit length of stay (ICU-LOS), ventilator-free days (VFDs), in-hospital complications, and discharge disposition.\n\n**RESULTS**: Among non-TBI patients, there was no significant difference in in-hospital mortality between SSRF and NOM patients (OR 0.565, 95% CI 0.261-1.222, p\u202f=\u202f0.147). Among severe TBI patients, SSRF was associated with significantly lower odds of in-hospital mortality (OR 0.275, 95% CI 0.088-0.859, p\u202f=\u202f0.026). In both non-TBI and TBI patients, SSRF was associated with significantly longer ICU-LOS (\u0392=2.434, 95% CI 1.796-3.098, p\u202f<\u202f0.001; \u0392=5.009, 95% CI 2.866-7.151, p\u202f<\u202f0.001), increased odds of ventilator-associated pneumonia (VAP) (OR 4.051, 95% CI 1.573-10.435, p\u202f=\u202f0.004; OR 4.066, 95% CI 1.501-11.019, p\u202f=\u202f0.006), tracheostomy (OR 2.061, 95% CI 1.143-3.716, p\u202f=\u202f0.016;OR 3.797, 95% CI 1.861-7.744, p\u202f<\u202f0.001), and discharge to inpatient rehab (OR 1.452, 95% CI 1.089-1.935, p\u202f=\u202f0.011; OR 2.140, 95% CI 1.159-3.949, p\u202f=\u202f0.015) compared to NOM.\n\n**CONCLUSION**: In adult non-TBI trauma patients with isolated flail chest, SSRF is associated with comparable mortality when compared to NOM. Among severe TBI patients with flail chest, SSRF is associated with significantly reduced odds of in-hospital mortality.",
-      "journal": "Injury",
-      "authors": [
-        "Nasef H",
-        "Chin B",
-        "Nunes N",
-        "Werling A",
-        "Amin Q",
-        "Wright DD",
-        "Smith C",
-        "Zito T",
-        "Elkbuli A"
-      ],
-      "date": "2026 Aug 19",
-      "doi": "10.1016/j.injury.2026.113602",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Systems/QI",
-        "TBI",
-        "Thoracic"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "rib fracture",
-          "strength": "strong",
-          "topic": "Thoracic"
-        },
-        {
-          "keyword": "flail chest",
-          "strength": "strong",
-          "topic": "Thoracic"
-        },
-        {
-          "keyword": "traumatic brain injury",
-          "strength": "strong",
-          "topic": "TBI"
-        },
-        {
-          "keyword": "trauma quality",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42628226/"
-    },
-    {
-      "pmid": "42628225",
-      "title": "Cytokine release after geriatric coxal monotrauma.",
-      "abstract": "**PURPOSE**: Interleukin-6 (IL-6), interleukin-10 (IL-10), and monocyte chemoattractant protein-1 (MCP-1), also known as chemokine (C-C motif) ligand 2 (CCL2), are pivotal mediators of the immune response following trauma. While IL-6 predominantly promotes inflammation, IL-10 serves a regulatory function, and MCP-1/CCL2 facilitates monocyte recruitment and differentiation. Dysregulation of these cytokines has been linked to adverse postoperative outcomes in geriatric patients. An investigation was conducted to analyze the cytokine release profile in geriatric patients with proximal femur fractures and to compare it with that of a geriatric non-trauma group undergoing a comparable operative procedure.\n\n**METHODS**: Patients older than 70 with proximal femur fractures were enrolled alongside geriatric patients undergoing elective hip arthroplasty and a young (<50 years) healthy control group. Blood samples were collected preoperatively, immediately postoperatively, and on postoperative days 1, 4, and 7 for cytokine quantification.\n\n**RESULTS**: Preoperative IL-6 and IL-6/IL-10 ratios were significantly higher in trauma patients. IL-6 remained higher immediately postoperatively but was surpassed by THA patients. MCP-1/CCL2 and IL-10 did not differ between groups.\n\n**CONCLUSION**: Geriatric fracture patients exhibited a pronounced preoperative pro-inflammatory state, whereas elective THA was associated with a strong acute postoperative inflammatory response. Cytokine profiling may aid perioperative risk stratification and management in vulnerable populations.",
-      "journal": "Injury",
-      "authors": [
-        "Pass B",
-        "Boerner A",
-        "Bousch JF",
-        "Schoeps D",
-        "Maus U",
-        "Kupschus J",
-        "Eschbach D",
-        "Ruchholtz S",
-        "Lendemans S",
-        "Schoeneberg C"
-      ],
-      "date": "2026 Aug 19",
-      "doi": "10.1016/j.injury.2026.113619",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42628225/"
-    },
-    {
-      "pmid": "42628123",
-      "title": "Clinical course of mild traumatic brain injury in polytrauma patients admitted to intensive care.",
-      "abstract": "**OBJECTIVE**: Mild traumatic brain injury (mTBI) accounts for the majority of TBI cases. In polytrauma patients admitted to intensive care units (ICUs), mTBI may be associated with more severe clinical profiles and a higher risk of intervention. However, the outcomes and characteristics of this population remain underdescribed.\n\n**METHODS**: The authors conducted a retrospective study of adult patients with mTBI (Glasgow Coma Scale [GCS] score \u2265 13) admitted to the ICU of a level I trauma center from 2011 to 2017. Patients with secondary neurological deterioration prior to ICU admission were excluded. The authors specifically assessed the presence of intracranial lesions, need for neurosurgical interventions, and clinical outcomes including in-hospital mortality. Statistical analyses included descriptive statistics, univariate comparisons, and multivariate logistic regression models to identify factors independently associated with neurosurgical intervention and mortality.\n\n**RESULTS**: Among 244 patients (82% male, mean age 41.3 years), 82.8% had traumatic intracranial lesions. Neurosurgical intervention was required in 22.1% of cases, and the mortality rate was 3.3%. Subarachnoid hemorrhage, subdural hematoma, and epidural hematoma were the most common imaging findings. Independent predictors of neurosurgical intervention included epidural hematoma, midline shift > 5 mm, and assault-related trauma. Mortality was associated with age and hemorrhagic shock. Functional outcomes were favorable in most patients, but 24% had disability at discharge.\n\n**CONCLUSIONS**: In polytrauma patients admitted to the ICU, mTBI is often accompanied by intracranial injuries and a substantial need for surgical intervention, even when the GCS score is high.",
-      "journal": "J Neurosurg",
-      "authors": [
-        "El Bendary Y",
-        "Hounkonnou C",
-        "Jeantrelle C",
-        "Moyer JD",
-        "Iakovlev G",
-        "Decq P",
-        "Faillot M"
-      ],
-      "date": "2026 Aug 21",
-      "doi": "10.3171/2026.1.JNS251936",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Haemorrhage",
-        "Systems/QI",
-        "TBI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "polytrauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "trauma centre",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "haemorrhagic shock",
-          "strength": "weak",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "traumatic brain injury",
-          "strength": "strong",
-          "topic": "TBI"
-        },
-        {
-          "keyword": "subdural haematoma",
-          "strength": "weak",
-          "topic": "TBI"
-        },
-        {
-          "keyword": "epidural haematoma",
-          "strength": "weak",
-          "topic": "TBI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42628123/"
-    },
-    {
-      "pmid": "42627114",
-      "title": "Advanced Automatic Crash Notification Systems: It Is Time to Adopt Potentially Life-Saving Technology.",
-      "abstract": "Since the National Highway Traffic Safety Administration (NHTSA) started the Automatic Collision Notification project in 1995, basic Automatic Crash Notifications (ACN) and Advanced Automatic Crash Notification (AACN) systems were integrated into cars to notify emergency medical services (EMS) by contacting 911, the national emergency number. However, despite technological advances, these systems are not standard in all vehicles. Additionally, the available vehicle telematic data is not easily transferred to public safety answering points (PSAP), where public safety telecommunicators (PST) take 911 calls and coordinate the emergency response with law enforcement, fire, and medical services and transport to a trauma center. The purpose of this paper is to review the existing literature of how ACN and AACN benefit patient outcomes and describe challenges and opportunities to implementation.",
-      "journal": "J Am Coll Surg",
-      "authors": [
-        "Chin TL",
-        "Valenzuela JY",
-        "Duncan T",
-        "Fischer PE",
-        "Briggs A",
-        "Moren A",
-        "Shapiro DS",
-        "Rizzo A",
-        "Etskovitz H",
-        "Tatebe LC",
-        "Campbell BT",
-        "Bulger E"
-      ],
-      "date": "2026 Sep 10",
-      "doi": "10.1097/XCS.0000000000002168",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "trauma centre",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42627114/"
-    },
-    {
-      "pmid": "42625212",
-      "title": "Fitting in or standing out: a scoping review of gender-related findings in Nordic EMS through an organizational socialization lens.",
-      "abstract": "**OBJECTIVE**: To explore and map research on workplace culture, occupational health, exposure to violence, and organizational dynamics among Emergency Medical Service (EMS) professionals in Nordic countries, focusing on studies reporting gender-related findings between 2010 and 2025.\n\n**METHODS**: A scoping review was conducted in accordance with the JBI methodological guidance and reported using the PRISMA-ScR framework. Searches were performed in CINAHL, PubMed, Scopus, Web of Science, and Google Scholar covering the period 2010-2025. Studies focusing on EMS professionals and workplace experiences related to gender, workplace culture, discrimination, leadership, or organizational factors were eligible. Data were charted descriptively, using an inductive content analysis approach.\n\n**RESULTS**: Seven peer-reviewed studies and five master's theses met the inclusion criteria, comprising cross-sectional, prospective cohort, and observational designs. Three explicitly examined gender/equality; other gender-related differentiated findings were reported as secondary observations. Women reported higher physical and psychosocial work demands (43% vs. 22%; 41% vs. 20%), greater concerns about threats and violence (58% vs. 38%), and higher levels of mental health problems (29% vs. 8%) and sleep disturbances (60% vs. 39%). Despite this, women demonstrated higher physical capacity, while men had higher cardiovascular disease risk factors. Men reported greater exposure to certain critical incidents, whereas stress levels were similar between genders. Workplace violence was common, with differences between men and women observed in exposure, perception, and support-seeking behaviors.\n\n**CONCLUSION**: This scoping review found that gender-related patterns are present across workplace demands, health outcomes, exposure to violence, and critical incidents, but are rarely explicitly addressed in Nordic EMS research. Rather than isolated findings, these patterns appear to be embedded in organizational processes that shape norms, expectations, and professional identities. For example, women reported higher work demands, greater concern about workplace risks, and poorer mental health outcomes, despite demonstrating high physical capacity, while men reported greater exposure to certain critical incidents. Interpreted through the lens of organizational socialization, these findings suggest unequal access to legitimacy, well-being, and career opportunities, with implications for workforce sustainability. Addressing these issues through organizational and educational strategies may improve working conditions, reduce workplace risks, and support a more equitable and sustainable Nordic EMS workforce.",
-      "journal": "Scand J Trauma Resusc Emerg Med",
-      "authors": [
-        "Veronica L",
-        "Ericsson RC",
-        "Sinisalo R",
-        "Venesoja A"
-      ],
-      "date": "2026 Aug 17",
-      "doi": "10.1002/ajs4.283",
-      "tier": "core",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42625212/"
-    },
-    {
-      "pmid": "42625180",
-      "title": "Clinical outcomes and opportunities for improvement across modified trauma quality improvement cohorts: a registry-based cohort study.",
-      "abstract": "**BACKGROUND**: The American College of Surgeons Trauma Quality Improvement Program (TQIP) relies primarily on risk-adjusted mortality benchmarking, yet mortality alone may overlook non-fatal morbidity and care-process failures, particularly in cohorts where outcomes are driven by injury severity. This study aimed to analyse and compare 30-day mortality, cause of death, functional outcomes as measured by the Glasgow Outcome Scale (GOS), and opportunities for improvement (OFIs) identified through peer review across modified TQIP cohorts.\n\n**METHODS**: Registry-based cohort study of 8,298 trauma patients at Karolinska University Hospital (2013-2023), classified into four modified TQIP cohorts: isolated severe TBI, blunt multisystem with TBI, blunt multisystem without TBI, and penetrating truncal injury. Remaining patients, of lower severity on average, formed a non-TQIP reference cohort. Cohort associations with mortality, unfavourable GOS, and OFI were assessed using cumulative sequential logistic regression (reference: non-TQIP cohort), progressively adjusting for patient characteristics, physiological status, and care processes, pooled across 20 imputed datasets. Cause of death, GOS levels, and OFI categories were compared using multinomial logistic regression.\n\n**RESULTS**: All TQIP cohorts had elevated odds of mortality and unfavourable GOS. The blunt multisystem cohorts had the highest OFI rates (10.6% with TBI, 16.9% without) and were the only cohorts with elevations across all OFI categories, including potentially preventable deaths and clinical judgement errors. Care-process adjustment (e.g. emergency interventions, time to radiology, care level) reduced their mortality ORs, suggesting potentially modifiable processes. Isolated severe TBI had the highest mortality (52.8%) but no OFI excess, suggesting outcomes driven by primary injury rather than care-process failures. Penetrating truncal injury showed high, potentially preventable, haemorrhage-related mortality but favourable functional recovery in survivors after care-process adjustment.\n\n**CONCLUSIONS**: Outcome profiles differed across TQIP cohorts and were not captured by mortality alone: isolated severe TBI had the highest mortality but no OFI excess, while the blunt multisystem cohorts had the greatest OFI burden and potentially preventable deaths despite lower mortality. Penetrating truncal injury showed high haemorrhage-related mortality but favourable functional recovery in survivors. Integrating functional outcomes and structured peer review alongside mortality identifies cohorts amenable to quality improvement and reveals cohort-specific processes to target.",
-      "journal": "Scand J Trauma Resusc Emerg Med",
-      "authors": [
-        "Attergrim J",
-        "Str\u00f6mmer L",
-        "Brattstr\u00f6m O",
-        "Jacobsson M",
-        "Al-Khalili J",
-        "Sun Cao E",
-        "Szolnoky K",
-        "Berg J",
-        "Gerdin W\u00e4rnberg M"
-      ],
-      "date": "2026 Aug 17",
-      "doi": "10.1016/j.amjsurg.2011.10.004",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "injury severity",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "trauma quality",
-          "strength": "strong",
-          "topic": "Systems/QI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42625180/"
     }
   ]
 }
