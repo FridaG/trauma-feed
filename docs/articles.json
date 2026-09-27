@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-26T22:16:31.637375Z",
-  "total_articles": 230,
+  "generated": "2026-09-27T22:42:30.783160Z",
+  "total_articles": 228,
   "all_topics": [
     "Abdominal",
     "Burns",
@@ -378,6 +378,43 @@
     "Cochrane Database Syst Rev": "filtered"
   },
   "articles": [
+    {
+      "pmid": "42800420",
+      "title": "MicroRNAs regulate viability, longevity and extracellular matrix secretions of mesenchymal stem cell-derived chondrocytes in vitro.",
+      "abstract": "**BACKGROUND**: Chondrogenic differentiation of human adipose tissue-derived mesenchymal stem cells (ADMSCs) is a promising strategy for cartilage regeneration, but its regulatory mechanisms remain incompletely understood. MicroRNAs (miRNAs) play critical roles in post-transcriptional control of lineage commitment and tissue development. This study aimed to identify miRNAs differentially expressed during ADMSCs chondrogenesis and explore their functional roles in chondrogenic gene regulation.\n\n**METHODS**: ADMSCs were induced to undergo chondrogenic differentiation under defined conditions. miRNA expression profiles were analyzed, and significantly dysregulated miRNAs were identified. Bioinformatic and literature-based analyses were used to associate these miRNAs with chondrogenic transcription factors, signaling pathways, and cellular processes.\n\n**RESULTS**: Chondrogenesis was associated with distinct patterns of miRNA regulation. miR-140-5p, miR-520d-5p, miR-127-5p, and miR-218-5p were upregulated and correlated with increased expression of cartilage markers (SOX9, COL2A1, ACAN) and suppression of hypertrophy. These miRNAs were linked to TGF-\u03b2 signaling, epigenetic regulation, and inhibition of terminal differentiation. Conversely, miR-145-5p, miR-101-3p, miR-194-5p, miR-199a-5p, miR-182-5p, miR-29a-5p, miR-20a-5p, miR-193b-5p, and miR-574-3p were downregulated, potentially relieving repression of transcription factors, signaling components, autophagy-related genes, and extracellular matrix regulators.\n\n**CONCLUSION**: Chondrogenic differentiation of ADMSCs is governed by coordinated miRNA regulation, involving activation of pro-chondrogenic miRNAs and suppression of inhibitory ones. This regulatory network integrates key molecular pathways required for stable cartilage formation and highlights potential targets for improving ADMSCs-based regenerative therapies.",
+      "journal": "Injury",
+      "authors": [
+        "Al-Shaibani MBH"
+      ],
+      "date": "2026 Sep 23",
+      "doi": "10.1016/j.injury.2026.113730",
+      "tier": "filtered",
+      "topics": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42800420/"
+    },
+    {
+      "pmid": "42800419",
+      "title": "Factors associated with the occurrence and recurrence of road traffic injuries in car and motorcycle drivers: a cross-sectional study.",
+      "abstract": "**OBJECTIVE**: To analyze the factors associated with the occurrence and recurrence of road traffic injuries (RTIs) in drivers.\n\n**METHODS**: A cross-sectional study was conducted using a non-probabilistic sample recruited through virtual snowball sampling. Participants completed a questionnaire on the occurrence and recurrence of RTIs and their potential associated factors. Poisson multiple regression was used to identify factors associated with the lifetime occurrence and recurrence of RTIs, as well as their occurrence in the last 12 months.\n\n**RESULTS**: The lifetime prevalence of RTIs was 14.9% (95% confidence interval [95%CI]: 13.1-16.9), and the 12-month prevalence was 1.2% (95%CI: 0.8-1.6). The prevalence of recurrence (\u22652 lifetime RTIs) was 5.1% (95%CI: 4.1-6.4). Higher prevalences were observed among male individuals (lifetime: adjusted prevalence ratio [APR]: 1.37, 95%CI: 1.07-1.76), individuals with low educational attainment (lifetime: APR: 1.94, 95%CI: 1.18-3.20; last 12 months: \u22648 years: APR: 3.31, 95%CI: 1.08-10.13; 9-11 years: APR: 4.47, 95%CI: 1.71-11.67), motorcyclists (lifetime: APR: 2.39, 95%CI: 1.96-2.92; last 12 months: APR: 5.44, 95%CI: 2.86-10.32), individuals aged 18-29 years (last 12 months: APR: 5.04, 95%CI: 1.92-13.27), individuals with a National Driver's License (lifetime: APR: 1.63, 95%CI: 1.02-2.60), and those who reported running red lights in the absence of surveillance cameras (lifetime: APR: 1.40, 95%CI: 1.09-1.80). Driving under the influence of alcohol (DUIA) was associated with RTI occurrence in both periods analyzed (lifetime: APR: 1.53; 95%CI: 1.15-2.05; last 12 months: APR: 3.45; 95%CI: 1.67-7.16) and with RTI recurrence (APR: 1.67; 95%CI: 1.00-2.78). Cell phone use to make and/or answer calls while driving was associated with RTI recurrence (APR: 2.62; 95%CI: 1.06-6.47). Being a motorcycle driver was also associated with RTI recurrence (APR: 4.98; 95%CI: 3.46-7.17).\n\n**CONCLUSION**: The occurrence and recurrence of RTIs were associated with sociodemographic and behavioral variables.",
+      "journal": "Injury",
+      "authors": [
+        "Guimar\u00e3es RA",
+        "de Sena KG",
+        "Valad\u00e3o KA",
+        "Vera I",
+        "Maia LG",
+        "da Silva Carvalho Vila V"
+      ],
+      "date": "2026 Sep 02",
+      "doi": "10.1016/j.injury.2026.113649",
+      "tier": "filtered",
+      "topics": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42800419/"
+    },
     {
       "pmid": "42790860",
       "title": "Emergency medical services agency-level variation in non-initiation of resuscitation and termination of resuscitation in out-of-hospital cardiac arrest.",
@@ -8548,169 +8585,6 @@
       ],
       "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/42671261/"
-    },
-    {
-      "pmid": "42667934",
-      "title": "Safety and efficacy of the 0/1 h pathway for myocardial infarction in the emergency department: an international, pragmatic, stepped-wedge, cluster-randomised, controlled trial.",
-      "abstract": "**BACKGROUND**: The evaluation of patients with suspected myocardial infarction relies on serial measurements of high-sensitivity cardiac troponin. We aimed to evaluate the safety and efficacy of implementing the guideline-recommended 0/1 h pathway, compared with a 0/3 h pathway, in hospitals that had not yet adopted the newer strategy.\n\n**METHODS**: PRESC1SE-MI was an international, pragmatic, stepped-wedge, cluster-randomised, controlled, masked-endpoint trial at 19 hospitals in ten countries. The study included consecutive adults presenting to the emergency department with acute non-traumatic chest discomfort and suspected myocardial infarction. Hospitals using a 0/3 h pathway (blood draws at 0 h and 3 h) as standard care were randomly allocated to implement the 0/1 h pathway (blood draws at 0 h and 1 h) after 6 months (early implementation) or 12 months (late implementation). The trial was designed to test the non-inferiority of the 0/1 h pathway for safety and its superiority for efficacy. The non-inferiority margin was set at an odds ratio of 1\u00b73. Analyses were done in the full analysis set. The coprimary safety outcome was a composite of death from any cause or new type 1 myocardial infarction within 30 days, and the coprimary efficacy outcome was emergency department length of stay. This trial is registered with ClinicalTrials.gov, NCT05649384, and is active but no longer enrolling.\n\n**FINDINGS**: Between Dec 1, 2020, and Dec 31, 2024, 71\u2008983 consecutive patient presentations were screened, of which 67\u2008624 (93\u00b79%) met the eligibility criteria and comprised the full analysis set. Median age was 59 years (IQR 46-73); 29\u2008954 (44\u00b73%) patient presentations were in female patients and 37\u2008670 (55\u00b77%) were in male patients. 13\u2008753 (22\u00b72%) of 62\u2008060 patient presentations with available data were in patients with known coronary artery disease, and 5855 (8\u00b77%) patient presentations had an adjudicated index diagnosis of myocardial infarction. Overall, 36\u2008464 patient presentations were managed with a 0/3 h pathway and 31\u2008160 with the 0/1 h pathway. Death from any cause or new type 1 myocardial infarction occurred in 454 (1\u00b72%) patient presentations in the 0/3 h group and in 341 (1\u00b71%) patient presentations in the 0/1 h group (adjusted odds ratio 0\u00b793 [95% CI 0\u00b777-1\u00b713]; p\n\n**INTERPRETATION**: Implementation of the 0/1 h pathway met the prespecified non-inferiority criterion for the 30-day composite safety outcome but did not shorten emergency department length of stay compared with the 0/3 h pathway. In this setting, implementation of the 0/1 h pathway alone should therefore not be expected to improve emergency department throughput.\n\n**FUNDING**: Swiss National Science Foundation, Swiss Heart Foundation, University Hospital Basel, University of Basel, Foundation for Cardiovascular Research Basel, Fondazione Ricerca Molinette, Idorsia, and Roche.",
-      "journal": "Lancet",
-      "authors": [
-        "Boeddinghaus J",
-        "Bima P",
-        "Crisanti L",
-        "Keller DI",
-        "Slankamenac K",
-        "Christ M",
-        "Schuetz P",
-        "Wiencierz A",
-        "Strebel I",
-        "Reinhardt J",
-        "Vyshnevska I",
-        "Tsao TY",
-        "Ruggieri MP",
-        "Steuer S",
-        "Mir\u00f3 \u00d2",
-        "Harjola VP",
-        "Morello F",
-        "Nazerian P",
-        "Roth D",
-        "Zamorano JL",
-        "Gannon DE",
-        "Pott J",
-        "Bloom B",
-        "Zubaid R",
-        "Bicette R",
-        "Cuculici A",
-        "Bueno H",
-        "Sanchis J",
-        "Mahfoud F",
-        "Abubakr MOA",
-        "Yang HS",
-        "Mueller C"
-      ],
-      "date": "2026 Aug 29",
-      "doi": "10.1016/S0140-6736(26)01654-5",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "traumatic",
-          "strength": "weak",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42667934/"
-    },
-    {
-      "pmid": "42667922",
-      "title": "Expanding the indications of horizontal plate fixation to the proximal humerus: Technical note and clinical series.",
-      "abstract": "**INTRODUCTION**: Isolated greater tuberosity fractures of the proximal humerus are relatively uncommon injuries, and there is no consensus regarding the optimal fixation method for displaced fractures. This study aimed to describe a horizontal plate fixation technique and to demonstrate its clinical applicability and feasibility in the treatment of isolated greater tuberosity fractures.\n\n**METHODS**: This study consists of a technical description of the horizontal plate fixation technique, followed by its retrospective clinical application. A series of 11 patients with isolated greater tuberosity fractures treated with this method between 2009 and 2021 was included. All patients had a minimum follow-up of 24 months. Functional outcomes were assessed using the University of California at Los Angeles (UCLA) Shoulder Rating Scale.\n\n**RESULTS**: All patients achieved fracture union. The mean UCLA score was 30, with predominantly good functional outcomes. Most patients reported mild or occasional pain and minimal functional limitation.\n\n**CONCLUSION**: Horizontal plate osteosynthesis is a reproducible and accessible technique that demonstrated satisfactory clinical applicability in this series of patients with isolated greater tuberosity fractures. Further studies are needed to confirm its effectiveness.",
-      "journal": "Injury",
-      "authors": [
-        "Machado JKS",
-        "da Silva Cordeiro R",
-        "Dos Santos DR"
-      ],
-      "date": "2026 Aug 26",
-      "doi": "10.1016/j.injury.2026.113624",
-      "tier": "filtered",
-      "topics": [],
-      "keyword_matches": [],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42667922/"
-    },
-    {
-      "pmid": "42667231",
-      "title": "Pulmonary Vein Isolation Using Pulsed Field Ablation With vs Without Posterior Wall Isolation in Patients With Symptomatic Persistent Atrial Fibrillation: The PIFPAF-PFA Randomized Clinical Trial.",
-      "abstract": "**IMPORTANCE**: Pulmonary vein isolation (PVI) is less effective in persistent than in paroxysmal atrial fibrillation (AF).\n\n**OBJECTIVE**: To determine whether adding posterior left atrial wall isolation (PWI) to pulsed field ablation (PFA)-based PVI reduces atrial tachyarrhythmia in patients with persistent AF.\n\n**DESIGN, SETTING, AND PARTICIPANTS**: This investigator-initiated, multicenter, randomized superiority trial with blinded end-point adjudication was conducted at 6 centers in Switzerland. Patients with symptomatic, persistent AF were enrolled from November 2023 to February 2025, with 1-year follow-up completed February 2026.\n\n**INTERVENTION**: Patients were randomized 1:1 to PFA-based PVI with PWI vs PFA-based PVI alone. All patients received an implantable cardiac monitor (ICM) after ablation.\n\n**MAIN OUTCOMES AND MEASURES**: The primary end point was first recurrence of atrial tachyarrhythmia during days 91 to 365 after ablation, detected by continuous ICM monitoring and adjudicated by an independent clinical events committee blinded to treatment allocation. There were 29 secondary end points, including atrial arrhythmia burden during days 91 to 365, time to arrhythmia recurrence during days 91 to 365 using different minimum episode durations, and a safety composite, which comprised cardiac tamponade requiring drainage, persistent phrenic nerve palsy lasting more than 24 hours, serious vascular complications requiring intervention, stroke or transient ischemic attack, atrioesophageal fistula, or death up to day 90.\n\n**RESULTS**: Among 206 randomized patients (mean [SD] age, 65.8 [9.2] years; 165 [80.1%] males; 102 randomized to PVI with PWI; 104 randomized to PVI alone), atrial tachyarrhythmia recurred in 51 of 102 patients (50.6%) assigned to PVI with PWI and in 63 of 104 patients (60.6%) assigned to PVI alone (rate ratio [RR], 0.75 [95% CI, 0.51-1.09]; P\u2009=\u2009.13). Of the 29 prespecified secondary outcomes, 22 were not significantly different. The mean atrial arrhythmia burden was 6.9% and 11.0%, respectively (difference, -4.1 percentage points; 95% CI, -8.0 to -0.2 percentage points; P\u2009=\u2009.04). Across minimum episode durations of 1 hour or longer, 6 hours or longer, 1 day or longer, 2 days or longer, and 7 days or longer, RRs for PVI with PWI vs PVI alone were 0.64 (95% CI, 0.41-0.99), 0.62 (95% CI, 0.38-1.03), 0.37 (95% CI, 0.18-0.78), 0.40 (95% CI, 0.18-0.88), and 0.51 (95% CI, 0.22-1.23), respectively. The safety composite end point occurred in 2 patients assigned to PVI with PWI.\n\n**CONCLUSIONS AND RELEVANCE**: In patients with persistent AF, adding PFA-based PWI to PVI did not significantly reduce atrial tachyarrhythmia recurrence lasting 30 seconds or longer compared with PVI alone. The findings for secondary end points are hypothesis generating and warrant further evaluation in a larger trial.\n\n**TRIAL REGISTRATION**: ClinicalTrials.gov Identifier: NCT05986526.",
-      "journal": "JAMA",
-      "authors": [
-        "Roten L",
-        "Maurhofer J",
-        "Krisai P",
-        "Breitenstein A",
-        "Koepfli P",
-        "Saguner AM",
-        "Franzeck F",
-        "Pascale P",
-        "Kueffer T",
-        "Knecht S",
-        "Jufer C",
-        "Spahiu V",
-        "Schaerli N",
-        "Herrera Siklody C",
-        "Thalmann G",
-        "Kozhuharov N",
-        "Kovacs B",
-        "Mahfoud F",
-        "Heg D",
-        "Pereira TV",
-        "Servatius H",
-        "Tanner H",
-        "K\u00fchne M",
-        "Sticherling C",
-        "Reichlin T",
-        "J\u00fcni P",
-        "Badertscher P"
-      ],
-      "date": "2026 Aug 29",
-      "doi": "10.1016/j.jacep.2023.08.002",
-      "tier": "filtered",
-      "topics": [
-        "Thoracic"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "cardiac tamponade",
-          "strength": "weak",
-          "topic": "Thoracic"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42667231/"
-    },
-    {
-      "pmid": "42665994",
-      "title": "Prehospital Emergency Care for Traumatic Brain Injury Patients in Hanoi: A Multicenter Study of Outcomes and Quality of Care.",
-      "abstract": "**OBJECTIVE**: Evaluate prehospital care quality and outcomes for traumatic brain injury (TBI) patients in Vietnam.\n\n**METHODS**: We conducted a retrospective multicentre audit at three tertiary Hanoi hospitals (January-August 2025), including adults with moderate-severe TBI. Prehospital care was assessed against five EPIC-TBI standards and in-hospital mortality recorded.\n\n**RESULTS**: Of 80 cases, 45 (56.3%) were transported by EMS; 14 (17.5%) received oxygen or saturation monitoring and 11 (13.8%) had blood pressure management. In-hospital mortality was 22/80 (27.5%), with 14/22 (63.6%) of deaths potentially preventable.\n\n**CONCLUSION**: Major prehospital TBI care gaps support the need for enhanced resources, training and quality assurance.",
-      "journal": "Emerg Med Australas",
-      "authors": [
-        "Hoang BH",
-        "Tran TL",
-        "Nguyen T",
-        "Luong QC",
-        "Dinh MM"
-      ],
-      "date": "2026 Oct 1",
-      "doi": "10.1227/neu.0000000000002672",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Prehospital",
-        "TBI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "traumatic",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic brain injury",
-          "strength": "strong",
-          "topic": "TBI"
-        },
-        {
-          "keyword": "prehospital",
-          "strength": "strong",
-          "topic": "Prehospital"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42665994/"
     }
   ]
 }
