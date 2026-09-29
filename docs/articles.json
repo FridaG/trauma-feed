@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-27T22:42:30.783160Z",
-  "total_articles": 228,
+  "generated": "2026-09-29T00:04:08.977404Z",
+  "total_articles": 221,
   "all_topics": [
     "Abdominal",
     "Burns",
@@ -378,6 +378,227 @@
     "Cochrane Database Syst Rev": "filtered"
   },
   "articles": [
+    {
+      "pmid": "42804755",
+      "title": "Re: Association or Causation? Methodological Concerns Regarding High Fresh Frozen Plasma to Packed Red Blood Cell Ratios in Trauma Resuscitation.",
+      "abstract": "",
+      "journal": "J Trauma Acute Care Surg",
+      "authors": [
+        "Risa EL",
+        "Loudon AM",
+        "Pawar OS",
+        "Moorman ML",
+        "Rushing AP",
+        "Ross JT"
+      ],
+      "date": "2026 Sep 28",
+      "doi": "10.1097/TA.0000000000005191",
+      "tier": "core",
+      "topics": [
+        "General Trauma",
+        "Haemorrhage",
+        "Prehospital"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "packed red blood cells",
+          "strength": "strong",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "trauma resuscitation",
+          "strength": "strong",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42804755/"
+    },
+    {
+      "pmid": "42804749",
+      "title": "Brief bedside intervention improves mental health follow-up among patients in a Level I trauma center.",
+      "abstract": "**BACKGROUND**: Each year, nearly 3 million Americans are hospitalized for traumatic injuries, and many experience significant psychological distress during recovery. Between 20% and 40% of trauma survivors develop post-traumatic stress disorder (PTSD) and/or depression within a year, leading to substantial individual and economic costs. Sustainable interventions that enhance continuity of care and reduce psychiatric morbidity are needed. Trauma centers are uniquely positioned to improve behavioral health trajectories post-injury. We examined the impact of a brief, single-session bedside intervention that aimed to reduce acute distress and promote mental health follow-up, which was delivered in the context of a stepped-care mental health model in a Level I trauma center.\n\n**METHODS**: We examined uptake of the brief bedside intervention, its impact on patients' participation in mental health follow-up screening, and psychiatric symptoms 30 days post-injury.\n\n**RESULTS**: Among 887 adult patients who screened positive for PTSD/depression risk, 683 (77.0%) were offered the brief bedside intervention, 555 (81.3%) of whom accepted. Of those, 452 (81.4%) received it; 103 (18.6%) were missed due to patient/provider unavailability or early discharge. Violent injury was significantly associated with receipt of the brief bedside intervention and engagement in the mental health follow-up screening. After adjusting for violent injury, patients who received the intervention were 84% more likely to engage in the 30-day mental health follow-up screening (odds ratio=1.84; 95% CI=1.19-2.85). In contrast, the intervention did not significantly improve follow-up screening rates for survivors of violent injury. Bedside intervention completion was not significantly associated with PTSD and depression symptoms at 30 days or with referrals.\n\n**CONCLUSIONS**: Bedside behavioral health interventions may enhance mental health follow-up screening rates for nonviolent trauma patients, but appear insufficient for victims of violence. These findings highlight a critical gap for violently injured patients, suggesting the need for integration with specialized, culturally responsive violence intervention programs.\n\n**LEVEL OF EVIDENCE**: Level II, therapeutic/care management type.",
+      "journal": "J Trauma Acute Care Surg",
+      "authors": [
+        "Gavrilova Y",
+        "Espeleta H",
+        "Wilson D",
+        "Skojec T",
+        "Mack M",
+        "Ridings LE",
+        "Davidson TM",
+        "deRoon-Cassini TA",
+        "Ruggiero KJ"
+      ],
+      "date": "2026 Sep 28",
+      "doi": "10.1001/jamasurg.2021.0131",
+      "tier": "core",
+      "topics": [
+        "General Trauma",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "strong",
+          "topic": "Systems/QI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42804749/"
+    },
+    {
+      "pmid": "42803783",
+      "title": "The burden of blast injuries on a level i trauma center: a comparative analysis of blast versus blunt trauma.",
+      "abstract": "**PURPOSE**: We hypothesized that blast trauma results in a greater institutional resource burden than blunt trauma.\n\n**METHODS**: This retrospective study compared blast trauma patients (N = 321) to blunt trauma patients (N = 9,172). A Propensity Score Matching (PSM) on Age, Sex and Injury Severity Score (ISS) was executed, yielding 1,481 matched blunt controls. The primary composite endpoint was Institutional Resource Burden, defined as requiring one or more of the following high-intensity resource metrics: prolonged hospital length of stay (LOS >7 days), ICU admission, or need for urgent surgical intervention (<6 hours from admission). Secondary endpoints included in-hospital mortality, shock-trauma room triage, any surgical intervention, multiple operations (\u2265 3), massive transfusion protocol (MTP) activation, requirement for mechanical ventilation, and ICU/hospital LOS.\n\n**RESULTS**: Blast patients demonstrated a higher rate of the primary composite institutional burden (78.2 vs. 51.2, OR = 3.42, 95% CI: 2.59 - 4.51, p <0.0001). Blast mechanism independently predicted shock-trauma room triage (OR = 10.60, 95% CI: 8.18 - 13.75, p <0.0001), urgent surgery (OR = 7.49, 95% CI: 5.73 - 9.80, p <0.0001), \u22653 operations (OR = 12.40, 95% CI: 8.59 - 17.90, p <0.0001), MTP activation (OR = 11.68, 95% CI: 6.48 - 21.05, p <0.0001), and ICU admission (OR = 5.54, 95% CI: 4.37 - 7.04, p <0.0001). These differences persisted across both ISS <16 and ISS \u226516 strata.\n\n**CONCLUSION**: Blast trauma imposes a significantly higher institutional resource burden than blunt trauma across all injury severity strata.",
+      "journal": "Eur J Trauma Emerg Surg",
+      "authors": [
+        "Quint E",
+        "Barsky G",
+        "Osyntsov A",
+        "Replyanski I",
+        "Shaked G"
+      ],
+      "date": "2026 Sep 28",
+      "doi": "10.1097/01.sla.0000206417.58432.48",
+      "tier": "core",
+      "topics": [
+        "General Trauma",
+        "Haemorrhage",
+        "Penetrating",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "blunt trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "injury severity",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "strong",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "massive transfusion",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "blast injury",
+          "strength": "strong",
+          "topic": "Penetrating"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42803783/"
+    },
+    {
+      "pmid": "42803444",
+      "title": "Female Sex and Age-Dependent Survival After Traumatic Shock.",
+      "abstract": "**BACKGROUND**: Whether female sex confers a survival advantage after traumatic shock remains uncertain, and the extent to which this association varies with age may clarify proposed hormonal mechanisms. We examined whether the association between female sex and in-hospital mortality varies across age strata.\n\n**STUDY DESIGN**: We conducted a retrospective cohort study of the National Trauma Data Bank (2019-2023), including adults aged \u226518 years with Injury Severity Score \u226516 and initial systolic blood pressure \u226490 mmHg. The primary endpoint was in-hospital mortality. Multivariable logistic regression evaluated female sex and a sex\u00d7age interaction across prespecified strata (18-44, 45-54, and \u226555 years), adjusting for injury severity, mechanism, comorbidity, insurance, race/ethnicity, and severe head, thoracic, and abdominal injury.\n\n**RESULTS**: Among 109,819 patients, female sex was associated with lower in-hospital mortality (adjusted OR 0.86; 95% CI, 0.82-0.89), with significant effect modification by age (\u03c7\u00b2[2]=7.69; p=0.0214). Adjusted mortality was lower among females at 18-44 years (15.6% vs 17.0%; difference -1.4 percentage points; p=0.0002), similar at 45-54 years (15.4% vs 16.5%; p=0.1141), and lower at \u226555 years (17.4% vs 20.4%; difference -3.0 percentage points; p<0.0001). The age-dependent association persisted in blunt-only and continuous-age analyses.\n\n**CONCLUSIONS**: Female sex was associated with lower mortality after severe injury with shock, with attenuation in the perimenopausal stratum and the largest advantage among patients aged \u226555 years. This age gradient is inconsistent with a simple endogenous-estrogen explanation. These findings are hypothesis-generating and warrant prospective investigation incorporating hormonal status, biological mediators, and care-limitation practices.",
+      "journal": "J Am Coll Surg",
+      "authors": [
+        "Akinyemi O",
+        "Elleissy-Nasef K",
+        "Nnorom S",
+        "Fasokun M",
+        "Mba-Madubuike I",
+        "Hazlewood K",
+        "Evans A",
+        "Hughes K",
+        "Cornwell E"
+      ],
+      "date": "2026 Sep 28",
+      "doi": "10.1097/XCS.0000000000002212",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "injury severity",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42803444/"
+    },
+    {
+      "pmid": "42802087",
+      "title": "Plastic and reconstructive surgery management of civilians and military injuries during the 2023-2024 Middle East conflict.",
+      "abstract": "**BACKGROUND**: On October 7, 2023, a large-scale regional attack amid an armed conflict in the Middle East, resulting in an unprecedented number of wounded civilians and soldiers. Medical centers faced the challenge of managing a large influx of trauma patients on the day of the attack and throughout the ensuing conflict. This study presents our plastic surgery team's experience in immediate and reconstructive care highlighting key lessons learned.\n\n**METHODS**: This retrospective study includes data on war-related injuries treated by our Plastic Surgery team from October 7, 2023, to June 1, 2024. Treatment varied by injury type and severity, with patients receiving care solely by plastic surgeons or within a multidisciplinary team. Data included demographics, injury types, wound management, complications, and microbiology.\n\n**RESULTS**: Seventy-two patients with 132 wounds were included, predominantly involving the extremities, with lower limbs most frequently affected (53%). Blast-related shrapnel injuries were the leading mechanism (68%). One-third of wounds demonstrated bacterial growth, predominantly Gram-negative organisms. While a subset of wounds healed by secondary intention, most required surgical intervention, often following a staged approach. Notably, immediate closure performed by non-plastic surgery teams was associated with a complication rate of 72%, compared to 18% and 17% for immediate and delayed closure performed by the plastic surgery team, respectively (p\u202f<\u202f0.001). Overall, early primary closure was associated with significantly higher complication rates compared to delayed closure or reconstructive techniques (p\u202f=\u202f0.025), further supporting the importance of specialist involvement in closure decision-making.\n\n**CONCLUSION**: Plastic surgery plays a pivotal role in the management of traumatic wounds, addressing both acute injuries and delayed reconstruction. Early involvement of plastic surgeons in the management of war-related injuries is essential for optimizing decision-making through careful wound assessment and appropriate timing of closure, ultimately improving outcomes.",
+      "journal": "Injury",
+      "authors": [
+        "Adelson D",
+        "Yanko R",
+        "Soriano A",
+        "Zaretski A",
+        "Kedar D",
+        "Singolda R",
+        "Lachiani M",
+        "Arad E",
+        "Leshem D",
+        "Barnea Y"
+      ],
+      "date": "2026 Sep 21",
+      "doi": "10.1016/j.injury.2026.113720",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "weak",
+          "topic": "General Trauma"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42802087/"
+    },
     {
       "pmid": "42800420",
       "title": "MicroRNAs regulate viability, longevity and extracellular matrix secretions of mesenchymal stem cell-derived chondrocytes in vitro.",
@@ -8180,411 +8401,6 @@
       "keyword_matches": [],
       "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/42675283/"
-    },
-    {
-      "pmid": "42674947",
-      "title": "Analysis of factors associated with emergency airway intervention after extubation in patients surgically treated for traumatic cervical spinal cord injury without planned prophylactic airway management.",
-      "abstract": "**BACKGROUND**: Patients with traumatic cervical spinal cord injury (tCSCI) often require airway management to ensure proper pulmonary hygiene and suctioning due to accumulation of secretions. This phenomenon is caused by the combined loss of sympathetic nerve activity, leading to increased bronchial tone and mucous secretion, and weakened expiratory muscles and reduced coughing function. However, the factors contributing to the need for emergency airway intervention following surgery for tCSCI are not fully elucidated.\n\n**AIMS**: The current study aimed to investigate the factors associated with the need for emergency airway intervention after postoperative extubation for tCSCI.\n\n**METHODS**: The medical records of patients who underwent surgery for tCSCI between January 2015 and October 2025 were reviewed. The patients who underwent planned prophylactic airway management were excluded. The primary outcome was the need for emergency airway intervention after extubation.\n\n**RESULTS**: Of the 221 patients included in this analysis, 51 (23%) required emergency airway intervention. In the multivariable logistic regression analysis, neurogenic shock, complete motor impairment, and vertebral artery injury were significantly associated with the need for emergency airway intervention. The rates of emergency airway intervention were 100%, 70%, 24%, and 3% for patients with all, two, one, or no factors, respectively.\n\n**CONCLUSIONS**: In patients with tCSCI who were extubated postoperatively without planned airway management, the presence of neurogenic shock, complete motor impairment, and vertebral artery injury may help stratify the risk of emergency airway intervention.",
-      "journal": "Injury",
-      "authors": [
-        "Ijuin S",
-        "Inoue A",
-        "Nishimura T",
-        "Tada K",
-        "Suga M",
-        "Kikuta S",
-        "Yagata Y",
-        "Matsuyama S",
-        "Ishihara S"
-      ],
-      "date": "2026 Aug 25",
-      "doi": "10.1016/j.injury.2026.113622",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Spine"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "traumatic",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "spinal cord injury",
-          "strength": "strong",
-          "topic": "Spine"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42674947/"
-    },
-    {
-      "pmid": "42673673",
-      "title": "Missing triage pain-score documentation and analgesic administration in adult trauma patients.",
-      "abstract": "**OBJECTIVES**: Missing triage pain documentation is often treated as incomplete data, but it may identify a clinically distinct group of trauma patients. We evaluated whether a missing triage activity pain score was associated with analgesic administration in the emergency department among adult trauma patients.\n\n**METHODS**: We performed a retrospective cohort study of adult trauma registry encounters at a Level I trauma center from May 1, 2022, through April 30, 2025. The exposure was a missing triage activity pain score. The primary outcome was receipt of any emergency department analgesia. Multivariable logistic regression adjusted for age, sex, Injury Severity Score, trauma activation level, and arrival mode. Modified Poisson regression estimated adjusted risk ratios.\n\n**RESULTS**: The cohort included 6095 encounters, of which 5706 had linked analgesia outcome data. The primary complete-case model included 4825 encounters. Analgesia was received by 63.3% of patients with documented pain scores and 36.5% with missing scores. Missing pain-score documentation was associated with lower receipt of any analgesia (adjusted odds ratio [aOR] 0.41, 95% CI 0.33-0.51; adjusted risk ratio [aRR] 0.66, 95% CI 0.59-0.74) and opioid analgesia (aOR 0.39, 95% CI 0.30-0.51; aRR 0.50, 95% CI 0.40-0.62); results were similar in multiple-imputation and time-restricted sensitivity analyses.\n\n**CONCLUSION**: Missing triage activity pain-score documentation was associated with substantially lower emergency department analgesic receipt among adult trauma patients. The observational design does not establish causation.",
-      "journal": "Am J Emerg Med",
-      "authors": [
-        "Hahn B",
-        "Farooqi N",
-        "Cohen E",
-        "Van Tuyl A",
-        "Nama A",
-        "Greenstein J"
-      ],
-      "date": "2026 Aug 25",
-      "doi": "10.1016/j.ajem.2026.08.042",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Prehospital",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "injury severity",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "trauma centre",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "trauma activation",
-          "strength": "weak",
-          "topic": "Prehospital"
-        },
-        {
-          "keyword": "trauma registry",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42673673/"
-    },
-    {
-      "pmid": "42673667",
-      "title": "Comparative performance of CRAMS, RTS, NISS, and ESI scores in predicting 24-hour mortality in adult multi-trauma patients: A prospective study.",
-      "abstract": "**BACKGROUND**: Accurate mortality prediction in trauma patients is essential for guiding clinical decisions and optimizing resource allocation. This study compared the predictive performance of four commonly used trauma assessment tools-CRAMS (Circulation, Respiration, Abdomen, Motor, Speech), Revised Trauma Score (RTS), New Injury Severity Score (NISS), and Emergency Severity Index (ESI)-in predicting 24-hour mortality among adult multi-trauma patients.\n\n**METHODS**: This prospective analytical study was conducted at the Emergency Department of Qazvin Trauma Hospital in Qazvin, Iran, from January to June 2025. A total of 265 adult multi-trauma patients were enrolled. Participants were selected via convenience sampling and were required to meet specific inclusion and exclusion criteria. Upon arrival at the hospital, patients were triaged and assessed using four scoring systems: CRAMS, RTS, NISS, and ESI. The primary outcome was 24-hour mortality. To compare the predictive performance of the scoring systems, Receiver Operating Characteristic (ROC) curves and DeLong's test were used.\n\n**RESULTS**: Among 265 patients (mean age: 38.29\u202f\u00b1\u202f12.99 years; 78.87% male), 16 (6.03%) died within 24\u202fh. All four scoring systems demonstrated significant predictive ability (p\u202f<\u202f0.001). The New Injury Severity Score (NISS) showed superior performance, with the highest area under the receiver operating characteristic (ROC) curve (AUC = 0.98, 95% CI: 0.96-1.00), sensitivity of 100%, and specificity of 92.77%. The CRAMS score ranked second, with an AUC of 0.96 (95% CI: 0.92-1.00), sensitivity of 93.75%, and specificity of 93.98%. The Revised Trauma Score (RTS) demonstrated moderate performance, with an AUC of 0.93 (95% CI: 0.84-1.00), sensitivity of 87.5%, and specificity of 97.59%. The Emergency Severity Index (ESI) showed the lowest performance, with an AUC of 0.88 (95% CI: 0.78-0.99), sensitivity of 87.5%, and specificity of 90.76%. Pairwise comparisons indicated that NISS significantly outperformed ESI (p\u202f=\u202f0.030), and CRAMS also performed better than ESI (p\u202f=\u202f0.018). Although NISS achieved 100% sensitivity in the present cohort, this finding should be interpreted within the context of the study population and warrants further evaluation in larger cohorts.\n\n**CONCLUSION**: All four scoring systems demonstrated significant ability to predict 24-hour mortality in multi-trauma patients. Among the evaluated tools, NISS showed the highest discriminatory performance in this cohort, followed by CRAMS and RTS. Trauma-specific scoring systems generally demonstrated better predictive performance than ESI for early mortality assessment. These findings support the use of trauma-specific assessment tools in emergency trauma care. At the same time, further studies in larger and more diverse populations are warranted to confirm their performance and generalizability.\n\n**CLINICAL APPLICATION**: Incorporating trauma-specific scoring systems into early emergency department assessment may improve risk stratification and support timely clinical decision-making in adult multi-trauma patients.",
-      "journal": "Injury",
-      "authors": [
-        "Saznaghi FH",
-        "Hakimi H",
-        "Alizadeh A",
-        "Hosseinigolafshani S"
-      ],
-      "date": "2026 Aug 19",
-      "doi": "10.1016/j.injury.2026.113605",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "injury severity",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42673667/"
-    },
-    {
-      "pmid": "42673666",
-      "title": "Pre-hospital paediatric preventable injuries: Who, what, when and where?",
-      "abstract": "**INTRODUCTION**: Trauma remains the leading cause of mortality among children over one year of age in the United Kingdom (UK). Accidental injuries and violence represent some of the most preventable contributors to childhood morbidity and mortality. This study aimed to analyse data from a physician-led, urban pre-hospital service to identify paediatric populations at risk of preventable injury, characterise common mechanisms of injury, and explore temporal and geographic trends to inform targeted prevention strategies.\n\n**STUDY DESIGN**: A retrospective review was conducted of paediatric patients (aged \u226416 years) attended by a physician-led pre-hospital trauma service between January 2017 and June 2022. Data collected included age, sex, time of day, location of incident and mechanism of injury. Cases were divided into three subgroups representing potentially preventable injuries: Falls from height (>2\u202fm), penetrating trauma, and road traffic collisions (RTCs). Regression analysis was performed to assess for any association between injury and index of deprivation.\n\n**RESULTS**: 782 patients met inclusion criteria. 607 (78%) patients sustained injuries classified as potentially preventable, the majority of which involved male patients (n\u202f=\u202f483, 79.6%). Adolescents aged 12-16 years accounted for the highest proportion of penetrating trauma (n\u202f=\u202f279, 96%) and RTCs (n\u202f=\u202f92, 54%), whist falls from height were seen most frequently in pre-school children aged 0-4 years (n\u202f=\u202f73, 50%). A significant association was observed between rate of preventable injury and level of socioeconomic deprivation.\n\n**CONCLUSION**: This study identified distinct patterns in paediatric trauma presentations. Pre-school aged children were disproportionately affected by falls from height, whereas school-aged children were more frequently injured through penetrating trauma and RTCs, particularly in the early evening period following school hours. Socioeconomic deprivation was strongly associated with increased risk of all types of preventable injury. These findings underscore the need for targeted, multi-agency interventions, including collaboration with injury prevention programmes, police, and public health bodies to reduce the burden of preventable paediatric trauma.",
-      "journal": "Injury",
-      "authors": [
-        "Kocierz L",
-        "Bird F",
-        "Henry CL",
-        "Strutt M",
-        "Dobbie A",
-        "Lockey DJ"
-      ],
-      "date": "2026 Aug 19",
-      "doi": "10.1016/j.injury.2026.113611",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Paediatric",
-        "Penetrating",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "penetrating trauma",
-          "strength": "weak",
-          "topic": "Penetrating"
-        },
-        {
-          "keyword": "paediatric trauma",
-          "strength": "weak",
-          "topic": "Paediatric"
-        },
-        {
-          "keyword": "injury prevention",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42673666/"
-    },
-    {
-      "pmid": "42673665",
-      "title": "Anomalous occluded vessels and the \"Corona Mortis\": A reappraisal of nomenclature origins, anatomical variations, and surgical risks.",
-      "abstract": "**BACKGROUND**: The \"corona mortis\" (CMOR) typically refers to arterial or venous anastomotic branches located posterior to the superior ramus of the pubis within the Retzius space, connecting the obturator vascular system to the extrailiac or subabdominal vascular system. This anatomical variation is closely associated with inguinal hernia repair, pelvic and acetabular surgery, pelvic tumor lymph node dissection, and pelvic trauma hemorrhage. However, its nomenclature origin, terminological boundaries, and actual bleeding risk have long been controversial across disciplines.\n\n**OBJECTIVE**: To establish standardized terminology, trace the nomenclature origins of CMOR, review its anatomical variations and incidence, summarize key imaging identification features, and propose actionable surgical risk stratification and management recommendations.\n\n**MATERIALS AND METHODS**: We conducted a narrative review by retrieving publicly published anatomical, imaging, and clinical studies and systematic reviews from 1996 to 2025, integrating data from representative autopsies, CTA/enhanced CT, and intraoperative observations.\n\n**RESULTS**: Systematic reviews indicate that CMOR is present in approximately half of hemipelves, with venous variants significantly outnumbering arterial ones. Variations in CMOR definitions and the scope of \"abnormal/accessory obturator vessels\" included across studies account for the wide prevalence range. Recent large-scale CTA studies show detection rates exceeding 70% for at least one arterial or venous CMOR, indicating high imaging detection potential. Concurrently, clinical studies using certain pelvic approaches demonstrate that CMOR-related major hemorrhage is not an uncontrollable event when standardized exposure and prophylactic management are implemented.\n\n**CONCLUSION**: CMOR is not an \"inevitably fatal\" anatomical trap. Its risk depends on vessel caliber, location, whether it forms a true external iliac-obturator system communication, and the surgical scenario (e.g., tension, stapler/suture use, sharp fracture edges). It is recommended to define \"CMOR\" specifically as an external iliac (or infra-abdominal)-obturator artery system communicating vessel crossing the superior ramus of the pubis. Imaging and intraoperative documentation of arterial and venous attributes, vessel caliber, and distance from the symphysis pubis should be performed to support risk stratification and individualized surgical strategies.",
-      "journal": "Injury",
-      "authors": [
-        "Song X",
-        "Wang F",
-        "Zhang Z",
-        "Zhang Q",
-        "Dong J",
-        "Wang J",
-        "Wang J",
-        "Shi G",
-        "Lei X"
-      ],
-      "date": "2026 Aug 26",
-      "doi": "10.1016/j.injury.2026.113635",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42673665/"
-    },
-    {
-      "pmid": "42673664",
-      "title": "External fixation for displaced intra-articular calcaneal fractures: A case series.",
-      "abstract": "Intra-articular calcaneus fractures (CF) remain challenging. Surgery aims to restore subtalar joint congruence and calcaneus width, height, shape, and alignment, thereby avoiding medial and lateral impingement and enabling patients to resume a normal lifestyle. We retrospectively evaluated 32 patients (35 fractures) with a minimum displacement of 2\u202fmm of the posterior facet and disruption of the calcaneus length, width, and height. Treatment involved a minimally invasive sinus tarsi approach and definitive stabilization with an external fixator (EF). The mean time to partial weight-bearing was 32 days, and the EF was removed at an average of 92 days. At final follow-up (mean 22.2 months), the mean American Orthopaedic Foot and Ankle Society (AOFAS) score was 75.4. Two patients developed superficial pin-tract infections (5.7%), both resolved without further sequelae. No patient experienced deep infection or wound-healing complications. Based on these findings, EF appears to be a valid alternative to open reduction and internal fixation, allowing adequate reduction, early mobilization, and acceptable functional outcomes with minimal complications.",
-      "journal": "Injury",
-      "authors": [
-        "Morelli F",
-        "Caperna L",
-        "Pepino M",
-        "Iorio R",
-        "Maffulli N"
-      ],
-      "date": "2026 Aug 26",
-      "doi": "10.1016/j.injury.2026.113633",
-      "tier": "filtered",
-      "topics": [],
-      "keyword_matches": [],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42673664/"
-    },
-    {
-      "pmid": "42673663",
-      "title": "Splenic artery embolization versus surgery for blunt splenic injuries: a systematic review, meta-analysis and trial sequential analysis stratified by hemodynamic status.",
-      "abstract": "**BACKGROUND**: Surgical management of blunt splenic injuries is associated with long hospital stays and high risk of postoperative infections and thromboembolism. Splenic artery embolization (SAE) has emerged as a valuable alternative to preserve the spleen and limit complications in hemodynamically stable patients with moderate and severe injuries. However, how SAE compares to surgery in both hemodynamically stable and unstable populations is still debated, as international trauma guidelines advocate for primary open surgery in unstable cohorts. Therefore, we conducted a systematic review and meta-analysis to evaluate the role of endovascular management across hemodynamic statuses.\n\n**METHODS**: We searched PubMed, Embase and Cochrane for randomized and nonrandomized studies comparing surgical management to SAE in adult patients with blunt splenic injuries. Risk ratios and mean differences with 95% confidence intervals were calculated for categorical and continuous outcomes, respectively. We conducted a trial sequential analysis to confirm the robustness of our findings.\n\n**RESULTS**: We analyzed 33 148 patients, of which 9593 were initially treated with SAE. Compared to surgery, SAE was associated with significantly lower mortality (RR: 0.43; 95% CI: 0.25-0.72; p\u202f=\u202f0.004). SAE also reduced the length of stay in the hospital and in the intensive care unit (MD: -3.1; p\u202f=\u202f0.015 and MD: -4; p\u202f=\u202f0.024, respectively). The risk of thromboembolism was significantly reduced following SAE (RR: 0.58; 95% CI: 0.47-0.70; p\u202f=\u202f0.0008). There was no difference between groups in terms of additional complications. In a subgroup analysis of hemodynamically unstable patients, SAE maintained a significant survival benefit (RR: 0.47; 95% CI: 0.29-0.75; p\u202f=\u202f0.014). Trial sequential analysis confirmed the robustness of our findings in terms of mortality.\n\n**CONCLUSION**: Our study is limited by potential confounding by indication, heterogeneous populations, and inclusion of observational studies. However, mortality findings remained stable following sensitivity and trial sequential analysis. Therefore, SAE appears to be a valuable alternative to surgery in adult patients with blunt splenic injuries, irrespective of hemodynamic status. This study provides a rationale for expanding the use of SAE in daily practice and may help inform upcoming clinical guidelines.",
-      "journal": "Injury",
-      "authors": [
-        "Bravin S",
-        "Menegat ALRS",
-        "Menegat BLRS",
-        "Mir\u00f3n AM",
-        "Wiederkehr H",
-        "Garza EG",
-        "Melo SL"
-      ],
-      "date": "2026 Aug 27",
-      "doi": "10.1016/j.injury.2026.113612",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42673663/"
-    },
-    {
-      "pmid": "42671591",
-      "title": "Long-term radiological and clinical outcomes after surgical treatment of non-union: a ten-year follow-up study.",
-      "abstract": "**PURPOSE**: Non-unions are a major challenge in trauma surgery. They are known to affect patients' lives for years after the initial trauma. Nevertheless, most studies only examine the first two years after treatment. The question what the long-term results look like ten years after surgery was posed in light of observations made in everyday clinical practice. To answer this, our study was designed to examine all patients who underwent non-union surgery in our department ten years ago.\n\n**METHODS**: All patients who underwent surgery between July 2014 and October 2015 were invited to participate in the study. During a one-site appointment, an X-ray image was taken, which was then used to assess consolidation. The patients underwent a physical examination and answered a questionnaire, covering topics such as pain on a visual analogue scale (VAS) and overall quality of life with the short-form 12 (SF-12).\n\n**RESULTS**: A total of 54 patients were included in the study. The median follow-up period was 122 months (IQR: 118-124). After 10 years 88.9% patients showed osseus consolidation with a median Lane-Sandhu-Score (LSS) of 4 (IQR: 3-4). The Wilcoxon signed-rank test revealed a significant difference compared to 24 months postoperatively (Z = 4.716, p < 0.001). The difference in the consolidation showed a marginally significant result in the McNemar test with p = 0.063. A total of 51 patients (94.4%) reported being satisfied with the overall treatment. Patients had an average SF-12 mental score of 53.14 \u00b1 10.13 and an SF-12 physical score of 38.93 \u00b1 12.71 after ten years. Compared to the values after 12 months postoperatively, stable values without significant changes were observed.\n\n**CONCLUSION**: The study showed that bone remodeling can still be observed many years after surgical treatment of non-union. Furthermore, it was shown that the clinical results remain stable even after ten years.\n\n**CLINICAL TRAIL NUMBER**: DRKS00037034, registered 12.06.2025.",
-      "journal": "Eur J Trauma Emerg Surg",
-      "authors": [
-        "B\u00f6pple JC",
-        "Berger J",
-        "Ferbert T",
-        "Bewersdorf TN",
-        "Schmidmaier G",
-        "Findeisen S"
-      ],
-      "date": "2026 Aug 31",
-      "doi": "10.1302/2046-3758.86.BJR-2018-0344.R1",
-      "tier": "core",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42671591/"
-    },
-    {
-      "pmid": "42671572",
-      "title": "Artificial intelligence for predicting 30-day mortality after emergency laparotomy.",
-      "abstract": "**PURPOSE**: Accurate pre-operative risk prediction in emergency laparotomy (EL) is essential for appropriate resource allocation and improve patient outcomes. This study aimed to establish the accuracy of an artificial intelligence (AI) model in predicting 30-day mortality after EL using a national dataset.\n\n**METHODS**: Data was extracted from the Australian and New Zealand Emergency Laparotomy Audit-Quality Improvement (ANZELA-QI) database from 1 July 2018 to 24 July 2023. AI models were created employing multilayer perceptron (MLP) and radial basis function (RBF) architectures. Extended AI models were developed using all available pre-operative variables and simplified AI models were developed using statistically significant variables identified through univariate analysis. We assessed the performance of AI models with that of a multivariate logistic regression (LR) and the UK-based National Emergency Laparotomy Audit (NELA) models using the area under the receiver operator characteristic curve (AUROC).\n\n**RESULTS**: Data from 8293 ELs were included in the model and were randomly divided into a training dataset of 6619 (80%) and a testing dataset of 1674 (20%). There were 537 (6.5%) deaths 30\u2009days after EL. In the testing dataset, the NELA model performed the best (AUROC 0.836), followed by the multivariate LR model (0.824), MLP simplified (0.817). MLP extended (0.802), RBF extended (0.719), and RBF simplified (0.672). Pairwise comparisons showed no significant difference in discrimination among the NELA, multivariate LR and MLP models.\n\n**CONCLUSION**: Pre-operative MLP and multivariate LR models demonstrated comparable performance to the NELA model in predicting 30-day mortality after EL.",
-      "journal": "Eur J Trauma Emerg Surg",
-      "authors": [
-        "Bedrikovetski S",
-        "Murshed I",
-        "Seow W",
-        "Bunjo Z",
-        "De Fontgalland JS",
-        "Traeger L",
-        "Vather R"
-      ],
-      "date": "2026 Aug 31",
-      "doi": "10.1016/j.sipas.2023.100225",
-      "tier": "core",
-      "topics": [
-        "Procedures"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "emergency laparotomy",
-          "strength": "strong",
-          "topic": "Procedures"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42671572/"
-    },
-    {
-      "pmid": "42671542",
-      "title": "Predicting postoperative course in Fournier's gangrene surgery: evaluation of the E-PASS score in a single-center retrospective study.",
-      "abstract": "**BACKGROUND**: The E-PASS scoring system, which incorporates preoperative data and surgical stress factors, may provide a reliable risk classification for predicting mortality risk in patients with Fournier's gangrene. This study aimed to investigate the value of the E-PASS score in predicting mortality in patients with Fournier's gangrene.\n\n**METHODS**: The study included 41 patients who were diagnosed with FG clinically and underwent surgery. Preoperative demographic and clinical data, laboratory values, FGSI, and E-PASS scores were recorded. The patients were divided into two groups: 8 (19.5%) patients who developed mortality and 33 (80.5%) patients who were discharged without mortality. Demographic, clinical, and laboratory data, as well as FGSI and E-PASS scores, were compared between the groups.\n\n**RESULTS**: In the mortality group, CRP, serum creatinine levels, FGSI, E-PASS PRS, and E-PASS CRS scores were observed to be significantly higher, while serum albumin and hematocrit levels were lower compared to the other group (respectively, p\u2009=\u20090.020, p\u2009=\u20090.001, p\u2009<\u20090.001, p\u2009<\u20090.001, p\u2009<\u20090.001, p\u2009=\u20090.001, p\u2009<\u20090.001). FGSI, E-PASS CRS, CRP, and serum albumin values were found to have diagnostic value in predicting mortality. The cut-off values were determined as 7.5 for FGSI, 0.55 for E-PASS CRS, 186.25 for CRP, and 2.92 for albumin.\n\n**CONCLUSION**: Our findings show that E-PASS can provide additional value to existing prognostic assessment methods in Fournier's gangrene. The preoperative E-PASS PRS component, used alongside FGSI, may contribute to early identification of high-risk patients, while the postoperative CRS may assist in risk-adjusted postoperative management planning.",
-      "journal": "Eur J Trauma Emerg Surg",
-      "authors": [
-        "Gercek O",
-        "Senkol M",
-        "Ulucak MA",
-        "Yazar VM"
-      ],
-      "date": "2026 Aug 31",
-      "doi": "10.1007/s13304-025-02145-w",
-      "tier": "core",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42671542/"
-    },
-    {
-      "pmid": "42671473",
-      "title": "Thoracoscopic internal fixation, open surgical internal fixation, and conservative treatment of rib fractures: differences in postoperative rehabilitation and chest volume (a randomized controlled trial).",
-      "abstract": "**BACKGROUND**: Currently, the standard treatment for multiple rib fractures is still under debate. This study explores the efficacy of three treatments (thoracoscopic internal fixation, open surgical internal fixation and conservative treatment) for multiple rib fractures and their influence on thoracic cavity volume and postoperative rehabilitation.\n\n**METHODS**: Patients with multiple rib fractures admitted to Weifang People's Hospital of Shandong Province from March 2019 to March 2021 were enrolled in this study. The thoracic volume changes before and after treatment were measured by three-dimensional computed tomography (CT) reconstruction. Twenty-seven patients in the open operation group underwent internal fixation with the rib cage, and 24 patients in the non-internal fixation group underwent external fixation with the chest band. The recovery of multiple rib fractures was evaluated by comparing the difference in thoracic volume before and after treatment, the incidence of related complications and the Comprehensive Assessment of Generic Quality of Life Inventory-74 (GQOLI-74) score one month after the operation.\n\n**RESULTS**: After 12 months of follow-up, thoracic volume was significantly different between the thoracoscopic and open fixation groups (P\u2009<\u20090.001). One month after the thoracoscopic internal fixation of rib fractures, the scores of physical function, psychological function and social function were better than those in the open operation internal fixation group and the chest band external fixation group and the differences were statistically significant (P\u2009<\u20090.001).\n\n**CONCLUSIONS**: Compared with conservative treatment, both surgeries restore thoracic volume and improve early quality of life. Thoracoscopic fixation causes less trauma and better short-term rehabilitation than open surgery, with equivalent thoracic recovery and complication rates.",
-      "journal": "Eur J Trauma Emerg Surg",
-      "authors": [
-        "Li T",
-        "Zhao P",
-        "Li W",
-        "Liu B"
-      ],
-      "date": "2026 Aug 31",
-      "doi": "10.1186/s13017-025-00581-y",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "Thoracic"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "rib fracture",
-          "strength": "strong",
-          "topic": "Thoracic"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42671473/"
-    },
-    {
-      "pmid": "42671261",
-      "title": "Long-Term Mortality and Functional Outcomes After Extracorporeal Membrane Oxygenation in Critically Ill Adults: A Systematic Review and Meta-Analysis.",
-      "abstract": "**OBJECTIVES**: To evaluate long-term all-cause mortality and functional outcomes among critically ill adults treated with extracorporeal membrane oxygenation (ECMO), including differences by ECMO modality and clinical indication.\n\n**DATA SOURCES**: Ovid MEDLINE, Embase, Emcare, Central Register of Controlled Trials, and Scopus were searched to March 2025.\n\n**STUDY SELECTION**: Randomized controlled trials and observational studies reporting mortality or functional outcomes at or beyond 6 months in adults receiving ECMO were eligible for inclusion.\n\n**DATA EXTRACTION**: A systematic review and meta-analysis were conducted in accordance with Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) 2020 guidelines and prospectively registered with PROSPERO (CRD420251002639). Two reviewers independently extracted data. Mortality was pooled using random-effects meta-analysis with 95% CIs. Prespecified subgroup analyses examined ECMO modality and clinical indication. Sensitivity analyses assessed the impact of missing outcome data. Functional outcomes were narratively synthesized due to heterogeneity.\n\n**DATA SYNTHESIS**: A total of 163 studies including 78,053 adults met inclusion criteria, with 59,454 adults in 156 of 163 studies (95.7%) contributing to mortality meta-analyses. At 1 year, pooled mortality was 37.2% (95% CI, 30.0-45.1%) in 13 of 33 venovenous ECMO studies (39.4%), 55.2% (95% CI, 50.2-60.1%) in 42 of 55 venoarterial ECMO studies (76.4%), and 74.4% (95% CI, 71.4-77.2%) in 14 of 24 (58.3%) extracorporeal cardiopulmonary resuscitation (ECPR) studies. Functional outcomes were reported in 38 of 163 studies (23.3%) in 7,876 survivors and were assessed using various instruments, most commonly the Cerebral Performance Category in 20 of 38 studies (52.6%), the World Health Organization Disability Assessment Schedule 2.0 in five of 38 studies (13.2%), and the modified Rankin Scale in five of 38 studies (13.2%).\n\n**CONCLUSIONS**: Long-term mortality following ECMO differed substantially by ECMO modality, ranging from 37.2% among adults receiving venovenous ECMO to 74.4% among adults receiving ECPR. Functional outcomes were inconsistently reported, limiting the understanding of functional recovery among survivors. Standardized reporting and benchmarking are required to better inform long-term prognosis, patient selection, and factors that may improve functional recovery after ECMO.",
-      "journal": "Crit Care Med",
-      "authors": [
-        "Stebbins KT",
-        "Yap CY",
-        "Segun-Beloved L",
-        "Hodgson AM",
-        "Charles-Nelson A",
-        "Serpa Neto A",
-        "Banerjee J",
-        "Meredith L",
-        "Romero L",
-        "Papanikolaou V",
-        "Orman Z",
-        "Hodgson CL",
-        "Higgins AM"
-      ],
-      "date": "2026 Aug 31",
-      "doi": "10.1097/CCM.0000000000007318",
-      "tier": "filtered",
-      "topics": [
-        "Cardiac Arrest"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "ECMO",
-          "strength": "weak",
-          "topic": "Cardiac Arrest"
-        },
-        {
-          "keyword": "ECPR",
-          "strength": "weak",
-          "topic": "Cardiac Arrest"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42671261/"
     }
   ]
 }
