@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-29T00:04:08.977404Z",
-  "total_articles": 221,
+  "generated": "2026-09-29T23:17:02.061372Z",
+  "total_articles": 234,
   "all_topics": [
     "Abdominal",
     "Burns",
@@ -378,6 +378,385 @@
     "Cochrane Database Syst Rev": "filtered"
   },
   "articles": [
+    {
+      "pmid": "42809661",
+      "title": "Time-Dependent Effects of Inotropic Exposure During Venoarterial Extracorporeal Membrane Oxygenation Support on the Probability of Extracorporeal Membrane Oxygenation Weaning Failure.",
+      "abstract": "**OBJECTIVES**: During venoarterial extracorporeal membrane oxygenation (VA ECMO), organ perfusion no longer entirely depends on native cardiac output, which may reduce the therapeutic advantage of inotropic drugs relative to their risks. We hypothesized that, in this setting, higher cumulative inotropic exposure would be associated with impaired cardiac recovery.\n\n**DESIGN**: Observational cohort study on the effects of longitudinal inotropic exposure during VA ECMO support. Temporal changes in inotropic support during VA ECMO support were evaluated. Cumulative inotropic exposure per day during VA ECMO support was calculated using the area under the curve of a standardized inotropic score. These cumulative inotropic scores were associated with the risk of ECMO weaning failure up to 30 days (a composite of death, ongoing need for ECMO support, or the need for heart replacement therapy), mortality, and complications, using joint modeling techniques.\n\n**SETTING**: Six hospitals in the Netherlands.\n\n**PATIENTS**: Adult patients with severe cardiogenic shock (CS) receiving VA ECMO support between 2018 and 2024.\n\n**INTERVENTIONS**: None.\n\n**MEASUREMENTS AND MAIN RESULTS**: Out of 440 patients with various causes of CS, 235 patients (53.4%) developed ECMO weaning failure. Inotropic support remained largely unchanged in the days following VA ECMO initiation. Adjusted joint models showed that a higher cumulative inotropic exposure during VA ECMO support was associated with an increased risk for ECMO weaning failure (hazard ratio [HR], 1.04; 95% CI, 1.00-1.07), 30-day mortality (HR, 1.04; 95% CI, 1.01-1.08), arrhythmias (HR, 1.05; 95% CI, 1.01-1.08), and protracted lactate clearance (HR, 0.96; 95% CI, 0.92-0.99).\n\n**CONCLUSIONS**: In patients requiring VA ECMO support for refractory CS, inotropic support is often maintained at similar levels after ECMO initiation. Higher cumulative inotropic exposure was associated with an increased risk for ECMO weaning failure. Prospective studies are needed to investigate whether inotropes can be tapered or even stopped and whether such a strategy could improve cardiac recovery.",
+      "journal": "Crit Care Med",
+      "authors": [
+        "van Steenwijk MPJ",
+        "Pladet LCA",
+        "van Esch A",
+        "Shi HJ",
+        "Donker DW",
+        "Taverne Y",
+        "Bunge JJH",
+        "Elzo Kraemer CV",
+        "Maas JJ",
+        "Montenij LJ",
+        "Otterspoor LC",
+        "Scholten E",
+        "van Koppenhagen L",
+        "van Rosmalen J",
+        "Gommers D",
+        "Constantinescu AA",
+        "de Boer RA",
+        "M\u00f8ller JE",
+        "Rizopoulos D",
+        "Meuwese CL"
+      ],
+      "date": "2026 Sep 25",
+      "doi": "10.1097/CCM.0000000000007338",
+      "tier": "filtered",
+      "topics": [
+        "Cardiac Arrest"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "ECMO",
+          "strength": "weak",
+          "topic": "Cardiac Arrest"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42809661/"
+    },
+    {
+      "pmid": "42809516",
+      "title": "The cost-effectiveness and health equity of prehospital treatment strategies for out-of-hospital cardiac arrest patients: a systematic review.",
+      "abstract": "**OBJECTIVES**: Out-of-hospital cardiac arrest (OHCA) remains a major public health challenge, associated with substantial mortality and significant costs for health care system. This systematic review aimed to (i) synthesise economic evaluations of prehospital treatment strategies for OHCA from ambulance attendance through to hospital discharge; (ii) assess the methodological quality and reporting of the included studies; and (iii) evaluate the reporting of health equity-relevant data.\n\n**METHODS**: We searched Medline, Embase, Scopus, EconLit, and CINAHL databases for records from database inception to 12 June 2026. The QHES and CHEERS checklists were used to assess the quality and reporting standards of included studies, and the review was reported according to the PRISMA checklist. The completeness of reporting health equity outcomes was reviewed using the PROGRESS (Place of residence, Race, Occupation, Gender, Religion, Education, Socioeconomic status and Social capital) - Plus framework.\n\n**RESULTS**: Ten economic evaluations met eligibility criteria. Most studies were cost-utility analyses (n\u2009=\u20098, 80%) and used Markov models (n\u2009=\u20096, 60%). Most evaluations were 'very good quality' ( \n\n**CONCLUSIONS**: Most strategies that increased prehospital treatment intensity, avoided futile transport, or enabled earlier advanced care were cost-effective; however, the certainty of evidence, particularly for sub-groups, was limited by heterogeneous comparators and sparse equity reporting.",
+      "journal": "Prehosp Emerg Care",
+      "authors": [
+        "Jang K",
+        "Morton RL",
+        "Dennis M",
+        "Nikolovski J",
+        "Zhan X",
+        "Ke Y",
+        "Burns B",
+        "Tran AD"
+      ],
+      "date": "2026 Sep 29",
+      "doi": "10.1080/10903127.2026.2741269",
+      "tier": "filtered",
+      "topics": [
+        "Prehospital"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "prehospital",
+          "strength": "strong",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42809516/"
+    },
+    {
+      "pmid": "42809474",
+      "title": "Deviations From Recommended Drug Dosing in the Prehospital Treatment of Pediatric Patients.",
+      "abstract": "**OBJECTIVES**: Pediatric medication safety is a priority area for research and quality improvement in emergency medical services (EMS). While medication errors may occur due to active failures, latent drivers of deviations from recommended dosages (DRD) are incompletely understood. We sought to understand the prevalence of DRDs and the factors associated with them.\n\n**METHODS**: We performed a retrospective cohort study of patients included in a quality improvement registry for prehospital pediatric medication safety. We included nine EMS agencies with uniform patient care protocols providing 9-1-1 services to the metropolitan area of a midsized city in the U.S. Our primary outcome was the prevalence of DRDs (doses \u226520% above or below protocolized doses). We identified DRDs by checking weight-based doses against weight-based and absolute thresholds. We assessed the prevalence of DRDs by medication, age, clinician impression, and administration route. We assessed associations between these factors and DRDs with logistic regression, then performed adjusted analyses with generalized linear mixed models. We assessed the relationship between weight estimation error and DRDs with a linear mixed model. We explored the potential effect of fixed-dosage formulations, full-vial doses, and volumetric limits of intranasal administration on DRDs.\n\n**RESULTS**: We analyzed 386 medication administrations for 240 patients. The overall prevalence of DRDs was 46.4% (n\u2009=\u2009179), and most were underdoses (n\u2009=\u2009143, 79.9%). Among common medications, the number and prevalence of DRDs were: ondansetron (n\u2009=\u200929, 85.3%), midazolam (n\u2009=\u200935, 50.0%), fentanyl (n\u2009=\u200955, 45.5%), and epinephrine (n\u2009=\u200926, 44.8%). The DRDs were most common via the intranasal route (n\u2009=\u200962, 69.7%) and among school-aged children (n\u2009=\u200950, 55.6%). Ondansetron (aOR 36.9, 95%CI 6.3-217.6) and the intranasal route (aOR 7.3, 95%CI 2.9-18.6) were associated with higher odds of DRDs. We found no association between weight estimation error and DRDs. Exclusion of potential fixed-dosage formulations and full-vial doses was associated with fewer DRDs (81.6% vs. 42.5%). Only 2% of intranasal fentanyl DRDs could be explained by volumetric limits.\n\n**CONCLUSIONS**: We observed DRDs to be common in the prehospital treatment of children, and they varied by medication and route. Possible latent sources of error include protocol design, medication formularies, and heuristics. The clinical significance of DRDs is uncertain.",
+      "journal": "Prehosp Emerg Care",
+      "authors": [
+        "Spigner MF",
+        "Butterbaugh MW",
+        "Genthe NA",
+        "Brown AM",
+        "Lohmeier M",
+        "Tschautscher C",
+        "Ramgopal S",
+        "Yank M",
+        "Barthels ML",
+        "Raupp GJ",
+        "Stearns J",
+        "Kim MK"
+      ],
+      "date": "2026 Sep 29",
+      "doi": "10.1080/10903127.2026.2740143",
+      "tier": "filtered",
+      "topics": [
+        "Prehospital"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "prehospital",
+          "strength": "strong",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42809474/"
+    },
+    {
+      "pmid": "42809110",
+      "title": "The utilisation of international consensus definitions of the disease polytrauma: a systematic review.",
+      "abstract": "**PURPOSE**: The disease of polytrauma is associated with significant healthcare burden and poor prognosis. The validated Newcastle and the Berlin consensus definitions of polytrauma have been proposed more than a decade ago for standardising clinical, scientific and advocacy related communications. This systematic review aims to evaluate the uptake of the Newcastle and the Berlin definitions of polytrauma since their introduction.\n\n**METHODS**: This systematic review (PROSPERO: CRD420251119950) adhered to the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines. A literature search of original research studies reported in English on polytrauma patients from 1st January 2015 to 31st of December 2025 was conducted, using Medline, Embase, Scopus, Pubmed, CINAHL and CENTRAL. Specific focus was on the utilisation of the Berlin and the Newcastle definitions, but all explicitly stated definitions of polytrauma were analysed.\n\n**RESULTS**: A total of 2354 studies were identified through initial literature search. 1491 studies were excluded after screening by title and abstract. The full text review of 863 studies was performed and resulted in 88 eligible studies after the exclusion of 732 studies with no explicit definitions of polytrauma and 43 studies on non-human subjects. Ten studies (11.4%) used the Berlin definition of polytrauma, and six studies (6.8%) reported using the Newcastle definition. The consensus definitions were reported the most in 2024, with 2 studies using Newcastle and 3 studies using the Berlin definition of polytrauma.\n\n**CONCLUSIONS**: Despite the establishment and utility in accurately representing the polytrauma population, the Newcastle and the Berlin definitions of polytrauma remain under-utilised in the current literature.",
+      "journal": "Eur J Trauma Emerg Surg",
+      "authors": [
+        "Kim SY",
+        "Xu Z",
+        "Balogh ZJ"
+      ],
+      "date": "2026 Sep 29",
+      "doi": "10.1016/j.injury.2009.10.032",
+      "tier": "core",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "polytrauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42809110/"
+    },
+    {
+      "pmid": "42809109",
+      "title": "Adhesive small bowel obstruction in the virgin abdomen: comparable phenotype, divergent management.",
+      "abstract": "**BACKGROUND**: In small bowel obstruction (SBO), the absence of prior abdominal surgery is commonly interpreted as a marker of higher-risk pathology and is often associated with a lower threshold for early operative intervention. Whether this assumption reflects differences in disease phenotype or decision-making remains uncertain.\n\n**METHODS**: This post hoc analysis of a prospective, multicenter cohort study included consecutive adults with CT-confirmed mechanical SBO. Analyses were restricted to patients with adhesion-related SBO to enable comparison between virgin abdomen adhesive SBO (vaASBO) and prior-surgery adhesive SBO (psASBO). Clinical presentation, imaging findings, management strategies, and 60-day outcomes, including patient-reported outcome measures (PROMs), were evaluated. Analyses were associative and unadjusted.\n\n**RESULTS**: Among 1,737 patients, 417 (24.0%) had no prior abdominal surgery; adhesions accounted for 30% of cases in this subgroup. The adhesion-restricted cohort included 982 patients, of whom 127 (12.9%) had vaASBO. Clinical and radiological features were similar between groups; however, management differed substantially. Patients with vaASBO had higher rates of direct-to-surgery (+\u200915.0% points), lower use of water-soluble contrast (-\u200919.1% points), and higher rates of nonoperative management (NOM) failure (+\u200925.1% points). Among patients undergoing surgery, complication rates were lower in vaASBO (9.2% vs. 23.3%), with similar rates of major complications, mortality, and length of stay. Among patients successfully managed nonoperatively, clinical outcomes and PROMs were comparable.\n\n**CONCLUSION**: In an adhesion-restricted cohort, patients with and without prior abdominal surgery had comparable clinical phenotype, yet management diverged. These findings suggest that surgical history is associated with treatment selection beyond measured markers of disease severity. A CT-guided, risk-stratified approach may provide a more consistent and reproducible basis for decision-making and reduce unnecessary surgery without compromising clinical or patient-reported outcomes.",
+      "journal": "Eur J Trauma Emerg Surg",
+      "authors": [
+        "Cioffi SPB",
+        "Martinez-Casas I",
+        "Marrano E",
+        "Cimbanassi S",
+        "Cimino MM",
+        "Kurihara H",
+        "Mohseni S",
+        "Kaplan LJ",
+        "Lee MJ",
+        "Bass GA"
+      ],
+      "date": "2026 Sep 29",
+      "doi": "10.1093/bjsopen/zrad003",
+      "tier": "core",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42809109/"
+    },
+    {
+      "pmid": "42809107",
+      "title": "What to do with K-wires in displaced upper extremity fractures in children - where to bury or not.",
+      "abstract": "Kirschner wires (K-wires) are the standard fixation method for displaced pediatric upper extremity fractures, yet no consensus exists on whether wire ends should be buried subcutaneously or left exposed epicutaneously. While epicutaneous K-wires offer cost-effectiveness and avoid second anesthesia, concerns remain regarding infection risk and psychological distress. To systematically review and compare complication rates between buried and exposed K-wire fixation in pediatric upper extremity fractures, including infection, refracture, skin erosion, and secondary implant displacement. We conducted a systematic review following PRISMA guidelines, searching Cochrane, PubMed, EmBase, and Ovid databases. Inclusion criteria were: modified Coleman Methodology Score (mCMS) > 60, upper extremity fractures treated with K-wire fixation, and age\u2009<\u200916\u2009years. Studies including adult patients and biomechanical studies were excluded. Meta-analysis compared outcomes across 12 studies encompassing 1,977 patients. Buried K-wires demonstrated significantly lower overall infection rates (OR\u2009=\u20091.74; 95% CI: 1.19-2.56; p\u2009=\u20090.004). However, no significant difference was observed in deep surgical siteinfections (OR\u2009=\u20091.56; 95% CI: 0.60-4.0; p\u2009=\u20090.36). Exposed wires showed significantly lower skin irritation rates (OR\u2009=\u20090.09; 95% CI: 0.04-0.21; p\u2009<\u20090.00001). No significant differences were found in secondary implant displacement (OR\u2009=\u20091.26; 95% CI: 0.10-15.75; p\u2009=\u20090.86) or refracture rates (OR\u2009=\u20091.90; 95% CI: 0.91-3.96; p\u2009=\u20090.09). Geographic subgroup analysis revealed significant regional differences: infection rate differences were significant in Asia/Africa (OR\u2009=\u20092.90; 95% CI: 1.61-5.22; p\u2009=\u20090.0004) but not in Europe/USA (OR\u2009=\u20091.16; 95% CI: 0.69-1.95; p\u2009=\u20090.57). Epicutaneous K-wire fixation shows higher overall infection rates than buried wires but does not increase deep surgical site infections requiring operative revision. Considering the avoidance of additional anesthesia, favorable cost-benefit profile, and geographic variation in infection risk, epicutaneous K-wires are recommended when no patient-specific contraindications exist, particularly in temperate climates. Level III (Systematic Review of Level II-III Studies).",
+      "journal": "Eur J Trauma Emerg Surg",
+      "authors": [
+        "Frodl A",
+        "Borbely M",
+        "Karvouniaris N",
+        "M\u00fchlenfeld N",
+        "Siegel M",
+        "Kuminack K",
+        "Pietsch C",
+        "Wagner FC",
+        "Erdle B",
+        "Schmal H"
+      ],
+      "date": "2026 Sep 29",
+      "doi": "10.1016/j.otsr.2019.03.007",
+      "tier": "core",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42809107/"
+    },
+    {
+      "pmid": "42809000",
+      "title": "Exploring risk groups for concomitant injuries in facial fracture patients: a data-driven analysis.",
+      "abstract": "**PURPOSE**: Patients with facial fractures are a diverse group with varying injury mechanisms and extent of injury. These patients often suffer from concomitant injuries (CIs) of different severity outside the facial region, some of which are life-threatening and may require urgent care. Therefore, early identification of patients at risk for CI is important. This study aimed to investigate exploratory risk groups for concomitant injuries in patients with facial fractures, focusing on the impact of injury energy, sex and age on the prevalence and type of concomitant injury.\n\n**METHODS**: In this retrospective cohort study, a data-driven analysis was used to perform statistical analysis and identify risk groups for different CIs. The study included 4170 patients with facial fractures evaluated at tertiary trauma centres from January 2013 to October 2020.\n\n**RESULTS**: 70.9% of patients with facial fractures were male. Patients' mean age was 45.7 years. Of the injury mechanisms, 36.0% were classified as high-energy trauma. In all, 31.7% of facial fracture patients had some type of CI. Female patients had more CIs than male patients (34.0% vs. 30.8%). The occurrence of CIs increased progressively with age, peaking in the age group 90-94 years, where over 55% of patients experienced CIs. However, considerable variation was observed in CI types across age groups.\n\n**CONCLUSION**: Due to the high CI risk in facial fracture patients, in conjunction with assessment and imaging of the facial trauma, we encourage routinely ruling out CIs, with a special focus on high-risk CI groups.",
+      "journal": "Eur J Trauma Emerg Surg",
+      "authors": [
+        "Mustasilta R",
+        "Kultanen E",
+        "Puolakkainen T",
+        "Haapanen A",
+        "Thor\u00e9n H",
+        "Sn\u00e4ll J"
+      ],
+      "date": "2026 Sep 29",
+      "doi": "10.1016/j.jormas.2019.09.002",
+      "tier": "core",
+      "topics": [
+        "Facial/Neck",
+        "General Trauma"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "facial fracture",
+          "strength": "strong",
+          "topic": "Facial/Neck"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42809000/"
+    },
+    {
+      "pmid": "42808999",
+      "title": "Hydroxyapatite/poly-L-lactide mesh tube versus \u03b2-tricalcium phosphate granules in locking plate fixation of proximal humeral fractures: a retrospective comparative study.",
+      "abstract": "**PURPOSE**: Proximal humeral fractures in older adults are often accompanied by metaphyseal bone defects, leading to reduction loss after plate fixation. Fibular allograft struts provide effective augmentation. However, their availability is limited. This study aimed to compare the outcomes of using hydroxyapatite/poly-L-lactide (HA/PLLA) mesh tubes as endosteal struts and \u03b2-tricalcium phosphate (\u03b2-TCP) granules for augmentation in locking plate osteosynthesis for proximal humeral fractures.\n\n**METHODS**: This retrospective study included 42 adult patients who underwent locking plate fixation for acute, closed proximal humeral fractures at a single institution between 2013 and 2022. Among them, 20 patients received endosteal strut-HA/PLLA mesh tube (group E), and 22 received \u03b2-TCP granules (group G). Demographics, radiographic outcomes (humeral head height and neck-shaft angle), range of motion, complications, and surgical parameters were compared between the two groups.\n\n**RESULTS**: Group E showed a significantly smaller mean change in humeral head height than group G (1.5\u2009\u00b1\u20093.1 vs. 4.0\u2009\u00b1\u20094.0\u00a0mm, p\u2009=\u20090.01). No significant difference in the mean change in neck-shaft angle was observed between the two groups (p\u2009=\u20090.31). Furthermore, no significant differences were observed in shoulder range of motion, complication rates, operative time, or blood loss between the two groups.\n\n**CONCLUSION**: The use of HA/PLLA mesh tube as an intramedullary strut in locking plate osteosynthesis provided superior maintenance of humeral head height compared with \u03b2-TCP granules, without increasing complications. Endosteal strut-HA/PLLA mesh tubes may be a practical and safe alternative to allograft struts for augmentation in settings where allografts are unavailable.",
+      "journal": "Eur J Trauma Emerg Surg",
+      "authors": [
+        "Iwata H",
+        "Takada N",
+        "Usami T",
+        "Hayashi Y",
+        "Murakami H",
+        "Kuroyanagi G"
+      ],
+      "date": "2026 Sep 29",
+      "doi": "10.1021/acsbiomaterials.4c00779",
+      "tier": "core",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42808999/"
+    },
+    {
+      "pmid": "42808927",
+      "title": "From Registry-Based to Real-Time Prediction: Machine Learning and Trauma Mortality.",
+      "abstract": "",
+      "journal": "J Am Coll Surg",
+      "authors": [
+        "Karikis I",
+        "Maurer LR"
+      ],
+      "date": "2026 Sep 29",
+      "doi": "10.1097/XCS.0000000000002236",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "trauma mortality",
+          "strength": "strong",
+          "topic": "Systems/QI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42808927/"
+    },
+    {
+      "pmid": "42808699",
+      "title": "Interobserver Agreement in Pediatric Asthma Examination Findings Between Emergency Medical Services and Emergency Department Clinicians.",
+      "abstract": "**OBJECTIVES**: Asthma exacerbations constitute 10-15% of all pediatric emergency medical services (EMS) calls. There are several validated scoring tools to assess acute asthma severity, which have good inter-rater reliability and correlate with clinical outcomes in the emergency department (ED), but have not been validated with EMS clinicians. This study sought to assess the level of agreement between EMS and ED clinicians on components of asthma scoring tools to inform a prehospital asthma severity scoring tool.\n\n**METHODS**: We conducted a prospective observational study of children 2-18 years old transported by EMS with an impression of asthma exacerbation to five pediatric EDs. EMS and ED clinicians independently completed surveys assessing the patient's exam on arrival to the ED. Survey items were drawn from existing asthma scoring tools and refined by focus groups and a Delphi process with EMS clinicians and expert stakeholders. To determine agreement between EMS and ED clinicians regarding survey items, inter-rater reliability was calculated using Kappa and intraclass correlation coefficient for binary and ordinal variables, respectively.\n\n**RESULTS**: We enrolled a convenience sample of 295 children with a median age of 7 years (inter-quartile range 3-12 years). There was slight agreement among EMS and ED clinicians (\u03ba = 0.01-0.20) for suprasternal retractions and fair agreement (\u03ba = 0.21-0.40) for tachypnea, accessory muscle use, and elevated respiratory rate. There was poor agreement (ICC = 0-0.50) for breathlessness, work of breathing, degree of hypoxia, type of wheeze, and wheezing intensity.\n\n**CONCLUSIONS**: We observed limited agreement between EMS and ED clinicians when assessing children for components of asthma severity scores. Developing a prehospital asthma exacerbation severity scoring tool to guide EMS interventions may be challenging. Further research is needed to determine whether education improves EMS performance with asthma scoring tools or whether standardized EMS asthma protocols, regardless of exacerbation severity, improve patient outcomes.",
+      "journal": "Prehosp Emerg Care",
+      "authors": [
+        "Taylor MF",
+        "Ward CE",
+        "Anders JF",
+        "Andoh AA",
+        "Chamberlain JM",
+        "Navanandan N",
+        "Owusu-Ansah S",
+        "Schmucker K",
+        "Thomas B",
+        "Brown KM"
+      ],
+      "date": "2026 Sep 29",
+      "doi": "10.1080/10903127.2026.2717525",
+      "tier": "filtered",
+      "topics": [
+        "Prehospital"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "prehospital",
+          "strength": "weak",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42808699/"
+    },
+    {
+      "pmid": "42805136",
+      "title": "Point-of-care ultrasound identification of a Calvarial hemangioma in the emergency department: a case report.",
+      "abstract": "Calvarial intraosseous hemangiomas are rare, benign vascular tumors arising from the intrinsic vasculature of bone. They account for approximately 0.2% of all benign osseous neoplasms and 2% of calvarial tumors. They most commonly present as localized, progressive scalp swelling with headache and are diagnosed using computed tomography (CT) or magnetic resonance imaging (MRI). Reports describing the sonographic appearance of calvarial intraosseous hemangiomas are exceedingly limited, and no cases have been reported in which point-of-care ultrasound (PoCUS) was used for evaluation in the emergency department (ED) setting. We present the case of an otherwise healthy 22-year-old woman who presented to the ED with a four-day history of a tender right parietal scalp mass and localized headache. PoCUS demonstrated a well-circumscribed lesion arising from the calvarium with superficial swelling, rather than an isolated soft-tissue lesion which was suspected based on history and examination. An MRI was subsequently ordered and demonstrated an enhancing calvarial lesion favored to represent a calvarial intraosseous hemangioma. The patient was referred to neurosurgery for further evaluation and management. Although CT and MRI remain the diagnostic standards for calvarial intraosseous hemangiomas, this case demonstrates the potential value of PoCUS as a rapid bedside tool for distinguishing superficial scalp lesions from underlying osseous pathology and guiding prompt advanced imaging.",
+      "journal": "Am J Emerg Med",
+      "authors": [
+        "Baker S",
+        "Herbst MK"
+      ],
+      "date": "2026 Sep 19",
+      "doi": "10.1016/j.ajem.2026.09.027",
+      "tier": "filtered",
+      "topics": [
+        "Imaging"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "POCUS",
+          "strength": "weak",
+          "topic": "Imaging"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42805136/"
+    },
+    {
+      "pmid": "42804936",
+      "title": "Locked plate fixation versus non-operative management for three and four-part proximal humeral fractures in elderly; A randomized controlled trial.",
+      "abstract": "**BACKGROUND**: In elderly patients, the proximal humerus fracture is the third most prevalent fracture, following fractures of the hip and distal radius, and is significantly associated with osteoporosis. This research aimed to determine the functional and radiological outcomes of internal fixation of 3- and 4-part proximal humeral fractures by locked plates compared with the outcomes obtained by non-operative management in the elderly.\n\n**METHODS**: In this prospective randomized trial, 52 elderly patients (\u226565 years) with 3- or 4-part proximal humerus fractures were allocated to either nonoperative treatment with arm sling immobilization or operative fixation using a proximal humerus locking plate in Qena General Hospital from December 2020 to December 2023. Clinical and radiological assessments were conducted up to 12 months post-treatment, with functional outcomes measured by DASH and Constant scores.\n\n**RESULTS**: Six months after surgery, the Conservative group had a significantly higher DASH score than the Operative group. At 12 months, the Conservative group had a lower DASH score and a higher total Constant score (p\u202f<\u202f0.05). There was no significant variance in the incidence of SAI, stiffness, deformity, or AVN among the conservative and operative groups (p\u202f>\u202f0.05). The complication rate was 13.4%, with 5.7% of cases related to conservative treatment and 7.7% to operative treatment.\n\n**CONCLUSION**: Orthopaedic management of proximal humerus fractures requires proper evaluation, radiological views, patient age, and activity levels. Conservative treatment can provide good functional outcomes with a minimal complication rate, especially in elderly individuals.",
+      "journal": "Injury",
+      "authors": [
+        "Abouelsoud M",
+        "Wahab MMA",
+        "Kamal HM",
+        "Mohamed AAA"
+      ],
+      "date": "2026 Sep 21",
+      "doi": "10.1016/j.injury.2026.113686",
+      "tier": "filtered",
+      "topics": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42804936/"
+    },
+    {
+      "pmid": "42804935",
+      "title": "CCBE1 promotes wound healing in diabetic rats by improving the functional impairment of AD-MSCs induced by AGEs.",
+      "abstract": "**OBJECTIVE**: The etiology of chronic and non-healing diabetic wounds is manifold; the progression of the non-healing phenotype is strongly associated with poor vascular networks. Mesenchymal stem cells (MSCs) are reckoned as a promising therapy for wound healing, especially in angiogenesis. Here, we explored the role of CCBE1 in diabetic wound healing using human adipose-derived MSCs (hAD-MSCs).\n\n**METHODS**: Human adipose-derived hAD-MSCs were isolated and expanded through serial in vitro passaging. Cell proliferation and migration were evaluated using Cell Counting Kit-8 (CCK8) and scratch wound assays, respectively. collagen, and calcium-binding EGF domain-containing protein 1 (CCBE1) and vascular endothelial growth factor (VEGF) expression were analyzed via western blotting. Functional studies of CCBE1 were conducted using siRNA-mediated knockdown and plasmid-driven overexpression approaches. Type 2 diabetes mellitus was induced in Sprague-Dawley rats through a high-fat/high-glucose diet combined with streptozotocin administration. Full-thickness excisional wounds were generated on the dorsal skin, and the effects of CCBE1 modulation in hAD-MSCs on wound closure were examined. Reepithelialization and angiogenesis were analyzed using histological and immunohistochemical methods. Protein levels of CCBE1 and vascular endothelial growth factor (VEGF) were quantified by western blotting.\n\n**RESULTS**: hAD-MSCs showed a gradual decrease in cell proliferation, migrationand increased apoptosis, during advanced glycation end products (AGEs) conditions; meanwhile, CCBE1 and VEGF expression decreased The downregulation of CCBE1 inhibited cell proliferation and migration, and enhanced apoptosis, while CCBE1 overexpression enhanced proliferation and migration, and reduced apoptosis. Compared with untransduced hAD-MSCs, local subcutaneous injection of CCBE1-overexpressing hAD-MSCs accelerated wound closure, enhanced angiogenesis and reepithelialization at the wound bed, and increased VEGF levels in wound tissues.\n\n**CONCLUSION**: CCBE1 overexpression promoted hAD-MSC proliferation and migration and reduced cell apoptosis in vitro and accelerated diabetic wound closure, reepithelialization, and angiogenesis by improving hAD-MSCs in vivo. These beneficial effects of CCBE1 overexpression in diabetic wound healing by hAD-MSCs were at least partially mediated by increased VEGF levels in wound tissues.",
+      "journal": "Injury",
+      "authors": [
+        "Liang F",
+        "Mo J",
+        "Zhang J",
+        "Peng Z",
+        "Zhou J",
+        "Lu Y",
+        "Li Y",
+        "Wang K",
+        "Qiao Y"
+      ],
+      "date": "2026 Sep 22",
+      "doi": "10.1016/j.injury.2026.113725",
+      "tier": "filtered",
+      "topics": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42804935/"
+    },
     {
       "pmid": "42804755",
       "title": "Re: Association or Causation? Methodological Concerns Regarding High Fresh Frozen Plasma to Packed Red Blood Cell Ratios in Trauma Resuscitation.",
@@ -5409,8 +5788,8 @@
     },
     {
       "pmid": "42725800",
-      "title": "Cardiopulmonary resuscitation quality during the transition in care from paramedic services to emergency department teams.",
-      "abstract": "**OBJECTIVES**: In patients who experience out-of-hospital cardiac arrest (OHCA), high quality cardiopulmonary resuscitation (CPR) is associated with improved outcomes. The transition of care from paramedic services to emergency department (ED) teams represents a potentially vulnerable period where CPR quality may deteriorate. This study evaluated CPR quality during the prehospital-to-ED transition.\n\n**METHODS**: We conducted a retrospective observational study of adult patients with non-traumatic OHCA transported to a tertiary academic ED between August 2023 and August 2024. Metrics assessing CPR quality were obtained from prehospital and ED defibrillator recordings. Four predefined intervals were analyzed: paramedic baseline, paramedic pre-transition, ED post-transition, and ED baseline. The primary outcome was each adherence to the American Heart Association (AHA) guidelines defined as the mean depth of compressions, mean rate of compressions, and mean chest compression fraction for each interval. Secondary outcomes included comparison between intervals for each metric. Continuous variables were compared using a linear mixed effect model and comparison of categorical data, including the proportion of cases adhering to AHA guidelines, was done using the Cochran's Q test.\n\n**RESULTS**: Thirty-five OHCA cases met inclusion criteria. Mean patient age was 49.9 years (SD 13.6), and 80.0% were male. Mean CCF was guideline compliant throughout all intervals (89-92%) with no significant differences between intervals. Compression rate was guideline compliant across all intervals (109.9-117.5 compressions/minute). Compression depth was guideline compliant during paramedic intervals (5.8 and 5.9\u2009cm) and was significantly higher (p < 0.001) during ED transition and ED baseline intervals (6.4 and 6.8\u2009cm) exceeding guideline targets. No significant differences across intervals were observed in the proportion of cases meeting guideline targets for CCF, rate, or depth.\n\n**CONCLUSIONS**: Quality of CPR was overall maintained during the transition of care from paramedic services to the ED, with no deterioration in chest compression fraction or overall guideline adherence. Compression depth exceeded guideline recommendations in the ED, representing a potential target for future quality improvement initiatives.",
+      "title": "Cardiopulmonary Resuscitation Quality During the Transition in Care from Paramedic Services to Emergency Department Teams.",
+      "abstract": "**OBJECTIVES**: In patients who experience out-of-hospital cardiac arrest (OHCA), high quality cardiopulmonary resuscitation (CPR) is associated with improved outcomes. The transition of care from paramedic services to emergency department (ED) teams represents a potentially vulnerable period where CPR quality may deteriorate. This study evaluated CPR quality during the prehospital-to-ED transition.\n\n**METHODS**: We conducted a retrospective observational study of adult patients with non-traumatic OHCA transported to a tertiary academic ED between August 2023 and August 2024. Metrics assessing CPR quality were obtained from prehospital and ED defibrillator recordings. Four predefined intervals were analyzed: paramedic baseline, paramedic pre-transition, ED post-transition, and ED baseline. The primary outcome was each adherence to the American Heart Association (AHA) guidelines defined as the mean depth of compressions, mean rate of compressions, and mean chest compression fraction for each interval. Secondary outcomes included comparison between intervals for each metric. Continuous variables were compared using a linear mixed effect model and comparison of categorical data, including the proportion of cases adhering to AHA guidelines, was done using the Cochran's Q test.\n\n**RESULTS**: Thirty-five OHCA cases met inclusion criteria. Mean patient age was 49.9\u2009years (SD 13.6), and 80.0% were male. Mean CCF was guideline compliant throughout all intervals (89-92%) with no significant differences between intervals. Compression rate was guideline compliant across all intervals (109.9-117.5 compressions/minute). Compression depth was guideline compliant during paramedic intervals (5.8 and 5.9\u2009cm) and was significantly higher (\n\n**CONCLUSIONS**: Quality of CPR was overall maintained during the transition of care from paramedic services to the ED, with no deterioration in chest compression fraction or overall guideline adherence. Compression depth exceeded guideline recommendations in the ED, representing a potential target for future quality improvement initiatives.",
       "journal": "Prehosp Emerg Care",
       "authors": [
         "Myers V",
@@ -5420,7 +5799,7 @@
         "Bradshaw D",
         "Mok G"
       ],
-      "date": "2026 Sep 11",
+      "date": "2026 Sep 29",
       "doi": "10.1080/10903127.2026.2731188",
       "tier": "filtered",
       "topics": [
