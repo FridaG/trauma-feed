@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-02T23:25:34.198883Z",
-  "total_articles": 208,
+  "generated": "2026-10-03T22:33:27.967535Z",
+  "total_articles": 203,
   "all_topics": [
     "Abdominal",
     "Burns",
@@ -378,6 +378,94 @@
     "Cochrane Database Syst Rev": "filtered"
   },
   "articles": [
+    {
+      "pmid": "42827067",
+      "title": "Mechanism-specific structural patterns in hospitalized severe mechanical open-globe injury: Implications for triage and operative preparedness in a 13-year tertiary referral cohort.",
+      "abstract": "**BACKGROUND**: Severe mechanical open-globe injury (OGI) is a vision-threatening emergency. Injury mechanism is often available at first contact, whereas definitive structural classification may emerge only after clinical and operative assessment. We examined whether hospitalized severe mechanical OGI shows mechanism-specific structural patterns and whether final structural phenotype is associated with short-term inpatient course.\n\n**METHODS**: We conducted a single-center retrospective cohort of 1096 index hospitalizations for severe mechanical OGI during 2013-2025 at a tertiary referral center in eastern China. Injury mechanisms were adjudicated from free-text cause fields using a prespecified coding framework. The primary outcome was final Birmingham Eye Trauma Terminology (BETT) phenotype. Mechanism-phenotype associations were assessed using an L2-penalized multinomial logistic model adjusted for age, sex, and calendar year; exponentiated contrasts were reported as adjusted odds ratios. Secondary classification-to-course analyses evaluated early visual status, visual-category improvement, length of stay, procedural burden, and treatment non-completion, with presenting visual acuity added to secondary models.\n\n**RESULTS**: Industrial metal injury was the dominant mechanism (45.5%), followed by plastic/other foreign-body injury (9.7%) and falls (7.2%). Mechanism was strongly associated with final BETT phenotype (Pearson \u03c7\u00b2 = 425.62, p\u202f<\u202f0.001). Industrial metal injury clustered toward intraocular foreign body (IOFB)-related injury and laceration without IOFB (37.3% and 36.3%), whereas falls and fireworks were rupture-dominant (96.2% and 96.0%). In the adjusted multinomial model, falls were strongly associated with globe rupture rather than laceration without IOFB compared with industrial metal injury (adjusted OR 27.40, 95% CI 12.71-77.54). Globe rupture showed the most severe inpatient course: 79.6% presented with light perception/no light perception, 94.0% had poor discharge visual acuity, and 34.3% had documented treatment non-completion. After additional adjustment for presenting visual acuity, rupture remained associated with poor discharge visual acuity (adjusted OR 5.25, 95% CI 2.84-9.71) and treatment non-completion (adjusted OR 3.78, 95% CI 2.19-6.52).\n\n**CONCLUSIONS**: Hospitalized severe mechanical OGI exhibited mechanism-specific structural patterns that extended beyond anatomical classification by mapping onto short-term inpatient course. Mechanism may support early structural suspicion, operative preparedness, expectation management, and treatment-pathway counseling, complementing rather than replacing examination, imaging, and operative assessment.",
+      "journal": "Injury",
+      "authors": [
+        "Qin C",
+        "Hua X",
+        "Zhu J",
+        "Yang T"
+      ],
+      "date": "2026 Sep 30",
+      "doi": "10.1016/j.injury.2026.113750",
+      "tier": "filtered",
+      "topics": [
+        "Facial/Neck",
+        "General Trauma"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "globe rupture",
+          "strength": "weak",
+          "topic": "Facial/Neck"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42827067/"
+    },
+    {
+      "pmid": "42826617",
+      "title": "Effect of a stabilized liquid ozone-containing formulation delivered through a hyaluronic acid/poly-D,L-lactide scaffold on early osteochondral repair in a rat model.",
+      "abstract": "**BACKGROUND**: Articular cartilage has limited intrinsic repair capacity, and osteochondral defects may progress to degenerative joint disease. Ozone has anti-inflammatory properties but is highly reactive and short-lived in gaseous form. This study evaluated whether a stabilized liquid ozone-containing formulation delivered through a hyaluronic acid/poly-D,L-lactide (HA/PDL) scaffold improves early histological repair of osteochondral defects.\n\n**METHODS**: Forty female Sprague-Dawley rats were randomly allocated to four groups (n\u202f=\u202f10 each): healthy reference, untreated defect, HA/PDL scaffold, and HA/PDL scaffold impregnated with the stabilized liquid ozone-containing formulation. A 1-mm-diameter, 3-mm-deep osteochondral defect was created in the right femoral intercondylar region. Animals were euthanized on postoperative day 45. Histological repair was evaluated using the Modified Mankin score (0-14), and residual cartilage damage area was quantified in mm\u00b2 on the index haematoxylin and eosin (H&E)-stained section using calibrated ImageJ analysis.\n\n**RESULTS**: All animals completed the study. Because the healthy reference group received zero scores for all histological variables, inferential analyses were restricted to the operated groups. Total Modified Mankin scores differed significantly among groups (p\u202f=\u202f0.001), with the ozone-loaded scaffold group demonstrating lower scores than both the untreated defect group (p\u202f=\u202f0.002) and the scaffold-only group (p\u202f=\u202f0.006), whereas no difference was observed between the latter two groups (p\u202f=\u202f1.000). Significant group differences were also observed for structure (p\u202f=\u202f0.001) and tidemark integrity (p\u202f=\u202f0.004). Residual cartilage damage area differed among the operated groups (p\u202f=\u202f0.001) and was smaller in the ozone-loaded scaffold group than in the untreated defect group (p\u202f<\u202f0.001), whereas the comparison with the scaffold-only group did not reach statistical significance (p\u202f=\u202f0.169).\n\n**CONCLUSIONS**: The stabilized liquid ozone-containing formulation delivered through an HA/PDL scaffold was associated with improved early histological repair compared with untreated defects and yielded lower histological degeneration scores than scaffold implantation alone. Because the formulation comprised multiple components and no ozone-free vehicle control was included, these findings cannot be attributed specifically to ozone and should be interpreted as evidence of improved early histological repair rather than true cartilage regeneration.\n\n**LEVEL OF EVIDENCE**: Not applicable (Experimental animal study).",
+      "journal": "Injury",
+      "authors": [
+        "K\u0131zkapan TB",
+        "O\u011fuzkaya S",
+        "M\u0131s\u0131r A",
+        "Eken G",
+        "Sayer G",
+        "Bayrak\u00e7\u0131o\u011flu \u00d6F",
+        "Tirink YM",
+        "O\u011fuzkaya H",
+        "Atahan MO",
+        "Yumu\u015fak E",
+        "Akko\u00e7 A"
+      ],
+      "date": "2026 Oct 01",
+      "doi": "10.1016/j.injury.2026.113744",
+      "tier": "filtered",
+      "topics": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42826617/"
+    },
+    {
+      "pmid": "42826408",
+      "title": "Diagnostic performance of bedside transcranial ultrasound after decompressive craniectomy: a comparative study with cranial computed tomography.",
+      "abstract": "**OBJECTIVE**: The aim of this study was to evaluate the diagnostic effectiveness and accuracy of bedside transcranial ultrasonography performed through the craniectomy in diagnosing typical post-decompressive craniectomy (DC) complications, using cranial CT as the reference standard.\n\n**METHODS**: This retrospective study analyzed 88 consecutive patients who underwent DC between January 2023 and December 2024. In each case, bedside transcraniectomy ultrasonography (BTUS) was performed prior to CT imaging, and findings from both modalities were compared. Diagnostic agreement was evaluated using Cohen's kappa coefficient. The sensitivity, specificity, positive predictive value, and negative predictive value were calculated for BTUS in identifying complications, including hematomas, hygroma, hydrocephalus, abscess, edema, and midline shift.\n\n**RESULTS**: BTUS has high diagnostic accuracy compared with CT, with overall sensitivities ranging from 59.4% (edema) to 100% (hematomas) and specificities between 94.2% and 100%. Strong or almost perfect agreement (\u03ba > 0.8) was observed for most complications. The rate of false negatives was lowest for space-occupying lesions and highest for diffuse pathologies, such as edema. Negative predictive values remained above 80% for all major complication types.\n\n**CONCLUSIONS**: BTUS provides a rapid, noninvasive, and readily available tool for the initial detection and monitoring of postcraniectomy complications. While it does not entirely replace CT in complex cases, it holds significant potential as a first-line screening and monitoring modality in neurosurgical intensive care settings. Bedside ultrasonography can significantly reduce reliance on CT scans, particularly in unstable or radiation-sensitive patients. Incorporating routine BTUS into post-DC monitoring protocols could enhance patient safety, expedite diagnosis, and optimize resource utlization in neurocritical care.",
+      "journal": "J Neurosurg",
+      "authors": [
+        "Kwiatkowski A",
+        "Sbriglio C",
+        "Druszcz A",
+        "Gheek D",
+        "Jatczak K",
+        "Ptak M"
+      ],
+      "date": "2026 Oct 02",
+      "doi": "10.3171/2026.4.JNS26111",
+      "tier": "filtered",
+      "topics": [
+        "TBI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "decompressive craniectomy",
+          "strength": "strong",
+          "topic": "TBI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42826408/"
+    },
     {
       "pmid": "42826344",
       "title": "Examining potentially preventable mortality in trauma: What can we do better?",
@@ -7565,268 +7653,6 @@
       ],
       "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/42702892/"
-    },
-    {
-      "pmid": "42697466",
-      "title": "Trends in the incidence and outcomes of cardiopulmonary resuscitation-induced consciousness in out-of-hospital cardiac arrest: a retrospective study.",
-      "abstract": "**OBJECTIVE**: To examine the incidence, trends, characteristics, and patient outcomes associated with cardiopulmonary resuscitation induced consciousness (CPRIC) in out-of-hospital cardiac arrest (OHCA).\n\n**METHODS**: We conducted a retrospective cohort study of adult (\u226516\u00a0years) OHCA events between 1st January 2008 and 31st December 2024. Patients with CPRIC were identified from prehospital patient care records and linked to data from the Victorian Ambulance Cardiac Arrest Registry (VACAR). Poisson regression was used to assess temporal trends in CPRIC incidence and multivariable logistic regression to examine the association between CPRIC and survival to hospital discharge.\n\n**RESULTS**: Among 43,402 OHCA events, 1438 patients (3.3%) experienced CPRIC. The annual incidence of CPRIC increased over time in the overall cohort (IRR 1.083, 95% CI 1.07-1.10) and across all arrest rhythms (p\u00a0<\u00a00.001 for all). Factors independently associated with CPRIC included younger age, calendar year, cardiac aetiology, public location, witnessed arrest, initial shockable rhythm and use of mechanical CPR. In adjusted analysis, CPRIC was independently associated with improved survival to hospital discharge (OR 2.71, 95% CI: 2.38-3.09), with similar findings for both interfering (OR 2.36, 95% CI: 2.04-2.74) and non-interfering phenotypes (OR 4.09, 95% CI: 3.17-5.29). CPRIC was also associated with return of spontaneous circulation and survival to hospital admission.\n\n**CONCLUSION**: Over the 16-year study period, the annual incidence of CPRIC increased, and patients with CPRIC found to have better OHCA survival outcomes. CPRIC may help identify patients with favourable physiology and is associated with improved survival outcomes.",
-      "journal": "Resuscitation",
-      "authors": [
-        "Howard J",
-        "Stub D",
-        "Kennett T",
-        "Humar M",
-        "Olaussen A",
-        "Nehme Z"
-      ],
-      "date": "2026 Sep 04",
-      "doi": "10.1016/j.resuscitation.2026.111287",
-      "tier": "filtered",
-      "topics": [
-        "Prehospital"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "prehospital",
-          "strength": "weak",
-          "topic": "Prehospital"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42697466/"
-    },
-    {
-      "pmid": "42697130",
-      "title": "The epidemiology of motorsport injuries: Understanding crash dynamics in elite motorcycle racing.",
-      "abstract": "**BACKGROUND**: Motorcycle road racing is among the most high-risk sports, with riders exposed to speeds exceeding 300\u202fkm/h. Despite advancements in safety technology, severe injuries remain a persistent concern, particularly with the introduction of the Sprint race, which has intensified race weekends. This study provides a comprehensive epidemiological analysis of crash and injury patterns in the 2024 MotoGP\u2122 season, addressing a critical gap in contemporary data.\n\n**METHODS**: Utilizing publicly available data from official incident reports and race classifications, this descriptive study analyzed fall incidence and injury outcomes across all 2024 Grand Prix events. Data were stratified by session type (practice, qualifying, Sprint, and main race), motorbike category (MotoGP\u2122, Moto2\u2122, Moto3\u2122), circuit location, and environmental conditions. Furthermore, cases resulting in immediate medical disqualification (\"unfit\" status) or hospitalization were manually extracted to evaluate severe trauma patterns.\n\n**RESULTS**: Findings reveal a significant shift in risk dynamics, with the Sprint race contributing heavily to crash incidence despite its shorter duration. High-risk corners and session-specific patterns were identified, with qualifying sessions and Sprint races showing elevated fall rates compared to practice. Granular clinical analysis of severe traumas (n\u202f=\u202f23) revealed a disproportionate burden of upper extremity injuries, with hand, wrist, and clavicle fractures constituting the majority of isolated skeletal traumas due to the instinctual bracing response. Environmental factors, notably wet conditions, further exacerbated overall risks at specific circuits.\n\n**CONCLUSION**: This study establishes a contemporary baseline for injury surveillance in elite motorcycle racing, highlighting the impact of format changes like the Sprint race introduction on rider safety. By quantifying crash distribution and clinical injury patterns, these findings provide a robust evidence base for optimizing future safety protocols and trauma prevention strategies.",
-      "journal": "Injury",
-      "authors": [
-        "Russo M",
-        "Bignami EG",
-        "Bitonti A",
-        "Valenti PG",
-        "Zasa M"
-      ],
-      "date": "2026 Aug 29",
-      "doi": "10.1016/j.injury.2026.113647",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42697130/"
-    },
-    {
-      "pmid": "42697129",
-      "title": "Moderate accuracy of the AO/OTA Forearm Shaft Fractures Classification as used in the Swedish Fracture Register.",
-      "abstract": "**BACKGROUND**: This study evaluated the accuracy of classification of forearm shaft fractures (FSFs) in adult patients registered in the Swedish Fracture Register (SFR). A secondary aim was to examine intra- and inter-rater reliability for the modified 2007 AO/OTA classification within the SFR.\n\n**MATERIAL AND METHODS**: FSFs were classified into three types (A-C) based on fracture pattern and further grouped (1-3) according to involvement of the ulna, radius, or both. Of 130 randomly selected radiograph sets, 122 were available and suitable for validation. Three orthopaedic consultant trauma surgeons, blinded to patient and SFR data, independently classified the radiographs on two occasions, 6 weeks apart. A consensus gold-standard classification was established and used to assess the accuracy of SFR-recorded classifications. Intra- and inter-rater reliability among the experts was evaluated using kappa coefficients.\n\n**RESULTS**: The accuracy of SFR classifications compared with the gold standard was moderate (kappa = 0.56 for type and group). Classification accuracy was lowest for B1-3 fractures (kappa 0.24) and highest for A1-3 fractures (kappa 0.73). Expert raters consistently classified oblique fractures with an undisplaced wedge as B types, whereas SFR users often recorded them as A types. Intra-rater reliability among experts showed substantial to almost perfect agreement (kappa 0.70-0.82), and inter-rater reliability was similarly substantial to almost perfect agreement (kappa 0.78-0.92).\n\n**CONCLUSION**: Registration of FSFs in the SFR demonstrated moderate accuracy compared with the gold standard. Intra- and inter-rater reliability among experts was substantial to almost perfect, indicating that the classification system is comprehensible. However, lower accuracy for B-type fractures highlights the need to update the SFR classification guidelines for interpreting undisplaced wedge fractures.",
-      "journal": "Injury",
-      "authors": [
-        "Berggr\u00e9n A",
-        "Wadstr\u00f6m MG",
-        "Mukka S",
-        "Hailer NP",
-        "Wolf O"
-      ],
-      "date": "2026 Aug 25",
-      "doi": "10.1016/j.injury.2026.113616",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42697129/"
-    },
-    {
-      "pmid": "42697098",
-      "title": "Pediatric emergency department crowding during multiple resuscitation events.",
-      "abstract": "**BACKGROUND**: Multiple, simultaneous resuscitations in pediatric emergency departments (PEDs) strain resources and exacerbate crowding. In 2015, our pediatric institution implemented a Multiple Resuscitation Activation (MRA) to coordinate team response. The impact of MRAs on PED crowding remains unclear.\n\n**OBJECTIVES**: Evaluate whether MRAs are associated with changes in PED crowding and patient census.\n\n**METHODS**: A retrospective cohort study was conducted at a tertiary pediatric level one trauma center from January 2023 to December 2024. MRA events were matched 1:2 with non-activation control periods by time of day and calendar proximity. Crowding was measured using the Pediatric Emergency Department Overcrowding Scale (PEDOCS) at baseline and at 1 and 2\u00a0h after activation (or matched control time). Difference-in-differences analyses were used to compare changes in PEDOCS and patient census between activation and control periods.\n\n**RESULTS**: Thirteen MRAs involving 59 patients were identified, with a median activation duration of 73\u00a0min. Although PEDOCS scores and patient census increased following MRAs, these changes were not significantly different from those in matched control periods. The difference-in-differences estimate for PEDOCS was 6.0 points (95% CI, -15.4 to 27.4) at 1\u00a0h and 7.8 points (95% CI, -13.6 to 29.2) at 2\u00a0h. Corresponding estimates for patient census were 2 patients (95% CI, -17 to 21) and 6 patients (95% CI, -16 to 28).\n\n**CONCLUSIONS**: MRAs were not associated with significant increases in PED crowding or patient census compared with matched non-activation control periods. These findings suggest that coordinated response systems may help mitigate the operational impact of multiple simultaneous resuscitations.",
-      "journal": "Am J Emerg Med",
-      "authors": [
-        "Lendrum EC",
-        "Timm N",
-        "Williams M",
-        "Kemp L",
-        "Zhang Y",
-        "Hanson HR"
-      ],
-      "date": "2026 Aug 31",
-      "doi": "10.1016/j.ajem.2026.08.056",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "trauma centre",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42697098/"
-    },
-    {
-      "pmid": "42697097",
-      "title": "Emergency department ankle burden score (ED-ABS): A bedside injury-burden score for acute ankle trauma.",
-      "abstract": "**BACKGROUND**: Acute ankle trauma is a frequent emergency department (ED) presentation, yet bedside assessment remains largely focused on fracture detection despite variation in injury burden and functional recovery. We developed the Emergency Department Ankle Burden Score (ED-ABS), a simple bedside score integrating routine clinical findings to quantify injury burden during initial ED assessment. This study evaluated its association with functional recovery, fracture, and healthcare resource utilisation.\n\n**METHODS**: In this prospective observational study, consecutive adults with acute ankle trauma meeting Ottawa Ankle Rules criteria for radiography were enrolled. ED-ABS was calculated before radiographic interpretation. Functional recovery was assessed with the Foot and Ankle Ability Measure-Activities of Daily Living (FAAM-ADL) questionnaire 42\u00a0\u00b1\u00a03\u00a0days post-discharge. Multivariable regression and ROC analyses were performed.\n\n**RESULTS**: Among 200 patients, 23 (11.5%) had radiographically confirmed fractures. The median ED-ABS score was 4.5 (IQR 2.0-7.0). Higher ED-ABS scores were associated with poorer functional recovery (adjusted \u03b2\u00a0=\u00a0-1.30, 95% CI -1.70 to -0.90; p\u00a0<\u00a00.001) and fracture (adjusted OR\u00a0=\u00a01.83, 95% CI 1.43-2.33; p\u00a0<\u00a00.001). ED-ABS showed good fracture discrimination (AUC 0.855, 95% CI 0.783-0.928) and higher scores were associated with greater computed tomography utilisation and orthopaedic consultation.\n\n**CONCLUSIONS**: ED-ABS is a bedside injury-burden score integrating routinely available clinical findings during initial ED assessment. By quantifying overall injury burden rather than focusing solely on fracture detection, ED-ABS demonstrated consistent associations with functional recovery, fracture, and healthcare resource utilisation. Multicentre external validation is required before routine clinical implementation.",
-      "journal": "Am J Emerg Med",
-      "authors": [
-        "Yorgun M",
-        "Ta\u015f O"
-      ],
-      "date": "2026 Sep 01",
-      "doi": "10.1016/j.ajem.2026.08.052",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42697097/"
-    },
-    {
-      "pmid": "42696141",
-      "title": "From rib fixation to dynamic chest wall reconstruction: historical lessons for modern surgical stabilization of rib fractures.",
-      "abstract": "**PURPOSE**: Surgical stabilization of rib fractures (SSRF) has re-emerged as an important component of chest wall trauma care, yet its history is often presented as a simple timeline rather than as a source of operative and biomechanical lessons. This literature, problem-oriented historical review re-examines earlier rib fixation strategies in order to identify the mechanical and operative problems they were intended to solve, why many disappeared, and which principles remain relevant to contemporary SSRF practice.\n\n**METHODS**: A literature review was conducted focusing on historically important fixation techniques and conceptual milestones in the management of serious rib fractures and flail chest. PubMed/MEDLINE and Google Scholar were searched from database inception to 19 March 2026 using terms related to rib fracture fixation, flail chest, SSRF, intramedullary fixation, and history. Studies were purposively selected if they described key fixation concepts, major shifts in management strategy, recurrent technical problems still seen in modern SSRF, or contemporary guideline context. Forty-seven articles were included and synthesized using a problem-based rather than purely chronological framework.\n\n**RESULTS**: Across eras, rib fixation evolved around recurring challenges: (1) restoration of chest wall stability and thoracic continuity, (2) the tension between internal pneumatic stabilization by positive-pressure ventilation and structural repair, (3) difficult access to posterior, subscapular, and upper-rib fractures, (4) implant-rib mismatch and preservation of the intercostal neurovascular bundle, and (5) a limited evidence base. Historical methods - including suture and wire cerclage, clamp-based plates, intramedullary devices, and percutaneous or limited-incision techniques - were early attempts to solve these problems rather than obsolete curiosities. Their main limitations were invasive exposure, bulky and excessively rigid implants, poor conformity to rib curvature, neurovascular irritation, and weak clinical evidence. The most important transition was conceptual: reframing rib fracture patterns as dynamic chest wall instability in which a static CT fracture map must be translated into an operative construct that restores functional thoracic mechanics while preserving the muscular and soft-tissue envelope.\n\n**CONCLUSIONS**: Modern SSRF represents the maturation - not the replacement - of historical fixation concepts under improved biomechanical, biological, and evidentiary conditions. The lasting lessons are that fixation should target the mechanically relevant instability, balance stability with biological restraint, match access strategy to fracture location and chest wall anatomy, and expand indications selectively and discipline. Reinterpreting historical techniques through this problem-oriented lens may help refine current SSRF practice, avoid repetition of past errors with new implants, and guide future development of dynamic chest wall reconstruction.",
-      "journal": "Eur J Trauma Emerg Surg",
-      "authors": [
-        "Sutori D",
-        "White TW",
-        "Bauman ZM",
-        "Whitbeck SS",
-        "Spering C"
-      ],
-      "date": "2026 Sep 04",
-      "doi": "10.1007/s00590-025-04443-w",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "Thoracic"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "rib fracture",
-          "strength": "strong",
-          "topic": "Thoracic"
-        },
-        {
-          "keyword": "flail chest",
-          "strength": "weak",
-          "topic": "Thoracic"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42696141/"
-    },
-    {
-      "pmid": "42696117",
-      "title": "Patient-reported outcome measures within European cohorts of severely injured patients: a systematic review and meta-analysis.",
-      "abstract": "**PURPOSE**: Severe injury affects multiple health-related domains, yet comprehensive European data on patient-reported outcomes remain limited. This systematic review and meta-analysis evaluates patient-reported outcome measures (PROMs) use and outcomes in severely injured European cohorts.\n\n**METHODS**: A systematic search of four databases up to October 14, 2025, identified European studies from 2000 onward reporting PROMs in severely injured patients. Severe injury was defined as an Injury Severity Score\u2009\u2265\u200916, Glasgow Coma Scale\u2009\u2264\u20098, intensive care unit admission, spinal cord injury, traumatic amputations, or pelvic fractures. Two reviewers independently screened records, with disagreements resolved by a third reviewer. Meta-analysis was performed when \u2265\u20093 studies reported comparable PROMs at similar follow-up timepoints.\n\n**RESULTS**: Of 2,479 studies, 119 were included. Most cohorts originated from the Netherlands (26%), Norway (18%), and Germany (16%). General severely injured cohorts were most frequently studied (61%), followed by traumatic brain injury (17%), and spinal cord injury (15%). In total, 94 PROMs were used across 277 follow-up timepoints. Health-related quality of life was assessed most frequently (63%), after that anxiety/depression (14%), post-traumatic stress (9%), and social functioning (6%). At one year follow-up, the pooled EuroQol-5D-3\u00a0L index score was 0.70 (95% CI 0.62-0.77) and VAS score was 68 (95% CI 60-75), indicating persistent impairment compared to population norms.\n\n**CONCLUSION**: Severely injured patients show persistent impairments with incomplete restoration of pre-injury functioning. Despite increased PROMs use, heterogeneity in selection and outcome reporting limits comparability, underscoring the need for standardised PROM assessment to improve outcome evaluation after severe injury.",
-      "journal": "Eur J Trauma Emerg Surg",
-      "authors": [
-        "van den Berg L",
-        "van Ditshuizen JC",
-        "Leliefeld PHC",
-        "den Hartog D",
-        "Giannak\u00f3poulos GF",
-        "Verhofstad MHJ",
-        "de Jongh MAC"
-      ],
-      "date": "2026 Sep 04",
-      "doi": "10.1016/j.injury.2006.10.026",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "Spine",
-        "Systems/QI",
-        "TBI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "traumatic",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "injury severity",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "traumatic brain injury",
-          "strength": "weak",
-          "topic": "TBI"
-        },
-        {
-          "keyword": "spinal cord injury",
-          "strength": "weak",
-          "topic": "Spine"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42696117/"
-    },
-    {
-      "pmid": "42695757",
-      "title": "Healthcare Encounters in the Week Preceding a Sepsis Hospitalization in Pediatric Patients.",
-      "abstract": "**OBJECTIVES**: Sepsis is a leading cause of morbidity and mortality for critically ill children, yet the pattern of healthcare use before admission for sepsis remains unknown. We measured the proportion and characteristics of healthcare encounters within 7 days before sepsis hospitalizations.\n\n**DESIGN**: Using the Merative MarketScan administrative claims database, we conducted a retrospective observational cohort study to quantify pre-admission healthcare encounters among children hospitalized with sepsis.\n\n**SETTING**: The Merative MarketScan database includes inpatient, outpatient, and emergency medical claims from employer-based insurance plans and Medicaid data from approximately 7 million healthcare consumers across multiple states.\n\n**PATIENTS**: Included patients were 0-18 years old and hospitalized with sepsis between January 1, 2016, and December 31, 2022. Children were required to have 30 days of continuous insurance enrollment before admission.\n\n**INTERVENTIONS**: None.\n\n**MEASUREMENTS AND MAIN RESULTS**: Our primary outcome was the occurrence of any healthcare encounter in the 7 days before sepsis hospitalization, including outpatient, emergency department, or inpatient visits. Of those encounters, we identified the proportion that were related to infection. We compared hospitalization characteristics, including mechanical ventilation, ICU use, and length of stay, among those with vs. without pre-sepsis healthcare utilization. We identified 6928 pediatric sepsis hospitalizations, of whom 64.3% (4452/6928) had a complex chronic condition with a median age of 10 years (interquartile range, 3-15 yr). Overall, 53.5% (3707/928) of sepsis hospitalizations had a healthcare encounter within 7 days of admission, including 33.7% (2338/6928) with an outpatient visit, 28.2% (1956/6928) with an emergency department visit, and 6.2% (431/6928) with an inpatient hospitalization. Among sepsis hospitalizations with any pre-admission encounter, 38.9% (1445/3707) had an infection-related diagnosis documented at the encounter. There was no difference in mechanical ventilation, ICU use, or length of stay between those with vs. without pre-sepsis healthcare encounters.\n\n**CONCLUSIONS**: Over half of children hospitalized with sepsis were evaluated in the outpatient or emergency department setting in the week preceding admission, with one in five evaluated for infection. Further understanding of these pre-admission encounters may allow for earlier sepsis identification and possibly intervention in the prehospital setting.",
-      "journal": "Crit Care Med",
-      "authors": [
-        "Cartwright JD",
-        "Rahman M",
-        "Pollack B",
-        "Gorga SM",
-        "Smith KA",
-        "Prescott HC",
-        "Carlton EF"
-      ],
-      "date": "2026 Sep 04",
-      "doi": "10.1097/CCM.0000000000007336",
-      "tier": "filtered",
-      "topics": [
-        "Prehospital"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "prehospital",
-          "strength": "weak",
-          "topic": "Prehospital"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42695757/"
     }
   ]
 }
