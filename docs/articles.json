@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-03T22:33:27.967535Z",
-  "total_articles": 203,
+  "generated": "2026-10-04T22:37:38.082417Z",
+  "total_articles": 204,
   "all_topics": [
     "Abdominal",
     "Burns",
@@ -378,6 +378,38 @@
     "Cochrane Database Syst Rev": "filtered"
   },
   "articles": [
+    {
+      "pmid": "42829236",
+      "title": "Focused performance assessment predicts ability to perform open thoracic trauma procedures.",
+      "abstract": "**BACKGROUND**: Extensive surgical expertise is required to manage blunt and penetrating thoracic trauma. Because opportunities to acquire and maintain these operative skills are limited during training and routine operative practice, trauma focused short courses help bridge potential procedural performance gaps. Integrating procedural assessment into these courses improves surgeon readiness by identifying and closing performance gaps. However, detailed assessment can increase cognitive load and fatigue for assessors. The purpose of this study was to reduce the assement burden by identifying the most predictive assessed procedural elements of overall thoracic trauma operative performance with >\u202f70% accuracy.\n\n**METHODS**: A total of 1531 military general surgeons participated in cadaver-based training over a 5-year period performing 11 thoracic procedures. Most participants (57%) had <\u202f5 years of professional experience. Linear regression analyses examined the contributions of each procedure (11 predictors) and procedural element (96 predictors) with aggregate procedural performance in thoracic trauma (criterion) (p\u202f<\u202f0.01).\n\n**RESULTS**: Seven of the 11 procedures accounted for 96% of the variance in overall thoracic trauma procedural performance. Of the 96 procedural elements examined, 46 predicted overall thoracic trauma procedural performance accounting for 76% of the variance. These findings demonstrate the potential to substantially reduce the faculty assessment burden while maintaining a high level of predictive validity of overall operative performance.\n\n**CONCLUSIONS**: The procedural abilities of surgeons to manage traumatic thoracic injuries is critical for patient safety and quality of care. The findings from this study demonstrate that assessment of a focused subset of procedural elements during trauma focused short courses could predict 76% of the procedural abilities for thoracic trauma and provide surgeons with the information they need to ensure their readiness to care patients. Unfortunately, most trauma-focused short courses currently rely on self-perceived competence rather than direct procedural assessment and therefore miss opportunities to identify and close critical performance gaps.",
+      "journal": "Injury",
+      "authors": [
+        "Andreatta P",
+        "Scott BL",
+        "Bradley M",
+        "Bowyer M"
+      ],
+      "date": "2026 Oct 01",
+      "doi": "10.1016/j.injury.2026.113754",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "weak",
+          "topic": "General Trauma"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42829236/"
+    },
     {
       "pmid": "42827067",
       "title": "Mechanism-specific structural patterns in hospitalized severe mechanical open-globe injury: Implications for triage and operative preparedness in a 13-year tertiary referral cohort.",
