@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-04T22:37:38.082417Z",
+  "generated": "2026-10-06T01:02:22.063444Z",
   "total_articles": 204,
   "all_topics": [
     "Abdominal",
@@ -378,6 +378,199 @@
     "Cochrane Database Syst Rev": "filtered"
   },
   "articles": [
+    {
+      "pmid": "42832422",
+      "title": "Diagnosis and management of blunt cerebrovascular injuries: A Western Trauma Association critical decisions algorithm.",
+      "abstract": "",
+      "journal": "J Trauma Acute Care Surg",
+      "authors": [
+        "Magee GA",
+        "Biffl WL",
+        "Coimbra R",
+        "Croft CA",
+        "Fox CJ",
+        "Hartwell JL",
+        "Keric N",
+        "Lorenzo M",
+        "Martin MJ",
+        "Moore LJ",
+        "Privette AR",
+        "Schellenberg MA",
+        "Schuster KM",
+        "Tesoriero R",
+        "Weinberg JA",
+        "Stein DM"
+      ],
+      "date": "2026 Oct 05",
+      "doi": "10.1097/TA.0000000000005197",
+      "tier": "core",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42832422/"
+    },
+    {
+      "pmid": "42832400",
+      "title": "Beyond TRISS: A Contemporary Expected Mortality Model for Trauma quality review-Trauma Quality Improvement Program, 2017-2024.",
+      "abstract": "**BACKGROUND**: Trauma programs continue to use the Trauma and Injury Severity Score (TRISS) to estimate expected mortality for quality review, although its coefficients reflect an older population and care era. We developed Contemporary Expected Mortality for Trauma (CEM-Trauma) for the registry-based benchmarking use case historically served by TRISS.\n\n**METHODS**: We hypothesized that a contemporary model using familiar injury, age, mechanism, and early physiology variables would more accurately predict in-hospital death than both historical and updated TRISS. We studied 5,399,314 TRISS-eligible Trauma Quality Improvement Program patients (2017-2024), trained models on 2017-2022, and tested them in 2023-2024. Comparators were historical TRISS, development-set intercept/slope recalibration, and development-set refitting of RTS, Injury Severity Score, and age coefficients separately by mechanism. We compared included and excluded patients, calculated 95% CIs, assessed prespecified subgroups, and tested age-by-injury, age-by-physiology, and mechanism-by-physiology interactions.\n\n**RESULTS**: The temporal test set included 1,581,953 patients and 40,674 deaths (2.6%). Full CEM-Trauma improved AUC versus historical TRISS and coefficient-refit TRISS (0.909 [95% CI, 0.907-0.910] vs. 0.879 [0.877-0.881] and 0.879 [0.877-0.881]) and reduced Brier score (0.01891 [0.01873-0.01908] vs. 0.02086 [0.02068-0.02104] and 0.01997 [0.01979-0.02016]). Updated TRISS corrected most overall calibration bias (O/E: 0.986 after recalibration and 0.981 after coefficient refitting); CEM-Trauma O/E was 0.957. CEM-Trauma improved the area under the receiver operating characteristic curve (AUC) across all prespecified subgroups, including patients aged 65 years or older (0.851 vs. 0.804) and those with a Glasgow Coma Scale score of 8 or lower (0.826 vs. 0.780). Tested interactions did not materially improve held-out performance. Among excluded patients with recorded outcomes, mortality was 5.9%; however, 48.3% lacked mortality data.\n\n**CONCLUSIONS**: CEM-Trauma improved risk ranking and average prediction error beyond both historical and coefficient-refit TRISS, whereas contemporary TRISS updating largely corrected overall calibration. These findings distinguish the benefit of recalibration from that of new predictors and model form. External validation is required before benchmarking adoption; the model is not intended for bedside decisions.\n\n**LEVEL OF EVIDENCE**: Prognostic and Epidemiological; Level III.",
+      "journal": "J Trauma Acute Care Surg",
+      "authors": [
+        "Dallal RM",
+        "Abdelhamid SS",
+        "Cuellar E",
+        "Emery RJ",
+        "Kaplan M",
+        "Bloom A",
+        "Moran BJ",
+        "Leung PS"
+      ],
+      "date": "2026 Oct 05",
+      "doi": "10.1097/TA.0000000000005201",
+      "tier": "core",
+      "topics": [
+        "General Trauma",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "injury severity",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "trauma quality",
+          "strength": "strong",
+          "topic": "Systems/QI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42832400/"
+    },
+    {
+      "pmid": "42832397",
+      "title": "Early fixation of traumatic mandible fractures is associated with decreased morbidity and resource utilization.",
+      "abstract": "**BACKGROUND**: There is no clear guidance on when isolated mandibular fractures should undergo surgical fixation. Multiple studies have assessed the timing of mandibular fracture repair, with a consensus that earlier repair does not change outcomes. We aimed to challenge this consensus and identify a data-driven time for surgical fixation. We hypothesized that delayed fixation would be associated with worse outcomes.\n\n**METHODS**: Data on adult patients with closed mandible fractures who underwent surgical fixation were abstracted from the Trauma Quality Improvement Program database from 2017 to 2023. Patients with prehospital cardiac arrest, Abbreviated Injury Scale >2 in other body regions, interfacility transfers, deaths, and those discharged from the emergency room were excluded from analysis. The primary outcome was a composite variable of in-hospital complications. The secondary outcome was prolonged mechanical ventilation. A receiver operating characteristic curve was generated to determine a data-driven timing of surgical fixation based on observed differences in the primary outcome. Patients who underwent fixation before and after this defined time were grouped as \"early\" or \"delayed,\" respectively. Statistical analyses used to compare outcomes between the groups included multivariable logistic regression and negative binomial regression.\n\n**RESULTS**: Receiver operating characteristic analysis identified 40 hours as the proposed data-driven time to fixation. Delayed fixation was associated with a higher composite complication rate (4.1% vs. 1.5%, p < 0.001) and independently associated with a two-fold increase in overall complications (adjusted odds ratio, 2.31; 95% CI, 1.90-2.79, p < 0.001). The negative binomial generalized linear model also identified delayed fixation as a risk factor for prolonged mechanical ventilation (incidence rate ratio, 1.42; 95% CI, 1.26-1.61, p < 0.001).\n\n**CONCLUSIONS**: The proposed data-driven timing for fixation in traumatic mandibular fractures is within the first 40 hours from admission. Repair within this time frame is associated with fewer complications and shorter duration of mechanical ventilation. (J Trauma Acute Care Surg. 2026;00: 000-000 Copyright \u00a9 2026 Wolters Kluwer Health, LLC. All rights reserved.).\n\n**LEVEL OF EVIDENCE**: Therapeutic/Care Management; Level III.",
+      "journal": "J Trauma Acute Care Surg",
+      "authors": [
+        "Yala LI",
+        "Zakhary B",
+        "Dhillon NK",
+        "Coimbra R"
+      ],
+      "date": "2026 Oct 05",
+      "doi": "10.1097/TA.0000000000005196",
+      "tier": "core",
+      "topics": [
+        "Facial/Neck",
+        "General Trauma",
+        "Prehospital",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "mandibular fracture",
+          "strength": "weak",
+          "topic": "Facial/Neck"
+        },
+        {
+          "keyword": "prehospital",
+          "strength": "weak",
+          "topic": "Prehospital"
+        },
+        {
+          "keyword": "trauma quality",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42832397/"
+    },
+    {
+      "pmid": "42832038",
+      "title": "Blast injury simulation in pigs using an air-driven shock wave generator: effects of shock waves of lateral shock wave exposure.",
+      "abstract": "**PURPOSE**: We have hypothesized that respiratory arrest caused by temporary brainstem dysfunction is the primary cause of death during the hyperacute phase of blast injury and have demonstrated that this is highly likely. To date, we have examined the effects of shock waves on pigs by exposing them to shock waves from both the dorsal and ventral sides. Therefore, in this study, we investigated the effects of lateral shock wave exposure in pigs and identified priority regions for protection against blast injuries.\n\n**METHODS**: Eight male hybrid pigs (age, 10-12 weeks; mean weight, 36.6\u00a0kg) were anesthetized and fitted with a femoral arterial line and subcutaneous electrocardiography leads for continuous monitoring of vital signs and respiration. Pigs were fixed prone with the right lateral thorax aligned to the aperture. A compressed air-driven shock tube generated a shock wave (driving pressure: 3.0\u00a0MPa). Arterial blood gases were obtained before and 0, 3, 5, and 10\u00a0min post-exposure. Whole-body computed tomography was performed pre- and post-exposure. Survivors were observed for 3\u00a0h, then underwent necropsy. Regarding lung injury, since \"primary blast lung injury\" is defined as \"radiological and clinical evidence of acute lung injury occurring within 12\u00a0h of exposure and not due to secondary or tertiary injury\", this study focuses on organ injury and mortality in the hyperacute and acute phases.\n\n**RESULTS**: All pigs developed immediate apnea after blast exposure. Two pigs died: one from persistent apnea leading to progressive hypoxia and cardiac arrest and one from delayed cardiac arrest approximately 1\u00a0h later. Necropsy in the delayed death revealed thrombus extending from the right subclavian vein into the superior vena cava, suggesting embolism. Marked bradycardia was absent, and hypotension only occurred in one pig. Computed tomography depicted no air embolism and suggested increased right lung injury. Gross anatomy revealed pulmonary contusion and splenic injury in all the pigs; pulmonary bullae were rare.\n\n**CONCLUSION**: Lateral shock wave exposure can induce profound apnea and death, likely owing to transient brainstem respiratory dysfunction rather than a vagal reflex mechanism. To reduce mortality, protective strategies should prioritize shielding the brainstem region, specifically the lateral and posterior sides of the occipital region and neck.",
+      "journal": "Eur J Trauma Emerg Surg",
+      "authors": [
+        "Kiriu N",
+        "Sekine Y",
+        "Sasa R",
+        "Yamamura K",
+        "Aoki M",
+        "Nagamura T",
+        "Nishii K",
+        "Saitoh D",
+        "Kiyozumi T",
+        "Tomura S"
+      ],
+      "date": "2026 Oct 05",
+      "doi": "10.1080/10903127.2023.2241542",
+      "tier": "core",
+      "topics": [
+        "Abdominal",
+        "Penetrating"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "splenic injury",
+          "strength": "weak",
+          "topic": "Abdominal"
+        },
+        {
+          "keyword": "blast injury",
+          "strength": "strong",
+          "topic": "Penetrating"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42832038/"
+    },
+    {
+      "pmid": "42831892",
+      "title": "Cumulative operative burden is associated with poorer function after segmental bone transport for lower-extremity long-bone defects.",
+      "abstract": "**OBJECTIVE**: Segmental bone transport offers biological reconstruction and limb preservation for extensive lower-extremity long-bone defects, but treatment often involves prolonged external fixation, planned stages, and unplanned reoperations. We evaluated reconstructive and functional outcomes and examined the association between cumulative operative burden and final patient-reported function.\n\n**METHODS**: This retrospective single-centre study screened 44 patients treated between January 2012 and March 2023. Thirty-six patients, representing 37 reconstructed long bones, had complete final outcome ascertainment. ASAMI bone outcome was reported per reconstructed bone (n\u2009=\u200937); limb preservation and all functional and multivariable analyses were patient-level (n\u2009=\u200936). Outcomes included limb preservation, ASAMI bone and functional results, the Lower Extremity Functional Scale (LEFS), the Karlstr\u00f6m-Olerud score, healing indices, treatment-related events, and the cumulative number of formal operations. Multivariable linear regression, bootstrap resampling, sensitivity analyses, and exploratory receiver operating characteristic analysis were performed.\n\n**RESULTS**: Mean defect length was 10.32\u2009\u00b1\u20094.67\u00a0cm and the mean defect-to-bone length ratio was 26.3% \u00b1 12.4%. Patients underwent a mean of 8.08\u2009\u00b1\u20094.21 operations (median, 7; range, 3-18). Mean follow-up after external-fixator removal was 5.69\u2009\u00b1\u20093.62 years. Limb preservation was achieved in 35 of 36 patients (97.2%). Combined excellent/good ASAMI bone and functional outcomes were 75.7% and 77.8%, respectively. Pin-site infection occurred in 17 patients and accounted for 32 fixation-element events; premature consolidation occurred in 11 patients and accounted for 18 episodes. After adjustment for age, defect length, and consolidation index, each additional operation was associated with a 1.94-point lower LEFS (\u03b2=-1.94, 95% CI\u2009-\u20093.12 to -\u20090.76; p=.002). Excluding the patient who underwent below-knee amputation and had an LEFS of 0 did not materially alter this association (n\u2009=\u200935; \u03b2=-1.86, 95% CI\u2009-\u20092.85 to -\u20090.86; p<.001). Older age was also independently associated with lower LEFS (\u03b2=-0.46 points/year; p=.006). Follow-up duration was not associated with LEFS and did not alter the principal association. Exploratory ROC analysis for LEFS\u2009<\u200940 yielded an AUC of 0.846 (bootstrap 95% CI 0.689-0.968); the internally derived\u2009\u2265\u200911-operation threshold was regarded as hypothesis-generating.\n\n**CONCLUSION**: Segmental bone transport achieved high limb preservation and largely favourable ASAMI outcomes despite a substantial treatment burden. A greater cumulative number of operations was associated with lower final LEFS. Operation count should be interpreted as a summary marker of case complexity and the treatment course, not as evidence that repeated surgery alone caused poorer function.",
+      "journal": "Eur J Trauma Emerg Surg",
+      "authors": [
+        "Y\u0131ld\u0131z M",
+        "K\u00f6ro\u011flu M",
+        "Karaba\u015f ME",
+        "\u00c7i\u00e7ek \u0130B",
+        "Stevenson T",
+        "Harma A"
+      ],
+      "date": "2026 Oct 05",
+      "doi": "10.1097/BOT.0000000000002953",
+      "tier": "core",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42831892/"
+    },
     {
       "pmid": "42829236",
       "title": "Focused performance assessment predicts ability to perform open thoracic trauma procedures.",
@@ -7558,133 +7751,6 @@
       ],
       "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/42709220/"
-    },
-    {
-      "pmid": "42705905",
-      "title": "Use of point-of-care ultrasound in predicting difficult intubations in the emergency department.",
-      "abstract": "Point-of-care ultrasound (POCUS) is increasingly used in airway assessment, but its role in predicting difficult intubation in the emergency department remains unclear. A short systematic review of MEDLINE and EMBASE identified four prospective observational studies that met the inclusion criteria and underwent analysis. The studies evaluated ultrasound-derived airway parameters including hyomental distance, tongue thickness and anterior neck soft tissue thickness, and correlated these measurements with Cormack-Lehane grading. Several POCUS parameters demonstrated fair to excellent diagnostic accuracy for predicting difficult laryngoscopy. However, variability in study populations, measurement techniques and diagnostic thresholds limits the generalisability of the findings. The bottom line is that while POCUS is promising, it should not be used alone for difficult airway assessment. Further research with larger, diverse populations is needed.",
-      "journal": "Emerg Med J",
-      "authors": [
-        "Chan LHA",
-        "Saravanan C"
-      ],
-      "date": "2026 Sep 07",
-      "doi": "10.1136/emermed-2026-216137",
-      "tier": "filtered",
-      "topics": [
-        "Imaging"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "POCUS",
-          "strength": "weak",
-          "topic": "Imaging"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42705905/"
-    },
-    {
-      "pmid": "42704976",
-      "title": "Loading conditions during femoral preparation for THA procedures: Mechanical effects of broach holder offset.",
-      "abstract": "**BACKGROUND**: The objective of this study was to compare the cumulative loading needed to seat the planned stem size between straight and offset broach handles. We hypothesized that the cumulative loading is higher when using the offset broach handle, whose force vector is not truly in the axis of the recipient femoral shaft. Thus, the increased stresses applied to the femur intraoperatively could contribute to increased risk of perioperative fracture.\n\n**METHODS**: For each broach insertion and for each of our 20 femurs specimens, the mean force, maximum force and cumulative force were recorded. The number of strikes was also collected. Thus, the primary outcomes were the cumulative force, mean force, maximum force and the number of strikes made by the surgeon until the planned broach size was fully seated. A subgroup analysis was done based on the morphology of the intramedullary canal (Dorr classification). An inter-rater analysis was also done to remove the surgeon effect on the femoral preparation.\n\n**RESULTS**: Using an offset broach handle required significantly more strikes to insert the broaches into the femurs until the planned size was seated (p\u202f=\u202f0.049). No significant differences were observed between the two broach handle types in the maximum force, mean force, or cumulative force.\n\n**CONCLUSION**: This biomechanics study showed that use of an offset broach handle requires significantly more strikes and repeated impacts than use of a more conventional straight broach handle. While there was no significant difference in terms of forces applied between the two strategies, if the surgeon wants to have the same operating time for both techniques, he/she will be required to apply larger forces at each strike to achieve the same advancement of the broach in the femur.\n\n**REGISTRATION**: Authorization of the Minister of Education and Research No. DC-2008-137.",
-      "journal": "Injury",
-      "authors": [
-        "Bridoux T",
-        "Zot F",
-        "Germaneau A",
-        "Vendeuvre T",
-        "Odri GA",
-        "Severyns M"
-      ],
-      "date": "2026 Sep 04",
-      "doi": "10.1016/j.injury.2026.113646",
-      "tier": "filtered",
-      "topics": [],
-      "keyword_matches": [],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42704976/"
-    },
-    {
-      "pmid": "42704975",
-      "title": "Dislocations after hip hemiarthroplasty for acute femoral neck fractures: a scoping review.",
-      "abstract": "**BACKGROUND**: Dislocation of a hip hemiarthroplasty is a common complication; however, the literature is mixed regarding dislocation rates and risk factors. There is a need for a comprehensive review of all potential risk factors to potentially tailor surgical techniques that reduce the risk of dislocation.\n\n**OBJECTIVE**: The objective is to provide an overview of studies reporting on dislocation in patients with femoral neck fractures, with an emphasis on rates, risk factors, and patient-reported outcomes following dislocation.\n\n**METHODS**: This scoping review was conducted in accordance with the methodology of the Joanna Briggs Institute for scoping reviews. We developed a search strategy for Embase, MEDLINE, PubMed, and the Cochrane Library. Papers describing dislocation rates, risk factors, or patient-reported outcomes were included. All identified citations were assessed in Covidence by two independent reviewers. The following quality assessment elements were considered: single- or multi-centre studies, follow-up time, and changes over time, with a minimum of five studies involving at least 10 patients.\n\n**RESULTS**: There were 178 papers meeting the inclusion criteria, with over 900.000 participants analysed. The reported dislocation rate ranged from 0% to 16.6%. The randomised controlled trials reported a median dislocation rate of 2.1%, with similar rates in other study designs. Single- and multi-centre studies had a median dislocation rate of 2.3%. Follow-up studies of \u2264\u202f6 months had a median dislocation rate of 2.3%, which increased to 2.9% after \u2265\u202f2 years. Publications after 2020 showed a median dislocation rate of 2.0% compared to 6.3% in publications before 1990. Forty-eight studies identified the following risk factors: cognitive impairment, a smaller centre-edge angle (CEA), a smaller or larger offset or acetabulum, and a posterior approach. Patient-reported outcomes or experiences after a hemiarthroplasty dislocation were not included in any study.\n\n**CONCLUSION**: The dislocation rate among patients with hip hemiarthroplasties following femoral neck fractures varied considerably in the literature. This review suggests that the posterior approach should be avoided to prevent dislocation in patients, particularly those with cognitive impairment, and to consider the patient's acetabular size. There is a lack of research on patient-reported outcomes after hip hemiarthroplasty dislocation, which warrants further investigation.",
-      "journal": "Injury",
-      "authors": [
-        "N\u00e4rhi SCF",
-        "Rasmussen LE",
-        "Rogmark C",
-        "Overgaard S",
-        "Viberg BL",
-        "Hermansen LL"
-      ],
-      "date": "2026 Sep 03",
-      "doi": "10.1016/j.injury.2026.113637",
-      "tier": "filtered",
-      "topics": [],
-      "keyword_matches": [],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42704975/"
-    },
-    {
-      "pmid": "42704783",
-      "title": "Extremity compartment syndrome: What you need to know.",
-      "abstract": "Acute compartment syndrome of the extremities represents one of the few true orthopedic surgical emergencies, and early surgical fasciotomy is the only effective treatment. Ironically, the classic guidance emphasizing the clinical \"6 P's\" for establishing the diagnosis (pain, pallor, poikilothermia, pulselessness, paresthesia, paralysis) is inherently misleading, since pain out of proportion, refractory to analgesics, often represents the sole clinical indicator of an evolving acute compartment syndrome. The remaining \"5 P\" symptoms generally indicate a late or missed compartment syndrome, which is associated with preventable adverse patient outcomes and a risk for nondefensible litigation. The science on this topic is compromised by the absence of a defined diagnosis, which remains predicated by the treatment modality of whether a fasciotomy was performed or not. The current \"What you need to know\" article was designed to unveil enigmatic myths, misconceptions, and controversies around the conundrum of acute extremity compartment syndrome, based on the current available evidence in the field. Evidence-based recommendations include the recently updated 2025 Clinical Practice Guideline by the American Academy of Orthopaedic Surgeons (AAOS), the American College of Surgeons' TQIP best practice guidelines, and published consensus recommendations from the British Orthopaedic Association and the Association of Anesthetists of Great Britain. The intent of this narrative review is to provide the general surgeon with clinically relevant tips and tricks and to deliver pragmatic decision-making strategies with the ultimate goal of improving patient safety and clinical outcomes.",
-      "journal": "J Trauma Acute Care Surg",
-      "authors": [
-        "Stahel PF",
-        "Burns BL",
-        "Ziran N"
-      ],
-      "date": "2026 Sep 07",
-      "doi": "10.1097/TA.0000000000005169",
-      "tier": "core",
-      "topics": [
-        "Orthopaedic"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "compartment syndrome",
-          "strength": "strong",
-          "topic": "Orthopaedic"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42704783/"
-    },
-    {
-      "pmid": "42702892",
-      "title": "Access Block and Ambulance Ramping: The Canaries of the Healthcare System.",
-      "abstract": "**OBJECTIVE**: To identify evidence-based factors leading to the global challenge of hospital access block and inform strategies to improve emergency access performance.\n\n**METHODS**: A mixed methods approach was followed comprising an umbrella review of published systematic reviews, qualitative analysis of the perspectives of patients and healthcare workers, and quantitative analysis of contextual factors and 6\u2009years of ambulance, emergency inpatient and ward movement records for the 25 largest public hospitals in Queensland, Australia.\n\n**RESULTS**: A key set of findings and recommendations were identified to improve emergency access that are practical and actionable. These comprise the introduction of inpatient discharge metrics and monitoring to shift focus from the front door of hospitals to the 'back door'; increasing support for primary care, community care, aged care, NDIS and vulnerable groups; maintaining demand-side strategies such as increasing inpatient-equivalent care alternatives (e.g., hospital in the home, acute care within nursing home services); investment in prehospital flow; improving hospital processes such as extended-hour discharge lounges; improving workforce; and revising funding policies.\n\n**CONCLUSIONS**: The study findings fill a gap in the evidence regarding challenges and recommendations for improving patient flow within hospital emergency departments and across the broader health system. Focussing efforts at the 'back end' of the inpatient journey is a critical step to improve emergency care outcomes.",
-      "journal": "Emerg Med Australas",
-      "authors": [
-        "Boyle J",
-        "Staib A",
-        "Sullivan C",
-        "Khanna S",
-        "Diouf I",
-        "Hassanzadeh H",
-        "Yoon J",
-        "Riahi V",
-        "Samadbeik M",
-        "Bosley E",
-        "Lind J"
-      ],
-      "date": "2026 Oct 1",
-      "doi": "10.1186/s12873-026-01737-y",
-      "tier": "filtered",
-      "topics": [
-        "Prehospital"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "prehospital",
-          "strength": "weak",
-          "topic": "Prehospital"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42702892/"
     }
   ]
 }
