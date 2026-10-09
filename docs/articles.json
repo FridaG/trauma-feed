@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-09T00:03:38.092536Z",
-  "total_articles": 203,
+  "generated": "2026-10-09T23:43:19.139927Z",
+  "total_articles": 214,
   "all_topics": [
     "Abdominal",
     "Burns",
@@ -378,6 +378,477 @@
     "Cochrane Database Syst Rev": "filtered"
   },
   "articles": [
+    {
+      "pmid": "42853395",
+      "title": "Renal trauma in a pediatric Level 1 trauma center: morbidity, mortality, and the role of renal scintigraphy.",
+      "abstract": "**PURPOSE**: Pediatric renal trauma is uncommon but potentially serious, and is often managed conservatively. Complications may occur, and the clinical value of renal scintigraphy during follow-up remains unclear. This study aimed to assess morbidity and mortality after pediatric renal trauma and to assess the clinical value of renal scintigraphy during follow-up.\n\n**METHODS**: This retrospective single-center cohort study included pediatric trauma patients (<\u200918 years) with renal injuries admitted to a Level 1 trauma center in the Netherlands between January 1, 2001, and December 31, 2024. Mortality and in-hospital complications were assessed, and associations between renal scintigraphy abnormalities and complications during follow-up were evaluated.\n\n**RESULTS**: A total of 72 patients were included, of whom all injuries resulted from blunt trauma. Conservative management was applied in 88% of cases; embolization and nephrectomy were performed in 8% and 3% of patients, respectively. In-hospital mortality was 11% and was attributed exclusively to concomitant traumatic brain injury. Complications occurred in 25% of patients, primarily infections (19%), followed by hypertension during follow up (4%). Renal scintigraphy was performed in 53% of patients, predominantly in those with high-grade injuries; abnormalities were frequently observed (77%) but did not correlate with the occurrence of hypertension, proteinuria, or renal insufficiency during follow-up.\n\n**CONCLUSION**: Pediatric renal trauma, including high-grade injuries, can often be managed conservatively, and most complications can be treated using medical therapy or minimally invasive interventions. Renal scintigraphy showed no clear association with long-term morbidity and had limited additional value in routine follow-up. Given the potential for late-onset hypertension, structured long-term clinical surveillance with periodic monitoring of blood pressure, proteinuria, and renal function is warranted, particularly after high-grade injuries.",
+      "journal": "Eur J Trauma Emerg Surg",
+      "authors": [
+        "Jansen SAM",
+        "Haouli B",
+        "Backes M",
+        "Tromp TN",
+        "Vriens D",
+        "Edwards MJR",
+        "Uitert AV",
+        "Nelen SD"
+      ],
+      "date": "2026 Oct 09",
+      "doi": "10.1016/S0022-5347(05)65917-4",
+      "tier": "core",
+      "topics": [
+        "General Trauma",
+        "Paediatric",
+        "Systems/QI",
+        "TBI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "blunt trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "strong",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "traumatic brain injury",
+          "strength": "weak",
+          "topic": "TBI"
+        },
+        {
+          "keyword": "paediatric trauma",
+          "strength": "weak",
+          "topic": "Paediatric"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42853395/"
+    },
+    {
+      "pmid": "42853388",
+      "title": "Measurement properties of pulmonary function measurement and patient-reported outcome measures in patients with multiple rib fracture without flail segment; validation study alongside the multicenter FixCon trial.",
+      "abstract": "**BACKGROUND**: The reliability and validity of pulmonary function, pain and health related quality of life (HR-QoL) as outcome measures for patients with rib fractures, remain uncertain. Our objective was to evaluate measurement properties in patients with multiple rib fractures by comparing them with generic HR-QoL instruments (EuroQoL-5D-5L [EQ-5D-5L], Short Form-12 [SF-12]).\n\n**METHODS**: A multicenter RCT in adults (n\u2009=\u2009180) was performed. Spirometry was performed at 30 days, 3, 6, and 12 months after trauma. Patients completed five questions on pain, EQ-5D-5L, SF-12, and two anchor questions on improvement in pulmonary function and thoracic complaints since previous measurement. Reliability, construct validity, responsiveness and floor and ceiling effects were evaluated for all follow-up time-points.\n\n**RESULTS**: EQ-5D and SF-12 (sub)scales showed adequate internal consistency. Construct and longitudinal validity were adequate for all (sub)scales, except for construct validity of the SF-12 Physical Component Summary. Ceiling effects were present for all pain questions from 30 days onwards, for EQ-5D-5L utility score (US) from 3 months onwards. Responsiveness analysis indicated that spirometry values showed trivial (tidal volume), small (inspiratory capacity, FEV1), or moderate (FVC) degree of change from 30 days to 12 months. All five pain levels, EQ-5D-5L and SF-12 (sub)scales showed moderate to large degree of change form 30 days to 12 months.\n\n**CONCLUSIONS**: Spirometry and pain are valid instruments for monitoring functional recovery in patients after sustaining multiple rib fractures. Responsiveness was confirmed for pain and spirometry (FVC). EQ-5D-5L and SF-12 are valid, reliable, and responsive. Pain and HRQoL are therefore suitable instruments for measuring treatment effects over time.",
+      "journal": "Eur J Trauma Emerg Surg",
+      "authors": [
+        "Luttjeboer ML",
+        "Van Diepen MR",
+        "Prins JTH",
+        "Van Wijck SFM",
+        "Verhofstad MHJ",
+        "Wijffels MME",
+        "Van Lieshout EMM"
+      ],
+      "date": "2026 Oct 09",
+      "doi": "10.1080/09638288.2019.1651908",
+      "tier": "core",
+      "topics": [
+        "General Trauma",
+        "Thoracic"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "rib fracture",
+          "strength": "strong",
+          "topic": "Thoracic"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42853388/"
+    },
+    {
+      "pmid": "42853283",
+      "title": "Prehospital severity and in-hospital mortality in trauma patients managed by the Friuli-Venezia Giulia helicopter emergency medical service: a 6-year retrospective cohort study.",
+      "abstract": "**BACKGROUND**: Data on in-hospital mortality among trauma patients managed by Helicopter Emergency Medical Services (HEMS) in Italy remain limited. We aimed to describe the epidemiology and in-hospital mortality of trauma patients transported after management by the Friuli-Venezia Giulia HEMS and to assess prehospital factors associated with death.\n\n**METHODS**: We conducted a retrospective observational cohort study including trauma patients managed by HEMS FVG and transported to hospital, either directly by HEMS or after continuation of transport by ground emergency medical services, between 2018 and 2023. The primary outcome was in-hospital mortality. Jeffreys-prior penalized logistic regression was used to reduce sparse-data bias and instability from separation. The RTS-based model was designated as the primary model and the NACA-based model as a secondary sensitivity analysis. Model performance was assessed internally, and the functional forms of both age and RTS were examined using restricted cubic splines.\n\n**RESULTS**: Of 3,357 trauma records in the source cohort, 205 prehospital deaths were excluded from the in-hospital mortality analysis, leaving 3,152 transported patients. Outcome data were available for 3,143 patients, of whom 107 died in hospital (3.4%). In the primary RTS-based model, older age, lower RTS, tracheal intubation, and prehospital CPR were associated with mortality. Compared with RTS\u2009\u2265\u20097, adjusted ORs were 2.36 (95% CI 1.11-5.50) for RTS 4-<7 and 5.19 (95% CI 1.64-17.04) for RTS\u2009<\u20094. Age was associated with mortality (OR 1.03 per year, 95% CI 1.01-1.04). Continuous RTS analysis was concordant (OR 0.68 per one-point increase, 95% CI 0.54-0.86; p\u2009=\u20090.0013).\n\n**CONCLUSIONS**: Among trauma patients transported to hospital after HEMS management, older age, higher prehospital injury severity, tracheal intubation, and prehospital CPR were associated with in-hospital mortality. Intubation and CPR should be interpreted primarily as markers of severe physiological compromise rather than causal determinants of death.",
+      "journal": "Eur J Trauma Emerg Surg",
+      "authors": [
+        "Tomasino S",
+        "Pegani C",
+        "Orso D",
+        "Ursella C",
+        "Tullio A",
+        "Bacchetti G",
+        "Molinari C",
+        "Marangone A",
+        "Contadini M",
+        "Dur\u00ec D",
+        "Saffer S",
+        "Fantin S",
+        "Sappada A",
+        "Peratoner A",
+        "Trill\u00f2 G",
+        "Roncarati A",
+        "Bove T",
+        "Spasiano A",
+        "Della Rocca G"
+      ],
+      "date": "2026 Oct 09",
+      "doi": "10.1186/s12873-022-00653-1",
+      "tier": "core",
+      "topics": [
+        "General Trauma",
+        "Prehospital",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "injury severity",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "helicopter emergency",
+          "strength": "strong",
+          "topic": "Prehospital"
+        },
+        {
+          "keyword": "HEMS",
+          "strength": "weak",
+          "topic": "Prehospital"
+        },
+        {
+          "keyword": "prehospital",
+          "strength": "strong",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42853283/"
+    },
+    {
+      "pmid": "42853261",
+      "title": "Survival benefit of prehospital TXA in fibrinolytic shutdown: Insights from two prospective trauma trials.",
+      "abstract": "**BACKGROUND**: Fibrinolytic phenotypes have been implicated in postinjury pathophysiology and outcomes. While prehospital tranexamic acid (TXA) administration has demonstrated survival benefits, the interaction between TXA administration and distinct fibrinolytic profiles remains poorly defined.\n\n**METHODS**: We analyzed data from a harmonized dataset combining 2 prospective trials evaluating prehospital TXA use in trauma (Prehospital Tranexamic Acid Use for Traumatic Brain Injury and the Study of Tranexamic Acid During Air and Ground Medical Prehospital Transport Trial). Patients were stratified by initial thromboelastographic (TEG) LY30 into fibrinolytic shutdown (<0.9%), hyperfibrinolysis (>3%), and physiological fibrinolysis (0.9-3%). The primary outcome was 30-day mortality. Secondary outcomes included 24-hour mortality and adverse events. Multivariable regression adjusted for TXA administration, fibrinolysis phenotypes, age, mechanism of injury, injury severity score, and shock index on presentation to the hospital.\n\n**RESULTS**: Among 1,249 patients, 30-day mortality was 14.5% in the fibrinolytic shutdown group, 6.7% in the hyperfibrinolysis group, and 6.5% in the physiological fibrinolysis group. After multivariable regression, hyperfibrinolysis was associated with increased risk of death (HR 2.87; 95% CI: 1.10-7.53; p 0.03). Patients with fibrinolytic shutdown who were randomized to TXA had decreased risk of death (HR 0.32; 95% CI: 0.11-0.91; p=0.03).\n\n**CONCLUSIONS**: This multitrial analysis revealed greater statistically significant differences between fibrinolytic phenotypes than analysis of each trial alone. Fibrinolytic phenotypes were independently associated with mortality. Fibrinolytic shutdown in patients randomized to receive TXA was associated with lower risk of death. These findings support the relevance of fibrinolysis profiling during early trauma care and underscore the need for larger studies to further elucidate the prognostic and therapeutic implications in trauma.\n\n**LEVEL OF EVIDENCE**: II (Subanalysis of Randomized Controlled Trials).",
+      "journal": "J Trauma Acute Care Surg",
+      "authors": [
+        "Kenny JE",
+        "Brito AM",
+        "Benchiba-Charron M",
+        "Larson N",
+        "Chrenka E",
+        "Mitra B",
+        "Neal MD",
+        "Gruen R",
+        "Barrett CD",
+        "Bernard S",
+        "Medcalf R",
+        "Rowell S",
+        "Sperry JL",
+        "Schreiber MA"
+      ],
+      "date": "2026 Oct 09",
+      "doi": "10.1097/TA.0000000000005092",
+      "tier": "core",
+      "topics": [
+        "General Trauma",
+        "Haemorrhage",
+        "Prehospital",
+        "Systems/QI",
+        "TBI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "injury severity",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "tranexamic acid",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "traumatic brain injury",
+          "strength": "weak",
+          "topic": "TBI"
+        },
+        {
+          "keyword": "prehospital",
+          "strength": "strong",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42853261/"
+    },
+    {
+      "pmid": "42853259",
+      "title": "Decompressive craniectomy: The potential association with long-term functional outcomes in children with traumatic brain injury.",
+      "abstract": "**BACKGROUND**: Traumatic brain injury (TBI) is the leading cause of death and disability in pediatric patients. However, TBI management widely varies due to a lack of high-quality evidence in pediatric population. We aimed to determine the association of decompressive craniectomy (DC) on long-term functional independence in pediatric TBI. We hypothesize that the use of DC would not be associated with improved functional independence after discharge.\n\n**METHODS**: This is a retrospective cohort study using the Federal Interagency Traumatic Brain Injury Research (FITBIR) Informatics System, a national database of TBI studies. The Approaches and Decisions in Acute Pediatric TBI (ADAPT) Trial was selected for its international patient population from 2014 to 2017. Patients (age \u226418\u00a0y) with TBI, Glasgow Coma Scale (GCS) \u22648, and insertion of an intracranial pressure monitor were categorized into the DC and no-DC groups. The primary outcome was Glasgow Outcome Scale-Extended Pediatric Version (GOS-E Peds) at a follow-up visit \u22656 months postdischarge. A secondary analysis included all patients admitted for the management of TBI to examine the association between DC and in-hospital mortality.\n\n**RESULTS**: We included 686 TBI patients followed up \u22656 months postdischarge or recorded mortality. Of those, 213 (31.0%) patients received DC. The median GCS on presentation was 5. The median GOS-E at follow-up was 5. In a multivariate regression model, the use of DC was not associated with good functional recovery defined as GOS-E Peds <5 (odds ratio [OR]: 0.64, 95% CI: 0.39-1.05, p=0.077). In a secondary analysis, DC was not associated with in-hospital mortality (OR: 1.02, 95% CI: 0.60-1.74, p=0.95).\n\n**CONCLUSION**: The results of this study suggest that DC is not significantly associated with favorable functional outcomes >6 months postdischarge or decreased in-hospital mortality. Future research is warranted to further delineate the indication for DC in the pediatric TBI population.\n\n**LEVEL OF EVIDENCE**: Prognostic/epidemiological study; Level IV.",
+      "journal": "J Trauma Acute Care Surg",
+      "authors": [
+        "Wong AM",
+        "Braschi CD",
+        "Matsushima K"
+      ],
+      "date": "2026 Oct 09",
+      "doi": "10.1007/s12028-025-02336-8",
+      "tier": "core",
+      "topics": [
+        "General Trauma",
+        "TBI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "traumatic",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic brain injury",
+          "strength": "strong",
+          "topic": "TBI"
+        },
+        {
+          "keyword": "decompressive craniectomy",
+          "strength": "strong",
+          "topic": "TBI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42853259/"
+    },
+    {
+      "pmid": "42853238",
+      "title": "Does Surgeon Experience Affect Outcomes in Robotic Cholecystectomy for Emergency Biliary Disease? A Statewide Analysis.",
+      "abstract": "**BACKGROUND**: The use of robotic surgery (RS) as an operative technique in emergency general surgery (EGS) is rapidly growing, with a >3-fold increase in RS-EGS operations since 2011. Prior work has utilized payer claims to evaluate outcomes of RS-cholecystectomy in the EGS setting. However, these studies fail to evaluate how outcomes are affected by surgeon experience or whether there is a learning curve for RS in the EGS setting. We hypothesized that surgeons on the learning curve may have higher rates of complications.\n\n**METHODS**: EGS collaborative data from 12 hospitals were used to compare the postoperative outcomes of patients undergoing RS-cholecystectomy to those undergoing laparoscopic (LS) cholecystectomy. Unadjusted and adjusted outcomes were compared between the control (LS) and the exposure (RS) groups, using entropy balancing and multivariable analysis. Learning curves were plotted for postoperative outcomes, operative time, and hospital length of stay, using linear spline curve modeling (single knot at case 70) to represent how outcomes change with increasing surgeon experience.\n\n**RESULTS**: We evaluated 8,221 minimally invasive total cholecystectomy cases, of which 2,141 were performed with RS. RS-cholecystectomy was associated with a lower rate of technical complications, independent of surgeon experience (adjusted odds ratio: 0.38, 95% CI: 0.21-0.69, p=0.002). Operative time was longer, and nontechnical complications were higher for RS-cholecystectomy (+13.1min, 95% CI: 7.3-18.8, p<0.001 and adjusted odds ratio: 1.18, 95% CI: 1.01-1.39, P=0.043, respectively). Adjusted operative time decreased by 14.1 minutes over the first 70 cases (95% CI: -21.8 to -6.4, p<0.001).\n\n**CONCLUSIONS**: RS-cholecystectomy is not associated with more technical complications, and surgeons with less RS experience did not have a higher likelihood of technical complications for cholecystectomy when compared with LS in an EGS setting. Operative times for RS-cholecystectomy are longer than LS and significantly decrease with increasing surgeon experience.\n\n**LEVEL OF EVIDENCE**: Therapeutic/Care Management; Level III.\n\n**STUDY TYPE**: Prognostic/epidemiological.",
+      "journal": "J Trauma Acute Care Surg",
+      "authors": [
+        "Levy SC",
+        "Johnson PL",
+        "Zambito M",
+        "Golden R",
+        "Chapman A",
+        "Pesta C",
+        "Jean RA",
+        "Sheetz KH",
+        "Hemmila MR"
+      ],
+      "date": "2026 Oct 09",
+      "doi": "10.1097/SLA.0000000000007008",
+      "tier": "core",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42853238/"
+    },
+    {
+      "pmid": "42850620",
+      "title": "Prehospital transport prioritization and time-varying selection bias in traffic-related multi-patient incidents: a nationwide retrospective cohort study.",
+      "abstract": "**BACKGROUND**: In prehospital multi-patient traffic incidents, the first ambulance to depart -priority transport - may reflect underlying injury severity rather than a treatment effect, as more severely injured patients are systematically prioritized. Conventional statistical methods often fail to separate this severity-dependent selection from actual outcomes. We applied a \"doubly robust\" statistical framework (augmented inverse probability weighting, AIPW), which combines a treatment model and an outcome model, to better account for measured differences, reduce selection bias, and examine whether on-scene time modifies this association.\n\n**METHODS**: We conducted a nationwide retrospective cohort study using emergency medical service transport records from the Fire and Disaster Management Agency of Japan (January 2021-December 2023). Of 13,821,224 records, 143,130 patients from traffic-related multi-patient incidents (TMIs; \u22652 patients per incident) with complete data were included. The exposure was priority transport. The primary outcome was physician-assessed death or critical/severe injury at hospital arrival. Marginal adjusted risk differences (RDs) were estimated using AIPW. Effect modification by on-scene time (5-60\u00a0min) was assessed by marginal standardization with cluster-bootstrap confidence intervals. Sensitivity analyses included overlap restriction and E-value quantification of unmeasured confounding.\n\n**RESULTS**: Among 143,130 patients (median age 41 years; female, 50.57%), 62,769 (43.85%) underwent priority transport. Severe outcomes occurred in 4.35% of priority and 1.87% of non-priority patients. The overall RDs was 2.2% points (95% CI, 2.01-2.36). A significant interaction with on-scene time was observed (p < .001): the marginal RD was peaked at 5\u00a0min (6.4% points; 95% CI, 5.6-7.2), declined to a minimum of 1.4% points (95% CI, 1.3-1.6) at approximately 32\u00a0min, and increased modestly to 2.4% points (95% CI, 2.0-2.8) at 60\u00a0min. Sensitivity analyses confirmed result robustness, yielding an E-value of 3.76 (lower bound, 3.57).\n\n**CONCLUSIONS**: The association between priority transport and severe outcome was modified by on-scene time, with the largest risk difference at the shortest on-scene times. This U-shaped pattern is consistent with preferential selection of more severely injured patients for rapid transport, rather than a direct effect of transport order. Accounting for prehospital triage selection when interpreting transport-outcome associations in critical care research.",
+      "journal": "Crit Care",
+      "authors": [
+        "Kubo A",
+        "Tamura S",
+        "Hiraide A",
+        "Morioka D",
+        "Murakami R",
+        "Fukui K",
+        "Inoue S"
+      ],
+      "date": "2026 Aug 04",
+      "doi": "10.1371/journal.pmed.0020124",
+      "tier": "filtered",
+      "topics": [
+        "Prehospital",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "injury severity",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "prehospital",
+          "strength": "strong",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42850620/"
+    },
+    {
+      "pmid": "42849561",
+      "title": "Outcomes Following Impedance Threshold Device Use During Out-of-Hospital Cardiac Arrest.",
+      "abstract": "**BACKGROUND**: Existing work is equivocal regarding the benefit of impedance threshold device (ITD) use among patients experiencing out-of-hospital cardiac arrest (OHCA). We examined the association of ITD use with prehospital outcomes and longer-term dispositions in a nationally representative sample of OHCA patients.\n\n**METHODS**: We included adult, non-traumatic, OHCA scene runs from the 2024 ESO Data Collaborative. We compared patients treated with (a) ITD only; (b) ITD and active compression-decompression device (ITD+ACD); and (c) neither device (no ITD). Prehospital outcomes included return of spontaneous circulation (ROSC) and survival to hospital arrival (SHA); disposition outcomes included survival to hospital discharge and favorable neurologic outcome (i.e., discharge to home). We used multivariate logistic regression to examine the association of treatment group with outcomes, adjusting for demographics and several potential confounders.\n\n**RESULTS**: We included 97,439 patient records (85.3% no ITD; 13.1% ITD only; 1.6% ITD+ACD). Disposition outcomes were available for 13,026 patients (23.3%). ROSC was higher for patients treated with ITD only (26.7%) than those treated with no ITD (23.8%; aOR=1.09 [1.04, 1.14]); a similar pattern emerged for SHA. Conversely, survival to discharge was lower for patients treated with ITD only (23.9%) than those treated with no ITD (32.0%; aOR=0.68, [.61, .76]); a similar pattern emerged for favorable neurologic outcome. The ITD+ACD group showed more extreme versions of the trends observed for ITD only.\n\n**CONCLUSIONS**: ITD use was associated with improved prehospital outcomes but worsened dispositional outcomes among patients experiencing OHCA, suggesting this device may prove beneficial early in resuscitation of OHCA patients.",
+      "journal": "Resuscitation",
+      "authors": [
+        "Weidman AC",
+        "Crowe RP",
+        "Treichel A",
+        "Menegazzi JJ"
+      ],
+      "date": "2026 Oct 08",
+      "doi": "10.1016/j.resuscitation.2026.111340",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Prehospital"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "traumatic",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "prehospital",
+          "strength": "weak",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42849561/"
+    },
+    {
+      "pmid": "42849244",
+      "title": "Radiographic assessment of metacarpal shortening after nonoperative and operative treatment of spiral and oblique metacarpal shaft fractures.",
+      "abstract": "**BACKGROUND AND PURPOSE**: Spiral or oblique metacarpal shaft fractures (MSFs) can be treated nonoperatively with unrestricted mobilisation; however, this approach leads to bone shortening upon healing. While an association between bone shortening and impaired hand function is suspected, empirical clinical evidence is lacking, and differing measurement methods make comparisons between studies difficult.\n\n**METHODS**: This study is based on a midterm follow-up (mean 4.5 years) of 33 patients with a single spiral or oblique MSF from our previous randomised controlled trial. The original study and the present study were registered at clinicaltrials.gov (NCT03067454, NCT05869331). The main outcome in the present study was the amount of shortening following nonoperative compared with operative treatment. Bilateral radiographs were obtained, and shortening was determined by comparing the fractured metacarpal to its contralateral counterpart using the Shortening Absolute (SH-Abs) measurement method. Intra- and interrater reliability for SH-Abs were presented with intraclass correlation coefficients. Additional outcomes included extension deficit, cosmesis, and overall satisfaction.\n\n**RESULTS**: 17 patients had been treated nonoperatively with unrestricted mobilisation and 16 operatively. Mean shortening was 3.9\u202fmm (95% confidence interval [CI], 4.8-3.0\u202fmm) and 0.9\u202fmm (95% CI, 2.0 to -0.3\u202fmm), respectively, with a mean difference of 3\u202fmm (95% CI, 4.3-1.6\u202fmm) (p\u202f<\u202f0.001). The SH-Abs showed substantial to excellent reliability. Extension deficit, cosmesis, and overall satisfaction were similar in both groups.\n\n**CONCLUSIONS**: Metacarpal shortening is to be expected after nonoperative treatment of displaced spiral or oblique MSFs. SH-Abs provides a reproducible measurement and could be used to facilitate comparisons between studies.",
+      "journal": "Injury",
+      "authors": [
+        "Stalberg Ostwald C",
+        "Peyronson F",
+        "Hailer NP",
+        "Muder D"
+      ],
+      "date": "2026 Oct 04",
+      "doi": "10.1016/j.injury.2026.113757",
+      "tier": "filtered",
+      "topics": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42849244/"
+    },
+    {
+      "pmid": "42849243",
+      "title": "Proximal humerus fractures: A review of current management evidence and guidance on contemporary surgical strategies.",
+      "abstract": "Proximal humerus fractures (PHFs) most commonly affect elderly, osteoporotic women, although younger patients sustain them through high-energy trauma. Both incidence and the associated healthcare burden continue to rise with demographic ageing. Non-operative management is preferred for undisplaced fractures and for many elderly patients, whereas a range of internal fixation methods and arthroplasty options are available for more complex injuries. Patient age, comorbidities, functional demands and fracture pattern are the primary determinants of treatment selection, implant choice and expected outcome. Absolute indications for surgery include acute fracture-dislocations, open fractures and injuries with vascular or neurological compromise. Relative indications are based on the degree of displacement and the predicted failure of non-operative treatment, and include head-splitting fractures, severe varus, valgus or posterior tilt of the humeral head, anatomical neck fractures, calcar comminution, complete displacement of the humeral head from the shaft, significant displacement of the lesser or greater tuberosity, displaced three- and four-part fractures, and large impaction defects of the humeral head, particularly when associated with instability. It is important to recognise that the displacement thresholds in routine use are pragmatic and consensus-derived rather than validated, and that expert panels do not agree on a maximum acceptable deviation. Surgery is technically demanding, requiring anatomical reduction, calcar restoration, avoidance of varus, secure fixation of the tuberosities and correct patient and implant selection. Locked plating has been the most common operation, but is associated with high complication rates and has failed to show superiority over non-operative treatment in several large randomised controlled trials. Augmentation of fixation and intramedullary nailing may address calcar comminution, metaphyseal voids and varus collapse. Arthroplasty is increasingly used in elderly patients, with reverse shoulder arthroplasty now dominating over hemiarthroplasty. Results appear better than hemiarthroplasty and plate fixation in the single trial that has compared them directly, but the evidence remains limited. To support this narrative review a systematic search was undertaken to identify every randomised controlled trial of PHF management. This review synthesises and compares current evidence on the management options for PHFs and provides practical guidance on contemporary surgical strategies.",
+      "journal": "Injury",
+      "authors": [
+        "Hoskins W",
+        "Haase D"
+      ],
+      "date": "2026 Oct 02",
+      "doi": "10.1016/j.injury.2026.113748",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Orthopaedic"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "open fracture",
+          "strength": "weak",
+          "topic": "Orthopaedic"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42849243/"
+    },
+    {
+      "pmid": "42849242",
+      "title": "Patient centered outcomes after surgical stabilization of rib fractures: A prospective cohort study.",
+      "abstract": "**INTRODUCTION**: Rib fractures are associated with pain, impaired physical function, and reduced quality of life. Surgical stabilization of rib fractures (SSRF) is established for flail chest and ventilator-dependent patients, but its impact on longer-term patient-reported outcomes in broader injury patterns remains unclear. We evaluated whether SSRF is associated with improved physical functioning and pain outcomes compared to nonoperative management.\n\n**METHODS**: We conducted a prospective observational cohort study of trauma ICU patients with rib fractures admitted between June 2023 and August 2024 at a single Level I trauma center. Patients met institutional criteria for SSRF, including flail chest, \u2265\u202f3 contiguous rib fractures, or ventilator failure. Outcomes were assessed using the SF-36 and SF-MPQ-2 at discharge, 2 weeks, 3 months, and 6 months. Multivariable linear regression adjusted for RibScore, flail chest, ISS, age, obesity, hospital length of stay, and associated injuries. Primary outcomes were SF-36 physical functioning and SF-MPQ-2 present pain intensity (PPI).\n\n**RESULTS**: Of 121 patients, 39 (32%) underwent SSRF. The SSRF group had greater chest injury severity, including higher RibScores and more pneumothorax and hemothorax, while overall injury severity and demographics were similar. There were no differences in ICU length of stay, hospital length of stay, ventilator days, or mortality. After adjustment, SSRF was associated with improved physical functioning at discharge (\u03b2 13.29, 95% CI 6.53-20.05; p\u202f<\u202f0.001) and at 6 months (\u03b2 23.40, 95% CI 7.52-39.28; p\u202f=\u202f0.005). SSRF was associated with lower pain at discharge, but not at 6 months.\n\n**CONCLUSION**: SSRF was associated with improved short-term and six-month physical functioning without differences in inpatient outcomes or sustained differences in pain. These findings suggest SSRF may primarily accelerate functional recovery rather than provide durable pain reduction.\n\n**LEVEL OF EVIDENCE**: II Study type: Prospective Cohort.",
+      "journal": "Injury",
+      "authors": [
+        "Laredo J",
+        "Walker M",
+        "Wilson F",
+        "Hertslet G",
+        "Heidel E",
+        "Lange K",
+        "Cavalea A",
+        "Gerard J",
+        "Griepentrog J"
+      ],
+      "date": "2026 Oct 02",
+      "doi": "10.1016/j.injury.2026.113743",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Systems/QI",
+        "Thoracic"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "injury severity",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "haemothorax",
+          "strength": "weak",
+          "topic": "Thoracic"
+        },
+        {
+          "keyword": "pneumothorax",
+          "strength": "weak",
+          "topic": "Thoracic"
+        },
+        {
+          "keyword": "rib fracture",
+          "strength": "strong",
+          "topic": "Thoracic"
+        },
+        {
+          "keyword": "flail chest",
+          "strength": "weak",
+          "topic": "Thoracic"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42849242/"
+    },
     {
       "pmid": "42848923",
       "title": "Distinctive patterns in child homicide: A retrospective study in Maryland.",
@@ -2847,7 +3318,7 @@
     {
       "pmid": "42788838",
       "title": "A Robust Educational Initiative for EMS Clinicians Focusing on Pit-Crew CPR Improves Neurologically Intact Survival.",
-      "abstract": "**OBJECTIVES**: To evaluate whether the implementation of a region-wide pit-crew cardiopulmonary resuscitation (CPR) initiative was associated with improved survival to hospital discharge with good neurological function among adults with non-traumatic out-of-hospital cardiac arrest (OHCA) in a heterogenous, multi-agency emergency medical services (EMS) system in south-central Connecticut.\n\n**METHODS**: We conducted a retrospective, before-and-after observational study using the Cardiac Arrest Registry to Enhance Survival (CARES). The pit-crew CPR intervention, comprising structured didactic and hands-on simulation-based training was delivered across 27 EMS agencies from September 28, 2021 through August 2, 2022. The primary outcome was survival to hospital discharge with good neurological function (Cerebral Performance Category 1-2). Secondary outcomes included survival to hospital discharge and sustained return of spontaneous circulation (ROSC). We performed an interrupted time series analysis using the beginning of our intervention (September 28, 2021) as the interruption to model. Multivariable logistic regression models were adjusted for age, sex, race, shockable initial rhythm, witnessed arrest, arrest location, and bystander CPR.\n\n**RESULTS**: A total of 1,917 adult non-traumatic OHCA patients (922 pre-intervention; 995 post-intervention) were resuscitated by EMS clinicians in the study period. In progression since intervention, there was a significant increase in neurologically intact survival per 4-month interval (adjusted odds ratio [OR] 1.20; 95% confidence interval [CI], 1.01-1.44), suggesting a gradual improvement in outcomes over time after protocol implementation. At intervention start, there was a significant increase in ROSC (aOR 1.41; 95% CI, 1.1-1.81). There was no change in survival to hospital discharge prior to the intervention, at the time of the intervention, or following the intervention.\n\n**CONCLUSIONS**: Implementation of a pit-crew CPR model across a heterogenous, multi-agency EMS system was associated with a significant gradual increase in neurologically intact survival in the post-intervention period, as well as a significant immediate improvement in ROSC at the time of protocol implementation. These findings support structured, team-based resuscitation as a feasible and effective strategy to improve cardiac arrest outcomes within existing EMS systems.",
+      "abstract": "**OBJECTIVES**: To evaluate whether the implementation of a region-wide pit-crew cardiopulmonary resuscitation (CPR) initiative was associated with improved survival to hospital discharge with good neurological function among adults with non-traumatic out-of-hospital cardiac arrest (OHCA) in a heterogenous, multi-agency emergency medical services (EMS) system in south-central Connecticut.\n\n**METHODS**: We conducted a retrospective, before-and-after observational study using the Cardiac Arrest Registry to Enhance Survival (CARES). The pit-crew CPR intervention, comprising structured didactic and hands-on simulation-based training was delivered across 27 EMS agencies from September 28, 2021 through August 2, 2022. The primary outcome was survival to hospital discharge with good neurological function (Cerebral Performance Category 1-2). Secondary outcomes included survival to hospital discharge and sustained return of spontaneous circulation (ROSC). We performed an interrupted time series analysis using the beginning of our intervention (September 28, 2021) as the interruption to model. Multivariable logistic regression models were adjusted for age, sex, race, shockable initial rhythm, witnessed arrest, arrest location, and bystander CPR.\n\n**RESULTS**: A total of 1917 adult non-traumatic OHCA patients (922 pre-intervention; 995 post-intervention) were resuscitated by EMS clinicians in the study period. In progression since intervention, there was a significant increase in neurologically intact survival per 4-month interval (adjusted odds ratio [OR] 1.20; 95% confidence interval [CI], 1.01-1.44), suggesting a gradual improvement in outcomes over time after protocol implementation. At intervention start, there was a significant increase in ROSC (aOR 1.41; 95% CI, 1.1-1.81). There was no change in survival to hospital discharge prior to the intervention, at the time of the intervention, or following the intervention.\n\n**CONCLUSIONS**: Implementation of a pit-crew CPR model across a heterogenous, multi-agency EMS system was associated with a significant gradual increase in neurologically intact survival in the post-intervention period, as well as a significant immediate improvement in ROSC at the time of protocol implementation. These findings support structured, team-based resuscitation as a feasible and effective strategy to improve cardiac arrest outcomes within existing EMS systems.",
       "journal": "Prehosp Emerg Care",
       "authors": [
         "Yang DH",
@@ -2860,7 +3331,7 @@
         "Perman S",
         "Nelson AR"
       ],
-      "date": "2026 Sep 25",
+      "date": "2026 Oct 09",
       "doi": "10.1080/10903127.2026.2739421",
       "tier": "filtered",
       "topics": [
