@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-07T23:56:27.544958Z",
-  "total_articles": 221,
+  "generated": "2026-10-09T00:03:38.092536Z",
+  "total_articles": 203,
   "all_topics": [
     "Abdominal",
     "Burns",
@@ -378,6 +378,232 @@
     "Cochrane Database Syst Rev": "filtered"
   },
   "articles": [
+    {
+      "pmid": "42848923",
+      "title": "Distinctive patterns in child homicide: A retrospective study in Maryland.",
+      "abstract": "**INTRODUCTION**: Homicide is a leading cause of childhood death, yet few studies distinguish child homicide from adolescent and adult patterns, challenging the development of prevention strategies. We sought to define how child homicide epidemiology differs from that of older age groups in Maryland.\n\n**METHODS**: In this cross-sectional study, we analyzed all homicide decedents in Maryland (2005-2017) using Office of the Chief Medical Examiner data. Age groups were defined per American Academy of Pediatrics: child/early adolescent (0-14), adolescent (15-22), young adult (23-30), and adult (31+). Descriptive statistics were calculated, and multinomial logistic regression (children as reference) assessed associations with sex, race, mechanism, site, and geography. Two interactions (race\u00d7sex and mechanism\u00d7site) were retained.\n\n**RESULTS**: Among 6,508 homicide decedents, 217 were children, 1,242 adolescents, 2,226 young adults, and 2,823 adults. Children were more often female (44% vs. 9%-19%) and less likely to die in Baltimore (25% vs. 40%-46%) than all older groups, and more likely to die at home (21% vs. 5%-7%) than adolescents and young adults. Firearm deaths were less common in children (28% vs. 65%-84%) while blunt trauma was more common (36% vs. 2%-9%). In regression, older groups were less likely than children to be female (OR, 0.6-0.8), die at home (OR, 0.1-0.5, p<0.05) if killed by firearms, or die outside Baltimore (OR, 0.5-0.6, p<0.01). Significant race \u00d7 sex interactions were observed for Black female decedents across older age groups (interaction ORs, 0.2-0.4; all p<0.05). Significant mechanism \u00d7 site interactions were also observed, including Blunt \u00d7 Home (interaction OR, 32.7; p<0.001) and Strangulation \u00d7 Home (interaction OR, 48.4; p=0.001) among adults.\n\n**CONCLUSIONS**: Child homicide differs markedly from older groups, with victims more often female, killed by non-firearm mechanisms, at home, and outside Baltimore. By adolescence, decedents reflect a more \"adult\" profile in sex, mechanism, site, and geography. Homicide prevention strategies for children may need to diverge from those targeting community gun violence in older groups. (J Trauma Acute Care Surg. 2026;00: 000-000. Copyright \u00a9 2026 Wolters Kluwer Health, LLC. All rights reserved.).\n\n**LEVEL OF EVIDENCE**: Cross-Sectional; Level IV.",
+      "journal": "J Trauma Acute Care Surg",
+      "authors": [
+        "Okum SE",
+        "Bidmead DM",
+        "Hurly JA",
+        "Rothschild E",
+        "Lunardi N",
+        "Kent AJ",
+        "Haut ER",
+        "Efron DT",
+        "Sakran JV"
+      ],
+      "date": "2026 Oct 07",
+      "doi": "10.1097/TA.0000000000005163",
+      "tier": "core",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "blunt trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42848923/"
+    },
+    {
+      "pmid": "42848062",
+      "title": "Surgeon-perceived intraoperative complexity is associated with early adverse outcomes after major emergency abdominal surgery: a prospective cohort study.",
+      "abstract": "**BACKGROUND**: Intraoperative complexity in major emergency abdominal surgery lacks a standardized definition and is rarely quantified prospectively. Whether surgeon-perceived intraoperative complexity is associated with short-term postoperative outcomes remains unknown.\n\n**METHODS**: In this single-center prospective cohort study, 411 patients undergoing major emergency abdominal surgery were included. Immediately after surgery, the operating surgeon rated perceived intraoperative complexity on a 0-10 scale. The association between surgeon-perceived intraoperative complexity and the primary outcome, 30-day unplanned reoperation, was investigated using Fine-Gray regression. The model was adjusted for age, sex, body mass index, performance status, and intraoperative pathology. Secondary outcomes were 30-day mortality, length of stay, and Comprehensive Complication Index.\n\n**RESULTS**: Unplanned reoperation occurred in 15% and 30-day mortality in 11%. Higher surgeon-perceived intraoperative complexity was associated with reoperation (sHR 1.20 per point; 95% CI 1.08-1.34). Complexity was also associated with prolonged LOS (\u03b2 1.47 days per unit increase; 95% CI 0.93-2.01), higher CCI category (OR 1.24 per unit increase; 95% CI 1.14-1.35), and increased 30-day mortality (OR 1.25; 95% CI 1.07-1.45).\n\n**CONCLUSION**: Surgeon-perceived intraoperative complexity was associated with reoperation, morbidity, and 30-day mortality after major emergency abdominal surgery. These findings suggest that the operating surgeon's assessment may capture clinically meaningful prognostic information beyond conventional baseline risk factors. External validation and evaluation of inter-rater reproducibility are needed before clinical implementation.",
+      "journal": "Eur J Trauma Emerg Surg",
+      "authors": [
+        "Jensen LR",
+        "Degett TH",
+        "Solstad TU",
+        "Nielsen LS",
+        "Kokotovic D",
+        "Jensen TK",
+        "Burcharth J"
+      ],
+      "date": "2026 Oct 08",
+      "doi": "10.1001/jamasurg.2021.0041",
+      "tier": "core",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42848062/"
+    },
+    {
+      "pmid": "42847715",
+      "title": "Diagnostic Performance of the Infrascanner 2000\u2122 for Detecting Intracranial Hemorrhage in Traumatic Brain Injury Patients in Pakistan.",
+      "abstract": "**BACKGROUND AND OBJECTIVES**: Intracranial hemorrhage (ICH) is a major cause of morbidity and mortality after traumatic brain injury (TBI). Computed tomography (CT) is often unavailable in low-resource settings, delaying diagnosis. The Infrascanner 2000\u2122, a handheld near-infrared device, has been proposed as a rapid, noninvasive ICH screening tool. The objective of this study was to determine the diagnostic accuracy of the Infrascanner 2000\u2122 for detecting ICH in TBI patients, compared with noncontrast CT, at 2 tertiary care hospitals in Peshawar, Pakistan.\n\n**METHODS**: In this prospective observational study, 141 patients with mild, moderate, or severe TBI presenting to the emergency department of Neurosurgery at Northwest General Hospital and Lady Reading Hospital, Peshawar, Pakistan, underwent Infrascanner examination (inter-rater kappa 0.82), followed by noncontrast CT as the reference standard. Sensitivity, specificity, predictive values, likelihood ratios, balanced accuracy, and overall accuracy were calculated. Balanced accuracy (mean of sensitivity and specificity) replaced area under the curve, as the device yields a single binary operating point. Results followed Standard for Reporting Diagnostic Accuracy Studies guidelines.\n\n**RESULTS**: CT confirmed hemorrhage in 125 of 141 patients (88.6%). The Infrascanner showed sensitivity of 91.2%, specificity of 50.0%, positive predictive value of 93.4%, negative predictive value of 42.1%, and overall accuracy of 86.5% (positive likelihood ratio 1.82; negative likelihood ratio 0.18). Balanced accuracy was 0.706 (95% CI: 0.626-0.786), a single operating point rather than a conventional receiver operating characteristic-derived area under the curve. True positives were predominantly superficial hematomas; false negatives may reflect small or deep lesions. False positives could reflect extracranial soft-tissue injury, though this was not formally graded.\n\n**CONCLUSION**: The Infrascanner showed good sensitivity but modest specificity for ICH detection in this two-center Pakistani cohort, consistent with published series. It may serve as a rapid triage adjunct where CT access is delayed but should not replace CT imaging. Further multicenter studies, including prehospital settings, are warranted.",
+      "journal": "Neurosurgery",
+      "authors": [
+        "Khan Z",
+        "Khan MN",
+        "Khan WD",
+        "Payenda AR",
+        "Babar T",
+        "Khan T",
+        "Shah SS",
+        "Barki MT",
+        "Sohaib Khan M",
+        "Jan I",
+        "Sherwan Y",
+        "Nabi H",
+        "Khan A",
+        "Ullah N",
+        "Khattak AF"
+      ],
+      "date": "2026 Oct 08",
+      "doi": "10.1227/neu.0000000000004241",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Prehospital",
+        "TBI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "traumatic",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic brain injury",
+          "strength": "strong",
+          "topic": "TBI"
+        },
+        {
+          "keyword": "intracranial haemorrhage",
+          "strength": "strong",
+          "topic": "TBI"
+        },
+        {
+          "keyword": "prehospital",
+          "strength": "weak",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42847715/"
+    },
+    {
+      "pmid": "42847426",
+      "title": "Mortality Risk Across Early RBC-Equivalent Transfusion Burden in the Whole Blood Era.",
+      "abstract": "**BACKGROUND**: Concepts of massive transfusion and transfusion-associated futility were largely established during the component therapy era. Increasing whole blood use may alter the relationship between transfusion burden and mortality. We characterized the continuous association between RBC-equivalent transfusion burden and in-hospital mortality in a contemporary national trauma cohort.\n\n**STUDY DESIGN**: Adult trauma patients receiving \u22651 unit of packed red blood cells within 4 hours of admission were identified in American College of Surgeons TQIP from 2020 to 2023. RBC-equivalent transfusion burden was defined as packed red blood cells plus whole blood units administered within 4 hours. The primary outcome was in-hospital mortality. Multivariable spline-based logistic regression modeled mortality across transfusion burden and identified the maximum mortality slope, 50% predicted mortality, and plateau onset.\n\n**RESULTS**: Among 126,271 patients, 85,832 (68.0%) sustained blunt and 40,439 (32.0%) penetrating injury. Mortality increased nonlinearly with escalating RBC-equivalent transfusion burden. Maximum slope occurred at 21.1 units, the 95th percentile of transfusion burden. Predicted mortality reached 50% at 41.9 units, the 99th percentile, and plateau onset occurred at 55.3 units. Mortality did not approach 100% despite extreme transfusion requirements.\n\n**CONCLUSIONS**: In a contemporary national trauma cohort, mortality increased nonlinearly across RBC-equivalent transfusion burden, with distinct high-risk regions near 21, 42, and 55 units. These reference points may contextualize trajectories during active resuscitation while demonstrating that extreme transfusion requirements are not synonymous with universal mortality.",
+      "journal": "J Am Coll Surg",
+      "authors": [
+        "Mehta R",
+        "Zangbar B",
+        "Prabhakaran K",
+        "Samson D",
+        "Kannichamy V",
+        "Froula G",
+        "Bronstein M",
+        "Shnaydman I",
+        "Kirsch J"
+      ],
+      "date": "2026 Oct 08",
+      "doi": "10.1097/XCS.0000000000002247",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Haemorrhage",
+        "Penetrating"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "massive transfusion",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "packed red blood cells",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "penetrating injury",
+          "strength": "weak",
+          "topic": "Penetrating"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42847426/"
+    },
+    {
+      "pmid": "42844637",
+      "title": "Palliative and end-of-life care on the battlefield: a scoping review.",
+      "abstract": "**BACKGROUND**: Modern conflicts have brought about a paradigm shift in military medicine. In Prolonged Field Care, recommendations have so far focused on damage control and care aimed at ensuring survival. But, particularly in large scale combat operation, not all patients will survive, and despite the development of palliative care in the civilian sector, no extension of this approach has yet been envisaged for military medicine. This review aims to identify knowledge gaps in palliative and supportive care in combat situations.\n\n**METHODS**: We conducted a literature review in PubMed, CAIRN, Scopus and Embase, with the last search carried out on 31 December 2025, using triangulation at each stage of the screening process. Studies published since 1900 focusing on frontline palliative and end-of-life care for combatants were included.\n\n**RESULTS**: Of 3,629 unique records, 35 articles were included, ranging from World War II-era accounts to current prolonged field care guidelines. Pain management was the most extensively documented topic. Morphine, a historical mainstay, has been increasingly supplemented by oral transmucosal fentanyl citrate and ketamine. Ketamine was favored in austere settings for its hemodynamic stability and multi-route administration. Other analgesics, such as paracetamol and NSAIDs, were also briefly described. Regional anesthesia was recognized as an analgesic force multiplier, though never described in an explicitly palliative context. For expectant and dying casualties, a limited but consistent body of literature addressed opioid titration and palliative sedation, notably via continuous midazolam infusion. Diverse end-of-life-related symptoms were addressed, including nausea, dyspnea, secretions, and delirium. Non-pharmacological measures, such as thermal regulation, mouth care, disarming, and comfort items, were described as accessible across provider levels. Spiritual care and family communication, though addressed in few sources, emerged as important but under-formalized components. Overall, evidence specific to palliative and end-of-life battlefield care remains sparse and largely extrapolated from curative-care literature.\n\n**CONCLUSION**: Pain management in combat is a well-researched field, but one that is rarely examined in the specific context of end-of-life care. Similarly, there is a notable gap in the literature regarding palliative care in a combat context. Where such topics are addressed, they are often simply a transposition of civilian data. The lack of training and doctrinal guidance prevents the proper integration of this specialized care, which aims to ensure dignity for dying combatants and to reflect the values upon which military medicine is founded.\n\n**CLINICAL TRIAL NUMBER**: The protocol was pre-registered on the Open Science Framework (OSF) on 8 December 2025 (DOI: 10.17605/OSF.IO/U9RSG).",
+      "journal": "Crit Care",
+      "authors": [
+        "Matray C",
+        "Duranteau O",
+        "Bercal A",
+        "Hebrard de Veyrinas P",
+        "David M",
+        "Pasquier P",
+        "Gzil F",
+        "Lamblin A"
+      ],
+      "date": "2026 Sep 26",
+      "doi": "10.7759/cureus.3662",
+      "tier": "filtered",
+      "topics": [
+        "Haemorrhage"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "damage control",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42844637/"
+    },
+    {
+      "pmid": "42843615",
+      "title": "Spectral Characteristics and Parameters of Pulse Oximetry Waveforms for Assessing Resuscitation Status.",
+      "abstract": "**BACKGROUND**: Real-time assessment of physiological resuscitation status is critical for guiding personalised cardiopulmonary resuscitation (CPR) and avoiding unnecessary harm from prolonged chest compressions. Non-invasive, objectively trackable tools for this purpose remain limited.\n\n**METHODS**: This multicentre retrospective study (2013-2018) included 451 adult patients with cardiac arrest (497 CPR episodes) from 14 Chinese tertiary hospitals, comprising 158 Out-of-Hospital Cardiac Arrest (OHCA) episodes with prehospital SpO\n\n**RESULTS**: A frequency-domain \"hybrid\" pattern during the CC+ROSC identified ROSC with 100% specificity (PPV 1.000). In CC status,POP\n\n**CONCLUSION**: Pulse oximetry plethysmography waveform analysis-using signals already available on standard monitors-may provide a non-invasive, real-time approach that may help identify ROSC during ongoing compressions and distinguish between stable and unstable circulation.",
+      "journal": "Resuscitation",
+      "authors": [
+        "Li C",
+        "Tang H",
+        "Yang J",
+        "Chai Y",
+        "Yu X",
+        "Xu S",
+        "Xu J"
+      ],
+      "date": "2026 Oct 07",
+      "doi": "10.1016/j.resuscitation.2026.111346",
+      "tier": "filtered",
+      "topics": [
+        "Prehospital"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "prehospital",
+          "strength": "weak",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42843615/"
+    },
     {
       "pmid": "42842002",
       "title": "The challenges and opportunities of major trauma care in Germany - results of multidisciplinary expert interviews of the LeAf trauma study.",
@@ -1258,7 +1484,7 @@
         "Harma A"
       ],
       "date": "2026 Oct 05",
-      "doi": "10.1097/BOT.0000000000002953",
+      "doi": "10.1007/s00068-026-03352-9",
       "tier": "core",
       "topics": [
         "General Trauma"
@@ -1994,7 +2220,7 @@
         "Bass GA"
       ],
       "date": "2026 Sep 29",
-      "doi": "10.1093/bjsopen/zrad003",
+      "doi": "10.1007/s00068-026-03327-w",
       "tier": "core",
       "topics": [
         "General Trauma"
@@ -2079,7 +2305,7 @@
         "Kuroyanagi G"
       ],
       "date": "2026 Sep 29",
-      "doi": "10.1021/acsbiomaterials.4c00779",
+      "doi": "10.1007/s00068-026-03347-6",
       "tier": "core",
       "topics": [
         "General Trauma"
@@ -2517,7 +2743,7 @@
     },
     {
       "pmid": "42790858",
-      "title": "Rescue-Breathing Versus Chest Compression-Only Bystander Cardiopulmonary Resuscitation in Non-Cardiac Out-of-Hospital Cardiac Arrest: A Nationwide Retrospective Cohort Study.",
+      "title": "Rescue-breathing versus chest compression-only bystander cardiopulmonary resuscitation in non-cardiac out-of-hospital cardiac arrest: a nationwide retrospective cohort study.",
       "abstract": "**BACKGROUND**: The role of rescue-breathing cardiopulmonary resuscitation (RB-CPR) remains controversial following guideline recommendations emphasizing chest compression-only CPR (CO-CPR). This study evaluated the associations of bystander-performed RB-CPR with mortality and unfavorable neurological outcomes in Japanese patients with non-cardiac out-of-hospital cardiac arrest (OHCA).\n\n**METHODS**: This retrospective nationwide cohort study included patients identified in the All-Japan Utstein Registry with non-cardiac OHCA between 2012 and 2023. Patients with a cardiac etiology or traumatic cause and those in whom resuscitation was not initiated were excluded. The analysis was restricted to patients who received bystander CPR with documented chest compressions and available information on rescue breathing. Adjusted risk ratios (RRs) were estimated using modified Poisson regression with robust variance. Prespecified subgroup and sensitivity analyses were performed.\n\n**RESULTS**: Among 154,137 patients, 20,124 (13.1%) received RB-CPR and 134,013 (86.9%) received CO-CPR. RB-CPR was associated with modestly lower risks of both 30-day mortality (adjusted RR 0.98, 95% CI 0.98-0.99) and 30-day unfavorable neurological outcomes (adjusted RR 0.99, 95% CI 0.99-0.99). RB-CPR was associated with lower risks of both outcomes in pediatric patients but no clear differences were observed among adult or elderly patients. Associations were strongest for pediatric patients and drowning-related arrests and modest in patients with asphyxia.\n\n**CONCLUSIONS**: Thirty-day mortality and unfavorable neurological outcomes were lower after RB-CPR than after CO-CPR for non-cardiac OHCA, particularly in pediatric patients. Although CO-CPR remains important in bystander CPR, rescue breathing may still have benefit, particularly in pediatric patients and those with cardiac arrest related to drowning or asphyxia.",
       "journal": "Resuscitation",
       "authors": [
@@ -2603,7 +2829,7 @@
         "Ozturker N"
       ],
       "date": "2026 Sep 25",
-      "doi": "10.3109/13814788.2015.1102881",
+      "doi": "10.1007/s00068-026-03337-8",
       "tier": "core",
       "topics": [
         "General Trauma"
@@ -3068,7 +3294,7 @@
         "Franco-Herrera R"
       ],
       "date": "2026 Sep 24",
-      "doi": "10.1007/s00068-025-02957-w",
+      "doi": "10.1007/s00068-026-03345-8",
       "tier": "core",
       "topics": [
         "General Trauma",
@@ -4874,7 +5100,7 @@
         "L\u00f3pez CAD"
       ],
       "date": "2026 Sep 17",
-      "doi": "10.1007/s002689900191",
+      "doi": "10.1007/s00068-026-03343-w",
       "tier": "core",
       "topics": [
         "General Trauma"
@@ -5052,7 +5278,7 @@
     {
       "pmid": "42752295",
       "title": "Practice Patterns and Performance of Pediatric Air Medical Tracheal Intubation: A National Multisite Cohort Study.",
-      "abstract": "**OBJECTIVES**: Pediatric prehospital advanced airway management is high-stakes and low-frequency. Prior analyses have been limited to single-agency air medical groups or ground emergency medical services cohorts. National air medical performance is not well described. The aim of this study is to characterize practice patterns and outcomes of pediatric air medical intubation across a national multisite cohort.\n\n**METHODS**: This was a retrospective cohort study of pediatric (< 18 years) intubation encounters performed by air medical crews and recorded in ImageTrend Collaborate, a multisite prehospital clinical data repository, from 2021-2025. First-pass success, overall intubation success, and post-attempt physiology defined as a composite of hypoxia, age-adjusted hypotension, and age-adjusted bradycardia within 10\u2009minutes after index attempt were summarized as n(%) or median (IQR) and compared across four age groups (<1, 1-5, 6-10, 11-17 years) using chi-square or Fisher's exact tests. Site-level medication use was summarized among sites contributing 10 or more encounters.\n\n**RESULTS**: Among 1,040 encounters from 39 contributing sites across four United States regions, median age was 13 years (IQR 5-16) and 57.7% involved trauma or burn. A sedative-plus-paralytic strategy was used in 77.8% (809/1,040) with ketamine the most common induction agent (43.5% ketamine-only, 31.9% etomidate-only). Video laryngoscopy was documented in 8.6% of intubations. First-pass success was 86.5% (898/1,038) and overall success was 93.3% (968/1,038). Performance varied significantly by age with first-pass success at 69.1% (47/68) in infants under 1 year versus 88.7% (535/603) in adolescents (p\u2009<\u20090.001), overall success 80.9% (55/68) versus 93.9% (566/603) respectively (p\u2009<\u20090.001), and post-attempt physiologic instability 53.6% (30/56) versus 31.3% (175/560) respectively (p\u2009=\u20090.008). Post-attempt ETCO2 within 10\u2009minutes was documented in 82.8% (861/1,040) overall, and 60.0% (42/70) in infants (p\u2009<\u20090.001). Among the 13 sites with 10 or more encounters, peri-attempt ketamine share ranged from 9% to 84% and succinylcholine share from 0% to 91%.\n\n**CONCLUSIONS**: In this national multisite air medical cohort, overall airway performance was favorable, but infants younger than 1 year had lower first-pass success, lower overall intubation success, and less frequent post-intubation ETCO2 documentation. Substantial practice variation across contributing sites suggests opportunity for both targeted training in the infant subgroup and benchmarking across sites.",
+      "abstract": "**OBJECTIVES**: Pediatric prehospital advanced airway management is high-stakes and low-frequency. Prior analyses have been limited to single-agency air medical groups or ground emergency medical services cohorts. National air medical performance is not well described. The aim of this study is to characterize practice patterns and outcomes of pediatric air medical intubation across a national multisite cohort.\n\n**METHODS**: This was a retrospective cohort study of pediatric (<18\u2009years) intubation encounters performed by air medical crews and recorded in ImageTrend Collaborate, a multisite prehospital clinical data repository, from 2021 to 2025. First-pass success, overall intubation success, and post-attempt physiology defined as a composite of hypoxia, age-adjusted hypotension, and age-adjusted bradycardia within 10\u2009min after index attempt were summarized as \n\n**RESULTS**: Among 1,040 encounters from 39 contributing sites across four United States regions, median age was 13\u2009years (IQR 5-16) and 57.7% involved trauma or burn. A sedative-plus-paralytic strategy was used in 77.8% (809/1,040) with ketamine the most common induction agent (43.5% ketamine-only, 31.9% etomidate-only). Video laryngoscopy was documented in 8.6% of intubations. First-pass success was 86.5% (898/1,038) and overall success was 93.3% (968/1,038). Performance varied significantly by age with first-pass success at 69.1% (47/68) in infants under 1\u2009year versus 88.7% (535/603) in adolescents (\n\n**CONCLUSIONS**: In this national multisite air medical cohort, overall airway performance was favorable, but infants younger than 1\u2009year had lower first-pass success, lower overall intubation success, and less frequent post-intubation ETCO2 documentation. Substantial practice variation across contributing sites suggests opportunity for both targeted training in the infant subgroup and benchmarking across sites.",
       "journal": "Prehosp Emerg Care",
       "authors": [
         "Cloyd J",
@@ -5062,7 +5288,7 @@
         "Leslie Salewon M",
         "Gerard J"
       ],
-      "date": "2026 Sep 17",
+      "date": "2026 Oct 08",
       "doi": "10.1080/10903127.2026.2733969",
       "tier": "filtered",
       "topics": [
@@ -5768,7 +5994,7 @@
         "Wicart P"
       ],
       "date": "2026 Sep 15",
-      "doi": "10.1007/s00381-009-0924-5",
+      "doi": "10.1007/s00068-026-03322-1",
       "tier": "core",
       "topics": [
         "General Trauma",
@@ -7441,868 +7667,6 @@
       ],
       "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/42725750/"
-    },
-    {
-      "pmid": "42721570",
-      "title": "Beyond surviving: The mental and physical impairment of health-related quality of life after polytrauma emphasizes the need for interprofessional long-term aftercare.",
-      "abstract": "**BACKGROUND**: Major trauma, particularly from road traffic accidents, is a leading cause of death and long-term disability in young adults worldwide. Advances in trauma center management, especially in Germany, have substantially improved survival rates to approximately 90%, which can be considered excellent. They often experience a reduced health-related quality of life (HrQoL) due to persistent physical, emotional, and mental challenges, underscoring the need for comprehensive long-term aftercare. This study focuses on the traumatic aftermath two years after polytrauma beyond the individual pattern of injury.\n\n**METHODS**: This single-center cohort study was performed at the polytrauma outpatient center of the Department of Trauma Surgery, Orthopaedics, and Plastic Surgery of the University Medical Center G\u00f6ttingen (UMG), Germany. Patients were retrospectively identified from hospital and trauma registry records, and data collection (questionnaires and interviews) was performed prospectively. Seventy patients aged 18 years or older with multiple trauma (ICD-10: T07 or related combinations) participated in the study 24 months after the initial trauma. Data on general HrQoL, depressive and anxiety symptoms, and socioeconomic consequences were collected using validated questionnaires (validated trauma-specific questionnaire, SF-36, PHQ-9 & GAD-7), trauma-specific surveys, and patient records. Statistical analyses were used to assess differences and correlations between patient factors and outcomes.\n\n**RESULTS**: Participants displayed significantly lower HrQoL scores across all SF-36 dimensions compared to the general population (p\u202f<\u202f0.005), with pronounced deficits in physical functioning, pain, and emotional role functioning. Nearly half of the participants exhibited mild depressive symptoms, and approximately 40% showed mild to severe anxiety symptoms. Pain, particularly in the lower extremities, and difficulties in daily activities were strongly associated with reduced physical and mental health sum scores. Socioeconomic impacts included changes in social relationships and employment status, with only 51% returning to full-time work and nearly 30% losing their jobs post-injury. Rehabilitation was rated positively, but access remained limited.\n\n**CONCLUSIONS**: Polytrauma should be conceptualized as a chronic disease with complex physical, psychological, and socioeconomic sequelae that significantly impair long-term HrQoL. Effective management requires individualized interdisciplinary aftercare programs focusing on physical rehabilitation, mental health support, and socioeconomic reintegration. Coordinated care models, such as specialized outpatient centers, are essential for addressing these multifaceted needs and improving long-term outcomes for polytrauma survivors.",
-      "journal": "Injury",
-      "authors": [
-        "Spering C",
-        "Bator F",
-        "von Steinb\u00fcchel N",
-        "Neubert A",
-        "Awan Malik H",
-        "Lehmann W"
-      ],
-      "date": "2026 Oct 1",
-      "doi": "10.1016/j.injury.2026.113644",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "polytrauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "major trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "trauma centre",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "trauma registry",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42721570/"
-    },
-    {
-      "pmid": "42721569",
-      "title": "Patellar fractures: To plate them all? Results of a new treatment protocol.",
-      "abstract": "**INTRODUCTION**: In recent years, anatomically contoured locking plates have been introduced as an alternative fixation method for patellar fractures. Biomechanical studies have demonstrated superior mechanical stability and clinical studies further suggest that plating reduces complication and revision rates, especially in comminuted fracture patterns. However, there is uncertainty regarding the role of plating in less complex fracture types. Following an institutional shift to routine plating of all surgically treated patellar fractures, this study compares outcomes and costs of plate versus non-plate fixation for patellar fractures.\n\n**METHODS**: Retrospective cohort at a level-I trauma center (2016-2023). Patients undergoing fixation with \u2265\u202f6-month follow-up were included. Major complications were fixation failure or deep infection; minor included superficial infection, ROM <\u202f110\u00b0, persistent knee pain, or stair-climbing difficulty. Hardware removal was analyzed separately.\n\n**RESULTS**: 125 patients met criteria (48 plating; 77 non-plate); 70% had AO C1-C2 patterns. Major complications occurred in 4% after plating versus 15% with non-plate (p\u202f=\u202f0.07). Hardware removal rate was 8.3% with plating versus 26.0% without. Minor complication rates were lower with plating (p\u202f<\u202f0.05). ROM was better after plating (0-136\u00b0) than non-plate fixation (1-126\u00b0). Cost analysis showed higher primary cost with plating, offset by fewer complications, yielding a net additional expenditure of $6413 overall.\n\n**CONCLUSION**: Plating reduced complications and hardware removal and improved overall function, with modest additional cost.",
-      "journal": "Injury",
-      "authors": [
-        "Davidson A",
-        "Harats E",
-        "Levy Y",
-        "Stavsky M",
-        "Lieberman I",
-        "Altergot A",
-        "Bloom S"
-      ],
-      "date": "2026 Oct 1",
-      "doi": "10.1016/j.injury.2026.113652",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "trauma centre",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42721569/"
-    },
-    {
-      "pmid": "42721568",
-      "title": "Emerging intraoperative diagnostic modalities for fracture-related infection: A scoping review.",
-      "abstract": "**BACKGROUND**: Fracture-related infection (FRI) remains a challenge in orthopedic trauma care. Conventional culturing of deep intraoperative samples is the current diagnostic standard, but confirmation occurs postoperatively, delaying targeted treatment. Real-time intraoperative diagnostic techniques may offer earlier, more precise detection and improved surgical decision-making, but their clinical value remains uncertain and requires further investigation.\n\n**METHODS**: A scoping review was conducted in accordance with PRISMA-ScR guidelines using the JBI PCC framework. Studies were included if they assessed any intraoperative diagnostic technique in patients with confirmed or suspected FRI or in relevant experimental models. Data on study design, population, technique characteristics, outcomes and key findings were charted and synthesised narratively.\n\n**RESULTS**: Seven studies met the inclusion criteria, covering two categories of intraoperative techniques: frozen section analysis (n\u202f=\u202f3) and fluorescence-based imaging (n\u202f=\u202f4). Frozen section analysis demonstrated variable diagnostic performance. One diagnostic accuracy study in upper-limb nonunion surgery reported high sensitivity (88%), specificity (96%) and negative predictive value (98%), whereas a prospective cohort of revision fracture surgery for presumed aseptic failure showed low sensitivity (0%) for detecting indolent infection. Studies assessing intraoperative diagnostic modalities for FRI were heterogeneous in terms of study design, populations, and reference standards. Studies focusing on fluorescence-based imaging were predominantly experimental, including bacterial-targeted fluorescent tracers, fluorescence-assisted assessment of bone viability, and perfusion-based imaging. These techniques consistently demonstrated technical feasibility in ex vivo models, murine infection models, and small clinical feasibility studies, but none have been evaluated in larger FRI cohorts.\n\n**CONCLUSION**: The evidence base for intraoperative diagnostic modalities in FRI is limited. Frozen section analysis is the most established method but shows variable performance across clinical contexts. Fluorescence-based intraoperative imaging techniques seem promising but remain largely developmental. In particular, vancomycin-based fluorescent tracers have shown strong preclinical performance and may enable targeted, real-time visualization of bacterial infections during surgery. Further prospective clinical studies using consistent diagnostic frameworks and validated reference standards are needed to clarify their value in FRI.",
-      "journal": "Injury",
-      "authors": [
-        "Bessems L",
-        "Meuris A",
-        "Onsea J",
-        "Alt V",
-        "Verhofstad MHJ",
-        "Zalavras C",
-        "Trampuz A",
-        "Obremskey WT",
-        "Gitajn IL",
-        "IJpma FFA",
-        "Moriarty TF",
-        "Metsemakers WJ"
-      ],
-      "date": "2026 Oct 1",
-      "doi": "10.1016/j.injury.2026.113654",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Orthopaedic"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "orthopaedic trauma",
-          "strength": "weak",
-          "topic": "Orthopaedic"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42721568/"
-    },
-    {
-      "pmid": "42721567",
-      "title": "Are Staphylococcus aureus fracture-related infections clonal, and what are the implications for bacteriophage therapy?",
-      "abstract": "Fracture related infections (FRI) are a devastating complication of orthopedic trauma care, most commonly caused by Staphylococcus aureus. The organisms' ability to form biofilms complicates conventional antibiotic therapy and drives demands for novel therapeutics. One promising novel approach is bacteriophage therapy, however this therapeutic has a narrow host range. Thus, understanding whether S. aureus FRIs are clonal or polyclonal is crucial for development of bacteriophage therapy. Consequently, the aim, of this study, was to evaluate 15 S. aureus clinical FRI isolates to determine clonality. For each individual FRI, eight colonies underwent whole-genome sequencing and results were compared to a reference strain to determine genomic variants. Isolates from each individual patient demonstrated greater than 92% shared genomic variants and over a 98% overlap with a merged variant profile, indicating clonal infections across all 15 FRIs. Furthermore, we assessed bacteriophage K activity to the planktonic states of the isolates for which there was similar activity against each individual FRI but different activity amongst the 15 FRI isolates. Lastly, we evaluated variations of genes associated with bacteriophage attachment receptors glycosylation (tarS, M, P) in which there were identical sequences across colonies for each individual FRI, indicating limited intra-infection variation in glycosylation potential of this receptor. This data supports that S. aureus FRI are clonal infections which typically have uniform bacteriophage attachment receptor glycosylation profiles within individual infections. These findings are vital for the development of bacteriophage therapy, suggesting that a single S. aureus colony is sufficient to conduct in vitro testing to determine bacteriophage activity to planktonic forms of S. aureus FRI in vivo. Yet further similar studies evaluating sessile heterogeneity are warranted. Nonetheless, the foundation of knowledge seen here supports further translational research and refinement of bacteriophage therapeutic strategies for S. aureus FRI.",
-      "journal": "Injury",
-      "authors": [
-        "Doub JB",
-        "Nebeluk N",
-        "Tallon L",
-        "Hand R",
-        "Vavikolanu K",
-        "Santana-Cruz I",
-        "Levack AE"
-      ],
-      "date": "2026 Oct 1",
-      "doi": "10.1016/j.injury.2026.113682",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Orthopaedic"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "orthopaedic trauma",
-          "strength": "weak",
-          "topic": "Orthopaedic"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42721567/"
-    },
-    {
-      "pmid": "42721566",
-      "title": "Comparison of outcomes based on treatment type for geriatric acetabular fractures: A systematic review and meta-analysis.",
-      "abstract": "**INTRODUCTION**: Acetabular fractures in geriatric patients are increasing in frequency and present unique challenges due to poor bone quality and pre-existing osteoarthritis. High rates of secondary conversion to Total Hip Arthroplasty (THA) have led to the increased use of a \"Fix and Replace\" strategy (Trauma Arthroplasty). This systematic review and meta-analysis compares clinical outcomes and complications of ORIF with primary THA/Combined Hip Procedure (CHP) based on fracture-based treatment strategies in the elderly.\n\n**METHODS**: A systematic literature search was conducted (PubMed, Embase, Cochrane, and Web of Science) for studies published between 1997 and 2025 involving patients aged \u226555 years with acetabular fractures. We compared ORIF (n\u202f=\u202f2034) versus Arthroplasty (CHP/THA, n\u202f=\u202f417) [Synthesized from updated dataset]. Primary outcomes were functional scores (Harris Hip Score and Oxford Hip Score), 90-day and 1-year mortality rates, and reoperation/conversion rates. Absolute numbers and pooled odds ratios (OR) were calculated using a random-effects model RESULTS: Out of 2163 screened articles, 20 (0.9%) were included in this study, encompassing a total cohort of 2703 patients. The mean age of the study population was 74.14 years (SD 6.97), with a mean ASA score of 2.8. The primary THA/CHP group achieved a significantly higher postoperative Harris Hip Score with a mean of 73.6 compared to 66.3 in the ORIF group at three months (p\u202f<\u202f0.05). Surgical intensity was higher in the \"Fix and Replace\" cohort in several series, which demonstrated a significantly longer median operative time (185 vs. 125\u202fmin, p\u202f<\u202f0.001) and an increased intraoperative blood loss (median 1000\u202fml vs. 500\u202fml, p\u202f=\u202f0.006) compared to isolated ORIF. The 90-day mortality rate was 11% for ORIF and 15% for THA/CHP, showing no statistically significant difference (OR 1.08; 95% CI 0.58-2.02; p\u202f=\u202f0.82). Patients initially treated with ORIF had a significantly higher risk of failure requiring secondary surgery, with a 14-45% conversion rate to THA due to post-traumatic osteoarthritis or hardware failure. The primary THA/CHP group had a significantly lower reoperation rate of 4.4% to 7.7%, yielding a pooled odds ratio of 2.34 (95% CI 1.31-5.67; p\u202f<\u202f0.001) in favor of primary arthroplasty CONCLUSION: Primary Trauma Arthroplasty (Fix and Replace) provides superior functional outcomes and lower reoperation rates compared to ORIF alone in geriatric patients with comminuted acetabular fractures or joint impaction. While surgical intensity is higher, the avoidance of \"failed\" osteosynthesis and subsequent complex revision surgery suggests that primary THA is a viable first-line treatment for selected elderly patients.",
-      "journal": "Injury",
-      "authors": [
-        "Halvachizadeh S",
-        "Starr AJ",
-        "Bell L",
-        "Pfeifer R",
-        "Osterhoff G",
-        "H\u00f6ch A",
-        "Hildebrand F",
-        "Hax J",
-        "R\u00fcdiger HA",
-        "Pape HC",
-        "Berk T"
-      ],
-      "date": "2026 Oct 1",
-      "doi": "10.1016/j.injury.2026.113677",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic",
-          "strength": "weak",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42721566/"
-    },
-    {
-      "pmid": "42721565",
-      "title": "Predictive factors for outcomes in pyogenic flexor tenosynovitis: a 10-year analysis of 341 patients.",
-      "abstract": "**INTRODUCTION**: Pyogenic flexor tenosynovitis (PFT) is a surgical emergency that requires prompt diagnosis and treatment to prevent severe hand dysfunction. This study aims to identify epidemiological, clinical, and therapeutic factors influencing outcomes in a large cohort of adult patients.\n\n**METHODS**: We conducted a retrospective observational study of 341 adult patients treated for PFT at a tertiary university hospital between January 2015 and January 2025. Diagnosis was based on Kanavel's signs, and severity was graded using the Michon classification. Functional outcomes were evaluated using the Strickland and Glogovac criteria, DASH scores, and grip strength at final follow-up. Predictors were examined using bivariate correlation and multivariable regression analysis.\n\n**RESULTS**: The median age was 48 years with a male predominance (56.0%). The most common clinical sign was fusiform swelling (87%). Staphylococcus aureus was the predominant pathogen (43.4%). Surgical management primarily involved lavage and debridement (53.7%) or necrosectomy (34.9%). Amputation was required in 11.4% of cases. Functional outcomes were excellent or good in 68.9% of patients. Advanced Michon stage at presentation significantly correlated with higher DASH scores and loss of grip strength. After multivariable adjustment, consultation delay (adjusted OR 1.13 per day, 95% CI 1.02-1.25), diabetes mellitus (aOR 3.19, 95% CI 1.51-6.72) and Michon stage (aOR 8.71 per level, 95% CI 4.61-16.48) remained independent predictors of an unfavourable functional outcome, and polymicrobial infection independently predicted a higher DASH score (\u03b2 5.83, 95% CI 2.50-9.15).\n\n**CONCLUSION**: Early presentation and aggressive management are critical for favorable outcomes in PFT. The absence of pain on passive extension in advanced stages is a grave prognostic sign indicating tissue necrosis rather than improvement.",
-      "journal": "Injury",
-      "authors": [
-        "Idarrha F",
-        "Demnati B",
-        "Boumediane EM",
-        "El Khir YF",
-        "Aziz S",
-        "Benhima MA",
-        "Abkari I"
-      ],
-      "date": "2026 Oct 1",
-      "doi": "10.1016/j.injury.2026.113631",
-      "tier": "filtered",
-      "topics": [],
-      "keyword_matches": [],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42721565/"
-    },
-    {
-      "pmid": "42721363",
-      "title": "Rib fixation still helps: Surgical stabilization of rib fractures in traumatic brain injury, a TQIP Study.",
-      "abstract": "**BACKGROUND**: Surgical stabilization of rib fractures (SSRF) has been associated with lower odds of mortality and reduced pulmonary morbidity in patients with chest trauma, but its role in patients with concomitant traumatic brain injury (TBI) remains controversial. We hypothesized that TBI phenotype modifies the association between SSRF and clinical outcomes.\n\n**METHODS**: We conducted a retrospective study using the TQIP (2017-2023) database. Adults 18 years or above with head and thoracic AIS \u22653 and \u22653 rib fractures were included. TBI phenotypes (focal, diffuse, mixed, concussion-only) were classified using ICD-10 codes. The primary outcome was in-hospital mortality. Secondary outcomes were pulmonary composite complications, ventilator days, and tracheostomy. Firth's penalized regression with SSRF \u00d7 TBI phenotype interaction assessed effect modification, adjusting for age, sex, race, ISS, Glasgow Coma Scale, shock index, and flail chest.\n\n**RESULTS**: Of 73,965 patients, 80.4% had focal TBI, 12.5% mixed, 4.6% concussion-only, and 2.5% diffuse TBI. Overall, 3.3% underwent SSRF, and 12.8% died. TBI phenotype significantly modified the SSRF-mortality association (interaction p=0.011). SSRF was associated with lower odds of mortality in focal TBI [odds ratio (OR): 0.262, 95% CI: 0.206-0.328, p<0.001]. The diffuse TBI interaction term was statistically significant (OR: 0.220, 95% CI: 0.044-0.691, p=0.007), corresponding to a phenotype-specific OR of 0.058. Mixed TBI (interaction OR: 0.628, p=0.109) and concussion-only (interaction OR: 0.590, p=0.338) did not reach significance. SSRF showed no significant association with pulmonary complications (OR: 1.23, p=0.073) or ventilator days (B=-0.15, p=0.19), with no phenotype interaction for either outcome. SSRF was associated with increased tracheostomy (OR: 2.50, 95% CI: 2.05-3.05, p<0.001) without phenotype interaction.\n\n**CONCLUSIONS**: TBI phenotype significantly modified the association between SSRF and in-hospital mortality. SSRF was associated with lower adjusted odds of mortality in focal and diffuse TBI phenotypes, suggesting that TBI should not categorically preclude SSRF candidacy. These findings support phenotype-based patient selection for SSRF, favoring intervention even in the presence of TBI.\n\n**LEVEL OF EVIDENCE**: Therapeutic/Care Management; Level III.",
-      "journal": "J Trauma Acute Care Surg",
-      "authors": [
-        "Zangbar B",
-        "Peisepar M",
-        "Mehta R",
-        "Prabhakaran K",
-        "Shnaydman I",
-        "Kannichamy V",
-        "Harikrishnan S",
-        "Froula G",
-        "Kirsch J"
-      ],
-      "date": "2026 Sep 10",
-      "doi": "10.1097/TA.0000000000005171",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "TBI",
-        "Thoracic"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "rib fracture",
-          "strength": "strong",
-          "topic": "Thoracic"
-        },
-        {
-          "keyword": "flail chest",
-          "strength": "weak",
-          "topic": "Thoracic"
-        },
-        {
-          "keyword": "traumatic brain injury",
-          "strength": "strong",
-          "topic": "TBI"
-        },
-        {
-          "keyword": "concussion",
-          "strength": "weak",
-          "topic": "TBI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42721363/"
-    },
-    {
-      "pmid": "42721360",
-      "title": "Western Trauma Association critical decisions in trauma: Update on the management of the mangled extremity.",
-      "abstract": "",
-      "journal": "J Trauma Acute Care Surg",
-      "authors": [
-        "Kerwin AJ",
-        "Croft CA",
-        "Skarupa DJ",
-        "Coimbra R",
-        "DuBose J",
-        "Fox CJ",
-        "Keric N",
-        "Kopelman TR",
-        "Lorenzo M",
-        "Magee GA",
-        "Moore EE",
-        "Miller R",
-        "Privette AR",
-        "Scalea TM",
-        "Tesoriero R",
-        "Schellenberg M",
-        "Schuster K",
-        "Watters JM",
-        "Stein DM"
-      ],
-      "date": "2026 Sep 10",
-      "doi": "10.1097/TA.0000000000005174",
-      "tier": "core",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42721360/"
-    },
-    {
-      "pmid": "42717598",
-      "title": "Emergency Department Guidelines for Orthopedic Consultation in an Academic Trauma Center: Effect on ED Throughput and Consultation Utilization.",
-      "abstract": "**OBJECTIVES**: Musculoskeletal injuries account for approximately 20% of presentations to emergency departments (ED) in the United States. While many patients can be treated exclusively by an emergency medicine (EM) clinician, others require consultation with an orthopedic surgeon. The objective of this quality improvement initiative was to develop and evaluate the effect of institutional orthopedic consultation guidelines on ED length of stay (LOS), the percentage of patients with fractures who receive an orthopedic consultation in the ED and orthopedic clinic referrals without an ED orthopedics consultation.\n\n**METHODS**: A multidisciplinary team of EM and orthopedic clinicians developed injury-based guidelines for ED patients defining when orthopedic consultation was required, when a phone consultation was required, and when EM clinicians should provide exclusive care. The guidelines were implemented at our institution on June 15, 2022. We performed a retrospective before-after study of all ED patients with orthopedic extremity or pelvis injuries between August 2021 and June 2023 and analyzed changes in ED metrics using multivariable difference-in-differences analysis and quantile regression.\n\n**RESULTS**: A total of 4013 patient visits with fractures of an extremity or the pelvis were included. After adjusting for covariates and temporal trends, ED LOS decreased by a median of 71\u2009min (p\u2009<\u20090.001) after implementation of the guidelines in difference-in-differences analyses. After implementation of the guidelines, orthopedic consultation decreased by 5.5% (95% CI: -10.2, -0.8), and outpatient referrals to orthopedics without an in-person consultation in the ED increased by 11.2% (95% CI: 7.8, 14.5).\n\n**CONCLUSION**: Institutional guidelines for ED orthopedic consultations increased the number of patients managed exclusively by the EM service, decreased total consultations placed to the orthopedic service and decreased the ED LOS for patients at a large urban Level-1 trauma center.",
-      "journal": "Acad Emerg Med",
-      "authors": [
-        "Tomberg SM",
-        "Trent SA",
-        "Joseph KM"
-      ],
-      "date": "2026 Sep 1",
-      "doi": "10.1111/acem.70402",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "trauma centre",
-          "strength": "strong",
-          "topic": "Systems/QI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42717598/"
-    },
-    {
-      "pmid": "42716854",
-      "title": "The Birmingham Eye Trauma Terminology - Extension from Lebanon (BETT-XL) classification: A multi-center validation in modern warfare.",
-      "abstract": "**BACKGROUND**: In modern warfare, ocular injuries frequently result in severe injuries that challenge existing classification systems. The standardized Birmingham Eye Trauma Terminology (BETT) does not adequately capture the extensive globe or periocular damage encountered in conflict settings. We aimed to develop an extension to BETT capable of classifying the full spectrum of injuries. We further sought to validate the extended framework using a real-world cohort from the 2024 pagers explosions in Lebanon.\n\n**METHODS**: Phase I included a targeted literature review of severe ocular trauma cases unclassifiable on BETT, based on which experts practicing in conflict zones identified the gaps in and developed the BETT Extension from Lebanon (BETT-XL). In Phase II, we validated BETT-XL by applying it to a retrospective multicenter cohort of ocular injuries from the pager explosions. Data on examination on presentation, imaging, primary management, and intraoperative findings were collected. From available data, we classified the injuries using the BETT and BETT-XL systems.\n\n**RESULTS**: The literature review identified the following injuries as unclassifiable in BETT: Traumatic Evisceration, Luxation, Avulsion, and Traumatic Exenteration. We addressed the first three gaps by incorporating three novel subcategories in BETT-XL, and by adding Traumatic Exenteration to a previous modification of BETT that incorporated periocular injuries. The validation cohort included ninety-three patients with pager-related ophthalmic trauma. Closed Globe injuries were present in 36.6% and 22.6% of right and left eyes respectively. Per BETT, Open Globe injuries were present in 19.4% and 25.8% of eyes. An additional 24.7% and 34.4% of severely injured eyes were unclassifiable in BETT, and were presented under the BETT-XL category of Traumatic Evisceration.\n\n**CONCLUSION**: BETT-XL provides an evidence-based extension that incorporates previously unclassifiable, severe ocular injuries. This enables a more comprehensive characterization of modern conflict-related ocular injuries. Further prospective studies can be done to validate it across diverse conflict-affected settings and to document inter-rater reliability and prognostic utility. These results also highlight the devastating impact of blasts on vision, and the necessity of conflict medicine preparedness in care systems, starting with updated classification systems.",
-      "journal": "Injury",
-      "authors": [
-        "Ibrahim R",
-        "Arafat O",
-        "Mansour R",
-        "Sadaka A",
-        "Al Ghadban F",
-        "Nemer A",
-        "Allam S",
-        "El Mollayess G",
-        "Seif R",
-        "Osman H",
-        "Abu-Sittah G",
-        "Bleik J",
-        "Sleiman K"
-      ],
-      "date": "2026 Sep 05",
-      "doi": "10.1016/j.injury.2026.113687",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic",
-          "strength": "weak",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42716854/"
-    },
-    {
-      "pmid": "42715919",
-      "title": "Sex differences in martial arts injuries presenting to emergency departments in the United States from 2015 to 2024.",
-      "abstract": "**INTRODUCTION**: Martial arts participation in the United States is increasing, particularly among females, but sex-specific injury patterns remain poorly understood. The purpose of our study was to examine sex differences in martial arts injuries presenting to United States emergency departments by year, age, body region, diagnosis, and martial arts style. We hypothesized injury distributions would differ between females and males METHODS: We conducted a retrospective cohort study where we queried the National Electronic Injury Surveillance for martial arts injuries recorded from 2015 to 2024. We calculated national injury estimates, injury incidence per 100,000 patients, and crude risk differences with 95% confidence intervals between females and males by age, region, diagnosis, and style.\n\n**RESULTS**: A total of 7613 cases corresponded to a national estimate of 277,753 martial arts injuries. Females had a significantly higher proportion of injuries among youth ages 2-17 years (46.1% vs 33.1%; RD 0.13; 95% CI, 0.09-0.17); foot (23.8% vs 17.3%; RD 0.07; 95% CI, 0.04-0.09), hand (14.7% vs 11.9%; RD 0.03; 95% CI, 0.01-0.05), and leg injuries (16.7% vs 14.4%; RD 0.02; 95% CI, 0.00-0.04); strains and sprains (29.9% vs 21.2%; RD 0.09; 95% CI, 0.05-0.12); and striking-style injuries (53.2% vs 32.2%; RD 0.21; 95% CI, 0.18-0.25). Most female injury incidence patterns post-2020 decreased or remained stable, while many male injury incidence patterns sharply rose, particularly those associated with grappling and mixed martial arts.\n\n**DISCUSSION**: Significant sex differences exist in martial arts injuries presenting to United States emergency departments. Injury distributions align with style categories, with females accounting for more striking-related injuries and males more grappling/mixed martial arts-related injuries. Post-2020 trends show widening sex differences in injury incidence.\n\n**CONCLUSION**: We highlight specific sex differences in martial arts emergency department injuries for use by healthcare professionals, coaches, and organizations. Recognition of sex-specific injury patterns may inform sex-specific training, injury prevention, and rehabilitation strategies for martial arts athletes across the lifespan.",
-      "journal": "Injury",
-      "authors": [
-        "Hamstra-Wright KL",
-        "Kremer H",
-        "Coumbe-Lilley JE",
-        "Khosla S"
-      ],
-      "date": "2026 Oct 1",
-      "doi": "10.1016/j.injury.2026.113658",
-      "tier": "filtered",
-      "topics": [
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "injury prevention",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42715919/"
-    },
-    {
-      "pmid": "42715918",
-      "title": "Open versus percutaneous fibular graft harvesting in long bone nonunion surgery: A comparative cohort study.",
-      "abstract": "**AIMS**: The traditional open harvesting method used in fibular grafting is a well-established reconstructive technique, but it is associated with donor-site morbidity. However, percutaneous harvesting has been introduced as a minimally invasive method to reduce trauma while preserving graft adequacy.\n\n**METHODS**: A retrospective comparative analysis was conducted to measure the outcomes of percutaneous versus open fibular graft harvesting. Studied variables included patient demographics, intraoperative parameters (harvest time, estimated blood loss, incision length), and postoperative outcomes (pain scores, analgesia requirements, donor-site complications, and functional recovery).\n\n**RESULTS**: Among 34 patients undergoing non-vascularized fibular grafting for long-bone non-unions, 16 (47%) underwent graft harvest using an open approach, and 18 (53%) using a percutaneous technique. Baseline demographic and surgical characteristics were generally similar between the groups. The percutaneous approach was associated with significantly lower postoperative pain scores at 1 week (VAS 7.39\u202f\u00b1\u202f0.61 vs. 8.19\u202f\u00b1\u202f0.66, p\u202f=\u202f0.0008), 1 month (4.56\u202f\u00b1\u202f0.78 vs. 6.13\u202f\u00b1\u202f0.66, p\u202f<\u202f0.0001), and 3 months, shorter graft harvest time, reduced intraoperative blood loss, and smaller incision length. Sensory deficits of the peroneal nerve were observed exclusively in the open group (37.5% vs. 0%, p\u202f=\u202f0.004). Both techniques achieved comparable union rates (100% vs. 88.9%, p\u202f=\u202f0.169), graft incorporation during follow-up (100% vs. 83.3%, p\u202f=\u202f0.087), overall complication rates, and reoperation rates, with no mortality reported at one-year follow-up.\n\n**CONCLUSION**: Percutaneous fibular graft harvesting offers a safe and effective alternative to the conventional open approach. It is associated with lower intraoperative morbidity and improved early postoperative recovery, without compromising graft utility or increasing complication rates. These findings support the wider adoption of minimally invasive techniques in fibular graft harvesting.",
-      "journal": "Injury",
-      "authors": [
-        "Hseinat LA",
-        "Al-Bataineh M",
-        "Migdad AA",
-        "Aolymate M",
-        "Sbaihat M",
-        "Badaineh AAA",
-        "Alzyadat LAA",
-        "Soudi HA"
-      ],
-      "date": "2026 Oct 1",
-      "doi": "10.1016/j.injury.2026.113676",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42715918/"
-    },
-    {
-      "pmid": "42715917",
-      "title": "Decision-making in patients facing limb salvage versus amputation after lower extremity trauma: A scoping review.",
-      "abstract": "**OBJECTIVE**: To review the psychosocial and clinical factors influencing patient decision-making between limb salvage and amputation after major lower extremity trauma (MLET), and to identify strategies to support shared, informed decision-making.\n\n**SUMMARY BACKGROUND DATA**: Patients with MLET must often rapidly decide between limb salvage and amputation, a decision with major functional and psychosocial consequences. Existing clinical tools emphasize anatomic and physiologic criteria but overlook patient values and quality-of-life considerations. Prior work suggests outcomes are often similar between salvage and amputation, and that psychosocial adaptation drives satisfaction more than surgical choice.\n\n**METHODS**: Narrative literature review synthesizing evidence from trauma surgery, orthopedic surgery, plastic surgery, psychology, and economics sources to characterize psychosocial and clinical barriers to informed decision-making in MLET.\n\n**RESULTS**: Grief responses, cognitive biases (loss aversion, bounded rationality, sunk-cost fallacy), and decision fatigue were identified as key psychosocial barriers. Traumatic brain injury, opioid analgesia, and substance use were identified as clinical factors impairing cognition and capacity. These factors can impair communication and the pursuit of informed, shared decision-making.\n\n**CONCLUSIONS**: Decision-making in MLET is shaped by overlapping psychosocial and clinical barriers to informed choice. Addressing these through trauma-informed communication, multidisciplinary consistency, and structured decision aids may improve shared decision-making. Prospective, MLET-specific research is needed.",
-      "journal": "Injury",
-      "authors": [
-        "Engel R",
-        "Landon E",
-        "Bell E",
-        "Erdman MK",
-        "Beederman M"
-      ],
-      "date": "2026 Oct 1",
-      "doi": "10.1016/j.injury.2026.113680",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "TBI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic brain injury",
-          "strength": "weak",
-          "topic": "TBI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42715917/"
-    },
-    {
-      "pmid": "42715916",
-      "title": "The management of arterial injuries associated with musculoskeletal trauma.",
-      "abstract": "",
-      "journal": "Injury",
-      "authors": [
-        "Trompeter A",
-        "Moran C"
-      ],
-      "date": "2026 Oct 1",
-      "doi": "10.1016/j.injury.2026.113648",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42715916/"
-    },
-    {
-      "pmid": "42715915",
-      "title": "Evaluating the physical examination and diagnostic workup for occult Neck Of Femur fractures in a district general hospital.",
-      "abstract": "**BACKGROUND**: Occult Neck of Femur (NOF) fractures are radiographically elusive injuries. Undiagnosed, they lead to delayed treatment, displacement, and increased morbidity. While MRI is the gold standard for detection, CT is frequently used when MRI is unavailable. Physical examination manoeuvres, specifically the hip log-roll (HR) and straight leg raise (SLR), are often employed to guide decisions regarding cross-sectional imaging. This study explores the utility of these physical examinations in guiding the workup for occult NOF fractures.\n\n**METHODS**: A prospective service evaluation was performed at a 400-bed UK district general hospital (Jan 2023-Apr 2025). An electronic data-capture form integrated into CT/MRI requests identified 133 imaging requests ordered for suspected occult NOF fractures (120 CT and 14 MRI). Fifteen requests were cancelled (12 CT and 1 MRI out of a total 146 requests in 143 patients), and 14 CT Investigations related to suspected periprosthetic fracture were excluded from the primary native-hip analysis. Clinician-recorded results for HR, SLR, axial loading, and heel-percussion tests were compared against CT and MRI outcomes. Sensitivity, specificity, predictive values, and area under the ROC curve (AUC) were calculated for each test. A 4-point risk score (age > 70, female gender, positive HR, positive SLR) was evaluated for its discriminatory power.\n\n**RESULTS**: CT confirmed 38 occult NOF fractures, with 4 further cases confirmed on MRI (including one initially missed on CT) and 3 on initial radiographic re-assessment. ). HR and SLR were performed in more than 95% of patients, demonstrating high sensitivities of 0.96 and 0.91, respectively, but low specificities (<0.35). Axial loading and heel percussion showed lower sensitivities (0.68 and 0.64). Combined HR + SLR yielded a fair AUC (0.68), which improved to 0.72 when age and gender were incorporated into the risk score.\n\n**CONCLUSIONS**: In this setting, CT detected 97% of occult NOF fractures, missing only one micro-trabecular injury subsequently detected on MRI. The hip log roll and straight leg raise tests demonstrated high sensitivity but limited specificity, with improved performance when combined with demographic factors. These findings suggest that clinical examination manoeuvres are most useful for ruling out, rather than confirming, occult NOF fractures. Importantly, they reinforce the role of careful bedside physical examination in guiding appropriate imaging, particularly in an era of increasing reliance on radiological investigations.",
-      "journal": "Injury",
-      "authors": [
-        "Maksoud A",
-        "Nkala M",
-        "Henderson K",
-        "Minijenahalli-Narayanaswamy S"
-      ],
-      "date": "2026 Oct 1",
-      "doi": "10.1016/j.injury.2026.113656",
-      "tier": "filtered",
-      "topics": [],
-      "keyword_matches": [],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42715915/"
-    },
-    {
-      "pmid": "42715914",
-      "title": "Multidisciplinary management of fractures in patients with hemophilia: Advances in perioperative hemostasis and functional restoration in the era of novel therapies.",
-      "abstract": "Hemophilic arthropathy remains a major cause of disability in patients with hemophilia (PwH) and often progresses to a stage requiring surgical intervention. The perioperative management of these patients is inherently complex, as it requires not only effective control of bleeding but also careful coordination across multiple clinical disciplines. In recent years, advances in coagulation factor replacement therapy and adjunctive hemostatic strategies have substantially improved surgical safety; However, perioperative decision-making continues to be challenged by variability in disease severity, joint pathology, and individual bleeding risk. This review provides a comprehensive overview of current perioperative management strategies for patients with hemophilic arthropathy undergoing orthopedic surgery. Key aspects discussed include preoperative assessment and planning, individualized coagulation factor replacement protocols, adjunctive hemostatic measures, anesthetic considerations, and postoperative rehabilitation. Particular attention is given to the role of multidisciplinary collaboration in optimizing surgical outcomes and minimizing perioperative complications. By integrating available evidence with practical clinical considerations, this review aims to highlight critical elements of perioperative care that contribute to safer surgical management and improved functional outcomes in patients with hemophilic arthropathy.",
-      "journal": "Injury",
-      "authors": [
-        "Wu K",
-        "Zhao L",
-        "Yu Z",
-        "Guo JJ"
-      ],
-      "date": "2026 Oct 1",
-      "doi": "10.1016/j.injury.2026.113667",
-      "tier": "filtered",
-      "topics": [],
-      "keyword_matches": [],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42715914/"
-    },
-    {
-      "pmid": "42715781",
-      "title": "Head, neck, and spinal injuries in go-karting: An epidemiological analysis.",
-      "abstract": "**BACKGROUND**: Despite go-karting's increased popularity, participants are susceptible to blunt force trauma, fractures, and acceleration-deceleration injuries. This study evaluated national patterns and temporal trends in go-kart-related head, neck, and spinal injuries presenting to U.S. emergency departments.\n\n**METHODS**: The National Electronic Injury Surveillance System (NEISS) was queried for go-kart-related head, neck, and spinal injuries from 2004 through 2023. Case narratives were reviewed for inclusion and classification of diagnoses and injury mechanisms. Survey-weighted analyses accounted for the NEISS complex sampling design.\n\n**RESULTS**: The final cohort included 1015 sampled cases, corresponding to an estimated 34,561\u00a0U.S. emergency department visits (95% CI, 32,564-36,558). The weighted median age was 15\u00a0years, 63.1% of injuries occurred among patients aged 0-18\u00a0years, and 57.3% occurred among males. Head-involving injuries accounted for 54.0% of the weighted estimate. Closed/nonspecific head injury was the most common diagnostic category (31.8%), followed by neck/back strain or sprain (29.5%) and concussion (16.7%). Collision with another go-kart was the most common overall mechanism (29.6%), and 43.7% of these collisions involved the head (95% CI, 35.7%-51.7%). Among head-involving injuries, rollover or flipping was the most common mechanism (28.7%), followed by stationary-object collision (25.0%) and collision with another go-kart (24.0%). The weighted proportion of head-involving injuries increased by approximately 1.8 percentage points per year (p\u00a0<\u00a0.001).\n\n**CONCLUSION**: Head-involving injuries accounted for more than half of the weighted burden of go-kart-related head, neck, and spinal injuries, with children and adolescents accounting for nearly two-thirds of injuries. Head injuries occurred across multiple crash mechanisms, supporting further investigation of age-specific and mechanism-specific prevention strategies.",
-      "journal": "Am J Emerg Med",
-      "authors": [
-        "Alam Z",
-        "Yaseen B",
-        "Desai K",
-        "Chaudhry S",
-        "Maddali A",
-        "Sivan V",
-        "Kumar RP",
-        "Patel N"
-      ],
-      "date": "2026 Sep 03",
-      "doi": "10.1016/j.ajem.2026.09.005",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "TBI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "head injury",
-          "strength": "weak",
-          "topic": "TBI"
-        },
-        {
-          "keyword": "concussion",
-          "strength": "weak",
-          "topic": "TBI"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42715781/"
-    },
-    {
-      "pmid": "42715780",
-      "title": "Safety and efficacy of tenecteplase versus alteplase for acute ischemic stroke in a real-world patient population.",
-      "abstract": "**PURPOSE**: We compared safety and efficacy of tenecteplase (TNK) and alteplase for acute ischemic stroke (AIS) in a real-world setting.\n\n**METHODS**: Retrospective, observational, study of adult AIS patients who received TNK or alteplase within 4.5\u00a0h of symptom onset from May 2020-June 2024. Primary outcome was symptomatic intracranial hemorrhage (sICH) occurrence. Secondary outcomes were major and minor bleeding occurrence, National Institutes of Health Stroke Scale (NIHSS) score changes, angioedema occurrence, modified Rankin Scale changes, length of stay, and mortality. Univariate and stratified analyses were conducted to assess bleeding differences and specifically in subpopulations often underrepresented in the literature (advanced age, minor strokes [NIHSS, < 5], and poor pre-stroke functional status).\n\n**RESULTS**: 478 patients were included; 255 (53.2%) TNK and 223 (46.7%) alteplase (median age 72\u00a0years [IQR 61-83], 33% minor strokes [33%]). There were numerically more sICH and other major bleeding events in the TNK group; 3.9%, vs. 3.1%, p\u00a0=\u00a00.65 and 20.4% vs. 15.7%, p\u00a0=\u00a00.18, respectively, although not statistically significant. There were no differences in secondary outcomes. Age\u00a0<\u00a080\u00a0years and NIHSS \u22655 at presentation were associated with a bleeding event on stratified analysis, however not maintained in the logistic regression model.\n\n**CONCLUSIONS**: There were no statistically significant differences in safety or efficacy between TNK and alteplase for AIS. These results provide real-world experience especially in a large, older patient population, with relatively minor stroke. Type II error may limit findings. Research is needed to identify patient, stroke, or fibrinolytic agent related factors that may increase bleeding occurrence.",
-      "journal": "Am J Emerg Med",
-      "authors": [
-        "Toole S",
-        "Bishop R",
-        "Acquisto NM",
-        "Jones CMC",
-        "Groth CM",
-        "Leonhardt-Caprio A",
-        "Spalding T",
-        "Weaver A",
-        "Uttaro E"
-      ],
-      "date": "2026 Sep 02",
-      "doi": "10.1016/j.ajem.2026.08.048",
-      "tier": "filtered",
-      "topics": [
-        "TBI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "intracranial haemorrhage",
-          "strength": "weak",
-          "topic": "TBI"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42715780/"
-    },
-    {
-      "pmid": "42715562",
-      "title": "Outbreak of Severe Methemoglobinemia during Maritime Migration.",
-      "abstract": "**BACKGROUND**: Migrants crossing the Central Mediterranean sea route travel in overcrowded vessels, where fuel may leak and contaminate seawater accumulating on the vessel floor, resulting in prolonged dermal exposure and fuel-related skin injuries. Since March 2024, clusters of cases of severe acquired methemoglobinemia with no apparent cause have been identified by clinicians in Lampedusa at disembarkation among migrants arriving in Italy.\n\n**METHODS**: We conducted a coordinated clinical and toxicologic investigation to characterize these cases and identify the underlying cause. Biologic samples were obtained from a subset of patients and analyzed for methemoglobin-inducing agents. A fuel sample from a vessel associated with one of the case clusters was also analyzed.\n\n**RESULTS**: Between March 2024 and December 2025, a total of 82 patients with severe acquired methemoglobinemia were identified, 90% of whom were male; the median age of the patients was 22.5 years (interquartile range, 19.5 to 28.0). The median methemoglobin level at presentation was 44.6% (interquartile range, 32.0 to 55.7), with 43% of the patients having a level of 50% or greater. Methylene blue therapy was used in 90% of the patients, often in repeated doses. Hemolytic anemia occurred as a delayed complication in 38 patients, frequently leading to blood transfusion. Two patients died. Toxicologic analysis identified \n\n**CONCLUSIONS**: This investigation identified dermal absorption of the gasoline additive ",
-      "journal": "N Engl J Med",
-      "authors": [
-        "Bernasconi L",
-        "Lonati D",
-        "Teresi A",
-        "D'Arca F",
-        "Ricca N",
-        "Merli D",
-        "Pes M",
-        "Rotolo A",
-        "Grignani E",
-        "Agozzino C",
-        "Benussi CC",
-        "Brolli B",
-        "Buscaglia E",
-        "Carnovale M",
-        "Centonze A",
-        "Ciotta M",
-        "Di Lascio F",
-        "Fiorica G",
-        "Frigerio T",
-        "Genco F",
-        "Geraci AM",
-        "Ippati G",
-        "Mazzarese V",
-        "Negrini VM",
-        "Palmeri M",
-        "Petrolini VM",
-        "Petrusa F",
-        "Roda E",
-        "Scaravaggi G",
-        "Schicchi A",
-        "Scotto S",
-        "Zaffino F",
-        "Locatelli CA"
-      ],
-      "date": "2026 Sep 10",
-      "doi": "10.1056/NEJMoa2606487",
-      "tier": "filtered",
-      "topics": [
-        "Haemorrhage"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "blood transfusion",
-          "strength": "weak",
-          "topic": "Haemorrhage"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42715562/"
-    },
-    {
-      "pmid": "42715434",
-      "title": "Association or causation? Methodological concerns regarding high fresh frozen plasma to packed red blood cell ratios in trauma resuscitation.",
-      "abstract": "",
-      "journal": "J Trauma Acute Care Surg",
-      "authors": [
-        "Wang H",
-        "Li Y",
-        "Luo N"
-      ],
-      "date": "2026 Sep 09",
-      "doi": "10.1097/TA.0000000000005172",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "Haemorrhage",
-        "Prehospital"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "packed red blood cells",
-          "strength": "strong",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "trauma resuscitation",
-          "strength": "strong",
-          "topic": "Prehospital"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42715434/"
-    },
-    {
-      "pmid": "42714634",
-      "title": "Small bowel obstruction in older adults: similar nonoperative success but worse outcomes across management strategies - insights from the ESTES SnapSBO study.",
-      "abstract": "**BACKGROUND**: Small bowel obstruction (SBO) is a common surgical emergency. It remains unclear whether adverse outcomes in older patients reflect impaired obstruction resolution, differences in disease phenotype, or reduced physiologic tolerance.\n\n**METHODS**: We performed a prespecified age-stratified analysis of the multicenter SnapSBO cohort, which consecutively enrolled adults with radiologically-confirmed mechanical SBO, stratified as younger (<\u200965 years) or older (\u2265\u200965 years). Presentation, etiology, management, and outcomes were compared using risk differences and odds ratios. Exploratory analyses evaluated patients aged 65-79 years and \u2265\u200980 years.\n\n**RESULTS**: Among 1,731 patients, 729 (42.1%) were aged\u2009\u2265\u200965 years. Older adults had more non-adhesive etiologies, including neoplastic and inflammatory obstruction, and more imaging features of severe disease. They were less likely to undergo a trial of nonoperative management (67.9% vs. 72.7%; absolute risk difference, -\u20094.8%; P\u2009=\u20090.037). However, among those managed nonoperatively, resolution rates were similar (68.8% vs. 69.5%). Despite this, older adults experienced higher rates of complications (16.7% vs. 6.7%), aspiration pneumonia (3.8% vs. 1.0%), and in-hospital mortality (6.9% vs. 3.6%). Those aged\u2009\u2265\u200980 years showed similar management but substantially higher mortality and complications.\n\n**CONCLUSIONS**: Older adults achieved similar nonoperative resolution despite worse outcomes, suggesting chronological age incompletely captures treatment-relevant risk. These outcomes may reflect disease phenotype, frailty, physiologic vulnerability, or response to complications. Decision-making should integrate etiology, imaging-defined severity, frailty, and physiologic vulnerability rather than age alone.",
-      "journal": "Eur J Trauma Emerg Surg",
-      "authors": [
-        "Bunino FM",
-        "Cimino MM",
-        "Martinez Casas I",
-        "Bellio G",
-        "Porta M",
-        "Cayre L",
-        "Mohseni S",
-        "Kaplan LJ",
-        "Lee MJ",
-        "Bass GA",
-        "Kurihara H"
-      ],
-      "date": "2026 Sep 09",
-      "doi": "10.1016/j.amjsurg.2018.11.020",
-      "tier": "core",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42714634/"
-    },
-    {
-      "pmid": "42714133",
-      "title": "Treatment Strategies for Feeder Artery Aneurysms Associated With Arteriovenous Malformations.",
-      "abstract": "**BACKGROUND AND OBJECTIVES**: Intracranial arterial aneurysms are frequently discovered in the presence of cerebral arteriovenous malformations (AVMs). The presence of both a feeder artery aneurysm (FAA) and an AVM is associated with a more aggressive clinical course. This study aimed to describe a single-center experience treating AVM-associated FAAs over a two-decade period and review multimodality treatment strategies in both ruptured and unruptured presentations.\n\n**METHODS**: A retrospective review was conducted of patients (18 years and older) who presented with an AVM and one or more associated FAAs between January 2000 and December 2025. Intranidal aneurysms and aneurysms unrelated to the AVM were excluded. Angiographic follow-up of at least 30 days was required for inclusion in outcome analysis. Data on AVM and FAA characteristics, treatment strategies, and outcomes were collected and analyzed.\n\n**RESULTS**: A total of 81 patients with 82 AVMs and 132 FAAs were identified. Most AVMs were supratentorial (63.4%), with 70.7% presenting with intracranial hemorrhage originating from either the AVM nidus or an associated FAA. Of the 60 FAAs with \u226530-day follow-up, 42 were directly treated, and 95% (40/42) achieved complete occlusion. Occlusion rates were 100% for microsurgical clipping/resection and n-butyl cyanoacrylate embolization, and 80% for endovascular coiling. Among 18 untreated FAAs with follow-up, 12 regressed after treatment of the underlying AVM and 6 remained stable. No untreated aneurysm enlarged or ruptured. The overall rate of symptomatic complication after FAA treatment was 5.5% (4/73), with no treatment-related mortality.\n\n**CONCLUSION**: AVM-associated FAAs can be managed with multimodal strategies that yield high occlusion rates and with a low risk of complications. In select cases, FAAs may regress after treatment of the underlying AVM, suggesting that not all lesions require direct intervention. These findings support an individualized approach to management and provide a foundation for future prospective studies to refine treatment plans.",
-      "journal": "Neurosurgery",
-      "authors": [
-        "Abdul Muqsith M",
-        "Bram R",
-        "Abou-Mrad T",
-        "Adegoke M",
-        "Alsalama A",
-        "McCarthy F",
-        "Charbel FT",
-        "Alaraj A"
-      ],
-      "date": "2026 Sep 09",
-      "doi": "10.1227/neu.0000000000004204",
-      "tier": "filtered",
-      "topics": [
-        "TBI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "intracranial haemorrhage",
-          "strength": "weak",
-          "topic": "TBI"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42714133/"
-    },
-    {
-      "pmid": "42714053",
-      "title": "Data-Driven Re-Evaluation of Hemodynamic Instability in the Pediatric Trauma Population.",
-      "abstract": "**BACKGROUND**: Hemodynamic instability in pediatric trauma is traditionally defined using reference values derived from healthy children rather than injured patients at risk for mortality. This approach may underestimate true instability and delay life-saving resuscitation. We sought to derive age-specific systolic blood pressure (SBP), heart rate (HR), and shock index (SI) thresholds associated with mortality in pediatric trauma patients.\n\n**STUDY DESIGN**: A retrospective analysis of the American College of Surgeons Trauma Quality Improvement Program (2018-2023) included injured children aged 1-15 years. Discrimination of SBP, HR, and SI for mortality was assessed using the area under the receiver operating characteristic curve, and optimal age-specific thresholds were identified using Youden's index. Derived thresholds were compared with Pediatric Advanced Life Support (PALS) hypotension definitions, age-based tachycardia thresholds, and the Pediatric Age-adjusted Shock Index (SIPA).\n\n**RESULTS**: Among 233,490 pediatric trauma patients, mortality-associated SBP thresholds were consistently 15-30 mmHg higher than PALS hypotension definitions, whereas HR thresholds differed by 0-30 beats/min from traditional age-based values. Derived SI thresholds closely approximated established SIPA values, supporting their validity. The greatest divergence between data-derived and conventional thresholds occurred among children aged 1-2 years.\n\n**CONCLUSIONS**: Mortality in injured children was associated with substantially higher SBP thresholds than those currently used to define hypotension, suggesting that existing pediatric criteria may underestimate hemodynamic instability. The concordance of derived SI thresholds with SIPA provides additional validation of this metric. Adoption of higher SBP thresholds may facilitate earlier recognition of high-risk pediatric trauma patients and more timely resuscitation.",
-      "journal": "J Am Coll Surg",
-      "authors": [
-        "Annesi CA",
-        "Acharya P",
-        "Griffin R",
-        "Russell RT",
-        "Kerby JD",
-        "Holcomb JB",
-        "Hashmi ZG"
-      ],
-      "date": "2026 Sep 09",
-      "doi": "10.1097/XCS.0000000000002112",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Paediatric",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "paediatric trauma",
-          "strength": "strong",
-          "topic": "Paediatric"
-        },
-        {
-          "keyword": "trauma quality",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42714053/"
-    },
-    {
-      "pmid": "42713842",
-      "title": "Holmium laser enucleation of the prostate for the treatment of lower urinary tract symptoms in men with benign prostatic hyperplasia.",
-      "abstract": "**RATIONALE**: A range of surgical options is available for the treatment of benign prostatic hyperplasia (BPH), including holmium laser enucleation of the prostate (HoLEP). The evidence is unclear regarding differences in functional, perioperative, and morbidity outcomes between these modalities.\n\n**OBJECTIVES**: To assess the effects of holmium laser enucleation of the prostate compared with other surgical treatments for lower urinary tract symptoms in men with benign prostatic hyperplasia.\n\n**SEARCH METHODS**: We searched multiple databases (including MEDLINE, Embase, CENTRAL, Web of Science, LILACS, and the International HTA database), trial registries, and conference abstracts through April 08, 2026.\n\n**ELIGIBILITY CRITERIA**: We only included randomized trials of men over 40 years of age with a prostate volume of at least 20 mL (assessed by digital rectal examination, ultrasound, or conventional imaging) who exhibited lower urinary tract symptoms (LUTS) defined by an International Prostate Symptom Score (IPSS) of eight or greater undergoing surgical interventions for BPH.\n\n**OUTCOMES**: The critical outcomes measured were the urologic symptoms score, the quality-of-life score, and major adverse events. The important outcomes measured were: re-treatment, erectile function, ejaculatory function, transfusions, acute urinary retention, indwelling urinary catheter duration, and hospital stay duration.\n\n**RISK OF BIAS**: We used the Cochrane risk of bias tool (RoB 1) to assess for potential sources of bias on a study and outcome level basis.\n\n**SYNTHESIS METHODS**: We pooled outcome data using the random-effects model and performed meta-analyses using the Mantel-Haenszel method. We assessed statistical heterogeneity in the pooled data by visually inspecting forest plots and using the I\n\n**INCLUDED STUDIES**: We included 52 trials that included 6242 participants that compared HoLEP to other surgical interventions for benign prostatic hyperplasia. The median age of participants across the studies ranged from 65 to 74 years. The baseline prostate volume ranged from 30 cc to 142 cc. Baseline IPSS scores ranged from 19.6 to 28.6 (range 0-35).\n\n**SYNTHESIS OF RESULTS**: We prioritized comparing HoLEP with transurethral resection of the prostate (TURP) at short-term follow-up (up to 12 months), because TURP is the long-standing reference standard and the predominant comparator in randomized surgical trials. Findings for the four remaining comparisons (laser ablation, alternative energy source enucleation, other minimally invasive therapies, and simple prostatectomy), for long-term follow-up, and for all remaining outcomes are reported in full in the review. Compared to TURP, at short-term follow-up: Critical outcomes - HoLEP may result in little to no difference in short-term urologic symptom scores measured using the IPSS (range 0 to 35; lower values reflect fewer symptoms) (MD -0.67, 95% CI -1.20 to -0.14; I\u00b2 = 93%; 14 studies, 1666 participants, low-certainty evidence). - HoLEP may result in little to no difference in short-term quality of life (range 0 to 6; lower values reflect better quality of life) (MD -0.04, 95% CI -0.23 to 0.15; I\u00b2 = 73%; 6 studies, 876 participants, low-certainty evidence). - HoLEP may result in little to no difference in short-term major adverse events (RR 0.75, 95% CI 0.35 to 1.58; I\u00b2 = 0%; 10 studies, 1147 participants, low-certainty evidence). Important outcomes - HoLEP likely results in little to no difference in re-treatment (RR 0.45, 95% CI 0.14 to 1.50; I\u00b2 = 0%; 8 studies, 813 participants, moderate-certainty evidence). - HoLEP likely results in little to no difference in erectile function (MD -0.03, 95% CI -0.47 to 0.42; I\u00b2 = 0%; 3 studies, 518 participants, moderate-certainty evidence). - Ejaculatory function: we did not find any data for this outcome. - HoLEP likely reduces the need for blood transfusion (RR 0.19, 95% CI 0.09 to 0.42; I\u00b2 = 0%; 15 studies, 1755 participants, moderate-certainty evidence).\n\n**AUTHORS' CONCLUSIONS**: Compared with TURP, HoLEP may achieve similar relief of urologic symptoms, similar quality of life, and similar rates of major adverse events in the first 12 months after surgery, and probably similar re-treatment rates and erectile function. HoLEP likely reduces the need for blood transfusion; this is the only advantage of HoLEP that the randomized evidence, as summarized here, supports as clinically important. There was insufficient evidence to assess outcomes in the subset of individuals with larger prostates or on anticoagulation. Future research should prioritize long-term trials reporting sexual function and urinary incontinence outcomes, recruit men with very large prostates (\u2265 150 cc) or on anticoagulation therapy, and evaluate cost-effectiveness and training requirements.\n\n**FUNDING**: No external funding was received for this review.\n\n**REGISTRATION**: The protocol for this review was published in the Cochrane Database 2019 (https://doi.org/10.1002/14651858.CD013291).",
-      "journal": "Cochrane Database Syst Rev",
-      "authors": [
-        "Sathianathen N",
-        "Hwang EC",
-        "Brown SJ",
-        "Bakker C",
-        "Borofsky MS",
-        "Ergun O",
-        "Dahm P"
-      ],
-      "date": "2026 Sep 09",
-      "doi": "10.1177/15579883221113203",
-      "tier": "filtered",
-      "topics": [
-        "Haemorrhage"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "blood transfusion",
-          "strength": "weak",
-          "topic": "Haemorrhage"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42713842/"
     }
   ]
 }
