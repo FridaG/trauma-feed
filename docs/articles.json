@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-17T21:53:04.205268Z",
-  "total_articles": 180,
+  "generated": "2026-10-18T22:04:15.234080Z",
+  "total_articles": 181,
   "all_topics": [
     "Abdominal",
     "Burns",
@@ -378,6 +378,74 @@
     "Cochrane Database Syst Rev": "filtered"
   },
   "articles": [
+    {
+      "pmid": "42892218",
+      "title": "Incidence of severe mountain bike-related injuries and mortality: A 15-year statewide analysis.",
+      "abstract": "**BACKGROUND**: Mountain biking has grown in popularity and has seen widespread trail development but carries risk for severe trauma. No studies have analysed severe injuries in the context of contemporary mountain biking to understand trends and modifiable risk factors.\n\n**AIM**: To describe the incidence and longitudinal characteristics of severe injuries related to mountain biking in Tasmania, Australia.\n\n**METHODS**: Retrospective analysis of all patients admitted to Tasmanian public hospitals with severe mountain bike (MTB)-related injuries from 1st January 2010-31\u202fst December 2024.\n\n**MAIN OUTCOME MEASURES**: Incidence of severe MTB-related injuries (including mortality) as defined by hospital admission to an intensive care unit or neurosurgery high dependency unit; for emergency surgery (in <4\u202fh); or transfer intra- or interstate for definitive treatment. Secondary outcomes were annual injury trends in mechanism of injury, body regions, injury profiles, and incident location.\n\n**RESULTS**: For the total period there were 85 severe injuries (including 4 mortalities) from 6643 MTB-related emergency department (ED) presentations. Annual severe MTB-related cases increased over the 15 years from 0.8 cases/year before 2015, to 8.1 cases/year in later years. Severe injury cases accounted for only 1.3% of all MTB-related ED presentations. Most severely injured riders were male (97%); the mean age was 36 years (SD 16.9) for the total period, but this increased from 18.5 years (SD 5.8) pre-2015-36.9 years (SD 16.8) post-2015. Executing a jump was the dominant mechanism of injury (44%), followed by fall over handlebars (14%), obstacle collision (11%) and adverse trail conditions (9%). The most injured body regions were abdomen (31%), neck (23%) and thorax/chest (20%). The most common types of injuries were fracture/dislocation (44%), abdominal organ injury (24%) and thoracic organ injury (15%). Spinal cord injury occurred in 6% of cases and traumatic brain injury in 7%. Over 50% of severe injury incidents occurred on purpose-built MTB trails.\n\n**CONCLUSIONS**: Severe MTB-related injuries increased proportionally to all MTB-related injuries suggesting the increase was largely driven by rider exposure. Targeted injury prevention strategies, safe trail design, and understanding risk factors are needed to ensure safe progression of this popular sport.",
+      "journal": "Injury",
+      "authors": [
+        "Course G",
+        "Sharman JE",
+        "Otahal P",
+        "Tran V"
+      ],
+      "date": "2026 Oct 14",
+      "doi": "10.1016/j.injury.2026.113784",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Spine",
+        "Systems/QI",
+        "TBI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic brain injury",
+          "strength": "weak",
+          "topic": "TBI"
+        },
+        {
+          "keyword": "spinal cord injury",
+          "strength": "weak",
+          "topic": "Spine"
+        },
+        {
+          "keyword": "injury prevention",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42892218/"
+    },
+    {
+      "pmid": "42892217",
+      "title": "Adjunct rim plating for selected pilon fracture patterns: Lessons from hyperextension tibial plateau fractures.",
+      "abstract": "**BACKGROUND**: Pilon fractures frequently involve small anterior or anterolateral marginal fragments that are susceptible to shear displacement and may not be reliably controlled by conventional periarticular plates. Rim plating is a fragment-specific, low-profile juxta-articular buttress technique that has demonstrated favorable biomechanical and clinical results in selected tibial plateau fracture patterns. This review examines the rationale for extending this concept to selected pilon fracture patterns.\n\n**METHODS**: We performed a narrative review of clinical, cadaveric, and biomechanical studies describing rim-based constructs in tibial plateau fractures, with emphasis on hyperextension and posterolateral patterns, as well as computed tomography (CT)-based studies of pilon fracture morphology and fragment capture by precontoured plates. Relevant studies were identified through PubMed and reference screening and synthesized qualitatively to inform a technical proposal for adjunct rim plating in selected pilon fractures.\n\n**RESULTS**: The reviewed tibial plateau literature consistently identified peripheral regions that may remain unsupported by conventional periarticular plates, particularly in hyperextension and posterolateral fracture patterns, where adjunct rim plating has been associated with maintained reduction and favorable clinical outcomes. In the distal tibia, CT-based studies suggest that commonly used anatomically precontoured plates may not reliably capture the anterolateral (Tillaux-Chaput) fragment when fragment height is less than 15\u202fmm. In this setting, an adjunct rim plate may serve as a peripheral buttress to improve support of the articular margin, distribute subchondral stress, and prevent displacement of the articular block.\n\n**CONCLUSIONS**: Rim plating may be best conceptualized as a joint-line buttress strategy for improving peripheral containment of shear-dominant marginal fragments. Extrapolation of this concept to selected pilon fracture patterns is mechanically plausible and supported indirectly by CT-based fragment-capture data. This technique may be useful in carefully selected anterior or anterolateral distal tibial rim fractures that are not adequately controlled by standard periarticular plating.",
+      "journal": "Injury",
+      "authors": [
+        "Sarmiento-Falen J",
+        "Arif HA",
+        "Szatkowski JP"
+      ],
+      "date": "2026 Oct 14",
+      "doi": "10.1016/j.injury.2026.113786",
+      "tier": "filtered",
+      "topics": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42892217/"
+    },
     {
       "pmid": "42888097",
       "title": "Penetrating renal trauma in a high-complexity Latin American centre: Management patterns and renal preservation, 2013-2025 - a retrospective cohort study.",
@@ -3207,8 +3275,8 @@
     },
     {
       "pmid": "42838501",
-      "title": "Amiodarone After Conversion From a Non-shockable to a Shockable Rhythm in Out-of-Hospital Cardiac Arrest A Propensity Score-Matched Analysis from the German Resuscitation Registry.",
-      "abstract": "**BACKGROUND**: Amiodarone should be administered after three shocks according the current ERC ALS guidelines. However, its effect in out-of-hospital cardiac arrest (OHCA) patients with an initial non-shockable rhythm who subsequently convert to a shockable rhythm is not established.\n\n**METHODS**: We performed a retrospective observational cohort study using data from the German Resuscitation Registry. Adult patients with non-traumatic OHCA, having an initial non-shockable rhythm and subsequently received at least two defibrillations were included. Propensity-score-matched patient pairs (1:1) were analysed to compare outcomes between patients who received amiodarone during resuscitation and those who did not. The primary outcome was survival to hospital discharge. Secondary outcomes included hospital admission with return of spontaneous circulation (ROSC), 24-hour survival, survival to hospital discharge, and favourable neurological outcome at hospital discharge.\n\n**RESULTS**: Of 5,535 patients included 3,181 received amiodarone and 2,354 did not. After propensity-score matching, 1,843 patients remained in each group. Amiodarone administration was associated with higher rates of hospital admission with ROSC (26.7% vs. 23.0%; OR 1.22, 95% confidence interval 1.05-1.42), 24-hour survival (21.4% vs. 14.7%; OR 1.58, 95% CI 1.33-1.87), and survival to hospital discharge (6.5% vs. 4.2%; OR 1.58, 95% CI 1.18-2.12). Favourable neurological outcome at hospital discharge was not statistically significant (3.7% vs. 2.9%; OR 1.31, 95% CI 0.91-1.89).\n\n**CONCLUSIONS**: In OHCA patients with an initial non-shockable rhythm who subsequently converted to a shockable rhythm, amiodarone administration was associated with improved short-term and long-term survival, but not with a statistically significant improved favourable neurological outcome. Future controlled studies might define the proper (earlier) time of amiodarone administration.",
+      "title": "Amiodarone after conversion from a non-shockable to a shockable rhythm in out-of-hospital cardiac arrest: A propensity score-matched analysis from the German resuscitation registry.",
+      "abstract": "**BACKGROUND**: Amiodarone should be administered after three shocks according the current ERC ALS guidelines. However, its effect in out-of-hospital cardiac arrest (OHCA) patients with an initial non-shockable rhythm who subsequently convert to a shockable rhythm is not established.\n\n**METHODS**: We performed a retrospective observational cohort study using data from the German Resuscitation Registry. Adult patients with non-traumatic OHCA, having an initial non-shockable rhythm and subsequently received at least two defibrillations were included. Propensity-score-matched patient pairs (1:1) were analysed to compare outcomes between patients who received amiodarone during resuscitation and those who did not. The primary outcome was survival to hospital discharge. Secondary outcomes included hospital admission with return of spontaneous circulation (ROSC), 24-h survival, survival to hospital discharge, and favourable neurological outcome at hospital discharge.\n\n**RESULTS**: Of 5535 patients included 3181 received amiodarone and 2354 did not. After propensity-score matching, 1843 patients remained in each group. Amiodarone administration was associated with higher rates of hospital admission with ROSC (26.7% vs. 23.0%; OR 1.22, 95% confidence interval 1.05-1.42), 24-h survival (21.4% vs. 14.7%; OR 1.58, 95% CI 1.33-1.87), and survival to hospital discharge (6.5% vs. 4.2%; OR 1.58, 95% CI 1.18-2.12). Favourable neurological outcome at hospital discharge was not statistically significant (3.7% vs. 2.9%; OR 1.31, 95% CI 0.91-1.89).\n\n**CONCLUSIONS**: In OHCA patients with an initial non-shockable rhythm who subsequently converted to a shockable rhythm, amiodarone administration was associated with improved short-term and long-term survival, but not with a statistically significant improved favourable neurological outcome. Future controlled studies might define the proper (earlier) time of amiodarone administration.",
       "journal": "Resuscitation",
       "authors": [
         "Knapp J",
@@ -6892,48 +6960,6 @@
       ],
       "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/42765660/"
-    },
-    {
-      "pmid": "42762675",
-      "title": "Therapeutic potential of dermal matrix in orthopaedic trauma.",
-      "abstract": "**BACKGROUND**: The primary aim was to examine the outcomes of dermal matrix (DM) in populations with non-closable traumatic, infectious, or post-surgical wounds managed by an orthopaedic trauma service line. The secondary aim was to identify the success and complication rates of DM, as well as attempting to document time to healing.\n\n**METHODS**: This was a multi-center retrospective chart review at urban community and academic affiliated trauma centers. Consecutive patients with any traumatic, infectious or post-surgical wounds treated with dermal matrix from January 2020 to August 2025. Patients were excluded if lost to follow-up and/or had ongoing treatment. Data was collected for demographics and comorbidities, alongside origin, treatment, and time to complete healing of the wound.\n\n**RESULTS**: Seventy-three patients had application of DM on 75 wounds. Four patients were lost to follow-up, 9 had ongoing treatment, and 3 died. The final cohort consisted of 57 patients, with 59 wounds. There were 33 males and 24 females. The average age was 58\u202f+\u202f/-19.4 years. Wound origins were postoperative (n\u202f=\u202f17), traumatic (n\u202f=\u202f30), and infectious (n\u202f=\u202f12) etiologies. The average number of washouts prior to application was 2.3\u202f+\u202f/- 1.2. Two wounds required salvage plastic surgery involving sural flaps. One wound had a failure of skin graft after DM with subsequent treatment by secondary healing via epithelialization. 55.9% (33/59) of wounds with DM healed without subsequent skin graft. Of the remaining 26 wounds, 16 were initially planned for skin grafting due to wound size. Average documented time to healing was 179.3\u202f+\u202f/- 137.3 days, which was inflated due to lost follow-up with subsequent representation into the health system well after healing. Multiple patients in the study had wounds with exposed bone, tendon, or hardware at time of DM application.\n\n**CONCLUSIONS**: Dermal matrix is a reliable alternative for wound management that does not require subspecialty training.",
-      "journal": "Injury",
-      "authors": [
-        "Christenson MM",
-        "Boike SC",
-        "Puckett HD",
-        "Agoro KS",
-        "Sullivan D",
-        "Vang S",
-        "Cunningham BP",
-        "Busel GA"
-      ],
-      "date": "2026 Sep 06",
-      "doi": "10.1016/j.injury.2026.113692",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Orthopaedic"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "orthopaedic trauma",
-          "strength": "strong",
-          "topic": "Orthopaedic"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42762675/"
     }
   ]
 }
