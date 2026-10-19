@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-18T22:04:15.234080Z",
-  "total_articles": 181,
+  "generated": "2026-10-19T23:12:44.563485Z",
+  "total_articles": 189,
   "all_topics": [
     "Abdominal",
     "Burns",
@@ -379,6 +379,391 @@
   },
   "articles": [
     {
+      "pmid": "42896084",
+      "title": "Low-Titer O\u2009+\u2009Whole Blood Implementation in the EMS System for Metropolitan Oklahoma City and Tulsa: Significance, Success, & Sharing Lessons Learned.",
+      "abstract": "**OBJECTIVES**: Over 300 emergency medical services (EMS) organizations across the United States have implemented transfusion programs for traumatic injuries using packed red blood cells, platelets, plasma, or whole blood before hospital arrival. Beginning in December of 2022, the EMS System for Metropolitan Oklahoma City (OKC) and Tulsa began carrying low-titer O-positive whole blood (LTOWB) for adult patients in traumatic hemorrhagic shock, specifically those exhibiting elevated shock indexes. We aim to describe establishing our prehospital LTOWB program and its first two years of operations across OKC and Tulsa.\n\n**METHODS**: We used an observational study design and retrospective descriptive analysis of patients receiving LTOWB by paramedic transfusion from the Emergency Medical Services Authority Ambulance Service, Oklahoma City Fire Department, or Tulsa Fire Department between December 1, 2022, and February 1, 2025. Descriptive analysis and univariate logistic regression quantify the relationship of patient characteristics against survival to hospital arrival and survival to hospital discharge outcomes.\n\n**RESULTS**: Penetrating trauma was the most common mechanism of injury recorded for patients receiving EMS LTOWB (71.6%). Following LTOWB transfusion, prehospital vital signs (systolic blood pressure, heart rate, and shock index) significantly improved (p\u2009<\u20090.05). Systolic blood pressure improvement conferred 9.7 times greater odds of survival to hospital arrival (95% CL 1.6-58.6). Occurrence of prehospital traumatic circulatory arrest was significantly related to lower odds of survival to hospital arrival and survival to hospital discharge (OR 1.01 and OR 1.04, respectively).\n\n**CONCLUSIONS**: Transfusion of LTOWB in a large, urban EMS system in the Southwestern United States confers a positive benefit to patients with measurable improvement in median systolic blood pressure, heart rate, and shock index. Continuous review of cases and misses empowered our system in dynamic protocol adjustments to best meet our population's needs. Patients often had secondary deterioration during transit, illustrating that blood transfusion \"bought\" temporary time during transport of critically injured patients to definitive care.",
+      "journal": "Prehosp Emerg Care",
+      "authors": [
+        "Bailey AM",
+        "Knoles CL",
+        "Howerton DS",
+        "McAnallen D",
+        "Cox ML",
+        "Cody P",
+        "Goodloe JM"
+      ],
+      "date": "2026 Oct 19",
+      "doi": "10.1080/10903127.2026.2747040",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Haemorrhage",
+        "Penetrating",
+        "Prehospital"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "penetrating trauma",
+          "strength": "weak",
+          "topic": "Penetrating"
+        },
+        {
+          "keyword": "haemorrhagic shock",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "blood transfusion",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "packed red blood cells",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "prehospital",
+          "strength": "weak",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42896084/"
+    },
+    {
+      "pmid": "42895961",
+      "title": "Weathering the storm: Predictors and resource burden of paroxysmal sympathetic hyperactivity after severe traumatic brain injury.",
+      "abstract": "**BACKGROUND**: Reported incidence of paroxysmal sympathetic hyperactivity (PSH) after severe traumatic brain injury (TBI) approaches one-third, largely from cohorts that excluded early deaths. Predictors and resource consequences remain unclear. We identified predictors of PSH development and associations between diagnosis, PSH Assessment Measure (PSH-AM) subscores [clinical features scale (CFS) and diagnosis likelihood tool (DLT)], and resource utilization.\n\n**METHODS**: We conducted a retrospective cohort study of adults with severe TBI admitted to a tertiary care center intensive care unit (ICU) (October 2020-September 2025), stratified by PSH diagnosis. Two reviewers assigned PSH-AM scores. PSH cannot be diagnosed until the syndrome declares itself over days, so exposure is conditioned on survival; mortality is reported descriptively. Multivariable logistic regression identified predictors of PSH diagnosis. Log-transformed linear regressions estimated associations of PSH diagnosis and subscores with hospital length of stay (LOS), ICU LOS, and ventilator days. Thirty-day composite outcomes, inverse probability of treatment weighting (IPTW), and landmark analysis evaluated robustness.\n\n**RESULTS**: Of 509 patients with severe TBI, 86 (17%) developed PSH. Younger age [odds ratio (OR): 0.97 (95% CI: 0.96-0.98); P<0.001) and higher ISS [1.05 (1.02-1.07); P<0.001] independently predicted PSH. PSH was associated with longer hospital LOS (372.9%), ICU LOS (278.3%), and more ventilator days (266.4%; all P<0.001). Mortality was 11.6% (PSH) versus 35.9% (non-PSH). IPTW demonstrated PSH had fewer days alive and out of hospital (-46.8%; P<0.001) and landmark analysis highlighted fewer ventilator-free days (-40.2%; P=0.0097) and ICU-free days (-46.9%; P<0.001). Higher DLT subscores were associated with longer hospital (36.3%; P=0.001) and ICU (23.3%; P=0.005) stays, whereas the CFS subscore showed no associations.\n\n**CONCLUSIONS**: The PSH diagnosis is contingent on survival. Younger patients with severe TBI who survive their initial injuries are more likely to develop PSH and occupy hospital beds meaningfully longer. The diagnosis likelihood tool, not the clinical features scale, tracks with that burden.\n\n**LEVEL OF EVIDENCE**: Level III, prognostic/epidemiological.",
+      "journal": "J Trauma Acute Care Surg",
+      "authors": [
+        "Martin T",
+        "Phillips M",
+        "Nunez J",
+        "Gazzetta J"
+      ],
+      "date": "2026 Oct 19",
+      "doi": "10.1097/TA.0000000000005205",
+      "tier": "core",
+      "topics": [
+        "General Trauma",
+        "TBI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "traumatic",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic brain injury",
+          "strength": "strong",
+          "topic": "TBI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42895961/"
+    },
+    {
+      "pmid": "42895947",
+      "title": "Defining the TBI spectrum for rib fixation.",
+      "abstract": "",
+      "journal": "J Trauma Acute Care Surg",
+      "authors": [
+        "Chang Y"
+      ],
+      "date": "2026 Oct 19",
+      "doi": "10.1097/TA.0000000000005223",
+      "tier": "core",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42895947/"
+    },
+    {
+      "pmid": "42895798",
+      "title": "Trauma Quality Programs Mortality Reporting System Case Reports: Unanticipated Mortality Due to Prolonged Operative Course.",
+      "abstract": "The American College of Surgeons Trauma Quality Programs Mortality Reporting System is an online anonymous case reporting system designed to share experiences from rare events that may have contributed to unanticipated mortality at contributing trauma centers. This report analyzes cases, summarizes opportunities for truncated operating room time, and offers a defined framework to assess the need for a damage control strategy.",
+      "journal": "J Trauma Acute Care Surg",
+      "authors": [
+        "Gupta S",
+        "Dutton RP",
+        "Jensen AR",
+        "Mandell SP",
+        "Castle SL"
+      ],
+      "date": "2026 Oct 19",
+      "doi": "10.1097/TA.0000000000005216",
+      "tier": "core",
+      "topics": [
+        "General Trauma",
+        "Haemorrhage",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "damage control",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "trauma quality",
+          "strength": "strong",
+          "topic": "Systems/QI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42895798/"
+    },
+    {
+      "pmid": "42895763",
+      "title": "Wrong hospital, wrong outcome: Impact of care fragmentation following trauma laparotomy.",
+      "abstract": "**BACKGROUND**: Care fragmentation (CF), defined as readmission to a nonindex hospital, has been identified as a potential predictor of poor outcomes after traumatic injury. Trauma laparotomy (TL) is a common procedure with perioperative risk of complications and readmission. Incidence of CF following TL, its risk factors, and its effects on outcomes are unknown. We hypothesized that CF after TL is associated with increased mortality during hospital readmission compared with continuity of care (CC).\n\n**METHODS**: The Nationwide Readmissions Database (2016-2022) was queried for hospitalized adult (\u226518) patients with traumatic injury and open surgery of gastrointestinal or genitourinary systems during index admission, and unplanned readmission within 90 days. Demographics, comorbidities, injury severity, procedures, and disposition data were collected for patients with CF and compared with patients with CC. The primary outcome was in-hospital death during readmission. Univariate comparisons and multivariable logistic regression were performed.\n\n**RESULTS**: A total of 14,773 TL patients were included in the analysis. From these, 2,059 (13.9%) were readmitted within 90 days. The average age of readmitted patients was 43 years, and the majority (68.6%) were male. Of the readmissions, 441 (21.4%) experienced CF. Discharge home from the index admission was associated with lower odds of CF (OR 0.52, 95% CI: 0.32-0.84, p=0.008). On multivariable regression analysis, CF was significantly associated with in-hospital death during readmission (OR 5.09, 95% CI: 1.22-21.16, p=0.03).\n\n**CONCLUSIONS**: CF is common following TL and is associated with an increased risk of death on readmission, even after adjustment for baseline comorbidities and other hospital characteristics. Patients who are discharged home are less likely to experience CF. TL survivors may represent a patient population that would benefit from targeted efforts to reduce CF.\n\n**LEVEL OF EVIDENCE**: Therapeutic; Level III.",
+      "journal": "J Trauma Acute Care Surg",
+      "authors": [
+        "McEachron KR",
+        "Ozed-Williams B",
+        "Nguyen SH",
+        "Costantini TW"
+      ],
+      "date": "2026 Oct 19",
+      "doi": "10.1097/TA.0000000000005218",
+      "tier": "core",
+      "topics": [
+        "General Trauma",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "injury severity",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42895763/"
+    },
+    {
+      "pmid": "42895566",
+      "title": "Emergency surgery for blunt abdominal trauma in polytrauma - the impact of time to laparotomy on outcomes.",
+      "abstract": "**PURPOSE**: Blunt abdominal trauma (BAT) is common in polytrauma patients. Emergency surgery is required for haemodynamically significant solid organ injury and intra-abdominal hollow organ injury. The effect of time to surgery on outcomes in patients requiring emergency laparotomy remains uncertain.\n\n**MATERIALS & METHODS**: Adult polytrauma patients (ISS\u2009>\u200916) who underwent emergency laparotomy for blunt abdominal trauma between 1996 and 2020 from a trauma registry of a single level one trauma centre were included. Patients were divided into two groups based on the time elapsed from admission to emergency laparotomy: \"Super Early\" (\u2264\u200960\u00a0min) and \"Early\" (60-180\u00a0min). Length of stay (LOS), intensive care unit (ICU)-LOS, ventilation time, re-look operations and mortality were assessed. Adjusted logistic regression was used to determine the independent predictive parameters, including timing of surgery, for mortality.\n\n**RESULTS**: The study included 190 polytrauma patients with concomitant blunt abdominal trauma (mean age 42 years (\u00b1\u200917), median ISS of 36 (IQR: 19)). There were 95 patients in each group. Patients in the \"Super Early\" group had a compromised haemodynamic status and a higher ISS. Liver injury and serous membrane injury were more common in the super early group. The mortality rate was significantly higher in the \"Super Early\" group (51.6%) compared to the \"Early\" group (26.3%) (p\u2009<\u20090.001). Death due to haemorrhagic shock was significantly more frequent in the \"Super Early\" group (36.8%) compared to the \"Early\" group (13.7%) (p\u2009<\u20090.001). A regression model was adjusted to determine the independent predictors of mortality. Time to emergency laparotomy was not an independent predictor of mortality. However, increased ISS (OR\u2009=\u20091.04, p\u2009=\u20090.049), age (OR\u2009=\u20091.03, p\u2009=\u20090.037) and decreased systolic blood pressure (OR\u2009=\u20090.98, p\u2009=\u20090.025) were found to be significant predictors of mortality.\n\n**CONCLUSION**: The timing of surgery showed no independent association with mortality as long as an emergency laparotomy was performed within 3\u00a0h of admission. The data suggests that patient-specific characteristics, injury severity and clinical status are more important for survival than the timing of an early emergency laparotomy. Future research should focus on determining the role of delayed laparotomy on outcomes in specific subgroups of patients.",
+      "journal": "Eur J Trauma Emerg Surg",
+      "authors": [
+        "Rausch G",
+        "Kalbas Y",
+        "Halvachizadeh S",
+        "Zumsteg J",
+        "Shehu A",
+        "Mikova E",
+        "Lehmann K",
+        "Mica L",
+        "Pfeifer R",
+        "Pape HC",
+        "Neuhaus V",
+        "Klingebiel FK",
+        "Teuben MPJ"
+      ],
+      "date": "2026 Oct 19",
+      "doi": "10.1186/s13049-019-0697-0",
+      "tier": "core",
+      "topics": [
+        "Abdominal",
+        "General Trauma",
+        "Haemorrhage",
+        "Procedures",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "polytrauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "injury severity",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "solid organ injury",
+          "strength": "weak",
+          "topic": "Abdominal"
+        },
+        {
+          "keyword": "blunt abdominal",
+          "strength": "strong",
+          "topic": "Abdominal"
+        },
+        {
+          "keyword": "haemorrhagic shock",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "emergency laparotomy",
+          "strength": "weak",
+          "topic": "Procedures"
+        },
+        {
+          "keyword": "trauma registry",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42895566/"
+    },
+    {
+      "pmid": "42895559",
+      "title": "High-velocity trauma by social media: a new mechanism of injury in pediatric traumatology?",
+      "abstract": "**PURPOSE**: Over the past two decades, social media challenges have emerged as a significant cause of injuries among adolescents. This study evaluates a sudden cluster of severe upper limb injuries resulting from the viral \"Superman challenge\" to raise clinical awareness of digital behaviors in pediatric trauma.\n\n**METHODS**: A retrospective study at a tertiary pediatric trauma center evaluated patients aged\u2009<\u200918\u2009years admitted in December 2024 following the \"Superman challenge.\"\n\n**RESULTS**: Eight patients were admitted within a 10-day window following high-energy injuries from the challenge. The cohort showed a female predominance (62.5%) with a mean age of 13.25 (\u00b11.03) years. The high-velocity mechanism led to atypical, severe injury patterns distinct from routine accidental falls. We observed an unusual cluster of severe distal forearm fractures in five patients, which uniformly required surgical treatment. Three patients even suffered bilateral distal radius fractures. Additional associated injuries included fractures of the ulnar styloid process (n\u2009=\u20095) and concomitant TFCC tears (n\u2009=\u20092), reflecting the high-energy nature of the challenge.\n\n**CONCLUSIONS**: The rapid, viral spread of physical social media challenges such as the 'Superman Challenge' can lead to dangerous injury mechanisms involving high-velocity trauma among children and adolescents. These trends could lead to sudden, localized clusters of atypical high-energy injuries-a scenario that, under specific conditions, risks overtaxing conventional healthcare systems, as previously demonstrated in the literature. Medical staff need to be aware of changing digital behaviors, which represent a new mechanism of injury in pediatric trauma.",
+      "journal": "Eur J Trauma Emerg Surg",
+      "authors": [
+        "Sennert M",
+        "Schoof B",
+        "K\u00f6rner M",
+        "Le M",
+        "Kolman J",
+        "Madadi-Sanjani O",
+        "Wintges K"
+      ],
+      "date": "2026 Oct 19",
+      "doi": "10.1016/j.injury.2013.01.030",
+      "tier": "core",
+      "topics": [
+        "General Trauma",
+        "Paediatric",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "paediatric trauma",
+          "strength": "weak",
+          "topic": "Paediatric"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42895559/"
+    },
+    {
+      "pmid": "42895548",
+      "title": "Surgical stabilization of rib fractures in a high-altitude trauma cohort: in-hospital clinical outcomes and resource use in a propensity score-weighted retrospective cohort study.",
+      "abstract": "**PURPOSE**: Surgical stabilization of rib fractures (SSRF) is increasingly used in the management of traumatic rib fractures, but its in-hospital outcomes in high-altitude trauma settings remain uncertain. We evaluated the association of SSRF with in-hospital pulmonary complications and length of stay in a high-altitude (\u2248\u20093,500\u00a0m) trauma system.\n\n**METHODS**: We conducted a single-center retrospective cohort study of adults with CT-confirmed traumatic rib fractures admitted from 2015 to 2023 and managed with SSRF or non-operative management. Confounding was addressed using stabilized inverse probability of treatment weighting (IPTW) with augmented outcome models; overlap weighting, propensity score matching, and time-dependent exposure analysis were used as sensitivity analyses. The primary outcome was a composite of in-hospital pneumonia, atelectasis, or respiratory failure. Pulmonary risk ratios (RRs) were estimated using modified Poisson regression, while ICU and hospital length of stay were analyzed using log-transformed weighted models.\n\n**RESULTS**: Among 324 patients, 121 underwent SSRF and 203 received non-operative management. Before adjustment, SSRF patients had greater injury severity. In IPTW-augmented analyses, the pulmonary estimate was imprecise (RR 0.86, 95% CI 0.23-3.21; P\u2009=\u20090.822), and no significant difference was detected in ICU length of stay (exp[\u03b2] 1.04, 95% CI 0.97-1.10; P\u2009=\u20090.286). Hospital length of stay was longer with SSRF (exp[\u03b2] 2.31, 95% CI 2.02-2.65; P\u2009<\u20090.001).\n\n**CONCLUSION**: Adjusted analyses found no statistically detectable difference in pulmonary complications or ICU length of stay, although the pulmonary estimate remained imprecise and does not establish equivalence or safety. SSRF was associated with longer hospital length of stay.\n\n**TRIAL REGISTRATION**: Not applicable.",
+      "journal": "Eur J Trauma Emerg Surg",
+      "authors": [
+        "Wan Q",
+        "Sun Q",
+        "Li W",
+        "Yundan C",
+        "Hu L",
+        "Shen Y"
+      ],
+      "date": "2026 Oct 19",
+      "doi": "10.3389/fsurg.2026.1774082",
+      "tier": "core",
+      "topics": [
+        "General Trauma",
+        "Systems/QI",
+        "Thoracic"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "injury severity",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "rib fracture",
+          "strength": "strong",
+          "topic": "Thoracic"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42895548/"
+    },
+    {
+      "pmid": "42895177",
+      "title": "Sex, Age, and Survival in Traumatic Shock: An Ongoing Question, Not Yet an Answer.",
+      "abstract": "",
+      "journal": "J Am Coll Surg",
+      "authors": [
+        "Martinez Quinones P",
+        "Hassan N"
+      ],
+      "date": "2026 Oct 20",
+      "doi": "10.1097/XCS.0000000000002262",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "traumatic",
+          "strength": "strong",
+          "topic": "General Trauma"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42895177/"
+    },
+    {
       "pmid": "42892218",
       "title": "Incidence of severe mountain bike-related injuries and mortality: A 15-year statewide analysis.",
       "abstract": "**BACKGROUND**: Mountain biking has grown in popularity and has seen widespread trail development but carries risk for severe trauma. No studies have analysed severe injuries in the context of contemporary mountain biking to understand trends and modifiable risk factors.\n\n**AIM**: To describe the incidence and longitudinal characteristics of severe injuries related to mountain biking in Tasmania, Australia.\n\n**METHODS**: Retrospective analysis of all patients admitted to Tasmanian public hospitals with severe mountain bike (MTB)-related injuries from 1st January 2010-31\u202fst December 2024.\n\n**MAIN OUTCOME MEASURES**: Incidence of severe MTB-related injuries (including mortality) as defined by hospital admission to an intensive care unit or neurosurgery high dependency unit; for emergency surgery (in <4\u202fh); or transfer intra- or interstate for definitive treatment. Secondary outcomes were annual injury trends in mechanism of injury, body regions, injury profiles, and incident location.\n\n**RESULTS**: For the total period there were 85 severe injuries (including 4 mortalities) from 6643 MTB-related emergency department (ED) presentations. Annual severe MTB-related cases increased over the 15 years from 0.8 cases/year before 2015, to 8.1 cases/year in later years. Severe injury cases accounted for only 1.3% of all MTB-related ED presentations. Most severely injured riders were male (97%); the mean age was 36 years (SD 16.9) for the total period, but this increased from 18.5 years (SD 5.8) pre-2015-36.9 years (SD 16.8) post-2015. Executing a jump was the dominant mechanism of injury (44%), followed by fall over handlebars (14%), obstacle collision (11%) and adverse trail conditions (9%). The most injured body regions were abdomen (31%), neck (23%) and thorax/chest (20%). The most common types of injuries were fracture/dislocation (44%), abdominal organ injury (24%) and thoracic organ injury (15%). Spinal cord injury occurred in 6% of cases and traumatic brain injury in 7%. Over 50% of severe injury incidents occurred on purpose-built MTB trails.\n\n**CONCLUSIONS**: Severe MTB-related injuries increased proportionally to all MTB-related injuries suggesting the increase was largely driven by rider exposure. Targeted injury prevention strategies, safe trail design, and understanding risk factors are needed to ensure safe progression of this popular sport.",
@@ -655,25 +1040,6 @@
       "link": "https://pubmed.ncbi.nlm.nih.gov/42886856/"
     },
     {
-      "pmid": "42886854",
-      "title": "Rigorous study design dictates sound analytical outcome: A letter to editor.",
-      "abstract": "",
-      "journal": "J Trauma Acute Care Surg",
-      "authors": [
-        "Gupta SK",
-        "Gupta A"
-      ],
-      "date": "2026 Oct 16",
-      "doi": "10.1097/TA.0000000000005213",
-      "tier": "core",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42886854/"
-    },
-    {
       "pmid": "42886574",
       "title": "Prehospital Risk Stratification for Early Transfusion in Pediatric Trauma: A National Trauma Data Bank Analysis.",
       "abstract": "**OBJECTIVES**: Pediatric criteria remain limited for identifying injured children who may benefit from early blood transfusion for hemorrhagic shock. This study evaluated whether emergency medical services (EMS)-observable variables in a national trauma registry could identify children at risk for early hospital blood transfusion.\n\n**METHODS**: We conducted an observational retrospective cohort study using the National Trauma Data Bank (2017-2020). Among 391,126 records for patients aged 1-15 years, we included children transported by EMS directly from the scene to a participating trauma center after excluding burn injuries, interfacility transfers, and missing pre-identified EMS variables (systolic blood pressure, heart rate, or Glasgow Coma Scale [GCS]). The primary outcome was any blood product administered within 4\u2009hours of emergency department arrival. Five prespecified EMS-observable predictors composed the model: age-adjusted hypotension, age-adjusted tachycardia, GCS \u226414, penetrating mechanism, and prehospital traumatic cardiac arrest. We fit a multivariable logistic regression and a classification and regression tree (CART) using an 80/20 stratified train-validation split. Missing data sensitivity analyses included multiple imputation and CART refitting in the broader eligible cohort.\n\n**RESULTS**: Among 79,764 children, 2,634 (3.3%) received early transfusion in the hospital. All five predictors were independently associated with early transfusion, led by GCS \u226414 (adjusted odds ratio [aOR] 8.38; 95% confidence interval [CI], 7.61-9.22), penetrating mechanism (aOR 5.87; 95% CI, 5.28-6.51), and age-adjusted hypotension (aOR 5.39; 95% CI, 4.74-6.13). In the validation cohort, CART analysis stratified patients into low-, intermediate-, and high-risk tiers comprising 77.0%, 19.7%, and 3.3% of patients, respectively. Early-transfusion rates were 1.2%, 6.1%, and 36.7% across these tiers. The high-risk tier accounted for 36.8% of all early transfusion events. Using the high-risk tier as a decision threshold, sensitivity was 36.8%, specificity 97.8%, positive predictive value 36.7%, and negative predictive value 97.8%.\n\n**CONCLUSIONS**: Five EMS-observable features, including age-adjusted hypotension, age-adjusted tachycardia, GCS \u226414, penetrating mechanism, and prehospital traumatic cardiac arrest, identified a small subgroup of pediatric trauma patients with substantially elevated risk of early hospital transfusion. This parsimonious framework may inform prospective validation of prehospital transfusion criteria.",
@@ -774,7 +1140,7 @@
         "Edmiston N"
       ],
       "date": "2026 Oct 1",
-      "doi": "10.1111/1742-6723.70371",
+      "doi": "10.1177/15248380261467492",
       "tier": "filtered",
       "topics": [
         "General Trauma"
@@ -3621,7 +3987,7 @@
     {
       "pmid": "42836701",
       "title": "Missed Opportunities for Prehospital Transfusion in Pediatric Trauma.",
-      "abstract": "",
+      "abstract": "**OBJECTIVES**: Prehospital blood transfusion has been associated with improved outcomes among pediatric trauma patients, but its utilization nationally remains poorly understood. We recently conducted a similar study that builds upon the findings of the investigation by Ramgopal et al. to identify potential missed opportunities for prehospital transfusion in pediatric trauma.\n\n**METHODS**: We utilized the National EMS Information System dataset from 2018-2023 to identify emergency medical services (EMS) responses for pediatric (<18 years of age) trauma patients. We identified trauma patients using the CDC Injury Mortality Diagnosis Matrix related ICD-10 codes. We identified patients at increased risk of benefiting from a transfusion using age-adjusted positive shock index thresholds. The outcome of interested was prehospital blood or blood product transfusion.\n\n**RESULTS**: We found there were 1,663,601 total 9-1-1 EMS activations to a scene for pediatric trauma. There were 363,844 patients with a positive shock index who were considered to be at increased risk of benefiting from a prehospital transfusion, but only 287 (0.1%) of these patients received a prehospital transfusion. Only 10 (2%) of the 468 patients who experienced a cardiac arrest after the arrival of EMS to the scene received a hospital transfusion.\n\n**CONCLUSIONS**: Together, our results indicate prehospital transfusion rates ranging from 0.1% to 1.01% among potentially eligible pediatric trauma patients. Although positive shock index does not confirm hemorrhagic shock, these findings suggest underutilization of prehospital blood transfusion among pediatric trauma patients.",
       "journal": "Prehosp Emerg Care",
       "authors": [
         "Hayes JM",
@@ -3629,11 +3995,12 @@
         "Gao J",
         "Cash RE"
       ],
-      "date": "2026 Oct 06",
+      "date": "2026 Oct 19",
       "doi": "10.1080/10903127.2026.2742418",
       "tier": "filtered",
       "topics": [
         "General Trauma",
+        "Haemorrhage",
         "Paediatric",
         "Prehospital"
       ],
@@ -3642,6 +4009,26 @@
           "keyword": "trauma",
           "strength": "strong",
           "topic": "General Trauma"
+        },
+        {
+          "keyword": "haemorrhagic shock",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "blood product",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "blood transfusion",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "prehospital blood",
+          "strength": "weak",
+          "topic": "Haemorrhage"
         },
         {
           "keyword": "paediatric trauma",
