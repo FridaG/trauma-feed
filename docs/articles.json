@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-21T22:54:05.721257Z",
-  "total_articles": 177,
+  "generated": "2026-10-22T22:52:49.734781Z",
+  "total_articles": 172,
   "all_topics": [
     "Abdominal",
     "Burns",
@@ -378,6 +378,121 @@
     "Cochrane Database Syst Rev": "filtered"
   },
   "articles": [
+    {
+      "pmid": "42904944",
+      "title": "Cluster Versus Individual Randomization in Prehospital, Emergency and Critical Care Trials: A Meta-Epidemiological Study.",
+      "abstract": "**OBJECTIVES**: Cluster-randomized clinical trials (cRCTs) are pooled with individually randomized clinical trials (iRCTs) in meta-analyses. However, cRCTs are associated with methodological characteristics potentially inducing systematic differences compared with iRCTs. In acute settings, trial inclusion is time-sensitive, exacerbating inclusion-based biases. We conducted a meta-epidemiological study to assess deviations in effect estimates between cRCTs and iRCTs in these settings.\n\n**DATA SOURCES**: A systematic literature search was conducted in PubMed and Embase.\n\n**DATA SELECTION**: We screened and identified all meta-analyses in prehospital, emergency, or critical care within the last decade that included at least one cRCT and one iRCT.\n\n**DATA EXTRACTION**: Data were extracted in duplicate from the meta-analyses. If overlapping trials were identified, results were pooled. The primary outcome was mortality; the secondary outcome comprised length-of-stay- or days-alive-type outcomes.\n\n**DATA SYNTHESIS**: Using absolute ln(odds ratio [OR]) for mortality and absolute Hedges' g for the secondary outcome, mean differences (MDs) in effect estimates between cRCTs and iRCTs were analyzed using mixed regression models, presented with 95% CIs. We identified 94 eligible meta-analyses; 44.7% reported on randomization type (cRCT or iRCT). We included 65 meta-analyses in quantitative analyses, encompassing 212 randomized clinical trials (39 cRCTs and 173 iRCTs) and 315,276 patients. No statistically significant difference in absolute ln(OR) for mortality between cRCTs and iRCTs was found (MD, -0.110; 95% CI, -0.093 to 0.313). For length-of-stay- or days-alive-type outcomes, a significant difference in absolute Hedges' g was found (MD, -0.202; 95% CI, -0.392 to -0.012).\n\n**CONCLUSIONS**: A systematic difference between cRCTs and iRCTs in length-of-stay- or days-alive-type outcomes, but not mortality, was identified, with cRCTs reporting smaller effect size magnitudes than iRCTs. With under half of identified meta-analyses reporting on randomization modality, these results highlight the need for improved transparency and statistical consideration of randomization type in future meta-analyses in prehospital, emergency, and critical care.",
+      "journal": "Crit Care Med",
+      "authors": [
+        "L\u00f8nstrup S",
+        "Petersen PL",
+        "Bruun NH",
+        "Klitgaard TL",
+        "Schj\u00f8rring OL"
+      ],
+      "date": "2026 Oct 21",
+      "doi": "10.4103/tjem.tjem_355_22",
+      "tier": "filtered",
+      "topics": [
+        "Prehospital"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "prehospital",
+          "strength": "strong",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42904944/"
+    },
+    {
+      "pmid": "42904921",
+      "title": "Pediatric Clinical Interventions and Adverse Safety Events Among Emergency Medical Services Encounters in Agencies With and Without a Pediatric Emergency Care Coordinator: An Observational Study.",
+      "abstract": "**OBJECTIVES**: The purpose of this study was to compare the frequency and types of adverse safety events (ASEs) and potential harm in a diverse population of pediatric emergency medical services (EMS) encounters. As a secondary aim we evaluated the association between prehospital pediatric emergency care coordinators (PECCs) in EMS agencies on the frequency, type and harm severity of ASEs.\n\n**METHODS**: This was a cross-sectional study of EMS and hospital records for children <18 years who received care from 15 EMS agencies from 2019 to 2023, using a validated ASE chart review tool. Frequency and types of ASEs associated with three different categories of clinical interventions (procedures, medication, and fluid administration) were captured. ASEs were assigned to three severities of harm: Harm Unlikely, Mild Temporary Harm, or Permanent/Severe Harm. EMS Physicians verified ASEs and harm severity.\n\n**RESULTS**: There were 2219 records included in the analysis, 995 from PECC agencies (44.8%). Median patient age was 12.5 years (IQR 6-15). In total, 551 (55.4%; CI: 52.3, 58.5) PECC agency patients had a procedure compared to 328 patients of agencies without a PECC (26.8%; CI: 24.3, 29.3; p < 0.001). Compared to non-PECC agency patients, PECC agency patients were more likely to receive medications (23.4% vs 7.7%, p< 0.001) and receive intravenous fluids (12.9% vs 4.6%, p< 0.001). In total, 290 ASEs were identified, the most frequent of which was the failure to perform a procedure or administer a medication or fluids (43.1%, CI: 37.4, 48.8). There were differences between PECC and non-PECC agencies in the frequency of ASEs in procedures (13.7% vs, 20.0%, p\u2009=\u20090.003). The assigned severity of ASE Mild Temporary and Permanent/Severe Harm was lower for procedures in PECC versus non-PECC agencies, respectively (28.6%, CI: 29.5, 48.5 and 63.3%, 95% CI: 69.6, 88.4, p < 0.001).\n\n**CONCLUSIONS**: Compared to non-PECC agency care, pediatric care by PECC agencies was associated with more procedures, medication and fluid administration, but fewer ASEs for procedures and lower severity of harm when an ASE occurred. These results indicate that the PECC role may be associated with increased interventions and a reduction in harm associated with procedural care.",
+      "journal": "Prehosp Emerg Care",
+      "authors": [
+        "Cicero MX",
+        "Baird J",
+        "Auerbach M",
+        "Brown L",
+        "Jarabana S",
+        "Adelgais K"
+      ],
+      "date": "2026 Oct 21",
+      "doi": "10.1080/10903127.2026.2752064",
+      "tier": "filtered",
+      "topics": [
+        "Prehospital"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "prehospital",
+          "strength": "weak",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42904921/"
+    },
+    {
+      "pmid": "42902959",
+      "title": "Prognostic Value of Thromboelastography Parameters for Early Trauma-Induced Coagulopathy in Severely Injured Patients: A Retrospective Cohort Study.",
+      "abstract": "**BACKGROUND AND IMPORTANCE**: Early trauma-induced coagulopathy (eTIC) is a major contributor to hemorrhage-related mortality after severe trauma. Viscoelastic testing using thromboelastography (TEG) has been increasingly implemented in trauma resuscitation; however, its prognostic value compared with conventional coagulation testing remains uncertain.\n\n**OBJECTIVES**: We evaluated the ability of TEG parameters to detect eTIC, hypofibrinogenemia, and hyperfibrinolysis in severely injured trauma patients. In addition, we assessed their prognostic performance for transfusion requirements and mortality compared with conventional laboratory parameters.\n\n**DESIGN**: Retrospective single-center cohort study.\n\n**SETTINGS AND PARTICIPANTS**: Severely injured adult trauma patients admitted to the resuscitation room of a Level I trauma center, between January 2019 and October 2024 were screened.\n\n**OUTCOME MEASURES AND ANALYSIS**: Primary outcomes were detection of eTIC (INR >\u20091.2), severe coagulopathy (INR >\u20091.5), hypofibrinogenemia (<\u2009200\u2009mg/dL), and thrombocytopenia (<\u2009100,000/\u03bcL). Secondary outcomes included the ability of coagulation parameters to predict the need for transfusion of \u2265\u20095\u2009units of packed red blood cells within the first 24\u2009h after admission and in-hospital mortality.\n\n**RESULTS**: A total of 262 patients were included; median ISS was 29 (IQR 23-41), and in-hospital mortality was 22.8%. eTIC was present in 31.5% of patients. TEG parameters showed moderate discriminatory performance for coagulopathy detection. For eTIC, maximum amplitude achieved an AUC of 0.73, while R-time achieved an AUC of 0.65. Predictive performance improved for severe coagulopathy, with R-time reaching an AUC of 0.81. Hyperfibrinolysis (LY30\u2009>\u20097%) was uncommon (6.9%). Conventional laboratory parameters, particularly INR, consistently outperformed TEG-derived parameters for prediction of transfusion requirements (AUC 0.85) and mortality (AUC 0.79).\n\n**CONCLUSION**: In severely injured trauma patients, conventional coagulation testing, particularly INR, demonstrated superior prognostic performance compared with individual TEG parameters. Viscoelastic testing may provide complementary information but did not replace standard laboratory testing for prediction of transfusion needs or mortality in this cohort.\n\n**TRIAL REGISTRATION**: ClinicalTrials.gov identifier: NCT07186712.",
+      "journal": "Acad Emerg Med",
+      "authors": [
+        "Honnef G",
+        "Zoidl P",
+        "Hallmann B",
+        "Missmann M",
+        "Eichinger M",
+        "Niederer M",
+        "Zajic P"
+      ],
+      "date": "2026 Oct 1",
+      "doi": "10.1097/SLA.0b013e3182658180",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Haemorrhage",
+        "Prehospital",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "trauma-induced coagulopathy",
+          "strength": "strong",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "thromboelastography",
+          "strength": "strong",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "packed red blood cells",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "trauma resuscitation",
+          "strength": "weak",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42902959/"
+    },
     {
       "pmid": "42902330",
       "title": "Negative pressure wound therapy for the prevention of surgical site complications in emergency laparotomies: an updated systematic review and meta-analysis.",
@@ -6604,306 +6719,6 @@
       ],
       "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/42778944/"
-    },
-    {
-      "pmid": "42778445",
-      "title": "An evaluation of the variability in the number of high-level trauma centers per million people across the United States.",
-      "abstract": "**INTRODUCTION**: The number of High-Level Trauma Centers (HLTCs) (Level I or II) per million people across the United States (US) is variable. The purpose of this study was to describe that variability and to determine if it was correlated with state characteristics.\n\n**METHODS**: A cross-sectional study of the US was performed utilizing census data. The number of HLTCs per million people in each state was calculated. The correlation between the number of HLTCs per million and the following variables was evaluated for: population density, black and white race, land area, median household income, employment rate, uninsured rate, poverty rate, and public health insurance coverage rate.\n\n**RESULTS**: All fifty states were included. The median number of HLTCs per million was 1.58 (IQR 1.14-2.45) and ranged from 0.47 in New Mexico to 6.28 in North Dakota. The median ratio of level 1 to level 2 trauma centers located in each area was 0.51 (IQR 0.25-1.0) and ranged from 0.0 to 4.0. HLTCs per million was positively correlated with white race (R=0.41, p\u202f=\u202f0.002) and employment rate (R=0.32, p\u202f=\u202f0.02) and negatively correlated with population density (R=-0.31, p\u202f=\u202f0.02) and black race (R=-0.37, p\u202f=\u202f0.008). No statistically significant correlations were observed between HLTCs per million and land area, median household income, uninsured rate, poverty rate, disability rate, or public health insurance coverage rate (p\u202f>\u202f0.05).\n\n**CONCLUSIONS**: The number of HLTCs per million across the United States varied widely and was positively correlated with white race and employment rate and negatively correlated with black race and population density.",
-      "journal": "Injury",
-      "authors": [
-        "York WY",
-        "Wohl RB",
-        "Moore EE",
-        "Ahn J",
-        "Schenker ML",
-        "Parry JA"
-      ],
-      "date": "2026 Sep 19",
-      "doi": "10.1016/j.injury.2026.113723",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42778445/"
-    },
-    {
-      "pmid": "42777692",
-      "title": "Re: A simplified Sequential Organ Failure Assessment score is associated with 30-day trauma mortality: A novel tool for a low-resource practice setting.",
-      "abstract": "",
-      "journal": "J Trauma Acute Care Surg",
-      "authors": [
-        "Lassad G"
-      ],
-      "date": "2026 Sep 23",
-      "doi": "10.1097/TA.0000000000005192",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "trauma mortality",
-          "strength": "strong",
-          "topic": "Systems/QI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42777692/"
-    },
-    {
-      "pmid": "42776543",
-      "title": "Tenecteplase Before Thrombectomy at 4.5 to 24 Hours for Basilar Artery Occlusion: The ATTENTION LATE Randomized Clinical Trial.",
-      "abstract": "**IMPORTANCE**: Whether intravenous tenecteplase before endovascular thrombectomy (EVT) improves outcomes in patients with basilar artery occlusion presenting 4.5 to 24 hours after stroke onset remains uncertain.\n\n**OBJECTIVE**: To evaluate the efficacy and safety of intravenous tenecteplase before EVT vs EVT alone in patients with moderate to severe basilar artery occlusion admitted within 4.5 to 24 hours from stroke onset.\n\n**DESIGN, SETTING, AND PARTICIPANTS**: This multicenter, open-label, blinded end point, randomized clinical trial was conducted at 40 stroke centers in China. Between March 16, 2023, and February 4, 2025, a total of 330 patients with moderate to severe basilar artery occlusion (National Institutes of Health Stroke Scale score \u226510) presenting within 4.5 to 24 hours from stroke onset to EVT-capable centers were enrolled. Final follow-up was completed on May 4, 2025.\n\n**INTERVENTIONS**: Patients were randomized 1:1 via a centralized web server using a minimization method to receive either intravenous tenecteplase (bolus injection, 0.25 mg/kg; maximum, 25 mg) followed by EVT (n\u2009=\u2009166) or EVT alone (n\u2009=\u2009164).\n\n**MAIN OUTCOMES AND MEASURES**: The primary outcome was functional independence (modified Rankin Scale score, 0-2) at 90 days. Safety outcomes included symptomatic intracranial hemorrhage and 90-day mortality.\n\n**RESULTS**: Among 332 patients randomized, 2 withdrew consent. Of the remaining 330 patients (mean [SD] age, 66 [11] years; 241 males [73%]; 89 females [27%]), 329 completed 90-day follow-up. Of whom, 50 of 165 (30%) in the tenecteplase plus EVT group and 50 of 164 (30%) in the EVT alone group achieved functional independence (adjusted rate ratio, 0.92 [95% CI, 0.67 to 1.25]; risk difference, -0.18% [95% CI, -10.13% to 9.76%]). Symptomatic intracranial hemorrhage occurred in 8 patients (5%) in the tenecteplase plus EVT group and 6 (4%) in the EVT alone group. Mortality at 90 days was similar between the groups (66 [40%] vs 70 [43%], respectively).\n\n**CONCLUSIONS AND RELEVANCE**: Among patients with moderate to severe basilar artery occlusion admitted directly to EVT-capable centers who presented 4.5 to 24 hours after stroke onset, the addition of intravenous tenecteplase before EVT did not result in improved functional outcomes compared with EVT alone.\n\n**TRIAL REGISTRATION**: ClinicalTrials.gov Identifier: NCT05701956.",
-      "journal": "JAMA",
-      "authors": [
-        "Li R",
-        "Yao X",
-        "Nogueira RG",
-        "Yuan G",
-        "Chen Z",
-        "Chen W",
-        "Yi T",
-        "Ren Y",
-        "Su J",
-        "Wang H",
-        "Ma Z",
-        "Zeng G",
-        "Wang B",
-        "Wei M",
-        "Jiang S",
-        "Xiao G",
-        "Song C",
-        "Cui T",
-        "Sun Y",
-        "Li Y",
-        "Zhou Z",
-        "Yuan X",
-        "Shi H",
-        "Zhang G",
-        "Wen J",
-        "Yu C",
-        "Wang T",
-        "Li J",
-        "Ni C",
-        "Wang F",
-        "Jin Y",
-        "Wang Y",
-        "Li Z",
-        "Xu L",
-        "Mei B",
-        "Zhou P",
-        "Cao Z",
-        "Fang P",
-        "Liu H",
-        "Chen J",
-        "Qiu T",
-        "Cheng G",
-        "Chen J",
-        "Sui Y",
-        "Lu Q",
-        "Mou L",
-        "Tao C",
-        "Sun J",
-        "Luo C",
-        "Xu P",
-        "Wang L",
-        "Zhang C",
-        "Liu T",
-        "Song J",
-        "Jing X",
-        "Wang A",
-        "Wang J",
-        "Wang G",
-        "Qureshi AI",
-        "Saver JL",
-        "Zhu Y",
-        "Nguyen TN",
-        "Hu W"
-      ],
-      "date": "2026 Sep 23",
-      "doi": "10.1177/17562864251378833",
-      "tier": "filtered",
-      "topics": [
-        "TBI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "intracranial haemorrhage",
-          "strength": "weak",
-          "topic": "TBI"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42776543/"
-    },
-    {
-      "pmid": "42776522",
-      "title": "Management of Colon and Rectal Injuries From Blunt and Penetrating Trauma: Evidence-Based Recommendations From the World Society of Emergency Surgery.",
-      "abstract": "**IMPORTANCE**: Traumatic colon and rectal injuries generate wide practice variation across diagnosis, operative strategy, technical conduct, and perioperative care. Management has shifted from mandatory fecal diversion toward selective primary repair and physiology-guided reconstruction, but decision-making remains inconsistent.\n\n**OBJECTIVE**: To develop evidence-based recommendations for the diagnosis, operative strategy, technical conduct, and perioperative management of adult colon and rectal trauma.\n\n**EVIDENCE REVIEW**: An international World Society of Emergency Surgery panel prioritized 17 clinical questions in the format Population, Intervention, Comparator, Outcome across 3 domains (colon, rectum, and technical/perioperative considerations). For each question, designated authors performed structured literature reviews through early 2026; evidence was synthesized and recommendations were drafted with an assigned strength (strong or conditional) and certainty (high, moderate, low, or very low) using the Grading of Recommendations, Assessment, Development and Evaluation (GRADE) approach and then harmonized by consensus. Reporting followed Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) conventions.\n\n**FINDINGS**: Contrast-enhanced computed tomography (CT) anchors diagnosis but is a sensitive screening tool whose negative result does not exclude injury; specific signs (bowel wall discontinuity, extraluminal air, active mesenteric extravasation) warrant operation. For suspected rectal injury, CT is first-line, with adjunctive rigid or flexible proctoscopy raising combined sensitivity to approximately 97%; routine rectal contrast is not recommended. Primary repair or resection with anastomosis is preferred over routine diversion for most stable patients, including many traditionally deemed high risk; for low-grade injuries, primary repair alone is preferred over resection with anastomosis. Selective diversion is reserved for persistent vasopressor dependence after damage-control laparotomy, inability to achieve fascial closure at the first reoperation, or compounded physiologic derangement. Proximal diversion is the default for extraperitoneal rectal injury, and routine presacral drainage and distal rectal washout are not recommended. Stapled and hand-sewn anastomoses are equivalent; antibiotic prophylaxis should not exceed 24 hours; and early enteral nutrition is advised in selected patients.\n\n**CONCLUSIONS AND RELEVANCE**: These recommendations support a selective, physiology-driven approach to colorectal trauma, in which patient physiology, contamination, perfusion, and the ability to achieve fascial closure-rather than the injured organ or any single risk factor-guide management. Much of the supporting evidence remains observational, and prospective study is warranted.",
-      "journal": "JAMA Surg",
-      "authors": [
-        "Ribeiro MAF",
-        "Efron DT",
-        "Dattwyler MP",
-        "Champ K",
-        "Ord\u00f3\u00f1ez CA",
-        "Montilla Garc\u00eda D",
-        "Levi A",
-        "Dib Possiedi R",
-        "Reitz MM",
-        "Waisberg J",
-        "Ottolino PR",
-        "Yanes Anzola MA",
-        "Abu-Zidan FM",
-        "Giuffrida M",
-        "Leichtle SW",
-        "Colpitts D",
-        "Liao CH",
-        "Wang YH",
-        "Menegozzo CA",
-        "de Simone B",
-        "Holsten S",
-        "Sartelli M",
-        "Yeh D",
-        "de Campos T",
-        "de Oliveira Miranda J",
-        "Coccolini F",
-        "Catena F",
-        "Scalea TM"
-      ],
-      "date": "2026 Sep 23",
-      "doi": "10.1001/jamasurg.2026.4263",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Penetrating"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "penetrating trauma",
-          "strength": "strong",
-          "topic": "Penetrating"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42776522/"
-    },
-    {
-      "pmid": "42776263",
-      "title": "The radial nerve bridging plate technique for humeral shaft fractures: an approach facilitating plate removal without impeding fracture union - a case series.",
-      "abstract": "**BACKGROUND**: Removing a plate of the humeral shaft with the radial nerve on top of the plate is challenging and carries a high risk for iatrogenic radial nerve palsy (iRNP). This study aimed to assess the incidence of iRNPs following plate removal of a radial nerve bridging plate (RNBP) and to evaluate outcomes of this RNBP in treatment of a humeral shaft fracture.\n\n**METHODS**: This was a single-center retrospective case series. Patients treated between May 2013 and December 2025 with a RNBP for a humeral shaft fracture or nonunion were included. The primary outcome measure was the incidence of iRNP after removal of the RNBP. Secondary outcome measures were the incidence of iRNP, malunion and nonunion after primary surgery.\n\n**RESULTS**: Of 48 included patients, the mean follow-up duration was 24 months. In 11 patients the plate was removed, no iRNP occurred in these patients. Of 41 patients who had no primary RNP after the fracture, seven patients experienced a temporary iRNP after primary surgery. All of the RNPs fully recovered with a mean recovery time of 12.3 weeks (range: 1-32). There were three nonunions, one of which was a pathological fracture, and one was a nonunion of a surgical neck fracture in a multilevel fracture.\n\n**CONCLUSION**: The RNBP technique allows safe and uneventful removal of the RNBP without iRNP, while maintaining the efficacy of plate fixation to treat humeral shaft fractures. It facilitates the decision to remove an implant if it seems indicated without risk of iatrogenic nerve damage.",
-      "journal": "Eur J Trauma Emerg Surg",
-      "authors": [
-        "Putzeys G",
-        "Nugteren LHT",
-        "Reynders-Frederix P",
-        "Hartog DD"
-      ],
-      "date": "2026 Sep 23",
-      "doi": "10.1007/s00264-015-2895-3",
-      "tier": "core",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42776263/"
-    },
-    {
-      "pmid": "42776248",
-      "title": "The limited value of routine radiographs in the follow-up treatment of proximal humerus fractures.",
-      "abstract": "**PURPOSE**: Proximal humerus fractures (PHFs) are common injuries in adults and occur particularly often in older patients. In our hospital, patients are routinely scheduled for follow-up radiographs at approximately two and six to eight weeks after injury, although the management yield of this practice is uncertain.\n\n**METHODS**: We performed a retrospective cohort study of consecutive adults (\u2265\u200918 years) presenting with PHFs to the OLVG emergency department (ED) between January and April 2022. Patients with multiple fractures, pathological fractures, fractures initially treated or followed up at another hospital, and fractures other than proximal humerus fractures were excluded. The primary outcome was a documented treatment-plan change during the observed outpatient treatment period, including conversion from conservative to operative treatment, cancellation of planned surgery, or additional surgery after initial operative treatment. The primary outcome proportion was reported with a two-sided exact 95% confidence interval. Descriptive variables included fracture classification, comminution, imaging use, follow-up timing, secondary displacement, and treatment duration.\n\n**RESULTS**: One hundred patients were included (mean age 60.4\u2009\u00b1\u200918.0 years; 60% female). Most fractures were one-part (63%) or two-part (33%), 45% showed comminution, and 87% of patients were treated conservatively. The observed treatment-plan change rate was 0/100 (0%; exact 95% confidence interval, 0.0-3.6%). Among the 87 patients initially treated conservatively, none converted to operative treatment. Secondary displacement occurred in nine patients, including one radiographic non-union and one malunion, but no treatment-plan change was documented in these patients. No revision surgery was performed. Patients underwent a mean of 3.0 radiographs, including the initial ED radiograph.\n\n**CONCLUSION**: In this cohort, routine follow-up radiographs had a low observed management yield: none was associated with a documented treatment-plan change. Because the upper 95% confidence limit was 3.6% and management reflected practice within a single hospital organisation, these data do not establish the safety of omitting radiographs. They support larger multicentre evaluation of clinically triggered rather than universally scheduled follow-up imaging.",
-      "journal": "Eur J Trauma Emerg Surg",
-      "authors": [
-        "Elwakel AA",
-        "Willinge GJA",
-        "Goslings JC",
-        "Twigt BA"
-      ],
-      "date": "2026 Sep 23",
-      "doi": "10.1016/j.jseint.2022.02.006",
-      "tier": "core",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42776248/"
-    },
-    {
-      "pmid": "42776226",
-      "title": "Waiting time and mortality after hip fracture: findings from a large single-center cohort study.",
-      "abstract": "**PURPOSE**: Time to surgery after hip fracture is a potentially modifiable factor that may influence mortality, but the evidence for an association is conflicting for waiting time\u2009<\u200948\u00a0h. The aim of this study was to investigate the association between waiting time to surgery and mortality, with waiting time categorized into 12-hour intervals.\n\n**METHODS**: We analysed all hip fractures operated at a large Norwegian hospital between 2015 and 2023. Waiting time from admission to surgery was categorized into 12-hour intervals. Mortality at one week, one month, three months (pre-specified primary endpoint) and one year was assessed using multivariable logistic regression, adjusting for age, sex, nursing home residency, Charlson Comorbidity Index (CCI), fracture type, calendar year of surgery, and direct-acting oral anticoagulant (DOAC) use. Model fit and discrimination were assessed for all models.\n\n**RESULTS**: The study included 4136 hip fractures. At the pre-specified primary endpoint of three months, mortality was numerically higher in patients with waiting times\u2009>\u200912\u00a0h, but this did not reach statistical significance for any waiting-time category (adjusted odds ratio [AOR] 1.16-1.25, all p\u2009>\u20090.2). Among the secondary, exploratory endpoints, the one-year timepoint showed increased mortality with increased waiting: patients operated between 12 and 24\u00a0h had significantly higher one-year mortality (AOR 1.38, 95% CI 1.10-1.72), rising to an AOR of 1.80 (95% CI 1.20-2.71) for waiting times exceeding 48\u00a0h.\n\n**CONCLUSIONS**: In this cohort, waiting time beyond 12\u00a0h was associated with a higher one-year mortality, but the association was not statistically significant at the primary endpoint at three months. Given the observational design and the possibility of residual confounding, these findings should be interpreted with caution.",
-      "journal": "Eur J Trauma Emerg Surg",
-      "authors": [
-        "Sundet M",
-        "Martinsen M",
-        "Sexton J",
-        "Sundin U",
-        "Lillegraven S"
-      ],
-      "date": "2026 Sep 23",
-      "doi": "10.2106/JBJS.17.00069",
-      "tier": "core",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42776226/"
-    },
-    {
-      "pmid": "42775827",
-      "title": "Increased Medical Debt in Collections 1 Year After Emergency General Surgery Admission.",
-      "abstract": "**BACKGROUND**: Emergency general surgery (EGS) conditions account for 4 million unplanned hospital admissions annually, but whether these acute, usually curable conditions are associated with lasting medical debt is unknown. We hypothesized that post-EGS increases in medical debt would be more strongly associated with patient demographics than treatment factors.\n\n**STUDY DESIGN**: We evaluated 4,216 adults admitted for appendicitis, gallbladder disease, small bowel obstruction, or emergency laparotomy in a statewide EGS collaborative (April 2020-June 2021), linking clinical registry data to quarterly consumer credit reports from 1 year before through 1 year after admission. The primary outcome was any increase in medical debt in collections from admission to 12 months; the secondary outcome was debt magnitude among affected patients. Modified Poisson and negative binomial regression evaluated incidence and magnitude, respectively.\n\n**RESULTS**: Overall, 382 patients (9.1%) had increased medical debt in collections (mean increase $1,764; median $535). Estimated income demonstrated a dose-response relationship (15.2% <$40,000 vs 2.7% >$100,000; aRR 5.67, 95% CI 3.69-8.69). Uninsured patients had 4.06-fold higher risk than privately insured patients (95% CI 2.82-5.84; adjusted probability 29.5% vs 7.3%). Operative intervention, intensive care, and hospital length of stay were not associated with increased debt.\n\n**CONCLUSIONS**: Nearly 1 in 10 patients had increased medical debt in collections after EGS. Associations with income and insurance, but not treatment intensity, identify financial risk protection rather than changes in clinical care as a target for reducing post-EGS financial hardship.",
-      "journal": "J Am Coll Surg",
-      "authors": [
-        "Johnson PL",
-        "Mullens CL",
-        "Levy SC",
-        "Jean R",
-        "Hemmila MR",
-        "Scott JW"
-      ],
-      "date": "2026 Sep 23",
-      "doi": "10.1097/XCS.0000000000002229",
-      "tier": "filtered",
-      "topics": [
-        "Procedures"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "emergency laparotomy",
-          "strength": "weak",
-          "topic": "Procedures"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42775827/"
     }
   ]
 }
