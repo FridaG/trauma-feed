@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-24T22:07:47.529584Z",
-  "total_articles": 178,
+  "generated": "2026-10-25T22:10:42.261537Z",
+  "total_articles": 190,
   "all_topics": [
     "Abdominal",
     "Burns",
@@ -378,6 +378,497 @@
     "Cochrane Database Syst Rev": "filtered"
   },
   "articles": [
+    {
+      "pmid": "42926186",
+      "title": "Effect of blood transfusion on respiratory failure in severe trauma patients: A post hoc analysis of a randomized multicenter trial in Japan.",
+      "abstract": "**BACKGROUND**: Severe trauma patients often need a large amount of blood transfusion including red blood cells (RBCs), fresh frozen plasma (FFP) and platelet. The blood transfusion can cause serious transfusion-related adverse events including respiratory complications, however, the risks of blood transfusion in trauma patients have not been well documented. We evaluated the hypothesis that the amount of blood transfusion during the acute post-injury phase was associated with respiratory failure among severe trauma patients at risk of active bleeding using a database of a randomized multicenter trial.\n\n**METHODS**: We used data from the Restrictive Transfusion Strategy for Critically Injured Patients (RESTRIC) trial, a cluster-randomized, crossover, non-inferiority multicenter trial conducted in Japan from May 7, 2019 to October 31, 2021 in Japan. The trial enrolled adult trauma patients transferred to the emergency department with severe bleeding or suspected severe bleeding and circulatory shock. All patients registered in this trial were included in this study. The primary outcome measure was the occurrence of respiratory failure within 7 days after admission. A logistic regression analysis on respiratory failure adjusted for sex, Injury Severity Score (ISS), chest Abbreviated Injury Scale (AIS) score, and the amount of RBCs, FFP, and platelet transfusions within 24\u202fh was performed.\n\n**RESULTS**: Of 417 trauma patients, 40 (9.8%) developed respiratory failure. Logistic regression analysis revealed that sex, chest AIS score, and platelet transfusion volume were associated with respiratory failure with 7 days after admission after adjustment (odds ratio [OR]: 0.300, 95% confidence interval [CI]: 0.113-0.794, p\u202f=\u202f0.015, OR: 1.732, 95% CI: 1.267-2.367, p\u202f<\u202f0.001, OR: 1.071, 95% CI: 1.021-1.122, p\u202f=\u202f0.005 respectively). ISS, RBC, and FFP transfusions were not associated with respiratory failure (all p\u202f\u2265\u202f0.05).\n\n**CONCLUSION**: Among severe trauma patients with severe bleeding or circulatory shock transferred to the emergency department, platelet transfusion volume within 24\u202fh may be a risk factor for respiratory failure within 7 days after admission. In contrast, RBC and FFP transfusions were not associated with respiratory failure.",
+      "journal": "Injury",
+      "authors": [
+        "Tanaka C",
+        "Tagami T",
+        "Fukuda R",
+        "Sakamoto T",
+        "Nakayama F",
+        "Kuno M"
+      ],
+      "date": "2026 Oct 19",
+      "doi": "10.1016/j.injury.2026.113781",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Haemorrhage",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "injury severity",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "blood transfusion",
+          "strength": "strong",
+          "topic": "Haemorrhage"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42926186/"
+    },
+    {
+      "pmid": "42925709",
+      "title": "Implementation of regional interfacility transfer guidelines for patients with isolated facial trauma: A preliminary report.",
+      "abstract": "**OBJECTIVE**: Secondary overtriage (SO) of isolated craniomaxillofacial (CMF) fractures overwhelm trauma centers and represent a significant resource burden while ultimately delaying patient care. The objective of this study was to implement an interfacility transfer protocol at a tertiary level 1 trauma center and review the preliminary utilization findings.\n\n**METHODS**: A tertiary academic medical center adopted the protocol via the AgileMD pathway in regional referral centers. The protocol indicates the necessity of on-call specialist consultation based on a patient's clinical presentation. This study conducted a retrospective cohort analysis for patients with isolated CMF trauma and AgileMD pathway activation over a one year period. The main outcome was transfer center activation.\n\n**RESULTS**: The pathway was utilized 55 times for isolated CMF trauma patients in one year. The majority of traumas involved nasal bone fractures (52.7%) and were most often caused by falls (49.1%). On-call specialist consultation occurred 18.2% of the time - down from 100% of cases prior to guideline institution. The majority of patients (78.2%) were discharged with 40.9% follow-up, while 16.4% were transferred. These dispositions followed the guidelines 90.9% of the time.\n\n**CONCLUSIONS**: This is the first pilot study on the implementation of isolated CMF trauma interfacility transfer guidelines. The 81.8% reduction in on-call specialist consultation suggests a meaningful call burden reduction for surgical providers, while a discharge rate of 78.2% and outpatient follow-up rate consistent with pre-implementation levels reflects significant preservation of trauma resources. Broader adoption of similar protocols can further reduce SO, hospital costs, and wait times.",
+      "journal": "Am J Emerg Med",
+      "authors": [
+        "Doctorman S",
+        "Lee J",
+        "Wallace D",
+        "Miller N",
+        "Galdyn I",
+        "Golinko M",
+        "Braun SA",
+        "Drolet BC",
+        "Pontell ME"
+      ],
+      "date": "2026 Oct 16",
+      "doi": "10.1016/j.ajem.2026.10.012",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42925709/"
+    },
+    {
+      "pmid": "42925672",
+      "title": "Harnessing the potential of response surface methodology-based optimized scaffolds in volumetric muscle loss repair in sprague dawley rat.",
+      "abstract": "Volumetric Muscle Loss (VML) is a complex tissue injury characterised by loss of tissue beyond the body's intrinsic regenerative capacity, resulting in impaired muscle regeneration and functional recovery. Limited cellular proliferation and poor in situ healing make VML one of the most challenging issues in tissue engineering. Conventional approaches of acidic gelling and use of artificial substrates compromise the structural integrity, biocompatibility and functional performance of tissue-engineered constructs. Moreover, the irregular geometries of muscle defects make surgical reconstruction technically challenging and often insufficient to achieve complete functional restoration. In this study, a novel porous scaffold containing collagen, fibronectin, and raloxifene (a cell-proliferative drug) was prepared for VML repair. The concentration of scaffold components was optimized using Response Surface Methodology (RSM) to obtain an effective scaffold composition. The regenerative efficacy of the optimized scaffold was evaluated in a Sprague-Dawley rat model of VML. The results suggested that RSM-optimized scaffold significantly improved VML repair after 21 days (p\u202f<\u202f0.05) in vivo. A prominent development of muscle fibre and deposition of collagen was observed. At molecular level, a significant increase in the expression of MyoD and STAT3 genes was observed in optimized scaffold group, suggesting enhanced myogenesis and tissue repair. The findings indicate that RSM may be utilized to optimize the tissue-engineered construct to improve VML repair.",
+      "journal": "Injury",
+      "authors": [
+        "Kumar S",
+        "Iyer VA",
+        "Verma YK"
+      ],
+      "date": "2026 Oct 18",
+      "doi": "10.1016/j.injury.2026.113806",
+      "tier": "filtered",
+      "topics": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42925672/"
+    },
+    {
+      "pmid": "42925671",
+      "title": "General anesthesia is associated with increased postoperative morbidity and mortality in frail patients undergoing hip fracture fixation.",
+      "abstract": "**INTRODUCTION**: Anesthetic management of hip fracture fixation has two primary modalities: general anesthesia (GA) and spinal anesthesia (SA). Choice of anesthesia often depends on institutional protocols and the individual anesthesiologist, due to a lack of consensus guidelines. Most studies have conflicting evidence and focus primarily on elderly age as a risk factor, without accounting for frailty. This study investigates whether frailty influences the relationship between anesthetic modality and postoperative outcomes.\n\n**METHODS**: This retrospective study queried the ACS-NSQIP from 2015 to 2020 for patients who underwent hip fracture fixation with open reduction internal fixation with plate and screws or intramedullary implant insertion. Patients were separated based on whether they received GA or SA. Frailty was evaluated using the 5-Item Modified Frailty Index (mFI-5). Patients classified as frail or severely frail were included. Multivariable regression adjusting for age, sex, ASA classification, smoking, and the comorbidities significant on univariate regression was performed. The outcomes examined were mortality, unplanned readmission, and overall complications within 30 days postoperatively.\n\n**RESULTS**: This study included 24,401 patients under GA and 6193 patients under SA. On multivariable regression analysis, GA was independently associated with increased odds of mortality, unplanned readmission, and all complications among frail patients. Severely frail patients under GA had increased odds of unplanned readmission and all complications. When looking at both frail and severely frail patients together, GA remained a significant predictor of mortality, unplanned readmission, and all complications.\n\n**DISCUSSION**: After controlling for ASA classification, our study found that frail and severely frail patients undergoing GA for hip fracture fixation had significantly increased odds of mortality, unplanned readmission, and all complications. Our findings suggest that SA may be safer compared to GA in frail patients undergoing hip fracture fixation. Frail patients that undergo GA may benefit from increased postoperative monitoring to help mitigate complications.",
+      "journal": "Injury",
+      "authors": [
+        "Sasaki J",
+        "Koltenyuk V",
+        "Mrazik S",
+        "Hand C",
+        "Varano M",
+        "Xu J",
+        "Andrawis J",
+        "Lucas TS"
+      ],
+      "date": "2026 Oct 14",
+      "doi": "10.1016/j.injury.2026.113773",
+      "tier": "filtered",
+      "topics": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42925671/"
+    },
+    {
+      "pmid": "42925615",
+      "title": "Acellular fish-skin grafting complex soft tissue defects in orthopedic trauma: Technique and outcomes of a consecutive case series.",
+      "abstract": "This article describes a surgical technique for applying an acellular fish-skin graft (Kerecis Omega3 Wound; Kerecis, \u00cdsafj\u00f6r\u00f0ur, Iceland) in orthopedic trauma and reports outcomes from a consecutive series of patients treated at an urban Level I trauma center. After institutional review board approval, we reviewed 27 adult patients with complex extremity wounds who were treated with acellular fish-skin grafting between January 1st, 2023, and December 30th, 2025. Wound etiologies included traumatic soft tissue injuries, postoperative wound dehiscence, necrotizing soft tissue infections, and chronic osteomyelitis with associated soft tissue compromise. Acellular fish-skin grafting was indicated in this series of patients for full-thickness skin loss (or deeper), including those with exposed tendons, bone, or ligaments, in whom flap reconstruction was contraindicated. Patients underwent serial irrigation and debridement followed by application of an acellular fish-skin graft. The primary outcome was complete wound healing without flap-based soft-tissue reconstruction. Secondary outcomes included the number of graft applications, duration of negative-pressure wound therapy (NPWT), time to split-thickness skin grafting (STSG), and all complications. Acellular fish-skin grafting facilitated wound healing in most patients, including those with infection, exposed bone, tendon, and/or ligaments, and substantial medical and social comorbidities. Twenty-two patients (84%) achieved definitive wound coverage without flap reconstruction. Five patients (19%) were referred to plastic surgery after grafting. Two ultimately achieved limb salvage with local wound care alone, whereas the remaining three required amputation. None of the referred patients were salvaged with flap reconstruction. One patient died on postoperative day two from unrelated medical causes, and one was lost to follow-up. Consequently, acellular fish-skin grafting may be a useful adjunct in managing complex orthopedic trauma wounds, particularly in high-risk patients or in settings with limited access to reconstructive surgery. Prospective comparative studies are needed to better define indications, effectiveness, and cost-effectiveness.",
+      "journal": "Injury",
+      "authors": [
+        "Kallevang JK",
+        "Faherty MS",
+        "Scheschuk J"
+      ],
+      "date": "2026 Oct 18",
+      "doi": "10.1016/j.injury.2026.113803",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Orthopaedic",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "orthopaedic trauma",
+          "strength": "strong",
+          "topic": "Orthopaedic"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42925615/"
+    },
+    {
+      "pmid": "42925034",
+      "title": "Machine Learning Prediction of Treatment Failure After Middle Meningeal Artery Embolization for Subdural Hematoma.",
+      "abstract": "**BACKGROUND AND OBJECTIVES**: Middle meningeal artery embolization (MMAE) is effective for chronic subdural hematoma (SDH), but failure rates vary and risk prediction tools are lacking. This study developed and validated a machine learning (ML) model to predict MMAE treatment failure for SDH.\n\n**METHODS**: We conducted an international, multi-institutional retrospective cohort study of patients who underwent MMAE for SDH between 2019 and 2025. The cohort was split into training and test sets, stratified by treatment failure, with all hematomas from each patient assigned to a single cohort to prevent data leakage. Multiple ML algorithms were evaluated using 5-fold cross-validation, with gradient boosting selected as the final model. The primary outcome was treatment failure, defined as rescue surgical evacuation or persistent/recurrent SDH requiring retreatment. Model performance was assessed using area under the curve-receiver operating characteristic. Patients were stratified into low-risk (<5%), medium-risk (5%-15%), and high-risk (>15%) groups using a priori clinically defined thresholds.\n\n**RESULTS**: Among 692 treated hematomas in the test cohort, 64 (9.2%) experienced treatment failure. The gradient boosting model achieved an area under the curve-receiver operating characteristic of 0.856 (95% CI, 0.803-0.902) before calibration and 0.832 (95% CI, 0.766-0.889) after isotonic calibration, with excellent calibration (Brier score, 0.053). The most important predictors were age-platelet interaction, platelet-hemoglobin ratio, platelet count, SDH thickness, and age. Observed treatment failure was 1.6% (95% CI, 0.4%-5.7%) in the low-risk group (n = 124; 17.9%), 6.0% (95% CI, 4.3%-8.4%) in the medium-risk group (n = 516; 74.6%), and 59.6% (95% CI, 46.1%-71.8%) in the high-risk group (n = 52; 7.5%) (P < .001 for trend), a 37.2-fold difference between high- and low-risk groups.\n\n**CONCLUSION**: This ML model stratified MMAE patients into risk groups with a 37.2-fold difference in treatment failure. High-risk patients had 59.6% failure, whereas low-risk patients had 1.6% failure. Risk stratification may improve patient selection and monitoring.",
+      "journal": "Neurosurgery",
+      "authors": [
+        "DeMessie B",
+        "Essibayi MA",
+        "Salim HA",
+        "Karandish A",
+        "Azzam AY",
+        "Khatri D",
+        "Haranhalli N",
+        "Baker A",
+        "Zampolin R",
+        "Brook AL",
+        "Lee SK",
+        "Adeeb N",
+        "Lakhani DA",
+        "Grist J",
+        "Zaccagna F",
+        "Li YL",
+        "Simonato D",
+        "Ortega DA",
+        "Cancelliere N",
+        "Diestro JD",
+        "Carnevale J",
+        "Schreiber C",
+        "Orscelik A",
+        "Abecassis Z",
+        "Raub S",
+        "Sioutas GS",
+        "Alsalama A",
+        "Pearce C",
+        "Salsano G",
+        "Abo Kasem R",
+        "Kvint S",
+        "Falzon A",
+        "Cantrell V",
+        "Holliday B",
+        "Abaricia JO",
+        "Maleknia PD",
+        "Cruz-Criollo L",
+        "Schimmel S",
+        "Musmar B",
+        "Alexander M",
+        "Zermeno JR",
+        "Koul P",
+        "Aljuboori A",
+        "Vollherbst DF",
+        "Gajski D",
+        "Cooper J",
+        "Alwakaa O",
+        "Ezzeldin M",
+        "Ogilvy CS",
+        "Al-Mufti F",
+        "Kalousek V",
+        "M\u00f6hlenbruch MA",
+        "Scarcia L",
+        "Wroe WW",
+        "Zeineddine HA",
+        "Zhao TS",
+        "Sporns PB",
+        "Gopinathan A",
+        "Regenhardt RW",
+        "Blackburn SL",
+        "Schirmer CM",
+        "Huynh T",
+        "Tawk RG",
+        "Settecase F",
+        "Tjoumakaris S",
+        "Jabbour P",
+        "Vakharia K",
+        "Zanaty M",
+        "Ortega-Gutierrez S",
+        "Jones JG",
+        "Colasurdo M",
+        "Nasser HH",
+        "Sundararajan SH",
+        "Mosimann PJ",
+        "Nossek E",
+        "Raz E",
+        "Al Kasab S",
+        "Spiotta AM",
+        "Castellan L",
+        "Del Sette B",
+        "Alaraj A",
+        "Michelozzi C",
+        "Saraceno D",
+        "Panni P",
+        "Srinivasan VM",
+        "Burkhardt JK",
+        "Marnat G",
+        "Santini PM",
+        "Levitt MR",
+        "Lanzino G",
+        "Brinjikji W",
+        "Knopman J",
+        "Kass-Hout T",
+        "Spears J",
+        "Marotta T",
+        "Pereira VM",
+        "Fuschi M",
+        "Dmytriw AA",
+        "Altschul DJ"
+      ],
+      "date": "2026 Oct 23",
+      "doi": "10.1227/neu.0000000000004203",
+      "tier": "filtered",
+      "topics": [
+        "TBI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "subdural haematoma",
+          "strength": "strong",
+          "topic": "TBI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42925034/"
+    },
+    {
+      "pmid": "42921177",
+      "title": "Navigating emergency medicaid and securing long-term medicaid coverage- patient education series: understanding trauma and emergency surgery conditions.",
+      "abstract": "",
+      "journal": "Trauma Surg Acute Care Open",
+      "authors": [
+        "Keegan G",
+        "Haddad D",
+        "Neiman PU",
+        "Scott JW",
+        "Knowlton LM"
+      ],
+      "date": "2026 Jan 1",
+      "doi": "10.1001/jamahealthforum.2025.0768",
+      "tier": "core",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42921177/"
+    },
+    {
+      "pmid": "42921153",
+      "title": "Post-intensive care syndrome (PICS), an AAST Critical Care Committee Consensus Guideline: expectations, mental health impairments, financial hardship, and caregiver burden in PICS.",
+      "abstract": "",
+      "journal": "Trauma Surg Acute Care Open",
+      "authors": [
+        "Nohra EA",
+        "Anderson J",
+        "Agapian JV",
+        "Appelbaum RD",
+        "Gelbard RB",
+        "Jawa R",
+        "Kaups KL",
+        "Nassar AK",
+        "Peralta R",
+        "Rosado J",
+        "Cuschieri J"
+      ],
+      "date": "2026 Jan 1",
+      "doi": "10.1097/CCM.0000000000006549",
+      "tier": "core",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42921153/"
+    },
+    {
+      "pmid": "42921151",
+      "title": "Sex dimorphic outcomes after whole blood resuscitation in trauma patients: a national database study.",
+      "abstract": "**BACKGROUND**: Injured females experience improved outcomes after component therapy resuscitation. We hypothesize that females <52 transfused with whole blood (WB) have improved survival, lower blood utilization, and lower complication rates compared with males and females \u226552.\n\n**METHODS**: This retrospective analysis assessed Trauma Quality Improvement Program Participant Use File patients aged 18-90 transfused WB 1/1/2020-12/31/2022. Patients who were pregnant, transferred, anticoagulated, died <1\u2009hour, had a blood dyscrasia, or severe head injury were excluded. Outcomes were compared between: female and male patients <52, female and male patients \u226552, and females <52\u2009and \u226552, separated by injury mechanism. Univariate and multivariate analyses were applied, with the latter controlled for injury factors, race, medical history, time to hemorrhage control procedure, and complications.\n\n**RESULTS**: 15\u2009051 patients met inclusion. Male sex was associated with greater need for massive transfusion, higher blood product utilization, and acute kidney injury than females, regardless of mechanism (p<0.05, all comparisons). Among those injured by blunt mechanism, females received fewer of all individual blood component transfusions than males at all ages (all p<0.01). Females <52 with blunt mechanisms had equivalent mortality compared with males, whereas females \u226552 had decreased mortality (20.1% vs 24.2%, p=0.01). Compared with females \u226552, younger females had lower mortality (14% vs 20.1%, p<0.01) after blunt injury despite having worse injuries and receiving more component transfusions. These differences were not seen in patients injured by penetrating mechanism. On multivariable analysis, mortality was higher in males and females \u226552 compared with younger females (all p<0.01), regardless of mechanism.\n\n**CONCLUSIONS**: After WB, being female and younger was generally associated with fewer blood transfusions, complications, and mortalities, but these differences were more pronounced in those with blunt mechanism. Females <52 demonstrated lower mortality compared with older patients. Further investigation is required to elucidate the mechanisms of these findings.\n\n**LEVEL OF EVIDENCE**: III, Prognostic/Epidemiological.",
+      "journal": "Trauma Surg Acute Care Open",
+      "authors": [
+        "Topper GV",
+        "Egodage T",
+        "Waters JP",
+        "Plumb J",
+        "Metheny J",
+        "Morris P",
+        "Nation RJ",
+        "Hess T",
+        "Hunter K",
+        "Porter J",
+        "Coleman JR"
+      ],
+      "date": "2026 Jan 1",
+      "doi": "10.1097/XCS.0000000000000906",
+      "tier": "core",
+      "topics": [
+        "General Trauma",
+        "Haemorrhage",
+        "Systems/QI",
+        "TBI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "massive transfusion",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "whole blood resuscitation",
+          "strength": "strong",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "blood product",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "head injury",
+          "strength": "weak",
+          "topic": "TBI"
+        },
+        {
+          "keyword": "trauma quality",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42921151/"
+    },
+    {
+      "pmid": "42921143",
+      "title": "Modernization of emergency general surgery through technical expertise and operational development for our patients and teams.",
+      "abstract": "Emergency general surgery (EGS) procedures are frequent and associated with higher morbidity than elective operations. Improving surgical quality for EGS patients is an admirable goal, which is fraught with several clinical and operational challenges. Surgeons must develop a skillset that is prepared to maintain clinical excellence and overcome the operational challenges that often prevent the initiation of new quality programs. This narrative review is from the Modernization of EGS short course at the 2026 EAST Annual Scientific Assembly. The session is divided into four parts highlighting specific EGS topics: hepatobiliary, alimentary tract, abdominal wall, and special patient populations. Topics were selected to provide current evidence-based approaches to commonly encountered pathological findings and notoriously challenging clinical scenarios. Included are expert opinion sections on the fundamental aspects of building a quality EGS program given by acute care surgery leaders with proven success.",
+      "journal": "Trauma Surg Acute Care Open",
+      "authors": [
+        "Howell EC",
+        "Hartwell JL",
+        "Cavalea A",
+        "Mabes ES",
+        "Abutaka A",
+        "Dossa A",
+        "Byam J",
+        "Schroeppel TJ",
+        "Behbahaninia M",
+        "Martin MJ",
+        "Miskimins R",
+        "Cripps MW",
+        "Hall CM"
+      ],
+      "date": "2026 Jan 1",
+      "doi": "10.1016/j.jamcollsurg.2011.12.045",
+      "tier": "core",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42921143/"
+    },
+    {
+      "pmid": "42920948",
+      "title": "Defying Gravity: Strategies for Reducing the Impact of Falls - AAST Virtual Grand Rounds.",
+      "abstract": "Injuries from falls and their sequelae represent a significant source of morbidity and mortality. This impact is predominantly felt by patients with pre-existing health conditions and poor health. For these patients, comorbidities, frailty, use of anticoagulation, and other factors result in the development of severe injuries after relatively low-impact falls. Many strategies exist to counter the negative effects of falls-both thinking about how to reduce the incidence of falls by engaging in fall prevention strategies and techniques for reducing trip hazards or finding ways to minimize the potential impact of falls on vulnerable populations. These efforts can be combined to create local and regional fall-prevention networks, which have been highly successful and effective in addressing fall risk. This publication summarizes the contents of an American Association for the Surgery of Trauma's Virtual Grand Rounds that highlighted the epidemiology of falls, the effects of falls, and strategies for countering these effects at individual and locoregional levels.",
+      "journal": "Trauma Surg Acute Care Open",
+      "authors": [
+        "Jacovides CL",
+        "Ratnasekera A",
+        "Egodage T",
+        "Putnam AT",
+        "Roberts HS",
+        "Yang AR",
+        "Duncan TK",
+        "Joseph D",
+        "Bonne S",
+        "Burruss S"
+      ],
+      "date": "2026 Jan 1",
+      "doi": "10.1136/tsaco-2024-001487",
+      "tier": "core",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42920948/"
+    },
+    {
+      "pmid": "42920936",
+      "title": "Craniofacial injuries in victims of non-fatal intimate partner violence treated in US emergency departments, 2018-2022.",
+      "abstract": "**BACKGROUND**: Intimate partner violence (IPV) is a significant public health crisis, and craniofacial injuries are among the most common consequences. However, nationwide estimates of IPV-related craniofacial injuries remain limited.\n\n**METHODS**: We conducted a retrospective descriptive study of non-fatal IPV-related injuries using the National Electronic Injury Surveillance System (NEISS)-All Injury Program from 2018 to 2022. Cases were restricted to intentional assaults from a spouse or intimate partner. Craniofacial injuries were defined as injuries to the head, face, mouth, eyeball, neck, or ear. National estimates were generated using NEISS sampling weights, and rates per 100,000 population were calculated using US Census denominators stratified by sex, age, and race/ethnicity.\n\n**RESULTS**: An estimated 888,279 emergency department visits were attributable to IPV-related injury during the study period, of which 58.3% (517,769 cases) involved craniofacial trauma. Female patients comprised the majority of cases (81.9%), experiencing an average annual rate of 97.6 per 100,000 compared with 20.4 per 100,000 for males. The highest rates were observed among women aged 20-26 (223.1 per 100,000) and 27-34 years (232.7 per 100,000). Black patients had the highest racial/ethnic burden (62.9 per 100,000), nearly four times higher than non-Hispanic white patients. Common diagnoses included internal injuries (28.9%), contusions/abrasions (28.0%), lacerations (17.4%), and concussions (4.2%). Most injuries occurred at home (85.2%) and resulted from being struck or hit (92.2%).\n\n**CONCLUSIONS**: These findings underscore the need for targeted prevention, improved clinical recognition, and survivor-centered services addressing the neurological and psychosocial consequences of IPV-related head trauma.",
+      "journal": "Trauma Surg Acute Care Open",
+      "authors": [
+        "Barboza GE",
+        "Watson-Grace A"
+      ],
+      "date": "2026 Jan 1",
+      "doi": "10.1007/s10140-022-02052-2",
+      "tier": "core",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42920936/"
+    },
     {
       "pmid": "42919460",
       "title": "Association of Acute Respiratory Distress Syndrome Radiographic Findings Identified by Machine Learning and Outcomes of Patients Receiving Invasive Mechanical Ventilation.",
