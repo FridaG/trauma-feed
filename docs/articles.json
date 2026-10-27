@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-26T23:28:12.487186Z",
-  "total_articles": 192,
+  "generated": "2026-10-27T23:21:36.661583Z",
+  "total_articles": 210,
   "all_topics": [
     "Abdominal",
     "Burns",
@@ -378,6 +378,812 @@
     "Cochrane Database Syst Rev": "filtered"
   },
   "articles": [
+    {
+      "pmid": "42945479",
+      "title": "An anti-inflammatory melanocortin fusion polypeptide augments whole blood resuscitation of hemorrhagic shock in a rodent polytrauma model.",
+      "abstract": "**BACKGROUND**: Severe trauma induces a cytokine storm that is associated with impaired resuscitation and recovery. We investigated the impact of AQB-565, an anti-inflammatory melanocortin fusion polypeptide, as a novel treatment adjunct for whole blood resuscitation of hemorrhagic shock using a rat polytrauma shock model.\n\n**METHODS**: Hemorrhagic shock with polytrauma was induced in 64 Sprague-Dawley rats. The rats were randomized to receive one of four intravenous treatments at 15 minutes posthemorrhage (T15): saline control, AQB-565, tranexamic acid (TXA), or combined AQB-565+ TXA. The rats were given autologous transfusion of shed whole blood at 60 minutes and as needed thereafter to achieve mean arterial pressure (MAP) of 60\u00a0mm\u00a0Hg for up to 3 hours. Survival, hemodynamics, cytokine profiles, and hemorrhage volumes were compared between groups.\n\n**RESULTS**: There was a significant overall effect of treatment group on MAP (two-way rmANOVA p=0.02) that coincided with blood transfusion. MAP was significantly increased at T105 with AQB-565+TXA versus saline control (p=0.046). Inflammatory plasma cytokines, including interleukin-6, were significantly decreased with AQB-565 versus control groups (ANOVA p values \u22640.01). Seventeen (26.6%) rats died before 3 hours. There was a trend towards increased survival for treatments containing AQB-565 versus controls that was not statistically significant (Kaplan-Meier log rank p=0.06).\n\n**CONCLUSIONS**: A melanocortin pathway-activating polypeptide suppressed inflammation and improved hemodynamic response to whole blood transfusion in this hemorrhagic shock model.",
+      "journal": "J Trauma Acute Care Surg",
+      "authors": [
+        "Kim JH",
+        "Neidig LE",
+        "Ringgold KM",
+        "Han CY",
+        "DeYoung KI",
+        "St John AE",
+        "Wang X",
+        "Berenson R",
+        "Stern SA",
+        "White NJ"
+      ],
+      "date": "2026 Oct 27",
+      "doi": "10.1097/TA.0000000000005200",
+      "tier": "core",
+      "topics": [
+        "General Trauma",
+        "Haemorrhage"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "polytrauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "haemorrhagic shock",
+          "strength": "strong",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "tranexamic acid",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "whole blood resuscitation",
+          "strength": "strong",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "blood transfusion",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42945479/"
+    },
+    {
+      "pmid": "42944872",
+      "title": "Addition of a McLaughlin cerclage to locking plate fixation of distal patellar pole fractures reduces interfragmentary displacement - a biomechanical human cadaveric study.",
+      "abstract": "**PURPOSE**: To investigate whether the addition of a McLaughlin cerclage to locking plate fixation of distal patellar pole fractures provides improved biomechanical construct stability and reduced interfragmentary displacement.\n\n**METHODS**: A distal patellar pole fracture was simulated in sixteen fresh-frozen human cadaveric knees by a horizontal osteotomy in the distal third of the patella. Subsequently, locking plate fixation was performed. In a randomized half of the specimens, an additional McLaughlin wire cerclage was applied. The specimens were then subjected to 3000 cycles of extension starting at 90\u00b0 of flexion under a maximum tensile load of 320\u00a0N. Using a Digital Image Correlation (DIC) system, the interfragmentary displacement between the proximal and distal fragments was measured at 1, 10, 20, 30, 50, 100, 500, 1000, 2000, and 3000 cycles. Statistical analysis was performed using repeated-measures ANOVA and Welch's unpaired t-t test at 3000 cycles.\n\n**RESULTS**: An additional McLaughlin cerclage significantly reduced interfragmentary displacement under cyclic loading in comparison to locking plate fixation alone. After 3000 cycles, displacement was 2.27\u2009\u00b1\u20091.84\u00a0mm with plate fixation alone and 0.36\u2009\u00b1\u20090.22\u00a0mm with additional McLaughlin cerclage (mean difference 1.91\u00a0mm; 95% CI 0.38-3.45\u00a0mm; p\u2009=\u20090.0215).\n\n**CONCLUSION**: An additional McLaughlin cerclage reduced interfragmentary displacement in distal patellar pole fractures. In cases of unstable distal pole patella fractures, the additional use of a McLaughlin cerclage may therefore be considered to enhance construct stability.",
+      "journal": "Eur J Trauma Emerg Surg",
+      "authors": [
+        "Deichsel A",
+        "Gro\u00dfe-Allermann A",
+        "Horst K",
+        "Kittl C",
+        "Lodde M",
+        "Gueorguiev B",
+        "Drenchev L",
+        "Skulev HK",
+        "Herbst E"
+      ],
+      "date": "2026 Oct 27",
+      "doi": "10.1016/j.injury.2020.01.028",
+      "tier": "core",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42944872/"
+    },
+    {
+      "pmid": "42944760",
+      "title": "Trauma care performance and patient outcomes - insights from a major trauma centre in Sweden.",
+      "abstract": "**PURPOSE**: Trauma is a leading cause of death among individuals under 45 years of age. Evaluating trauma system performance over time is important but inherently difficult due to concurrent changes in patient demographics, case-mix and care processes. The aim of this study was to describe temporal changes in patient demographics, injury severity and trauma care at a major trauma centre in Sweden from 2017 to 2023. We hypothesised that risk-adjusted 30-day mortality decreased and that time to computed tomography was reduced over the study period.\n\n**METHODS**: A retrospective cohort study was conducted using data from the Karolinska Trauma Registry, including all trauma patients aged\u2009>\u200915 years fulfilling criteria for full trauma team activation, admitted between January 2017 and August 2023. Multivariable logistic regression was used to assess changes in 30-day mortality over time, adjusted for age, sex, injury severity category, ASA score and injury type. Time from arrival to computed tomography was analysed by linear regression and, because the distribution was skewed, by quantile (median) regression.\n\n**RESULTS**: A total of 5,615 trauma patients were included. Over the study period, the patient population became older, and ASA scores increased, while injury severity and the proportion of penetrating injury remained unchanged. In multivariable logistic regression with 2017 as reference, the odds of 30-day mortality in 2022-2023 were lower (OR 0.61, 95% CI 0.43-0.88, P\u2009=\u20090.008) after adjusting for confounders. Median time to computed tomography decreased from 31 to 21\u00a0min; the adjusted difference in 2022-2023 compared with 2017 was -\u20097.5\u00a0min by linear regression (P\u2009=\u20090.014) and -\u200910.4\u00a0min by quantile regression (95% CI\u2009-\u200911.5 to -\u20099.2, P\u2009<\u20090.001).\n\n**CONCLUSION**: Our findings are consistent with improvements in trauma care within a mature trauma system, with shorter median time to computed tomography and lower 30-day mortality despite an aging population with increasing comorbidity. However, the specific drivers of these changes are difficult to identify, and future studies should explore how individual components of pre-hospital and in-hospital care contribute to trauma outcomes.",
+      "journal": "Eur J Trauma Emerg Surg",
+      "authors": [
+        "Eriksson J",
+        "Larsson E",
+        "Arnason B",
+        "Ohl\u00e9n D",
+        "Hedberg M",
+        "Jonsson Fagerlund M",
+        "von Oelreich E"
+      ],
+      "date": "2026 Oct 27",
+      "doi": "10.1097/MEJ.0000000000000161",
+      "tier": "core",
+      "topics": [
+        "General Trauma",
+        "Penetrating",
+        "Prehospital",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "major trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "injury severity",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "strong",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "penetrating injury",
+          "strength": "weak",
+          "topic": "Penetrating"
+        },
+        {
+          "keyword": "trauma team",
+          "strength": "weak",
+          "topic": "Prehospital"
+        },
+        {
+          "keyword": "trauma registry",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42944760/"
+    },
+    {
+      "pmid": "42937218",
+      "title": "Embolization of the middle meningeal artery for non-acute subdural hematoma.",
+      "abstract": "This is a protocol for a Cochrane review (intervention). The objectives are as follows: To evaluate the benefits and harms of the embolization of the middle meningeal artery for non-acute subdural hematoma in adults. Secondary objectives To assess equity-related issues, including sex and gender, through subgroup analyses comparing the intervention's effects between male and female subjects, between younger and older adults, and across different pre-event functional status.",
+      "journal": "Cochrane Database Syst Rev",
+      "authors": [
+        "Rico S",
+        "Escobar Liquitay CM",
+        "Garegnani L",
+        "Varela L"
+      ],
+      "date": "2026 Oct 27",
+      "doi": "10.1002/14651858.CD016407",
+      "tier": "filtered",
+      "topics": [
+        "TBI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "subdural haematoma",
+          "strength": "strong",
+          "topic": "TBI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42937218/"
+    },
+    {
+      "pmid": "42934060",
+      "title": "Peripheral vascular trauma in a civilian Asian trauma centre: Epidemiology, management and outcomes over 9 years.",
+      "abstract": "**BACKGROUND**: Peripheral vascular injuries (PVI) are uncommon but potentially limb-threatening complications of extremity trauma. Most existing literature originates from military settings or Western trauma systems. We aimed to describe the epidemiology, management strategies, and outcomes of traumatic PVI in a civilian tertiary trauma centre in Singapore.\n\n**METHODS**: A retrospective cohort study was conducted using the institutional trauma registry of Tan Tock Seng Hospital between January 2013 and December 2021. Patients presenting with upper or lower extremity vascular injuries were identified using Abbreviated Injury Scale (AIS) coding. Demographics, injury characteristics, anatomical injury patterns, interventions, and outcomes including limb salvage, complications, and inpatient mortality were analysed. Comparisons between upper and lower limb injuries were performed using appropriate statistical tests.\n\n**RESULTS**: Among 77,990 trauma admissions, 180 patients sustained PVI (incidence 0.23%). Median age was 36 years and 87% were male. Overall, penetrating trauma was more common (58.9%), but lower limb injuries were predominantly due to blunt trauma (68%), particularly road traffic accidents. Lower limb PVIs were associated with higher injury severity than upper limb PVIs (p\u202f<\u202f0.001). Operative management was required in most arterial and venous injuries. Primary repair and endovascular interventions demonstrated excellent limb salvage, whereas bypass procedures were associated with lower salvage rates. Overall limb salvage for lower limb PVI was 88%, with an amputation rate of 10% and mortality of 3%. Most (93%) were functionally independent at discharge.\n\n**CONCLUSIONS**: PVI predominantly affects young male patients and are commonly associated with blunt trauma from road traffic accidents. Despite significant injury severity, favourable limb salvage and functional outcomes can be achieved with timely multidisciplinary management. These findings highlight the importance of coordinated multidisciplinary trauma care in optimizing outcomes following extremity vascular trauma.",
+      "journal": "Injury",
+      "authors": [
+        "Chong FJ",
+        "Lee KRY",
+        "Go K",
+        "Tee MZQ",
+        "Chan YM",
+        "Hong Q",
+        "Tan GWL",
+        "Lo HY",
+        "Teo LT",
+        "Zhang L",
+        "Yong E"
+      ],
+      "date": "2026 Oct 14",
+      "doi": "10.1016/j.injury.2026.113795",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Penetrating",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "blunt trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "penetrating trauma",
+          "strength": "weak",
+          "topic": "Penetrating"
+        },
+        {
+          "keyword": "injury severity",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "strong",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "trauma registry",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42934060/"
+    },
+    {
+      "pmid": "42933977",
+      "title": "New developments in locking plate osteosynthesis - A narrative review.",
+      "abstract": "Plate osteosynthesis has evolved significantly, progressing from the first plates with externally protruding screws to anatomically precontoured systems designed for minimally invasive application. In this narrative review, we provide a brief recap of the history of locked plating and highlight the most relevant developments of the last two decades. These include anatomical innovations and mechanobiologically optimized plates, as well as emerging systems capable of monitoring the fracture healing progress.",
+      "journal": "Injury",
+      "authors": [
+        "Braun BJ",
+        "Ro\u00dflenbroich S",
+        "Menger MM",
+        "Histing T"
+      ],
+      "date": "2026 Oct 1",
+      "doi": "10.1016/j.injury.2026.113443",
+      "tier": "filtered",
+      "topics": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42933977/"
+    },
+    {
+      "pmid": "42933975",
+      "title": "The use of PMMA bone cement in trauma surgery: A narrative review.",
+      "abstract": "**BACKGROUND**: Polymethylmethacrylate (PMMA) bone cement has been used for decades in orthopaedic surgery, primarily for fixation of endoprostheses. In trauma surgery, its role is more heterogeneous and often underappreciated.\n\n**METHODS**: This narrative review summarizes the material properties, biological behavior, and clinical applications of PMMA in trauma surgery, including prosthesis fixation, screw augmentation, and its use as a temporary spacer. Finally, the use of PMMA used as a permanent spacer, including technical tips is described.\n\n**RESULTS**: PMMA provides high compressive strength, minimal shrinkage, and reliable handling characteristics. Cement augmentation improves implant anchorage in osteoporotic bone. As a spacer, PMMA plays a key role in staged reconstruction. Finally, in selected patients and as a salvage procedure, PMMA may function as a permanent load-sharing implant when combined with stable internal fixation.\n\n**CONCLUSION**: PMMA remains a versatile, inexpensive, and widely available tool in trauma surgery beyond its classical role in arthroplasty.",
+      "journal": "Injury",
+      "authors": [
+        "Holla M",
+        "Migdad H",
+        "Blokhuis T"
+      ],
+      "date": "2026 Oct 1",
+      "doi": "10.1016/j.injury.2026.113728",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42933975/"
+    },
+    {
+      "pmid": "42933974",
+      "title": "Surface topography and nanostructural modifications for the prevention of bacterial infections.",
+      "abstract": "Implant-associated infections represent severe complications in orthopaedics and trauma surgery, largely driven by early bacterial adhesion and subsequent biofilm formation on device surfaces. The increasing incidence of multidrug-resistant pathogens further complicates management and underscores the urgent need for preventive, antibiotic-free strategies. Surface functionalization of implantable metals has emerged as a key approach to inhibit bacterial colonization at the implant-tissue interface while minimizing systemic toxicity and selective pressure for resistance. This review provides a comprehensive and clinically oriented overview of two major surface-based strategies: micro/nano-scale surface patterning (non-releasing approaches) and nanostructured antibacterial metallic coatings (releasing or contact-killing systems). Surface patterning modifies topography, wettability, and surface charge to reduce bacterial adhesion or induce mechanical disruption of bacterial membranes. Although highly promising in vitro and not reliant on the release of antimicrobial agents, hence not inserting compounds with potential toxicity, current evidence indicates that patterned surfaces alone often provide limited and transient protection in vivo, where protein adsorption and complex microbial communities may mask topographical effects. In contrast, nanostructured antibacterial metallic coatings offer broad-spectrum antibacterial and antibiofilm activity through ion release and/or contact-mediated mechanisms. Advances in plasma-assisted deposition technologies, including magnetron sputtering, pulsed laser deposition, and ionized jet deposition, enable precise control over coating thickness, morphology, and ion-release kinetics, thereby enhancing antibacterial efficacy while preserving biocompatibility and osteogenic potential. Recent in vivo data support the durability and safety of thin nanostructured coatings, highlighting their translational potential. Although not-yet clinically available, due to challenges in clinical translation of biomedical devices, these strategies can build a new generation of antibacterial device, with efficacy targeted to the microbial community and to tackling biofilm. Comparative observations suggest that while surface patterning represents a valuable complementary strategy, nanostructured metallic thin films currently provide more robust and clinically relevant antimicrobial performance. Future research should prioritize standardized antibiofilm testing models, validation in complex in vivo settings, combination strategies integrating patterning and coatings, and the rational tuning of multi-metal systems to address heterogeneous microbial communities.",
+      "journal": "Injury",
+      "authors": [
+        "Graziani G",
+        "Ghezzi D"
+      ],
+      "date": "2026 Oct 1",
+      "doi": "10.1016/j.injury.2026.113727",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42933974/"
+    },
+    {
+      "pmid": "42933973",
+      "title": "Cerclage wiring: Innovations and applications.",
+      "abstract": "Immediate full weight-bearing of osteosynthesis constructs is gaining increasing importance in modern trauma surgery. Many geriatric patients cannot reliably adhere to partial weight-bearing instructions, and younger patients may benefit from accelerated rehabilitation enabled by early full weight-bearing. In this context, an older technique of minimally invasive cerclage fixation of the tibia is receiving renewed attention. The surgical technique has been adapted to contemporary cerclage systems and biomechanically evaluated for the first time. Several studies using synthetic and cadaveric bone models have demonstrated that modern cable cerclages, particularly in spiral fractures, are capable of significantly increasing the stiffness of both locking plate and intramedullary nail osteosyntheses, provided that anatomical reduction is achieved through the cerclage. From a biomechanical standpoint, the additive cerclage thus enables immediate postoperative full weight-bearing. Early clinical studies suggest, that minimally invasive tibial cerclage can be applied without an increased complication rate and is associated with faster rehabilitation and higher patient satisfaction in the early postoperative phase. Although evidence is limited, the principle of additive cerclage appears to be transferable to humeral shaft spiral fractures.",
+      "journal": "Injury",
+      "authors": [
+        "F\u00f6rch S",
+        "Sandriesser S",
+        "Fenwick A",
+        "Augat P",
+        "Mayr E"
+      ],
+      "date": "2026 Oct 1",
+      "doi": "10.1016/j.injury.2026.113722",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42933973/"
+    },
+    {
+      "pmid": "42933972",
+      "title": "Overview and new developments in intramedullary and cephalomedullary nailing.",
+      "abstract": "The primary objectives of osteosynthetic fracture stabilization are accurate fracture reduction, restoration of the anatomical axis and rotational alignment, and the provision of adequate biomechanical and biological conditions to support bone healing. In fractures of long tubular bones, these goals can be optimally achieved by intramedullary nailing, which provides long-segment internal splinting along the anatomical axis of the bone combined with locking screws to ensure axial and rotational stability. In addition, intramedullary nailing is a tissue-preserving technique, as nail insertion is performed remote from the fracture site, thereby minimizing soft tissue trauma within the fracture zone. The indications for intramedullary nailing include epiphyseal and diaphyseal fractures of long bones, selected metaphyseal fractures that can be stabilized using anatomically contoured nails, as well as reconstructive procedures such as the treatment of nonunions, corrective osteotomies, and arthrodeses of the lower extremity. A major advantage of intramedullary nailing is the high primary stability of the implant, which generally allows early functional rehabilitation. The resulting biomechanical benefits permit early full weight bearing and, in the treatment of fracture healing disorders, are associated with high rates of osseous union. Continuous improvements in implant design and instrumentation, together with the introduction of anatomically contoured reconstruction nails, are expected to further expand the indications and effectiveness of intramedullary nailing. This narrative review summarizes historical milestones, biomechanical principles, technical aspects, and recent implant developments in intramedullary nailing, with a particular focus on cephalomedullary nailing for unstable trochanteric and subtrochanteric femoral fractures. Special emphasis is placed on fracture reduction quality, implant selection, and screw positioning, as these factors remain the strongest determinants of fixation stability and clinical outcome.",
+      "journal": "Injury",
+      "authors": [
+        "Hackl S",
+        "Weisemann F",
+        "Trapp O",
+        "von R\u00fcden C"
+      ],
+      "date": "2026 Oct 1",
+      "doi": "10.1016/j.injury.2026.113718",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42933972/"
+    },
+    {
+      "pmid": "42933971",
+      "title": "Review of a \"Bone Glue Fixation\" development.",
+      "abstract": "The paper presents some of the background to the development of bone glues. Whilst there have been many attempts over the last 100 years to find a safe and effective biomimetic adhesive biomaterial it is only recently that promising and feasible candidates have been developed. In particular a formulation based on a combination of an amino acid, phosphoserine (PSer), together with calcium salts and water, has demonstrated the potential to meet clinically defined requirements for a bone adhesive (Osstic\u00ae). This bone glue has achieved first in human use after having demonstrated consistent preclinical performance.",
+      "journal": "Injury",
+      "authors": [
+        "Procter P"
+      ],
+      "date": "2026 Oct 1",
+      "doi": "10.1016/j.injury.2026.113707",
+      "tier": "filtered",
+      "topics": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42933971/"
+    },
+    {
+      "pmid": "42933970",
+      "title": "Alternate non-metallic implants in fracture care - A review.",
+      "abstract": "The use of implants in the treatment of fractures evolved over the last decades. Until today, most implant designs are based on metallic alloys such as Titanium or stainless steel. However, the global ageing population with increasing numbers of fragility and pathological fractures challenges current implant designs regarding stress shielding, fragile soft tissue and advanced demands like reduced imaging artefacts for radiotherapy planning. Therefore, alternative non-metallic implants that more closely resemble the mechanical properties of bone or provide additional stability as intramedullary augmentation have become available. This narrative-review summarizes the current available (2026) technology, biomechanical properties, clinical applications, outcomes and complications of CFR-PEEK implants and photodynamic bone stabilization implants in fracture management. In total n\u202f=\u202f100 publications were taken into consideration for this narrative-review. Non-metallic-implants for fracture care are still a niche product in the treatment of fractures. However, with the ageing population and the increasing number of impaired bone quality and stability, these methods could help reduce stress shielding and force distribution comparable to physiological bone (CFR-PEEK implants) or allow additional augmentation (photodynamic bone stabilization) in reduced bone quality.",
+      "journal": "Injury",
+      "authors": [
+        "Fritz T",
+        "Osche D",
+        "Liodakis E",
+        "Orth M"
+      ],
+      "date": "2026 Oct 1",
+      "doi": "10.1016/j.injury.2026.113663",
+      "tier": "filtered",
+      "topics": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42933970/"
+    },
+    {
+      "pmid": "42933969",
+      "title": "Innovation in external fixation: Emerging hardware, software and automation technologies.",
+      "abstract": "External fixation remains a cornerstone of contemporary orthopaedic trauma and limb reconstruction surgery. While the biological principles for bone healing and regeneration established by Ilizarov continue to underpin modern practice, significant technological innovation has occurred over the past two decades. These developments have focused on improving construct stability, enhancing deformity correction accuracy, reducing technical complexity and improving the patient experience. Advances in hardware design have expanded fixation options and increased the adaptability of circular frames in complex trauma and reconstructive settings. Parallel developments in software have transformed deformity analysis, preoperative planning and correction execution through improved registration systems, virtual frame construction and cloud-based treatment platforms. More recently, remote patient support systems and automated strut technologies have sought to reduce the treatment burden associated with prolonged frame use. This review examines contemporary innovations in external fixation, focusing on developments in hardware, software, patient engagement technologies and automation. The available evidence is critically appraised and future directions explored. While many innovations demonstrate clear theoretical and practical advantages, robust clinical evidence remains limited for several emerging technologies. Nevertheless, the convergence of advanced engineering, digital health technologies and artificial intelligence is likely to fundamentally reshape the future of external fixation.",
+      "journal": "Injury",
+      "authors": [
+        "Raj S",
+        "Fornasiero M",
+        "Tsang SJ"
+      ],
+      "date": "2026 Oct 1",
+      "doi": "10.1016/j.injury.2026.113661",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Orthopaedic"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "orthopaedic trauma",
+          "strength": "weak",
+          "topic": "Orthopaedic"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42933969/"
+    },
+    {
+      "pmid": "42933968",
+      "title": "Modernizing preoperative planning in orthopaedic trauma surgery.",
+      "abstract": "Preoperative planning in orthopaedic trauma remains largely experience-driven despite advances in imaging and predictive modeling. Although three-dimensional (3D) reconstructions improve fracture visualization, they do not routinely predict biomechanical stability across competing fixation strategies. Automated segmentation and finite element analysis (FEA) offer the potential to transition trauma planning from primarily anatomic to a method by which constructs may be optimized. This narrative review summarizes the current state of 3D planning and segmentation, describes the principles and established applications of FEA, delineates the workflow of finite element modeling in clinical practice, and integrates representative clinical cases to illustrate how plate positioning and screw configuration affect construct stability and works alongside the surgeon to help inform decisions. Broader implications for hospital systems, patients, and industry are discussed, along with future integration into navigation, robotics, and intraoperative 3D imaging workflows.",
+      "journal": "Injury",
+      "authors": [
+        "Leland CR",
+        "Farid AR",
+        "Stenquist DS",
+        "Suneja N",
+        "von Keudell AG"
+      ],
+      "date": "2026 Oct 1",
+      "doi": "10.1016/j.injury.2026.113640",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Orthopaedic"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "orthopaedic trauma",
+          "strength": "strong",
+          "topic": "Orthopaedic"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42933968/"
+    },
+    {
+      "pmid": "42933967",
+      "title": "Patient-specific instrument with 3D printing technology in orthopaedic trauma: A narrative review.",
+      "abstract": "3D printing technology has been increasingly used in orthopaedic surgery. Current literature has demonstrated the benefits of applying 3D printing in orthopaedic trauma with the use of patient-specific instruments (PSI) including surgical guides and implants on selected bone fracture regions. This narrative review outlines the development of PSI including the navigation templates and implants using 3D printing technology. A comprehensive summary was presented for the application and effectiveness of PSI for fracture treatment in the upper extremities, pelvic region and lower extremities surgeries, particularly in regards to operative time, surgical accuracy and functional outcomes. 3D-printed patient-specific navigation guide had been used in reduction and fixation surgeries such as for navigating Kirschner wires (K-wire) insertion and screw placement in different bone fracture regions. PSI significantly increased surgical accuracy of K-wire insertion and screw placements, with significant reduction in operative time. For functional outcomes, 3D-printed navigation guide was comparable to conventional surgery. There are increasing studies exploring the clinical feasibility of patient-specific metal implant using 3D printing technology with advantage of high accuracy in fracture surgeries. Future studies to investigate the clinical efficacy of the patient-specific metal implants are warranted.",
+      "journal": "Injury",
+      "authors": [
+        "Wong PY",
+        "Liu C",
+        "Tao H",
+        "Li B",
+        "Yang M",
+        "Zhao C",
+        "Li T",
+        "Wang Y",
+        "Gu H",
+        "Zhang N",
+        "Cheung WH",
+        "Chui CS",
+        "Law SW",
+        "Wu X",
+        "Wong RMY"
+      ],
+      "date": "2026 Oct 1",
+      "doi": "10.1016/j.injury.2026.113543",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Orthopaedic"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "orthopaedic trauma",
+          "strength": "strong",
+          "topic": "Orthopaedic"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42933967/"
+    },
+    {
+      "pmid": "42933966",
+      "title": "Generation Z and engagement in orthopaedic trauma: A multigenerational qualitative study.",
+      "abstract": "**BACKGROUND**: Healthcare systems face increasing demand due to population ageing and workforce shortages. At the same time, Generation Z is entering surgical training. Their work values may differ from those of previous generations, potentially affecting engagement in demanding specialties such as orthopaedic trauma surgery. This study explores multigenerational perspectives on professional identity, work intensity, academic engagement, and work-life integration within orthopaedic trauma.\n\n**METHODS**: Prior to the 2024 Leadership Forum of the Osteosynthesis and Trauma Care Foundation (OTCF), a standardized questionnaire consisting of declarative statements rated on a five-point Likert scale was distributed to orthopaedic trauma residents and senior consultants from international chapters. During the Forum, a moderated multigenerational discussion was conducted. The session was recorded, transcribed verbatim, and analyzed using thematic qualitative analysis.\n\n**RESULTS**: Eight residents and fifteen consultants from Europe, North America, South America, Africa, and Asia participated. Across generations, intensive training was considered essential for achieving surgical mastery. However, younger participants emphasized work-life boundaries, institutional recognition of non-clinical work, and psychological safety. Senior surgeons more frequently described their profession as central to their identity and viewed unpaid academic engagement as intrinsic to surgical responsibility.\n\n**CONCLUSION**: Generation Z trainees demonstrate strong commitment to orthopaedic trauma but differ from senior surgeons in expectations regarding professional identity, uncompensated academic work, and work-life integration. Recognition of evolving professional values is critical for workforce sustainability and intergenerational collaboration in trauma surgery.",
+      "journal": "Injury",
+      "authors": [
+        "Blokhuis TJ",
+        "Holla M",
+        "Gomez Vallejo J",
+        "Maqungo S",
+        "Dunbar RP"
+      ],
+      "date": "2026 Oct 1",
+      "doi": "10.1016/j.injury.2026.113538",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Orthopaedic"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "orthopaedic trauma",
+          "strength": "strong",
+          "topic": "Orthopaedic"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42933966/"
+    },
+    {
+      "pmid": "42933965",
+      "title": "Tight rope fixation in fracture management.",
+      "abstract": "The use of tightrope fixation using metal buttons linked by suture material was first reported in 2005 when their use was suggested as an alternative to syndesmosis screws in ankle fractures associated with a diastasis. These implants are now used widely as a component of fixation in ankle fractures with a diastasis. The published results of their use in these injuries have shown that they are an effective method of treating diastasis of the ankle tibio-fibular syndesmosis with some evidence to suggest that they have a lower rate of malunion, fewer implant related complications, a reduced need for implant removal and in some trials better functional outcomes than screw fixation.\u00a0Variations of these devices have also been used for fixation of lateral third clavicular fractures and acromioclavicular dislocations. Their use alone or in combination with plate fixation has been shown to be an effective method of fixation of lateral third clavicle fractures with a low rate of malunion and implant related problems. They have also shown to be an effective method of treatment for acromioclavicular dislocation, although there is still debate about the role of surgical treatment for these injuries. There are miscellaneous reports of their use for other fractures and dislocations in other anatomic locations notably for Lisfranc injuries in the foot. Better quality prospective clinical studies are still needed to define their exact role in fracture management.",
+      "journal": "Injury",
+      "authors": [
+        "Keating JF"
+      ],
+      "date": "2026 Oct 1",
+      "doi": "10.1016/j.injury.2026.113530",
+      "tier": "filtered",
+      "topics": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42933965/"
+    },
+    {
+      "pmid": "42933964",
+      "title": "Adherent antimicrobial coatings for orthopaedic implants - A narrative review.",
+      "abstract": "There is a broad consensus among orthopaedic and trauma surgeons, as well as infection specialists, that antibacterial coatings represent an important tool for both the prevention and management of fracture-related infections. Nonetheless, the choice of commercially available implants fitted with an antibacterial coating remains limited. Intramedullary nails with resorbable, antibiotic eluting coatings have been commercially available for over a decade. Although multiple case series have shown evidence of efficacy of antimicrobial orthopaedic implants, randomized controlled trials are still lacking and their uptake in everyday clinical practice has been slow. More recently, nails with galvanic noble metal coatings were introduced, with encouraging clinical results. The most widely used coatings with the longest clinical track record are silver coated joint replacement endoprostheses, which have been successfully employed in revision surgeries and in patients undergoing tumor-related procedures. Silver coated plates are on the verge of market introduction and will represent the first of their kind to be broadly available. Overall, adherent antibacterial coatings are showing beneficial outcomes in terms of safety and efficacy. Health-technology assessments show cost effectiveness, demonstrating that in higher risk patient populations, the additional cost of using a coated implant is significantly less than the cost of treating an infection. Regulatory hurdles remain high, especially in the USA, where, to be best of our knowledge, coated implants have not been approved yet. Driven by the clear clinical need, we anticipate a dynamic near future in this field, with progress moving toward establishing coated implants as the standard of care for appropriate patient populations and expanding the range of available coating solutions. Such developments will ultimately benefit patients, surgeons, and the overall healthcare system.",
+      "journal": "Injury",
+      "authors": [
+        "Montali A",
+        "D'Este M",
+        "Moriarty TF",
+        "Alt V"
+      ],
+      "date": "2026 Oct 1",
+      "doi": "10.1016/j.injury.2026.113485",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42933964/"
+    },
+    {
+      "pmid": "42933963",
+      "title": "Distal femur plate-nail constructs. Belt and suspenders?",
+      "abstract": "Given the inherent complexity of distal femoral fractures and non-unions, management should be directed by an experienced orthopaedic trauma surgeon to ensure optimal reduction and stable fixation. This report describes the surgical technique of three cases managed with dual nail-plate fixation, supplemented by a review of contemporary literature regarding this hybrid construct. Evidence from meta-analyses suggests that combined fixation significantly minimizes total complications and reoperations compared to single-construct fixation in distal femur fractures. Notably, these clinical benefits are achieved without a significant increase in operative duration, blood loss, or hospital stay. However, the current literature is restricted to retrospective studies, underscoring the imperative for prospective randomized controlled trials to validate these clinical benefits.",
+      "journal": "Injury",
+      "authors": [
+        "Chana-Rodr\u00edguez F",
+        "Rojo-Manaute JM",
+        "Latif GS",
+        "Al Ismaily HM",
+        "Dunbar R"
+      ],
+      "date": "2026 Oct 1",
+      "doi": "10.1016/j.injury.2026.113469",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Orthopaedic"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "orthopaedic trauma",
+          "strength": "weak",
+          "topic": "Orthopaedic"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42933963/"
+    },
+    {
+      "pmid": "42933962",
+      "title": "Past, present and future of distal radius corrective osteotomy: From 2D based reconstruction to 3D data-driven, patient specific care.",
+      "abstract": "Corrective osteotomy for distal radius malunion has evolved from two-dimensional (2D) radiograph based planning and surgeon performed geometric analysis to advanced three-dimensional (3D) virtual surgical planning (VSP). Historically guided by predefined radiographic parameters, contemporary practice increasingly emphasizes symptom severity and patient-specific functional goals. CT-based 3D models, contralateral surface matching, and patient-specific guides and implants have improved the accuracy of deformity correction. However, greater anatomical precision does not automatically translate into superior functional outcomes. Future progress depends on standardized evaluation frameworks, multicenter data collection, and predictive models to determine the clinical value of virtual surgical planning (VSP) and patient-specific implants (PSI) in delivering individualized, cost-effective and function-oriented care across the entire treatment pathway.",
+      "journal": "Injury",
+      "authors": [
+        "Loonen TGJ",
+        "Maal TJJ",
+        "Edwards MJR",
+        "Stirler VMA"
+      ],
+      "date": "2026 Oct 1",
+      "doi": "10.1016/j.injury.2026.113447",
+      "tier": "filtered",
+      "topics": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42933962/"
+    },
+    {
+      "pmid": "42933961",
+      "title": "3D printed scaffolds for reconstruction of segmental long bone defects: A mini narrative review.",
+      "abstract": "Large segmental bone defects remain a major challenge in orthopedic reconstruction because successful healing requires both mechanical stability and coordinated biological regeneration. Although autologous bone grafting remains the clinical gold standard due to its osteogenic, osteoinductive, and osteoconductive properties, its application is limited by donor site morbidity, restricted graft availability, and increased operative burden. These limitations have stimulated the development of scaffold-based regenerative strategies aimed at restoring structural integrity while promoting bone regeneration. Recent advances in additive manufacturing have enabled the fabrication of patient-specific three-dimensional (3D) scaffolds with controlled architecture, porosity, and mechanical properties that approximate native bone structure. This mini-review summarizes recent developments in 3D-printed scaffolds for the reconstruction of long bone defects, with particular emphasis on differences between non-biodegradable metallic constructs and biodegradable polymeric, ceramic, and composite materials. Porous titanium scaffolds demonstrate high mechanical stability and early osteointegration, making them promising for extensive load-bearing defects, although concerns remain regarding long-term stress shielding and permanent implant retention. Biodegradable ceramics and polymer-based scaffolds offer improved biological integration and controlled degradation, but often require further optimization of mechanical stability and biological augmentation. Composite constructs combining polymers, ceramics, or bioactive metals aim to integrate structural support with enhanced osteogenic and angiogenic responses. Despite encouraging preclinical results and emerging early clinical applications, current evidence remains limited by small patient cohorts, heterogeneous scaffold designs, and insufficient long-term outcome data. Future studies should focus on standardized scaffold designs, comparative clinical trials, and long-term evaluation to clarify the optimal role of 3D-printed biomaterials in the treatment of large segmental bone defects.",
+      "journal": "Injury",
+      "authors": [
+        "Gilissen MJV",
+        "Lodewijks AJL",
+        "Vissers-Van der Broeck LCA",
+        "Blokhuis TJ",
+        "van Griensven M",
+        "Poeze M"
+      ],
+      "date": "2026 Oct 1",
+      "doi": "10.1016/j.injury.2026.113758",
+      "tier": "filtered",
+      "topics": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42933961/"
+    },
+    {
+      "pmid": "42933960",
+      "title": "Mini-fragment applications for lower extremity long bone fractures: A narrative review.",
+      "abstract": "Mini-fragment systems (2.0, 2.4 and 2.7\u00a0mm) have evolved from fixation of just hand and foot fractures to have become an indispensable component of complex fracture fixation all over the appendicular skeleton. Surgeons currently use mini-fragment fixation in provisional fixation capacities, as adjunctive fixation to larger fixation constructs and in isolation in select situations. The versatility and popularity of these implants is far reaching, even in the lower extremity long bones, where their usage may be somewhat non-intuitive. In this narrative review we delineate the rationale for the use of these implants. We then illustrate several applications for these implants throughout the lower extremities that have proven useful.",
+      "journal": "Injury",
+      "authors": [
+        "Dunbar RP",
+        "Sorkin AT",
+        "Alismaily HM",
+        "Chana-Rodriguez F"
+      ],
+      "date": "2026 Oct 1",
+      "doi": "10.1016/j.injury.2026.113351",
+      "tier": "filtered",
+      "topics": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42933960/"
+    },
+    {
+      "pmid": "42933459",
+      "title": "Izalontamab brengitecan for HR+/HER2- breast cancer in China (PANKU-Breast01): a randomised, phase 3 trial.",
+      "abstract": "**BACKGROUND**: Patients with heavily pretreated hormone receptor-positive and human epidermal growth factor receptor 2-negative (HR+/HER2-) breast cancer have few treatment options. Izalontamab brengitecan (iza-bren) is a first-in-class, epidermal growth factor receptor and HER3 bispecific antibody-drug conjugate that contains a potent topoisomerase I inhibitor payload (Ed-04). The aim of PANKU-Breast01 was to compare the efficacy and safety of iza-bren versus chemotherapy in patients with pretreated HR+/HER2- breast cancer.\n\n**METHODS**: In this randomised, phase 3, open-label, multicentre study in 72 hospitals in China, patients with HR+/HER2- breast cancer who had disease progression after endocrine therapy, cyclin-dependent kinase (CDK) 4/6 inhibitors, and one or two lines of chemotherapy were randomly assigned (1:1) to iza-bren (2\u00b75 mg/kg, administered by intravenous infusion on day 1 and day 8 every 3 weeks) or physician's choice chemotherapy (eribulin, 1\u00b74 mg/m\n\n**FINDINGS**: Between April 24, 2024, and June 6, 2025, 560 patients were screened, 177 were excluded, and 383 patients were randomly assigned and treated (190 were assigned to the iza-bren group and 193 were assigned to the chemotherapy group). All 383 participants in the study were female and of Chinese ethnicity. Median age was 54\u00b70 years (IQR 47\u00b70-60\u00b70). At data cutoff (July 21, 2026), median follow-up for progression-free survival was 15\u00b72 months (95% CI 13\u00b79-16\u00b78). Iza-bren significantly improved progression-free survival versus chemotherapy (log-rank p<0\u00b70001), and median progression-free survival assessed by Blinded Independent Central Review was 8\u00b72 months (95% CI 6\u00b79-8\u00b76) versus 4\u00b70 months (2\u00b79-4\u00b73; HR 0\u00b741 [95% CI 0\u00b733-0\u00b753]). Grade 3 or higher treatment-related adverse events occurred in 162 (85%) patients in the iza-bren group versus 127 (66%) patients in the chemotherapy group, and haematological adverse events were the most common in both groups. For the treatment of haematological adverse events, 138 (73%) patients in the iza-bren group received platelet-elevating agents, 28 (15%) patients in the iza-bren group received platelet transfusion, and 18 patients (10%) in the iza-bren group received a blood transfusion. Two patients in the iza-bren group died due to treatment-related adverse events.\n\n**INTERPRETATION**: Iza-bren showed a significant improvement in progression-free survival versus chemotherapy in patients with HR+/HER2- breast cancer previously treated with endocrine therapy, CDK4/6 inhibitors, and one or two lines of chemotherapy (including taxanes). The overall survival data were immature, and an overall survival benefit has not been established. These results suggest that iza-bren could be a new treatment option for this population in China; however, further evaluation of iza-bren in global populations and in earlier lines of therapy for HER2-negative breast cancer is warranted.\n\n**FUNDING**: Baili-Bio (Chengdu) Pharmaceutical, CAMS Innovation Fund for Medical Sciences, Noncommunicable Chronic Diseases-National Science and Technology Major Project, National High Level Hospital Clinical Research Funding, and the National Natural Science Foundation of China.",
+      "journal": "Lancet",
+      "authors": [
+        "Lan B",
+        "Shi Y",
+        "Shao X",
+        "Wu F",
+        "Wang S",
+        "Xie W",
+        "Zhang Q",
+        "Ouyang Q",
+        "Cui J",
+        "Ling X",
+        "Yu H",
+        "Li H",
+        "Tang X",
+        "Ding S",
+        "Hao C",
+        "Zhao B",
+        "Li Y",
+        "Yang H",
+        "Yan M",
+        "Han G",
+        "Wang X",
+        "Li F",
+        "Peng P",
+        "Gong C",
+        "Liu Y",
+        "Guo J",
+        "Yin Y",
+        "Li M",
+        "Teng Y",
+        "Zhao J",
+        "Gao Y",
+        "Wang J",
+        "Luo J",
+        "Han X",
+        "Li X",
+        "Liu B",
+        "Zhang S",
+        "Li B",
+        "Yang L",
+        "Xiao S",
+        "Zhu H",
+        "Zhu Y",
+        "Xu B"
+      ],
+      "date": "2026 Oct 26",
+      "doi": "10.1016/S0140-6736(26)02096-9",
+      "tier": "filtered",
+      "topics": [
+        "Haemorrhage"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "blood transfusion",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42933459/"
+    },
+    {
+      "pmid": "42933143",
+      "title": "Quantitative decision-support strategies to enhance emergency medical service accessibility in high-risk freeway tunnels.",
+      "abstract": "Crashes inside road tunnels often result in more severe outcomes due to spatial constraints that delay prehospital emergency medical services (EMS) access. Emergency evacuation facilities, such as cross passages and emergency parking areas, are critical for ensuring timely EMS response during traffic congestion caused by in-tunnel crashes. This study presents a quantitative approach to develop targeted strategies for enhancing such facilities to improve EMS accessibility in tunnels. Nationwide in-tunnel crash data from Korean freeways over a four-year period were analyzed, and the limited number of severe crash cases was addressed using SMOTE-based data augmentation to balance severity levels in the prediction model. A SHAP-based XGBoost classifier was applied to identify the influence of key features related to EMS accessibility and emergency evacuation facilities on crash severity. The results showed that crashes occurring more than 1\u202fkm from the tunnel entrance and EMS response coverage within a 10-15\u202fkm range have a significant impact on increasing crash severity. The presence of emergency cross passages, three or more lanes, emergency parking areas, and properly spaced CCTV installations were found to help reduce crash severity. Based on these findings, tunnels with particularly limited EMS accessibility were prioritized, and tailored facility improvement measures were proposed. This study provides quantitative evidence to guide cost-effective upgrades of tunnel emergency evacuation facilities, enhancing prehospital EMS accessibility and emergency preparedness. The proposed methodology can also support decision-making on implementing road tunnel safety improvement policies.",
+      "journal": "Injury",
+      "authors": [
+        "Jung S",
+        "Qin X"
+      ],
+      "date": "2026 Oct 22",
+      "doi": "10.1016/j.injury.2026.113792",
+      "tier": "filtered",
+      "topics": [
+        "Prehospital"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "prehospital",
+          "strength": "weak",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42933143/"
+    },
+    {
+      "pmid": "42933046",
+      "title": "Single crash, multiple stories: A finite mixture perspective of motorcycle injury severity with a focus on post-crash medical, rescue, human and roadway-environmental factors.",
+      "abstract": "This study investigates the factors, including post-crash medical conditions (i.e., Glasgow Coma Score \"GCS\", Systolic Blood Pressure \"SBP\"), emergency response (i.e., pre-hospital time and mode of evacuation), human factors, and roadway-environment, affecting the Injury Severity Score (ISS) in motorcycle crashes. Utilizing a comprehensive hospital-based dataset in Karachi, Pakistan, and after addressing the issues of missing or inappropriate values via synthetic data generation, a Tobit regression (baseline) model was first employed in a corner solution setup. Harnessing 204,503 hospital-based motorcycle crash records (2007-2015) from Karachi (Pakistan), missing and inappaorpirate values were addressed through synthetic data generation. A baseline model and a finite mixture Tobit model (accounting for unobserved heterogeneity) were employed. The findings from the baseline model indicate that compared to mild/normal GCS (13-15) and SBP (> 89\u202fmmHg), for crash victims with severe GCS (3-8) and severely low SBP (2-49\u202fmmHg), the ISS significantly increases by 4.5249 and 7.8042 units, respectively. A positive non-linear association between prehospital time (PHT) and ISS was established. The baseline model recognizes over-speeding, nighttime crashes, wrong-way riding or driving, and involvement of multiple vehicles to significantly increase ISS by 0.1909, 0.0198, 0.0787, and 0.3333 units, respectively. The finite mixture Tobit model identifies two latent classes of crash victims with dissimilar ISS patterns and varying relationships of key correlates with ISS, indicating that reliance on a standard Tobit model could lead to misleading inferences. The practical implications are discussed in the paper.",
+      "journal": "Injury",
+      "authors": [
+        "Zia-Ur-Rehman",
+        "Ahmad N",
+        "Ahmed A",
+        "Dong Z",
+        "Kiyani WI"
+      ],
+      "date": "2026 Oct 15",
+      "doi": "10.1016/j.injury.2026.113776",
+      "tier": "filtered",
+      "topics": [
+        "Prehospital",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "injury severity",
+          "strength": "strong",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "prehospital",
+          "strength": "weak",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42933046/"
+    },
     {
       "pmid": "42931906",
       "title": "Chest tube fixation strength depends on suture caliber and fixation technique rather than tube diameter: a biomechanical cadaver study.",
@@ -1854,7 +2660,7 @@
         "Al-Thani H"
       ],
       "date": "2026 Oct 22",
-      "doi": "10.4103/2229-5151.152344",
+      "doi": "10.1007/s00068-026-03370-7",
       "tier": "core",
       "topics": [
         "Cardiac Arrest",
@@ -1907,7 +2713,7 @@
         "Hatem A"
       ],
       "date": "2026 Oct 23",
-      "doi": "10.1097/JSA.0000000000000147",
+      "doi": "10.1007/s00068-026-03365-4",
       "tier": "core",
       "topics": [
         "General Trauma"
@@ -1970,7 +2776,7 @@
         "Koch DA"
       ],
       "date": "2026 Oct 21",
-      "doi": "10.1016/j.resuscitation",
+      "doi": "10.1007/s00068-026-03367-2",
       "tier": "core",
       "topics": [
         "General Trauma",
@@ -2706,7 +3512,7 @@
         "Wintges K"
       ],
       "date": "2026 Oct 19",
-      "doi": "10.1016/j.injury.2013.01.030",
+      "doi": "10.1007/s00068-026-03361-8",
       "tier": "core",
       "topics": [
         "General Trauma",
@@ -2747,7 +3553,7 @@
         "Shen Y"
       ],
       "date": "2026 Oct 19",
-      "doi": "10.3389/fsurg.2026.1774082",
+      "doi": "10.1007/s00068-026-03366-3",
       "tier": "core",
       "topics": [
         "General Trauma",
@@ -3725,7 +4531,7 @@
         "Bulut T"
       ],
       "date": "2026 Oct 14",
-      "doi": "10.1016/j.jhsa.2008.04.010",
+      "doi": "10.1007/s00068-026-03362-7",
       "tier": "core",
       "topics": [
         "General Trauma"
@@ -3805,7 +4611,7 @@
         "Wullschleger M"
       ],
       "date": "2026 Oct 14",
-      "doi": "10.1016/s1072-7515(02)01197-3",
+      "doi": "10.1007/s00068-026-03360-9",
       "tier": "core",
       "topics": [
         "General Trauma",
@@ -5051,8 +5857,8 @@
     },
     {
       "pmid": "42849561",
-      "title": "Outcomes Following Impedance Threshold Device Use During Out-of-Hospital Cardiac Arrest.",
-      "abstract": "**BACKGROUND**: Existing work is equivocal regarding the benefit of impedance threshold device (ITD) use among patients experiencing out-of-hospital cardiac arrest (OHCA). We examined the association of ITD use with prehospital outcomes and longer-term dispositions in a nationally representative sample of OHCA patients.\n\n**METHODS**: We included adult, non-traumatic, OHCA scene runs from the 2024 ESO Data Collaborative. We compared patients treated with (a) ITD only; (b) ITD and active compression-decompression device (ITD+ACD); and (c) neither device (no ITD). Prehospital outcomes included return of spontaneous circulation (ROSC) and survival to hospital arrival (SHA); disposition outcomes included survival to hospital discharge and favorable neurologic outcome (i.e., discharge to home). We used multivariate logistic regression to examine the association of treatment group with outcomes, adjusting for demographics and several potential confounders.\n\n**RESULTS**: We included 97,439 patient records (85.3% no ITD; 13.1% ITD only; 1.6% ITD+ACD). Disposition outcomes were available for 13,026 patients (23.3%). ROSC was higher for patients treated with ITD only (26.7%) than those treated with no ITD (23.8%; aOR=1.09 [1.04, 1.14]); a similar pattern emerged for SHA. Conversely, survival to discharge was lower for patients treated with ITD only (23.9%) than those treated with no ITD (32.0%; aOR=0.68, [.61, .76]); a similar pattern emerged for favorable neurologic outcome. The ITD+ACD group showed more extreme versions of the trends observed for ITD only.\n\n**CONCLUSIONS**: ITD use was associated with improved prehospital outcomes but worsened dispositional outcomes among patients experiencing OHCA, suggesting this device may prove beneficial early in resuscitation of OHCA patients.",
+      "title": "Outcomes following impedance threshold device use during out-of-hospital cardiac arrest.",
+      "abstract": "**BACKGROUND**: Existing work is equivocal regarding the benefit of impedance threshold device (ITD) use among patients experiencing out-of-hospital cardiac arrest (OHCA). We examined the association of ITD use with prehospital outcomes and longer-term dispositions in a nationally representative sample of OHCA patients.\n\n**METHODS**: We included adult, non-traumatic, OHCA scene runs from the 2024 ESO Data Collaborative. We compared patients treated with (a) ITD only; (b) ITD and active compression-decompression device (ITD\u00a0+\u00a0ACD); and (c) neither device (no ITD). Prehospital outcomes included return of spontaneous circulation (ROSC) and survival to hospital arrival (SHA); disposition outcomes included survival to hospital discharge and favorable neurologic outcome (i.e., discharge to home). We used multivariate logistic regression to examine the association of treatment group with outcomes, adjusting for demographics and several potential confounders.\n\n**RESULTS**: We included 97,439 patient records (85.3% no ITD; 13.1% ITD only; 1.6% ITD\u00a0+\u00a0ACD). Disposition outcomes were available for 13,026 patients (13.4%). ROSC was higher for patients treated with ITD only (26.7%) than those treated with no ITD (23.8%; aOR\u00a0=\u00a01.09 [1.04, 1.14]); a similar pattern emerged for SHA. Conversely, survival to discharge was lower for patients treated with ITD only (23.9%) than those treated with no ITD (32.0%; aOR\u00a0=\u00a00.68, [0.61, 0.76]); a similar pattern emerged for favorable neurologic outcome. The ITD\u00a0+\u00a0ACD group showed more extreme versions of the trends observed for ITD only.\n\n**CONCLUSIONS**: ITD use was associated with improved prehospital outcomes but worsened dispositional outcomes among patients experiencing OHCA, suggesting this device may prove beneficial early in resuscitation of OHCA patients.",
       "journal": "Resuscitation",
       "authors": [
         "Weidman AC",
@@ -7252,257 +8058,6 @@
       ],
       "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/42808699/"
-    },
-    {
-      "pmid": "42805136",
-      "title": "Point-of-care ultrasound identification of a Calvarial hemangioma in the emergency department: a case report.",
-      "abstract": "Calvarial intraosseous hemangiomas are rare, benign vascular tumors arising from the intrinsic vasculature of bone. They account for approximately 0.2% of all benign osseous neoplasms and 2% of calvarial tumors. They most commonly present as localized, progressive scalp swelling with headache and are diagnosed using computed tomography (CT) or magnetic resonance imaging (MRI). Reports describing the sonographic appearance of calvarial intraosseous hemangiomas are exceedingly limited, and no cases have been reported in which point-of-care ultrasound (PoCUS) was used for evaluation in the emergency department (ED) setting. We present the case of an otherwise healthy 22-year-old woman who presented to the ED with a four-day history of a tender right parietal scalp mass and localized headache. PoCUS demonstrated a well-circumscribed lesion arising from the calvarium with superficial swelling, rather than an isolated soft-tissue lesion which was suspected based on history and examination. An MRI was subsequently ordered and demonstrated an enhancing calvarial lesion favored to represent a calvarial intraosseous hemangioma. The patient was referred to neurosurgery for further evaluation and management. Although CT and MRI remain the diagnostic standards for calvarial intraosseous hemangiomas, this case demonstrates the potential value of PoCUS as a rapid bedside tool for distinguishing superficial scalp lesions from underlying osseous pathology and guiding prompt advanced imaging.",
-      "journal": "Am J Emerg Med",
-      "authors": [
-        "Baker S",
-        "Herbst MK"
-      ],
-      "date": "2026 Sep 19",
-      "doi": "10.1016/j.ajem.2026.09.027",
-      "tier": "filtered",
-      "topics": [
-        "Imaging"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "POCUS",
-          "strength": "weak",
-          "topic": "Imaging"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42805136/"
-    },
-    {
-      "pmid": "42804936",
-      "title": "Locked plate fixation versus non-operative management for three and four-part proximal humeral fractures in elderly; A randomized controlled trial.",
-      "abstract": "**BACKGROUND**: In elderly patients, the proximal humerus fracture is the third most prevalent fracture, following fractures of the hip and distal radius, and is significantly associated with osteoporosis. This research aimed to determine the functional and radiological outcomes of internal fixation of 3- and 4-part proximal humeral fractures by locked plates compared with the outcomes obtained by non-operative management in the elderly.\n\n**METHODS**: In this prospective randomized trial, 52 elderly patients (\u226565 years) with 3- or 4-part proximal humerus fractures were allocated to either nonoperative treatment with arm sling immobilization or operative fixation using a proximal humerus locking plate in Qena General Hospital from December 2020 to December 2023. Clinical and radiological assessments were conducted up to 12 months post-treatment, with functional outcomes measured by DASH and Constant scores.\n\n**RESULTS**: Six months after surgery, the Conservative group had a significantly higher DASH score than the Operative group. At 12 months, the Conservative group had a lower DASH score and a higher total Constant score (p\u202f<\u202f0.05). There was no significant variance in the incidence of SAI, stiffness, deformity, or AVN among the conservative and operative groups (p\u202f>\u202f0.05). The complication rate was 13.4%, with 5.7% of cases related to conservative treatment and 7.7% to operative treatment.\n\n**CONCLUSION**: Orthopaedic management of proximal humerus fractures requires proper evaluation, radiological views, patient age, and activity levels. Conservative treatment can provide good functional outcomes with a minimal complication rate, especially in elderly individuals.",
-      "journal": "Injury",
-      "authors": [
-        "Abouelsoud M",
-        "Wahab MMA",
-        "Kamal HM",
-        "Mohamed AAA"
-      ],
-      "date": "2026 Sep 21",
-      "doi": "10.1016/j.injury.2026.113686",
-      "tier": "filtered",
-      "topics": [],
-      "keyword_matches": [],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42804936/"
-    },
-    {
-      "pmid": "42804935",
-      "title": "CCBE1 promotes wound healing in diabetic rats by improving the functional impairment of AD-MSCs induced by AGEs.",
-      "abstract": "**OBJECTIVE**: The etiology of chronic and non-healing diabetic wounds is manifold; the progression of the non-healing phenotype is strongly associated with poor vascular networks. Mesenchymal stem cells (MSCs) are reckoned as a promising therapy for wound healing, especially in angiogenesis. Here, we explored the role of CCBE1 in diabetic wound healing using human adipose-derived MSCs (hAD-MSCs).\n\n**METHODS**: Human adipose-derived hAD-MSCs were isolated and expanded through serial in vitro passaging. Cell proliferation and migration were evaluated using Cell Counting Kit-8 (CCK8) and scratch wound assays, respectively. collagen, and calcium-binding EGF domain-containing protein 1 (CCBE1) and vascular endothelial growth factor (VEGF) expression were analyzed via western blotting. Functional studies of CCBE1 were conducted using siRNA-mediated knockdown and plasmid-driven overexpression approaches. Type 2 diabetes mellitus was induced in Sprague-Dawley rats through a high-fat/high-glucose diet combined with streptozotocin administration. Full-thickness excisional wounds were generated on the dorsal skin, and the effects of CCBE1 modulation in hAD-MSCs on wound closure were examined. Reepithelialization and angiogenesis were analyzed using histological and immunohistochemical methods. Protein levels of CCBE1 and vascular endothelial growth factor (VEGF) were quantified by western blotting.\n\n**RESULTS**: hAD-MSCs showed a gradual decrease in cell proliferation, migrationand increased apoptosis, during advanced glycation end products (AGEs) conditions; meanwhile, CCBE1 and VEGF expression decreased The downregulation of CCBE1 inhibited cell proliferation and migration, and enhanced apoptosis, while CCBE1 overexpression enhanced proliferation and migration, and reduced apoptosis. Compared with untransduced hAD-MSCs, local subcutaneous injection of CCBE1-overexpressing hAD-MSCs accelerated wound closure, enhanced angiogenesis and reepithelialization at the wound bed, and increased VEGF levels in wound tissues.\n\n**CONCLUSION**: CCBE1 overexpression promoted hAD-MSC proliferation and migration and reduced cell apoptosis in vitro and accelerated diabetic wound closure, reepithelialization, and angiogenesis by improving hAD-MSCs in vivo. These beneficial effects of CCBE1 overexpression in diabetic wound healing by hAD-MSCs were at least partially mediated by increased VEGF levels in wound tissues.",
-      "journal": "Injury",
-      "authors": [
-        "Liang F",
-        "Mo J",
-        "Zhang J",
-        "Peng Z",
-        "Zhou J",
-        "Lu Y",
-        "Li Y",
-        "Wang K",
-        "Qiao Y"
-      ],
-      "date": "2026 Sep 22",
-      "doi": "10.1016/j.injury.2026.113725",
-      "tier": "filtered",
-      "topics": [],
-      "keyword_matches": [],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42804935/"
-    },
-    {
-      "pmid": "42804755",
-      "title": "Re: Association or Causation? Methodological Concerns Regarding High Fresh Frozen Plasma to Packed Red Blood Cell Ratios in Trauma Resuscitation.",
-      "abstract": "",
-      "journal": "J Trauma Acute Care Surg",
-      "authors": [
-        "Risa EL",
-        "Loudon AM",
-        "Pawar OS",
-        "Moorman ML",
-        "Rushing AP",
-        "Ross JT"
-      ],
-      "date": "2026 Sep 28",
-      "doi": "10.1097/TA.0000000000005191",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "Haemorrhage",
-        "Prehospital"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "packed red blood cells",
-          "strength": "strong",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "trauma resuscitation",
-          "strength": "strong",
-          "topic": "Prehospital"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42804755/"
-    },
-    {
-      "pmid": "42804749",
-      "title": "Brief bedside intervention improves mental health follow-up among patients in a Level I trauma center.",
-      "abstract": "**BACKGROUND**: Each year, nearly 3 million Americans are hospitalized for traumatic injuries, and many experience significant psychological distress during recovery. Between 20% and 40% of trauma survivors develop post-traumatic stress disorder (PTSD) and/or depression within a year, leading to substantial individual and economic costs. Sustainable interventions that enhance continuity of care and reduce psychiatric morbidity are needed. Trauma centers are uniquely positioned to improve behavioral health trajectories post-injury. We examined the impact of a brief, single-session bedside intervention that aimed to reduce acute distress and promote mental health follow-up, which was delivered in the context of a stepped-care mental health model in a Level I trauma center.\n\n**METHODS**: We examined uptake of the brief bedside intervention, its impact on patients' participation in mental health follow-up screening, and psychiatric symptoms 30 days post-injury.\n\n**RESULTS**: Among 887 adult patients who screened positive for PTSD/depression risk, 683 (77.0%) were offered the brief bedside intervention, 555 (81.3%) of whom accepted. Of those, 452 (81.4%) received it; 103 (18.6%) were missed due to patient/provider unavailability or early discharge. Violent injury was significantly associated with receipt of the brief bedside intervention and engagement in the mental health follow-up screening. After adjusting for violent injury, patients who received the intervention were 84% more likely to engage in the 30-day mental health follow-up screening (odds ratio=1.84; 95% CI=1.19-2.85). In contrast, the intervention did not significantly improve follow-up screening rates for survivors of violent injury. Bedside intervention completion was not significantly associated with PTSD and depression symptoms at 30 days or with referrals.\n\n**CONCLUSIONS**: Bedside behavioral health interventions may enhance mental health follow-up screening rates for nonviolent trauma patients, but appear insufficient for victims of violence. These findings highlight a critical gap for violently injured patients, suggesting the need for integration with specialized, culturally responsive violence intervention programs.\n\n**LEVEL OF EVIDENCE**: Level II, therapeutic/care management type.",
-      "journal": "J Trauma Acute Care Surg",
-      "authors": [
-        "Gavrilova Y",
-        "Espeleta H",
-        "Wilson D",
-        "Skojec T",
-        "Mack M",
-        "Ridings LE",
-        "Davidson TM",
-        "deRoon-Cassini TA",
-        "Ruggiero KJ"
-      ],
-      "date": "2026 Sep 28",
-      "doi": "10.1001/jamasurg.2021.0131",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "trauma centre",
-          "strength": "strong",
-          "topic": "Systems/QI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42804749/"
-    },
-    {
-      "pmid": "42803783",
-      "title": "The burden of blast injuries on a level i trauma center: a comparative analysis of blast versus blunt trauma.",
-      "abstract": "**PURPOSE**: We hypothesized that blast trauma results in a greater institutional resource burden than blunt trauma.\n\n**METHODS**: This retrospective study compared blast trauma patients (N = 321) to blunt trauma patients (N = 9,172). A Propensity Score Matching (PSM) on Age, Sex and Injury Severity Score (ISS) was executed, yielding 1,481 matched blunt controls. The primary composite endpoint was Institutional Resource Burden, defined as requiring one or more of the following high-intensity resource metrics: prolonged hospital length of stay (LOS >7 days), ICU admission, or need for urgent surgical intervention (<6 hours from admission). Secondary endpoints included in-hospital mortality, shock-trauma room triage, any surgical intervention, multiple operations (\u2265 3), massive transfusion protocol (MTP) activation, requirement for mechanical ventilation, and ICU/hospital LOS.\n\n**RESULTS**: Blast patients demonstrated a higher rate of the primary composite institutional burden (78.2 vs. 51.2, OR = 3.42, 95% CI: 2.59 - 4.51, p <0.0001). Blast mechanism independently predicted shock-trauma room triage (OR = 10.60, 95% CI: 8.18 - 13.75, p <0.0001), urgent surgery (OR = 7.49, 95% CI: 5.73 - 9.80, p <0.0001), \u22653 operations (OR = 12.40, 95% CI: 8.59 - 17.90, p <0.0001), MTP activation (OR = 11.68, 95% CI: 6.48 - 21.05, p <0.0001), and ICU admission (OR = 5.54, 95% CI: 4.37 - 7.04, p <0.0001). These differences persisted across both ISS <16 and ISS \u226516 strata.\n\n**CONCLUSION**: Blast trauma imposes a significantly higher institutional resource burden than blunt trauma across all injury severity strata.",
-      "journal": "Eur J Trauma Emerg Surg",
-      "authors": [
-        "Quint E",
-        "Barsky G",
-        "Osyntsov A",
-        "Replyanski I",
-        "Shaked G"
-      ],
-      "date": "2026 Sep 28",
-      "doi": "10.1097/01.sla.0000206417.58432.48",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "Haemorrhage",
-        "Penetrating",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "blunt trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "injury severity",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "trauma centre",
-          "strength": "strong",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "massive transfusion",
-          "strength": "weak",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "blast injury",
-          "strength": "strong",
-          "topic": "Penetrating"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42803783/"
-    },
-    {
-      "pmid": "42803444",
-      "title": "Female Sex and Age-Dependent Survival After Traumatic Shock.",
-      "abstract": "**BACKGROUND**: Whether female sex confers a survival advantage after traumatic shock remains uncertain, and the extent to which this association varies with age may clarify proposed hormonal mechanisms. We examined whether the association between female sex and in-hospital mortality varies across age strata.\n\n**STUDY DESIGN**: We conducted a retrospective cohort study of the National Trauma Data Bank (2019-2023), including adults aged \u226518 years with Injury Severity Score \u226516 and initial systolic blood pressure \u226490 mmHg. The primary endpoint was in-hospital mortality. Multivariable logistic regression evaluated female sex and a sex\u00d7age interaction across prespecified strata (18-44, 45-54, and \u226555 years), adjusting for injury severity, mechanism, comorbidity, insurance, race/ethnicity, and severe head, thoracic, and abdominal injury.\n\n**RESULTS**: Among 109,819 patients, female sex was associated with lower in-hospital mortality (adjusted OR 0.86; 95% CI, 0.82-0.89), with significant effect modification by age (\u03c7\u00b2[2]=7.69; p=0.0214). Adjusted mortality was lower among females at 18-44 years (15.6% vs 17.0%; difference -1.4 percentage points; p=0.0002), similar at 45-54 years (15.4% vs 16.5%; p=0.1141), and lower at \u226555 years (17.4% vs 20.4%; difference -3.0 percentage points; p<0.0001). The age-dependent association persisted in blunt-only and continuous-age analyses.\n\n**CONCLUSIONS**: Female sex was associated with lower mortality after severe injury with shock, with attenuation in the perimenopausal stratum and the largest advantage among patients aged \u226555 years. This age gradient is inconsistent with a simple endogenous-estrogen explanation. These findings are hypothesis-generating and warrant prospective investigation incorporating hormonal status, biological mediators, and care-limitation practices.",
-      "journal": "J Am Coll Surg",
-      "authors": [
-        "Akinyemi O",
-        "Elleissy-Nasef K",
-        "Nnorom S",
-        "Fasokun M",
-        "Mba-Madubuike I",
-        "Hazlewood K",
-        "Evans A",
-        "Hughes K",
-        "Cornwell E"
-      ],
-      "date": "2026 Sep 28",
-      "doi": "10.1097/XCS.0000000000002212",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "injury severity",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42803444/"
     }
   ]
 }
