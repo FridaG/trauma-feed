@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-28T23:44:15.498879Z",
-  "total_articles": 210,
+  "generated": "2026-10-29T23:42:47.457905Z",
+  "total_articles": 218,
   "all_topics": [
     "Abdominal",
     "Burns",
@@ -378,6 +378,556 @@
     "Cochrane Database Syst Rev": "filtered"
   },
   "articles": [
+    {
+      "pmid": "42955320",
+      "title": "Ventilator-associated pneumonia after traumatic brain injury: a timing-sensitive ecological framework of neuroimmune-pulmonary vulnerability.",
+      "abstract": "**BACKGROUND**: Ventilator-associated pneumonia (VAP) is frequent after traumatic brain injury (TBI), but its biological meaning and outcome impact remain incompletely defined. Traditional models emphasise mechanical ventilation, aspiration, colonisation, endotracheal tube biofilm, and hospital pathogens. These mechanisms remain essential, but they do not fully explain the early clustering, heterogeneous susceptibility, changing bacteriology, and variable mortality effect observed after TBI.\n\n**MAIN TEXT**: Severe brain injury creates an early vulnerable host state through impaired consciousness and airway protection, neuroimmune dysregulation, autonomic and endocrine activation, altered pulmonary immune surveillance, and, in many patients, extracranial trauma, shock, transfusion, or thoracic injury. These processes interact with ventilation, antibiotic pressure, and rapid respiratory microbiome disruption. Early VAP may reflect abrupt loss of control after injury and intubation, whereas late VAP may reflect persistent or secondary failure driven by biofilm maturation, antibiotic selection, multidrug-resistant pathogens, and intensive care unit (ICU)-acquired immune dysfunction. Clinically, VAP consistently prolongs ventilation, ICU stay, antibiotic exposure, and resource use, while its independent effect on mortality is phenotype- and context-dependent.\n\n**CONCLUSIONS**: This model proposes a timing-sensitive ecological framework in which established mechanisms may converge early and with particular clinical intensity after severe TBI, creating a vulnerable host-microbe state that may lower the threshold for clinically apparent infection. Future studies should distinguish isolated TBI from polytrauma, compare TBI with other acute brain injuries and non-neurological ventilated populations, and incorporate dynamic immune, microbial, and trajectory-based outcomes.\n\n**HIGHLIGHTS**: VAP after TBI should be viewed as a timing-sensitive interaction between ventilator exposure and early host vulnerability, not as a distinct disease entity or as a pneumonia pathway unique to traumatic brain injury. The TBI-focused contribution lies in the early convergence of otherwise non-unique mechanisms: impaired airway control, aspiration risk, neuroimmune-endocrine activation, treatment exposure, dysbiosis, and extracranial injury burden, rather than in any single TBI-specific mechanism. Isolated TBI and TBI with polytrauma are biologically different phenotypes and should be separated in future studies. Early and late VAP may represent different phases of loss of pulmonary host-microbe containment; this distinction is probabilistic rather than TBI-specific in itself and requires validation in TBI-stratified cohorts. Mortality remains clinically relevant but context-dependent; VAP more consistently modifies recovery trajectory, ventilator dependence, ICU stay, antibiotic exposure, and possibly neurological recovery.",
+      "journal": "Intensive Care Med",
+      "authors": [
+        "Martin-Loeches I",
+        "Povoa P",
+        "Robba C",
+        "Bandera A",
+        "Guglielmi A",
+        "Citerio G"
+      ],
+      "date": "2026 Oct 29",
+      "doi": "10.1586/eri.09.22",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "TBI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "polytrauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic brain injury",
+          "strength": "strong",
+          "topic": "TBI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42955320/"
+    },
+    {
+      "pmid": "42955129",
+      "title": "24-hour risk updating for major ICU complications after severe trauma: a prospective cohort study.",
+      "abstract": "**PURPOSE**: Conventional trauma prognostic models rely primarily on admission data and cannot account for subsequent physiological response to treatment. We evaluated whether routinely collected physiological information available at 24\u00a0h provides incremental prognostic information for major intensive care unit (ICU) complications in severely injured patients.\n\n**METHODS**: We conducted a prospective cohort of adults with severe trauma (Injury Severity Score [ISS]\u2009\u2265\u200915) admitted to the ICU between January 2024 and April 2025. The primary outcome was a composite of major respiratory, hemodynamic, renal, or septic complications during the ICU course. TRISS was compared with an admission ridge model incorporating ISS, Glasgow Coma Scale, hemoglobin, lactate, and international normalized ratio, and a 24-h updated ridge model additionally incorporating 24-h lactate and change in creatinine. Performance was internally validated with 1,000 bootstrap resamples.\n\n**RESULTS**: Among 109 patients, median ISS was 29 (IQR 20-38), and 73 (67.0%) developed major ICU complications. Optimism-corrected AUCs were 0.788 for TRISS, 0.873 for the admission model, and 0.887 for the 24-h updated model; Brier scores were 0.178, 0.140, and 0.131. Compared with the admission model, the 24-h updated model improved performance (\u0394AUC 0.016, 95% bootstrap interval 0.004-0.030; \u0394Brier\u2009-\u20090.010, -\u20090.017 to -\u20090.005). Twenty-four-hour lactate and creatinine change were the strongest contributors to the update.\n\n**CONCLUSION**: In severely injured ICU patients, incorporating physiological evolution during the first 24\u00a0h refined admission-based prognostic assessment. Lactate and creatinine trajectories provided incremental information for major ICU complications during the ICU course. External validation is required before clinical implementation.",
+      "journal": "Eur J Trauma Emerg Surg",
+      "authors": [
+        "Sanchez C",
+        "Cachafeiro L",
+        "Millan P",
+        "Polo E",
+        "Garcia L",
+        "Sarmiento C",
+        "Vejo J",
+        "Lopez A",
+        "Graciani E",
+        "Quintana M",
+        "Sanchez M"
+      ],
+      "date": "2026 Oct 29",
+      "doi": "10.1007/978-3-030-16399-0",
+      "tier": "core",
+      "topics": [
+        "General Trauma",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "injury severity",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42955129/"
+    },
+    {
+      "pmid": "42954428",
+      "title": "Maternity versus non-maternity healthcare settings for the diagnosis of gestational diabetes or diabetes in pregnancy.",
+      "abstract": "**RATIONALE**: Substantial uncertainty exists regarding how healthcare system factors, especially care setting types, affect the uptake and implementation of gestational diabetes or diabetes in pregnancy screening in practice. Evidence suggests that the care environment may influence diagnostic processes.\n\n**OBJECTIVES**: To assess the effectiveness of maternity and non-maternity healthcare settings for the diagnosis of gestational diabetes mellitus or diabetes in pregnancy.\n\n**SEARCH METHODS**: We searched CENTRAL, MEDLINE, Embase, and Cumulative Index to Nursing and Allied Health Literature (CINAHL) for randomised controlled trials (RCTs) up to April 2026, and for controlled non-randomised studies of interventions (NRSIs) up to December 2025. We also searched CENTRAL to identify ongoing trials.\n\n**ELIGIBILITY CRITERIA**: We included RCTs and planned to include cluster-RCTs and NRSIs, but we did not find any. Eligible participants were pregnant women being screened for gestational diabetes mellitus (GDM) or diabetes in pregnancy. We defined maternity healthcare settings as those specialising in care for pregnant, birthing, and postpartum individuals, with appropriate screening protocols, and non-maternity healthcare settings as general medical environments lacking a focus on pregnancy and women's care. We considered any screening format (e.g. risk-factor-based screening) and any diagnostic test (e.g. one- and two-step oral glucose tolerance tests (OGTT)).\n\n**OUTCOMES**: Critical health service outcomes were compliance with screening and follow-up guidelines, diagnosis of gestational diabetes or diabetes in pregnancy, maternal emergency department visits during pregnancy, maternal antenatal hospitalisation, length of maternal hospitalisation, length of neonatal hospitalisation, and care accessibility. Critical maternal outcomes included hypertensive disorders, maternal death, intensive care admissions, hyperglycaemia requiring pharmacological treatment, infections, and postpartum glucose intolerance, including progression to diabetes, within 15 years after birth. Critical child-related outcomes encompassed perinatal death, neonatal intensive care admissions, preterm birth, neonatal hypoglycaemia, large-for-gestational-age, shoulder dystocia, and birth trauma. Further critical and important outcomes not included in the summary of findings tables can be found in the full text.\n\n**RISK OF BIAS**: We used the Cochrane RoB 2 tool to assess bias in the RCTs. We had planned to use ROBINS-I version 2 to assess bias in the NRSIs if we had identified any.\n\n**SYNTHESIS METHODS**: We used standard Cochrane methodology. We planned to synthesise results for each outcome using meta-analysis where possible (inverse-variance or Mantel-Haenszel approaches; fixed-effect model). We used GRADE to assess the certainty of the evidence for each outcome.\n\n**INCLUDED STUDIES**: We included one RCT with 781 participants: 390 were randomised to screening in a maternity healthcare setting and 391 were randomised to screening in a non-maternity healthcare setting. Except for screening compliance, trialists evaluated all outcomes using a per-protocol analysis instead of by original randomised groups. This approach created substantial disparities in sample sizes between settings and largely nullified the methodological protections typically provided by a randomised design. The trial evaluated screening for GDM only. We did not identify any ongoing studies or studies awaiting classification.\n\n**SYNTHESIS OF RESULTS**: Health service outcomes Screening in a maternity healthcare setting may increase compliance with screening and follow-up guidelines (risk ratio (RR) 1.69, 95% confidence interval (CI) 1.53 to 1.87; 781 participants) and may improve care accessibility, assessed as time to access antenatal diabetes care, measured in days (mean difference (MD) -4.70, 95% CI -6.03 to -3.37; 690 participants), both with low-certainty evidence. We are very uncertain about the effect of screening in a maternity healthcare setting versus a non-maternity healthcare setting on diagnosis of gestational diabetes or diabetes in pregnancy (RR 1.10, 95% CI 0.60 to 2.01; 690 participants; very low-certainty evidence) and length of neonatal hospitalisation (MD 0.04, 95% CI -0.57 to 0.65; 690 participants; very low-certainty evidence). No direct evidence was available on screening for diabetes in pregnancy as distinct from GDM. No data were reported on maternal emergency department visits, maternal antenatal hospitalisation, length of maternal hospitalisations, and costs. Maternal outcomes We are very uncertain about the effect of screening in a maternity healthcare setting versus a non-maternity healthcare setting on pre-eclampsia (RR 1.24, 95% CI 0.56 to 2.75; 690 participants; very low-certainty evidence). The following outcomes were not reported: eclampsia, HELLP syndrome, maternal death, admission to intensive care, hyperglycaemia requiring pharmacological treatment, infections, and postpartum glucose intolerance. Child-related outcomes We are very uncertain about the effect of screening in a maternity healthcare setting versus a non-maternity healthcare setting on: stillbirth or foetal death (RR 0.91, 95% CI 0.08 to 9.93), admission to neonatal intensive care (RR 1.01, 95% CI 0.59 to 1.71), preterm birth (RR 1.06, 95% CI 0.41 to 2.71), neonatal hypoglycaemia (RR 0.91, 95% CI 0.23 to 3.59), large-for-gestational-age (RR 0.73, 95% CI 0.51 to 1.04), shoulder dystocia (RR 0.15, 95% CI 0.01 to 3.70), and birth trauma (RR 0.91, 95% CI 0.08 to 9.93), all with 690 participants each and very low-certainty evidence. An effect estimate for neonatal death was not estimable (maternity setting: 0/475; non-maternity setting: 0/215).\n\n**AUTHORS' CONCLUSIONS**: There is insufficient evidence to determine whether screening for gestational diabetes or diabetes in pregnancy in maternity healthcare settings compared with non-maternity healthcare settings improves health service, maternal, or child-related outcomes. Low-certainty evidence from a single study indicates that screening in maternity healthcare settings may result in a reduction in time to access antenatal diabetes care and may increase compliance. The effects on other outcomes remain unknown. Conducting studies using intention-to-treat analyses could bridge existing research gaps, enhancing effect estimates and certainty.\n\n**FUNDING**: This Cochrane review was funded by the World Health Organization (WHO) and the UNDP-UNFPA-UNICEF-WHO-World Bank Special Programme of Research, Development and Research Training in Human Reproduction (HRP).\n\n**REGISTRATION**: Protocol available via PROSPERO: https://www.crd.york.ac.uk/PROSPERO/view/CRD420251108692.",
+      "journal": "Cochrane Database Syst Rev",
+      "authors": [
+        "Cryns N",
+        "Schroer J",
+        "Noel-Storr AH",
+        "Franco JV",
+        "Jahanfar S",
+        "Messer S",
+        "Zorger AM",
+        "\u00c7olakkeskin \u00dc",
+        "Widyaningsih SA",
+        "Mullins E",
+        "Gibbs KD",
+        "Skoetz N",
+        "Wagner C"
+      ],
+      "date": "2026 Oct 29",
+      "doi": "10.1002/14651858.CD016295",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42954428/"
+    },
+    {
+      "pmid": "42953945",
+      "title": "Predictors of Return to Work Following Major Trauma in New Zealand.",
+      "abstract": "**OBJECTIVE**: This study aimed to identify physical and psychological predictors of return to work (RTW) in a cohort of major trauma patients in New Zealand.\n\n**METHODS**: A retrospective cohort study was conducted at Christchurch Hospital involving patients identified from the New Zealand Major Trauma Registry. Full-time workers (n\u2009=\u2009130) who sustained major trauma between 2016 and 2020 completed self-reported questionnaires assessing post-injury work capacity, PTSD (PCL-5), anxiety and depression (HADS) and perceived social support (MSPSS). Univariable and multivariable analyses were performed to determine predictors of decreased RTW following injury.\n\n**RESULTS**: Older age, longer hospital length of stay (LOS) and ICU admission were all significantly associated with decreased RTW in the univariable analysis. Probable anxiety and depression were also significantly associated with decreased RTW, while meeting PTSD thresholds did not yield a significant association. In the final multivariable analysis, older age (OR 1.08, p\u2009<\u20090.01), longer LOS (OR 1.04, p\u2009=\u20090.048) and those with probable depression (OR 5.29, p\u2009=\u20090.01) were significantly associated with decreased RTW.\n\n**CONCLUSIONS**: Probable depression is a strong, independent psychological predictor of reduced RTW following major trauma. These findings highlight the need for integrated post-trauma care models that incorporate routine psychological screening and early intervention to address both the physical and psychological needs of patients suffering from major trauma.",
+      "journal": "Emerg Med Australas",
+      "authors": [
+        "Finlayson D",
+        "Logan S",
+        "Jemberie D",
+        "Quinn N",
+        "Joyce LR",
+        "Wakeman C",
+        "McCombie A"
+      ],
+      "date": "2026 Dec 1",
+      "doi": "10.1111/1742-6723.70382",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "major trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "trauma registry",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42953945/"
+    },
+    {
+      "pmid": "42951894",
+      "title": "Variation in Pediatric Extracorporeal Cardiopulmonary Resuscitation Survival After In-Hospital Cardiac Arrest: Development and Validation of a Survival Model for Risk-Standardized Survival Rates: An Analysis of the Extracorporeal Life Support Organization Registry.",
+      "abstract": "**OBJECTIVES**: To develop and internally validate a multivariable prediction model for survival to hospital discharge after pediatric extracorporeal cardiopulmonary resuscitation (ECPR) for in-hospital cardiac arrest (IHCA), and to use this model to derive risk-standardized survival rates (RSSRs) and quantify between-hospital variation in outcomes.\n\n**DESIGN**: Retrospective multicenter cohort study.\n\n**SETTING**: Hospitals contributing to the Extracorporeal Life Support Organization (ELSO) registry between 2020 and 2023.\n\n**PATIENTS**: Children (< 18 yr) treated with ECPR for IHCA.\n\n**INTERVENTIONS**: None.\n\n**MEASUREMENTS AND MAIN RESULTS**: Eligible patients were identified from the ELSO Registry and split into derivation (N = 1060) and validation (N = 317) cohorts using a hospital-stratified split to preserve within-hospital clustering. Survival prediction models were derived using penalized logistic regression with the least absolute shrinkage and selection operator. A full-event model incorporating 14 routinely available clinical variables demonstrated fair discrimination (area under the curve, 0.728 in the derivation cohort and 0.678 in the validation cohort) and good calibration (observed-to-expected ratio, 0.995; Brier score, 0.222 in the validation cohort). This model was embedded in a multilevel logistic regression model to generate hospital-level RSSRs for centers reporting five or more ECPR cases. Between-hospital variation was quantified using the median odds ratio, which was 1.30 (95% CI, 1.11-1.93), indicating significant differences in survival likelihood between centers after adjusting for patient-level risk.\n\n**CONCLUSIONS**: In a large, international cohort of pediatric ECPR patients, we developed and internally validated a clinically interpretable model for survival to hospital discharge. The model performance as a discriminator likely limits its use as a standalone tool for clinical decision-making. However, strong internal calibration allowed for determination of hospital-level RSSRs, which revealed significant inter-hospital variability. These findings demonstrate the feasibility of developing a risk-adjustment model capable of estimating hospital-level RSSRs. Additional external validation and evaluation of residual case-mix differences are needed before such models can be used for benchmarking across pediatric ECPR centers.",
+      "journal": "Crit Care Med",
+      "authors": [
+        "Loaec M",
+        "Himebauch AS",
+        "Balcarcel D",
+        "Reilly JP",
+        "Feng R",
+        "Regan M",
+        "Thiagarajan R",
+        "Bembea MM",
+        "Lasa JJ",
+        "Kilbaugh TJ",
+        "Sutton RM",
+        "Morgan RW"
+      ],
+      "date": "2026 Oct 29",
+      "doi": "10.1097/CCM.0000000000007383",
+      "tier": "filtered",
+      "topics": [
+        "Cardiac Arrest"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "ECPR",
+          "strength": "weak",
+          "topic": "Cardiac Arrest"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42951894/"
+    },
+    {
+      "pmid": "42951818",
+      "title": "Ischemic severity rather than ischemic time is associated with major limb complications in traumatic popliteal artery injury: A retrospective case series.",
+      "abstract": "**PURPOSE**: Although prolonged ischemic time is considered a key determinant of limb loss in traumatic popliteal artery injury (PAI), it does not fully explain the variability in clinical outcomes. This study aimed to evaluate whether ischemic severity at presentation is associated with major limb complications in PAI.\n\n**METHODS**: We retrospectively reviewed patients with blunt PAI treated at a single trauma center between 2013 and 2025. Ischemic severity was assessed using the Rutherford classification and the presence of collateral circulation on computed tomography angiography (CTA). Patients were categorized into mild ischemia (Rutherford grade I-II) and severe ischemia (Rutherford grade III). Outcomes included extensive soft tissue defects requiring reconstruction and amputation.\n\n**RESULTS**: Twenty-one limbs were included. Thirteen limbs were classified as mild ischemia and eight as severe ischemia. Collateral circulation was preserved in 17 limbs and absent in 4 limbs. The time to arterial reconstruction was comparable between groups. No major soft tissue complications occurred in the mild ischemia group. In contrast, 5 of 8 limbs with Rutherford grade III developed extensive soft tissue defects (p\u202f=\u202f0.006). Absence of collateral circulation was also strongly associated with adverse outcomes, with all limbs without collateral flow developing major soft tissue complications (p\u202f=\u202f0.002), despite a shorter time to revascularization.\n\n**CONCLUSION**: Ischemic severity at presentation, particularly Rutherford grade III and absence of collateral circulation on CTA, is associated with major limb complications in traumatic PAI, whereas ischemic time alone may be insufficient to predict outcomes.",
+      "journal": "Injury",
+      "authors": [
+        "Izawa Y",
+        "Futamura K",
+        "Nishida M"
+      ],
+      "date": "2026 Oct 24",
+      "doi": "10.1016/j.injury.2026.113842",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42951818/"
+    },
+    {
+      "pmid": "42950975",
+      "title": "Traumatic Emergency Thoracotomy for Resuscitation in Shock (TETRiS): a national service evaluation of resuscitative thoracotomy practice outside the operating theatre.",
+      "abstract": "**BACKGROUND**: Resuscitative thoracotomy (RT) is performed in patients with traumatic cardiac arrest or peri-arrest to treat potentially reversible causes of circulatory collapse. Optimal patient selection and timing remain uncertain, and existing evidence is largely retrospective, often excluding prehospital deaths. This prospective service evaluation examined contemporary RT practice and outcomes across a national major trauma system, including prehospital and emergency department settings.\n\n**METHODS**: Prospective 12-month observational study across 20 UK Helicopter Emergency Medical Services and 26 Major Trauma Centre Emergency Departments, using the PHOTON, TERN, and NaTRIC research networks.\n\n**RESULTS**: A total of 116 patients underwent RT, of which 82 (70.7%) were performed prehospital. Median age was 30 years, 97 patients (83.6%) were male, and 81 (69.8%) sustained penetrating injury. Suspected cardiac tamponade was the most common indication for RT (72/116 [62.1%]), although operative findings demonstrated exsanguinating haemorrhage in 82 patients (70.7%). Overall, 50 patients (43.1%) achieved return of spontaneous circulation and eight (6.9%) survived to hospital discharge. Survival was strongly associated with pathophysiological cause, duration of arrest, and physiological state at the time of intervention, with substantially better outcomes observed in patients with cardiac tamponade than exsanguination. Patients undergoing emergency department RT demonstrated shorter arrest durations, more favourable physiology, and higher survival than those undergoing prehospital RT. There were no survivors beyond 10 minutes of traumatic cardiac arrest.\n\n**CONCLUSION**: In this prospective national evaluation of RT practice, outcomes were strongly associated with the pathophysiological cause and duration of arrest, and the residual physiology present at the time of intervention. The most favourable outcomes were observed in patients with cardiac tamponade and those undergoing RT before irreversible physiological deterioration.",
+      "journal": "Resuscitation",
+      "authors": [
+        "Ramage L",
+        "Tucker H",
+        "Marsden ME",
+        "Wohlgemut JM",
+        "Naeem S",
+        "Christian M",
+        "Davenport R",
+        "Perkins ZB"
+      ],
+      "date": "2026 Oct 28",
+      "doi": "10.1016/j.resuscitation.2026.111371",
+      "tier": "filtered",
+      "topics": [
+        "Cardiac Arrest",
+        "General Trauma",
+        "Penetrating",
+        "Prehospital",
+        "Systems/QI",
+        "Thoracic"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "major trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "thoracotomy",
+          "strength": "strong",
+          "topic": "Thoracic"
+        },
+        {
+          "keyword": "cardiac tamponade",
+          "strength": "weak",
+          "topic": "Thoracic"
+        },
+        {
+          "keyword": "penetrating injury",
+          "strength": "weak",
+          "topic": "Penetrating"
+        },
+        {
+          "keyword": "helicopter emergency",
+          "strength": "weak",
+          "topic": "Prehospital"
+        },
+        {
+          "keyword": "prehospital",
+          "strength": "weak",
+          "topic": "Prehospital"
+        },
+        {
+          "keyword": "traumatic cardiac arrest",
+          "strength": "weak",
+          "topic": "Cardiac Arrest"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42950975/"
+    },
+    {
+      "pmid": "42950707",
+      "title": "Opportunistic assessment of bone quality using CT-derived hounsfield units in postmenopausal women with femoral trochanteric fractures.",
+      "abstract": "**BACKGROUND**: CT-derived Hounsfield unit (HU) measurements may provide an opportunistic assessment of bone density when dual-energy X-ray absorptiometry (DXA) is difficult to obtain during acute treatment of femoral trochanteric fractures. We compared three femoral-head regions of interest (ROIs) and explored their ability to identify markedly low total hip bone mineral density (BMD).\n\n**METHODS**: This single-center retrospective study included 87 women aged \u2265\u202f65 years with AO/OTA type 31A1 (excluding A1.1) or 31A2 femoral trochanteric fractures treated with intramedullary nailing. Admission CT HU values were measured in three femoral-head ROIs on coronal and axial images and compared with contralateral hip DXA T-scores measured approximately 1 week after surgery. Pearson correlations and receiver operating characteristic (ROC) analyses were performed. The prespecified total hip T-score thresholds were \u2264\u202f-2.5 and \u2264\u202f-3.3; the latter was used as an operational definition of markedly low BMD in this study.\n\n**RESULTS**: Coronal whole-femoral-head HU values (ROI 1) showed a moderate correlation with total hip T-scores (r\u202f=\u202f0.569). For the \u2264\u202f-2.5 threshold, 74 women met the criterion and only 13 did not; the ROI 1 coronal AUC was 0.841. For the \u2264\u202f-3.3 threshold, 51 women met the criterion and 36 did not. A coronal ROI 1 threshold of <\u202f158.7 HU had an AUC of 0.765 (95% CI, 0.660-0.870), sensitivity of 84.3% (43/51), and specificity of 66.7% (24/36) for identifying a total hip T-score \u2264\u202f-3.3.\n\n**CONCLUSION**: Whole-femoral-head HU values were moderately associated with DXA-derived T-scores in this cohort. Admission CT may help flag patients with markedly low BMD, but the threshold showed limited specificity and requires external validation. Its effect on surgical decisions or clinical outcomes was not assessed.",
+      "journal": "Injury",
+      "authors": [
+        "Terada C",
+        "Yokoo S"
+      ],
+      "date": "2026 Oct 24",
+      "doi": "10.1016/j.injury.2026.113822",
+      "tier": "filtered",
+      "topics": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42950707/"
+    },
+    {
+      "pmid": "42950706",
+      "title": "Thoracic irrigation in managing traumatic hemothorax: A concise review of techniques and practice variations.",
+      "abstract": "**BACKGROUND**: Retained hemothorax following tube thoracostomy occurs in up to one-third of thoracic trauma patients, often necessitating additional interventions. Thoracic irrigation has emerged as a potential adjunct to improve pleural drainage. The objective of this concise review is to evaluate the role of thoracic irrigation in the management of traumatic hemothorax by highlighting current standards of care and variations in techniques.\n\n**METHODS**: This review searched five search engines, screening studies published before September 26, 2025. Studies focusing on thoracic irrigation in the setting of trauma and hemothorax were included.\n\n**RESULTS**: A total of six studies were included. Thoracic irrigation in the management of traumatic hemothorax showed significantly lower odds of secondary intervention (OR: 0.16, p\u202f<\u202f0.001) and shorter hospital length of stay (7 days vs. 9, p\u202f=\u202f0.04) in patients who received thoracic irrigation compared with standard chest tube drainage. Most patients underwent irrigation using medium to large-bore tubes, although one study showed no association between tube size and outcomes. Patients receiving \u2265\u202f1000 milliliters (mL) of irrigation had more hospital-free days compared to those receiving <\u202f1000\u202fmL (p\u202f=\u202f0.007), while another study found no significant differences.\n\n**CONCLUSION**: Thoracic irrigation shows promise as an adjunct to tube thoracostomy in managing post-traumatic hemothorax, with evidence of reduced retained collections, fewer secondary interventions, and shorter hospital stays. Studies are needed to achieve standardized thoracic irrigation techniques and develop more comprehensive and consistent evidence-based guidelines.",
+      "journal": "Injury",
+      "authors": [
+        "Indorewala Y",
+        "Prashar S",
+        "Nishida C",
+        "Nasef Y",
+        "Othman Y",
+        "Haddadi M",
+        "Elkbuli A"
+      ],
+      "date": "2026 Oct 24",
+      "doi": "10.1016/j.injury.2026.113830",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Thoracic"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "haemothorax",
+          "strength": "strong",
+          "topic": "Thoracic"
+        },
+        {
+          "keyword": "thoracostomy",
+          "strength": "weak",
+          "topic": "Thoracic"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42950706/"
+    },
+    {
+      "pmid": "42950705",
+      "title": "Do radiographic surrogates of pre-bend appropriateness influence outcomes after titanium elastic nailing in pediatric femoral mid-shaft fractures?",
+      "abstract": "**PURPOSE**: To investigate whether radiographic technical parameters reflecting pre-bend appropriateness are associated with radiographic and clinical outcomes after titanium elastic nailing (TEN) in pediatric femoral mid-shaft fractures.\n\n**METHODS**: This retrospective cohort included 85 children aged 5-11 years treated with TEN between 2015 and 2025. Constructs were classified as criteria-met (n\u202f=\u202f38) or criteria-unmet (n\u202f=\u202f47) using nail symmetry, a bend apex-fracture apex distance ratio \u2264\u202f10%, and a metaphyseal spread ratio \u2265\u202f50%. Separate exploratory multivariable models evaluated the composite classification and its components, adjusting for clinical and technical covariates.\n\n**RESULTS**: Median coronal angulation was lower in the criteria-met group (2.0\u00b0 vs 5.0\u00b0; p\u202f=\u202f0.005). The adjusted mean difference (criteria-unmet minus criteria-met) was 3.42\u00b0 (95% CI 0.98-5.87; p\u202f=\u202f0.007). Other group comparisons were inconclusive. Exploratory component analysis associated greater spread with greater limb length discrepancy (3.61\u202fmm per increase of 10 %age points; 95% CI 1.81-5.40; q\u202f=\u202f0.002), although technical parameters were highly correlated. The complication risk ratio for criteria-unmet versus criteria-met constructs was 1.41 (95% CI 0.45-4.48).\n\n**CONCLUSION**: Meeting the study-specific radiographic criteria was associated with lower coronal angulation, but its clinical importance remains uncertain. Overlapping criteria, correlated technical parameters, and limited precision preclude conclusions of equivalence or definitive independent effects.",
+      "journal": "Injury",
+      "authors": [
+        "Sar\u0131ta\u015f TB",
+        "Y\u00fccel MH",
+        "Parlak S",
+        "Ar\u0131c\u0131 V",
+        "Tan A",
+        "Yal\u00e7\u0131nkaya A",
+        "Terzi E",
+        "\u015eahin A",
+        "Ert\u00fcrk C"
+      ],
+      "date": "2026 Oct 24",
+      "doi": "10.1016/j.injury.2026.113838",
+      "tier": "filtered",
+      "topics": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42950705/"
+    },
+    {
+      "pmid": "42950704",
+      "title": "Scapular fracture and risk of great vessel injury in geriatric blunt trauma: A TQIP analysis.",
+      "abstract": "**INTRODUCTION**: Scapular fractures are markers of high-energy blunt thoracic trauma and may indicate severe intrathoracic injury. Despite the substantial mortality linked with great vessel injuries (GVI), data specifically examining scapular fracture and GVI in the geriatric population remain limited. We hypothesized that scapular fracture, particularly when accompanied by concomitant thoracic fractures, is independently associated with GVI in geriatrics with blunt trauma.\n\n**METHODS**: We conducted a retrospective cohort study using the American College of Surgeons Trauma Quality Improvement Program (ACS-TQIP) database (2017-2023). Patients aged \u2265\u202f65 years with a blunt mechanism of injury and AIS severity 2-5 in the neck, thorax, or upper extremity were included. GVI was defined using specific AIS codes for major thoracic and cervical vessels. Multivariable logistic regression evaluated association between scapular fracture patterns and GVI, including isolated scapular fractures, those with concomitant sternal, rib or flail chest fractures. Models adjusted for age, sex, race, mechanism, ISS, shock index, and modified frailty index. Vessel-specific analyses were also performed. Primary outcome was GVI. Secondary outcomes were mortality and LOS.\n\n**RESULTS**: A total of 677,134 patients were included. Median age was 76 [70-82] years; 54.1% were female. Scapular fractures were identified in 5.0% of patients and GVI in 0.7%. In multivariable regression, isolated scapular fracture was associated with lower odds of GVI (aOR 0.783, 95% CI 0.704-0.871, p\u202f<\u202f0.001), while scapular fracture with sternal fracture was associated with significantly higher odds (aOR 1.423, 95% CI 1.122-1.806, p\u202f=\u202f0.004). Among vessel-specific analyses, subclavian artery injury demonstrated the highest association with scapular fracture (aOR 1.527, 95% CI 1.113-2.094, p\u202f=\u202f0.009). GVI was associated with markedly higher in-hospital mortality (25.1% vs. 4.2%; OR 7.726, 95% CI 7.234-8.251, p\u202f<\u202f0.001).\n\n**CONCLUSION**: In geriatric blunt trauma, isolated scapular fracture is not an independent predictor of GVI. After a fall, a scapular fracture without a sternal fracture does not by itself suggest a missed vascular injury. In contrast, combined scapular and sternal fractures represent a high-risk pattern that warrants a heightened index of suspicion and a low threshold for CT angiography, with particular attention to the subclavian vessels.\n\n**LEVEL OF EVIDENCE**: Prognostic/Epidemiologic; Level III.",
+      "journal": "Injury",
+      "authors": [
+        "Peisepar M",
+        "Rafieezadeh A",
+        "Prabhakaran K",
+        "Nair H",
+        "Kannichamy V",
+        "Harikrishnan S",
+        "Shnaydman I",
+        "Kirsch J",
+        "Froula G",
+        "Carlson A",
+        "Bronstein M",
+        "Zangbar B"
+      ],
+      "date": "2026 Oct 24",
+      "doi": "10.1016/j.injury.2026.113835",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Systems/QI",
+        "Thoracic",
+        "Vascular"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "blunt trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "flail chest",
+          "strength": "weak",
+          "topic": "Thoracic"
+        },
+        {
+          "keyword": "vascular injury",
+          "strength": "weak",
+          "topic": "Vascular"
+        },
+        {
+          "keyword": "trauma quality",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42950704/"
+    },
+    {
+      "pmid": "42950703",
+      "title": "Early fecal diversion versus no initial diversion in blunt open pelvic fractures: A systematic review and meta-analysis of pelvic infection and mortality.",
+      "abstract": "**BACKGROUND**: The benefit of routine early fecal diversion in blunt open pelvic fractures remains uncertain. We examined its association with pelvic infection and short-term mortality.\n\n**METHODS**: MEDLINE/PubMed, Embase, Scopus, Web of Science Core Collection, and CENTRAL were searched from inception through 12 August 2026, with citation searching. Comparative observational studies were synthesized using crude risk ratios (RRs), REML random-effects models, modified Hartung-Knapp confidence intervals, and Mantel-Haenszel sensitivity analyses without continuity correction. Two reviewers independently selected studies, extracted data, and assessed ROBINS-I risk of bias and GRADE certainty.\n\n**RESULTS**: Eighteen observational comparative reports were retained. Potential cohort overlap prevented a valid unique overall participant total. Eight cohorts contributed to broad pelvic infection (171 participants; seven estimable): RR 0.78 (95% CI 0.35-1.70; I\u00b2=19.6%). The stricter outcome-definition analysis included five cohorts (88 participants; four estimable): RR 0.72 (95% CI 0.07-6.97). Excluding two author-reported infected hematomas through an existing replacement sensitivity gave RR 0.84 (95% CI 0.34-2.05). Eight mortality cohorts (236 participants) yielded RR 0.82 (95% CI 0.33-2.07; I\u00b2=19.0%). Post-2006 evidence remained inconclusive for infection (three cohorts; RR 0.74, 95% CI 0.009-58.85) and mortality (five cohorts; RR 1.19, 95% CI 0.27-5.26). Diversion was preferentially used in patients with more severe injuries. All reports had Serious or Critical risk of bias; certainty was very low.\n\n**CONCLUSIONS**: Available evidence does not establish a reduction in pelvic infection or short-term mortality with routine early diversion. Confounding, inconsistent outcome ascertainment, and imprecision prevent causal conclusions or exclusion of benefit in selected high-risk injuries.",
+      "journal": "Injury",
+      "authors": [
+        "Ferrari F",
+        "Ancieta MDH",
+        "Laura LYS",
+        "Botti M"
+      ],
+      "date": "2026 Oct 26",
+      "doi": "10.1016/j.injury.2026.113828",
+      "tier": "filtered",
+      "topics": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42950703/"
+    },
+    {
+      "pmid": "42950702",
+      "title": "Orthopedic trauma in patients with opioid use disorder: Current concepts in perioperative management.",
+      "abstract": "**BACKGROUND**: Opioid use disorder (OUD) is an important challenge in orthopedic trauma, where acute injury intersects with preexisting opioid exposure, tolerance, complex pain, and barriers to continuity of addiction treatment. OUD has been associated with higher rates of complications, readmission, and treatment disruption, yet OUD-specific perioperative management remains inconsistently incorporated into orthopedic trauma practice. This review synthesizes the epidemiology, outcomes, and perioperative management evidence for this population.\n\n**METHODS**: A clinically oriented current concepts review synthesized peer-reviewed literature, prioritizing studies published from 2013 onward. PubMed and Embase were searched, supplemented by Google Scholar, Semantic Scholar, and manual review of reference lists from relevant articles. Studies examining perioperative outcomes, multimodal analgesia, and management of medications for OUD (MOUD) relevant to orthopedic trauma were included; studies limited to pediatric, elderly, or prenatal populations were excluded.\n\n**RESULTS**: Preinjury opioid exposure is common among orthopedic trauma patients, whereas formally diagnosed OUD is less prevalent, affecting approximately 1% of operative trauma patients and up to 2.3% of patients with open lower-extremity fractures. OUD and opioid-related disorders are associated with higher rates of infection, nonunion, revision, prolonged hospitalization, and readmission. Consensus guidance and observational evidence support continuation of evidence-based MOUD, individualized opioid supplementation, multimodal nonopioid analgesia, regional anesthesia when appropriate, and early coordination with addiction and acute pain services. Guideline-based approaches to postoperative opioid prescribing, tapering, and patient education are also summarized.\n\n**CONCLUSIONS**: Orthopedic trauma patients with OUD require individualized, multidisciplinary perioperative care. The strongest available evidence supports preservation of OUD treatment, multimodal analgesia, early addiction and pain consultation, and coordinated discharge planning rather than either opioid avoidance or opioid-only treatment. The review concludes with the authors' recommendations for the operating surgeon, including in-hospital and outpatient tapering plans, management of requests for additional opioids, and patient education.",
+      "journal": "Injury",
+      "authors": [
+        "Stout JW",
+        "Keenan J",
+        "Rehman S"
+      ],
+      "date": "2026 Oct 24",
+      "doi": "10.1016/j.injury.2026.113824",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Orthopaedic"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "orthopaedic trauma",
+          "strength": "strong",
+          "topic": "Orthopaedic"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42950702/"
+    },
+    {
+      "pmid": "42950555",
+      "title": "Latent class phenotypes and emergency department disposition for patients with traumatic subdural hematoma and midline shift.",
+      "abstract": "**BACKGROUND**: Guidelines recommend surgical evacuation for traumatic subdural hematoma (SDH) with >5\u202fmm midline shift (MLS), but emergency department (ED) triage varies between the operating room (OR) and the intensive care unit (ICU). We investigated whether ED disposition to the OR versus ICU was associated with differences in outcomes and whether distinct patient phenotypes modified these associations.\n\n**METHODS**: We retrospectively identified adult patients from the ACS TQIP dataset with traumatic SDH, MLS >5\u202fmm, and ED disposition to either the ICU or OR. We defined patient phenotypes using latent class analysis (LCA) and investigated associations between ED disposition and outcomes (inpatient mortality, favorable discharge) using risk-adjusted hierarchical logistic regression. We tested for interaction between patient phenotype and ED disposition and repeated these analyses among patients undergoing an ICU stay \u22651\u202fday and cranial surgery.\n\n**RESULTS**: Among 9582 patients, 29% (N\u202f=\u202f2794) were triaged to the OR. Two LCA-informed phenotypes emerged: class 1 (older-mild injury) and class 2 (younger-severe injury). There was an interaction between ED disposition and patient phenotype, such that younger-severe patients had lower mortality with OR triage (P\u202f<\u202f0.001). In the subgroup of 4573 patients (48%) with \u22651\u202fday of ICU stay who underwent cranial surgery, there was a significant interaction between OR triage and the older-mild phenotype indicating increased mortality (P\u202f=\u202f0.003).\n\n**CONCLUSIONS**: For traumatic SDH with MLS >5\u202fmm, triage the OR was associated with improved outcomes only among younger, severely-injured patients, while older, mildly-injured patients may benefit from early ICU stabilization. These findings support phenotype-guided ED triage strategies to optimize outcomes.",
+      "journal": "Am J Emerg Med",
+      "authors": [
+        "Vattipally VN",
+        "Elshareif M",
+        "Hao C",
+        "Kramer P",
+        "Jo J",
+        "Suarez JI",
+        "Haut ER",
+        "Sakran JV",
+        "Huang J",
+        "Bettegowda C"
+      ],
+      "date": "2026 Oct 12",
+      "doi": "10.1016/j.ajem.2026.10.007",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "TBI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "traumatic",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "subdural haematoma",
+          "strength": "strong",
+          "topic": "TBI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42950555/"
+    },
     {
       "pmid": "42949698",
       "title": "Fatal Opioid-Like Toxidrome Associated With a 7-Hydroxymitragynine Kratom Product.",
@@ -5148,7 +5698,7 @@
     {
       "pmid": "42873076",
       "title": "Prehospital Care of Older Adults Following Perceived Low-Acuity Falls and Related \"Lift Assist\" Encounters: An NAEMSP Position Statement and Resource Document.",
-      "abstract": "Older adults who present as low-acuity falls requiring mobilization assistance, commonly referred to as a \"lift assist\", represent a common reason for EMS activation. These encounters often involve underlying medical conditions or injuries that are not immediately apparent, and missed or delayed diagnosis is associated with adverse outcomes. At the same time, some patients are transported to the emergency department when it is not necessary, exposing them to potential harms and contributing to increased healthcare utilization. These encounters are therefore complex clinical presentations and represent important opportunities for thorough assessment and higher-order clinical decision making, supported by systems that enable appropriate disposition and follow-up. However, there is a system-level bias, beginning in initial education and reinforced through dispatch, policy, and protocol, that frames these encounters as uniformly low-acuity, non-medical, minor traumas leading to underassessment and limiting clinical decision-making. Therefore, NAEMSP recommends:EMS systems should recognize calls for falls or \"lift assists\" as patient encounters that warrant an assessment, including evaluation for underlying medical causes, traumatic injuries, and safety, and frame these encounters as opportunities for higher-order clinical decision-making within the broader context of geriatric syndromes rather than isolated low-acuity events.EMS systems should support transport decisions based on a thorough assessment and patient-centered discussion, recognizing that not all patients require ED transport and that safe alternatives may include non-transport or referral to appropriate follow-up pathways.EMS systems should track the assessment of patients encountered during \"lift assist\" responses and older adults following perceived low acuity falls as a system-level quality measure to monitor performance and drive improvement.Policymakers and payers should implement sustainable reimbursement structures that support EMS assessment and care even when transport does not occur.",
+      "abstract": "Older adults who present as low-acuity falls requiring mobilization assistance, commonly referred to as a \"lift assist\", represent a common reason for EMS activation. These encounters often involve underlying medical conditions or injuries that are not immediately apparent, and missed or delayed diagnosis is associated with adverse outcomes. At the same time, some patients are transported to the emergency department when it is not necessary, exposing them to potential harms and contributing to increased health care utilization. These encounters are therefore complex clinical presentations and represent important opportunities for thorough assessment and higher-order clinical decision making, supported by systems that enable appropriate disposition and follow-up. However, there is a system-level bias, beginning in initial education and reinforced through dispatch, policy, and protocol, that frames these encounters as uniformly low-acuity, non-medical, minor traumas leading to underassessment and limiting clinical decision-making. Therefore, NAEMSP recommends:EMS systems should recognize calls for falls or \"lift assists\" as patient encounters that warrant an assessment, including evaluation for underlying medical causes, traumatic injuries, and safety, and frame these encounters as opportunities for higher-order clinical decision-making within the broader context of geriatric syndromes rather than isolated low-acuity events.EMS systems should support transport decisions based on a thorough assessment and patient-centered discussion, recognizing that not all patients require ED transport and that safe alternatives may include non-transport or referral to appropriate follow-up pathways.EMS systems should track the assessment of patients encountered during \"lift assist\" responses and older adults following perceived low acuity falls as a system-level quality measure to monitor performance and drive improvement.Policymakers and payers should implement sustainable reimbursement structures that support EMS assessment and care even when transport does not occur.",
       "journal": "Prehosp Emerg Care",
       "authors": [
         "Dorsett M",
@@ -5161,7 +5711,7 @@
         "Colwell C",
         "Joiner A"
       ],
-      "date": "2026 Oct 14",
+      "date": "2026 Oct 29",
       "doi": "10.1080/10903127.2026.2748380",
       "tier": "filtered",
       "topics": [
@@ -7937,241 +8487,6 @@
       ],
       "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/42821826/"
-    },
-    {
-      "pmid": "42815248",
-      "title": "Prehospital whole blood transfusion in traumatic hemorrhagic shock: a systematic review and meta-analysis.",
-      "abstract": "**BACKGROUND/OBJECTIVES**: Prehospital whole blood (WB) is increasingly used for traumatic hemorrhagic shock due to logistical and physiological advantages. This study synthesized evidence, including recent RCTs, to clarify its clinical efficacy.\n\n**METHODS**: Six major databases were searched through May 22, 2026. Eligible studies included RCTs and comparative cohorts of adult patients receiving prehospital WB versus standard care. Primary outcomes were 24-hour and 28/30-day mortality. Data were pooled using random-effects models to calculate risk ratios (RR) and mean differences (MD) with 95% CIs.\n\n**RESULTS**: Synthesis of six studies (3 RCTs, 3 cohorts) involving 4040 patients (1558 WB; 2482 standard care) showed prehospital WB did not significantly decrease 24-hour mortality (RR 1.00; P\u202f=\u202f0.98) or 28/30-day mortality (RR 1.09; P\u202f=\u202f0.30). No differences were found in 6-hour or in-hospital mortality. However, WB significantly reduced red blood cell requirements within 24\u202fh of hospital arrival (MD -0.97; P\u202f=\u202f0.03), though this secondary signal lost statistical significance during sensitivity analysis. Safety outcomes (ARDS, stroke, thrombotic events) showed no significant differences, although estimates for rare events were imprecise. Certainty of evidence ranged from very low to moderate.\n\n**CONCLUSION**: Prehospital WB was not associated with improved short- or long-term survival compared with standard care. A reduction in 24-hour red blood cell transfusion requirements after hospital arrival was observed; however, this secondary finding was highly sensitive to individual study weight and was driven primarily by observational cohorts at serious risk of bias.",
-      "journal": "Injury",
-      "authors": [
-        "Ribeiro Junior MAF",
-        "Possiedi RD",
-        "Pacheco LS",
-        "de Cesaro Schpchacki N",
-        "Vieira LF"
-      ],
-      "date": "2026 Sep 23",
-      "doi": "10.1016/j.injury.2026.113732",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Haemorrhage",
-        "Prehospital"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "traumatic",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "haemorrhagic shock",
-          "strength": "strong",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "blood transfusion",
-          "strength": "strong",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "prehospital",
-          "strength": "strong",
-          "topic": "Prehospital"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42815248/"
-    },
-    {
-      "pmid": "42814952",
-      "title": "Beyond the destination: Transfer time and pediatric specialization in severe traumatic brain injury.",
-      "abstract": "",
-      "journal": "J Trauma Acute Care Surg",
-      "authors": [
-        "Al-Dahwi L"
-      ],
-      "date": "2026 Sep 30",
-      "doi": "10.1097/TA.0000000000005194",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "TBI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "traumatic",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic brain injury",
-          "strength": "strong",
-          "topic": "TBI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42814952/"
-    },
-    {
-      "pmid": "42814947",
-      "title": "Beyond packing or plugging: Individualizing hemorrhage control in pelvic fracture management.",
-      "abstract": "",
-      "journal": "J Trauma Acute Care Surg",
-      "authors": [
-        "Ademi A",
-        "Charles EJ",
-        "Anthony AE",
-        "Goydos C",
-        "Nemeth ZH"
-      ],
-      "date": "2026 Sep 30",
-      "doi": "10.1097/TA.0000000000005195",
-      "tier": "core",
-      "topics": [
-        "Pelvic"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "pelvic fracture",
-          "strength": "strong",
-          "topic": "Pelvic"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42814947/"
-    },
-    {
-      "pmid": "42814456",
-      "title": "A Call for a Prehospital Quality Measurement Framework for Equity.",
-      "abstract": "",
-      "journal": "JAMA Surg",
-      "authors": [
-        "Bailey JA",
-        "Alvarado FJ",
-        "Berry C"
-      ],
-      "date": "2026 Sep 30",
-      "doi": "10.1001/jamasurg.2026.4517",
-      "tier": "filtered",
-      "topics": [
-        "Prehospital"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "prehospital",
-          "strength": "strong",
-          "topic": "Prehospital"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42814456/"
-    },
-    {
-      "pmid": "42814427",
-      "title": "Racial Disparities in Prehospital Interventions Among Injured Patients.",
-      "abstract": "**IMPORTANCE**: Recent studies suggest racial disparities exist in prehospital interventions among injured patients. Further evaluation is needed to understand how other social determinants of health may influence these findings and if these disparities translate to differences in outcomes.\n\n**OBJECTIVE**: To evaluate the association between race and ethnicity and receiving prehospital interventions, how these associations change based on neighborhood social determinants of health, and if these interventions are associated with patient outcomes.\n\n**DESIGN, SETTING, AND PARTICIPANTS**: This is a retrospective cohort study of the Linking Investigations in Trauma and Emergency Medical Services Task Order 1 database from 2017 through 2021. Patients included were 18 years or older with an injury severity score higher than 9 and had race and ethnicity data available. Data were linked to the Distressed Communities Index (DCI). These data were analyzed from January 2025 to June 2025.\n\n**MAIN OUTCOMES AND MEASURES**: Associations between race and prehospital interventions were evaluated, including prehospital blood products, prehospital needle decompression, prehospital airway, prehospital intubation, and prehospital tourniquet placement. The study team also evaluated if receiving prehospital interventions was associated with 24-hour and in-hospital mortality.\n\n**RESULTS**: A total of 18\u202f280 patients meeting inclusion criteria were identified, of which 4327 self-identified as Black, 11\u202f140 as White, and 2813 as other race. Patients of other race were more likely to receive prehospital blood products (492 [4.4%]) and prehospital intubation (882 [7.9%]) compared with Black patients (101 [2.3%] and 171 [4.0%], respectively). White patients were more likely to receive prehospital airway (1018 [9.1%]) and intubation (882 [7.9%]) compared with Black patients (250 [5.8%] and 171 [4.0%], respectively). Patients in socially disadvantaged neighborhoods were less likely to receive prehospital airway and intubation compared with more affluent communities. No significant interactions or significant mediation by the DCI was seen. Prehospital airway and prehospital intubation were associated with a 30% and 37% reduction in odds of in-hospital mortality (adjusted odds ratio [aOR], 0.70; 95% CI, 0.52-0.93 P\u2009=\u2009.05) and (aOR, 0.63; 95% CI, 0.46-0.86; P\u2009=\u2009.004).\n\n**CONCLUSIONS AND RELEVANCE**: These results demonstrate that disparities in prehospital interventions among injured patients exist and these disparities are not significantly explained by neighborhood social determinants of health. Further studies are needed to better understand the underlying causes and employ targeted interventions.",
-      "journal": "JAMA Surg",
-      "authors": [
-        "Byrd T",
-        "Lu L",
-        "Boland S",
-        "Sperry J",
-        "Guyette F",
-        "Wisniewski S",
-        "Moore E",
-        "Schreiber M",
-        "Joseph BA",
-        "Wilson CT",
-        "Ostermayer D",
-        "Harbrecht BG",
-        "Patel M",
-        "Brown JB"
-      ],
-      "date": "2026 Sep 30",
-      "doi": "10.1001/jamasurg.2025.4716",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Haemorrhage",
-        "Prehospital",
-        "Procedures",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "injury severity",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "blood product",
-          "strength": "weak",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "prehospital blood",
-          "strength": "weak",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "tourniquet",
-          "strength": "weak",
-          "topic": "Procedures"
-        },
-        {
-          "keyword": "prehospital",
-          "strength": "strong",
-          "topic": "Prehospital"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42814427/"
-    },
-    {
-      "pmid": "42811447",
-      "title": "Emergency Department Feasibility of the Brief Test of Adult Cognition by Telephone (BTACT) for Research in Mild Traumatic Brain Injury.",
-      "abstract": "",
-      "journal": "Acad Emerg Med",
-      "authors": [
-        "Barton DJ",
-        "Rudolph CF",
-        "Kalinina EK",
-        "Reddy K",
-        "Gallo N",
-        "Morford H",
-        "Zeng X",
-        "Karikari TK",
-        "Pacella-LaBarbara ML",
-        "Callaway CW",
-        "Wagner AK"
-      ],
-      "date": "2026 Oct 1",
-      "doi": "10.1111/acem.70420",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "TBI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "traumatic",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic brain injury",
-          "strength": "strong",
-          "topic": "TBI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42811447/"
     }
   ]
 }
