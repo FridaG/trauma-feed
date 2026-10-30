@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-29T23:42:47.457905Z",
-  "total_articles": 218,
+  "generated": "2026-10-30T23:22:38.993676Z",
+  "total_articles": 225,
   "all_topics": [
     "Abdominal",
     "Burns",
@@ -379,6 +379,383 @@
   },
   "articles": [
     {
+      "pmid": "42961660",
+      "title": "Impact of pre-existing bleeding disorders on outcomes in patients with traumatic brain injury.",
+      "abstract": "**PURPOSE**: Traumatic brain injury (TBI) remains a major global public health problem. This study aimed to evaluate the association between pre-existing bleeding disorders and clinical outcomes among patients with TBI. We hypothesized that pre-existing bleeding disorders would be associated with worse outcomes following TBI.\n\n**METHODS**: We conducted a retrospective cohort study using the 2021-2023 National Inpatient Sample (NIS) to evaluate the association between pre-existing bleeding disorders and clinical outcomes among patients aged 15 years or older hospitalized with TBI.\n\n**RESULTS**: Mortality was significantly higher in the bleeding disorder group (13.9% vs. 4.8%; p\u2009<\u20090.001), the median length of stay was longer (5 days vs. 3 days; p\u2009<\u20090.001), median hospitalization costs were substantially higher (US $20,582 vs. US $13,515; p\u2009<\u20090.001), and discharge home was less frequent (44.8% vs. 61.6%; p\u2009<\u20090.001). After adjustment for age, comorbidity burden, injury severity, and other clinically relevant covariates, pre-existing bleeding disorders remained independently associated with higher odds of in-hospital mortality (adjusted OR, 2.31; 95% CI, 1.99-2.69).\n\n**CONCLUSION**: Pre-existing bleeding disorders were independently associated with higher odds of in-hospital mortality after TBI. Patients with these disorders also experienced worse clinical outcomes. Early recognition and appropriate hemostatic assessment may support individualized management in this vulnerable population.",
+      "journal": "Eur J Trauma Emerg Surg",
+      "authors": [
+        "Yamaji F",
+        "Coimbra BC",
+        "Zakhary B",
+        "Coimbra R"
+      ],
+      "date": "2026 Oct 29",
+      "doi": "10.1111/hae.14557",
+      "tier": "core",
+      "topics": [
+        "General Trauma",
+        "Systems/QI",
+        "TBI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "traumatic",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "injury severity",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "traumatic brain injury",
+          "strength": "strong",
+          "topic": "TBI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42961660/"
+    },
+    {
+      "pmid": "42961073",
+      "title": "Prevalence of Persistent Severe Hypertension and Rates of Treatment Among Pregnant Patients in the Prehospital Setting.",
+      "abstract": "**OBJECTIVES**: Hypertensive disorders of pregnancy (HDP) contribute to maternal and fetal morbidity and mortality and require time-sensitive intervention. In April 2025, the American College of Obstetricians and Gynecologists (ACOG), in collaboration with the National Association of EMS Physicians (NAEMSP) and the National Association of EMTs (NAEMT), published new guidelines on the prehospital management of elevated blood pressure in pregnancy. The objective of this study was to determine the prevalence of persistent severe hypertension among pregnant patients encountered by prehospital clinicians, characterize baseline frequency of pre-guideline treatment, and establish a benchmark to inform implementation of these guidelines.\n\n**METHODS**: We conducted a retrospective observational cohort study using the 2024 ESO Data Collaborative public release research dataset (January 1 to December 31, 2024). We identified all 9-1-1 ground EMS scene responses for patients documented as pregnant beyond 20 weeks of gestation. We excluded injury-related encounters and patients outside the World Health Organization-defined childbearing age range (15 to 49 years). Consistent with the new guidelines, we defined persistent severe hypertension as at least two documented blood pressure measurements with systolic blood pressure \u2265 160\u2009mmHg or diastolic blood pressure \u2265 110\u2009mmHg. We defined guideline-adherent treatment as administration of both magnesium sulfate (MgSO\n\n**RESULTS**: We identified 39,546 eligible 9-1-1 ground EMS scene responses for patients beyond 20 weeks of gestation. The prevalence of persistent severe hypertension was 3.1% (n\u2009=\u20091,234/39,546). Among these patients, 77 (6.2%) received magnesium sulfate only, 19 (1.5%) received an antihypertensive medication only, and 10 (0.8%) received guideline-adherent treatment with both magnesium sulfate and an antihypertensive medication.\n\n**CONCLUSIONS**: Approximately 1 in 32 pregnant patients beyond 20 weeks of gestation encountered by prehospital clinicians had persistent severe hypertension. In the year prior to dissemination of the 2025 ACOG, NAEMSP, and NAEMT-supported guidelines, fewer than 1% received guideline-adherent treatment with both magnesium sulfate and an antihypertensive medication. These findings establish a national benchmark and identify opportunities to improve prehospital care through protocol development, medication availability, clinician education, and implementation of updated guidelines.",
+      "journal": "Prehosp Emerg Care",
+      "authors": [
+        "Maffetone N",
+        "Livingston CA",
+        "Wilcox KM",
+        "Wingate AH",
+        "Brown LH",
+        "Kupas DF"
+      ],
+      "date": "2026 Oct 30",
+      "doi": "10.1080/10903127.2026.2755518",
+      "tier": "filtered",
+      "topics": [
+        "Prehospital"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "prehospital",
+          "strength": "strong",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42961073/"
+    },
+    {
+      "pmid": "42961038",
+      "title": "Association Between Craniotomy and Outcomes in Patients With Acute Subdural Hematoma: Analysis of a Nationwide Trauma Registry in Japan.",
+      "abstract": "**BACKGROUND AND OBJECTIVE**: The benefits of surgery remain unclear in less severe cases of acute subdural hematoma (ASDH). We aimed to investigate the association between surgical intervention and outcomes in patients with ASDH.\n\n**METHODS**: This multicenter cohort study analyzed data from the Japan Trauma Data Bank between January 2019 and December 2023. Patients age 18 years and older with large supratentorial ASDH (>50 cm3, >1 cm thick) and a Glasgow Coma Scale (GCS) score of 6 to 15 at hospital arrival were included. One-to-one propensity score matching was performed to compare patients who underwent craniotomy with those who did not. Study outcomes included survival to hospital discharge and favorable neurological outcomes.\n\n**RESULTS**: Overall, 1808 patients (median age, 79 years; 64.9% male) from 83 hospitals were included, and 46.6% underwent craniotomy. Craniotomy rates ranged from 0.0% to 83.3% (median, 46.2%) across hospitals. Propensity score matching identified 610 matched patients with and without craniotomy. Patients who underwent craniotomy had a significantly higher survival rate (77.2% vs 62.6%; within-hospital difference, 14.7%; 95% CI, 9.6%-19.8%); however, no significant difference was observed in the proportion of favorable neurological outcomes at discharge (16.1% vs 17.9%; within-hospital difference, -1.9%; 95% CI, -7.5% to 3.7%). Subgroups analyses demonstrated significant interactions between craniotomy and both age and GCS scores, with greater benefit observed in patients age 65 years and older (difference, 3.9% [<65 years] vs 17.1% [\u226565 years]) and in those with a GCS score of 6 to 12 (difference, 27.8% [GCS 6-12] vs -6.1% [GCS 13-15]).\n\n**CONCLUSION**: In patients with large ASDHs, craniotomy was significantly associated with improved survival, particularly among patients age 65 years and older and those with lower GCS scores (6-12). A uniform approach based solely on hematoma thickness may be suboptimal. Instead, surgical decision-making needs to adopt a more individualized approach that incorporates age and neurological severity.",
+      "journal": "Neurosurgery",
+      "authors": [
+        "Shibahashi K",
+        "Inoue K",
+        "Kato T",
+        "Sugiyama K"
+      ],
+      "date": "2026 Oct 30",
+      "doi": "10.1227/neu.0000000000004265",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Systems/QI",
+        "TBI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "subdural haematoma",
+          "strength": "strong",
+          "topic": "TBI"
+        },
+        {
+          "keyword": "trauma registry",
+          "strength": "strong",
+          "topic": "Systems/QI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42961038/"
+    },
+    {
+      "pmid": "42960462",
+      "title": "Hospital-level Variation in Medical Debt After Acute Traumatic Injury.",
+      "abstract": "**OBJECTIVE**: To determine whether the treating hospital contributes to patients' medical debt following injury.\n\n**SUMMARY BACKGROUND DATA**: Trauma patients often have little or no choice in where they receive care. However, variation in hospital billing and collection practices, and their association with patient medical debt, remains poorly characterized.\n\n**METHODS**: We conducted a retrospective cohort study of adult trauma patients hospitalized from January 2019 to December 2020 at 29 Level I and II trauma centers within a statewide quality collaborative. Trauma registry data were linked to quarterly consumer credit reports from 12 months preinjury through 18 months postinjury. The primary outcome was change in medical debt in collections from baseline to months 9-18 postinjury. Hierarchical mixed-effects models with empirical Bayes shrinkage and reliability adjustment estimated risk-adjusted hospital-level changes, adjusting for demographics, injury severity, and treatment intensity. Hospitals were classified as outliers if 95% confidence intervals for observed-minus-expected differences excluded zero.\n\n**RESULTS**: Among 20,613 patients (mean age 63\u00a0y; 49% female; 82% non-Hispanic White), mean change in medical debt was $314 (SD $3464). Four hospitals (14%) were high outliers, generating $365-$566 more debt per patient than expected, while 4 (14%) were low outliers, generating $292-$676 less. Low-outlier hospitals cared for younger, lower-income, and higher-risk patients yet produced less debt than predicted. Findings were robust across sensitivity analyses.\n\n**CONCLUSIONS**: Substantial hospital-level variation in postinjury medical debt persists after adjustment for clinical and demographic factors. Billing, financial assistance, and collection practices may represent modifiable targets to reduce financial hardship after trauma.",
+      "journal": "Ann Surg",
+      "authors": [
+        "Mullens CL",
+        "Becker NV",
+        "Oliphant BW",
+        "Ayanian JZ",
+        "Fendrick AM",
+        "Dimick JB",
+        "Ryan AM",
+        "Hemmila MR",
+        "Scott JW"
+      ],
+      "date": "2026 Oct 30",
+      "doi": "10.1097/SLA.0000000000007248",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "injury severity",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "trauma registry",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42960462/"
+    },
+    {
+      "pmid": "42958561",
+      "title": "The first 72 hours of acute pancreatitis: patterns of variability in early clinical decision-making.",
+      "abstract": "**OBJECTIVES**: To assess real-world adherence to evidence-based international guidelines in the early management of acute pancreatitis (AP), and to identify how variability in clinical decision-making is distributed during the first 72\u00a0h of care.\n\n**METHODS**: This multicentre, cross-sectional survey was conducted among consultant physicians and trainees in General Surgery, Gastroenterology, and Emergency Medicine actively practising in Catalonia, Spain. An expert-reviewed 21-item questionnaire assessed self-reported practices across eight key domains of early AP management relative to international consensus recommendations (IAP/APA and WSES). Factors associated with guideline adherence were analysed using chi-square tests and multivariable logistic regression.\n\n**RESULTS**: A total of 165 clinicians clinicians completed the survey. Self-reported adherence to key recommendations was low, particularly for target-directed fluid resuscitation and early oral feeding, while more than half of respondents reported antibiotic use in the absence of confirmed infection. Crucially, clinical practice variability was not uniformly distributed. The greatest differences were observed in time-sensitive, treatment-related decisions, particularly fluid resuscitation and nutritional strategies, where adherence varied significantly according to clinician experience and hospital size. In contrast, antibiotic use showed no significant variation across subgroups, indicating a consistent and widespread deviation from guideline recommendations. On multivariable analysis, overall adherence was independently associated with clinician experience (p\u2009=\u20090.035) and hospital size (p\u2009=\u20090.009), but not with medical speciality or clinician age.\n\n**CONCLUSIONS**: Early AP management showed substantial variation in self-reported practice across clinical domains. Variability was greatest for time-sensitive therapeutic decisions, whereas antibiotic overuse appeared to represent a widespread pattern of non-concordant practice across subgroups. Structured local pathways and decision-support tools may help reduce these implementation gaps.",
+      "journal": "World J Emerg Surg",
+      "authors": [
+        "Rodrigo Rodrigo M",
+        "G\u00f3mez Vallv\u00e9 N",
+        "L\u00f3pez Gordo S",
+        "Gonz\u00e1lez-Castillo AM",
+        "Pavel M",
+        "Ll\u00e0cer E",
+        "Estalella L",
+        "Guerrero MA",
+        "Memba R",
+        "Jorba I Mart\u00edn R",
+        "Ram\u00edrez-Maldonado E"
+      ],
+      "date": "2026 Aug 02",
+      "doi": "10.1016/j.hpb.2024.09.008",
+      "tier": "core",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42958561/"
+    },
+    {
+      "pmid": "42958307",
+      "title": "WSES-PSOGI-SICO evidence-infomed guidelines on surgical emergencies in patients with peritoneal surface malignancies: a systematic review, meta-analysis, and structured expert consensus.",
+      "abstract": "**BACKGROUND**: Peritoneal surface malignancies (PSM) are primary or secondary neoplastic deposits involving the peritoneum and are commonly associated with colorectal, gastric, appendiceal, gynecological, pancreaticobiliary, and other intra-abdominal or extra-abdominal cancers. Malignant bowel obstruction (MBO) is one of the most frequent and clinically consequential emergency presentations in this population, yet diagnostic and therapeutic pathways remain heterogeneous. We aimed to develop evidence-informed recommendations for emergency management of MBO in patients with PSM by integrating a systematic review, meta-analysis and a structured international expert consensus process.\n\n**METHODS**: This systematic review, meta-analysis, and Delphi consensus followed PRISMA, Cochrane, and relevant MOOSE reporting principles. PubMed/MEDLINE and the Cochrane Library were searched from inception to June 2025 (English language). Five predefined PICO/PIRT questions addressed: (1) the diagnostic role of CT, plain abdominal X-ray, or Gastrografin-enhanced X-ray in PSM-related MBO; (2) nonoperative medical management versus surgical or endoscopic therapy; (3) surgical versus endoscopic treatment after failure of nonoperative management; (4) bowel resection versus stoma or bypass in surgical candidates; and (5) endoscopic stenting versus endoscopic ultrasound-guided bypass with lumen-apposing metal stents in endoscopic candidates. Study selection and data extraction were performed independently and in duplicate. Risk of bias was assessed with ROBINS-I for comparative non-randomized studies and MINORS for non-comparative studies; certainty of evidence was rated with GRADE. Random-effects meta-analyses (REML) produced odds ratios (OR), mean differences (MD), pooled means, or pooled proportions with 95% confidence intervals (CI); heterogeneity was summarized using I2, \u03c42, and 95% prediction intervals. Evidence profiles informed statements voted on by the WSES-PSOGI-SICO expert panel during the 2025 WSES Congress.\n\n**RESULTS**: No comparative diagnostic study evaluated abdominal X-ray or Gastrografin-enhanced X-ray in PSM-related MBO; two small retrospective CT-based series supported contrast-enhanced CT for mapping obstruction and excluding urgent complications, but no diagnostic meta-analysis was possible. For medical versus procedural treatment, medical management was associated with lower morbidity (OR 0.16, 95% CI 0.07-0.39) and shorter length of stay (MD -\u20099.48\u00a0days, 95% CI -\u200912.65 to -6.32), while success, mortality, and overall survival remained inconclusive. For surgery versus endoscopy, surgery showed higher clinical success (OR 2.57, 95% CI 1.47-4.50), whereas endoscopy shortened hospital stay (MD 3.35\u00a0days, 95% CI 1.46-5.23); mortality did not differ (OR 1.02, 95% CI 0.70-1.49). Among surgical options, resection showed a signal toward higher perioperative mortality than bypass or ostomy (OR 3.55, 95% CI 1.45-8.68). Endoscopic stenting showed a pooled clinical success rate of 0.71 (95% CI 0.62-0.79), whereas evidence on LAMS was limited to one retrospective study. All guideline statements reached 100% agreement among voting participants.\n\n**CONCLUSIONS**: Despite the low certainty of available evidence, integration of systematic review findings with expert consensus provides a structured international framework to support decision-making in emergency presentations of PSM-related MBO. These consensus-based recommendations are intended to assist clinicians in harmonizing care across peripheral and referral hospitals, while emphasizing individualized multidisciplinary judgement and the need for future higher-quality evidence.",
+      "journal": "World J Emerg Surg",
+      "authors": [
+        "Fugazzola P",
+        "Granieri S",
+        "Abu-Zidan F",
+        "Allievi N",
+        "Biffl WL",
+        "Catena F",
+        "Celotti A",
+        "Ceresoli M",
+        "Cobianchi L",
+        "Coccolini F",
+        "Dagnoni A",
+        "Mas FD",
+        "Di Giorgio A",
+        "Filios R",
+        "Frassini S",
+        "Ghaly A",
+        "Ioannidis O",
+        "Isik A",
+        "Markou-Pappas N",
+        "Perrina D",
+        "Pisano M",
+        "Podda M",
+        "Seshadri R",
+        "Sommariva A",
+        "Tomasoni M",
+        "Vaira M",
+        "Vigan\u00f2 J",
+        "Ward E",
+        "Giuffrida M",
+        "Chierici A",
+        "Yi\u011fitler C",
+        "Wexner S",
+        "Sugarbaker P",
+        "Ansaloni L"
+      ],
+      "date": "2026 Jul 24",
+      "doi": "10.1016/j.ejso.2024.108368",
+      "tier": "core",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42958307/"
+    },
+    {
+      "pmid": "42956713",
+      "title": "Rural Pathologies: A Late Presentation Special.",
+      "abstract": "Patients in rural and remote Australia often present later and with more advanced disease compared to major and regional cities. Drawing on experience as a junior doctor in the Cape and in rural emergency departments, this article explores how geographic isolation, limited resources, health literacy challenges and inequities in access shape these presentations. Cases include a critically unwell patient managed overnight in a makeshift intensive care bay when weather delayed retrieval, a family of young children with Norwegian Scabies, and a partial finger amputation complicated by weekend staffing shortages. The article reviews Australian evidence on sepsis, scabies and its link to rheumatic heart disease and trauma outcomes, all of which tend to be more challenging to manage. Timely care in rural and remote communities depends on early recognition, clear communication and close collaboration between rural generalists, FACEMs, retrieval services and specialist teams.",
+      "journal": "Emerg Med Australas",
+      "authors": [
+        "Botha NC"
+      ],
+      "date": "2026 Dec 1",
+      "doi": "10.1111/1742-6723.70381",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42956713/"
+    },
+    {
+      "pmid": "42956476",
+      "title": "Predictors of 30-day mortality and complications following surgical treatment of pathologic hip fractures.",
+      "abstract": "Pathologic hip fractures present complex challenges and are associated with higher postoperative complication rates and mortality compared with non-pathologic fractures. This study aimed to compare 30-day outcomes between pathologic and non-pathologic hip fracture patients and identify factors associated with 30-day mortality and postoperative complications among patients with pathologic hip fractures using the National Surgical Quality Improvement Program database. A retrospective analysis was conducted from 2006 to 2023. Patients aged \u2265\u202f18 years undergoing hip fracture surgery were included. Patients with non-pathologic hip fractures were compared with those with pathologic hip fractures. Univariate analyses and multivariable logistic regression models were used to identify factors associated with pathologic hip fracture 30-day mortality and complications. Among 204,675 hip fracture patients, 6159 (2.9%) had pathologic hip fractures. Patients with pathologic hip fractures had higher rates of 30-day mortality (7.8% vs. 5.1%, p\u202f<\u202f0.001), any postoperative complication (35.3% vs. 30.2%, p\u202f<\u202f0.001), cardiac/transfusion complications (27.5% vs. 22.2%, p\u202f<\u202f0.001), renal complications (0.5% vs. 0.3%, p\u202f=\u202f0.017), and venous thromboembolic complications (3.4% vs. 1.7%, p\u202f<\u202f0.001). Infectious complications and neurological complications were not significantly different between groups. In multivariable analyses, prominent protective factors associated with decreased 30-day mortality included absence of disseminated cancer (aOR 0.4, p\u202f<\u202f0.001), independent functional status (aOR 0.2, p\u202f<\u202f0.001), and absence of sepsis history (aOR 0.4, p\u202f=\u202f0.02). Thrombocytopenia (aOR 1.9, p\u202f<\u202f0.001) and anemia (aOR 1.9, p\u202f<\u202f0.001) were prominent risk factors for 30-day mortality. Thrombocytopenia and anemia were also significant risk factors for any complications and cardiac/transfusion complications. These findings underscore the importance of comprehensive preoperative assessment and multidisciplinary care to optimize outcomes for patients with pathologic hip fractures. Patients with multiple risk factors for adverse postoperative morbidity and mortality should receive appropriately tailored care.",
+      "journal": "Injury",
+      "authors": [
+        "Thomas G",
+        "Njoku-Austin CO",
+        "Almeida ND",
+        "Sinha S",
+        "Schrand TV",
+        "Mirvish A",
+        "Singh AK",
+        "Hoogervorst P"
+      ],
+      "date": "2026 Oct 24",
+      "doi": "10.1016/j.injury.2026.113854",
+      "tier": "filtered",
+      "topics": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42956476/"
+    },
+    {
+      "pmid": "42956475",
+      "title": "Video-assisted resident education is associated with improved ankle joint reduction: A prospective controlled study.",
+      "abstract": "**BACKGROUND**: Proper fracture reduction and splinting technique is critical for soft tissue protection and fracture stability in the acute management of ankle fractures. However, residency education for acute ankle fracture reduction and splinting techniques remains poorly standardized and streamlined. This study evaluated the effect of implementing a video-assisted ankle fracture management education program administered to first-year orthopaedic residents on ankle joint reduction and splint quality.\n\n**METHODS**: This was a prospective controlled study conducted at a single level I trauma center. All consecutive ankle fractures (OTA/AO: 4F, 44) requiring the placement of a bivalved short leg cast or AO splint from January 1, 2019, to June 30th, 2022 were included. Exclusion criteria included skeletal immaturity, missing imaging, delayed fracture presentation more than two weeks from injury, concurrent ipsilateral injury/polytrauma interfering with ankle reduction, open fracture, or ankle fractures treated without an AO splint or cast. The primary outcome was joint reduction quality defined as radiographic post-reduction tibiofibular overlap, tibiofibular clear space, and medial clear space. Secondary outcomes included splint padding thickness and ankle dorsiflexion angle to assess splint quality.\n\n**RESULTS**: A total of 280 consecutive ankle fracture cases were included for evaluation of splint quality: 111 in the intervention group (mean age 46; [range 14-92]; 44% female) versus 169 in the control group (mean age 44; [range 14-90]; 41% female). Comparable injury severity was observed between groups. In the supination-external rotation IV (SER4) and type IV-equivalent (SER4e) subgroup, there was significant improvement in joint reduction quality in the intervention group as compared to control (55% versus 36%, respectively; Risk Ratio: 1.52, [95% CI: 1.03-2.25], p\u202f=\u202f0.04). In the entire cohort, splint padding thickness was not significantly improved in the intervention group (p\u202f>\u202f0.05), however, there was a significant increase in the percentage of ankles splinted in an appropriately dorsiflexed position (p\u202f=\u202f0.03).\n\n**CONCLUSIONS**: Implementation of video-assisted ankle fracture management education program was associated with improvements in overall ankle joint reduction quality. While the clinical significance of the improvements observed in ankle reduction remains yet to be established, orthopaedic surgery residency programs should consider incorporating video technique guides into their educational curricula.\n\n**LEVEL OF EVIDENCE**: Level II, Therapeutic Study.",
+      "journal": "Injury",
+      "authors": [
+        "Bilodeau RE",
+        "Hall AJ",
+        "Como M",
+        "Cautela F",
+        "Rowe J",
+        "Joseph D",
+        "Reddy RP",
+        "Hogan MV",
+        "Forsh D",
+        "Seneviratne A",
+        "Cong T"
+      ],
+      "date": "2026 Oct 24",
+      "doi": "10.1016/j.injury.2026.113823",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Orthopaedic",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "polytrauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "injury severity",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "open fracture",
+          "strength": "weak",
+          "topic": "Orthopaedic"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42956475/"
+    },
+    {
+      "pmid": "42956442",
+      "title": "Disparities in investigation of physical abuse among trauma patients.",
+      "abstract": "**BACKGROUND**: Physical abuse is a significant public health issue in the United States, leading to poor health outcomes such as chronic illness, depression, and substance abuse. Research regarding how the medical system addresses physical abuse in the overall adult population is scarce. The objective of this study was to assess disparities in investigation of physical abuse among adult trauma patients.\n\n**METHODS**: This is a retrospective analysis of the 2017-2019 American College of Surgeons-Trauma Quality Program database. This study included all adult patients (\u226518\u202fyears) who had a report of physical abuse by the medical team to authorities. Chi square and multivariate analysis were applied where appropriate to assess which characteristics showed disparities in investigation rate.\n\n**RESULTS**: On univariate analysis, there were disparities with regard to age, mechanism, race, ethnicity, payment method, and mental health or substance use disorder. On multivariate analysis, male sex, non-penetrating trauma, age\u202f\u226570, American Indian race, and presence of a mental health disorder were associated with decreased odds of investigation. Non-elderly adult patients made up a disproportionate amount of abuse victims.\n\n**CONCLUSIONS**: This study shows significant disparities in the escalation of a physical abuse report to an official investigation in the trauma setting. The authors recommend increased advocacy and resource allocation for these vulnerable populations in the clinical setting as well as further research regarding to what extent patient choice versus discretion of authorities influences these disparities. The authors also recommend a larger research focus on non-elderly adult victims of abuse.",
+      "journal": "Am J Emerg Med",
+      "authors": [
+        "Tarantino B",
+        "Buck M",
+        "Alicea J",
+        "Hancock D",
+        "Shah K"
+      ],
+      "date": "2026 Oct 23",
+      "doi": "10.1016/j.ajem.2026.10.027",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Penetrating",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "penetrating trauma",
+          "strength": "weak",
+          "topic": "Penetrating"
+        },
+        {
+          "keyword": "trauma quality",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42956442/"
+    },
+    {
       "pmid": "42955320",
       "title": "Ventilator-associated pneumonia after traumatic brain injury: a timing-sensitive ecological framework of neuroimmune-pulmonary vulnerability.",
       "abstract": "**BACKGROUND**: Ventilator-associated pneumonia (VAP) is frequent after traumatic brain injury (TBI), but its biological meaning and outcome impact remain incompletely defined. Traditional models emphasise mechanical ventilation, aspiration, colonisation, endotracheal tube biofilm, and hospital pathogens. These mechanisms remain essential, but they do not fully explain the early clustering, heterogeneous susceptibility, changing bacteriology, and variable mortality effect observed after TBI.\n\n**MAIN TEXT**: Severe brain injury creates an early vulnerable host state through impaired consciousness and airway protection, neuroimmune dysregulation, autonomic and endocrine activation, altered pulmonary immune surveillance, and, in many patients, extracranial trauma, shock, transfusion, or thoracic injury. These processes interact with ventilation, antibiotic pressure, and rapid respiratory microbiome disruption. Early VAP may reflect abrupt loss of control after injury and intubation, whereas late VAP may reflect persistent or secondary failure driven by biofilm maturation, antibiotic selection, multidrug-resistant pathogens, and intensive care unit (ICU)-acquired immune dysfunction. Clinically, VAP consistently prolongs ventilation, ICU stay, antibiotic exposure, and resource use, while its independent effect on mortality is phenotype- and context-dependent.\n\n**CONCLUSIONS**: This model proposes a timing-sensitive ecological framework in which established mechanisms may converge early and with particular clinical intensity after severe TBI, creating a vulnerable host-microbe state that may lower the threshold for clinically apparent infection. Future studies should distinguish isolated TBI from polytrauma, compare TBI with other acute brain injuries and non-neurological ventilated populations, and incorporate dynamic immune, microbial, and trajectory-based outcomes.\n\n**HIGHLIGHTS**: VAP after TBI should be viewed as a timing-sensitive interaction between ventilator exposure and early host vulnerability, not as a distinct disease entity or as a pneumonia pathway unique to traumatic brain injury. The TBI-focused contribution lies in the early convergence of otherwise non-unique mechanisms: impaired airway control, aspiration risk, neuroimmune-endocrine activation, treatment exposure, dysbiosis, and extracranial injury burden, rather than in any single TBI-specific mechanism. Isolated TBI and TBI with polytrauma are biologically different phenotypes and should be separated in future studies. Early and late VAP may represent different phases of loss of pulmonary host-microbe containment; this distinction is probabilistic rather than TBI-specific in itself and requires validation in TBI-stratified cohorts. Mortality remains clinically relevant but context-dependent; VAP more consistently modifies recovery trajectory, ventilator dependence, ICU stay, antibiotic exposure, and possibly neurological recovery.",
@@ -484,7 +861,7 @@
         "Wagner C"
       ],
       "date": "2026 Oct 29",
-      "doi": "10.1002/14651858.CD016295",
+      "doi": "10.1016/j.ijgo.2016.01.013",
       "tier": "filtered",
       "topics": [
         "General Trauma"
@@ -514,7 +891,7 @@
         "McCombie A"
       ],
       "date": "2026 Dec 1",
-      "doi": "10.1111/1742-6723.70382",
+      "doi": "10.1016/j.rehab.2025.101972",
       "tier": "filtered",
       "topics": [
         "General Trauma",
@@ -1008,43 +1385,20 @@
     {
       "pmid": "42949037",
       "title": "Micromobility Injury Patterns and Resource Use in US Trauma Centers.",
-      "abstract": "**BACKGROUND**: Micromobility-related injuries increasingly contribute to trauma care, but differences in injury patterns and resource use across bicycle, e-bike, and e-scooter injuries remain incompletely characterized. We compared injury severity, injury patterns, and resource use among injured riders presenting to participating trauma centers.\n\n**STUDY DESIGN**: We queried the American College of Surgeons National Trauma Data Bank (2023-2024) for injured bicycle, e-bike, and e-scooter riders \u226518 years. The primary outcome was severe injury (Injury Severity Score \u226516). Secondary outcomes included serious regional injuries (Abbreviated Injury Scale \u22653), craniofacial fractures, operative and critical care resource use, and in-hospital mortality.\n\n**RESULTS**: Among 47,102 injured riders, 32,100 (68%) rode bicycles, 8,744 (19%) e-bikes, and 6,258 (13%) e-scooters. Compared with bicycle riders, e-scooter riders had lower risk of severe injury (aRR 0.93, 95% CI 0.87-0.99) but higher risk of serious head/neck injury (aRR 1.10, 95% CI 1.04-1.17). Risks of serious chest (aRR 0.77, 95% CI 0.71-0.82) and extremities/pelvic girdle injuries (aRR 0.92, 95% CI 0.86-0.99), emergency surgery (aRR 0.66, 95% CI 0.50-0.87), early transfusion (aRR 0.71, 95% CI 0.54-0.94), and in-hospital mortality (aRR 0.78, 95% CI 0.64-0.94) were lower. Helmet use was associated with lower craniofacial fracture risk, most strongly among e-scooter riders (aRR 0.49, 95% CI 0.41-0.58).\n\n**CONCLUSIONS**: Among injured riders presenting to participating trauma centers, e-scooter injuries were associated with lower overall severity and resource use than bicycle injuries but greater serious head/neck injury risk. Helmet use was associated with lower craniofacial fracture risk, supporting continued helmet promotion.",
+      "abstract": "",
       "journal": "J Am Coll Surg",
-      "authors": [
-        "Abbasi B",
-        "Chu PW",
-        "Carlisle MN",
-        "Leng L",
-        "Hakam N",
-        "Afanador-Jimenez A",
-        "Frankiewicz M",
-        "Wang R",
-        "Myrga JM",
-        "Breyer BN"
-      ],
+      "authors": [],
       "date": "2026 Nov 17",
       "doi": "10.1097/XCS.0000000000002203",
       "tier": "filtered",
       "topics": [
-        "Facial/Neck",
-        "General Trauma",
-        "Systems/QI"
+        "General Trauma"
       ],
       "keyword_matches": [
         {
           "keyword": "trauma",
           "strength": "strong",
           "topic": "General Trauma"
-        },
-        {
-          "keyword": "injury severity",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "neck injury",
-          "strength": "weak",
-          "topic": "Facial/Neck"
         }
       ],
       "has_strong_match": true,
@@ -2235,7 +2589,7 @@
         "Laso JI"
       ],
       "date": "2026 Oct 26",
-      "doi": "10.1097/MD.0000000000043896",
+      "doi": "10.1007/s00068-026-03378-z",
       "tier": "core",
       "topics": [
         "General Trauma"
@@ -2260,7 +2614,7 @@
         "Swords M"
       ],
       "date": "2026 Oct 26",
-      "doi": "10.1586/erd.10.53",
+      "doi": "10.1007/s00068-026-03372-5",
       "tier": "core",
       "topics": [
         "General Trauma"
@@ -4518,7 +4872,7 @@
         "Wintges K"
       ],
       "date": "2026 Oct 19",
-      "doi": "10.1007/s00068-026-03361-8",
+      "doi": "10.2196/ijmr.6568",
       "tier": "core",
       "topics": [
         "General Trauma",
@@ -8376,117 +8730,6 @@
       ],
       "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/42823760/"
-    },
-    {
-      "pmid": "42822406",
-      "title": "Fixation-specific modeling of age-frailty interactions to predict early mortality after hip fracture surgery.",
-      "abstract": "**BACKGROUND**: Early mortality after hip fracture surgery remains high. Existing risk models treat age and frailty as independent predictors and may not reflect how physiologic reserve modifies risk across fixation strategies. We evaluated whether modeling age-frailty interactions improves estimation of 30-day mortality.\n\n**METHODS**: A retrospective cohort study using the American College of Surgeons National Surgical Quality Improvement Program (ACS-NSQIP) database (2019-2023) included adults undergoing intramedullary nailing (IMN), hemiarthroplasty, or plate fixation for femoral neck, pertrochanteric, or subtrochanteric fractures. Frailty was measured using a validated 5-item modified frailty index. Generalized additive models with bivariate spline surfaces generated procedure-specific mortality risk estimates. Secondary outcomes were assessed using propensity score-matched cohorts.\n\n**RESULTS**: Among 115,643 patients, 30-day mortality was 5.25%. Predicted mortality varied across age-frailty combinations, ranging from 1.41% to 28.83% for IMN, 1.26%-32.06% for hemiarthroplasty, and 0.48%-20.37% for plate fixation. IMN showed higher transfusion rates, while hemiarthroplasty demonstrated higher cardiopulmonary complication rates. Length of stay did not differ between procedures.\n\n**CONCLUSIONS**: Modeling age and frailty as interacting variables produces procedure-specific mortality risk estimates after hip fracture surgery. These estimates support patient counseling and perioperative decision-making using routinely available clinical data.",
-      "journal": "Injury",
-      "authors": [
-        "Joachim K",
-        "Lin A",
-        "Gettleman B",
-        "Fice M",
-        "Hamad C",
-        "Abernethy C",
-        "Jeong S",
-        "Perrotta A",
-        "Dingle E",
-        "Sparks O",
-        "Stavrakis A",
-        "Christ AB"
-      ],
-      "date": "2026 Sep 30",
-      "doi": "10.1016/j.injury.2026.113752",
-      "tier": "filtered",
-      "topics": [],
-      "keyword_matches": [],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42822406/"
-    },
-    {
-      "pmid": "42821986",
-      "title": "Early complications after surgical stabilization of rib fractures: A retrospective cohort study.",
-      "abstract": "**BACKGROUND**: In recent years, interest in SSRF has increased due to the growing evidence of improved pain control, quality of life, and chest wall function. This study aimed to assess the incidence and the types of early complications (in-hospital and until 3 mo postoperatively) following SSRF and to develop a risk prediction score based on potential risk factors for complications.\n\n**METHODS**: We conducted a retrospective single-center analysis including 554 patients who underwent SSRF between 2008 and 2023. Data were extracted from electronic medical records and included demographic, trauma-related, and surgical variables, as well as characteristics of complications. Logistic regressions and risk prediction analyses were performed for in-hospital complications.\n\n**RESULTS**: The main indication for SSRF was a displaced, painful series of fractures (76%). Complications occurred in 33% of patients during hospitalization and in 9% between discharge and three months postoperatively. In-hospital complications were predominantly grade Clavien-Dindo I (12%) and II (22%), whereas the most frequent grades within the postdischarge complications were I and IIIB (both 3%). Both in-hospital and postdischarge complications were mainly pulmonary and thoracic (18% and 5%) in origin. In univariate analysis, age, ASA, number of fractured and fixed ribs, flail chest, and Charlson Comorbidity Index were independent risk factors for any complication. In multivariate analysis, ASA and flail chest were the only independent factors. A risk prediction model showed a complication risk of 18% in patients with no flail chest, ASA \u2264II, and age <75 years, compared with 65% in patients with flail chest, ASA \u2265IV and age \u226575.\n\n**CONCLUSIONS**: Early complications following SSRF are not rare but mostly minor. However, careful operation indication and perioperative management are particularly important in older, frail patients to avoid or reduce the risk of high-grade complications.\n\n**LEVEL OF EVIDENCE**: Therapeutic, Care Management; Level III.",
-      "journal": "J Trauma Acute Care Surg",
-      "authors": [
-        "Svec MB",
-        "Reiser VR",
-        "Vujic J",
-        "Carmine D",
-        "Minikus FV",
-        "Kr\u00f6mer J",
-        "Scherb V",
-        "Waldmann L",
-        "Gahl B",
-        "Djakovic Z",
-        "Hojski A",
-        "Lardinois D"
-      ],
-      "date": "2026 Oct 01",
-      "doi": "10.1097/TA.0000000000005161",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "Thoracic"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "rib fracture",
-          "strength": "strong",
-          "topic": "Thoracic"
-        },
-        {
-          "keyword": "flail chest",
-          "strength": "weak",
-          "topic": "Thoracic"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42821986/"
-    },
-    {
-      "pmid": "42821826",
-      "title": "Supporting Mental Health in EMS Clinicians: A NAEMSP Position Statement and Resource Document.",
-      "abstract": "Emergency medical services (EMS) clinicians operate in environments characterized by repeated trauma exposure, operational unpredictability, shift work, moral distress, and cumulative occupational stress. A substantial body of evidence demonstrates elevated rates of post-traumatic stress symptoms, depression, anxiety, substance use, sleep disturbance, burnout, and suicide among EMS clinicians and other public safety professionals compared to the general public. The implications extend beyond individual well-being, affecting workforce sustainability, clinical performance, and high quality patient care. Mental health in EMS is therefore not solely an individual concern, but a systems issue. Therefore, the National Association of EMS Physicians (NAEMSP) recommends that:Organizational leadership should recognize EMS clinician mental health as foundational to workforce sustainability and safe patient care.EMS clinician mental health awareness, management, and treatment options should be a core part of EMS education.EMS systems should take a multi-faceted approach to mental health, with an emphasis on ensuring access to confidential and culturally competent resources for EMS clinicians and other public safety professionals including telecommunicators, law enforcement officers and firefighters.EMS systems should engage in quality improvement to identify and improve practices affecting EMS clinician mental health.EMS systems should achieve meaningful and sustainable improvements in EMS clinician mental health through legislative advocacy and building strong partnerships with local, regional and national agencies including public health and research institutions.",
-      "journal": "Prehosp Emerg Care",
-      "authors": [
-        "Lulla A",
-        "Crowe R",
-        "Donnelly EA",
-        "Isaacs SM",
-        "Lincoln E",
-        "Maloney L",
-        "Miller DL",
-        "Morshedi B",
-        "Svancarek B",
-        "Dorsett M"
-      ],
-      "date": "2026 Oct 13",
-      "doi": "10.1080/10903127.2026.2740139",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic",
-          "strength": "weak",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42821826/"
     }
   ]
 }
