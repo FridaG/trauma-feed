@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-31T22:56:15.725838Z",
-  "total_articles": 225,
+  "generated": "2026-11-01T23:14:27.471581Z",
+  "total_articles": 228,
   "all_topics": [
     "Abdominal",
     "Burns",
@@ -379,6 +379,116 @@
   },
   "articles": [
     {
+      "pmid": "42966241",
+      "title": "Province-wide assessment of emergency care capacity and skills in a rural provincial health system: A facility-based cross-sectional assessment in Battambang, Cambodia.",
+      "abstract": "**BACKGROUND**: Emergency care capacity remains critically limited in low- and middle-income countries (LMICs), particularly in rural areas where specialists and infrastructure are scarce. In Cambodia, stroke and ischemic heart disease are leading causes of mortality, and trauma burdens are increasing alongside rapid infrastructure development. Evidence on emergency equipment availability and frontline provider skills at the facility level in rural provinces remains limited.\n\n**METHODS**: A facility-based cross-sectional assessment was conducted across all seven public referral hospitals in Battambang Province, Cambodia, in January 2023. Emergency equipment availability was evaluated through structured interviews and direct visual confirmation against the World Health Organization (WHO) Guidelines for Essential Trauma Care. Clinical skill examinations were administered to physicians (two scenario-based cases: acute stroke with airway compromise; traumatic injury with tension pneumothorax and intra-abdominal bleeding) and nurses (a Basic Life Support [BLS] scenario assessed in pairs). Hospitals were stratified by Complementary Package of Activities (CPA) level: CPA1 (basic care only), CPA2 (including surgery and intensive care), and CPA3 (highest provincial level).\n\n**RESULTS**: At Complementary Package of Activities (CPA)1 (basic care only) hospitals, intubation equipment and 12-lead electrocardiogram were each available in only 25% of facilities. None had a crash cart, blood transfusion capacity, basic metabolic panel, or coagulation testing. In the stroke scenario, airway patency was confirmed by 28.6% of physicians at CPA1 hospitals, compared with 70.0% at CPA2 hospitals (including surgery and intensive care), 57.1% at the CPA3 hospital (highest provincial level), and 75.0% at the Provincial Health Department. In the trauma scenario, no physician at CPA1 hospitals correctly performed spinal immobilization with the spine kept straight or thoracentesis at the correct anatomical location. Among 38 nurse pairs, 97.4% initiated chest compressions promptly, but only 21.1% demonstrated correct compression technique, and 13.2% provided effective bag-valve-mask ventilation. Deficiencies in equipment and clinical skills were most pronounced at CPA1 hospitals.\n\n**CONCLUSIONS**: Emergency care capacity in Battambang Province was substantially limited, with the greatest deficiencies at CPA1 hospitals. Recurrent low-cost training and targeted strengthening of basic emergency care should be prioritized at lower-level facilities.",
+      "journal": "Injury",
+      "authors": [
+        "Takaiso H",
+        "Nomura K",
+        "Watanabe T",
+        "Nitta Y",
+        "Heak A",
+        "Im S",
+        "Okubo Y",
+        "Miyachi T"
+      ],
+      "date": "2026 Oct 27",
+      "doi": "10.1016/j.injury.2026.113794",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Haemorrhage",
+        "Spine",
+        "Thoracic"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "pneumothorax",
+          "strength": "weak",
+          "topic": "Thoracic"
+        },
+        {
+          "keyword": "blood transfusion",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "spinal immobilisation",
+          "strength": "weak",
+          "topic": "Spine"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42966241/"
+    },
+    {
+      "pmid": "42966240",
+      "title": "A scoping review evaluating artificial intelligence applications across various injury prevention domains.",
+      "abstract": "**INTRODUCTION**: Artificial intelligence (AI) has become increasingly utilized for injury prevention across diverse clinical and community settings including machine learning (ML). This scoping review aimed to synthesize the current literature on the applications and predictive performance of AI across multiple injury prevention domains.\n\n**METHODS**: This scoping review searched five major databases, including PubMed, Embase, ScienceDirect, ProQuest, and the Cochrane Library, to identify studies evaluating AI applications for injury prevention published through May 2026. Eligible studies included original U.S.-based, English-language research across self-harm and suicide, abuse and violence, fall prevention, and sports injury prediction. Studies were excluded if they lacked measurable prevention outcomes or sufficient methodological detail, or focused on injury treatment rather than prevention, to ensure relevant and interpretable evidence for synthesis.\n\n**RESULTS**: Nineteen studies met the inclusion criteria. ML models generally outperformed or matched traditional screening methods for self-harm and suicide prediction (AUC 0.81-0.82), while multimodal approaches achieved the highest predictive accuracy (AUC 0.90). In abuse and violence prevention, AI predicted intimate partner violence with an AUC of 0.88 and identified cases before formal disclosure. AI also improved fall risk assessment by accurately categorizing patient risk levels, predicting future falls, and mitigating fall injuries through wearable airbag technology. ML models predicted future sports-related injuries (AUC 0.76-0.84), while identifying modifiable risk factors including workload, strength deficits, prior injury burden, and concussion history.\n\n**CONCLUSION**: ML-based prediction showed promise for risk stratification in self-harm, suicide, intimate partner violence, and recurrent victimization. Additionally, AI predicted fall risk and identified athletes at risk for future sports-related injuries while detecting modifiable risk factors, including workload, prior injury burden, and strength deficits. Although these findings suggest that AI and ML may have potential applications in supporting earlier risk identification, informing targeted prevention strategies, and facilitating more personalized approaches to injury prevention, the limited available evidence warrants careful interpretation.",
+      "journal": "Injury",
+      "authors": [
+        "Othman Y",
+        "Kasabwala D",
+        "Jayagopi K",
+        "Lemoine J",
+        "Park D",
+        "Hamza D",
+        "Elkbuli A"
+      ],
+      "date": "2026 Oct 27",
+      "doi": "10.1016/j.injury.2026.113816",
+      "tier": "filtered",
+      "topics": [
+        "Systems/QI",
+        "TBI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "concussion",
+          "strength": "weak",
+          "topic": "TBI"
+        },
+        {
+          "keyword": "injury prevention",
+          "strength": "strong",
+          "topic": "Systems/QI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42966240/"
+    },
+    {
+      "pmid": "42966239",
+      "title": "Enhanced wound healing potential of a carboxymethyl cellulose/gelatin-based hydrogel containing decellularized amniotic membrane and Matricaria chamomilla extract: A multifunctional composite dressing.",
+      "abstract": "**BACKGROUND**: Chronic wound healing remains a complex biological process influenced by excessive inflammation, oxidative stress, microbial invasion, and insufficient tissue regeneration. Therefore, the design of multifunctional biomaterials that integrate structural support with biological regulation has emerged as a promising strategy in advanced wound care. This study sought to develop a composite hydrogel incorporating decellularized amniotic membrane (dAM)-derived extracellular matrix components alongside Matricaria chamomilla extract, with the goal of achieving enhanced regenerative and therapeutic outcomes.\n\n**METHODS**: A CMC/GEL-Chamomilla-dAM hydrogel was prepared using decellularized dAM and subsequently evaluated in terms of its physicochemical and biological characteristics. The effectiveness of the decellularization process and preservation of ECM components were first examined, followed by characterization of hydrogel morphology, rheological properties, swelling and degradation behavior, and pH stability. Its biological performance was further assessed through hemocompatibility, cytocompatibility, antioxidant, anti-inflammatory, and antibacterial assays, as well as a full-thickness wound model.\n\n**RESULTS**: Incorporation of dAM and chamomile extract resulted in a stable hydrogel with favorable physicochemical and biological characteristics. The decellularization procedure removed 97.9% of the DNA. The resulting composite hydrogel exhibited an average pore size of 78.3\u202f\u00b1\u202f9.8\u202f\u00b5m, and all hydrogel formulations showed hemolysis rates below the 5% threshold accepted for blood-contacting biomaterials, with values ranging from 3.8% to 4.5%. The composite hydrogel also supported enhanced fibroblast viability (109.6\u202f\u00b1\u202f11.3%) and demonstrated antioxidant, anti-inflammatory, and antibacterial activities against wound-associated pathogens. In vivo, treatment with CMC/GEL-Chamomilla-dAM accelerated wound closure (85.7\u202f\u00b1\u202f6.3% at day 14) and supported tissue regeneration, outperforming both the dAM-containing hydrogel (78.9\u202f\u00b1\u202f9.9%) and the commercial DuoDERM dressing (58.9\u202f\u00b1\u202f4.5%), as evidenced by improved re-epithelialization, collagen deposition, angiogenesis, and early signs of tissue remodeling.\n\n**CONCLUSION**: The CMC/GEL-Chamomilla-dAM hydrogel combines a dAM-containing extracellular matrix scaffold with chamomile-derived bioactive compounds, creating a favorable microenvironment for tissue repair. The addition of chamomile extract to the dAM-containing scaffold was associated with improved wound closure and tissue regeneration. While the present study design does not permit a definitive assessment of synergy between dAM and chamomile, these findings support the potential of this formulation as a multifunctional biomaterial platform for advanced wound healing applications.",
+      "journal": "Injury",
+      "authors": [
+        "Zamani S",
+        "Ghorbani M",
+        "Molzemi S",
+        "Farahani MK",
+        "Raei M"
+      ],
+      "date": "2026 Oct 25",
+      "doi": "10.1016/j.injury.2026.113831",
+      "tier": "filtered",
+      "topics": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42966239/"
+    },
+    {
       "pmid": "42962541",
       "title": "Union rate and time to union following platelet-rich plasma therapy in fracture nonunion: A systematic review and meta-analysis.",
       "abstract": "**BACKGROUND**: Fracture nonunion remains a challenging clinical problem associated with prolonged disability and repeated surgical interventions. Platelet-rich plasma (PRP) has been proposed as a biological adjunct to enhance bone healing; however, clinical evidence remains inconsistent. This study aimed to evaluate the effectiveness of PRP in the management of fracture nonunion.\n\n**METHODS**: A systematic review and meta-analysis were conducted in accordance with PRISMA guidelines (PROSPERO Registration: CRD420261366849). PubMed, Embase, and Scopus were searched from inception to March 2026. Studies evaluating PRP in fracture nonunion and reporting union rate or time to union were included. Random-effects meta-analyses were performed to compare PRP with control interventions. Risk ratios (RR) were calculated for union rates and standardized mean differences (SMD) for time to union. Additional single-arm analyses were performed to estimate pooled outcomes in PRP-treated cohorts.\n\n**RESULTS**: Twenty-one studies comprising 877 patients were included. Two comparative studies (n\u202f=\u202f119) demonstrated a higher likelihood of union with PRP (RR 1.17, 95% confidence interval [CI] 1.01-1.36, p\u202f<\u202f0.05) without significant heterogeneity. Six studies (n\u202f=\u202f250) showed no significant difference in time to union between PRP and control groups (SMD -0.72, 95% CI -1.48-0.05), with substantial heterogeneity (I\u00b2 = 85%). In PRP-only analyses, the pooled union rate was 0.86 (95% CI 0.76-0.94; I\u00b2 = 61%) across seven studies (n\u202f=\u202f150), and the pooled mean time to union was 6.08 months (95% CI 4.26-7.90; I\u00b2 = 100%) across eight studies (n\u202f=\u202f187).\n\n**CONCLUSION**: PRP was associated with higher union rates in the limited comparative evidence, although no statistically significant difference in time to union was demonstrated. Heterogeneity in PRP protocols, methodological limitations, and the small comparative evidence base limit the certainty of these findings. PRP may have a potential role as a biological adjunct in fracture nonunion management, but further well-designed randomized controlled trials are required before definitive clinical recommendations can be made.",
@@ -552,7 +662,7 @@
         "Coimbra R"
       ],
       "date": "2026 Oct 29",
-      "doi": "10.1111/hae.14557",
+      "doi": "10.1007/s00068-026-03375-2",
       "tier": "core",
       "topics": [
         "General Trauma",
@@ -981,7 +1091,7 @@
         "Sanchez M"
       ],
       "date": "2026 Oct 29",
-      "doi": "10.1007/978-3-030-16399-0",
+      "doi": "10.1007/s00068-026-03374-3",
       "tier": "core",
       "topics": [
         "General Trauma",
@@ -4614,8 +4724,8 @@
     },
     {
       "pmid": "42901371",
-      "title": "Fatigue, Anxiety and Depression 12 Months After Out-of-Hospital Cardiac Arrest: A Population Based Cohort Study.",
-      "abstract": "**AIM**: To determine the prevalence and factors associated with fatigue, anxiety, and depression 12 months after out-of-hospital cardiac arrest (OHCA); examine their associations with health-related quality of life (HRQoL) and functional recovery; and compare symptom burden with population norms.\n\n**METHODS**: This prospective, population-based cohort study included adults (\u226518 years) who received EMS-attempted resuscitation and survived to hospital discharge following non-traumatic OHCA in Victoria, Australia, between July 2019 and June 2022. Survivors were identified from a statewide OHCA registry and completed a 12-month telephone interview. Primary outcomes were fatigue (Modified Fatigue Impact Scale), anxiety and depression (Hospital Anxiety and Depression Scale). Secondary outcomes included HRQoL (EQ-5D, SF-12), functional recovery (GOSE), living arrangement, and return to work.\n\n**RESULTS**: Of 1068 eligible 12-month survivors, 728 (68.2%) completed follow-up (median age 61 years; 555 [76.2%] male). Fatigue was reported by 35.8% (250/699), anxiety by 22.6% (162/716), and depression by 18.0% (129/716). Higher symptom burden was associated with lower EQ-5D and SF-12 scores, worse GOSE outcomes (all p<0.001) and reduced return-to-work rates. Compared with population norms, survivors reported greater fatigue (SMD 0.64; 95%CI, 0.50-0.78;p<0.001), and depression (SMD, 0.12; 95%CI, 0.02,0.21;p=0.02) but lower anxiety (SMD, -0.27; 95%CI, -0.35 to -0.18;p<0.001). In adjusted models, younger age, preexisting anxiety or depression, diabetes and initial non-shockable arrest were associated with higher symptom burden, whereas EMS-witnessed arrests were associated with lower symptom burden.\n\n**CONCLUSIONS**: Fatigue, anxiety, and depression were common at 12 months after OHCA and are associated with poorer recovery. Fatigue exceeded population norms and may be an under-recognised component of cardiac arrest survivorship.",
+      "title": "Fatigue, anxiety and depression 12 months after out-of-hospital cardiac arrest: a population based cohort study.",
+      "abstract": "**AIM**: To determine the prevalence and factors associated with fatigue, anxiety, and depression 12\u00a0months after out-of-hospital cardiac arrest (OHCA); examine their associations with health-related quality of life (HRQoL) and functional recovery; and compare symptom burden with population norms.\n\n**METHODS**: This prospective, population-based cohort study included adults (\u226518\u00a0years) who received EMS-attempted resuscitation and survived to hospital discharge following non-traumatic OHCA in Victoria, Australia, between July 2019 and June 2022. Survivors were identified from a statewide OHCA registry and completed a 12-month telephone interview. Primary outcomes were fatigue (Modified Fatigue Impact Scale), anxiety and depression (Hospital Anxiety and Depression Scale). Secondary outcomes included HRQoL (EQ-5D, SF-12), functional recovery (GOSE), living arrangement, and return to work.\n\n**RESULTS**: Of 1068 eligible 12-month survivors, 728 (68.2%) completed follow-up (median age 61\u00a0years; 555 [76.2%] male). Fatigue was reported by 35.8% (250/699), anxiety by 22.6% (162/716), and depression by 18.0% (129/716). Higher symptom burden was associated with lower EQ-5D and SF-12 scores, worse GOSE outcomes (all p\u00a0<\u00a00.001) and reduced return-to-work rates. Compared with population norms, survivors reported greater fatigue (SMD 0.64; 95%CI, 0.50-0.78; p\u00a0<\u00a00.001), and depression (SMD, 0.12; 95%CI, 0.02-0.21; p\u00a0=\u00a00.02) but lower anxiety (SMD, -0.27; 95%CI, -0.35 to -0.18; p\u00a0<\u00a00.001). In adjusted models, younger age, preexisting anxiety or depression, diabetes and initial non-shockable arrest were associated with higher symptom burden, whereas EMS-witnessed arrests were associated with lower symptom burden.\n\n**CONCLUSIONS**: Fatigue, anxiety, and depression were common at 12\u00a0months after OHCA and are associated with poorer recovery. Fatigue exceeded population norms and may be an under-recognised component of cardiac arrest survivorship.",
       "journal": "Resuscitation",
       "authors": [
         "Okyere DO",
@@ -4644,7 +4754,7 @@
     {
       "pmid": "42901370",
       "title": "Regional implementation of a prehospital advanced life support program with video-assisted physician direction and outcomes after out-of-hospital cardiac arrest.",
-      "abstract": "**BACKGROUND**: The smart advanced life support (SALS) program was introduced to provide prehospital advanced life support under real-time video-assisted physician direction for out-of-hospital cardiac arrest (OHCA). This study evaluated the association between regional SALS implementation and OHCA outcomes.\n\n**METHODS**: This retrospective cohort study used difference-in-differences and event-study analyses with data from the OHCA surveillance system in South Korea and included adult OHCA cases (aged \u226519 years) from 2 years before through 4 years after SALS implementation in August 2015. The exposure was region-level implementation of SALS. Outcomes were the prehospital time interval, prehospital return of spontaneous circulation (ROSC), survival to discharge, and favorable neurological outcome. Pre- to post-implementation changes were compared between regions with and without SALS.\n\n**RESULTS**: A total of 129,207 cases were included. SALS regions had greater increases in the prehospital time interval (4.12 minutes; 95% confidence interval [CI], 2.91 to 5.33) and prehospital ROSC (1.35 percentage points; 95% CI, 0.56 to 2.15) than regions without SALS. No significant additional improvements were observed in survival to discharge (-0.35 percentage points; 95% CI, -1.31 to 0.62) or favorable neurological outcome (-0.35 percentage points; 95% CI, -1.08 to 0.37). Event-study analyses suggested differential pre-intervention trends for prehospital time, but not for the other outcomes.\n\n**CONCLUSION**: SALS regions showed greater increases in prehospital time and prehospital ROSC without significant improvements in survival to discharge or favorable neurological outcome, but the finding for prehospital time should be interpreted cautiously because differential pre-intervention trends were observed.",
+      "abstract": "**BACKGROUND**: The smart advanced life support (SALS) program was introduced to provide prehospital advanced life support under real-time video-assisted physician direction for out-of-hospital cardiac arrest (OHCA). This study evaluated the association between regional SALS implementation and OHCA outcomes.\n\n**METHODS**: This retrospective cohort study used difference-in-differences and event-study analyses with data from the OHCA surveillance system in South Korea and included adult OHCA cases (aged \u226519\u00a0years) from 2\u00a0years before through 4\u00a0years after SALS implementation in August 2015. The exposure was region-level implementation of SALS. Outcomes were the prehospital time interval, prehospital return of spontaneous circulation (ROSC), survival to discharge, and favorable neurological outcome. Pre- to post-implementation changes were compared between regions with and without SALS.\n\n**RESULTS**: A total of 129,207 cases were included. SALS regions had greater increases in the prehospital time interval (4.12\u00a0min; 95% confidence interval [CI], 2.91-5.33) and prehospital ROSC (1.35 percentage points; 95% CI, 0.56-2.15) than regions without SALS. No significant additional improvements were observed in survival to discharge (-0.35 percentage points; 95% CI, -1.31 to 0.62) or favorable neurological outcome (-0.35 percentage points; 95% CI, -1.08 to 0.37). Event-study analyses suggested differential pre-intervention trends for prehospital time, but not for the other outcomes.\n\n**CONCLUSION**: SALS regions showed greater increases in prehospital time and prehospital ROSC without significant improvements in survival to discharge or favorable neurological outcome, but the finding for prehospital time should be interpreted cautiously because differential pre-intervention trends were observed.",
       "journal": "Resuscitation",
       "authors": [
         "Choi Y"
