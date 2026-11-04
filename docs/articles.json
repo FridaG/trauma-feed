@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-03T01:55:46.617170Z",
-  "total_articles": 227,
+  "generated": "2026-11-04T00:16:51.467860Z",
+  "total_articles": 229,
   "all_topics": [
     "Abdominal",
     "Burns",
@@ -379,6 +379,457 @@
   },
   "articles": [
     {
+      "pmid": "42976244",
+      "title": "Transcutaneous Pacing in the Prehospital Setting - A Retrospective Cohort Study of Electrical Capture.",
+      "abstract": "**OBJECTIVES**: Transcutaneous pacing (TCP) treats hemodynamically unstable bradycardia refractory to pharmacologic management. Effective TCP requires electrical and mechanical capture to augment perfusion. Little is known about prehospital TCP and capture incidence.\n\n**METHODS**: We conducted a retrospective cohort study of patients treated with prehospital TCP by an emergency medical services agency between 2017 and 2024. Continuous ECG recordings from cardiac monitors were reviewed. Electrical capture was the primary outcome, defined as a widened QRS with a distinct T wave following a TCP spike. Secondary measures included capture duration, clinician-verbalized pulse during pacing, plethysmograph waveform alignment, and changes in systolic blood pressure (SBP), pulse oximetry, and end-tidal carbon dioxide.\n\n**RESULTS**: Fifty-six patients received attempted TCP. Median age was 70 years (interquartile range [IQR] 58-85), and 34% were female. Cardiopulmonary resuscitation (CPR) was administered in 59% of patients. Electrical capture was achieved in 18 patients (32%). Among patients who achieved electrical capture, complete capture occurred a mean of 27.2% (standard deviation 30.5%) of attempted pacing duration. The median SBP change was +22.0 (IQR: -2-82) mmHg in patients with electrical capture and 0.0 (IQR: -29-7) mmHg in those with only rare-to-absent capture (\n\n**CONCLUSIONS**: Electrical capture during prehospital TCP occurred in a minority of patients and was often intermittent. Prehospital identification of mechanical capture using routine clinical indicators was difficult and unreliable. Future work should standardize capture definitions and physiologic measurements to determine when TCP produces clinically meaningful perfusion.",
+      "journal": "Prehosp Emerg Care",
+      "authors": [
+        "Hershkowitz MN",
+        "Kniest LJ",
+        "Davis-Allen P",
+        "Mohamed IA",
+        "Counts CR",
+        "Murphy DL",
+        "Walker RG",
+        "Taylor TG",
+        "Dinh D",
+        "Maynard CC",
+        "Kudenchuk PJ",
+        "Rea TD",
+        "Sayre MR"
+      ],
+      "date": "2026 Nov 03",
+      "doi": "10.1080/10903127.2026.2756599",
+      "tier": "filtered",
+      "topics": [
+        "Prehospital"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "prehospital",
+          "strength": "strong",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42976244/"
+    },
+    {
+      "pmid": "42976233",
+      "title": "The Accuracy and Precision of Gravity-Driven Infusions.",
+      "abstract": "**OBJECTIVES**: When infusion pumps are unavailable in the prehospital setting, clinicians must estimate fluid flow by counting drops in a drip chamber. We aimed to assess the accuracy and precision of gravity-driven infusions and to estimate the magnitude of inaccuracy and imprecision attributable to human and non-human factors.\n\n**METHODS**: We recruited 55 paramedics to participate in structured, experimental, simulated study under controlled laboratory conditions, in which each participant set nine drip rates as accurately as possible on a standardized setup. Measurements of flow were made visually (drip rate) and volumetrically (delivered fluid). Volumetric measurements were used to represent overall error, visual measurements were used to represent human error, and the difference was used to represent non-human error. We measured accuracy (percentage error) and precision (mean absolute deviation) using the natural log of error factor to represent the multiplicative decomposition of human and non-human error additively. Mixed effect models were used to assess accuracy and precision across targeted drip rates.\n\n**RESULTS**: Inaccuracy and imprecision varied by targeted drip rate. Overall inaccuracy ranged from -45.3% (95%CI, -52.7% to -36.8%) to 5.8% (95%CI, -8.5% to 22.3%). Human inaccuracy ranged from -38.8% (95%CI, -46.0% to -30.8%) to 44.1% (95%CI, 27.1% to 63.4%). Non-human inaccuracy ranged from -26.7% (95%CI, -30.1% to -23.2%) to -6.8% (95%CI -11.1% to -2.3%). Imprecision was primarily driven by human factors. The degree of human variation between trial participants ranged from 24.2% (95%CI, 15.3% to 33.7%) to 43.7% (95%CI, 33.4% to 54.9%) across targeted rates. The targeted drip rate of 1gtt/s was more accurate than the pool of all other targeted rates (absolute error 31.1% versus 48.5%). Targeted drip rates of whole numbers were more accurate than targeted drip rates of fractional numbers (absolute error 40.7% versus 54.1%). Targeted drip rates below 1gtt/s were more accurate than rates above 1gtt/s (absolute error 35.3% versus 63.1%).\n\n**CONCLUSIONS**: Gravity-driven fluid delivery exhibits inaccuracy and imprecision, which varies by targeted rate. While potentially modifiable human factors may improve the accuracy of this technique, non-human error contributes substantially to inaccuracy. There is a need to assess whether this inaccuracy and imprecision adversely affect patient outcomes.",
+      "journal": "Prehosp Emerg Care",
+      "authors": [
+        "Spigner MF",
+        "Shank C",
+        "Horowitz M",
+        "Sayre M",
+        "Lohmeier M",
+        "Tschautscher C",
+        "Shah MN",
+        "Gussick M"
+      ],
+      "date": "2026 Nov 03",
+      "doi": "10.1080/10903127.2026.2757796",
+      "tier": "filtered",
+      "topics": [
+        "Prehospital"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "prehospital",
+          "strength": "weak",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42976233/"
+    },
+    {
+      "pmid": "42975679",
+      "title": "Fixation of patellar fractures using bioabsorbable hydroxyapatite/poly-L-lactide cannulated screws and subperiosteal nonabsorbable sutures.",
+      "abstract": "**INTRODUCTION**: Bioabsorbable implants offer a promising alternative to metallic fixation for patellar fractures, potentially avoiding hardware-related complications. In 2023, a new generation of bioabsorbable hydroxyapatite/poly-L-lactide (HA/PLLA) cannulated screws was introduced, featuring a low-profile (2\u00a0mm) trident-shaped head and increased root diameter for enhanced strength. This study evaluates the clinical outcomes of a surgical technique combining these redesigned screws with subperiosteal nonabsorbable sutures.\n\n**MATERIALS AND METHODS**: Between April 2023 and May 2025, 19 consecutive patients with transverse patellar fractures (AO/OTA 34-C1/C2) underwent open reduction and internal fixation. Two bioabsorbable cannulated screws were used. High-strength nonabsorbable sutures were passed through the screw channels and a central bone tunnel using a double-loop sliding knot for compression. The sutures were systematically routed subperiosteally to minimize tissue irritation. Full weight-bearing with a brace began on postoperative day one. Clinical and radiographic outcomes were assessed. This study was approved by the institutional review board of Kainan Hospital.\n\n**RESULTS**: The mean maximum articular surface gap was 8.7\u2009\u00b1\u20095.2\u00a0mm. The mean follow-up was 8.6\u2009\u00b1\u20093.0 months. Bone union was achieved in all cases. At the final follow-up, the mean knee flexion was 138.7\u00b0 \u00b1 13.0\u00b0 and extension was -\u20091.6\u00b0 \u00b1 3.4\u00b0. No postoperative complications, including infection, loss of reduction, screw breakage, or symptomatic hardware irritation, were observed during the follow-up period. No reoperations were required during the follow-up period.\n\n**CONCLUSIONS**: All patients achieved bone union. No major complications or reoperations were observed during the follow-up period. These preliminary findings suggest that this technique may be feasible for transverse patellar fractures.",
+      "journal": "Eur J Trauma Emerg Surg",
+      "authors": [
+        "Kobayashi M",
+        "Usami T",
+        "Takada N",
+        "Iwata H",
+        "Murakami H",
+        "Katsuragawa R",
+        "Kuroyanagi G"
+      ],
+      "date": "2026 Nov 03",
+      "doi": "10.1002/(sici)1097-4636(19991205)47:3<412::aid-jbm17>3.0.co;2-b",
+      "tier": "core",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42975679/"
+    },
+    {
+      "pmid": "42975542",
+      "title": "Two Decades of Neurosurgical Device Innovation: A Comprehensive Analysis of FDA Authorization Trends From 7800 Approvals by Subspecialty, Regulatory Pathway, and Approval Time.",
+      "abstract": "**BACKGROUND AND OBJECTIVES**: Technological progress has accelerated neurosurgical care, yet a panoramic view of these innovations remains lacking. This study aims to analyze all US Food and Drug Administration (FDA) authorizations issued from 2000 to 2023 to map neurosurgical device output by subspecialty, compare regulatory pathways and approval times, and identify factors affecting market entry.\n\n**METHODS**: All devices cleared or approved by the FDA Neurology and Orthopedic Review Panels (January 2000-December 2023) were extracted from publicly available 510(k), De Novo, Humanitarian Device Exemption, and Premarket Approval databases. Devices were assigned to 1 of 9 neurosurgical subspecialties and stratified by regulatory pathway, device class, company maturity, and geographic origin. Descriptive statistics, analysis of variance, and Welch t-tests assessed temporal and categorical differences.\n\n**RESULTS**: Of 16\u2009064 devices reviewed by the FDA Neurology and Orthopedic panels, 7873 (49.0%) were neurosurgical, rising 172.1% over the period. Spine and peripheral nerve (5227 devices) and stereotactic and functional (1378) dominated volume and number of new market entries, while cerebrospinal fluid disorders (n = 149) and cranial trauma (n = 111) had fewer approvals. Cerebrovascular and endovascular (95.5%) and cranial trauma (200.0%) showed the largest growth rates, while cerebrospinal fluid disorders (-54.2%) and general cranial surgery (-34.5%) declined over time. Mean approval time varied by subspecialty (P < .001), the shortest for spine and peripheral nerve (119.0 \u00b1 102.7 days) and the longest for stereotactic and functional (158.7 \u00b1 121.5 days). Approval or clearance times were strongly influenced by regulatory pathway and device class (both P < .001), with Premarket Approval devices (584.8 \u00b1 323.3 days) the longest. Mature companies achieved faster approvals compared with startups (114.9 \u00b1 97.0 vs 174.5 \u00b1 133.9 days, P < .001).\n\n**CONCLUSION**: Neurosurgical device output has more than doubled, but volume concentrates where predicates are rich and reimbursement established, not where clinical need or novelty is the greatest. Pathway architecture, device complexity, and sponsor experience influence approval efficiency more than novelty.",
+      "journal": "Neurosurgery",
+      "authors": [
+        "Fuleihan AA",
+        "Menta AK",
+        "Theodore JN",
+        "Hersh AM",
+        "Kramer P",
+        "Azad TD",
+        "Judy B",
+        "Lee RP",
+        "Zambelli-Weiner A",
+        "Yazdi Y",
+        "Khalessi AA",
+        "Theodore N"
+      ],
+      "date": "2026 Nov 03",
+      "doi": "10.1227/neu.0000000000004269",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42975542/"
+    },
+    {
+      "pmid": "42972582",
+      "title": "Coagulopathy and anticoagulation management in adult ECPR patients.",
+      "abstract": "Extracorporeal cardiopulmonary resuscitation (ECPR) has emerged as a lifesaving strategy for refractory cardiac arrest, restoring systemic perfusion when conventional cardiopulmonary resuscitation fails. However, ECPR profoundly disrupts haemostasis, driven by the combined effects of whole-body ischaemia-reperfusion injury, systemic inflammation, endothelial activation, platelet dysfunction, and blood contact with extracorporeal surfaces. Together, these processes create a highly dynamic and unstable thromboinflammatory milieu, marked by the simultaneous risk of thrombosis and life-threatening bleeding. Systemic anticoagulation is required to maintain circuit patency and prevent thromboembolic complications, yet optimal strategies remain uncertain. Haemostasis during ECPR is highly dynamic, shaped by the underlying aetiology of cardiac arrest, patient-specific characteristics, and circuit-related factors. This complexity underscores the limitations of fixed anticoagulation targets and the need for individualized, context-sensitive management guided by continuous clinical and laboratory assessment. Despite the increasing global adoption of ECPR, high-quality evidence to guide anticoagulation practices remains scarce. Current strategies are largely extrapolated from other extracorporeal life support populations, contributing to substantial inter-centre variability. This review synthesizes the available evidence on coagulopathy and anticoagulation in adult patients receiving ECPR and discusses emerging approaches to monitoring and anticoagulation management.",
+      "journal": "Crit Care",
+      "authors": [
+        "Rajsic S",
+        "Lansink-Hartgring AO",
+        "Swol J",
+        "van den Bergh WM",
+        "Cvetkovic M",
+        "Roeleveld PP",
+        "Willems A",
+        "Putzer G",
+        "Buchtele N",
+        "Thakuria L",
+        "Akhtar W",
+        "Rosenberg A",
+        "Belliato M",
+        "B\u011blohl\u00e1vek J",
+        "Vandenbriele C"
+      ],
+      "date": "2026 Aug 01",
+      "doi": "10.1093/eurheartjsupp/suad070",
+      "tier": "filtered",
+      "topics": [
+        "Cardiac Arrest"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "ECPR",
+          "strength": "strong",
+          "topic": "Cardiac Arrest"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42972582/"
+    },
+    {
+      "pmid": "42972456",
+      "title": "Assessing Swedish guidelines for prehospital bleeding control: a cross-sectional appraisal using AGREE II.",
+      "abstract": "**BACKGROUND**: High-quality clinical practice guidelines are essential for safe and consistent prehospital bleeding control, particularly in settings with variable geography and transport times. This study appraised the methodological quality of Swedish regional prehospital guidelines for traumatic external haemorrhage using the AGREE II instrument.\n\n**METHODS**: This cross-sectional study included clinical practice guidelines requested from all 21 Swedish healthcare regions. Guideline quality was assessed independently by two appraisers using AGREE II, which evaluates 23 items across six domains. Domain scores were calculated as percentages of the maximum possible score.\n\n**RESULTS**: Complete responses were obtained from 15 of 21 regions. Overall methodological quality was low across the included guidelines. The highest median domain score was observed for clarity of presentation, whereas rigour of development, stakeholder involvement, applicability, and editorial independence scored poorly. Most guidelines lacked explicit descriptions of evidence search strategies, criteria for selecting evidence, links between recommendations and supporting evidence, update procedures, and declarations of editorial independence.\n\n**CONCLUSIONS**: Swedish regional prehospital guidelines for traumatic external bleeding control showed limited methodological quality when assessed using AGREE II. Future guideline development should prioritise transparent evidence linkage, multidisciplinary stakeholder involvement, clear implementation considerations, scheduled updating, and adaptation to regional differences in transport and evacuation times.\n\n**TRIAL REGISTRATION**: Not applicable.",
+      "journal": "Scand J Trauma Resusc Emerg Med",
+      "authors": [
+        "Gifting W",
+        "Johansson L",
+        "Andersson Hagiwara M",
+        "Hedelin H"
+      ],
+      "date": "2026 Oct 30",
+      "doi": "10.1111/j.1553-2712.2011.01281.x",
+      "tier": "core",
+      "topics": [
+        "General Trauma",
+        "Prehospital"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "traumatic",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "prehospital",
+          "strength": "strong",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42972456/"
+    },
+    {
+      "pmid": "42972430",
+      "title": "Differentiated effect of hypothermia versus normothermia after cardiac arrest by neurological status and clinical correlates of ischemic burden.",
+      "abstract": "**INTRODUCTION**: The optimal temperature target after out-of-hospital cardiac arrest (OHCA) remains uncertain, as major randomized trials have not demonstrated a clear benefit of lower-target hypothermia compared with normothermia. Despite this, patients with differing degrees of ischemic burden or early neurological injury may hypothetically respond differently to temperature targets, raising the possibility of heterogeneous treatment effects. This study aimed to determine whether outcomes differ after OHCA with 33\u00a0\u00b0C versus controlled normothermia (36.0-37.7\u00a0\u00b0C) according to correlates of ischemic burden and neurological findings at hospital admission.\n\n**METHODS**: This secondary analysis of the TTM and TTM2 trials employed effect-based machine learning to probe for heterogeneous treatment effects. Causal forests and Bayesian additive regression trees (BART) estimated individualized treatment effects (ITE) based on ischemia duration, prehospital factors, and neurological examination findings at hospital admission. Treatment effect modifier variable importance parameter (TEM-VIP) analysis ranked the baseline variables most likely to modify effect. The primary outcome was six-month all-cause mortality, and the secondary outcome was poor functional outcome (modified Rankin scale score 4-6). Primary analyses evaluated potential heterogeneity within each trial, while secondary analyses pooled all participants.\n\n**MEASUREMENTS AND MAIN RESULTS**: All 2789 adult OHCA patients from the trials' primary analyses were included (median age 65 years (IQR 56-73), 79.9% male). Death occurred in 49.4% of patients in the 33\u00a0\u00b0C group, and in 47.9% in the controlled normothermia group. Variation in six-month mortality ITEs estimated from ischemic burden correlates and initial neurological findings was minimal, and no significant heterogeneity of treatment effect was identified across all methods and analysis populations. In the pooled analysis, estimated conditional mean mortality risk difference ranged from -\u20091.2% to 2.1% in causal forest (p\u2009=\u20090.99), and from -\u20090.5% to 1.5% in BART, with posterior probabilities for hypothermia benefit ranging from 42% to 53%. Absolute subgroup estimates in TEM-VIP analysis were small and non-significant. Results were consistent for the six-month functional outcome.\n\n**CONCLUSIONS**: Among TTM and TTM2 participants randomized to 33\u00a0\u00b0C versus controlled normothermia post-OHCA, no evidence of detectable heterogeneity of treatment effect based on available clinical correlates of ischemic burden or initial neurological findings was identified, with minimal estimated variation in treatment effect.",
+      "journal": "Crit Care",
+      "authors": [
+        "Lileikyte G",
+        "Marinho LL",
+        "Lu Y",
+        "Boileau P",
+        "Moseby-Knappe M",
+        "Spicer A",
+        "Dankiewicz J",
+        "Lilja G",
+        "Wise MP",
+        "Schrag C",
+        "Aneman A",
+        "Haenggi M",
+        "Grejs AM",
+        "Horn J",
+        "Stammet P",
+        "Jakobsen JC",
+        "Kjaergaard J",
+        "Rylander C",
+        "Harhay MO",
+        "Churpek MM",
+        "Nielsen N",
+        "Lawler PR"
+      ],
+      "date": "2026 Nov 02",
+      "doi": "10.1007/s00134-016-4349-9",
+      "tier": "filtered",
+      "topics": [
+        "Prehospital"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "prehospital",
+          "strength": "weak",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42972430/"
+    },
+    {
+      "pmid": "42972366",
+      "title": "Current models of emergency general surgery care delivery in Manitoba, Canada: a cross-sectional survey.",
+      "abstract": "**BACKGROUND**: Emergency general surgery conditions result in disproportionately high rates of morbidity and mortality. Despite this, little is known about the resources available for related care in Canadian hospitals. Our aim was to describe the resources and structures dedicated to emergency general surgery in Manitoba, Canada.\n\n**METHODOLOGY**: We developed a survey to examine institutional capabilities in providing emergency general surgical care. The survey was developed over three iterations using a modified Delphi technique and was then reviewed separately by community surgeons to ensure broad applicability. A cross-sectional survey of representatives at each of the fourteen hospitals reported to offer emergency general surgery care in Manitoba was performed in two iterations between March and December 2023. Findings were examined descriptively and stratified between tertiary, urban, and rural centres. Our aim was to describe the resources and structures in place for providing related care, including the proportion of hospitals with a dedicated emergency general surgery care model.\n\n**RESULTS**: After exclusions and non-responses, we examined the resources and capabilities of nine institutions. Two tertiary, two urban community, and five rural community centres were evaluated. Of these institutions, 4/9 (44.4%) had an emergency general surgery model of care, including one rural centre. There was a large degree of variation in operative resources, specialty services, and physician learners between centre types. Allied health professionals were more consistently available across hospitals. Our survey results identified several pertinent gaps in care, including a lack of shared treatment protocols, transfer agreements, and quality improvement measures, even at large tertiary centres.\n\n**CONCLUSIONS**: This study demonstrates a pressing need for collaboration between centres and involvement in quality improvement amongst practitioners to meet standards of care in emergency general surgery. The results also show that important aspects of emergency general surgical care can be quantified with our survey and will serve as the basis for expanding this to a country-wide study.",
+      "journal": "World J Emerg Surg",
+      "authors": [
+        "Garland C",
+        "Aldekhayel M",
+        "Garland A",
+        "Logsetty S",
+        "Spiwak R",
+        "Gomez D",
+        "Gillman L",
+        "Vogt K",
+        "Miles P",
+        "Nantais J"
+      ],
+      "date": "2026 Nov 02",
+      "doi": "10.1016/j.jbi.2019.103208",
+      "tier": "core",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42972366/"
+    },
+    {
+      "pmid": "42971829",
+      "title": "Impact of the provider-in-triage model on computed tomography and ultrasound imaging in renal colic.",
+      "abstract": "**INTRODUCTION**: Physician-in-Triage (PIT) models may influence diagnostic imaging decisions in the emergency department (ED). We evaluated the association between PIT exposure and imaging utilization among patients with renal colic and examined the influence of physician ultrasound training on imaging selection.\n\n**METHODS**: We conducted a retrospective cohort study of adults with an ED diagnosis of renal colic at a single tertiary ED from January 2024 through December 2025. A prespecified lower-risk subgroup included patients aged <51\u202fyears with prior nephrolithiasis, no infection, and normal creatinine. The primary exposure was PIT evaluation. Outcomes included computed tomography of the abdomen and pelvis (CTAP), point-of-care ultrasound (POCUS), and radiology-performed renal ultrasound (RUS) utilization. Multivariable logistic regression was used to evaluate the association between PIT exposure and each imaging outcome after adjustment for age, gender, emergency severity index, admission, and race.\n\n**RESULTS**: Of 1041 patients, 596 (57.3%) were exposed to PIT. CTAP utilization was higher among PIT-exposed patients than non-PIT patients (72.9% vs 66.1%; adjusted odds ratio [aOR] 1.40, 95% confidence interval [CI] 1.07-1.85). PIT exposure was associated with lower POCUS utilization (10.3% vs 18.6%; aOR 0.49, 95% CI 0.34-0.70), while RUS utilization was similar (10.1% vs 9.0%; aOR 1.17, 95% CI 0.76-1.79). Overall ultrasound utilization (POCUS or RUS) was also lower among PIT-exposed patients (20.1% vs 26.7%; aOR 0.69, 95% CI 0.51-0.93). In the lower-risk subgroup, PIT exposure remained associated with greater CTAP utilization (63.6% vs 48.1%, p\u202f=\u202f0.028) and lower POCUS utilization (14.4% vs 30.4%, p\u202f=\u202f0.008). Ultrasound-trained attendings used CTAP less frequently than non-ultrasound-trained attendings (57.8% vs 71.8%; aOR for non-ultrasound-trained physicians 1.86, 95% CI 1.18-2.93).\n\n**CONCLUSION**: PIT exposure was associated with greater CTAP and lower ultrasound utilization in patients with renal colic, including among a prespecified lower-risk cohort. Ultrasound-trained physicians used ultrasound more frequently and CTAP less frequently in renal colic patients.",
+      "journal": "Am J Emerg Med",
+      "authors": [
+        "Thom C",
+        "Mullins C",
+        "Spirek B",
+        "Moak J"
+      ],
+      "date": "2026 Oct 27",
+      "doi": "10.1016/j.ajem.2026.10.035",
+      "tier": "filtered",
+      "topics": [
+        "Imaging"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "POCUS",
+          "strength": "weak",
+          "topic": "Imaging"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42971829/"
+    },
+    {
+      "pmid": "42971311",
+      "title": "Long-Term Survival Following Extracorporeal Cardiopulmonary Resuscitation: A Two-Center Five-Year Analysis.",
+      "abstract": "Randomized trials have shown short-term benefit of extracorporeal cardiopulmonary resuscitation (ECPR) for refractory out-of-hospital cardiac arrest (OHCA), but the long-term durability of survival and neurological recovery after hospital discharge remains poorly defined. We performed a retrospective cohort study of consecutive patients discharged alive after ECPR for refractory VT/VF OHCA from two academic centers (University of Minnesota, USA, and Charles University, Prague) from January 2013 through December 2022. The primary outcome was 5-year survival. Secondary outcomes included neurological status by Cerebral Performance Category (CPC) and associations of age and discharge disposition with long-term outcomes. Among 728 patients treated with ECPR, 211 (29.0%) survived to discharge; 138 from Minnesota and 73 from Prague. Median follow-up was 3.9 years; 68 patients (32%) completed 5 years. No patients were lost to follow-up. Among hospital survivors, 76.9% and 67.2% were alive at 1 and 5 years, respectively, with most deaths occurring within 90 days of discharge. CPC 1-2 was present in 78.7% at discharge and remained high among survivors beyond 1 year (93.4%-94.2%). Five-year survival declined by age from 91.6% for those between 18-39 years to 52.9% for >70 years. Discharge disposition also strongly stratified long-term prognosis. Among patients discharged alive after ECPR for refractory OHCA, long-term survival was substantial, with approximately two-thirds alive at 5 years with favorable CPC in most. Younger age and discharge home or to acute rehabilitation identified subgroups with particularly favorable prognosis. These findings support the long-term durability of benefit among selected patients treated within established ECPR systems of care.",
+      "journal": "Resuscitation",
+      "authors": [
+        "Alexy T",
+        "Beery J",
+        "Gottula AL",
+        "Daniel R",
+        "Svitekova K",
+        "Sumzin N",
+        "Kalra R",
+        "Bruen C",
+        "Elliott A",
+        "Gurevich S",
+        "Yannopoulos NJ",
+        "Bartos JA",
+        "Belohlavek J",
+        "Yannopoulos D"
+      ],
+      "date": "2026 Nov 02",
+      "doi": "10.1016/j.resuscitation.2026.111379",
+      "tier": "filtered",
+      "topics": [
+        "Cardiac Arrest"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "ECPR",
+          "strength": "weak",
+          "topic": "Cardiac Arrest"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42971311/"
+    },
+    {
+      "pmid": "42970960",
+      "title": "Pediatric flexor tendon injuries: A 13-year retrospective review of injury characteristics, treatment, and outcomes.",
+      "abstract": "**BACKGROUND**: Pediatric flexor tendon injuries are rare but potentially devastating. Due to low incidence, optimal perioperative management remains poorly defined, and evidence is scarce. This study evaluates the injury characteristics, surgical treatment, age-specific functional outcomes, and challenges in this population.\n\n**METHODS**: A retrospective review was conducted on 79 pediatric patients (mean age 6.84\u202f\u00b1\u202f4.27 years; 67.1% male) who underwent surgical repair for flexor tendon lacerations between 2010 and 2023. Outcomes were assessed using Total Active Motion (TAM), Strickland score, grip/pinch strength, Semmes-Weinstein monofilament, two-point discrimination, and QuickDASH questionnaire, with a mean follow-up of 59.9\u202f\u00b1\u202f32.8 months.\n\n**RESULTS**: Zone 2 was the most common injury site (45.6%), with glass being the predominant mechanism (67.1%). Nerve injury was present in 35.4% of cases. Overall, good/excellent results were achieved in 81.9% (TAM) and 89.0% (Strickland) of patients. The 0-5 years age group had significantly lower Strickland scores than the 6-12 years group (74.28% vs. 82.9%, p\u202f<\u202f0.05). Zone 5 injuries demonstrated significantly better outcomes than Zone 2 and 3 (p\u202f<\u202f0.001). The overall complication rate was low (5.1%), with a rerupture rate of 2.5%.\n\n**CONCLUSION**: Pediatric flexor tendon repairs yield favorable functional outcomes with low complication rates. Age-related differences in functional outcomes should be interpreted cautiously because of developmental differences in patient cooperation and age-dependent rehabilitation strategies. Concomitant nerve injury was associated with poorer functional outcomes. The modified Kessler technique remains a reliable repair method.",
+      "journal": "Injury",
+      "authors": [
+        "\u0130brahimov J",
+        "Bag\u0131r M",
+        "Bolat \u0130",
+        "Kocaer \u00d6",
+        "Bozkurt O"
+      ],
+      "date": "2026 Oct 22",
+      "doi": "10.1016/j.injury.2026.113798",
+      "tier": "filtered",
+      "topics": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42970960/"
+    },
+    {
+      "pmid": "42970959",
+      "title": "Limb preservation and optimization: A whole-patient approach to comprehensive care after catastrophic extremity injuries.",
+      "abstract": "**INTRODUCTION**: The objective of this study was to describe the Limb Preservation and Optimization Center's (LPOC) components and mechanisms in treating catastrophic extremity injuries and report the initial patient demographics, indications, and outcomes using data from an established registry.\n\n**METHODS**: A retrospective observational study was performed including all patients entered in the LPOC registry since January 1, 2014. Patient demographics, injury types and treatments, and outcomes, including functional outcomes. Descriptive statistics were calculated to determine proportions, means, standard deviations, and ranges.\n\n**RESULTS**: 992 patients were included with a mean final follow-up of 20.5 months (SD:22.1, range 0-114); 178 (17.9%) underwent an amputation. Of those who reported RTW, 164 patients (71.6%) reporting RTW at full capacity. Lower extremity injuries were most common (74.9%). Demographic, health insurance, living setting, and presentation variables were similar among LPOC patients. Fractures and soft tissue injuries predominated across all injury categories with fracture fixation and wound coverage treatments most common. Upper extremity joint injuries and all types of combined injuries were associated with the highest reoperation rates. Treatment failure rates ranged from 11% to 100% with fracture and bone-related injuries being associated with the most favorable outcomes across categories.\n\n**DISCUSSION**: Fractures and soft tissue injuries were the primary types of problems affecting all patients utilizing the LPOC. Fracture fixation and wound coverage treatments were the most performed procedures. Return to the operating room to address the limb preservation and optimization goal was extremely common across categories such that patients may expect at least 4 reoperations. Patients return to some type of work 75-88%. Treatment failure rates varied from 11% to 100%, with fracture and bone-related injuries being associated with the most favorable outcomes across categories. Overall, the results are encouraging and will help shape care in these patients.",
+      "journal": "Injury",
+      "authors": [
+        "Cook JL",
+        "Rucinski K",
+        "Nuelle JAV",
+        "Royse LA",
+        "London DA",
+        "Lalonde SP",
+        "Schweser KM",
+        "Crist BD"
+      ],
+      "date": "2026 Oct 29",
+      "doi": "10.1016/j.injury.2026.113845",
+      "tier": "filtered",
+      "topics": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42970959/"
+    },
+    {
+      "pmid": "42970958",
+      "title": "Geography matters: Variations in neck trauma between urban and rural level-II trauma centers.",
+      "abstract": "**BACKGROUND**: Geodemographic factors create divergent clinical patterns between urban and rural settings. Level-II trauma centers are a vital trauma-care infrastructure for both urban and rural communities. This study compares neck trauma patterns, resource utilization, and outcomes at these distinct geodemographic nodes.\n\n**METHODS**: Retrospective analysis (2014-2024) of neck trauma at an urban center (UC, n\u202f=\u202f65) and a rural center (RC, n\u202f=\u202f60). Demographics, mechanism, treatments, interventions, and outcomes were analyzed.\n\n**RESULTS**: RC patients sustained more blunt, transport-related multisystem trauma with higher ISS. UC patients predominantly presented with localized penetrating injuries. Rural patients had higher ICU admission rates, longer ICU stays, more transfers to level-I centers yet underwent fewer operative interventions, invasive airway procedures, and CT angiogrophy.\n\n**CONCLUSIONS**: There are significant variations in neck trauma between urban and rural level-II trauma centers. An \"intervention paradox\" exists were rural centers stabilize high-severity blunt trauma for transfer, while urban centers provide definitive care for penetrating wounds. These findings necessitate geodemographically tailored protocols. Understanding geodemographic variations is a critical aspect of optimizing trauma systems.\n\n**LEVEL OF EVIDENCE**: II Retrospective cohort.",
+      "journal": "Injury",
+      "authors": [
+        "Goldstein AL",
+        "Nino E",
+        "Biton D",
+        "Kruyer VN",
+        "Bar-Haim R",
+        "Laks S",
+        "Soroksky A",
+        "Levit B",
+        "Awad A",
+        "Wiesel O"
+      ],
+      "date": "2026 Oct 30",
+      "doi": "10.1016/j.injury.2026.113837",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Penetrating"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "blunt trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "penetrating injury",
+          "strength": "weak",
+          "topic": "Penetrating"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42970958/"
+    },
+    {
+      "pmid": "42970957",
+      "title": "Gabapentinoid-opioid co-prescription after long bone fracture fixation is associated with increased 1-year nonunion.",
+      "abstract": "**PURPOSE**: Gabapentinoids are increasingly incorporated into multimodal analgesia after orthopaedic surgery, yet their impact on outcomes following fracture fixation remains unclear. This study evaluated the association between early postoperative gabapentinoid-opioid co-prescription and clinical outcomes after operative fixation of closed long bone fractures.\n\n**METHODS**: Using TriNetX, we identified opioid-na\u00efve and gabapentinoid-na\u00efve adults undergoing intramedullary or plate-and-screw fixation of isolated closed diaphyseal tibia, humerus, or femur fractures. Patients prescribed gabapentin or pregabalin and opioids within three days after surgery were compared with patients receiving opioids alone. Propensity score matching (1:1) incorporated demographics, medical comorbidities, fracture location, fixation method, mental health disorders, and substance use disorders. Primary outcomes were prolonged (30-90 days) and chronic (90-180 days) postoperative opioid use. Secondary outcomes included 30-day emergency department (ED) visits and readmissions, and 1-year nonunion and reoperation.\n\n**RESULTS**: After matching, each cohort consisted of approximately 2000 patients (range, 1946-2012). Gabapentinoid-opioid therapy was associated with higher rates of prolonged (21.0% vs 16.1%; RR 1.31; p\u202f<\u202f0.001) and chronic (9.8% vs 7.4%; RR 1.33; p\u202f=\u202f0.007) postoperative opioid use. Gabapentinoid-opioid therapy was associated with fewer 30-day ED visits (25.1% vs 42.5%; RR 0.59; p\u202f<\u202f0.001), while 30-day readmission rates were similar between cohorts (p\u202f=\u202f0.174). One-year rates of nonunion (4.3% vs 1.9%; RR 2.21; p\u202f<\u202f0.001) and reoperation (7.1% vs 4.2%; RR 1.68; p\u202f<\u202f0.001) were significantly higher among patients receiving gabapentinoid-opioid therapy. In a sensitivity analysis that defined the opioid-only cohort based on the absence of gabapentinoid prescriptions during the first 3 postoperative days, rather than the 1-year postoperative medication window used in the primary analysis, the associations with prolonged and chronic opioid use and reoperation were no longer statistically significant, whereas the association with nonunion remained significant (RR 1.62; p\u202f=\u202f0.001).\n\n**CONCLUSION**: Gabapentinoid-opioid therapy was associated with fewer ED visits and higher rates of prolonged and chronic opioid use, nonunion, and reoperation; in sensitivity analysis, ED visits and nonunion remained significant, whereas opioid use and reoperation did not. These findings suggest that potential short-term analgesic benefits may be offset by adverse long-term outcomes, warranting caution and further study of gabapentinoid-opioid prescribing for acute perioperative fracture pain.",
+      "journal": "Injury",
+      "authors": [
+        "Mahatme RJ",
+        "Moore SA",
+        "Gangavaram A",
+        "Moon E",
+        "Khadilkar S",
+        "Woolnough T",
+        "Ellis JD",
+        "Beltran MJ"
+      ],
+      "date": "2026 Oct 08",
+      "doi": "10.1016/j.injury.2026.113762",
+      "tier": "filtered",
+      "topics": [
+        "Orthopaedic"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "long bone fracture",
+          "strength": "strong",
+          "topic": "Orthopaedic"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42970957/"
+    },
+    {
       "pmid": "42970404",
       "title": "Timing matters: Delayed surgery increases mortality for blunt hollow viscus injury.",
       "abstract": "**BACKGROUND**: Immediate surgical exploration is recommended for suspected hollow viscus injury (HVI) following blunt trauma. However, diagnostic uncertainty can lead to delayed operative management. We aimed to evaluate if delayed bowel resection/repair (DBR), defined as \u22658 hours after emergency department arrival, was independently associated with increased mortality in blunt trauma patients. We also sought to identify risk factors associated with DBR.\n\n**METHODS**: The Trauma Quality Improvement Program database (2017-2024) was queried for admitted adults with blunt abdominal trauma (abdomen abbreviated injury scale grade \u22652) who underwent bowel resection/repair. Patients who were transferred from another facility or died within 8 hours were excluded. Patients undergoing early bowel resection <8 hours (EBR) were compared with patients undergoing DBR (\u22658\u00a0h). Multivariable logistic regression evaluated the association between DBR and mortality, controlling for age, severe head and thoracic injury, intubation within 1 hour of arrival, injury to the small bowel, colon, or rectum, and blood transfusion within 4 hours.\n\n**RESULTS**: Of 33,728 patients undergoing bowel resection/repair, 16,010 (47.5%) underwent DBR. The DBR cohort had lower rates of small bowel (49.6% vs. 53.9%, p<0.001) and colon (46.7% vs. 49.7%, p<0.001) injuries, but similar rates of rectal injury (4.4% vs. 4.1%, p=0.166). Injuries to the liver (26.8% vs. 20.8%), spleen (28.2% vs. 23.4%), and kidney (12.9% vs. 9.0%) were more frequent in the DBR cohort (all p<0.001). DBR patients had an increased associated risk of mortality (13.0% vs. 8.5%, OR 1.21, 95% CI: 1.12-1.30, p<0.001). Small bowel injury was the only independent factor with decreased associated risk of DBR (OR 0.93, CI: 0.89-0.97, p=0.001).\n\n**CONCLUSION**: Delayed operative management for blunt HVI occurs more often in patients with solid organ injuries and is independently associated with increased mortality. These findings highlight the importance of early detection and timely surgical management of HVI.\n\n**LEVEL OF EVIDENCE**: Therapeutic/Care Management, Level IV.",
@@ -511,7 +962,7 @@
         "Mitra B"
       ],
       "date": "2026 Dec 1",
-      "doi": "10.1111/1742-6723.70383",
+      "doi": "10.1001/jamanetworkopen.2018.0210",
       "tier": "filtered",
       "topics": [
         "General Trauma",
@@ -8349,462 +8800,6 @@
       "keyword_matches": [],
       "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/42839242/"
-    },
-    {
-      "pmid": "42838817",
-      "title": "Trauma governance and system maturity: A cross-national analysis of authority, funding, enforcement, and surveillance in 37 countries.",
-      "abstract": "**BACKGROUND**: Organized trauma systems reduce mortality, yet most countries lack such systems and among those that exist, maturity varies widely. While the World Health Organization (WHO) emphasizes governance components including authority, funding, enforcement, and surveillance, empirical evidence linking these elements to measurable system outcomes is absent. We hypothesized that trauma governance entities (TGE) would demonstrate a dose-dependent association with WHO's Trauma System Maturity Index (TSMI) scores after adjusting for macro-economic resources.\n\n**METHODS**: WHO reports, peer-reviewed literature, and national trauma registry publications spanning 2017-2024 were used to perform a cross-sectional analysis of 37 countries representing all World Bank regions and three income tiers (lower-middle, upper-middle, high). TSMI scores were assigned to four TSMI domains: prehospital care, facility-based care, education/training, quality assurance. For each nation, a composite mean TSMI score was calculated. A novel TGE score (0-4) was created to assess four domains: authority, funding, enforcement, surveillance (AFES). Spearman correlation and multivariable ordinary least-squares regression adjusting for income level, injury mortality rate (IMR), and system type were employed to assess associations between AFES and system maturity. The primary effect estimate was the contrast between countries with any governance component present (AFES\u22651) and countries with none (AFES=0).\n\n**RESULTS**: Of 37 nations, 15 (41%) nations had a TGE. Nations with a TGE demonstrated lower median IMR per 1000 persons (6.9 [IQR 5.2-8.1] vs 22.2 [IQR 8.7-34.9], p\u202f=\u202f0.002) and higher composite TSMI scores (3.50 [IQR 3.25-4.00] vs 3.00 [IQR 1.81-3.44], p\u202f=\u202f0.003). TSMI did not increase monotonically across AFES categories (median 2.25, 3.25, 3.88, 2.50 and 3.50 for AFES=0 through AFES=4). In an adjusted OLS model, countries with any governance components present (AFES\u22651) had TSMI scores 0.66 points higher than countries with no governance components (\u03b2=0.66, 95% CI [0.13, 1.18], p\u202f=\u202f0.016).\n\n**CONCLUSIONS**: Trauma governance, operationalized through establishment of AFES domains, is strongly associated with trauma system maturity with the difference concentrated between countries that have no formal governance and those that have any. Establishing any formal governance structure may be a particularly high-yield, scalable target to improve trauma system outcomes, especially in high-burdened, lower-middle income nations.\n\n**LEVEL OF EVIDENCE**: Prognostic and Epidemiological; Level III.",
-      "journal": "Injury",
-      "authors": [
-        "Kewalramani D",
-        "Benton J",
-        "Choron RL",
-        "Teichman A",
-        "Englert Z",
-        "Gelster C",
-        "Goncalves J",
-        "Skobelev E",
-        "Whitley D",
-        "Goswami J",
-        "Hanna J",
-        "Singh G",
-        "Tewari P",
-        "Barie P",
-        "Misra MC",
-        "Narayan M"
-      ],
-      "date": "2026 Oct 01",
-      "doi": "10.1016/j.injury.2026.113742",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Prehospital",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "prehospital",
-          "strength": "weak",
-          "topic": "Prehospital"
-        },
-        {
-          "keyword": "trauma registry",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42838817/"
-    },
-    {
-      "pmid": "42838501",
-      "title": "Amiodarone after conversion from a non-shockable to a shockable rhythm in out-of-hospital cardiac arrest: A propensity score-matched analysis from the German resuscitation registry.",
-      "abstract": "**BACKGROUND**: Amiodarone should be administered after three shocks according the current ERC ALS guidelines. However, its effect in out-of-hospital cardiac arrest (OHCA) patients with an initial non-shockable rhythm who subsequently convert to a shockable rhythm is not established.\n\n**METHODS**: We performed a retrospective observational cohort study using data from the German Resuscitation Registry. Adult patients with non-traumatic OHCA, having an initial non-shockable rhythm and subsequently received at least two defibrillations were included. Propensity-score-matched patient pairs (1:1) were analysed to compare outcomes between patients who received amiodarone during resuscitation and those who did not. The primary outcome was survival to hospital discharge. Secondary outcomes included hospital admission with return of spontaneous circulation (ROSC), 24-h survival, survival to hospital discharge, and favourable neurological outcome at hospital discharge.\n\n**RESULTS**: Of 5535 patients included 3181 received amiodarone and 2354 did not. After propensity-score matching, 1843 patients remained in each group. Amiodarone administration was associated with higher rates of hospital admission with ROSC (26.7% vs. 23.0%; OR 1.22, 95% confidence interval 1.05-1.42), 24-h survival (21.4% vs. 14.7%; OR 1.58, 95% CI 1.33-1.87), and survival to hospital discharge (6.5% vs. 4.2%; OR 1.58, 95% CI 1.18-2.12). Favourable neurological outcome at hospital discharge was not statistically significant (3.7% vs. 2.9%; OR 1.31, 95% CI 0.91-1.89).\n\n**CONCLUSIONS**: In OHCA patients with an initial non-shockable rhythm who subsequently converted to a shockable rhythm, amiodarone administration was associated with improved short-term and long-term survival, but not with a statistically significant improved favourable neurological outcome. Future controlled studies might define the proper (earlier) time of amiodarone administration.",
-      "journal": "Resuscitation",
-      "authors": [
-        "Knapp J",
-        "Greif R",
-        "Bathe J",
-        "Wnent J",
-        "Harding U",
-        "Seewald S",
-        "Fischer M"
-      ],
-      "date": "2026 Oct 06",
-      "doi": "10.1016/j.resuscitation.2026.111349",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "traumatic",
-          "strength": "weak",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42838501/"
-    },
-    {
-      "pmid": "42838500",
-      "title": "Impact of cardiac rhythm dynamics during cardiopulmonary resuscitation on clinical outcomes in patients treated with extracorporeal cardiopulmonary resuscitation (ECPR): a systematic review and meta-analysis.",
-      "abstract": "**BACKGROUND**: Although the initial presenting cardiac rhythm is an established prognostic factor for extracorporeal cardiopulmonary resuscitation, heart rhythm dynamics during conventional cardiopulmonary resuscitation remain poorly studied. We evaluated how the evolution of rhythm affects neurological outcomes and survival among recipients of extracorporeal cardiopulmonary resuscitation.\n\n**METHODS**: We systematically searched PubMed and Embase for studies evaluating rhythm dynamics, focusing on Rhythm Improvement (from non-shockable to shockable) or Rhythm Decay (from shockable to non-shockable). The primary outcome was survival with a favorable neurological outcome at the longest follow-up; the secondary outcome was overall survival. A random-effects model analysis with the Hartung-Knapp adjustment was used.\n\n**RESULTS**: Ten observational studies evaluating 5183 subjects with out-of-hospital cardiac arrest treated with extracorporeal cardiopulmonary resuscitation were included. Rhythm improvement was associated with a higher probability of a favorable neurological outcome (RR 3.12, 95% CI 1.26-7.74; GRADE: Low) compared with refractory non-shockable rhythms. Conversely, rhythm decay reduced the likelihood of a favorable neurological outcome compared with a sustained shockable rhythm (RR 0.41, 95% CI 0.21-0.80; GRADE: Moderate). Notably, decay toward asystole showed a robust negative association with good neurological recovery (RR 0.20, 95% CI 0.09-0.45; GRADE: Moderate), whereas decay toward pulseless electrical activity did not reach statistical significance (RR 0.62, 95% CI 0.31-1.25; GRADE: Low).\n\n**CONCLUSIONS**: Rhythm dynamics provide valuable prognostic insights for candidates for extracorporeal cardiopulmonary resuscitation. Rhythm decay toward asystole may predict resuscitation failure and poor neurological survival, suggesting that it should prompt a critical re-evaluation of the appropriateness of extracorporeal cardiopulmonary resuscitation.",
-      "journal": "Resuscitation",
-      "authors": [
-        "Marabotti A",
-        "Cianchi G",
-        "Franceschi E",
-        "Rob D",
-        "B\u011blohl\u00e1vek J",
-        "Bonizzoli M"
-      ],
-      "date": "2026 Oct 06",
-      "doi": "10.1016/j.resuscitation.2026.111348",
-      "tier": "filtered",
-      "topics": [
-        "Cardiac Arrest"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "ECPR",
-          "strength": "strong",
-          "topic": "Cardiac Arrest"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42838500/"
-    },
-    {
-      "pmid": "42838495",
-      "title": "Prehospital prognostication after out-of-hospital cardiac arrest in tertiary care centers: the R-EDByUS score in the JAAM-OHCA registry.",
-      "abstract": "**AIM**: The R-EDByUS score predicts unfavorable neurological outcomes after out-of-hospital cardiac arrest (OHCA) using prehospital variables alone, with separate models based on return of spontaneous circulation (ROSC) status at hospital arrival. However, whether the score remains valid in patients transported to tertiary care centers is uncertain. We therefore aimed to validate it externally in this setting.\n\n**METHODS**: Using the JAAM-OHCA Registry, we analyzed adult patients with presumed cardiogenic OHCA transported to tertiary care centers. The regression-based R-EDByUS score was applied to predict unfavorable neurological outcome (Cerebral Performance Category 3-5) at 1\u00a0month in the prehospital ROSC and ongoing cardiopulmonary resuscitation (CPR) cohorts. Discrimination and calibration were assessed, and score performance was examined across in-hospital intervention subgroups (percutaneous coronary intervention, targeted temperature management, and extracorporeal membrane oxygenation). We also assessed the proportion of patients with unfavorable outcomes among those with a predicted probability \u226599%.\n\n**RESULTS**: Of 29,345 patients, 3305 were classified into the prehospital ROSC cohort and 26,040 into the ongoing CPR cohort. The score showed good discrimination, with areas under the curve of 0.906 and 0.913, and good calibration in the prehospital ROSC cohort. Discrimination was lower among patients who received PCI, TTM, or ECMO in the ongoing CPR cohort. Among patients with a predicted probability \u226599%, 100% (112/112; prehospital ROSC) and 99.9% (20,560/20,588; ongoing CPR) had unfavorable outcomes.\n\n**CONCLUSION**: The R-EDByUS score showed good discrimination in the JAAM-OHCA Registry, supporting its use for early risk stratification in cardiogenic OHCA even in tertiary care centers.",
-      "journal": "Resuscitation",
-      "authors": [
-        "Shimada T",
-        "Kawai R",
-        "Shintani A",
-        "Kodera S",
-        "Fujisawa N",
-        "Saitoh W",
-        "Iwasaki Y",
-        "Kishimori T",
-        "Matsuzuka S",
-        "Hayashi Y",
-        "Shibata A",
-        "Ito A",
-        "Otsuka K",
-        "Higashikuni Y",
-        "Takeda N",
-        "Nishimura T",
-        "Mizobata Y",
-        "Fukuda D"
-      ],
-      "date": "2026 Oct 06",
-      "doi": "10.1016/j.resuscitation.2026.111341",
-      "tier": "filtered",
-      "topics": [
-        "Cardiac Arrest",
-        "Prehospital"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "prehospital",
-          "strength": "strong",
-          "topic": "Prehospital"
-        },
-        {
-          "keyword": "ECMO",
-          "strength": "weak",
-          "topic": "Cardiac Arrest"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42838495/"
-    },
-    {
-      "pmid": "42837917",
-      "title": "Optimizing massive transfusion protocol activation: A new decision tool based on a Dutch trauma cohort.",
-      "abstract": "**BACKGROUND**: Most trauma centres have implemented a massive transfusion protocol (MTP) to facilitate the rapid transfusion of blood products. However, identifying patients who require transfusion remains challenging, which often results in overactivation. The primary objective of this study was to identify patient-related factors that could be used to accurately predict justified MTP activation, defined by the administration of at least 1 transfusion product after MTP activation.\n\n**METHODS**: In this retrospective cohort study trauma patients for whom the MTP was activated in the Erasmus Medical Centre, Rotterdam, The Netherlands, from January 2018 until November 2024 were eligible for inclusion. Exclusion criteria were children, interhospital transfers and inaccessible patient files. Variables with the highest discriminative ability to accurately predict justified MTP activation were used to create a new decision tool. This new decision tool was compared with existing decision tools.\n\n**RESULTS**: A total of 463 patients were included, 198 justified and 265 unjustified MTP activations. The variables and their cut-off points used for the new decision tool were pH\u00a0\u2264\u00a07.25, lactate \u22654.6\u00a0mmol/L, SBP\u00a0\u2264\u00a0105\u00a0mmHg, DBP\u00a0\u2264\u00a060\u00a0mmHg, PP\u00a0\u2264\u00a045\u00a0mmHg, HR\u00a0\u2265\u00a0110 beats per minute, temperature\u00a0\u2264\u00a035.8\u00a0\u00b0C, and a positive eFAST. This resulted in 92.1% sensitivity, 55.8% specificity, 60.4% positive predictive value and 90.6% negative predictive value.\n\n**CONCLUSION**: Patient-related factors to predict justified MTP activation were identified. With these variables, a new decision tool was developed that accurately predicted the need for MTP activation and could potentially diminish overactivation.",
-      "journal": "Am J Emerg Med",
-      "authors": [
-        "Berenschot KF",
-        "Cnossen ME",
-        "van Bohemen MR",
-        "Ottenhof NA"
-      ],
-      "date": "2026 Sep 28",
-      "doi": "10.1016/j.ajem.2026.09.030",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Haemorrhage",
-        "Imaging"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "massive transfusion",
-          "strength": "strong",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "blood product",
-          "strength": "weak",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "eFAST",
-          "strength": "weak",
-          "topic": "Imaging"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42837917/"
-    },
-    {
-      "pmid": "42837757",
-      "title": "A tourniquet is a good thing for continued arterial bleeding in a severely traumatized lower limb.",
-      "abstract": "",
-      "journal": "Injury",
-      "authors": [
-        "Rey C",
-        "Makkar M",
-        "Buckley R"
-      ],
-      "date": "2026 Oct 01",
-      "doi": "10.1016/j.injury.2026.113755",
-      "tier": "filtered",
-      "topics": [
-        "Procedures"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "tourniquet",
-          "strength": "strong",
-          "topic": "Procedures"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42837757/"
-    },
-    {
-      "pmid": "42837756",
-      "title": "Evaluation of the wound healing effects of a hydrogel containing hydroalcoholic extract of Chelidonium majus in a rat model.",
-      "abstract": "This study aimed to develop an innovative wound dressing by loading Chelidonium majus L. extract into an alginate hydrogel matrix and to assess its efficacy in wound healing. The extract of C. majus, famous for its anti-inflammatory and antioxidant features, was obtained from plant material collected in Mazandaran Province, Iran, and incorporated into sodium alginate hydrogels at concentrations of 2% and 5% w/w. The hydrogel formulations were characterized in terms of their morphological, thermal, and swelling properties, demonstrating interconnected porous structures, altered thermal behavior indicating increased amorphous content, and high moisture absorption capacity. To evaluate biological activity, the antioxidant and flavonoid content of the extract were measured, showing notable free radical scavenging ability and high levels of flavonoids. An in vivo wound healing model using adult male Wistar rats compared the effectiveness of control, bare hydrogel, C. majus-loaded hydrogels (2% and 5%), and diltiazem treatments. Wounds treated with the 5% C. majus hydrogel showed accelerated closure rates and improved tissue regeneration, as confirmed by histological examination and enhanced expression of proliferative and regenerative genes (TGF-\u03b2) alongside decreased inflammatory markers (TNF-\u03b1 and IL-1\u03b2), in comparison with the control group. These results indicate that C. majus-loaded alginate hydrogel, especially at a 5% concentration, promotes wound healing through offering a wet environment, supporting cell proliferation, and modulating inflammation. This hydrogel may represent a promising topical therapeutic option for treating skin wounds.",
-      "journal": "Injury",
-      "authors": [
-        "Farabi MM",
-        "Valiallahi J",
-        "Rezanejad-Gatabi Z",
-        "Livani Z",
-        "Mirhoseini M"
-      ],
-      "date": "2026 Sep 30",
-      "doi": "10.1016/j.injury.2026.113729",
-      "tier": "filtered",
-      "topics": [],
-      "keyword_matches": [],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42837756/"
-    },
-    {
-      "pmid": "42837755",
-      "title": "Predictors of prolonged emergency department length of stay in severely injured pediatric patients.",
-      "abstract": "**BACKGROUND**: Prolonged emergency department length of stay (ED-LOS) in severely injured pediatric patients has been associated with adverse clinical outcomes. The determinants of the prolonged length of stay in severely injured pediatric patients remain incompletely understood.\n\n**OBJECTIVES**: This study aims to identify patient-, injury-, and system-level predictors of prolonged ED-LOS among severely injured pediatric trauma patients. Data for this analysis were obtained from a multicenter trauma registry.\n\n**METHODS**: We retrospectively analyzed prospectively collected data from the Abu Dhabi Trauma Registry over a 10-year period (2014-2023). Patients included were under 18 years old with an Injury Severity Score (ISS) over 12. We defined prolonged ED-LOS as more than 4\u202fh. We analyzed demographic, clinical, institutional, and temporal variables. Multivariable logistic regression identified independent predictors of prolonged ED-LOS.\n\n**RESULTS**: We included 874 pediatric patients, with a median ED-LOS of 227.5\u202fmin. Prolonged ED-LOS was independently associated with treatment in teaching hospitals (OR 2.25, 95% CI 1.43-3.55), absence of trauma team activation (OR 2.08, 95% CI 1.35-3.22), and non-local nationality (OR 1.66, 95% CI 1.12-2.45). Prolonged ED-LOS was also linked to specific injury mechanisms: road traffic collisions (OR 13.89, 95% CI 1.75-110.00) and low-height falls (OR 13.87, 95% CI 1.68-114.73). Higher injury severity was associated with a decreased likelihood of prolonged ED-LOS (OR 0.94, 95% CI 0.92-0.96). The model showed acceptable discrimination (AUC 0.733).\n\n**CONCLUSIONS**: Prolonged ED-LOS in severely injured pediatric patients was primarily associated with system-level factors, specifically trauma team activation and hospital characteristics. Additionally, injury mechanisms and demographic factors contributed to prolonged ED-LOS. Optimizing trauma activation protocols and workflow processes, particularly in teaching hospitals, may reduce ED-LOS and improve the efficiency of pediatric trauma care.",
-      "journal": "Injury",
-      "authors": [
-        "Cevik AA",
-        "Alao DO",
-        "Farooq M",
-        "Abu-Zidan F"
-      ],
-      "date": "2026 Oct 01",
-      "doi": "10.1016/j.injury.2026.113753",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Paediatric",
-        "Prehospital",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "injury severity",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "paediatric trauma",
-          "strength": "weak",
-          "topic": "Paediatric"
-        },
-        {
-          "keyword": "trauma team",
-          "strength": "weak",
-          "topic": "Prehospital"
-        },
-        {
-          "keyword": "trauma activation",
-          "strength": "weak",
-          "topic": "Prehospital"
-        },
-        {
-          "keyword": "trauma registry",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42837755/"
-    },
-    {
-      "pmid": "42837514",
-      "title": "Bystander AED Effectiveness Despite Low Utilisation in OHCA.",
-      "abstract": "**OBJECTIVES**: Observational estimates of bystander automated external defibrillator (AED) effectiveness are inconsistent in settings with mature public-access defibrillation infrastructure but low utilization, partly because the conventional reference group pools emergency medical services (EMS)-shocked with non-defibrillated patients. We estimated bystander AED effectiveness against a partitioned no-defibrillation reference, tested effect modification by location, and quantified the deployment-utilization gap.\n\n**METHODS**: Retrospective analysis of a prospectively collected multicenter out-of-hospital cardiac arrest (OHCA) registry (Korea, October 2015-June 2025; 23,918 adults of presumed medical etiology). A three-tier prehospital defibrillation-provider variable was defined: bystander AED applied (\n\n**RESULTS**: Bystander AED application was associated with improved survival (adjusted odds ratio [aOR] 1.60; 95% CI 1.19-2.14) and good neurological outcome (2.31; 1.65-3.23), comparable to that of EMS-delivered shock; the pooled-control specification attenuated estimates to non-significance (survival 1.09; neurological 1.14). Shock-delivered applications significantly exceeded EMS-delivered shock for neurological outcome (aOR 1.43; \n\n**CONCLUSIONS**: Bystander AED was associated with improved outcomes when applied, comparable to or exceeding EMS-delivered shock; the dominant constraint was the deployment-utilization gap, greatest in residential settings. Residential rapid-activation infrastructure warrants policy priority alongside, not instead of, continued device placement.",
-      "journal": "Prehosp Emerg Care",
-      "authors": [
-        "Sohn Y",
-        "Cho G",
-        "Cho Y",
-        "Park T"
-      ],
-      "date": "2026 Oct 13",
-      "doi": "10.1080/10903127.2026.2743854",
-      "tier": "filtered",
-      "topics": [
-        "Prehospital"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "prehospital",
-          "strength": "weak",
-          "topic": "Prehospital"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42837514/"
-    },
-    {
-      "pmid": "42837497",
-      "title": "Response to \"Prehospital Trauma Compendium: Prehospital Management of Spinal Cord Injuries - A NAEMSP Comprehensive Review and Analysis of the Literature\".",
-      "abstract": "",
-      "journal": "Prehosp Emerg Care",
-      "authors": [
-        "Lardaro T",
-        "Cirillo LA"
-      ],
-      "date": "2026 Oct 14",
-      "doi": "10.1080/10903127.2026.2745170",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Prehospital"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "prehospital trauma",
-          "strength": "strong",
-          "topic": "Prehospital"
-        },
-        {
-          "keyword": "prehospital",
-          "strength": "strong",
-          "topic": "Prehospital"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42837497/"
-    },
-    {
-      "pmid": "42837124",
-      "title": "Making Suction Selective in Traumatic Pneumothorax.",
-      "abstract": "",
-      "journal": "J Am Coll Surg",
-      "authors": [
-        "Muldiiarov V",
-        "Bauman ZM"
-      ],
-      "date": "2026 Oct 06",
-      "doi": "10.1097/XCS.0000000000002243",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Thoracic"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "traumatic",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "pneumothorax",
-          "strength": "strong",
-          "topic": "Thoracic"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42837124/"
-    },
-    {
-      "pmid": "42836701",
-      "title": "Missed Opportunities for Prehospital Transfusion in Pediatric Trauma.",
-      "abstract": "**OBJECTIVES**: Prehospital blood transfusion has been associated with improved outcomes among pediatric trauma patients, but its utilization nationally remains poorly understood. We recently conducted a similar study that builds upon the findings of the investigation by Ramgopal et al. to identify potential missed opportunities for prehospital transfusion in pediatric trauma.\n\n**METHODS**: We utilized the National EMS Information System dataset from 2018-2023 to identify emergency medical services (EMS) responses for pediatric (<18 years of age) trauma patients. We identified trauma patients using the CDC Injury Mortality Diagnosis Matrix related ICD-10 codes. We identified patients at increased risk of benefiting from a transfusion using age-adjusted positive shock index thresholds. The outcome of interested was prehospital blood or blood product transfusion.\n\n**RESULTS**: We found there were 1,663,601 total 9-1-1 EMS activations to a scene for pediatric trauma. There were 363,844 patients with a positive shock index who were considered to be at increased risk of benefiting from a prehospital transfusion, but only 287 (0.1%) of these patients received a prehospital transfusion. Only 10 (2%) of the 468 patients who experienced a cardiac arrest after the arrival of EMS to the scene received a hospital transfusion.\n\n**CONCLUSIONS**: Together, our results indicate prehospital transfusion rates ranging from 0.1% to 1.01% among potentially eligible pediatric trauma patients. Although positive shock index does not confirm hemorrhagic shock, these findings suggest underutilization of prehospital blood transfusion among pediatric trauma patients.",
-      "journal": "Prehosp Emerg Care",
-      "authors": [
-        "Hayes JM",
-        "Peters GA",
-        "Gao J",
-        "Cash RE"
-      ],
-      "date": "2026 Oct 19",
-      "doi": "10.1080/10903127.2026.2742418",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Haemorrhage",
-        "Paediatric",
-        "Prehospital"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "haemorrhagic shock",
-          "strength": "weak",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "blood product",
-          "strength": "weak",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "blood transfusion",
-          "strength": "weak",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "prehospital blood",
-          "strength": "weak",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "paediatric trauma",
-          "strength": "strong",
-          "topic": "Paediatric"
-        },
-        {
-          "keyword": "prehospital",
-          "strength": "strong",
-          "topic": "Prehospital"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42836701/"
     }
   ]
 }
