@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-04T00:16:51.467860Z",
-  "total_articles": 229,
+  "generated": "2026-11-05T00:39:03.065482Z",
+  "total_articles": 228,
   "all_topics": [
     "Abdominal",
     "Burns",
@@ -379,6 +379,246 @@
   },
   "articles": [
     {
+      "pmid": "42977611",
+      "title": "Hollow viscus injury (HVI) score in adult patients sustaining non-motor vehicle collision blunt trauma: A single-center retrospective validation study.",
+      "abstract": "**BACKGROUND**: Delayed diagnosis of hollow viscus injury (HVI) from blunt trauma (BT) carries increased morbidity. An HVI prediction tool (HVI Score), incorporating vital signs, physical examination, and computed tomography (CT) findings has been validated in patients injured by motor vehicle collision (MVC) with an abdominal seatbelt sign. This study investigated the HVI Score performance in patients with non-MVC blunt trauma.\n\n**METHODS**: This retrospective single-center study conducted between 2020 and 2024 included adult (>18-years-old) patients sustaining non-MVC BT who underwent CT imaging of the abdomen/pelvis prior to any abdominal operation. The primary outcome was operatively confirmed HVI. HVI Score model performance was assessed using the area under the receiver operating characteristic (AUROC) curve and by calibration (ratio of observed to expected events, calibration-in-the-large, and calibration slope).\n\n**RESULTS**: Of 752 non-MVC BT patients admitted, 19 (2.5%) were high-risk (scores >10), 105 (14.0%) moderate-risk (scores 6-9), and 628 (83.5%) low-risk (scores <5), with 19 (2.5%) having an HVI. The high-risk cohort had increased rates of abdominal tenderness (36.8% vs. 27.6% vs. 12.1%) as well as increased CT findings of free fluid (100.0% vs. 89.5% vs. 6.1%), soft tissue contusion (73.7% vs. 46.7% vs. 28.8%), mesenteric stranding (36.8% vs. 21.0% vs.7.6%), mesenteric hematoma (42.1% vs. 13.3% vs. 7.8%), bowel wall thickening (47.4% vs. 5.7% vs. 3.3%), and pneumoperitoneum (26.3% vs. 1.9% vs. 0.0%) compared to moderate and low-risk patients (all p\u202f<\u202f0.001). The HVI Score achieved an AUROC of 0.96 (CI 0.94-0.98). Observed events numbered 19 against 26 expected (observed-to-expected ratio 0.73, 95% CI 0.47-1.15), with a calibration slope of 0.96 (95% CI 0.64-1.28). At the low-risk threshold, sensitivity and NPV were both 100%; at the high-risk threshold, specificity was 99% and PPV 47%.\n\n**CONCLUSION**: The HVI Score, which was originally validated for MVC patients with a seatbelt sign, had excellent performance in predicting HVI among patients with non-MVC BT.\n\n**SOCIAL MEDIA SUMMARY**: The Hollow Viscus Injury (HVI) prediction score has excellent performance in predicting HVI among patients with non-MVC blunt abdominal trauma, thus extending its utility to all blunt trauma patients.",
+      "journal": "Injury",
+      "authors": [
+        "Nguyen PD",
+        "Grigorian A",
+        "Dieu AL",
+        "Nie J",
+        "Finney N",
+        "Kuza CM",
+        "Salamah H",
+        "Jebbia M",
+        "Kirby KA",
+        "Doben AR",
+        "Nahmias J"
+      ],
+      "date": "2026 Oct 30",
+      "doi": "10.1016/j.injury.2026.113857",
+      "tier": "filtered",
+      "topics": [
+        "Abdominal",
+        "General Trauma"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "blunt trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "blunt abdominal",
+          "strength": "weak",
+          "topic": "Abdominal"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42977611/"
+    },
+    {
+      "pmid": "42977608",
+      "title": "Comparative trends of musculoskeletal injury in pickleball and tennis: An 11-year analysis of U.S. emergency department visits.",
+      "abstract": "**BACKGROUND**: Pickleball participation continues to surge, with many recreational tennis players transitioning to the sport due to perceived ease of play and social appeal. The aim of this study was to compare 11-year injury patterns between patients presenting to the Emergency Department (ED) for pickleball and tennis injuries.\n\n**HYPOTHESIS**: We hypothesized that (1) pickleball-related ED visits would increase over time while tennis-related visits would remain stable or decrease; (2) injury patterns would differ between sports by anatomical site, diagnosis, and mechanism; and (3) older adults would account for a higher proportion of fall-related injuries requiring hospital admission.\n\n**STUDY DESIGN**: Retrospective comparative epidemiologic study LEVEL OF EVIDENCE: Level III METHODS: National Electronic Injury Surveillance System (NEISS) data between 2014 and 2024 were sorted for pickleball (product code 3235) and tennis (product code 3284). Cases were manually reviewed to confirm sport participation and exclude non-musculoskeletal injuries. Anatomical site, diagnosis, injury mechanism, treatment disposition, and date of ED visit were extracted. Group comparisons used t-tests and chi-square tests, and linear regression evaluated annual trends.\n\n**RESULTS**: A total of 4141 cases were included (pickleball n\u202f=\u202f1442; National Estimates (NE) 80,553; tennis n\u202f=\u202f2699; NE 110,480). Pickleball-related ED visits increased over time, while tennis-related visits remained stable. Pickleball players were older than tennis players (60.1 (SD 16.7) yr vs. 40.9 (SD 23.3) yr; p\u202f<\u202f0.01), with individuals \u2265\u202f65 years accounting for 52.1% of pickleball-related injuries. Wrist injuries were the most common in pickleball (17.0%) and ankle injuries were most common in tennis (18.3%). Fractures were more frequent in pickleball (43.1%), while sprains/strains were more common in tennis (46.4%, p\u202f<\u202f0.01). Falls were the leading mechanism in both sports (Pickleball 52.2%, Tennis 33.8%). Pickleball injuries occurred most frequently in the Winter (30.3%) while tennis injuries occurred most frequently in Summer (29.1%). Hospital admissions were more frequent for pickleball players (7.8% vs 3.9%).\n\n**CONCLUSIONS**: The rapid rise in pickleball-related injuries necessitates proactive efforts in education, conditioning, and injury prevention to safeguard participants, particularly older adults.\n\n**CLINICAL RELEVANCE**: As participation in pickleball grows, especially among older adults, targeted conditioning, emphasizing neuromuscular control and safety education may help reduce injury rates.",
+      "journal": "Injury",
+      "authors": [
+        "Kiehl D",
+        "Ibrado R",
+        "Axelrod A",
+        "Vincent HK"
+      ],
+      "date": "2026 Oct 30",
+      "doi": "10.1016/j.injury.2026.113791",
+      "tier": "filtered",
+      "topics": [
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "injury prevention",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42977608/"
+    },
+    {
+      "pmid": "42976431",
+      "title": "Epidemiological characteristics and comparison of clinical outcomes between conservative and surgical treatment for rib fractures in South China: A 10\u2011year retrospective cohort study of 4085 cases with propensity score\u2011matching analysis.",
+      "abstract": "**PURPOSE**: To systematically describe the epidemiological characteristics of rib fractures in South China and compare the clinical characteristics, hospital stay, and total costs between patients receiving conservative versus surgical treatment, thereby providing evidence\u2011based support for clinical decision\u2011making and public health prevention.\n\n**METHODS**: A retrospective analysis was performed on 4085 hospitalized patients with rib fractures admitted to the Fifth Affiliated Hospital of Southern Medical University between January 2014 and December 2023. Data on gender, age, injury mechanism, fracture type, complications, blood group, and occupational distribution were collected. A subgroup analysis comparing conservative (n\u202f=\u202f586) versus surgical treatment (n\u202f=\u202f137) was conducted among 723 patients admitted between January 2021 and December 2023. Propensity score matching was used to balance baseline characteristics between the two groups, and differences in hospital stay, total costs, and injury mechanisms were compared.\n\n**RESULTS**: (1) Epidemiological characteristics: Of the 4085 patients, 68.13% (2783/4085) were male, and the 41-60\u202fyear age group accounted for the highest proportion (50.35%). Autumn and winter were the peak seasons for injury (54.71%). Traffic accidents were the leading cause of injury (51.18%), followed by falls (21.82%) and height\u2011related falls (19.13%). Multiple fractures predominated (75.52%). The most common complication was pulmonary contusion (45.14%), followed by traumatic pneumothorax/hemothorax/hemopneumothorax/pleural effusion (40.02%). Among occupations, freelancers were the largest group (34.37%), followed by farmers (23.18%). Blood group O was the most prevalent (42.15%), while blood group B was the least common (5.55%, P\u202f<\u202f0.001), suggesting that blood group O may be a potential risk factor for rib fractures. (2) Comparison of treatment modalities: The conservative group had a significantly shorter hospital stay than the surgical group [3 (2-6) days vs. 17 (13-26) days, P\u202f<\u202f0.001] and significantly lower total costs [5879 (2570-8877) RMB vs. 69,588 (54,499-89,845) RMB, P\u202f<\u202f0.001]. The distribution of injury mechanisms differed significantly between the two groups (P\u202f<\u202f0.001): the conservative group was mainly injured by falls/slips (44.4%), whereas the surgical group was mainly injured by height\u2011related falls/ground\u2011level falls (30.7%). The proportion of concomitant hemopneumothorax was higher in the surgical group than in the conservative group (21.9% vs. 3.4%, P\u202f<\u202f0.001).\n\n**CONCLUSION**: Based on a large sample of 4085 cases, this study is the first to systematically delineate the full epidemiological profile of rib fractures in South China, with a sample size more than ten times larger than the previous largest regional report. The results indicate that middle\u2011aged males, freelancers, and farmers are high\u2011risk populations, with traffic accidents and multiple fractures being predominant, and a unique autumn peak seasonal pattern in South China is reported for the first time. Treatment strategies should be tailored according to injury mechanism and fracture severity. The novel association between blood group O and increased rib fracture risk, reported here for the first time, provides a new perspective for precision prevention; the potential mechanism may involve impaired hemostatic response due to lower baseline levels of von Willebrand factor and factor VIII in individuals with blood group O.",
+      "journal": "Injury",
+      "authors": [
+        "Zhang T",
+        "Cai Q",
+        "Liang B",
+        "Song X"
+      ],
+      "date": "2026 Oct 28",
+      "doi": "10.1016/j.injury.2026.113820",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Thoracic"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "traumatic",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "haemothorax",
+          "strength": "weak",
+          "topic": "Thoracic"
+        },
+        {
+          "keyword": "pneumothorax",
+          "strength": "weak",
+          "topic": "Thoracic"
+        },
+        {
+          "keyword": "rib fracture",
+          "strength": "strong",
+          "topic": "Thoracic"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42976431/"
+    },
+    {
+      "pmid": "42976430",
+      "title": "Fracture characteristics in coronal shear fractures of the distal humerus: Clinical significance of medial trochlear involvement.",
+      "abstract": "**BACKGROUND**: Coronal shear fractures of the distal humerus exhibit diverse fracture-extension patterns that are not fully characterized by conventional classification systems. The clinical significance of fracture extension into the medial or lateral column remains incompletely understood. This study investigated fracture-extension patterns beyond the conventional Dubberley classification and evaluated their associations with clinical outcomes and bone-related complications.\n\n**METHODS**: This multicenter retrospective study included surgically treated coronal shear fractures of the distal humerus with a minimum follow-up of 12 months at four affiliated institutions between 2012 and 2024. Fractures were classified using the AO/OTA and Dubberley systems. Computed tomography (CT) images were reviewed to assess medial trochlear involvement, lateral column involvement without posterior condylar comminution, and isolated trochlear fractures. Clinical outcomes included elbow range of motion (flexion, extension, and arc of motion) and postoperative complications. Univariate logistic regression analysis was performed to identify factors associated with bone-related complications.\n\n**RESULTS**: Among 374 surgically treated distal humeral fractures, 35 coronal shear fractures were included in the final analysis. Medial trochlear involvement was identified in 8 fractures (23%) and was most frequently observed in Dubberley type 3 fractures. Patients with medial trochlear involvement had significantly greater loss of elbow extension at final follow-up than those without medial trochlear involvement (-29\u00b0 vs. -16\u00b0, P\u202f=\u202f0.042). Bone-related complications were more frequent in fractures with medial trochlear involvement than in those without (50% vs. 7%, P\u202f=\u202f0.016). In univariate logistic regression analysis, medial trochlear involvement was significantly associated with bone-related complications (odds ratio, 12.5; 95% confidence interval, 1.69-92.3; P\u202f=\u202f0.013). Neither the AO/OTA nor the Dubberley classification was significantly associated with bone-related complications.\n\n**CONCLUSIONS**: Medial trochlear involvement was significantly associated with greater loss of elbow extension and bone-related complications at final follow-up in coronal shear fractures of the distal humerus. Preoperative CT assessment of medial trochlear involvement may provide clinically useful information complementary to conventional fracture classification systems and may aid surgical planning.",
+      "journal": "Injury",
+      "authors": [
+        "Ishihara N",
+        "Saeki M",
+        "Fujihara Y",
+        "Saeki S",
+        "Tanaka H",
+        "Ota H",
+        "Kumagai H",
+        "Yazaki N",
+        "Yamamoto M"
+      ],
+      "date": "2026 Oct 31",
+      "doi": "10.1016/j.injury.2026.113855",
+      "tier": "filtered",
+      "topics": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42976430/"
+    },
+    {
+      "pmid": "42976429",
+      "title": "Machine learning models with SHAP explanations for predicting neurosurgical intervention and six month functional outcome after traumatic brain injury.",
+      "abstract": "**BACKGROUND**: Admission information can help describe surgical treatment and subsequent functional outcomes following traumatic brain injury (TBI). We developed interpretable machine learning models to address these two tasks.\n\n**METHODS**: This retrospective study included 673 adults evaluated at a single center between December 2018 and December 2023. Outcomes recorded were neurosurgical intervention and six-month Glasgow Outcome Scale status, dichotomized as favorable (scores 4-5) or unfavorable (scores 1-3). Patients were randomly allocated to training and internal validation sets in a 7:3 ratio. Least absolute shrinkage and selection operator (LASSO) regression was used to select predictors for the XGBoost and random forest models. Receiver operating characteristic (ROC) analysis, along with classification and prediction error metrics, was employed for model evaluation. Shapley additive explanations (SHAP) were used to interpret model predictions.\n\n**RESULTS**: There were 75 unfavorable outcomes and 66 surgical interventions. The reported validation accuracy for XGBoost was 87.56% for predicting functional outcomes and 95.02% for surgical interventions. Validation Brier scores were 0.083 and 0.035, respectively. The Glasgow Coma Scale (GCS), pupillary light reflex, and blood glucose levels contributed significantly to functional outcome predictions, while GCS, fibrinogen, and white blood cell count were key predictors for surgical interventions. Interpretation of threshold-dependent measures is limited by class imbalance and incomplete specification of outcome coding.\n\n**CONCLUSION**: The models combined routinely collected admission variables to characterize the treatment received and functional outcomes in a selected traumatic brain injury (TBI) cohort. These findings require confirmation through analysis replication and independent validation before they can be applied clinically.",
+      "journal": "Injury",
+      "authors": [
+        "Zhou Z",
+        "Cheng H",
+        "Liu H",
+        "Zhang D",
+        "Wang Q",
+        "Shao X"
+      ],
+      "date": "2026 Oct 30",
+      "doi": "10.1016/j.injury.2026.113825",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Haemorrhage",
+        "TBI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "traumatic",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "fibrinogen",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "traumatic brain injury",
+          "strength": "strong",
+          "topic": "TBI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42976429/"
+    },
+    {
+      "pmid": "42976428",
+      "title": "Articular compliance and tolerance to residual incongruity after intra-articular fracture: A hypothesis-driven narrative review.",
+      "abstract": "**BACKGROUND**: Residual articular incongruity after intra-articular fracture is widely held to cause post-traumatic osteoarthritis (PTOA), yet tolerance of a given step-off differs between joints and between regions of the same joint. Reduction targets are nonetheless expressed as uniform millimetre thresholds, and no tissue-level mechanism has been offered for the variation.\n\n**HYPOTHESIS**: The compliance of the osteochondral unit - cartilage thickness, cartilage material properties and subchondral bone stiffness together - modulates tolerance of residual incongruity, and incongruity is more informatively expressed relative to local cartilage thickness than in absolute millimetres.\n\n**METHODS**: Narrative review with a documented search of PubMed/MEDLINE (inception to 14 October 2026) covering cartilage and subchondral properties of opposing surfaces, experimental and computational studies of articular incongruity, and clinical studies relating residual displacement to outcome. Four searches returned 3928 records, 3579 after deduplication; 54 sources informed the synthesis. This is not a systematic review; reporting follows SANRA.\n\n**FINDINGS**: Small, localised contact-stress elevations appear tolerable; step-offs remodel less completely as their height increases; and cumulative contact-stress exposure above a threshold predicts PTOA after tibial plafond fracture. Opposing surfaces differ measurably in cartilage thickness, modulus and subchondral bone thickness, but the direction of the difference reverses between joints and between regions of one joint, so curvature is not a usable proxy for compliance. Clinically, the acetabulum and tibial plafond appear least tolerant, the meniscus-covered tibial plateau more tolerant, and distal radius incongruity predicts radiographic arthrosis more strongly than functional loss.\n\n**CONCLUSIONS**: The evidence is consistent with, but does not establish, a contribution of osteochondral compliance; joint-level factors confound the clinical data. We set out a Compliance Framework defining measurable determinants, propose relative incongruity as a testable metric, and state four falsifiable predictions with the designs that would test them. Current joint-specific reduction standards should guide practice until those predictions are tested.",
+      "journal": "Injury",
+      "authors": [
+        "Dhar SA",
+        "Dar TA",
+        "Dar RA",
+        "Farooq S",
+        "Maajid A",
+        "Zargar S",
+        "Mughal I"
+      ],
+      "date": "2026 Nov 01",
+      "doi": "10.1016/j.injury.2026.113850",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "traumatic",
+          "strength": "weak",
+          "topic": "General Trauma"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42976428/"
+    },
+    {
+      "pmid": "42976427",
+      "title": "Global research on cricket injuries (1982-2025): A bibliometric analysis.",
+      "abstract": "**BACKGROUND**: Cricket is one of the most widely played sports worldwide and carries a significant burden of musculoskeletal injuries, particularly among fast bowlers. Over the past four decades, research in cricket injury epidemiology, biomechanics, workload monitoring, and surveillance has expanded substantially.\n\n**OBJECTIVE**: To conduct a comprehensive bibliometric analysis of global cricket injury research, identifying growth trends, influential publications, leading contributors, collaboration networks, and major thematic domains.\n\n**METHODS**: Publications from 1982 to 2025 were systematically analyzed using bibliometric indicators including annual growth, authorship productivity, institutional and country contributions, citation impact, total link strength (TLS), and co-authorship networks. The top 100 cited papers and the top 10 highly cited papers (HCPs) were examined in detail to identify landmark contributions and research priorities.\n\n**RESULTS**: A sharp rise in publications occurred after 2003, with nearly 90% of output produced in the last two decades. Australia, the United Kingdom, and South Africa led in productivity, citation impact, and collaborative link strength. The top 10 HCPs accounted for 10% of papers but 37.25% of total citations, underscoring concentrated scholarly influence. Fast bowlers consistently demonstrated the highest injury incidence, particularly lumbar spine and lower limb injuries. Workload spikes were strongly associated with increased injury risk, establishing load monitoring as a central preventive strategy. Biomechanical factors such as mixed bowling action, trunk rotation, and front-knee mechanics were linked to lumbar stress injuries. Standardized injury definitions and international consensus surveillance frameworks significantly improved research quality and comparability.\n\n**CONCLUSION**: Cricket injury research has evolved into a mature, collaborative, and high-impact domain centered on fast bowling biomechanics, workload regulation, and surveillance standardization. Expanded global participation and integration of advanced analytics are essential for future injury prevention strategies.",
+      "journal": "Injury",
+      "authors": [
+        "Vaishya R",
+        "Singh A",
+        "Gupta BM",
+        "Vaish A",
+        "Dhillon MS",
+        "Parmar Y",
+        "Orchard J"
+      ],
+      "date": "2026 Oct 31",
+      "doi": "10.1016/j.injury.2026.113814",
+      "tier": "filtered",
+      "topics": [
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "injury prevention",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42976427/"
+    },
+    {
       "pmid": "42976244",
       "title": "Transcutaneous Pacing in the Prehospital Setting - A Retrospective Cohort Study of Electrical Capture.",
       "abstract": "**OBJECTIVES**: Transcutaneous pacing (TCP) treats hemodynamically unstable bradycardia refractory to pharmacologic management. Effective TCP requires electrical and mechanical capture to augment perfusion. Little is known about prehospital TCP and capture incidence.\n\n**METHODS**: We conducted a retrospective cohort study of patients treated with prehospital TCP by an emergency medical services agency between 2017 and 2024. Continuous ECG recordings from cardiac monitors were reviewed. Electrical capture was the primary outcome, defined as a widened QRS with a distinct T wave following a TCP spike. Secondary measures included capture duration, clinician-verbalized pulse during pacing, plethysmograph waveform alignment, and changes in systolic blood pressure (SBP), pulse oximetry, and end-tidal carbon dioxide.\n\n**RESULTS**: Fifty-six patients received attempted TCP. Median age was 70 years (interquartile range [IQR] 58-85), and 34% were female. Cardiopulmonary resuscitation (CPR) was administered in 59% of patients. Electrical capture was achieved in 18 patients (32%). Among patients who achieved electrical capture, complete capture occurred a mean of 27.2% (standard deviation 30.5%) of attempted pacing duration. The median SBP change was +22.0 (IQR: -2-82) mmHg in patients with electrical capture and 0.0 (IQR: -29-7) mmHg in those with only rare-to-absent capture (\n\n**CONCLUSIONS**: Electrical capture during prehospital TCP occurred in a minority of patients and was often intermittent. Prehospital identification of mechanical capture using routine clinical indicators was difficult and unreliable. Future work should standardize capture definitions and physiologic measurements to determine when TCP produces clinically meaningful perfusion.",
@@ -638,7 +878,7 @@
         "Nantais J"
       ],
       "date": "2026 Nov 02",
-      "doi": "10.1016/j.jbi.2019.103208",
+      "doi": "10.1097/TA.0000000000001755",
       "tier": "core",
       "topics": [
         "General Trauma"
@@ -3528,7 +3768,7 @@
         "Dong Z",
         "Kiyani WI"
       ],
-      "date": "2026 Oct 15",
+      "date": "2026 Nov 1",
       "doi": "10.1016/j.injury.2026.113776",
       "tier": "filtered",
       "topics": [
@@ -3861,7 +4101,7 @@
         "Iyer VA",
         "Verma YK"
       ],
-      "date": "2026 Oct 18",
+      "date": "2026 Nov 1",
       "doi": "10.1016/j.injury.2026.113806",
       "tier": "filtered",
       "topics": [],
@@ -3884,7 +4124,7 @@
         "Andrawis J",
         "Lucas TS"
       ],
-      "date": "2026 Oct 14",
+      "date": "2026 Nov 1",
       "doi": "10.1016/j.injury.2026.113773",
       "tier": "filtered",
       "topics": [],
@@ -4472,7 +4712,7 @@
         "Kuroda R",
         "Oe K"
       ],
-      "date": "2026 Oct 18",
+      "date": "2026 Nov 1",
       "doi": "10.1016/j.injury.2026.113800",
       "tier": "filtered",
       "topics": [],
@@ -4489,7 +4729,7 @@
         "Zhang Q",
         "Li Q"
       ],
-      "date": "2026 Oct 18",
+      "date": "2026 Nov 1",
       "doi": "10.1016/j.injury.2026.113802",
       "tier": "filtered",
       "topics": [],
@@ -4515,7 +4755,7 @@
         "Arifoglu Y",
         "Kirazli O"
       ],
-      "date": "2026 Oct 19",
+      "date": "2026 Nov 1",
       "doi": "10.1016/j.injury.2026.113801",
       "tier": "filtered",
       "topics": [],
@@ -4538,7 +4778,7 @@
         "Tucker A",
         "Diamond O"
       ],
-      "date": "2026 Oct 15",
+      "date": "2026 Nov 1",
       "doi": "10.1016/j.injury.2026.113785",
       "tier": "filtered",
       "topics": [],
@@ -4557,7 +4797,7 @@
         "Parry JA",
         "Large TM"
       ],
-      "date": "2026 Oct 19",
+      "date": "2026 Nov 1",
       "doi": "10.1016/j.injury.2026.113777",
       "tier": "filtered",
       "topics": [
@@ -4606,7 +4846,7 @@
         "Woreta FA",
         "Bhalerao SA"
       ],
-      "date": "2026 Oct 16",
+      "date": "2026 Nov 1",
       "doi": "10.1016/j.injury.2026.113780",
       "tier": "filtered",
       "topics": [
@@ -4752,7 +4992,7 @@
         "Langit MB",
         "Sharma H"
       ],
-      "date": "2026 Oct 15",
+      "date": "2026 Nov 1",
       "doi": "10.1016/j.injury.2026.113796",
       "tier": "filtered",
       "topics": [],
@@ -4774,7 +5014,7 @@
         "Bloemers FW",
         "van Embden D"
       ],
-      "date": "2026 Oct 14",
+      "date": "2026 Nov 1",
       "doi": "10.1016/j.injury.2026.113797",
       "tier": "filtered",
       "topics": [
@@ -4805,7 +5045,7 @@
         "Amani AM",
         "Vafa E"
       ],
-      "date": "2026 Oct 15",
+      "date": "2026 Nov 1",
       "doi": "10.1016/j.injury.2026.113783",
       "tier": "filtered",
       "topics": [],
@@ -4826,7 +5066,7 @@
         "AlQattan A",
         "Alherz M"
       ],
-      "date": "2026 Oct 13",
+      "date": "2026 Nov 1",
       "doi": "10.1016/j.injury.2026.113766",
       "tier": "filtered",
       "topics": [],
@@ -4849,7 +5089,7 @@
         "Rimon A",
         "Gigi R"
       ],
-      "date": "2026 Oct 07",
+      "date": "2026 Nov 1",
       "doi": "10.1016/j.injury.2026.113765",
       "tier": "filtered",
       "topics": [],
@@ -5987,7 +6227,7 @@
         "Otahal P",
         "Tran V"
       ],
-      "date": "2026 Oct 14",
+      "date": "2026 Nov 1",
       "doi": "10.1016/j.injury.2026.113784",
       "tier": "filtered",
       "topics": [
@@ -6036,7 +6276,7 @@
         "Arif HA",
         "Szatkowski JP"
       ],
-      "date": "2026 Oct 14",
+      "date": "2026 Nov 1",
       "doi": "10.1016/j.injury.2026.113786",
       "tier": "filtered",
       "topics": [],
@@ -6090,7 +6330,7 @@
         "Garc\u00eda Gomez A",
         "Celeita Medina DC"
       ],
-      "date": "2026 Sep 30",
+      "date": "2026 Nov 1",
       "doi": "10.1016/j.injury.2026.113746",
       "tier": "filtered",
       "topics": [
@@ -6381,7 +6621,7 @@
         "Newton A",
         "Brown DJ"
       ],
-      "date": "2026 Oct 12",
+      "date": "2026 Nov 1",
       "doi": "10.1016/j.injury.2026.113761",
       "tier": "filtered",
       "topics": [],
@@ -6736,7 +6976,7 @@
         "Mir HR",
         "Frankle MA"
       ],
-      "date": "2026 Oct 08",
+      "date": "2026 Nov 1",
       "doi": "10.1016/j.injury.2026.113769",
       "tier": "filtered",
       "topics": [],
@@ -7740,7 +7980,7 @@
         "Harwood P",
         "Howard A"
       ],
-      "date": "2026 Oct 07",
+      "date": "2026 Nov 1",
       "doi": "10.1016/j.injury.2026.113768",
       "tier": "filtered",
       "topics": [],
@@ -7766,7 +8006,7 @@
         "Falcone RA",
         "Kotagal M"
       ],
-      "date": "2026 Oct 07",
+      "date": "2026 Nov 1",
       "doi": "10.1016/j.injury.2026.113767",
       "tier": "filtered",
       "topics": [
@@ -7824,7 +8064,7 @@
         "Groenwold RHH",
         "van de Wall BJM"
       ],
-      "date": "2026 Oct 01",
+      "date": "2026 Nov 1",
       "doi": "10.1016/j.injury.2026.113749",
       "tier": "filtered",
       "topics": [
@@ -7854,7 +8094,7 @@
         "Rehman A",
         "Khan W"
       ],
-      "date": "2026 Oct 08",
+      "date": "2026 Nov 1",
       "doi": "10.1016/j.injury.2026.113760",
       "tier": "filtered",
       "topics": [
@@ -7889,7 +8129,7 @@
         "Yesil M",
         "Yilmaz BK"
       ],
-      "date": "2026 Oct 08",
+      "date": "2026 Nov 1",
       "doi": "10.1016/j.injury.2026.113763",
       "tier": "filtered",
       "topics": [],
@@ -8265,7 +8505,7 @@
         "Hailer NP",
         "Muder D"
       ],
-      "date": "2026 Oct 04",
+      "date": "2026 Nov 1",
       "doi": "10.1016/j.injury.2026.113757",
       "tier": "filtered",
       "topics": [],
@@ -8282,7 +8522,7 @@
         "Hoskins W",
         "Haase D"
       ],
-      "date": "2026 Oct 02",
+      "date": "2026 Nov 1",
       "doi": "10.1016/j.injury.2026.113748",
       "tier": "filtered",
       "topics": [
@@ -8320,7 +8560,7 @@
         "Gerard J",
         "Griepentrog J"
       ],
-      "date": "2026 Oct 02",
+      "date": "2026 Nov 1",
       "doi": "10.1016/j.injury.2026.113743",
       "tier": "filtered",
       "topics": [
@@ -8563,243 +8803,6 @@
       ],
       "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/42844637/"
-    },
-    {
-      "pmid": "42843615",
-      "title": "Spectral characteristics and parameters of pulse oximetry waveforms for assessing resuscitation status.",
-      "abstract": "**BACKGROUND**: Real-time assessment of physiological resuscitation status is critical for guiding personalised cardiopulmonary resuscitation (CPR) and avoiding unnecessary harm from prolonged chest compressions. Non-invasive, objectively trackable tools for this purpose remain limited.\n\n**METHODS**: This multicentre retrospective study (2013-2018) included 451 adult patients with cardiac arrest (497 CPR episodes) from 14 Chinese tertiary hospitals, comprising 158 Out-of-Hospital Cardiac Arrest (OHCA) episodes with prehospital SpO\n\n**RESULTS**: A frequency-domain \"hybrid\" pattern during the CC\u00a0+\u00a0ROSC identified ROSC with 100% specificity (PPV 1.000). In CC status, POP\n\n**CONCLUSION**: Pulse oximetry plethysmography waveform analysis-using signals already available on standard monitors-may provide a non-invasive, real-time approach that may help identify ROSC during ongoing compressions and distinguish between stable and unstable circulation.",
-      "journal": "Resuscitation",
-      "authors": [
-        "Li C",
-        "Tang H",
-        "Yang J",
-        "Chai Y",
-        "Yu X",
-        "Xu S",
-        "Xu J"
-      ],
-      "date": "2026 Oct 07",
-      "doi": "10.1016/j.resuscitation.2026.111346",
-      "tier": "filtered",
-      "topics": [
-        "Prehospital"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "prehospital",
-          "strength": "weak",
-          "topic": "Prehospital"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42843615/"
-    },
-    {
-      "pmid": "42842002",
-      "title": "The challenges and opportunities of major trauma care in Germany - results of multidisciplinary expert interviews of the LeAf trauma study.",
-      "abstract": "**BACKGROUND**: The recovery process of major trauma survivors involves various sectors within a complex system of different medical service providers and stakeholders who accompany and support patients throughout the recovery pathway. The aim was to explore experiences and opinions of experts, who are actively involved in the care of major trauma patients in the German healthcare system.\n\n**METHODS**: Semistructured in-depth group interviews were used to investigate experiences and opinions of experts with the focus on exploration of expert perspectives on opportunities and challenges of the cross sectoral care. An exploratory analysis was performed with an artificial intelligence-based coding software. In a second step, a system map was developed, and all inter- and intra-sectoral challenges and all opportunities for the optimization of processes were mapped.\n\n**RESULTS**: 39 experts from 13 medical specialties and occupational groups who were interviewed highlighted that intersectional issues especially across and within sectors pose a significant challenge to patient care. Four challenges were highlighted that significantly influence patient care: (1) Communication between sectors; (2) Complexity of transitions between sectors; (3) Inadequate aftercare and (4) Lack of psychosocial care.\n\n**DISCUSSION**: In conclusion five key learnings can be derived which could help to transform the healthcare system towards a system in which the complex condition major trauma with its high potential of chronification is enabling patients towards living a self-determined life and is creating opportunities for patients to return to work: (1) interdisciplinary collaboration (2), improved communication (3), early psychosocial screening and intervention (4), continuity of care (5), involvement of relatives.",
-      "journal": "Eur J Trauma Emerg Surg",
-      "authors": [
-        "Neubert A",
-        "Hempe S",
-        "Bieler D",
-        "Jaekel C",
-        "Gaeth C",
-        "H\u00f6fer C",
-        "Bartha S",
-        "Schwojer E",
-        "Lefering R",
-        "Royko G",
-        "Schulz D",
-        "Fetz K"
-      ],
-      "date": "2026 Oct 07",
-      "doi": "10.1177/16094069231211248",
-      "tier": "core",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "major trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42842002/"
-    },
-    {
-      "pmid": "42841996",
-      "title": "Costs and health-related quality of life of non-operative and surgical treatment modalities for displaced distal radius fractures: a comprehensive overview based on the CAST study.",
-      "abstract": "**PURPOSE**: The aim of this study was to provide a comprehensive overview of costs and health-related quality of life (HRQoL) associated with three treatment modalities for common displaced distal radius fractures (DRFs): (1) non-operative treatment, (2) direct plate fixation and (3) delayed plate fixation in case of fracture redisplacement during follow-up.\n\n**METHODS**: A cost and HRQoL analysis was performed based on data collected during the CAST study, a multicenter cluster-randomized controlled trial including adult patients with a displaced DRF, randomized between immobilization with a plaster splint or circumferential cast. Included patients were prospectively followed for one year. Operatively treated patients also continued questionnaire follow-up. From a societal perspective, healthcare costs, patient and family costs, and indirect (i.e. productivity) costs were collected. Patients completed questionnaires on HRQoL (EQ-5D-5\u00a0L), healthcare consumption and work productivity.\n\n**RESULTS**: In total, 693 patients were included in this study (non-operative: 402, direct plate fixation: 165, delayed plate fixation: 126). The estimated mean total costs per patient were \u20ac2,212 for non-operative treatment, \u20ac4,339 for direct plate fixation and \u20ac4,393 for delayed plate fixation HRQoL improved between 3 and 12 months but did not reach pre-injury HRQoL in all groups.\n\n**CONCLUSIONS**: This study provides a descriptive overview of societal costs of displaced DRF treatment. Non-operative treatment is least costly. The cost differences between direct and delayed plate fixation is \u20ac58 in favor of direct plate fixation. Starting with non-operative treatment and later deciding whether to proceed with operative treatment based on alignment changes during follow-up, could reasonably be considered as a treatment option. HRQoL improved in all groups.",
-      "journal": "Eur J Trauma Emerg Surg",
-      "authors": [
-        "Barvelink B",
-        "Heemskerk SCM",
-        "Verhaar JAN",
-        "Reijman M",
-        "Colaris JW"
-      ],
-      "date": "2026 Oct 07",
-      "doi": "10.1007/s00068-026-03354-7",
-      "tier": "core",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42841996/"
-    },
-    {
-      "pmid": "42841995",
-      "title": "Peri-periprosthetic femoral fractures: a single-centre case series of a rare and challenging clinical scenario.",
-      "abstract": "**PURPOSE**: Periprosthetic femoral fractures (PFFs) are an increasingly common complication of hip arthroplasty. A poorly defined scenario is a new femoral fracture after a previously treated PFF has united, which we term a peri-periprosthetic femoral fracture.\n\n**METHODS**: We retrospectively reviewed 154 surgically treated PFF episodes in patients aged over 65 years at our institution between 2011 and 2021. A peri-periprosthetic fracture was defined as a new acute femoral fracture after documented radiographic union of a previously treated PFF. Clinical, surgical, and radiographic data were reviewed.\n\n**RESULTS**: Seven patients (4.5% of the institutional PFF cohort) met the criteria. Mean age was 83.1 years and 6 (85.7%) were female. The mean interval to the peri-periprosthetic fracture was 37.3 months (median 27; range 7-105). By the Vancouver classification, 3 fractures were type B1, 1 type B3, and 3 type C. Treatment was individualised to fracture configuration, prosthetic stability, hardware, and bone stock. Radiographic union was documented in all 4 patients with adequate follow-up, at a mean of 4.3 months. Five patients regained ambulation; one with pre-existing limitations did not, and ambulatory status was unavailable for one. Medical complications occurred in 2 patients, and no major orthopaedic complication required reoperation. Mortality was 14.3% at one year and 42.9% at two years.\n\n**CONCLUSION**: Peri-periprosthetic femoral fractures constitute a rare and technically demanding scenario, distinct from delayed union, nonunion, refracture through an incompletely healed fracture, and fixation failure. Treatment should be individualised to prosthetic stability, pre-existing hardware, fracture morphology, and residual bone stock.",
-      "journal": "Eur J Trauma Emerg Surg",
-      "authors": [
-        "Matteotti R",
-        "Dalla Vecchia G",
-        "Masotti A",
-        "Monticelli L",
-        "Nardi M",
-        "Fiore L"
-      ],
-      "date": "2026 Oct 07",
-      "doi": "10.1007/s00068-026-03340-z",
-      "tier": "core",
-      "topics": [
-        "Orthopaedic"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "femoral fracture",
-          "strength": "weak",
-          "topic": "Orthopaedic"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42841995/"
-    },
-    {
-      "pmid": "42841949",
-      "title": "In-hospital mortality in hip fracture patients undergoing surgery later than 24 hours post admission might rather reflect the impact of comorbidities and treatment limitations than additional risks imposed by the mere timely delay itself.",
-      "abstract": "**PURPOSE**: Early surgery for proximal femoral fractures is widely recommended, but the association between surgical delay and short-term mortality remains uncertain because observational studies are vulnerable to confounding by patient characteristics and treatment limitation.\n\n**METHODS**: We retrospectively studied adults with operatively treated proximal femoral fractures at a DGU-certified regional trauma center in Germany (2022-2025). Time to surgery was measured from emergency department registration to operative start. Delays\u2009>\u200924\u00a0h were classified as medical or non-medical where sufficiently documented. The primary outcome was in-hospital mortality. Adjusted analyses included age, sex, ASA category, fracture type, concomitant orthopaedic injury, and treatment limitation (DNR/DNI; not time-anchored to surgery) and used Firth penalized logistic regression.\n\n**RESULTS**: Among 927 patients, 871 (94.0%) underwent surgery within 24\u00a0h; 53 (5.7%) died in hospital. Crude mortality was 5.6% after surgery within 24\u00a0h and 7.1% after surgery\u2009>\u200924\u00a0h. After adjustment, no clear independent association between surgery\u2009>\u200924\u00a0h and mortality was detected (aOR 1.03, 95% CI 0.29-2.92). Higher age, male sex, advanced ASA class, and treatment limitation were associated with mortality. In exploratory analyses, mortality was 19.0% among medically delayed patients and 0% among patients with non-medical delay, but adjusted estimates were highly imprecise.\n\n**CONCLUSION**: No clear association between surgery beyond 24\u00a0h and in-hospital mortality was detected after adjustment for measured patient characteristics and treatment-limitation status. The estimate was imprecise and compatible with clinically relevant benefit or harm; these findings do not establish the absence of an effect of surgical delay.",
-      "journal": "Eur J Trauma Emerg Surg",
-      "authors": [
-        "Babayi M",
-        "M\u00fcller CW"
-      ],
-      "date": "2026 Oct 07",
-      "doi": "10.1007/s00068-026-03349-4",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "trauma centre",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42841949/"
-    },
-    {
-      "pmid": "42839288",
-      "title": "Polymyxin B hemoadsorption in endotoxic septic shock: ten questions on the Tigris trial.",
-      "abstract": "The Tigris trial recently reported that polymyxin B hemoadsorption (PMX) achieved a high posterior probability of benefit for mortality in adults with endotoxic septic shock (endotoxemia with multiple organ failure). The trial used a Bayesian framework with a prior derived from a subgroup of an earlier trial (EUPHRATES) and this subgroup was used to design eligibility criteria for Tigris. Ten questions that expose the trial's strengths and limitations are answered in this review. Writing as the trial investigators, our intention is to make the reasoning behind these decisions explicit, so that clinicians and trialists can judge what Tigris does, and does not, demonstrate.",
-      "journal": "Crit Care",
-      "authors": [
-        "Legrand M",
-        "Neyra J",
-        "Tomlinson G",
-        "Kellum JA"
-      ],
-      "date": "2026 Aug 27",
-      "doi": "10.1007/s00134-026-08361-1",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "multiple organ dysfunction",
-          "strength": "weak",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42839288/"
-    },
-    {
-      "pmid": "42839269",
-      "title": "Comparison of two automated pupillometry indices in patients with acute brain injury: the prospective multicentre LYNX cohort study.",
-      "abstract": "**BACKGROUND**: Automated pupillometry quantifies the pupillary light reflex in acute brain injury. The neurological pupil index (NPi) is the established composite index and carries prognostic value. A second index from a different device, the quantitative pupil index (QPi), has recently become available, but whether it conveys equivalent information in non-anoxic acute brain injury is unknown.\n\n**METHODS**: LYNX was a prospective cohort study in three European intensive care units (September 2022-July 2024). Consecutive adults with traumatic brain injury, subarachnoid or intracerebral haemorrhage, or ischaemic stroke ventilated for more than 12\u00a0h were enrolled and followed for 6 months. Paired NPi (NPi-300) and QPi (NeuroLight) measurements were obtained at least every 6\u00a0h to day 7. Ancillary cohorts of healthy volunteers (dark vs. bright light) and surgical patients (before and after sufentanil and propofol) were also studied. The primary outcome was the correlation between the two indices; secondary outcomes were their association with intracranial hypertension and unfavourable 6-month outcome (Glasgow Outcome Scale-Extended\u2009\u2264\u20094). Values below 3 were considered abnormal, with QPi thresholds of 2 and 4 as sensitivity analyses; multivariable models were adjusted for age, sex, admission Glasgow Coma Scale score and focal deficit.\n\n**RESULTS**: Among 108 patients (median age 57 years [IQR 44-67], 60.2% male), 7089 paired measurements were obtained. The two indices were moderately to strongly correlated (r\u2009=\u20090.717, 95% CI 0.705-0.730). Each 10-percentage-point increase in abnormal values independently predicted unfavourable outcome (NPi: OR 1.49, 95% CI 1.09-2.04, p\u2009=\u20090.013; QPi: OR 1.76, 95% CI 1.31-2.37, p\u2009<\u20090.001). QPi was associated with intracranial hypertension (OR 1.38, 95% CI 1.04-1.82, p\u2009=\u20090.025), whereas NPi was not. Ambient lighting and contralateral eye opening had no meaningful effect in 75 volunteers. In 20 sedated non-brain-injured patients, propofol reduced QPi to a median of 1 (IQR 1-3) and NPi to 4.0 (IQR 3.6-4.3).\n\n**CONCLUSIONS**: NPi and QPi were correlated and both predicted 6-month outcome, but QPi was far more sensitive to anaesthetics, which probably confounds its association with intracranial hypertension. The indices are not interchangeable in sedated critically ill patients.\n\n**TRIAL REGISTRATION**: ClinicalTrials.gov, NCT05567978. Registered 5 October 2022.",
-      "journal": "Crit Care",
-      "authors": [
-        "Bouzat P",
-        "Blandino-Ortiz A",
-        "Vilotitch A",
-        "Pollet A",
-        "Zorzi S",
-        "Vathi S",
-        "Polato M",
-        "Gauss T",
-        "Taccone FS"
-      ],
-      "date": "2026 Sep 28",
-      "doi": "10.1007/s10877-025-01293-z",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "TBI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "traumatic",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic brain injury",
-          "strength": "weak",
-          "topic": "TBI"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42839269/"
-    },
-    {
-      "pmid": "42839242",
-      "title": "Minimally invasive versus open emergency right-sided colectomy for malignant obstruction: a nationwide propensity score-matched cohort study.",
-      "abstract": "**BACKGROUND**: Minimally invasive surgery (MIS) improves short-term outcomes in elective colectomy, however, the choice of surgical approach in hemodynamically stable patients with obstructing right-sided colon cancer remains unclear in emergency settings. MIS could be considered and the present study aims to evaluate short-term outcomes of MIS in bowel obstructed patients compared with open surgery (OPEN).\n\n**METHODS**: A retrospective nationwide study including patients from the nationwide Swedish Colorectal Cancer Registry (SCRCR) undergoing emergency right-sided colectomy in Sweden (2017-2023) was conducted. Propensity score matching (1:1) was performed based on sex, age, ASA class, hospital size, and operative timing (on-call vs. daytime). Outcomes included length of stay (LOS), postoperative complications, and surgical quality indicators. Analysis was performed according to intention-to-treat.\n\n**RESULTS**: A total of 1147 patients were identified. Of the 1,147 included patients, 99 (8.6%) underwent an initially minimally invasive approach. After matching, 99 patients remained in each group. The conversion rate was 34%. Median LOS was 9 days (IQR 6;14) after OPEN and 6 days (IQR 5;10) after MIS. In quantile regression with bootstrap standard errors, MIS was associated with a 3-day shorter median LOS (median difference\u2009-\u20093.0 days, 95% CI\u2009-\u20094 to -\u20092, p\u2009=\u20090.002). Postoperative complications (Clavien-Dindo\u2009\u2265\u20092) occurred in 38.8% after OPEN and in 23.2% after MIS. Logistic regression analysis with robust standard errors showed significantly lower odds of postoperative complications after MIS (OR 0.48, 95% CI 0.27-0.83, p\u2009=\u20090.009). No significant differences were observed in re-admission, 90-day mortality, R0 resection, lymph node yield, blood loss or operative time.\n\n**CONCLUSION**: In this nationwide observational cohort, an initially minimally invasive approach was associated with shorter length of stay and fewer postoperative complications. No statistically significant differences were observed in the available short-term surgical and pathological quality indicators. Given the limited number of MIS procedures and potential for residual confounding, these findings support further evaluation of MIS in carefully selected patients.\n\n**BACKGROUND**: In planned colon cancer surgery keyhole (minimally invasive) surgery is the most common approach. In emergency situations, however, open surgery with a midline incision is still the most common approach. There are several known benefits to patients undergoing keyhole surgery such as less pain, shorter length of hospital stay and decreased risk of incisional hernia.\n\n**AIM**: This study investigated whether keyhole surgery provides benefits in emergency operations for bowel obstruction caused by cancer, and whether it is safe.\n\n**METHOD**: Data from the nationwide Swedish Colorectal Cancer Registry (SCRCR) 2017-2023 were analyzed.\n\n**FINDINGS AND CONCLUSION**: Patients who underwent keyhole surgery had a shorter hospital stay and fewer complications. No clear differences were identified in the measured short-term surgical and pathological indicators. These findings suggest that keyhole surgery may be a feasible option for carefully selected patients requiring emergency surgery.",
-      "journal": "World J Emerg Surg",
-      "authors": [
-        "Agger E",
-        "Matthiessen P",
-        "Vedin T"
-      ],
-      "date": "2026 Oct 06",
-      "doi": "10.1016/j.annonc.2020.06.022",
-      "tier": "core",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42839242/"
     }
   ]
 }
