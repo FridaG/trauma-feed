@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-06T23:53:02.415608Z",
-  "total_articles": 239,
+  "generated": "2026-11-07T23:15:41.892689Z",
+  "total_articles": 234,
   "all_topics": [
     "Abdominal",
     "Burns",
@@ -378,6 +378,292 @@
     "Cochrane Database Syst Rev": "filtered"
   },
   "articles": [
+    {
+      "pmid": "42994387",
+      "title": "Administered opioids and benzodiazepines and the interpretation of positive trauma urine drug screens.",
+      "abstract": "**BACKGROUND**: Urine drug screening (UDS) is routine in trauma care, and results populate trauma registries, quality review, and research. Trauma patients receive opioids and benzodiazepines before urine is collected, so a positive class-matched screen may reflect administered drug rather than pre-injury use. We estimated the magnitude of this effect by drug class and its impact on reported prevalence.\n\n**METHODS**: Retrospective cohort of all trauma patients at a Level II center, 2023-2024 (n\u00a0=\u00a02538), of whom 1420 (55.9%) underwent UDS. Medication administration was matched to the corresponding immunoassay channel, with fentanyl analyzed against its dedicated assay and opiate-assay-matched opioid against the opiate assay. Logistic regression adjusted for age, sex, Injury Severity Score, activation, intubation, and substance use disorder. Treatment-associated positives were estimated by g-computation with bootstrap confidence intervals; cannabinoids, amphetamines, and cocaine were negative controls.\n\n**RESULTS**: Class-matched positivity greatly exceeded unexposed positivity: 70.0% versus 12.5% for the fentanyl assay (adjusted odds ratio [aOR] 15.3, 95% CI 11.5-20.4), 59.0% versus 19.0% for the opiate assay given an opiate-assay-matched opioid (aOR 5.9), and 51.6% versus 8.9% for benzodiazepines (aOR 6.1). Restricting exposure to pre-hospital administration, which necessarily precedes collection, preserved the effect (fentanyl aOR 19.9). Negative controls showed minimal association (amphetamine aOR 1.1). By g-computation, an estimated 62.8% (56.9-68.6) of fentanyl-assay positives, 33.7% of opiate positives, and 29.3% of benzodiazepine positives were associated with administered drug. Any-positive prevalence was 64.4% overall and 37.3% among patients given neither class.\n\n**CONCLUSIONS**: Administered fentanyl was associated with a model-estimated majority of positive fentanyl-assay screens; administered opiates and benzodiazepines were associated with smaller shares of their corresponding positive screens. Class-matched results should be interpreted alongside the medication record. These findings do not establish the source or analytical validity of an individual positive result.",
+      "journal": "Am J Emerg Med",
+      "authors": [
+        "Potts C",
+        "Ali A",
+        "Gandhi S",
+        "Ghafoor M",
+        "May D"
+      ],
+      "date": "2026 Oct 01",
+      "doi": "10.1016/j.ajem.2026.09.051",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "injury severity",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42994387/"
+    },
+    {
+      "pmid": "42994069",
+      "title": "Does greater orthoplastic integration reduce deep infection after open tibial fracture? A systematic review and meta-analysis.",
+      "abstract": "**OBJECTIVE**: Combined orthoplastic management of open tibial fractures is widely recommended, but existing evidence has not quantified whether the degree of care-pathway integration, beyond a binary orthoplastic-versus-orthopaedic distinction, is associated with a graded difference in outcome. This systematic review and meta-analysis quantified deep infection and secondary outcome rates across four care-pathway models of increasing team continuity.\n\n**METHODS**: MEDLINE, Embase, Cochrane CENTRAL, and grey literature were searched in collaboration with a specialist medical librarian. Studies were classified into four care-pathway groups: Group 1, single-setting simultaneous fixation and soft tissue coverage; Group 2, staged care with continuous orthoplastic team involvement; Group 3, discontinuous or delayed plastic surgical involvement; Group 4, purely orthopaedic management. Random-effects meta-analysis pooled deep infection, limb salvage, reoperation, and non-union rates per group. Comparative meta-analyses used genuine within-study comparator arms. Confounding was assessed via meta-regression and subgroup analysis. Risk of bias was assessed using ROBINS-I and certainty of evidence was rated using GRADE.\n\n**RESULTS**: Fifty-eight studies (81 classified arms) were included. Pooled deep infection rates rose progressively with decreasing care-pathway integration: 8% (95% CI 5-12%) in Group 1, 16% (9-24%) in Group 2, 28% (11-49%) in Group 3, and 37% (25-50%) in Group 4. A similar gradient was observed for non-union (4-26% across groups). Limb salvage was near-universal (94-99%) and did not discriminate between pathways. Leave-one-out and sensitivity analyses confirmed robustness for Groups 1, 2, and 4; Group 3's estimate was substantially influenced by a single Critical-risk-of-bias study, with deep infection rates attenuating from 28% to 23% on exclusion. No significant publication bias was detected. Certainty of evidence, per GRADE, was Very Low for majority of the pooled estimates, reflecting serious risk of bias and inconsistency, and Low where heterogeneity was minimal.\n\n**CONCLUSION**: Progressive care-pathway integration is associated with a consistent, graded reduction in deep infection and non-union risk following open tibial fracture, independent of injury mechanism. These findings support continued investment in combined orthoplastic care, including partial integration models where single-setting surgery is not achievable.",
+      "journal": "Injury",
+      "authors": [
+        "Choi B",
+        "Ghaie S",
+        "Shah A",
+        "Boriani F"
+      ],
+      "date": "2026 Oct 27",
+      "doi": "10.1016/j.injury.2026.113853",
+      "tier": "filtered",
+      "topics": [
+        "Orthopaedic"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "tibial fracture",
+          "strength": "strong",
+          "topic": "Orthopaedic"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42994069/"
+    },
+    {
+      "pmid": "42994068",
+      "title": "Osteoporosis treatment gaps and risk of recurrent hip fracture following initial fragility fracture: Insights from over one million cases.",
+      "abstract": "**INTRODUCTION**: Patients who sustain a hip fracture are at high risk of a second hip fracture, yet most do not receive osteoporosis pharmacotherapy. We evaluated the association between bone-health medication initiation after a first hip fracture and the risk of a second hip fracture.\n\n**METHODS**: This retrospective cohort study used Epic Cosmos, a de-identified multi-institutional electronic health record database. Adults who underwent surgery for a first femoral neck, intertrochanteric or subtrochanteric hip fracture were classified as having no bone-health medication, as baseline users (medication documented at admission), or as initiators within six months of the index fracture. Second hip fracture was assessed over fixed 1-, 2- and 5-year horizons. We estimated absolute risks, cumulative incidence accounting for death as a competing risk, and multivariable cause-specific Cox proportional hazards models.\n\n**RESULTS**: Overall, 1,051,020 patients were eligible for the 5-year analysis: 705,059 (67.1%) had no medication, 83,452 (7.9%) were baseline users and 262,509 (25.0%) initiated medication within six months. Five-year cumulative incidence of second hip fracture was 17.2% (95% confidence interval [CI] 17.1-17.3) with no medication, 14.1% (95% CI 13.8-14.4) among baseline users and 8.9% (95% CI 8.8-9.1) among initiators. In adjusted models, the hazard of second hip fracture was lower among baseline users (hazard ratio [HR] 0.71, 95% CI 0.69-0.73) and initiators (HR 0.38, 95% CI 0.37-0.39) than among patients with no medication.\n\n**CONCLUSIONS**: Initiation of bone-health medication within six months of a first hip fracture was associated with a lower risk of a second hip fracture. Baseline users had intermediate risk, which may reflect confounding by indication, agent selection or adherence. These findings support early, coordinated post-fracture osteoporosis treatment; the observational design precludes causal inference.",
+      "journal": "Injury",
+      "authors": [
+        "Laurore C",
+        "Lezak BA",
+        "Xie J",
+        "Avila A",
+        "Hong C",
+        "Yassin S",
+        "Ganta A",
+        "Egol KA",
+        "Konda SR"
+      ],
+      "date": "2026 Nov 01",
+      "doi": "10.1016/j.injury.2026.113865",
+      "tier": "filtered",
+      "topics": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42994068/"
+    },
+    {
+      "pmid": "42994067",
+      "title": "Aspirin is safe and effective for prevention of deep vein thrombosis following acetabular fracture surgery.",
+      "abstract": "**BACKGROUND**: Patients with acetabular fractures are at significant risk for venous thromboembolism (VTE), yet the optimal chemoprophylactic agent remains undefined. Emerging evidence from elective arthroplasty and general orthopaedic trauma populations suggests that aspirin (ASA) may be a safe and effective alternative to traditional anticoagulants. The purpose of this study was to evaluate the safety and efficacy of ASA compared to other anticoagulants for deep vein thrombosis (DVT) prevention following acetabular fracture surgery.\n\n**METHODS**: A retrospective cohort analysis was performed using a global, web-based health research network that provides on-demand access to de-identified, real-world data from electronic health records and claims. Adult patients (\u226518 years) who underwent surgical treatment for acetabular fractures between January 2014 and December 2025 and received VTE prophylaxis within 14 days of surgery were identified. Patients were stratified into ASA (n\u202f=\u202f1189) and other anticoagulant (n\u202f=\u202f5478) cohorts. Propensity score matching (1:1) was performed to balance baseline characteristics, yielding 1174 patients per cohort. Rates and odds of DVT, emergency department (ED) visits, deep infection, stroke, and readmission were assessed at 14-, 30-, and 90-day postoperative intervals. Temporal trends in VTE prophylaxis utilization were also analyzed.\n\n**RESULTS**: Compared to other anticoagulants, ASA was associated with significantly lower odds of DVT at 14 days (1.11% vs. 2.22%; odds ratio [OR]: 0.494; 95% confidence interval [CI]: 0.253-0.967; P\u202f=\u202f0.036), 30 days (1.45% vs. 2.73%; OR: 0.524; 95% CI: 0.290-0.950; P\u202f=\u202f0.030), and 90 days (2.56% vs. 4.34%; OR: 0.577; 95% CI: 0.365-0.913; P\u202f=\u202f0.018). ASA was also associated with significantly lower odds of ED visits at 90 days (OR: 0.741; 95% CI: 0.570-0.963; P\u202f=\u202f0.024). There were no significant differences in deep infection, stroke, or readmission rates. ASA utilization increased from 7.2% in 2014-39.5% in 2025.\n\n**CONCLUSIONS**: ASA is safe and effective for DVT prevention following acetabular fracture surgery and is associated with fewer ED visits compared to other anticoagulants. These findings support the growing adoption of ASA as a VTE prophylactic agent in the acetabular fracture population.",
+      "journal": "Injury",
+      "authors": [
+        "Dinesh A",
+        "Poursalehian M",
+        "Billow D",
+        "Peirish RW",
+        "Cereijo C",
+        "Padubidri A",
+        "Patterson B",
+        "Vallier HA"
+      ],
+      "date": "2026 Nov 04",
+      "doi": "10.1016/j.injury.2026.113877",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Orthopaedic"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "orthopaedic trauma",
+          "strength": "weak",
+          "topic": "Orthopaedic"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42994067/"
+    },
+    {
+      "pmid": "42994066",
+      "title": "Surgical anatomy of the Over-the-Rectus Extrapelvic (OREX) approach defines safe zones for W-plate fixation of the anterior pelvic ring.",
+      "abstract": "**OBJECTIVES**: To define the procedure-specific surgical anatomy of the pre-symphyseal region relevant to W-plate fixation by characterizing the soft-tissue layers, identifying critical neurovascular structures, and defining quantitative safe zones for dissection and plate placement.\n\n**METHODS**: Fresh-frozen adult cadavers underwent standardized low Pfannenstiel dissections reproducing the Over-the-Rectus Extrapelvic (OREX) exposure required for W-plate fixation. Pre-symphyseal soft-tissue layers were sequentially dissected from the skin to the anterior pubic symphysis. The locations of critical neurovascular structures relative to the pubic midline and pubic tubercles were recorded, together with anatomical layers, dimensions of the prepubic ligamentous-aponeurotic complex, soft-tissue thickness, sex-related anatomical differences, and surgical safe zones.\n\n**RESULTS**: Three reproducible anatomical layers were identified in ten specimens. The superficial layer contained the pre-symphyseal fat pad and superficial epigastric vessels. The intermediate layer contained the spermatic cord or round ligament, ilioinguinal and genitofemoral nerves, and suprapubic artery, with these critical structures located at a mean distance of approximately 3.2\u202fcm from the midline. The deep layer was consistently formed by the Pyramidalis-anterior pubic Ligament-Adductor longus Complex (PLAC), which covered the anterior pubic symphysis and measured a mean of 4.6\u202f\u00d7\u202f3.1\u202fcm. No critical neurovascular structure crossed the central trajectory corresponding to W-plate placement. Female specimens demonstrated greater preperitoneal soft-tissue thickness, whereas lateral surgical safe zones were narrower in male specimens.\n\n**CONCLUSION**: The pre-symphyseal region demonstrated a reproducible three-layer surgical anatomy with a predictable distribution of critical neurovascular structures. Quantitative anatomic mapping defined procedure-specific safe zones for extrapelvic W-plate fixation and provided practical guidancefor surgical exposure, implant positioning, and avoidance of iatrogenic injury.\n\n**LEVEL OF EVIDENCE**: Level IV, therapeutic study.",
+      "journal": "Injury",
+      "authors": [
+        "Da Cunha Q",
+        "Hellwinkel JE",
+        "Mauffrey C",
+        "David G"
+      ],
+      "date": "2026 Nov 05",
+      "doi": "10.1016/j.injury.2026.113889",
+      "tier": "filtered",
+      "topics": [
+        "Pelvic"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "pelvic ring",
+          "strength": "strong",
+          "topic": "Pelvic"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42994066/"
+    },
+    {
+      "pmid": "42994065",
+      "title": "Common acetabular fracture patterns in patients with femoroacetabular impingement.",
+      "abstract": "**INTRODUCTION**: The incidence of acetabular fractures is rising, affecting both younger and elderly patient populations. Developmental abnormalities such as femoroacetabular impingement (FAI) and hip dysplasia alter hip biomechanics, potentially predisposing younger patients to fracture. FAI, resulting from a cam and/or pincer deformity, is common, affecting 25% of asymptomatic males and 5% of asymptomatic females, and has been linked to hip pain and early osteoarthritis. However, the relationship between FAI morphology and acetabular fracture pattern remains unclear.\n\n**METHODS**: Patients, 18-55 years old, treated between 2005 and 2023 for acetabular fracture, hip dislocation, or femoral head fracture were reviewed for FAI morphology using the Judet and Letournel classification systems. Statistical comparisons were conducted using Fisher's exact tests and unpaired t-tests, with significance set at p\u202f<\u202f0.05.\n\n**RESULTS**: A total of 294 patients (72%) exhibited plain radiographic FAI morphology, while 115 (28%) served as controls. The most common fracture pattern in both groups was posterior wall (PW) fractures (23.1% FAI, 31.3% control). Male FAI patients were significantly more likely to experience transverse fractures (p\u202f=\u202f0.032, OR=4.6) and posterior column plus PW fractures (p\u202f=\u202f0.035, OR=2.5) than controls. Among FAI patients, posterior column fractures were significantly more likely to occur in females (p\u202f=\u202f0.011, OR=19). A total of 31 (27.0%) control patients and 63 (21.4%) FAI patients experienced complications.\n\n**CONCLUSIONS**: In our data set, FAI patients accounted for 72% of patients undergoing acetabular fracture ORIF. FAI patients most commonly sustained posterior wall fractures, but male FAI patients had a significantly higher rate of transverse and posterior column plus PW. FAI patients experienced a complication rate of 21.4% compared to 27.0% in non-FAI patients.",
+      "journal": "Injury",
+      "authors": [
+        "Garlapaty AR",
+        "Townsley S",
+        "Touhey DC",
+        "Walz JW",
+        "Duren D",
+        "Cook JL",
+        "Crist BD"
+      ],
+      "date": "2026 Nov 04",
+      "doi": "10.1016/j.injury.2026.113878",
+      "tier": "filtered",
+      "topics": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42994065/"
+    },
+    {
+      "pmid": "42994064",
+      "title": "Robotic navigation-assisted versus conventional freehand placement of the infra-acetabular screw in acetabular fracture surgery: A retrospective comparative study.",
+      "abstract": "**BACKGROUND**: The infra-acetabular screw (IAS) is an important component of fixation constructs for complex acetabular fractures, but accurate freehand placement is technically demanding, and evidence on robotic navigation-assisted IAS placement remains limited. This study compared robotic navigation-assisted (RA) and conventional fluoroscopic freehand (CF) IAS placement in acetabular fracture surgery.\n\n**METHODS**: In this retrospective study, 53 patients with acetabular fractures who underwent IAS fixation between June 2022 and July 2024 were included, 28 underwent RA placement using the HoloSight robotic navigation system and 25 underwent CF placement. The primary outcome was screw-placement accuracy, graded on postoperative CT according to the Lonstein criteria. Secondary outcomes included the number of guide-wire adjustments, fluoroscopy frequency, IAS insertion time, total operative time, intraoperative blood loss, fracture reduction quality, hip function, and complications.\n\n**RESULTS**: The grade 0 (no cortical penetration) rate was higher in the RA group than in the CF group (96.4% [27/28] vs. 60.0% [15/25], p\u202f=\u202f0.005). RA placement was associated with fewer guide-wire adjustments (0.07\u202f\u00b1\u202f0.26 vs. 3.60\u202f\u00b1\u202f1.15), fewer fluoroscopies (9.32\u202f\u00b1\u202f1.66 vs. 21.28\u202f\u00b1\u202f3.18), shorter IAS insertion time (10.36\u202f\u00b1\u202f2.50 vs. 26.68\u202f\u00b1\u202f4.11\u202fmin), shorter total operative time (134.54\u202f\u00b1\u202f15.46 vs. 155.80\u202f\u00b1\u202f18.48\u202fmin), and less intraoperative blood loss (468.21\u202f\u00b1\u202f84.68 vs. 588.40\u202f\u00b1\u202f80.76\u202fmL) (all p\u202f<\u202f0.001). The mean follow-up duration was 15.7\u202f\u00b1\u202f2.0 months (range, 13-22 months). Reduction quality, hip function, and complication rates did not differ significantly between the two groups.\n\n**CONCLUSIONS**: Robotic navigation-assisted IAS placement was associated with significantly higher screw-placement accuracy and greater procedural efficiency than the conventional freehand technique, without compromising fracture reduction quality, hip function, or safety.",
+      "journal": "Injury",
+      "authors": [
+        "Cao W",
+        "Chen Z",
+        "Liu H",
+        "Zhan N",
+        "He J",
+        "Qi L",
+        "Li J",
+        "Zheng Y",
+        "Tang J",
+        "Li M",
+        "Chen H"
+      ],
+      "date": "2026 Nov 04",
+      "doi": "10.1016/j.injury.2026.113875",
+      "tier": "filtered",
+      "topics": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42994064/"
+    },
+    {
+      "pmid": "42994063",
+      "title": "Risk factors for complications following surgical fixation of pelvic ring fractures: a retrospective cohort study.",
+      "abstract": "**BACKGROUND**: Surgical fixation of pelvic ring fractures carries a substantial risk of postoperative complications, particularly surgical site infection, yet the relative contribution of fracture pattern and associated soft tissue injury to this risk remains incompletely defined.\n\n**OBJECTIVE**: To describe the rate and spectrum of complications following surgical fixation of pelvic ring fractures and to identify factors independently associated with these complications, with particular attention to acute surgical site infection.\n\n**METHODS**: Retrospective, single-center cohort study of 126 patients who underwent surgical fixation of pelvic ring fractures between December 2014 and November 2024, reported in accordance with the STROBE statement. Candidate demographic, injury-related, and treatment-related exposures were compared against a composite primary outcome (any postoperative complication) and against acute infection using Fisher's exact test, Pearson chi-square test, the Mann-Whitney U test, and multivariable logistic regression.\n\n**RESULTS**: Overall, 39 of 126 patients (31.0%) experienced at least one postoperative complication; chronic pain (22.2%) and acute surgical site infection (16.7%) were the most frequent individual components. In bivariate analysis, the presence of a Morel-Lavall\u00e9e lesion at baseline was significantly associated with both the composite outcome (OR 12.65, 95% CI 1.42-112.27, p\u202f=\u202f0.011) and acute infection (OR 12.12, 95% CI 2.06-71.37, p\u202f=\u202f0.007); Young-Burgess fracture pattern was also associated with infection (p\u202f=\u202f0.018). After multivariable adjustment for infection, a Morel-Lavall\u00e9e lesion (adjusted OR 17.69, 95% CI 2.46-126.95, p\u202f=\u202f0.004) and combined-mechanism fracture pattern (adjusted OR 8.25 versus anteroposterior compression, 95% CI 1.91-35.58, p\u202f=\u202f0.005) remained independently associated with infection. Neither the presence, technique, nor surgical approach of posterior ring fixation was associated with any complication type, and time from injury to definitive fixation (median 13 days) showed no significant association with either outcome.\n\n**CONCLUSION**: A Morel-Lavall\u00e9e lesion identified at initial evaluation was associated with postoperative complications in bivariate analysis and, together with a combined-mechanism fracture pattern, remained an independent predictor of surgical site infection after multivariable adjustment. No statistically significant association was identified between posterior fixation technique and complication risk.\n\n**LEVEL OF EVIDENCE**: III, retrospective cohort study.",
+      "journal": "Injury",
+      "authors": [
+        "Kojima KE",
+        "Argotte PLP",
+        "Esteves DS",
+        "Guimar\u00e3es MGV",
+        "Medina R",
+        "Abe Puccetti VLY",
+        "de Camargo Leonhardt M",
+        "Santos Silva JD"
+      ],
+      "date": "2026 Nov 05",
+      "doi": "10.1016/j.injury.2026.113876",
+      "tier": "filtered",
+      "topics": [
+        "Pelvic"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "pelvic ring",
+          "strength": "strong",
+          "topic": "Pelvic"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42994063/"
+    },
+    {
+      "pmid": "42994062",
+      "title": "Long-term functional and orthopaedic outcomes in patients with severe pelvic ring injury requiring REBOA: A two-center matched cohort study.",
+      "abstract": "**BACKGROUND**: Resuscitative endovascular balloon occlusion of the aorta (REBOA) is used for life-threatening hemorrhage, but evidence has largely focused on acute outcomes. Long-term functional and orthopaedic outcomes among survivors treated with REBOA remain poorly characterized.\n\n**METHODS**: This retrospective two-center matched cohort included 98 adults with severe, hemodynamically unstable pelvic ring injuries who survived at least 24\u202fh; hospital survivors required at least 12 months of follow-up. Forty-nine REBOA-treated patients were matched 1:1 to 49 non-REBOA patients by major Young-Burgess category, Injury Severity Score, and age. The primary outcome was functional status among hospital survivors, categorized as good/fair/poor. Deep surgical site infection (SSI) after definitive pelvic fixation was the key secondary outcome, and nonunion was exploratory. Main models used a propensity-score linear predictor based on age, Injury Severity Score, initial systolic blood pressure, and lactate.\n\n**RESULTS**: Seventy-five patients survived hospitalization (30 REBOA; 45 non-REBOA); median follow-up was 19 months. Good/fair/poor outcomes were 16.7%/46.7%/36.7% in REBOA survivors and 51.1%/37.8%/11.1% in non-REBOA survivors. REBOA exposure was associated with worse functional status after adjustment (common odds ratio [cOR], 3.14; 95% CI, 1.11-8.92; P\u202f=\u202f0.032). Among 68 definitive-fixation survivors, deep SSI occurred in 44.0% versus 9.3% (adjusted OR, 7.01; 95% CI, 1.88-31.07; P\u202f=\u202f0.003); all observed events occurred within 60 days. Nonunion occurred in 26.7% versus 6.7% (adjusted OR, 9.09; 95% CI, 2.00-53.71; P\u202f=\u202f0.004). Sensitivity analyses for deep SSI were directionally consistent.\n\n**CONCLUSIONS**: Among hospital survivors, REBOA exposure was associated with poorer long-term functional recovery and a higher burden of deep SSI. Nonunion was more frequent but remained exploratory. These findings characterize a high-risk orthopaedic survivor phenotype but do not establish a direct causal effect of REBOA.",
+      "journal": "Injury",
+      "authors": [
+        "Yoon YC",
+        "Song HK"
+      ],
+      "date": "2026 Nov 03",
+      "doi": "10.1016/j.injury.2026.113872",
+      "tier": "filtered",
+      "topics": [
+        "Haemorrhage",
+        "Pelvic",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "injury severity",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "pelvic ring",
+          "strength": "strong",
+          "topic": "Pelvic"
+        },
+        {
+          "keyword": "REBOA",
+          "strength": "strong",
+          "topic": "Haemorrhage"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42994062/"
+    },
+    {
+      "pmid": "42994061",
+      "title": "The prevalence of mental health service use after long-term minor-to-moderate motor vehicle crash injury: a retrospective cohort study.",
+      "abstract": "**BACKGROUND**: Minor to moderate motor vehicle crash (MVC) injuries can lead to persistent psychological distress, yet evidence regarding mental health service (MHS) use is limited. This study aimed to estimate the prevalence and characterise the determinants of MHS use after minor to moderate MVC injury.\n\n**METHODS**: This retrospective cohort study examined Australians with work-related, MVC injuries and workers' compensation claims exceeding 24 months duration. Claims and services data were linked with healthcare records to capture MHS use before and after injury. The injured group was divided into severity sub-groups based on hospital admission status (hospitalised, non-hospitalised). A community comparator group was matched to the non-hospitalised group based on gender and injury year. The primary outcome was MHS period prevalence within 24 months. Determinants of MHS were identified through binomial logistic regression.\n\n**RESULTS**: There were 574 non-hospitalised, 293 hospitalised, and 8294 community comparators included in the study cohort. The prevalence of MHS use at 24 months post injury was highest for the hospitalised group (36.9%), followed by the non-hospitalised group (31.5%) and community comparators (13.5%). The non-hospitalised group had 3.14 times greater odds (95% CI 2.53, 3.88) of MHS use compared to community comparators, and had the highest prevalence of publicly-funded MHS (18.8%). Hospitalised participants (28.3%) had a higher prevalence of workers' compensation funded MHS compared to non-hospitalised participants (19.3%). The adjusted odds of MHS use were higher among females (OR 2.05 [1.42, 2.97]), and people who had used MHS in the 12 months prior to injury (OR 4.66 [2.41, 9.50]).\n\n**CONCLUSION**: People with non-hospitalised MVC injuries had a significantly higher prevalence of MHS use compared with their matched community comparator group, and people with hospitalised MVC injuries had the highest prevalence at 24 months-follow up. The highest proportion of people assessing publicly funded MHS was by people in the non-hospitalised group. These findings highlight the ongoing mental health needs of people with minor to moderate MVC injury. Monitoring for the early post injury psychological signs and symptoms, and timely referral to MHS, could reduce psychological burden following MVC injury.",
+      "journal": "Injury",
+      "authors": [
+        "Yu S",
+        "Griffiths D",
+        "Armfield N",
+        "Gray S",
+        "Di Donato M",
+        "Collie A"
+      ],
+      "date": "2026 Nov 04",
+      "doi": "10.1016/j.injury.2026.113839",
+      "tier": "filtered",
+      "topics": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42994061/"
+    },
     {
       "pmid": "42993951",
       "title": "Progressive outer midbrain lesion associated with repetitive mild traumatic brain injury: a study of 52 professional wrestlers.",
@@ -8652,620 +8938,6 @@
       ],
       "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/42855690/"
-    },
-    {
-      "pmid": "42855380",
-      "title": "Comparison of suicidal and accidental fall injury patterns: A 10-year retrospective study in Hong Kong.",
-      "abstract": "**BACKGROUND**: Falls from a height are a common cause of major trauma in urban areas. This study aims to investigate the differences in patient characteristics and injury patterns between suicidal and accidental falls from a height in Hong Kong.\n\n**METHOD**: From 2015-2024, patients aged \u2265\u202f18 years recorded under the 'fall from height \u2265\u202f2\u202fm' category of the trauma registry in a tertiary hospital in Hong Kong were retrospectively reviewed. Patient characteristics and the nature of the falls were noted. Abbreviated injury scale (AIS) was the primary outcome. Injury severity score (ISS), skeletal fractures, clinical parameters and clinical outcomes were secondary outcomes.\n\n**RESULTS**: Of 268 patients included, 50 were in the suicide group and 218 in the accident group. Patients in the suicide group had significantly higher ISS (median 29, IQR 20-45) and fall heights (median 9.0\u202fm, IQR 6.0-10.0\u202fm) than those in the accident group (ISS median 17, IQR 9-26; median fall height 3.0\u202fm, IQR 2.5-5.0\u202fm; both p\u202f<\u202f0.001). Within major trauma patients (defined as ISS>15, n\u202f=\u202f157), the suicide group had more serious injuries (defined as AIS \u22653) in the abdomen (41% vs 19%, p\u202f=\u202f0.008) and extremities (83% vs 28%, p\u202f<\u202f0.001), and less serious injuries in the head and neck (39% vs 62%, p\u202f=\u202f0.018). Among the major trauma patients, those in the suicide group had more fractures of the ribs, lumbar spine, pelvis, hips and feet, while those in the accident group sustained more skull fractures. In particular, all deaths in the accident group had AIS head and neck \u2265\u202f5. Subgroup analysis according to fall height in the major trauma cases found the differences in pelvic fractures between the two groups remained significant in falls <\u202f10\u202fm.\n\n**CONCLUSION**: Falls from heights due to accidents more often result in serious head injuries, while those due to suicide more often have serious injuries in the lower part of the body. Serious head injury is a major cause of death in accidental falls.",
-      "journal": "Injury",
-      "authors": [
-        "Hui LH",
-        "Hau ESS",
-        "Leung LY",
-        "Cheung RKH",
-        "Cheung NK",
-        "Man SY",
-        "Graham CA"
-      ],
-      "date": "2026 Oct 06",
-      "doi": "10.1016/j.injury.2026.113745",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Systems/QI",
-        "TBI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "major trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "injury severity",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "head injury",
-          "strength": "weak",
-          "topic": "TBI"
-        },
-        {
-          "keyword": "trauma registry",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42855380/"
-    },
-    {
-      "pmid": "42855379",
-      "title": "Injury patterns in a war zone: A comparative analysis of civilians and military personnel.",
-      "abstract": "**BACKGROUND**: Modern armed conflicts increasingly affect both civilians and defense forces, resulting in heterogeneous injury patterns driven by diverse mechanisms. Direct comparative data between these populations treated within the same healthcare system remain limited.\n\n**OBJECTIVE**: To compare injury mechanisms, anatomical injury patterns, injury severity, and early clinical outcomes between civilians and defense forces casualties treated at a single tertiary trauma center during an active conflict.\n\n**METHODS**: A retrospective analysis was conducted of all consecutive war-related trauma admissions between October 7, 2023, and January 7, 2024. Demographic data, injury mechanisms, anatomical sites, Injury Severity Score (ISS), emergency interventions, and early outcomes were collected. Percentage-based comparative plots were used to visualize injury mechanism and anatomical site distributions.\n\n**RESULTS**: The cohort included 192 patients (128 defense forces, 64 civilians). Civilians were older and included more females. Overall injury severity and rates of airway management, ventilatory support, and ICU admission were comparable between groups. Defense forces more frequently required direct transfer from the emergency department to the operating room (28% vs. 14%, p\u202f=\u202f0.047). Shrapnel-related injuries were significantly more common among defense forces, whereas acoustic trauma was observed exclusively among civilians (36%, p\u202f<\u202f0.001). Injury-mechanism profiles differed between groups, whereas no statistically significant differences were observed in the proportions of patients injured at the individual anatomical site.\n\n**CONCLUSIONS**: Despite similar overall injury severity, civilians and defense forces exhibit distinct injury profiles. Civilians are disproportionately affected by acoustic trauma, highlighting population-specific vulnerabilities with implications for triage, diagnostic evaluation, and trauma system preparedness, especially during mass casualty incidents, when rapid recognition of group-specific injury patterns is essential for appropriate resource prioritization and allocation.",
-      "journal": "Injury",
-      "authors": [
-        "Sasson I",
-        "Chaushu H",
-        "Ungar OJ"
-      ],
-      "date": "2026 Oct 07",
-      "doi": "10.1016/j.injury.2026.113759",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "injury severity",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "trauma centre",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42855379/"
-    },
-    {
-      "pmid": "42855036",
-      "title": "Early post-ROSC laboratory phenotypes and clinical outcomes after out-of-hospital cardiac arrest: a 10-year national cohort study.",
-      "abstract": "**BACKGROUND**: Prior phenotyping in out-of-hospital cardiac arrest (OHCA) relied predominantly on prehospital indicators, which neither describe nor grade the underlying ischemia-reperfusion injury. We aimed to derive laboratory-based phenotypes and describe their clinical characteristics and outcome associations.\n\n**METHODS**: We conducted a retrospective cohort study of adult resuscitated OHCA patients of presumed cardiac etiology between 01/02/2011 and 01/01/2022, linking Singapore's national OHCA and cardiovascular databases. Unsupervised latent class analysis (LCA) was applied to 14 laboratory variables within six hours post-return of spontaneous circulation (ROSC). Stability was confirmed through split-sample validation. Logistic regression and Cox proportional hazards model, adjusted for age, sex and initial cardiac rhythm, assessed poor neurological recovery at hospital discharge, 30-day and 3-year mortality.\n\n**RESULTS**: Among 1514 eligible patients (median age 65.0\u00a0years, 73.6% males), LCA identified three distinct phenotypes: multi-organ dysfunction (MOD, N\u00a0=\u00a0286), homeostatic (HOM, N\u00a0=\u00a0967), and immune-dysregulated (IMD, N\u00a0=\u00a0261), independently reproduced in derivation (entropy\u00a0=\u00a00.817) and replication (entropy\u00a0=\u00a00.892) subsamples. The most discriminative variables were creatinine, eosinophil and lymphocyte. Compared to MOD, both HOM (aOR: 0.50, 95% CI 0.30-0.78, p\u00a0=\u00a00.004) and IMD (aOR: 0.46, 95% CI 0.26-0.78, p\u00a0=\u00a00.005) phenotypes had significantly lower odds of poor neurological recovery. This pattern was consistent for 30-day mortality (HOM aHR: 0.71, 95% CI 0.61-0.83; IMD aHR: 0.78, 95% CI 0.64-0.94) and 3-year mortality (HOM aHR: 0.70, 95% CI 0.60-0.82; IMD aHR: 0.74, 95% CI 0.62-0.90), all p\u00a0\u2264\u00a00.01.\n\n**CONCLUSION**: Early post-ROSC laboratory data identified three prognostically distinct phenotypes among resuscitated OHCA patients. These exploratory findings support external validation and investigation of phenotype-guided therapies.",
-      "journal": "Resuscitation",
-      "authors": [
-        "Liu X",
-        "Chong KW",
-        "Lau YH",
-        "Drum CL",
-        "Richards AM",
-        "Lip GYH",
-        "Yeo KK",
-        "Ong MEH",
-        "Lim SL"
-      ],
-      "date": "2026 Oct 09",
-      "doi": "10.1016/j.resuscitation.2026.111351",
-      "tier": "filtered",
-      "topics": [
-        "Prehospital"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "prehospital",
-          "strength": "weak",
-          "topic": "Prehospital"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42855036/"
-    },
-    {
-      "pmid": "42854536",
-      "title": "Force measurement in circular external fixation frames reflects construct stability: A laboratory proof-of-concept study.",
-      "abstract": "**BACKGROUND**: Circular external fixation frames are widely used in limb reconstruction, however determining the optimal time for frame removal remains challenging. Current approaches rely on clinical and radiological assessment, both of which have recognised limitations. Mechanical assessment of construct stability offers a potential alternative, but existing approaches have not translated widely into clinical practice, in part due to reliance on absolute measurement thresholds.\n\n**OBJECTIVE**: To determine whether force measurement within a circular external fixation frame varies systematically with fracture site stability, and to assess whether this measurement may support monitoring of healing progression.\n\n**METHODS**: Three similar four-ring Ilizarov frame constructs were assembled using a Perspex bone analogue. A load cell was integrated into the frame and used to measure force during axial loading to 700\u202fN. Models representing different stages of fracture healing were simulated using varying fracture gaps and materials of differing stiffness. Measurements were obtained across multiple sensor positions and configurations. Force measurements were compared between models using non-parametric statistical methods. Receiver operating characteristic (ROC) analysis was performed to assess separation between conditions.\n\n**RESULTS**: Force measured within the frame decreased progressively with increasing construct stiffness. A significant relationship between model stability and measured force was observed (Kruskal-Wallis p\u202f<\u202f0.0001). Clear separation was demonstrated between grossly unstable and intact constructs; however, overlap between higher stability models and intact bone was evident. ROC analysis showed strong discrimination when considering all unstable conditions (AUC \u2265\u202f0.91), but performance was reduced when restricted to higher stability models (AUC 0.699-0.838). Absolute force measurements varied with sensor configuration, although the rank order of conditions was preserved.\n\n**CONCLUSION**: Force measurement within a circular external fixation frame reflects construct stability in an in vitro model. Whilst absolute values are dependent on construct configuration and show reduced discrimination near union, consistent directional changes suggest that serial within-subject measurement may provide a useful approach to monitoring healing progression. These findings support further evaluation of longitudinal measurement strategies in clinical studies.",
-      "journal": "Injury",
-      "authors": [
-        "Naeem H",
-        "Maroy R",
-        "Stewart T",
-        "Harwood P",
-        "Howard A"
-      ],
-      "date": "2026 Nov 1",
-      "doi": "10.1016/j.injury.2026.113768",
-      "tier": "filtered",
-      "topics": [],
-      "keyword_matches": [],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42854536/"
-    },
-    {
-      "pmid": "42854535",
-      "title": "Screening for posttraumatic stress symptoms after accidental injury: Implementation of the young child PTSD screen in the acute trauma setting.",
-      "abstract": "**BACKGROUND**: Post-traumatic stress symptoms (PTSS) in young children are underrecognized following unintentional injury, and validated screening tools for early childhood are rarely implemented in acute trauma settings. We evaluated the Young Child PTSD Screen (YCPS) administered at hospital discharge to determine screening positivity, associated clinical factors, and persistence of symptoms at one month.\n\n**METHODS**: We conducted a retrospective cohort study of children aged 2-6 years admitted to a Level I pediatric trauma center following unintentional injury (November 2020-November 2024). Caregivers completed the 6-item YCPS at discharge. Children with \u2265\u202f1 endorsed symptom were contacted one month later for repeat assessment. Demographic, injury, and hospitalization data were abstracted from the trauma registry and electronic health record. Multivariable logistic regression evaluated predictors of positive screening at discharge, and follow-up analyses assessed persistence of symptoms.\n\n**RESULTS**: Of 193 screened patients, 186 met inclusion criteria. Over half (55.9%, n\u202f=\u202f104) screened symptomatic or positive at discharge. On univariate analysis, greater injury severity score and longer length of stay were associated with symptomatic/positive screening. In multivariable analysis, injury severity remained the only significant predictor (aOR 1.07 per point increase in injury severity score, 95% CI 1.02-1.13, p\u202f=\u202f0.004). Of eligible children, 32.6% (n\u202f=\u202f34) completed one-month follow-up and 41.1% (n\u202f=\u202f14) screened positive. Higher discharge YCPS scores were associated with positive follow-up (median 3 vs 2; p\u202f=\u202f0.046) and were positively correlated with one-month scores (r\u00b2=0.21, p\u202f=\u202f0.005). No demographic variables (age, sex, race) predicted persistence of symptoms.\n\n**CONCLUSIONS**: Over one-third of traumatically injured young children screened positive for PTSS at discharge, and a substantial proportion had persistent symptoms at one month. Injury severity was associated with positive screens at discharge, while early symptom burden predicted persistence. These findings support the feasibility and clinical value of implementing developmentally sensitive screening for very young children in the inpatient trauma setting.",
-      "journal": "Injury",
-      "authors": [
-        "Ray M",
-        "Bailey A",
-        "Lendrum E",
-        "Vore E",
-        "Poundstone A",
-        "Beiting S",
-        "Reichert M",
-        "Moody S",
-        "Rheaume E",
-        "Falcone RA",
-        "Kotagal M"
-      ],
-      "date": "2026 Nov 1",
-      "doi": "10.1016/j.injury.2026.113767",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Paediatric",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "injury severity",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "trauma centre",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "paediatric trauma",
-          "strength": "weak",
-          "topic": "Paediatric"
-        },
-        {
-          "keyword": "trauma registry",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42854535/"
-    },
-    {
-      "pmid": "42854534",
-      "title": "Clinical equipoise as inclusion criterion to control for confounding in observational studies.",
-      "abstract": "**PURPOSE**: This study investigates whether higher levels of expert disagreement, as a proxy for clinical equipoise, are associated with improved baseline comparability between treatment groups in patients with proximal humerus fractures. Additionally, it aimed to assess how progressively stricter inclusion criteria-based on this disagreement-affect the distribution of baseline characteristics between the treatment groups.\n\n**METHODS**: We used data from the LADON Humerus study, a multicentre, prospective cohort including patients treated operatively or non-operatively in five hospitals in the Netherlands and Switzerland. An international expert panel of trauma surgeons assessed anonymized cases, blinded to the actual treatment, and each expert gave a treatment recommendation. Disagreement between the treatment given and the expert recommendations was categorized into four levels (A: complete disagreement, B: partial disagreement, C: partial agreement, D: complete agreement). Standardized differences (StDiff) for age, sex, ASA score, and AO classification were used to assess comparability between treatment groups across disagreement levels.\n\n**RESULTS**: A total of 351 patients were included in the analysis. Comparability between treatment groups improved as the level of disagreement increased. At complete disagreement (Level A), the groups were well balanced with respect to age, sex, and ASA score (StDiff \u2264 0.1). For AO classification, group comparability improved but remained insufficiently balanced at the highest level of disagreement. Stricter inclusion criteria resulted in improved balance at the cost of reduced sample size.\n\n**CONCLUSION**: Using expert panel disagreement as inclusion criterion can enhance group comparability in observational research. This approach may reduce the potential for confounding when RCTs are not possible.",
-      "journal": "Injury",
-      "authors": [
-        "van der Hoeven NM",
-        "Peuker F",
-        "Michelitsch C",
-        "Smeeing DPJ",
-        "Houwert RM",
-        "Beeres FJP",
-        "Groenwold RHH",
-        "van de Wall BJM"
-      ],
-      "date": "2026 Nov 1",
-      "doi": "10.1016/j.injury.2026.113749",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42854534/"
-    },
-    {
-      "pmid": "42854533",
-      "title": "Diagnostic accuracy of shock index, revised trauma score, and injury severity score for mortality prediction in trauma: A hierarchical meta-analysis.",
-      "abstract": "**BACKGROUND**: Shock Index (SI) and Revised Trauma Score (RTS) are physiological tools available at the point of trauma triage. Injury Severity Score (ISS) is an anatomical score that requires completed injury characterization and is typically available only after initial resuscitation. Their comparative value for predicting mortality and whether ISS meaningfully adds to the acute tools remains unclear.\n\n**AIMS**: The aim of this systematic review and hierarchical meta-analysis is to pool the diagnostic accuracy of SI and RTS as acute mortality-prediction tools in adult trauma patients; to benchmark these against ISS; and to formally test, in studies reporting both, whether RTS and ISS differ in diagnostic accuracy.\n\n**METHODS**: Electronic databases were searched from inception to May 2026. In-hospital mortality was prespecified as the primary endpoint. Pooled sensitivity, specificity and hierarchical summary receiver operating characteristic (HSROC) analyses were performed with a bivariate random-effects model for each tool separately. For studies reporting both RTS and ISS in the same cohort, a paired comparison was performed using a bivariate model with test type as a covariate and a pooled within-study difference analysis.\n\n**RESULTS**: Twelve studies (234,129 patients) were included. Pooled sensitivity/specificity were 0.679/0.763 for SI (5 studies, AUC 0.747), 0.788/0.801 for RTS (6 studies, AUC 0.852), and 0.788/0.796 for ISS (9 studies, AUC 0.855). In the six studies reporting both RTS and ISS, a paired bivariate comparison found no significant difference in diagnostic accuracy (likelihood-ratio test, p\u202f=\u202f0.91; within-study sensitivity OR 1.59, 95% CI 0.82-3.07; specificity OR 0.89, 95% CI 0.55-1.45).\n\n**CONCLUSION**: RTS and ISS did not differ significantly in a formal paired comparison, and neither tool, alone, reliably rules in or out death at realistic trauma prevalence. SI, RTS and ISS should be understood as serving different, complementary roles across the trauma timeline - SI and RTS at the point of acute triage, ISS as a later anatomical benchmark - rather than as competing predictors to be ranked against one another.",
-      "journal": "Injury",
-      "authors": [
-        "Raza AA",
-        "Ahmad M",
-        "Choudhary N",
-        "Rehman A",
-        "Zahid M",
-        "Rehman A",
-        "Khan W"
-      ],
-      "date": "2026 Nov 1",
-      "doi": "10.1016/j.injury.2026.113760",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "injury severity",
-          "strength": "strong",
-          "topic": "Systems/QI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42854533/"
-    },
-    {
-      "pmid": "42854532",
-      "title": "Epidemiological patterns and surgical outcomes of pediatric supracondylar humerus fractures: a focus on domestic safety and seasonal variations.",
-      "abstract": "**INTRODUCTION**: Supracondylar humerus fractures (SHFs) are prevalent pediatric elbow injuries. This study investigates the epidemiology, clinical characteristics, and treatment outcomes of pediatric SHFs to identify preventive strategies.\n\n**METHODS**: This retrospective study included 298 pediatric patients (aged \u226414 years) treated for SHFs between December 2018 and June 2024. Demographic data, injury mechanisms, seasonal variations, and surgical details were analyzed. Radiological reduction was assessed via the Baumann angle and anterior humeral line. Functional outcomes were evaluated using Flynn's criteria.\n\n**RESULTS**: The study cohort (mean age 6.1 years; 58.7% male) predominantly sustained extension-type fractures (96.3%), with the severely displaced Gartland Type III being the most frequent (49.3%). The incidence of injuries peaked during the summer months and school holidays, with the majority occurring at home (64.1%) due to simple falls (93%). Surgical intervention, consisting of closed reduction and percutaneous pinning, was necessitated in 75.8% of cases, with a mean time-to-surgery of 4.6\u202fh. Satisfactory (excellent and good) functional outcomes were achieved in 97.9% of the patients. Overall complication rates were minimal, and transient nerve injuries (2%) fully resolved spontaneously during follow-up.\n\n**CONCLUSION**: Pediatric SHFs frequently occur in domestic settings during the summer months, strongly highlighting the need for \"safe home\" modifications and parental education. Despite a high prevalence of severely displaced fractures, prompt surgical intervention and meticulous anatomical reduction yield excellent long-term functional outcomes and minimize complications.",
-      "journal": "Injury",
-      "authors": [
-        "Altin R",
-        "Cakirturk S",
-        "Erten RA",
-        "Ozdemir S",
-        "Yesil M",
-        "Yilmaz BK"
-      ],
-      "date": "2026 Nov 1",
-      "doi": "10.1016/j.injury.2026.113763",
-      "tier": "filtered",
-      "topics": [],
-      "keyword_matches": [],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42854532/"
-    },
-    {
-      "pmid": "42853395",
-      "title": "Renal trauma in a pediatric Level 1 trauma center: morbidity, mortality, and the role of renal scintigraphy.",
-      "abstract": "**PURPOSE**: Pediatric renal trauma is uncommon but potentially serious, and is often managed conservatively. Complications may occur, and the clinical value of renal scintigraphy during follow-up remains unclear. This study aimed to assess morbidity and mortality after pediatric renal trauma and to assess the clinical value of renal scintigraphy during follow-up.\n\n**METHODS**: This retrospective single-center cohort study included pediatric trauma patients (<\u200918 years) with renal injuries admitted to a Level 1 trauma center in the Netherlands between January 1, 2001, and December 31, 2024. Mortality and in-hospital complications were assessed, and associations between renal scintigraphy abnormalities and complications during follow-up were evaluated.\n\n**RESULTS**: A total of 72 patients were included, of whom all injuries resulted from blunt trauma. Conservative management was applied in 88% of cases; embolization and nephrectomy were performed in 8% and 3% of patients, respectively. In-hospital mortality was 11% and was attributed exclusively to concomitant traumatic brain injury. Complications occurred in 25% of patients, primarily infections (19%), followed by hypertension during follow up (4%). Renal scintigraphy was performed in 53% of patients, predominantly in those with high-grade injuries; abnormalities were frequently observed (77%) but did not correlate with the occurrence of hypertension, proteinuria, or renal insufficiency during follow-up.\n\n**CONCLUSION**: Pediatric renal trauma, including high-grade injuries, can often be managed conservatively, and most complications can be treated using medical therapy or minimally invasive interventions. Renal scintigraphy showed no clear association with long-term morbidity and had limited additional value in routine follow-up. Given the potential for late-onset hypertension, structured long-term clinical surveillance with periodic monitoring of blood pressure, proteinuria, and renal function is warranted, particularly after high-grade injuries.",
-      "journal": "Eur J Trauma Emerg Surg",
-      "authors": [
-        "Jansen SAM",
-        "Haouli B",
-        "Backes M",
-        "Tromp TN",
-        "Vriens D",
-        "Edwards MJR",
-        "Uitert AV",
-        "Nelen SD"
-      ],
-      "date": "2026 Oct 09",
-      "doi": "10.1016/S0022-5347(05)65917-4",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "Paediatric",
-        "Systems/QI",
-        "TBI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "blunt trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "trauma centre",
-          "strength": "strong",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "traumatic brain injury",
-          "strength": "weak",
-          "topic": "TBI"
-        },
-        {
-          "keyword": "paediatric trauma",
-          "strength": "weak",
-          "topic": "Paediatric"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42853395/"
-    },
-    {
-      "pmid": "42853388",
-      "title": "Measurement properties of pulmonary function measurement and patient-reported outcome measures in patients with multiple rib fracture without flail segment; validation study alongside the multicenter FixCon trial.",
-      "abstract": "**BACKGROUND**: The reliability and validity of pulmonary function, pain and health related quality of life (HR-QoL) as outcome measures for patients with rib fractures, remain uncertain. Our objective was to evaluate measurement properties in patients with multiple rib fractures by comparing them with generic HR-QoL instruments (EuroQoL-5D-5L [EQ-5D-5L], Short Form-12 [SF-12]).\n\n**METHODS**: A multicenter RCT in adults (n\u2009=\u2009180) was performed. Spirometry was performed at 30 days, 3, 6, and 12 months after trauma. Patients completed five questions on pain, EQ-5D-5L, SF-12, and two anchor questions on improvement in pulmonary function and thoracic complaints since previous measurement. Reliability, construct validity, responsiveness and floor and ceiling effects were evaluated for all follow-up time-points.\n\n**RESULTS**: EQ-5D and SF-12 (sub)scales showed adequate internal consistency. Construct and longitudinal validity were adequate for all (sub)scales, except for construct validity of the SF-12 Physical Component Summary. Ceiling effects were present for all pain questions from 30 days onwards, for EQ-5D-5L utility score (US) from 3 months onwards. Responsiveness analysis indicated that spirometry values showed trivial (tidal volume), small (inspiratory capacity, FEV1), or moderate (FVC) degree of change from 30 days to 12 months. All five pain levels, EQ-5D-5L and SF-12 (sub)scales showed moderate to large degree of change form 30 days to 12 months.\n\n**CONCLUSIONS**: Spirometry and pain are valid instruments for monitoring functional recovery in patients after sustaining multiple rib fractures. Responsiveness was confirmed for pain and spirometry (FVC). EQ-5D-5L and SF-12 are valid, reliable, and responsive. Pain and HRQoL are therefore suitable instruments for measuring treatment effects over time.",
-      "journal": "Eur J Trauma Emerg Surg",
-      "authors": [
-        "Luttjeboer ML",
-        "Van Diepen MR",
-        "Prins JTH",
-        "Van Wijck SFM",
-        "Verhofstad MHJ",
-        "Wijffels MME",
-        "Van Lieshout EMM"
-      ],
-      "date": "2026 Oct 09",
-      "doi": "10.1080/09638288.2019.1651908",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "Thoracic"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "rib fracture",
-          "strength": "strong",
-          "topic": "Thoracic"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42853388/"
-    },
-    {
-      "pmid": "42853283",
-      "title": "Prehospital severity and in-hospital mortality in trauma patients managed by the Friuli-Venezia Giulia helicopter emergency medical service: a 6-year retrospective cohort study.",
-      "abstract": "**BACKGROUND**: Data on in-hospital mortality among trauma patients managed by Helicopter Emergency Medical Services (HEMS) in Italy remain limited. We aimed to describe the epidemiology and in-hospital mortality of trauma patients transported after management by the Friuli-Venezia Giulia HEMS and to assess prehospital factors associated with death.\n\n**METHODS**: We conducted a retrospective observational cohort study including trauma patients managed by HEMS FVG and transported to hospital, either directly by HEMS or after continuation of transport by ground emergency medical services, between 2018 and 2023. The primary outcome was in-hospital mortality. Jeffreys-prior penalized logistic regression was used to reduce sparse-data bias and instability from separation. The RTS-based model was designated as the primary model and the NACA-based model as a secondary sensitivity analysis. Model performance was assessed internally, and the functional forms of both age and RTS were examined using restricted cubic splines.\n\n**RESULTS**: Of 3,357 trauma records in the source cohort, 205 prehospital deaths were excluded from the in-hospital mortality analysis, leaving 3,152 transported patients. Outcome data were available for 3,143 patients, of whom 107 died in hospital (3.4%). In the primary RTS-based model, older age, lower RTS, tracheal intubation, and prehospital CPR were associated with mortality. Compared with RTS\u2009\u2265\u20097, adjusted ORs were 2.36 (95% CI 1.11-5.50) for RTS 4-<7 and 5.19 (95% CI 1.64-17.04) for RTS\u2009<\u20094. Age was associated with mortality (OR 1.03 per year, 95% CI 1.01-1.04). Continuous RTS analysis was concordant (OR 0.68 per one-point increase, 95% CI 0.54-0.86; p\u2009=\u20090.0013).\n\n**CONCLUSIONS**: Among trauma patients transported to hospital after HEMS management, older age, higher prehospital injury severity, tracheal intubation, and prehospital CPR were associated with in-hospital mortality. Intubation and CPR should be interpreted primarily as markers of severe physiological compromise rather than causal determinants of death.",
-      "journal": "Eur J Trauma Emerg Surg",
-      "authors": [
-        "Tomasino S",
-        "Pegani C",
-        "Orso D",
-        "Ursella C",
-        "Tullio A",
-        "Bacchetti G",
-        "Molinari C",
-        "Marangone A",
-        "Contadini M",
-        "Dur\u00ec D",
-        "Saffer S",
-        "Fantin S",
-        "Sappada A",
-        "Peratoner A",
-        "Trill\u00f2 G",
-        "Roncarati A",
-        "Bove T",
-        "Spasiano A",
-        "Della Rocca G"
-      ],
-      "date": "2026 Oct 09",
-      "doi": "10.1007/s00068-026-03346-7",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "Prehospital",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "injury severity",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "helicopter emergency",
-          "strength": "strong",
-          "topic": "Prehospital"
-        },
-        {
-          "keyword": "HEMS",
-          "strength": "weak",
-          "topic": "Prehospital"
-        },
-        {
-          "keyword": "prehospital",
-          "strength": "strong",
-          "topic": "Prehospital"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42853283/"
-    },
-    {
-      "pmid": "42853261",
-      "title": "Survival benefit of prehospital TXA in fibrinolytic shutdown: Insights from two prospective trauma trials.",
-      "abstract": "**BACKGROUND**: Fibrinolytic phenotypes have been implicated in postinjury pathophysiology and outcomes. While prehospital tranexamic acid (TXA) administration has demonstrated survival benefits, the interaction between TXA administration and distinct fibrinolytic profiles remains poorly defined.\n\n**METHODS**: We analyzed data from a harmonized dataset combining 2 prospective trials evaluating prehospital TXA use in trauma (Prehospital Tranexamic Acid Use for Traumatic Brain Injury and the Study of Tranexamic Acid During Air and Ground Medical Prehospital Transport Trial). Patients were stratified by initial thromboelastographic (TEG) LY30 into fibrinolytic shutdown (<0.9%), hyperfibrinolysis (>3%), and physiological fibrinolysis (0.9-3%). The primary outcome was 30-day mortality. Secondary outcomes included 24-hour mortality and adverse events. Multivariable regression adjusted for TXA administration, fibrinolysis phenotypes, age, mechanism of injury, injury severity score, and shock index on presentation to the hospital.\n\n**RESULTS**: Among 1,249 patients, 30-day mortality was 14.5% in the fibrinolytic shutdown group, 6.7% in the hyperfibrinolysis group, and 6.5% in the physiological fibrinolysis group. After multivariable regression, hyperfibrinolysis was associated with increased risk of death (HR 2.87; 95% CI: 1.10-7.53; p 0.03). Patients with fibrinolytic shutdown who were randomized to TXA had decreased risk of death (HR 0.32; 95% CI: 0.11-0.91; p=0.03).\n\n**CONCLUSIONS**: This multitrial analysis revealed greater statistically significant differences between fibrinolytic phenotypes than analysis of each trial alone. Fibrinolytic phenotypes were independently associated with mortality. Fibrinolytic shutdown in patients randomized to receive TXA was associated with lower risk of death. These findings support the relevance of fibrinolysis profiling during early trauma care and underscore the need for larger studies to further elucidate the prognostic and therapeutic implications in trauma.\n\n**LEVEL OF EVIDENCE**: II (Subanalysis of Randomized Controlled Trials).",
-      "journal": "J Trauma Acute Care Surg",
-      "authors": [
-        "Kenny JE",
-        "Brito AM",
-        "Benchiba-Charron M",
-        "Larson N",
-        "Chrenka E",
-        "Mitra B",
-        "Neal MD",
-        "Gruen R",
-        "Barrett CD",
-        "Bernard S",
-        "Medcalf R",
-        "Rowell S",
-        "Sperry JL",
-        "Schreiber MA"
-      ],
-      "date": "2026 Oct 09",
-      "doi": "10.1097/TA.0000000000005092",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "Haemorrhage",
-        "Prehospital",
-        "Systems/QI",
-        "TBI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "injury severity",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "tranexamic acid",
-          "strength": "weak",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "traumatic brain injury",
-          "strength": "weak",
-          "topic": "TBI"
-        },
-        {
-          "keyword": "prehospital",
-          "strength": "strong",
-          "topic": "Prehospital"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42853261/"
-    },
-    {
-      "pmid": "42853259",
-      "title": "Decompressive craniectomy: The potential association with long-term functional outcomes in children with traumatic brain injury.",
-      "abstract": "**BACKGROUND**: Traumatic brain injury (TBI) is the leading cause of death and disability in pediatric patients. However, TBI management widely varies due to a lack of high-quality evidence in pediatric population. We aimed to determine the association of decompressive craniectomy (DC) on long-term functional independence in pediatric TBI. We hypothesize that the use of DC would not be associated with improved functional independence after discharge.\n\n**METHODS**: This is a retrospective cohort study using the Federal Interagency Traumatic Brain Injury Research (FITBIR) Informatics System, a national database of TBI studies. The Approaches and Decisions in Acute Pediatric TBI (ADAPT) Trial was selected for its international patient population from 2014 to 2017. Patients (age \u226418\u00a0y) with TBI, Glasgow Coma Scale (GCS) \u22648, and insertion of an intracranial pressure monitor were categorized into the DC and no-DC groups. The primary outcome was Glasgow Outcome Scale-Extended Pediatric Version (GOS-E Peds) at a follow-up visit \u22656 months postdischarge. A secondary analysis included all patients admitted for the management of TBI to examine the association between DC and in-hospital mortality.\n\n**RESULTS**: We included 686 TBI patients followed up \u22656 months postdischarge or recorded mortality. Of those, 213 (31.0%) patients received DC. The median GCS on presentation was 5. The median GOS-E at follow-up was 5. In a multivariate regression model, the use of DC was not associated with good functional recovery defined as GOS-E Peds <5 (odds ratio [OR]: 0.64, 95% CI: 0.39-1.05, p=0.077). In a secondary analysis, DC was not associated with in-hospital mortality (OR: 1.02, 95% CI: 0.60-1.74, p=0.95).\n\n**CONCLUSION**: The results of this study suggest that DC is not significantly associated with favorable functional outcomes >6 months postdischarge or decreased in-hospital mortality. Future research is warranted to further delineate the indication for DC in the pediatric TBI population.\n\n**LEVEL OF EVIDENCE**: Prognostic/epidemiological study; Level IV.",
-      "journal": "J Trauma Acute Care Surg",
-      "authors": [
-        "Wong AM",
-        "Braschi CD",
-        "Matsushima K"
-      ],
-      "date": "2026 Oct 09",
-      "doi": "10.1007/s12028-025-02336-8",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "TBI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "traumatic",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic brain injury",
-          "strength": "strong",
-          "topic": "TBI"
-        },
-        {
-          "keyword": "decompressive craniectomy",
-          "strength": "strong",
-          "topic": "TBI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42853259/"
-    },
-    {
-      "pmid": "42853238",
-      "title": "Does Surgeon Experience Affect Outcomes in Robotic Cholecystectomy for Emergency Biliary Disease? A Statewide Analysis.",
-      "abstract": "**BACKGROUND**: The use of robotic surgery (RS) as an operative technique in emergency general surgery (EGS) is rapidly growing, with a >3-fold increase in RS-EGS operations since 2011. Prior work has utilized payer claims to evaluate outcomes of RS-cholecystectomy in the EGS setting. However, these studies fail to evaluate how outcomes are affected by surgeon experience or whether there is a learning curve for RS in the EGS setting. We hypothesized that surgeons on the learning curve may have higher rates of complications.\n\n**METHODS**: EGS collaborative data from 12 hospitals were used to compare the postoperative outcomes of patients undergoing RS-cholecystectomy to those undergoing laparoscopic (LS) cholecystectomy. Unadjusted and adjusted outcomes were compared between the control (LS) and the exposure (RS) groups, using entropy balancing and multivariable analysis. Learning curves were plotted for postoperative outcomes, operative time, and hospital length of stay, using linear spline curve modeling (single knot at case 70) to represent how outcomes change with increasing surgeon experience.\n\n**RESULTS**: We evaluated 8,221 minimally invasive total cholecystectomy cases, of which 2,141 were performed with RS. RS-cholecystectomy was associated with a lower rate of technical complications, independent of surgeon experience (adjusted odds ratio: 0.38, 95% CI: 0.21-0.69, p=0.002). Operative time was longer, and nontechnical complications were higher for RS-cholecystectomy (+13.1min, 95% CI: 7.3-18.8, p<0.001 and adjusted odds ratio: 1.18, 95% CI: 1.01-1.39, P=0.043, respectively). Adjusted operative time decreased by 14.1 minutes over the first 70 cases (95% CI: -21.8 to -6.4, p<0.001).\n\n**CONCLUSIONS**: RS-cholecystectomy is not associated with more technical complications, and surgeons with less RS experience did not have a higher likelihood of technical complications for cholecystectomy when compared with LS in an EGS setting. Operative times for RS-cholecystectomy are longer than LS and significantly decrease with increasing surgeon experience.\n\n**LEVEL OF EVIDENCE**: Therapeutic/Care Management; Level III.\n\n**STUDY TYPE**: Prognostic/epidemiological.",
-      "journal": "J Trauma Acute Care Surg",
-      "authors": [
-        "Levy SC",
-        "Johnson PL",
-        "Zambito M",
-        "Golden R",
-        "Chapman A",
-        "Pesta C",
-        "Jean RA",
-        "Sheetz KH",
-        "Hemmila MR"
-      ],
-      "date": "2026 Oct 09",
-      "doi": "10.1097/SLA.0000000000007008",
-      "tier": "core",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42853238/"
-    },
-    {
-      "pmid": "42850620",
-      "title": "Prehospital transport prioritization and time-varying selection bias in traffic-related multi-patient incidents: a nationwide retrospective cohort study.",
-      "abstract": "**BACKGROUND**: In prehospital multi-patient traffic incidents, the first ambulance to depart -priority transport - may reflect underlying injury severity rather than a treatment effect, as more severely injured patients are systematically prioritized. Conventional statistical methods often fail to separate this severity-dependent selection from actual outcomes. We applied a \"doubly robust\" statistical framework (augmented inverse probability weighting, AIPW), which combines a treatment model and an outcome model, to better account for measured differences, reduce selection bias, and examine whether on-scene time modifies this association.\n\n**METHODS**: We conducted a nationwide retrospective cohort study using emergency medical service transport records from the Fire and Disaster Management Agency of Japan (January 2021-December 2023). Of 13,821,224 records, 143,130 patients from traffic-related multi-patient incidents (TMIs; \u22652 patients per incident) with complete data were included. The exposure was priority transport. The primary outcome was physician-assessed death or critical/severe injury at hospital arrival. Marginal adjusted risk differences (RDs) were estimated using AIPW. Effect modification by on-scene time (5-60\u00a0min) was assessed by marginal standardization with cluster-bootstrap confidence intervals. Sensitivity analyses included overlap restriction and E-value quantification of unmeasured confounding.\n\n**RESULTS**: Among 143,130 patients (median age 41 years; female, 50.57%), 62,769 (43.85%) underwent priority transport. Severe outcomes occurred in 4.35% of priority and 1.87% of non-priority patients. The overall RDs was 2.2% points (95% CI, 2.01-2.36). A significant interaction with on-scene time was observed (p < .001): the marginal RD was peaked at 5\u00a0min (6.4% points; 95% CI, 5.6-7.2), declined to a minimum of 1.4% points (95% CI, 1.3-1.6) at approximately 32\u00a0min, and increased modestly to 2.4% points (95% CI, 2.0-2.8) at 60\u00a0min. Sensitivity analyses confirmed result robustness, yielding an E-value of 3.76 (lower bound, 3.57).\n\n**CONCLUSIONS**: The association between priority transport and severe outcome was modified by on-scene time, with the largest risk difference at the shortest on-scene times. This U-shaped pattern is consistent with preferential selection of more severely injured patients for rapid transport, rather than a direct effect of transport order. Accounting for prehospital triage selection when interpreting transport-outcome associations in critical care research.",
-      "journal": "Crit Care",
-      "authors": [
-        "Kubo A",
-        "Tamura S",
-        "Hiraide A",
-        "Morioka D",
-        "Murakami R",
-        "Fukui K",
-        "Inoue S"
-      ],
-      "date": "2026 Aug 04",
-      "doi": "10.1371/journal.pmed.0020124",
-      "tier": "filtered",
-      "topics": [
-        "Prehospital",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "injury severity",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "prehospital",
-          "strength": "strong",
-          "topic": "Prehospital"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42850620/"
     }
   ]
 }
