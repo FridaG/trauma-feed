@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-10T02:27:45.683493Z",
-  "total_articles": 237,
+  "generated": "2026-11-11T00:19:19.250212Z",
+  "total_articles": 239,
   "all_topics": [
     "Abdominal",
     "Burns",
@@ -378,6 +378,412 @@
     "Cochrane Database Syst Rev": "filtered"
   },
   "articles": [
+    {
+      "pmid": "43008211",
+      "title": "Pooled prevalence of infectious diseases among first responders in the prehospital setting: A systematic review with meta-analysis by occupation.",
+      "abstract": "**OBJECTIVES**: First responders often work in unpredictable, uncontrolled environments, where exposure to infected patients and contaminated environments heighten the risk of communicable disease transmission. Their higher infection prevalence compared with the general population has driven the implementation of personal protective equipment, vaccination requirements, safety protocols, and infection prevention education. The aim of this systematic review and meta-analysis was to estimate the pooled prevalence of infections among first responders in the prehospital workers including paramedics, emergency medical technicians, patient transport staff, firefighters, police, and police officers.\n\n**METHODS**: Embase, CINAHL, Web of Science and PUBMED/Medline were systematically searched. Pooled prevalence estimates were calculated using random-effects models with restricted maximum likelihood estimation, with Freeman-Tukey double-arcsine transformation and back-transformation to the original prevalence scale. Heterogeneity was assessed using I\u00b2, \u03c4\u00b2, and 95% prediction intervals. Meta-regression was used to examine potential sources of between-study heterogeneity, and small-study effects and potential publication bias were assessed using funnel plots and Egger's regression test. Risk of bias was investigated using the AXIS tool.\n\n**RESULTS**: Following the initial search, 34,874 articles were identified, of which 88 were full-text screened. Of these, 22 studies representing 19,188 first responders were included in this systematic review. The pooled prevalences of hepatitis B and C were 6.2% (95% CI 4.5%-8.2%) and 1.8% (95% CI 0.9%-2.9%), respectively. Around 4% (95% CI 2.6%- 5.9%) of the first responders had MRSA colonisation. Current or past infection with COVID-19 among non-vaccinated first responders was 13.6% (95% CI 4.8%- 25.9%), which reduced to 7.3% (95% CI 3.6%- 12%) after exclusion of studies with high risk of bias. Of the known study characteristics, geographic region significantly contributed to heterogeneity, explaining 36.7% of between-study variance, \n\n**CONCLUSIONS**: Infectious disease prevalence varied across pathogens, occupations, and geographical settings among first responders. These findings should be interpreted in light of substantial heterogeneity and limitations in the available evidence but may help inform infection prevention, occupational health policy, vaccination strategies, and future research in first responder services.",
+      "journal": "Prehosp Emerg Care",
+      "authors": [
+        "Alahmari H",
+        "Hanson L",
+        "Kelley P",
+        "Harris K",
+        "Spong J",
+        "Milazzo A",
+        "Mnatzaganian G"
+      ],
+      "date": "2026 Nov 10",
+      "doi": "10.1080/10903127.2026.2759763",
+      "tier": "filtered",
+      "topics": [
+        "Prehospital"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "prehospital",
+          "strength": "strong",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43008211/"
+    },
+    {
+      "pmid": "43008208",
+      "title": "Prehospital Whole Blood Resuscitation in Pediatric Patients: A San Antonio Cohort Descriptive.",
+      "abstract": "**OBJECTIVES**: The objective of this study is to describe the demographic, clinical, and prehospital care characteristics of pediatric patients receiving whole blood (WB) resuscitation by San Antonio Fire Department (SAFD).\n\n**METHODS**: We conducted an observational retrospective cohort study to evaluate pediatric patients who received prehospital low-titer group O positive WB transfusion through the SAFD prehospital blood program between October 2018 and June 2025. The objective was to characterize patient demographics, injury patterns, resuscitative interventions, shock physiology, and outcomes among pediatric recipients in a mature civilian emergency medical services WB program.\n\n**RESULTS**: Of 1703\u2009WB transfusions, 73 (4.3%) were pediatric. Most patients were male (76%), age range 1-17 years old with a mode of 17 years, adolescents represented 78%. Trauma accounted for 96% of cases, firearm injury (74%); all penetrating (84%), blunt (12%), with the remainder classified as medical/unknown. Vascular access was intravenous (73%), intraosseous (26%). Tranexamic acid was co-administered in 39%; 12% received ceftriaxone. When analyzed using age-adjusted Shock Index Pediatric Age-Adjusted (SIPA) thresholds (>1.2 for 1-6 years, >1.0 for 7-12 years, and >0.9 for 13-17 years), based on the initial available prehospital heart rate and systolic blood pressure, 45% of patients had an elevated SIPA, 22% had a normal SIPA, 20% were pulseless and therefore could not undergo SIPA calculation, and 14% lacked sufficient vital-sign data for classification. Survival was 50%; died 39%, and unknown outcomes 11%. Mean delta shock index values were most negative in toddlers (1-4 years) -0.97\u2009\u00b1\u20091.29, followed by children (5-11 years) -0.76\u2009\u00b1\u20091.07 and adolescents (12-17 years) -0.16\u2009\u00b1\u20090.46, indicating a greater physiologic response to resuscitation among younger pediatric patients.\n\n**CONCLUSIONS**: Pediatric WB recipients were predominantly adolescent males who sustained penetrating trauma and presented with moderate-to-severe shock. Younger age groups had larger descriptive decreases in shock index during the prehospital encounter; however, these findings should be interpreted cautiously given the small subgroup sizes and observational design.",
+      "journal": "Prehosp Emerg Care",
+      "authors": [
+        "Danboise B",
+        "Dieterle M",
+        "Bullock W",
+        "Wampler D",
+        "Winckler C"
+      ],
+      "date": "2026 Nov 10",
+      "doi": "10.1080/10903127.2026.2759767",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Haemorrhage",
+        "Penetrating",
+        "Prehospital"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "penetrating trauma",
+          "strength": "weak",
+          "topic": "Penetrating"
+        },
+        {
+          "keyword": "tranexamic acid",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "whole blood resuscitation",
+          "strength": "strong",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "prehospital blood",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "prehospital",
+          "strength": "strong",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43008208/"
+    },
+    {
+      "pmid": "43007338",
+      "title": "Hospital cost structures and resource utilisation across representative treatment pathways relevant to complex orthopaedic infection care: a nationwide DRG-based analysis in Germany.",
+      "abstract": "**PURPOSE**: Implant-associated orthopaedic infections require prolonged inpatient treatment, repeated surgery and multidisciplinary care, yet nationwide evidence on how hospital resources are distributed across clinically distinct treatment pathways is limited. This study characterised hospital-side case costs, resource utilisation and aggregate expenditure across representative German diagnosis-related groups (DRGs) relevant to complex orthopaedic infection care.\n\n**METHODS**: Publicly available 2024 data from the German Institute for the Hospital Remuneration System (InEK) were analysed. Twelve representative DRGs were selected a priori from official definitions and diagnostic/procedural profiles and grouped into six treatment pathways. The InEK cost matrix reflects standardised hospital-side resource costs from participating calculation hospitals and does not represent actual DRG reimbursement. National case frequencies, length of stay and mean case costs were analysed using frequency-weighted pathway estimates, while pathway-level cost composition was calculated from aggregate component expenditure.\n\n**RESULTS**: The included DRGs represented 36,212 hospitalisations and \u20ac305.2\u00a0million in aggregate annual hospital-side expenditure represented by the selected DRGs. Mean hospital-side costs ranged from \u20ac5,859 to \u20ac22,495 per case. Ward care accounted for approximately 34-69% of pathway expenditure; operating theatre services contributed up to 39% in revision arthroplasty. Geriatric rehabilitation generated the largest aggregate expenditure (\u20ac119.0\u00a0million; 39.0%) because of high case volume, whereas complex vacuum-assisted wound care had the highest per-case cost but only 2.9% of aggregate expenditure. At the aggregated DRG level, mean length of stay was associated with mean case cost (Pearson r\u2009=\u20090.87, 95% CI 0.60-0.96; P\u2009<\u20090.001); leave-one-out correlations ranged from r\u2009=\u20090.79 to r\u2009=\u20090.96.\n\n**CONCLUSION**: Resource requirements differ markedly across representative DRG pathways relevant to complex orthopaedic infection care. Because the selected DRGs are not infection-exclusive, the reported expenditure should not be interpreted as the national economic burden of implant-associated orthopaedic infection. The findings may inform hospital resource planning and future cost-revenue analyses.",
+      "journal": "Eur J Trauma Emerg Surg",
+      "authors": [
+        "Anees H",
+        "Georgievski G",
+        "Pawelke J",
+        "Muelke M",
+        "Knapp G",
+        "Khassawna TE",
+        "Rupp M",
+        "Heiss C"
+      ],
+      "date": "2026 Nov 10",
+      "doi": "10.7150/jbji.28508",
+      "tier": "core",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43007338/"
+    },
+    {
+      "pmid": "43007248",
+      "title": "Violent Reinjury Trajectories Across Injury Mechanisms: A Multicenter Cohort Study.",
+      "abstract": "**STUDY OBJECTIVE**: Survivors of violent injury often experience reinjury. We sought to identify demographic and clinical factors associated with violent reinjury across different injury types.\n\n**METHODS**: We conducted an observational cohort study of individuals with violent injury (ie, blunt assaults, stabbings, and firearm injuries) across 2 adult and 2 pediatric Level I trauma centers from 2016 to 2023. Covariates included age, sex, race, hospital type, insurance status, and social vulnerability. Our primary outcome was time to reinjury. We used multivariable Cox proportional hazards models to measure associations between each covariate and time to reinjury across injury types.\n\n**RESULTS**: There were 29,038 individuals with nonfatal violent injuries. Male sex (n=19,273; 66.4%), Black and other race (n=21,403; 73.7%), presentation to adult hospitals (n=24,200; 83.3%), public insurance (n=13,879; 47.8%), and living in an area with high social vulnerability (n=21,044; 72.5%) were associated with a greater risk of any violent reinjury, adjusting for covariates. For index firearm injuries, patients younger than18 years had greater risk of firearm reinjury than patients aged 18 to 26 years (adjusted hazard ratio [aHR]:0.65 [0.47 to 0.91]) and for those older than 26 years (aHR:0.47 [0.34 to 0.66]). Although women with firearm injury had a lower risk of firearm reinjury compared with men (aHR:0.46 [0.36 to 0.58]), they had greater risk of blunt reinjury (aHR:1.77 [1.34 to 1.24]). Patients living in areas with high social vulnerability had a higher risk of escalating reinjury mechanism (eg, blunt to firearm; aHR:1.46 [1.11 to 1.90]) versus patients in areas with low/average social vulnerability.\n\n**CONCLUSION**: This research underscores how sequelae of violent reinjury are shaped by certain demographic and clinical characteristics, highlighting opportunities to strengthen reinjury prevention in key subgroups.",
+      "journal": "Ann Emerg Med",
+      "authors": [
+        "Szoko N",
+        "Lew D",
+        "Kaser T",
+        "Miller ZM",
+        "Vogel M",
+        "Mancini MA",
+        "Kranker LM",
+        "Behr C",
+        "Moran V",
+        "Ancona R",
+        "Mueller K"
+      ],
+      "date": "2026 Nov 09",
+      "doi": "10.1016/j.annemergmed.2026.09.024",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43007248/"
+    },
+    {
+      "pmid": "43004811",
+      "title": "Prospective Observational Study Assessing Patient Characteristics, Management and Early Outcomes of Major Trauma Patients With Prehospital Shock. A preliminary report of the Sydney COAST study.",
+      "abstract": "**OBJECTIVE**: Despite advances in trauma resuscitation, significant gaps remain in understanding how early physiological and biochemical derangements influence clinical outcomes. The Sydney 'Clinical Outcomes following Acute Shock in Trauma' (COAST) registry was developed by clinicians containing both prehospital and in-hospital data, allowing for the identification of risk factors that influence early mortality for major trauma patients with shock. This study reports the formation of the registry and the patient cohort enrolled over its first 12\u2009months.\n\n**METHODS**: A multi-centre, prospective registry of shocked adult trauma patients treated by prehospital medical teams and transported directly to a Sydney-based major trauma centre. Shock was defined as either (1) systolic blood pressure less than 100\u2009mmHg, (2) shock index greater than one, (3) blood transfusion or (4) administration of inotropes. Descriptive statistics were used to report outcomes including injuries, pathology, transfusions, immediate intervention, mortality and length of stay.\n\n**RESULTS**: Two hundred fifty seven patients were enrolled. The predominant shock criteria for inclusion was hypotension (90% of cases), whilst 53% received prehospital blood transfusion. Interventional haemorrhage control was required in 31% of cases, whilst 74% received in-hospital transfusion. Injury severity was high (median injury severity score of 27). Four-hour mortality was 4.7% (9% at 24-h and 21% at 30-days).\n\n**CONCLUSIONS**: Consistent with recent observational studies, the Sydney COAST registry captured a cohort of critically ill trauma patients, not all of whom may have had haemorrhage. This will serve as an important dataset, allowing clinicians to better understand factors driving traumatic shock whilst exploring avenues for improving care in these cases.",
+      "journal": "Emerg Med Australas",
+      "authors": [
+        "Partyka C",
+        "Miller M",
+        "Pretorius K",
+        "Coggins A",
+        "Ostrowski K",
+        "Oliver M",
+        "Burns B",
+        "Evens T",
+        "Ferguson I"
+      ],
+      "date": "2026 Dec 1",
+      "doi": "10.1111/1742-6723.70388",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Haemorrhage",
+        "Prehospital",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "major trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "injury severity",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "blood transfusion",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "prehospital blood",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "trauma resuscitation",
+          "strength": "weak",
+          "topic": "Prehospital"
+        },
+        {
+          "keyword": "prehospital",
+          "strength": "strong",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43004811/"
+    },
+    {
+      "pmid": "43003391",
+      "title": "Supply of Fibrinogen Concentrate Across Queensland Health.",
+      "abstract": "**OBJECTIVE**: To describe fibrinogen concentrate (FC) supply across Queensland Health.\n\n**METHODS**: Statewide FC supply from January 2016 to September 2026 was analysed by service type, geography, major trauma designation, viscoelastic haemostatic assay (VHA) availability and temporal trends.\n\n**RESULTS**: Of 24,717\u2009g FC supplied, 97.0% was distributed to 54 hospitals, 2.0% to retrieval services and 1.0% to ambulance services. Of hospital supply, 25.4% reached regional and 6.1% remote/very remote hospitals; 66.2% was supplied to major trauma services and 92.9% to VHA-capable hospitals. Population-adjusted FC supply increased from 8.19 to 59.2\u2009g per 100,000 population between 2016 and 2025.\n\n**CONCLUSION**: FC supply has increased substantially across Queensland, extending to regional, remote and prehospital services. This highlights the value of statewide patient-level utilisation data for haemovigilance.",
+      "journal": "Emerg Med Australas",
+      "authors": [
+        "Latona A",
+        "Brennan R",
+        "Pothulu P",
+        "Casey J",
+        "Ho A",
+        "Mitra B"
+      ],
+      "date": "2026 Dec 1",
+      "doi": "10.1111/1742-6723.70392",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Haemorrhage",
+        "Prehospital"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "major trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "fibrinogen",
+          "strength": "strong",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "prehospital",
+          "strength": "weak",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43003391/"
+    },
+    {
+      "pmid": "43002888",
+      "title": "Synovial fluid biomarker changes after acute anterior cruciate ligament injury: comparison with primary osteoarthritis as a biological comparator.",
+      "abstract": "**BACKGROUNDS**: Post-traumatic osteoarthritis (PTOA) typically develops 10-20 years after anterior cruciate ligament (ACL) injury, but reliable early biomarkers are lacking. We examined synovial fluid biomarker changes in patients with acute ACL injury (PTOA-risk group) and in patients with primary OA. The primary OA group served as a biological comparator representing established degenerative OA, not as a healthy or matched control.\n\n**METHODS**: Our study included patients from January 1, 2021 to September 30, 2023: 51 with primary OA biological comparator and 53 with acute ACL injury (PTOA-risk group). Levels of Interleukin (IL)-1\u03b2, sulfated glycosaminoglycans (sGAG), aggrecan neoepitope fragment (ARGS-aggrecan), and cartilage oligomeric matrix protein (COMP) were measured in synovial fluid and compared between the two groups at baseline and one year later. Patients underwent unilateral knee MRI and bilateral weight-bearing radiography at follow-up.\n\n**RESULTS**: The findings demonstrated that synovial fluid from acute ACL injury (PTOA-risk group) and primary OA biological comparator contained inflammatory mediators, collagen markers, and aging-related indicators such as CRP. Following one year of surgical follow-up, PCT, GAG, CTxI, osteocalcin, \u03b2-aspartate, and COMP all showed significant decreases. Biomarker comparisons between groups revealed that the primary OA biological comparator had significantly lower levels of CRP, GAG, ARGS, BMP2, FGF-10, and ADAM-TS5 than the ACL-injured (PTOA-risk) group, while CTX-II showed no discernible difference. The Spearman rank correlation was used to examine synovial fluid biomarker concentrations relative to injury duration. Significant time-dependence was observed for: IL-1b (p\u202f=\u202f0.025, Rs=-0.112), GAG (p\u202f=\u202f0.011, Rs=-0.265), ARGS aggrecan (p\u202f=\u202f0.032, Rs=-0.021), C1,2\u202fC (p\u202f=\u202f0.002, Rs=0.665), CTxI (p\u202f=\u202f0.025, Rs=0.251), C2C (p\u202f=\u202f0.011, Rs=0.055), CPII (p\u202f=\u202f0.015, Rs=0.336), Osteocalcin (p\u202f=\u202f0.029, Rs=0.114), \u03b2-aspartate (p\u202f=\u202f0.001, Rs=-0.77), D-Asx (p\u202f=\u202f0.0215, Rs=-0.425), MMP-3 (p\u202f=\u202f0.0201, Rs=0.356), and WOMAC (p\u202f=\u202f0.001, Rs=0.264). Univariate regression analysis demonstrated significant associations of IL-1\u03b2 and osteocalcin with ACL-injured (PTOA-risk) group membership. Multivariate logistic regression revealed significant associations with increased levels of \u03b2-aspartate, WOMAC, GAG, IL-1\u03b2, and osteocalcin. LASSO regression analysis was employed as an exploratory feature selection method to identify the biomarker panel that best distinguished between the ACL-injured (PTOA-risk) group and primary OA biological comparators within this cohort. Among the 20 variables included in the analysis, five demonstrated non-zero coefficients in the LASSO model: WOMAC, GAG, \u03b2-aspartate, IL-1\u03b2, and osteocalcin. These findings suggest that inflammatory markers, matrix turnover products, and functional status are prominent features differentiating the acute post-injury state from chronic degenerative OA in this dataset. However, given the exploratory nature of this analysis and the lack of external validation, these results should be interpreted with caution and require confirmation in independent cohorts.\n\n**CONCLUSION**: Our findings demonstrate that patients with acute ACL injury (PTOA-risk group) exhibit distinct synovial fluid molecular signatures compared with a primary OA biological comparator. These signatures encompass acute inflammatory responses and early matrix remodeling. However, this study cannot explain why only approximately 18.8% of ACL-injured patients later develop PTOA. Future longitudinal studies including ACL-injured non-progressors and age-, sex-, and activity-matched controls are required.",
+      "journal": "Injury",
+      "authors": [
+        "Lan J",
+        "Zhao W",
+        "Gao X",
+        "Lin Y",
+        "Huang Z"
+      ],
+      "date": "2026 Oct 29",
+      "doi": "10.1016/j.injury.2026.113827",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "traumatic",
+          "strength": "weak",
+          "topic": "General Trauma"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43002888/"
+    },
+    {
+      "pmid": "43002827",
+      "title": "Direct ICU admission versus floor-to-ICU upgrade in geriatric patients with multiple rib fractures and flail chest: A national analysis.",
+      "abstract": "**BACKGROUND**: It remains unclear whether direct ICU admission benefits geriatric patients compared with delayed floor-to-ICU upgrade. The study evaluated the association of direct ICU admission versus floor-to-ICU upgrade with clinical outcomes in geriatric trauma patients with flail chest and thoracic injury, stratified by oxygenation compromise, frailty, and rib fracture burden.\n\n**METHODS**: This retrospective cohort study used the 2017-2024 ACS-TQIP-PUF to identify patients aged 65\u202fyears or older with blunt trauma, flail chest, at least three rib fractures, an Injury Severity Score of 9 or greater, and thoracic injury. Patients were classified as floor admission without ICU upgrade, direct ICU admission, or floor-to-ICU upgrade. The primary adjusted analysis compared direct ICU admission with floor-to-ICU upgrade, using floor-to-ICU upgrade as the reference group.\n\n**RESULTS**: A total of 6743 patients were included. Mortality did not differ significantly between direct ICU admission and floor-to-ICU upgrade in the primary adjusted analysis (aOR 0.732, 95% CI 0.467-1.148, p\u202f=\u202f0.174). Direct ICU admission was associated with lower odds of unplanned intubation (aOR 0.355, 95% CI 0.251-0.502, p\u202f<\u202f0.001), ARDS (aOR 0.412, 95% CI 0.172-0.987, p\u202f=\u202f0.047), sepsis (aOR 0.352, 95% CI 0.171-0.725, p\u202f=\u202f0.005), and DVT (aOR 0.444, 95% CI 0.209-0.942, p\u202f=\u202f0.034). Mortality was lower with direct ICU admission among patients with 3-5 documented rib fractures (aOR 0.535, 95% CI 0.296-0.969, p\u202f=\u202f0.039), and the association with fewer unplanned intubations persisted across all subgroups. In the secondary analysis, both direct ICU admission and floor-to-ICU upgrade were associated with higher mortality, lower odds of discharge home, and fewer ventilator-free days than floor admission without ICU upgrade.\n\n**CONCLUSION**: Direct ICU admission was associated with lower odds of unplanned intubation, ARDS, sepsis, and DVT compared with floor-to-ICU upgrade. These findings support identifying at-risk geriatric rib fracture patients for direct ICU admission before deterioration occurs.",
+      "journal": "Am J Emerg Med",
+      "authors": [
+        "Nasef Y",
+        "Nishida C",
+        "Bundschu I",
+        "Hus A",
+        "Kumar S",
+        "Rogers L",
+        "Smith CP",
+        "Elkbuli A"
+      ],
+      "date": "2026 Nov 05",
+      "doi": "10.1016/j.ajem.2026.11.007",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Systems/QI",
+        "Thoracic"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "blunt trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "injury severity",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "rib fracture",
+          "strength": "strong",
+          "topic": "Thoracic"
+        },
+        {
+          "keyword": "flail chest",
+          "strength": "strong",
+          "topic": "Thoracic"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43002827/"
+    },
+    {
+      "pmid": "43002825",
+      "title": "Predicting survival in pediatric out-of-hospital cardiac arrest: Development and internal validation of risk scores.",
+      "abstract": "**INTRODUCTION**: Out-of-hospital cardiac arrest (OHCA) in the pediatric population is associated with poor survival and neurological outcomes. We aimed to develop and internally validate risk scores to predict survival to discharge in pediatric OHCA patients.\n\n**METHODS**: We included pediatric OHCA patients in the Cardiac Arrest Registry to Enhance Survival from 2013 to 2023. We used logistic regression (LR) and classification and regression trees (CART) to develop risk scores using 70% of the data and validated them using the remaining 30% of the data. We used discrimination and predictive accuracy to evaluate model performance.\n\n**RESULTS**: We included 26,895 pediatric patients, of whom 27.8% survived to hospital admission and 11.9% survived to hospital discharge. We developed three separate risk scores for i) infants ii) preschool and school-age children, and iii) adolescents. The most important predictor variables were gender, arrest location, witness status, etiology of arrest, bystander CPR, use of prehospital AED, and first rhythm. Models developed using both LR and CART approaches had good classification accuracy (AUROCC for LR: 0.81, 0.77 and 0.82, AUROCC for CART: 0.78, 0.76, 0.82 for the three age groups) However, we found CART models to be the most useful because they are simpler to follow, classified more patients in low and high survival categories using a smaller number of predictors. The average survival probability in infants for each risk group was 3%, 13%, and 33%, for preschool and school-age children it was 4%, 11%, and 29%, whereas for adolescents it was 4%, 13%, and 48% for the low, moderate, and high survival categories.\n\n**CONCLUSION**: Pediatric patients experiencing OHCA can be classified into low, moderate, and high survival categories using a simple risk score and easily identified prehospital variables. These risk scores can facilitate research, monitor the quality of medical services and can potentially support clinical decision-making.",
+      "journal": "Am J Emerg Med",
+      "authors": [
+        "Mawani M",
+        "McNally B",
+        "Knight J",
+        "Shen Y",
+        "Ebell M"
+      ],
+      "date": "2026 Oct 31",
+      "doi": "10.1016/j.ajem.2026.10.040",
+      "tier": "filtered",
+      "topics": [
+        "Prehospital"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "prehospital",
+          "strength": "weak",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43002825/"
+    },
+    {
+      "pmid": "43002824",
+      "title": "Integration of multimodal large language models into point-of-care ultrasound documentation: A pilot study.",
+      "abstract": "**INTRODUCTION**: There are no studies evaluating the potential to deploy artificial intelligence in the interpretation of cardiac point-of-care ultrasound (POCUS) documentation. Telexy Health developed an image interpretation and documentation system using multimodal model extensions with video capabilities (MLLM) and deployed it on the POCUS manager QpathE. This study evaluated the MLLM's agreement to experts in identifying cardiac POCUS views and interpreting normal and abnormal examinations.\n\n**METHODS**: This was a retrospective pilot study using cardiac POCUS studies stored in QPathE. The MLLM was applied to POCUS examinations until 350 examinations were reached, 100 normal, and 250 with pathology. MLLM view identification and interpretation were recorded using Qualtrics, with expert image review serving as the gold standard.\n\n**RESULTS**: The MLLM was applied to 370 examinations, with 20 failures. View identification agreed with expert review in 151 examinations (43.1%). Cohen's kappa showed fair agreement for apical four-chamber views between expert and MLLM, with moderate agreement for parasternal long axis, parasternal short axis, subxiphoid, and inferior vena cava views. The MLLM agreed with expert interpretation 86 of 100 normal examinations; the agreement varied by pathology with pericardial effusion, ejection fraction, aortic outflow tract, chamber size, and inferior vena cava having an agreement of 8%, 4%, 70%, 0%, and 12% respectively.\n\n**CONCLUSION**: While agreement in image interpretation was poor, this vendor agnostic workflow demonstrated the ability to integrate an MLLM model into image interpretation. While it should not be incorporated into clinical practice in this state, future model improvement may enable automated POCUS interpretation and documentation.",
+      "journal": "Am J Emerg Med",
+      "authors": [
+        "Boivin Z",
+        "Jaffa E",
+        "Agaraj I",
+        "Danta M",
+        "Park GY",
+        "Liu RB",
+        "Moore CL",
+        "Baloescu C"
+      ],
+      "date": "2026 Nov 05",
+      "doi": "10.1016/j.ajem.2026.11.001",
+      "tier": "filtered",
+      "topics": [
+        "Imaging"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "POCUS",
+          "strength": "weak",
+          "topic": "Imaging"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43002824/"
+    },
     {
       "pmid": "43002633",
       "title": "Emergency Response and Patient Transport in Remote Indigenous Communities: A Scoping Review.",
@@ -6592,14 +6998,14 @@
     },
     {
       "pmid": "42911831",
-      "title": "Prehospital antibiotics and 28-day mortality in sepsis: where does the adjusted benefit come from?",
+      "title": "Letter to Editor: Prehospital Antibiotics and 28-Day Mortality in Sepsis: Where Does the Adjusted Benefit Come from?",
       "abstract": "",
       "journal": "Prehosp Emerg Care",
       "authors": [
         "Zhao L",
         "Li J"
       ],
-      "date": "2026 Oct 22",
+      "date": "2026 Nov 10",
       "doi": "10.1080/10903127.2026.2753648",
       "tier": "filtered",
       "topics": [
@@ -8398,7 +8804,7 @@
         "Hemil\u00e4 H",
         "Chalker E"
       ],
-      "date": "2026 Oct 14",
+      "date": "2026 Nov 10",
       "doi": "10.1001/jama.2026.16509",
       "tier": "filtered",
       "topics": [
@@ -8512,7 +8918,7 @@
         "Day AG",
         "Turgeon AF"
       ],
-      "date": "2026 Oct 14",
+      "date": "2026 Nov 10",
       "doi": "10.1001/jama.2026.16512",
       "tier": "filtered",
       "topics": [
@@ -8737,332 +9143,6 @@
       ],
       "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/42873076/"
-    },
-    {
-      "pmid": "42869640",
-      "title": "Moving diagnostics upstream: prehospital blood gas analysis is associated with safe community care and improved patient selection for hospital admission.",
-      "abstract": "",
-      "journal": "Emerg Med J",
-      "authors": [
-        "Lux H",
-        "Roth J",
-        "Hemmer S",
-        "Lang S",
-        "Lewejohann JC",
-        "Bauer M",
-        "Brock J",
-        "Dickmann P"
-      ],
-      "date": "2026 Oct 13",
-      "doi": "10.1136/emermed-2026-216096",
-      "tier": "filtered",
-      "topics": [
-        "Haemorrhage",
-        "Prehospital"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "prehospital blood",
-          "strength": "strong",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "prehospital",
-          "strength": "strong",
-          "topic": "Prehospital"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42869640/"
-    },
-    {
-      "pmid": "42869638",
-      "title": "Rhabdo-RRT score: development and external validation of an emergency department tool for predicting renal replacement therapy in rhabdomyolysis.",
-      "abstract": "",
-      "journal": "Emerg Med J",
-      "authors": [
-        "Comoglu E",
-        "Gemcioglu E",
-        "Furkan Demir B",
-        "Gurbuz I",
-        "Akdag SI",
-        "Kayhan S",
-        "Dede F",
-        "Ates I"
-      ],
-      "date": "2026 Oct 13",
-      "doi": "10.1136/emermed-2026-216273",
-      "tier": "filtered",
-      "topics": [
-        "Orthopaedic"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "rhabdomyolysis",
-          "strength": "strong",
-          "topic": "Orthopaedic"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42869638/"
-    },
-    {
-      "pmid": "42868981",
-      "title": "Shoulder anterior capsular (SHAC) block for analgesia in anterior shoulder dislocation: An emergency department case series.",
-      "abstract": "**BACKGROUND**: Anterior shoulder dislocation is among the most common major joint dislocations presenting to the emergency department (ED) and is frequently managed with procedural sedation. Several analgesic and regional anesthesia strategies are available for shoulder reduction, each with distinct advantages and limitations. The Shoulder Anterior Capsular (SHAC) block is a superficial, ultrasound-guided interfascial plane technique that targets pericapsular nerve contributions to the glenohumeral joint via an anterior approach, offering a potentially motor-sparing and sedation-sparing alternative.\n\n**CASE PRESENTATION**: We present two cases of ED anterior shoulder dislocation managed with the SHAC block at a high-volume Level 1 trauma center. In the first case, a 60-year-old male with recurrent dislocation underwent successful reduction without procedural sedation, reporting it as his least painful reduction among multiple prior experiences. In the second case, a 94-year-old female with a complex fracture-dislocation in cervical spine precautions received the SHAC block as an analgesic adjunct; although procedural sedation was ultimately required, the patient required no intravenous analgesia during a subsequent 36-h observation period. In both cases, the block was performed by an emergency medicine intern under supervision by a Pain Medicine fellowship-trained attending physician, preserving the ability to conduct post-reduction axillary nerve assessment.\n\n**CONCLUSION**: The SHAC block was technically feasible in two selected patients with anterior shoulder dislocation and provided variable analgesia. Further study is needed to evaluate its efficacy, safety, positioning requirements, reproducibility, and appropriate patient selection.",
-      "journal": "Am J Emerg Med",
-      "authors": [
-        "Fernandes C",
-        "Muzaurieta A",
-        "Cassianni C",
-        "Rea S",
-        "Machi A",
-        "Lee J"
-      ],
-      "date": "2026 Sep 30",
-      "doi": "10.1016/j.ajem.2026.09.044",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "trauma centre",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42868981/"
-    },
-    {
-      "pmid": "42868067",
-      "title": "Does Time Truly Heal All? A Prospective Cohort Study of 6- To 12-Month Recovery Transitions After Traumatic Injury.",
-      "abstract": "**BACKGROUND**: Recovery after traumatic injury may extend beyond conventional follow-up, but longer-term changes in function, quality of life (QoL), and return to work (RTW) remain incompletely characterized.\n\n**STUDY DESIGN**: English- or Spanish-speaking patients with Injury Severity Score \u22659 from three US Level I trauma centers completed telephone surveys 6 and 12 months after injury. Recovery was characterized as improved, stable, or declined between timepoints. Function was assessed across six Trauma Quality of Life domains; QoL and RTW by self-report; and mental health using GAD-7, PHQ-8, and Breslau PTSD scales. Multivariable logistic regression evaluated predictors of QoL decline. Sensitivity analyses examined traumatic brain injury (TBI), isolated long bone fracture, and general trauma.\n\n**RESULTS**: Among 1,894 patients, 49% of those impaired at 6 months improved, 41% were unchanged, and 11% worsened by 12 months. Patients \u226565 more often improved (20% vs. 16%) and declined (16% vs. 9%) than those <65; surgical patients more often improved (20% vs. 16%). QoL improved in 22%, remained stable in 56%, and declined in 22%. TBI patients had the greatest functional improvement (55%), whereas long bone fracture patients had the greatest QoL improvement (26%). Weak social support (aOR 3.68) and mental health symptoms were associated with QoL decline. RTW reached 61% by 6 months; 74% of non-returners remained so at 12 months.\n\n**CONCLUSIONS**: Recovery remains dynamic beyond 6 months after trauma, supporting extended follow-up and individualized rehabilitation. Associations of mental health symptoms and weak social support with QoL decline support incorporating their assessment into post-injury care.",
-      "journal": "J Am Coll Surg",
-      "authors": [
-        "Ilkhani S",
-        "Figi JT",
-        "Thompson AA",
-        "Ordoobadi AJ",
-        "Castillo-Angeles M",
-        "Kaafarani H",
-        "Sanchez SE",
-        "Salim A",
-        "Herrera-Escobar JP",
-        "Anderson GA"
-      ],
-      "date": "2026 Oct 13",
-      "doi": "10.1097/XCS.0000000000002257",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Orthopaedic",
-        "Systems/QI",
-        "TBI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "injury severity",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "traumatic brain injury",
-          "strength": "weak",
-          "topic": "TBI"
-        },
-        {
-          "keyword": "long bone fracture",
-          "strength": "weak",
-          "topic": "Orthopaedic"
-        },
-        {
-          "keyword": "trauma quality",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42868067/"
-    },
-    {
-      "pmid": "42864166",
-      "title": "Creation of a formal chest wall injury program improves compliance with rib fixation indications.",
-      "abstract": "**BACKGROUND**: Surgical stabilization of rib fractures (SSRF) improves outcomes but remains underutilized. This study evaluated the impact of the creation of a dedicated, institutional chest wall injury program on SSRF utilization, hypothesizing such a program would increase utilization of SSRF for those patients meeting criteria.\n\n**METHODS**: We conducted a single-center, retrospective study of adults with radiographically confirmed rib fractures presenting to a Level I trauma center between January 2016 and April 2023. Patients were classified by the Chest Wall Injury Society SSRF operative criteria and whether or not they underwent SSRF. Basic demographics were obtained. The chest wall injury program was developed in 2020 with elements including standardized guideline adoption, daily multidisciplinary rounds to identify candidates early, and establishment of a dedicated outpatient follow-up clinic. Additionally, the program facilitated consistent documentation of SSRF candidacy and improved interdisciplinary communication regarding treatment plans. The primary outcome was the relationship between operative and non-operative cases when SSRF criteria were met.\n\n**RESULTS**: A total of 3488 patients were included, of whom 1629 met operative indications for SSRF. Overall, 457 patients (28.1%) underwent fixation. Compared to non-operative patients, the SSRF group had similar age and predominantly sustained blunt trauma. Implementation of the dedicated chest wall injury program in 2020 was associated with a significant increase in SSRF utilization among eligible patients, rising from 21.5% to 32.1% in 2020 (rise of 10.6%). Utilization continued to increase each subsequent year, reaching 45.3% by 2023. Among patients meeting SSRF criteria, SSRF utilization increased from 19.8% before 2021-41.1% from 2021 onward (p\u202f<\u202f0.001). In multivariable logistic regression adjusting for age and gender, the 2021-onward period remained independently associated with receipt of SSRF (adjusted OR 2.82, 95% CI 2.25-3.52; p\u202f<\u202f0.001).\n\n**CONCLUSION**: Establishing a dedicated chest wall injury program was associated with higher adherence to SSRF guidelines and increased operative management of eligible patients.\n\n**LEVEL OF EVIDENCE**: Level IV, therapeutic/care management.",
-      "journal": "Injury",
-      "authors": [
-        "Muldiiarov V",
-        "Bouldoukian S",
-        "Khan H",
-        "Campbell A",
-        "Matos M",
-        "Kamien A",
-        "Cantrell E",
-        "Lamb G",
-        "Terzian WTH",
-        "Tierney J",
-        "Evans CH",
-        "Cemaj S",
-        "Bauman ZM"
-      ],
-      "date": "2026 Oct 08",
-      "doi": "10.1016/j.injury.2026.113764",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Systems/QI",
-        "Thoracic"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "blunt trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "trauma centre",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "rib fracture",
-          "strength": "weak",
-          "topic": "Thoracic"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42864166/"
-    },
-    {
-      "pmid": "42864165",
-      "title": "Postoperative morbidity among survivors of emergency war trauma surgery in a conflict setting: a descriptive cohort study.",
-      "abstract": "**BACKGROUND**: Evidence on surgical outcomes in active conflict settings remains limited, particularly regarding postoperative morbidity and its relationship to injury severity among civilians with severe war-related injuries. This study describes the pattern of postoperative morbidity following emergency surgery for conflict-related abdominal and thoracic trauma.\n\n**METHODS**: We conducted a cohort study of patients undergoing emergency war trauma surgery at a single surgical unit during the 2024 Gaza conflict. Data were collected prospectively and supplemented through retrospective review when needed. To avoid conflating early postoperative death with an absence of morbidity, postoperative morbidity was described only among patients who survived to hospital discharge.\n\n**RESULTS**: Seventy-nine patients were included. Five patients (6%) died intraoperatively and were excluded from postoperative analysis. Of the remaining 74 patients, 20 (27%) died during the index admission and 54 (73%) survived to discharge; non-survivors had substantially higher Injury Severity Scores than survivors (median ISS 32 vs 16) and were less often haemodynamically stable on arrival (12% vs 67%). Among the 54 survivors, postoperative morbidity occurred in 46 (85%), mainly due to infectious complications (81%), particularly surgical site infection (74%). Descriptive comparison of survivors with and without morbidity showed similar injury severity between groups (median ISS 16 vs 16.5), suggesting that once patients survived long enough to be at risk of complications, morbidity was common across the injury-severity spectrum rather than concentrated among the most severely injured.\n\n**CONCLUSIONS**: Postoperative morbidity after conflict-related emergency surgery was high among survivors and was largely driven by infectious complications. Mortality, rather than morbidity, was most closely related to injury severity. These findings support the need for consistent injury severity assessment, improved infection prevention strategies, and cautious interpretation of morbidity data in conflict cohorts where early mortality limits the population at risk of developing recorded complications.",
-      "journal": "Injury",
-      "authors": [
-        "Elbayoumi NE",
-        "Mezied G",
-        "Elbayoumi F",
-        "Alshawwa N",
-        "Shaikhkhalil H",
-        "Aladini M",
-        "Alslaibi KM"
-      ],
-      "date": "2026 Oct 01",
-      "doi": "10.1016/j.injury.2026.113747",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "injury severity",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42864165/"
-    },
-    {
-      "pmid": "42863592",
-      "title": "Mechanical versus manual bag-valve ventilation during cardiopulmonary resuscitation in adults with cardiac arrest: a systematic review and Bayesian meta-analysis.",
-      "abstract": "**BACKGROUND/OBJECTIVE**: Optimal ventilation delivery during cardiopulmonary resuscitation (CPR) remains uncertain. Current resuscitation guidelines do not recommend mechanical ventilation (MV) over manual bag-valve ventilation (BV). We evaluated the association between MV use during CPR and clinical outcomes in adults with cardiac arrest compared with manual BV.\n\n**METHODS**: We searched 6 bibliographic databases from inception through May 31, 2026. Included studies compared MV and BV ventilation CPR in adult cardiac arrest patients. Patients receiving MV at any moment during CPR were classified as the MV group; those receiving only BV comprised the BV group. Primary outcomes included return of spontaneous circulation (ROSC), survival to hospital admission, survival to hospital discharge, and good neurological outcome. Secondary outcomes included physiologic variables and pneumothorax. We calculated pooled risk ratios (RRs) and mean differences with 95% credible intervals (CrIs) using Bayesian random-effects meta-analyses.\n\n**RESULTS**: Eight studies involving 6847 patients were included. For the primary outcome, MV use during CPR was associated with a higher rate of ROSC than BV use (pooled RR, 1.20; 95% CrI, 1.04-1.42), with a 99% posterior probability of benefit. Posterior probabilities favoring MV for survival to admission, survival to discharge, and good neurological outcome were 92.3%, 93.6%, and 92.2%, respectively. Pneumothorax incidence was similar between groups.\n\n**CONCLUSION**: In adult cardiac arrest, MV use during CPR was associated with higher ROSC compared with manual BV. Evidence for improved survival and neurological outcomes remains imprecise and inconclusive.",
-      "journal": "Resuscitation",
-      "authors": [
-        "Chu YQ",
-        "Su EH",
-        "Li H",
-        "Ko YC",
-        "Wei WT",
-        "Tsai TY"
-      ],
-      "date": "2026 Oct 12",
-      "doi": "10.1016/j.resuscitation.2026.111345",
-      "tier": "filtered",
-      "topics": [
-        "Thoracic"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "pneumothorax",
-          "strength": "weak",
-          "topic": "Thoracic"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42863592/"
-    },
-    {
-      "pmid": "42863399",
-      "title": "Delayed diagnosis of a traumatic gluteal pseudoaneurysm with arteriovenous fistula and dual arterial supply mimicking a buttock abscess after a stab wound: a case report.",
-      "abstract": "**BACKGROUND**: Traumatic arteriovenous fistulas (AVFs), with or without associated pseudoaneurysms, are uncommon complications of penetrating vascular injuries that may cause substantial morbidity and potentially fatal complications. Evidence is largely derived from case reports and case series, with important contributions from military experience. Delayed gluteal lesions may mimic a hematoma or abscess, creating a diagnostic pitfall.\n\n**CASE PRESENTATION**: A 51-year-old male presented with a one-month history of a progressively enlarging painful left buttock mass following a stab wound that had been primarily sutured at a local hospital. Initial ultrasound suggested a hematoma, and the patient was admitted with a working diagnosis of \"left buttock mass.\" Physical examination revealed a 7\u00a0\u00d7\u00a07\u00a0cm fluctuant mass with tenderness but without overt signs of infection. Contrast-enhanced pelvic CT demonstrated a 6.8\u00a0\u00d7\u00a03.2\u00a0cm intensely enhancing lesion within the left gluteus maximus with prominent feeding vessels, suggestive of an arteriovenous fistula or vascular malformation. Digital subtraction angiography confirmed a left gluteal pseudoaneurysm with an associated arteriovenous fistula supplied by branches of both the inferior gluteal and internal pudendal arteries, with early venous opacification. The patient underwent successful transcatheter embolization using fibered platinum coils and a cyanoacrylate-lipiodol mixture, with complete occlusion of the fistula confirmed on completion angiography. The patient recovered uneventfully and was discharged on postoperative day 2. At three-month follow-up, the patient reported no specific discomfort, and color Doppler ultrasonography showed a marked reduction in mass size with no detectable flow within the lesion.\n\n**CONCLUSION**: Penetrating buttock trauma may cause a gluteal pseudoaneurysm with an associated AVF supplied by more than one internal iliac artery branch. Contrast-enhanced CT and selective angiography are important for recognizing the vascular lesion and delineating all feeding arteries. In this patient, embolization of both the inferior gluteal and internal pudendal arterial feeders achieved complete angiographic occlusion and a favorable clinical outcome, with a markedly smaller mass and no detectable intralesional flow on color Doppler ultrasonography at three months.",
-      "journal": "Am J Emerg Med",
-      "authors": [
-        "Zhou Q",
-        "Yang XY",
-        "Xiang T",
-        "Gan ZN",
-        "Shi BQ",
-        "Zhang ZW",
-        "Wei FZ",
-        "He L",
-        "Ma YP",
-        "Li RL"
-      ],
-      "date": "2026 Oct 06",
-      "doi": "10.1016/j.ajem.2026.10.001",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Penetrating"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "stab wound",
-          "strength": "strong",
-          "topic": "Penetrating"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42863399/"
     }
   ]
 }
