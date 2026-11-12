@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-11T00:19:19.250212Z",
-  "total_articles": 239,
+  "generated": "2026-11-12T01:44:36.732287Z",
+  "total_articles": 236,
   "all_topics": [
     "Abdominal",
     "Burns",
@@ -379,6 +379,330 @@
   },
   "articles": [
     {
+      "pmid": "43012620",
+      "title": "The Effect of Guanfacine on Delirium in Surgical and Trauma ICU Patients: A Pilot Randomized Clinical Trial.",
+      "abstract": "**OBJECTIVES**: To evaluate the feasibility of conducting a randomized controlled trial investigating guanfacine for ICU delirium, including assessment of recruitment, retention, protocol adherence, and data completeness, while estimating treatment effects to inform future trial design.\n\n**DESIGN**: Single-center, randomized, double-blind, placebo-controlled pilot trial conducted from November 2020 to February 2023.\n\n**SETTING**: Surgical and Trauma ICUs at the University of Alabama at Birmingham Hospital.\n\n**PATIENTS**: One hundred critically ill adults with Confusion Assessment Method-ICU-confirmed delirium randomized 1:1 to guanfacine or placebo.\n\n**INTERVENTIONS**: Patients received 2\u2009mg guanfacine or matching placebo nightly for up to 14 days, or until ICU discharge or delirium resolution.\n\n**MEASUREMENTS AND MAIN RESULTS**: Primary feasibility outcomes included protocol adherence (target \u2265 90%), retention (target \u2265 80%), recruitment rate (target \u2265 2 patients/mo), and data completeness (target \u2265 95%). Most feasibility targets were achieved: protocol adherence was 100%, retention was 100%, and data completeness was 100%. Recruitment was significantly impacted by COVID-19 pandemic disruptions, achieving 0.9 patients/wk during active recruitment periods.For clinical outcomes, in unadjusted analyses, median delirium and coma-free days were higher with guanfacine than placebo (2 [interquartile range [IQR], 0-6] vs. 1 [IQR, 0-4]; p = 0.02); however, this association was not statistically significant after adjustment for prespecified baseline covariates. ICU and hospital length of stay and duration of mechanical ventilation did not differ significantly between groups. No hemodynamic differences or safety concerns were observed.\n\n**CONCLUSIONS**: This pilot study successfully supports feasibility for a definitive trial, with excellent protocol adherence, adequate retention, and preliminary signals that warrant further evaluation. Although adjusted analyses were not statistically significant, the observed unadjusted difference in delirium and coma-free days and favorable safety profile support progression to a multicenter trial informed by these pilot estimates.",
+      "journal": "Crit Care Med",
+      "authors": [
+        "Barker AB",
+        "Kim HS",
+        "Chapleau CA",
+        "Agarwal T",
+        "Ghani A",
+        "Muhammad M",
+        "Ge Y",
+        "Lemon WR",
+        "Vu S",
+        "Boateng EO",
+        "Kuo HC",
+        "Szychowski JM",
+        "Tolwani AJ",
+        "Wagener BM"
+      ],
+      "date": "2026 Nov 11",
+      "doi": "10.1097/CCM.0000000000007448",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43012620/"
+    },
+    {
+      "pmid": "43012618",
+      "title": "From sirens to systems: Characterizing EMS and trauma care across America.",
+      "abstract": "**BACKGROUND**: State emergency medical services (EMS) and trauma systems determine prehospital triage, transport, trauma center designation, data reporting, and quality improvement, yet their contemporary organization has not been systematically characterized. We sought to describe state-level EMS and trauma system structures, policies, resources, and perceived gaps across the United States.\n\n**METHODS**: We conducted a cross-sectional survey of EMS and trauma system leaders in all 50 states and the District of Columbia from July 2025 through March 2026. A 56-item instrument utilizing categorical, Likert-type, rank-order, and free-text items assessed oversight, prehospital triage and transport, clinical protocols, trauma center verification, registries, quality improvement, and funding. Respondents were recruited by email and phone. Multiple respondents could contribute complementary domain-level information to a single state profile. Responses were summarized descriptively.\n\n**RESULTS**: All 51 jurisdictions participated. Most states reported a state EMS medical director (84%), statewide trauma triage protocols (84%), and mandatory participation in their state trauma registry (88%). However, operational coordination varied: only 29% had a centralized trauma communications center, only 6% of states reported a single point of contact for helicopter EMS dispatch, and 35% required a certificate of need for new helicopter services. Trauma center verification relied on American College of Surgeons (ACS) verification in 59% of states, while others used state-administered processes. More than half of states rated EMS financial resources in the two lowest adequacy categories, and 55% reported that their trauma system required at least moderate improvement. Rural populations were most frequently identified as underserved (96%) and as experiencing worse outcomes (92%).\n\n**CONCLUSIONS**: State EMS and trauma systems share broad adoption of national clinical standards but differ substantially in governance, coordination, verification, data integration, and funding.\n\n**LEVEL OF EVIDENCE AND STUDY TYPE**: Level V, Prognostic/epidemiological.",
+      "journal": "J Trauma Acute Care Surg",
+      "authors": [
+        "Wothe JK",
+        "Millstein I",
+        "Ordoobadi AJ",
+        "Jones AN",
+        "Dohan D",
+        "Reich A",
+        "Esme T",
+        "Hashmi Z",
+        "Newgard C",
+        "Weissman JS",
+        "Jarman MP"
+      ],
+      "date": "2026 Nov 11",
+      "doi": "10.1097/TA.0000000000005232",
+      "tier": "core",
+      "topics": [
+        "General Trauma",
+        "Prehospital",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "prehospital",
+          "strength": "weak",
+          "topic": "Prehospital"
+        },
+        {
+          "keyword": "trauma registry",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43012618/"
+    },
+    {
+      "pmid": "43009991",
+      "title": "Non-urgent emergency department utilization in adults: a systematic review of associated factors across diverse health systems.",
+      "abstract": "**BACKGROUND**: Non-urgent emergency department (ED) visits represent a growing global challenge with significant economic and operational consequences. Despite previous reviews, important gaps remain. No review has included all commonly used terms for non-urgent ED visits, recent evidence has not been synthesised, and factors related to patients, health systems, and care contexts have rarely been examined together. This systematic review aimed to identify and categorize factors associated with non-urgent ED visits in adults.\n\n**METHODS**: A systematic search was conducted in PubMed, Scopus, and Web of Science for articles published between January 2015 and May 2026. We included cross-sectional, cohort, and case-control studies that compared urgent and non-urgent ED visits and reported at least one associated factor. Quality assessment was performed using Joanna Briggs Institute (JBI) checklists. Because of substantial heterogeneity in definitions, the findings were synthesised narratively.\n\n**RESULTS**: Thirty-two studies from 21 countries were included. The proportion of non-urgent visits ranged from 1% to 82.4%, depending on the definition and measurement approach used. Five approaches were used to define non-urgent visits. The most common were triage-based (41%) and clinical judgment-based (28%). Associated factors were classified into three main categories: (1) demographic and socioeconomic (younger age, female sex, low income, lower education, non-native nationality); (2) access and health system (self-referral, arrival on foot, weekend visits, shorter distance to ED, lack of a family physician, public insurance); and (3) clinical and perceptual (non-specific diagnosis, musculoskeletal problems, mental health conditions, prior ED visit history, and patient perception of illness severity). The strongest associations were reported for frequent previous ED visits (aOR up to 82.13) and patients who perceived their illness as non-serious (aOR up to 21.03).\n\n**CONCLUSION**: Non-urgent ED visits are influenced by multiple individual, health system, and perceptual factors. The substantial heterogeneity in definitional approaches underscores the need for conceptual standardization. No single intervention is likely to reduce non-urgent ED visits. Effective strategies should strengthen primary care, improve insurance policies, increase public health education, and empower patients.",
+      "journal": "Scand J Trauma Resusc Emerg Med",
+      "authors": [
+        "Zarei E",
+        "Safari M",
+        "Nematollahi MS"
+      ],
+      "date": "2026 Aug 13",
+      "doi": "10.1016/j.jen.2023.10.001",
+      "tier": "core",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43009991/"
+    },
+    {
+      "pmid": "43008641",
+      "title": "A bedside score using arrival data to identify major hemorrhage after blunt pelvic ring fracture: Development and validation.",
+      "abstract": "**BACKGROUND**: Early recognition of major hemorrhage after blunt pelvic ring injury could guide mobilization of transfusion and hemorrhage-control resources. We developed an arrival-based bedside score and compared its performance with shock index.\n\n**METHODS**: We studied 239,736 adults with documented blunt pelvic ring fractures in the 2019-2024 National Trauma Data Bank. Major hemorrhage was defined as a hemorrhage-control procedure, hemorrhagic death, or transfusion of \u2265\u202f1000\u202fmL or \u2265\u202f4 units of red blood cells within 4\u202fh. Penalized logistic regression selected arrival variables for an integer score. We assessed performance in a held-out test set (n\u202f=\u202f79,912) and at approximately matched alert volume. A model refitted on 2019-2022 admissions was evaluated in 2023-2024. Subgroup analyses were post hoc.\n\n**RESULTS**: Major hemorrhage occurred in 26,479 patients (11.0%); 31.0% were aged \u2265\u202f75 years, and 45.9% had fallen. In the test set, the score achieved an AUROC of 0.882 (95% CI, 0.879-0.886), exceeding shock index by 0.060 (95% CI, 0.055-0.064; P\u202f<\u202f0.001). At approximately 15.6% of patients flagged, the score identified 678 additional major hemorrhage cases with 684 fewer false-positive alerts. The temporally validated model achieved an AUROC of 0.885 (95% CI, 0.881-0.888). Discrimination exceeded shock index for pelvic ring disruption (0.830 vs 0.778) and high-energy mechanisms (0.811 vs 0.764), but was lower after falls (0.779 vs 0.800).\n\n**CONCLUSIONS**: In patients with documented blunt pelvic ring fractures, an arrival-based score identified major hemorrhage more accurately than shock index at a similar alert burden. Reduced performance after falls and uncertain applicability to suspected fractures warrant caution. External validation and prospective impact assessment are needed before clinical use.",
+      "journal": "Injury",
+      "authors": [
+        "Salman SG",
+        "Phadke RA",
+        "Carlin T",
+        "Rosenfelt T",
+        "Ramirez J",
+        "Mendez-Reyes JE",
+        "Hoffman MK",
+        "Leonard J",
+        "Davis RW",
+        "Ward JL",
+        "Vera RM",
+        "Silberfein EJ",
+        "Rana A",
+        "Atassi OH",
+        "Perkins CH",
+        "Dawson JR",
+        "Wilson C",
+        "Fitzgerald CA",
+        "Seger CP",
+        "Zielinski MD",
+        "Mattox KL",
+        "Dumas RP"
+      ],
+      "date": "2026 Nov 06",
+      "doi": "10.1016/j.injury.2026.113897",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Pelvic"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "pelvic ring",
+          "strength": "strong",
+          "topic": "Pelvic"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43008641/"
+    },
+    {
+      "pmid": "43008640",
+      "title": "Traumatic hip dislocation: Clinical and epidemiological features, management and prognostic factors in a series of 44 cases from a tertiary centre.",
+      "abstract": "**INTRODUCTION**: Traumatic hip dislocation is an uncommon but potentially severe injury requiring emergency management. We aimed to describe the clinical and epidemiological features and associated injuries of patients with traumatic hip dislocation treated at a tertiary centre, and to analyse the factors related to complications and to the need for salvage surgery.\n\n**PATIENTS AND METHODS**: Retrospective observational study of 44 patients aged 15 years or older treated between 2010 and 2024. Demographic variables, injury mechanism, direction of the dislocation, associated fractures (Judet-Letournel and Pipkin classifications), management and complications were recorded. Bivariate analysis used Fisher's exact test for categorical variables and the Mann-Whitney U test for continuous variables; a p value <\u202f0.05 was considered significant.\n\n**RESULTS**: Mean age was 37.4 years (SD 19.3) and 70.5% of patients were men. The commonest mechanism was a road traffic accident (52.3%) and the posterior direction was the most frequent (72.7%). A complex dislocation (with an associated fracture) was present in 72.7% of patients, and 36.4% occurred in the context of polytrauma. Closed reduction was performed in 88.6% of cases, with a median time to reduction of 2\u202fh. The most frequent complication was sciatic nerve injury (20.5%). Femoral head osteonecrosis occurred in 2 patients (4.5%). Male sex was associated with more late complications (p\u202f=\u202f0.043), and a prolonged hospital stay was associated with both early (p\u202f=\u202f0.002) and late (p\u202f=\u202f0.017) complications. Complex dislocations showed a consistent trend towards greater morbidity.\n\n**CONCLUSIONS**: Traumatic hip dislocation predominantly affects young men after high-energy trauma. Prompt reduction was associated with a low rate of osteonecrosis. The presence of associated fractures and a prolonged hospital stay identify patients with a worse course.",
+      "journal": "Injury",
+      "authors": [
+        "Menc\u00eda Gonz\u00e1lez JP",
+        "S\u00e1nchez C\u00f3zar L",
+        "Mart\u00ednez Alfaro A",
+        "Maes ASM",
+        "Eckardt Haag ME",
+        "Huguet Carmona JL",
+        "Marco Sabater A",
+        "Alc\u00e1zar P\u00e9rez \u00c1",
+        "Gonz\u00e1lez Rojo P"
+      ],
+      "date": "2026 Nov 05",
+      "doi": "10.1016/j.injury.2026.113885",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "polytrauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "strong",
+          "topic": "General Trauma"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43008640/"
+    },
+    {
+      "pmid": "43008639",
+      "title": "Does the number of debridement procedures impact risk of infection in open fractures?",
+      "abstract": "**OBJECTIVE**: This study aimed to evaluate the relationship between the number of debridements and risk of infection, while stratifying by degree of wound contamination. It was hypothesized that patients with severe contamination, a higher number of debridements would be associated with lower risk of infection.\n\n**METHODS**: This is a retrospective secondary analysis of prospectively collected data in the PREP-IT trial (Program of Randomized trials to Evaluate Preoperative antiseptic skin solutions in orthopaedic Trauma). The primary outcome measure was adjudicated surgical site infection. Independent variables were number of debridement procedures and time from injury to definitive wound closure. Analysis was stratified by degree of contamination and multivariable analyses were performed to control for confounders.\n\n**RESULTS**: 3502 total open fractures corresponding to 3222 patients with a median (interquartile range, IQR) age of 42 (29-58) years (2199 [62.8%] men; median (IQR) body mass index 27.7 [24.3-32.6]) were included in this analysis. 2199 patients were included in the non/minimal contamination group, 970 in the surface contamination group, and 333 in the embedded contamination group. After controlling for patient-level characteristics there was a 27% increase in the risk of infection for each debridement performed in the overall patient cohort (OR 1.27 [1.12-1.43] p\u202f<\u202f0.001), and a 45% increase in the embedded contamination group (OR, 1.45 [1.12-1.88] p\u202f=\u202f0.004). There was no statistically significant difference between minimal contamination groups and the surface contamination group.\n\n**CONCLUSION**: The results of this study indicate that increased number of debridement procedures was not associated with lower infectious rates. Patients with the highest degree of contamination demonstrated significantly increased risk of developing an infection with each additional debridement. These findings support the importance of limiting unnecessary additional debridement procedures to reduce infection risk and optimize outcomes.",
+      "journal": "Injury",
+      "authors": [
+        "Bateman LM",
+        "Fisher LA",
+        "Diaz-Coto S",
+        "O'Hara NN",
+        "Bzovsky S",
+        "Zura RD",
+        "Miller AN",
+        "Slobogean GP",
+        "Sprauge S",
+        "Gitajn IL"
+      ],
+      "date": "2026 Nov 06",
+      "doi": "10.1016/j.injury.2026.113890",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Orthopaedic"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "open fracture",
+          "strength": "strong",
+          "topic": "Orthopaedic"
+        },
+        {
+          "keyword": "orthopaedic trauma",
+          "strength": "weak",
+          "topic": "Orthopaedic"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43008639/"
+    },
+    {
+      "pmid": "43008638",
+      "title": "Cone-Beam CT-Guided SpineJack\u00ae vertebral augmentation: A reproducible technique for accurate pedicular access and implant deployment.",
+      "abstract": "**BACKGROUND**: SpineJack\u00ae vertebral augmentation requires precise bilateral transpedicular access and accurate implant deployment. This study evaluated the feasibility, safety, and technical performance of cone-beam computed tomography (CBCT)-guided SpineJack augmentation.\n\n**METHODS**: This retrospective single-institution, two-site study included consecutive CBCT-guided procedures performed between May 2021 and April 2026. Technical success required planned bilateral implantation, expansion, and cement augmentation without pedicle breach or implant malposition on final CBCT. Secondary outcomes included immediate vertebral height restoration, complications, procedure duration, radiation exposure, and treatment setting.\n\n**RESULTS**: The analysis included 178 procedures; median age was 45 years (interquartile range [IQR], 27-59), and 158 procedures (88.8%) involved traumatic fractures. Technical success was 100% (178/178), including 64 procedures (36.0%) with pedicle-implant clearance <\u202f0.8\u202fmm. Median absolute vertebral body height gain was 4.1\u202fmm (IQR, 2.7-6.1), and median restoration of baseline height loss reached 77% (IQR, 47-98). All 24 cement leaks (13.5%) were asymptomatic. No neurological, vascular, infectious, or implant-related complications occurred. Median procedure duration was 60\u202fmin (IQR, 50-90), and median dose-area product was 33.2\u202fGy\u00b7cm\u00b2 (IQR, 19.4-53.1). One hundred procedures (56.2%) were performed on an outpatient basis.\n\n**CONCLUSIONS**: CBCT-guided SpineJack augmentation achieved accurate bilateral implant deployment and substantial immediate vertebral height restoration without major procedure-related complications. These findings support CBCT as a reliable guidance strategy for vertebral augmentation, with demonstrated feasibility in outpatient practice.",
+      "journal": "Injury",
+      "authors": [
+        "Dien E",
+        "Grange S",
+        "Mondon P",
+        "Peraldi L",
+        "Lavigne J",
+        "Chalamet B",
+        "Ben-Rejeb MI",
+        "Bouchet M",
+        "Gleyzolle A",
+        "Ahoury N Guessan J",
+        "Barrey C",
+        "Amoretti N",
+        "Pialat JB",
+        "Stacoffe N"
+      ],
+      "date": "2026 Nov 06",
+      "doi": "10.1016/j.injury.2026.113891",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "traumatic",
+          "strength": "weak",
+          "topic": "General Trauma"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43008638/"
+    },
+    {
+      "pmid": "43008637",
+      "title": "The MIS-Diamond fixation: A minimally invasive diamond-shaped construct for spinopelvic dissociation in polytrauma patients.",
+      "abstract": "**INTRODUCTION**: Sacral fracture with spinopelvic dissociation (SPD) is a rare, high-energy injury associated with substantial mortality and morbidity. Surgical stabilization is technically challenging and has historically been associated with relatively high rates of construct failure. The present study describes and evaluates a novel minimally invasive spinopelvic diamond-shaped construct (The MIS-Diamond fixation), designed to improve rigid triangular stabilization while minimizing soft-tissue morbidity and facilitate the fracture reduction.\n\n**METHODS**: A retrospective observational study was conducted including patients who underwent MIS-Diamond fixation for AO Type C3 sacral fractures at a single Level-I Trauma Center between January 2014 and December 2024, with a minimum follow-up of 12 months. Neurological status, operative parameters, perioperative complications, and radiological outcomes were systematically assessed. Fractures were classified according to the AO Spine Sacral Injury Classification System.\n\n**RESULTS**: Thirty-two patients (mean age 39 years) were included. Surgery was performed at a median of 5 days post-injury, with a mean operative time of 115.8\u202fmin and mean estimated blood loss of 82.7\u202fmL. No intraoperative complications occurred. One patient developed a postoperative S1 motor impairment attributed to indirect radicular injury during reduction. Implant-related complications were recorded in 4 patients (12.5%), including one late-onset surgical site infection and three cases of asymptomatic iliac screw loosening. No soft tissue or wound healing complications were observed. Implant removal was successfully completed in 28 patients (87.5%) at 12 months postoperatively.\n\n**DISCUSSION**: MIS-Diamond fixation demonstrated a favourable safety profile while enabling early postoperative mobilization. The incorporation of a 5.5\u202fmm transverse iliac rod converts the classical triangular construct into a rigid box-like configuration, enhancing rotational stability and preventing coronal diastasis during vertical distraction. Limiting instrumentation to L4-L5 reduces the number of immobilized motion segments compared to previously described longer constructs, potentially mitigating long-term degenerative sequelae.\n\n**CONCLUSIONS**: The MIS-Diamond fixation represents a safe and effective minimally invasive surgical option for SPD, providing reliable multiplanar stabilization with a low complication profile. Routine implant removal at 12 months is feasible and recommended to preserve motion segment function. Prospective multicentre studies are warranted to further validate these findings.",
+      "journal": "Injury",
+      "authors": [
+        "Giorgi PD",
+        "Ramponi A",
+        "Legrenzi S",
+        "Bove F",
+        "Mezzadri U",
+        "Addevico F",
+        "Prina A",
+        "Schir\u00f2 GR"
+      ],
+      "date": "2026 Nov 06",
+      "doi": "10.1016/j.injury.2026.113895",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "polytrauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43008637/"
+    },
+    {
       "pmid": "43008211",
       "title": "Pooled prevalence of infectious diseases among first responders in the prehospital setting: A systematic review with meta-analysis by occupation.",
       "abstract": "**OBJECTIVES**: First responders often work in unpredictable, uncontrolled environments, where exposure to infected patients and contaminated environments heighten the risk of communicable disease transmission. Their higher infection prevalence compared with the general population has driven the implementation of personal protective equipment, vaccination requirements, safety protocols, and infection prevention education. The aim of this systematic review and meta-analysis was to estimate the pooled prevalence of infections among first responders in the prehospital workers including paramedics, emergency medical technicians, patient transport staff, firefighters, police, and police officers.\n\n**METHODS**: Embase, CINAHL, Web of Science and PUBMED/Medline were systematically searched. Pooled prevalence estimates were calculated using random-effects models with restricted maximum likelihood estimation, with Freeman-Tukey double-arcsine transformation and back-transformation to the original prevalence scale. Heterogeneity was assessed using I\u00b2, \u03c4\u00b2, and 95% prediction intervals. Meta-regression was used to examine potential sources of between-study heterogeneity, and small-study effects and potential publication bias were assessed using funnel plots and Egger's regression test. Risk of bias was investigated using the AXIS tool.\n\n**RESULTS**: Following the initial search, 34,874 articles were identified, of which 88 were full-text screened. Of these, 22 studies representing 19,188 first responders were included in this systematic review. The pooled prevalences of hepatitis B and C were 6.2% (95% CI 4.5%-8.2%) and 1.8% (95% CI 0.9%-2.9%), respectively. Around 4% (95% CI 2.6%- 5.9%) of the first responders had MRSA colonisation. Current or past infection with COVID-19 among non-vaccinated first responders was 13.6% (95% CI 4.8%- 25.9%), which reduced to 7.3% (95% CI 3.6%- 12%) after exclusion of studies with high risk of bias. Of the known study characteristics, geographic region significantly contributed to heterogeneity, explaining 36.7% of between-study variance, \n\n**CONCLUSIONS**: Infectious disease prevalence varied across pathogens, occupations, and geographical settings among first responders. These findings should be interpreted in light of substantial heterogeneity and limitations in the available evidence but may help inform infection prevention, occupational health policy, vaccination strategies, and future research in first responder services.",
@@ -612,7 +936,7 @@
         "Mitra B"
       ],
       "date": "2026 Dec 1",
-      "doi": "10.1111/1742-6723.70392",
+      "doi": "10.1186/s13063-026-09950-7",
       "tier": "filtered",
       "topics": [
         "General Trauma",
@@ -8738,411 +9062,6 @@
       ],
       "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/42878254/"
-    },
-    {
-      "pmid": "42874252",
-      "title": "Acute hemorrhagic shock from vaginal laceration during intercourse requiring operative management.",
-      "abstract": "Vaginal laceration during consensual intercourse is a rare cause of acute vaginal bleeding. Most coital injuries are minor, although may result in acute hemorrhage and hemodynamic instability. A 30-year-old G3P2012 otherwise healthy woman presented to the emergency department (ED) with acute vaginal bleeding immediately during consensual intercourse. She was initially well-appearing then developed hemorrhagic shock in the ED from ongoing vaginal exsanguination. The bleeding source could not be visualized on speculum examination. She was resuscitated with tranexamic acid, crystalloid, and two units of unmatched whole blood and taken emergently to the operating room. Examination under anesthesia after evacuation identified a horizontal posterior vaginal wall laceration. The laceration was repaired transvaginally with hemostasis, and the patient recovered uneventfully. A vaginal laceration during intercourse may cause acute life-threatening hemorrhage. Bleeding is often occult on speculum examinations although may progress rapidly to shock. Emergency clinicians should exclude pregnancy, initiate early resuscitation, and urgently consult gynecology for examination under anesthesia and repair when indicated.",
-      "journal": "Am J Emerg Med",
-      "authors": [
-        "Nordt SP",
-        "Pham B"
-      ],
-      "date": "2026 Oct 11",
-      "doi": "10.1016/j.ajem.2026.10.009",
-      "tier": "filtered",
-      "topics": [
-        "Haemorrhage"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "haemorrhagic shock",
-          "strength": "strong",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "tranexamic acid",
-          "strength": "weak",
-          "topic": "Haemorrhage"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42874252/"
-    },
-    {
-      "pmid": "42874198",
-      "title": "Association of neighborhood social vulnerability with reoperation after operative treatment of proximal humerus fractures.",
-      "abstract": "**BACKGROUND**: Neighborhood-level indices may capture different dimensions of social risk. We evaluated whether the Social Vulnerability Index (SVI) was associated with reoperation after operative treatment of acute proximal humerus fractures (PHFs), using the Area Deprivation Index (ADI) as a secondary comparator.\n\n**METHODS**: This retrospective cohort included 438 distinct fracture episodes treated within a single United States practice group from January 2021 through December 2024. The outcome was ipsilateral shoulder reoperation for a postoperative complication. Primary logistic regression models adjusted for age, American Society of Anesthesiologists class, and diabetes mellitus; ADI analyses included 414 fractures.\n\n**RESULTS**: Fifty-one fractures (11.6%) underwent reoperation. Reoperation increased from 6.4% to 16.1% across SVI quartiles (ordered trend P\u202f=\u202f0.028; omnibus P\u202f=\u202f0.163). Each 0.10 increase in SVI was associated with reoperation in the primary model (odds ratio [OR], 1.13; 95% confidence interval [CI], 1.01-1.26; P\u202f=\u202f0.033) and after adjustment for procedure category (OR, 1.13; 95% CI, 1.01-1.26; P\u202f=\u202f0.027). ADI national and state ranks were not associated with reoperation.\n\n**CONCLUSIONS**: Higher SVI was associated with reoperation, whereas ADI national and state ranks were not. These index-specific, hypothesis-generating findings require external validation.",
-      "journal": "Injury",
-      "authors": [
-        "Cohen EM",
-        "Kucharik MP",
-        "Bostrom N",
-        "Garcia JR",
-        "Bui A",
-        "Boughanem D",
-        "Konapala A",
-        "Thomas R",
-        "Christmas KN",
-        "Mir HR",
-        "Frankle MA"
-      ],
-      "date": "2026 Nov 1",
-      "doi": "10.1016/j.injury.2026.113769",
-      "tier": "filtered",
-      "topics": [],
-      "keyword_matches": [],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42874198/"
-    },
-    {
-      "pmid": "42873534",
-      "title": "Intravenous Vitamin C and Mortality and Organ Dysfunction in Severe Burn Injury.",
-      "abstract": "",
-      "journal": "JAMA",
-      "authors": [
-        "Hemil\u00e4 H",
-        "Chalker E"
-      ],
-      "date": "2026 Nov 10",
-      "doi": "10.1001/jama.2026.16509",
-      "tier": "filtered",
-      "topics": [
-        "Burns"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "burn injury",
-          "strength": "strong",
-          "topic": "Burns"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42873534/"
-    },
-    {
-      "pmid": "42873507",
-      "title": "Spera Optima, Pera Pessima-Preparing the US Health Care System for Major War.",
-      "abstract": "This Viewpoint argues that the US must strengthen military-civilian trauma-system preparedness for a potential large-scale combat operation by expanding regional coordination, hospital surge planning, and civilian clinician training.",
-      "journal": "JAMA Surg",
-      "authors": [
-        "Knudson MM",
-        "Yelon JA"
-      ],
-      "date": "2026 Oct 14",
-      "doi": "10.1001/jamasurg.2026.4621",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42873507/"
-    },
-    {
-      "pmid": "42873487",
-      "title": "Safety and Efficacy of Acute Normovolemic Hemodilution in Female Patients: A Secondary Analysis of the ANH Trial.",
-      "abstract": "**IMPORTANCE**: Female patients undergoing cardiac surgery have a higher transfusion burden, yet they remain underrepresented in randomized clinical trials. Although the ANH trial showed no significant reduction in the proportion of patients receiving allogeneic blood transfusions with acute normovolemic hemodilution, evidence regarding its efficacy and safety specifically in female patients remains limited.\n\n**OBJECTIVE**: To evaluate the efficacy and safety of acute normovolemic hemodilution (ANH) compared with usual care in female patients undergoing elective cardiac surgery with cardiopulmonary bypass.\n\n**DESIGN, SETTING, AND PARTICIPANTS**: This was a post hoc secondary analysis of the multicenter, randomized ANH trial, which was conducted at 32 centers in 11 countries from April 2019 to December 2024. Of 2010 patients in the original ANH trial, 405 were women and were included in this analysis; 219 had been randomized to receive ANH and 186 to usual care. This secondary analysis was conducted from August 2025 to January 2026.\n\n**INTERVENTION**: Withdrawal of at least 650 mL whole blood with crystalloids replacement and reinfusion after cardiopulmonary bypass.\n\n**MAIN OUTCOMES AND MEASURES**: The primary outcome was the occurrence of at least 1 allogeneic packed red blood cell (pRBC) transfusion during the index hospitalization. Safety outcomes included intraoperative hypotension, intensive care unit (ICU) length of stay, hospital length of stay, mortality, and other perioperative complications.\n\n**RESULTS**: The median (IQR) age of the participants was 62 (54-69) years. The occurrence of allogeneic pRBC transfusion was similar in the ANH and usual care groups (38.8% vs 44.6%, respectively; relative risk [RR], 0.87; 95% CI, 0.69-1.10; P\u2009=\u2009.24). Intraoperative hypotension occurred more frequently with ANH (16.0% vs 4.8% in usual care; RR, 3.30; 95% CI, 1.62-6.74; P\u2009=\u2009.02). Patients receiving ANH also had longer ICU stays (mean difference, 21.13 hours; 95% CI, 1.89-40.38; P\u2009=\u2009.03) and hospital stays (mean difference, 1.92 days; 95% CI, 0.14-3.70; P\u2009=\u2009.04). No significant differences were observed in mortality or other postoperative complications.\n\n**CONCLUSIONS AND RELEVANCE**: In this post hoc secondary analysis of a randomized clinical trial, ANH was not associated with a reduction in allogeneic pRBC transfusion among women undergoing cardiac surgery and was associated with more frequent intraoperative hypotension and longer ICU and hospital stay. These exploratory findings warrant confirmation in adequately powered studies specifically designed to evaluate female patients undergoing cardiac surgery.\n\n**TRIAL REGISTRATION**: ClinicalTrials.gov Identifier: NCT03913481.",
-      "journal": "JAMA Surg",
-      "authors": [
-        "Pruna A",
-        "Scandroglio AM",
-        "Lei C",
-        "Oriani A",
-        "Di Fazio A",
-        "Pontillo D",
-        "Santonocito C",
-        "Bonizzoni MA",
-        "Comis M",
-        "Calabr\u00f2 MG",
-        "Kadantseva K",
-        "Barucco G",
-        "Guarracino F",
-        "Giardina G",
-        "Ajello V",
-        "Di Prima AL",
-        "Osinsky R",
-        "Oliva FM",
-        "Efremov S",
-        "Mucchetti M",
-        "Vandyck KB",
-        "Franco A",
-        "Arangino C",
-        "Nardelli P",
-        "Ranucci M",
-        "D'Amora M",
-        "Wang L",
-        "Zhang H",
-        "Lorsomradee S",
-        "Hajjar LA",
-        "Ti LK",
-        "McNeil JS",
-        "Pieri M",
-        "Bove T",
-        "G\u00fcrc\u00fc ME",
-        "Rocco M",
-        "Landoni G",
-        "Paternoster G",
-        "Zangrillo A",
-        "Monaco F"
-      ],
-      "date": "2026 Oct 14",
-      "doi": "10.1016/j.athoracsur.2015.04.135",
-      "tier": "filtered",
-      "topics": [
-        "Haemorrhage"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "packed red blood cells",
-          "strength": "weak",
-          "topic": "Haemorrhage"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42873487/"
-    },
-    {
-      "pmid": "42873486",
-      "title": "Intravenous Vitamin C and Mortality and Organ Dysfunction in Severe Burn Injury-Reply.",
-      "abstract": "",
-      "journal": "JAMA",
-      "authors": [
-        "Stoppe C",
-        "Day AG",
-        "Turgeon AF"
-      ],
-      "date": "2026 Nov 10",
-      "doi": "10.1001/jama.2026.16512",
-      "tier": "filtered",
-      "topics": [
-        "Burns"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "burn injury",
-          "strength": "strong",
-          "topic": "Burns"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42873486/"
-    },
-    {
-      "pmid": "42873291",
-      "title": "Comparison of two immobilization techniques for radiological outcomes in fifth metacarpal neck fractures: a prospective controlled study.",
-      "abstract": "**PURPOSE**: Although fifth metacarpal neck fractures are commonly managed conservatively, there is no consensus regarding the optimal immobilization strategy. The aim of this study was to compare the radiographic outcomes of the Jahss Position Splint (JPS) and the conventional Ulnar Gutter Splint (UGS) in the treatment of fifth metacarpal neck fractures.\n\n**METHODS**: A total of 78 adult male patients treated for isolated closed fifth metacarpal neck fractures between January 2023 and June 2024 were prospectively evaluated. Patients were allocated to either the JPS group (n\u2009=\u200942) or the UGS group (n\u2009=\u200936). Patients were assigned to JPS or UGS according to the predefined odd/even-calendar-day duty schedule of two surgeons, each of whom routinely applied one of the techniques. All patients underwent closed reduction using the Jahss maneuver followed by three weeks of immobilization. Radiographic outcomes included initial fracture angulation (IFA), post-reduction angulation (PRA), final follow-up angulation at 12 weeks (FFA), metacarpal shortening, and malunion rates.\n\n**RESULTS**: No significant differences were observed between the groups regarding age or IFA (p\u2009>\u20090.05). Correction during reduction and splint application was greater with JPS than with UGS (15.2\u2009\u00b1\u20099.6\u00b0 vs. 8.9\u2009\u00b1\u200911.0\u00b0; p\u2009=\u20090.009), whereas subsequent loss of reduction during immobilisation did not differ significantly between the groups (2.8\u2009\u00b1\u20098.4\u00b0 vs. 1.0\u2009\u00b1\u20099.8\u00b0; p\u2009=\u20090.388).The JPS group demonstrated significantly lower PRA (p\u2009<\u20090.001) and FFA (p\u2009=\u20090.003) compared with the UGS group. Metacarpal shortening was significantly less in the JPS group (p\u2009=\u20090.036). The malunion rate was 5% in the JPS group and 28% in the UGS group (p\u2009=\u20090.009).\n\n**CONCLUSION**: JPS was associated with greater immediate angular correction and more favourable final radiographic outcomes than UGS but did not reduce subsequent loss of reduction during immobilisation. Because functional and patient-reported outcomes were not assessed, the clinical relevance of these radiographic differences remains uncertain.",
-      "journal": "Eur J Trauma Emerg Surg",
-      "authors": [
-        "S\u00fcner U",
-        "Tun\u00e7ez M",
-        "Sa\u011f\u0131ro\u011flu D",
-        "\u00d6nder Y",
-        "\u00d6zdemir M",
-        "Bulut T"
-      ],
-      "date": "2026 Oct 14",
-      "doi": "10.1007/s00068-026-03362-7",
-      "tier": "core",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42873291/"
-    },
-    {
-      "pmid": "42873272",
-      "title": "Surgical management of orbital wall fractures in juveniles: a European multicenter study.",
-      "abstract": "**INTRODUCTION**: Isolated orbital floor fractures in juveniles are a challenge, as children and adolescents may experience diplopia and limited ocular motility, even with little to no periorbital edema or visible signs of injury to the eye. The aim of the present study is to assess the demographic and clinical variables, and the outcomes of pediatric patients affected by isolated orbital wall fractures at several European oral and maxillofacial surgery centers.\n\n**METHODS**: Pediatric patients (less than 18 years) with hospitalized and surgically treated for unilateral isolated orbital blow out fractures of the orbital floor and/or the medial wall were included. The following data were recorded for each patient: gender, age, etiology of trauma, site of orbital wall fracture(s), timing of intervention, surgical approach, orbital reconstruction material/implant, post-operative complications RESULTS: A total of 51 pediatric patients (45 boys, 6 girls) with a mean age of 12.1 years were included. Most patients (43 children, 84.3%) presented with an isolated orbital floor fracture. Clinically, the most frequently observed sign was diplopia / double vision (43 patients, 84.3%). More than two thirds (68.6%) of cases were surgically treated within the first two days from injury. In 6 patients (11.8%) one or more persistent postoperative disturbances were found six months postoperatively, including diplopia in 3 subjects (5.9%), infraorbital nerve paresthesia in 2 patients (3.9%), and enophthalmos in 2 patients (3.9%).\n\n**CONCLUSIONS**: The rarity of pure orbital wall fractures in pediatric patients makes it difficult to establish uniform evidence-based guidelines for their management. These injuries must also be recognized promptly, as surgical intervention may be required at a very early stage. A reasoned and individualized choice of the optimal surgical approach appears to be the most appropriate strategy for this specific type of facial fracture in the pediatric population.\n\n**CLINICAL TRIAL NUMBER**: Not applicable.",
-      "journal": "Eur J Trauma Emerg Surg",
-      "authors": [
-        "Boffano P",
-        "Lahtinen A",
-        "Brucoli M",
-        "Ruslin M",
-        "Melle A",
-        "Stathopoulos P",
-        "Maniati D",
-        "Dediol E",
-        "Kos B",
-        "Michcik A",
-        "Polcyn A",
-        "Starch-Jensen T",
-        "Mijatov I",
-        "Bajkin BV",
-        "Cailleaux A",
-        "Bertin E",
-        "Meyer C",
-        "Louvrier A",
-        "Kopchak AV",
-        "Pavlychuk TA",
-        "Herrera I Nogu\u00e9s S",
-        "Mart\u00ednez-Carrillo A",
-        "de Vicente JC",
-        "Zaleckas L",
-        "Rastenien\u0117 R",
-        "Stasi\u016bnas A",
-        "Naberoj J",
-        "Prodnik L",
-        "Dovsak T",
-        "Sn\u00e4ll J"
-      ],
-      "date": "2026 Oct 14",
-      "doi": "10.1016/j.jcms.2024.10.001",
-      "tier": "core",
-      "topics": [
-        "Facial/Neck",
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "facial fracture",
-          "strength": "weak",
-          "topic": "Facial/Neck"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42873272/"
-    },
-    {
-      "pmid": "42873254",
-      "title": "Management and outcomes of moderate-to-severe pelvic ring fractures: a 10-year experience from an Australian Level 1 Trauma Centre.",
-      "abstract": "**PURPOSE**: Moderate-to-severe pelvic ring fractures are associated with high morbidity and mortality despite advances in resuscitation, development in trauma systems and multispecialty haemorrhage control. This study aimed to describe the management strategies and clinical outcomes of moderate-to-severe pelvic ring fractures over a 10-year period at an Australian Level I Trauma Centre.\n\n**METHODS**: A retrospective observational cohort study was performed of patients aged\u2009\u2265\u200916 years with moderate-to-severe pelvic ring fractures (Abbreviated Injury Scale (AIS)\u2009\u2265\u20093) treated between January 2015 and December 2024. Data were obtained from the institutional prospectively collected trauma registry.\n\n**RESULTS**: A total of 313 patients met the inclusion criteria. The mean age was 47.0 years and 69.3% were male. Motor vehicle (35.1%) and motorcycle collisions (24.9%) accounted for 60.1% of injuries. Median ISS was 26 (IQR 19-34), with 70.6% sustaining pelvic AIS 4-5 injuries. 20.1% of patients underwent at least one haemorrhage-control intervention, including angioembolisation (14.4%), preperitoneal pelvic packing (5.8%) and external fixation (5.8%). Angioembolisation utilisation increased from 6.7% in 2015 to 40.0% in 2024. In-hospital mortality was 7.7%, with traumatic brain injury accounting for 62.5% of deaths and haemorrhagic shock for only one death.\n\n**CONCLUSION**: Moderate-to-severe pelvic ring fractures remained characterised by high-energy mechanisms and severe multisystem injury over the study period, while management evolved with increasing utilisation of angioembolisation. In-hospital mortality was numerically lower compared with historical cohorts, with most deaths attributable to associated traumatic brain injury rather than pelvic haemorrhage.",
-      "journal": "Eur J Trauma Emerg Surg",
-      "authors": [
-        "Tay TH",
-        "Rosley M",
-        "Patel B",
-        "Wullschleger M"
-      ],
-      "date": "2026 Oct 14",
-      "doi": "10.1007/s00068-026-03360-9",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "Haemorrhage",
-        "Pelvic",
-        "Systems/QI",
-        "TBI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "trauma centre",
-          "strength": "strong",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "pelvic ring",
-          "strength": "strong",
-          "topic": "Pelvic"
-        },
-        {
-          "keyword": "haemorrhagic shock",
-          "strength": "weak",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "traumatic brain injury",
-          "strength": "weak",
-          "topic": "TBI"
-        },
-        {
-          "keyword": "trauma registry",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42873254/"
-    },
-    {
-      "pmid": "42873184",
-      "title": "Early cystography after traumatic bladder repair: Diagnostic intervention or marker of an accelerated catheter removal pathway?",
-      "abstract": "",
-      "journal": "J Trauma Acute Care Surg",
-      "authors": [
-        "Ikram F",
-        "Tokhi NU",
-        "Ali A",
-        "Shah ZU",
-        "Ali N",
-        "Ullah A"
-      ],
-      "date": "2026 Oct 14",
-      "doi": "10.1097/TA.0000000000005214",
-      "tier": "core",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "traumatic",
-          "strength": "strong",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42873184/"
-    },
-    {
-      "pmid": "42873076",
-      "title": "Prehospital Care of Older Adults Following Perceived Low-Acuity Falls and Related \"Lift Assist\" Encounters: An NAEMSP Position Statement and Resource Document.",
-      "abstract": "Older adults who present as low-acuity falls requiring mobilization assistance, commonly referred to as a \"lift assist\", represent a common reason for EMS activation. These encounters often involve underlying medical conditions or injuries that are not immediately apparent, and missed or delayed diagnosis is associated with adverse outcomes. At the same time, some patients are transported to the emergency department when it is not necessary, exposing them to potential harms and contributing to increased health care utilization. These encounters are therefore complex clinical presentations and represent important opportunities for thorough assessment and higher-order clinical decision making, supported by systems that enable appropriate disposition and follow-up. However, there is a system-level bias, beginning in initial education and reinforced through dispatch, policy, and protocol, that frames these encounters as uniformly low-acuity, non-medical, minor traumas leading to underassessment and limiting clinical decision-making. Therefore, NAEMSP recommends:EMS systems should recognize calls for falls or \"lift assists\" as patient encounters that warrant an assessment, including evaluation for underlying medical causes, traumatic injuries, and safety, and frame these encounters as opportunities for higher-order clinical decision-making within the broader context of geriatric syndromes rather than isolated low-acuity events.EMS systems should support transport decisions based on a thorough assessment and patient-centered discussion, recognizing that not all patients require ED transport and that safe alternatives may include non-transport or referral to appropriate follow-up pathways.EMS systems should track the assessment of patients encountered during \"lift assist\" responses and older adults following perceived low acuity falls as a system-level quality measure to monitor performance and drive improvement.Policymakers and payers should implement sustainable reimbursement structures that support EMS assessment and care even when transport does not occur.",
-      "journal": "Prehosp Emerg Care",
-      "authors": [
-        "Dorsett M",
-        "Su TW",
-        "Farcas AM",
-        "White J",
-        "Rosen T",
-        "Rollman JE",
-        "Joles K",
-        "Colwell C",
-        "Joiner A"
-      ],
-      "date": "2026 Oct 29",
-      "doi": "10.1080/10903127.2026.2748380",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Prehospital"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "traumatic",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "prehospital",
-          "strength": "strong",
-          "topic": "Prehospital"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42873076/"
     }
   ]
 }
