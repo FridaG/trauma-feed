@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-13T00:48:19.334917Z",
-  "total_articles": 239,
+  "generated": "2026-11-14T00:33:31.902790Z",
+  "total_articles": 236,
   "all_topics": [
     "Abdominal",
     "Burns",
@@ -378,6 +378,164 @@
     "Cochrane Database Syst Rev": "filtered"
   },
   "articles": [
+    {
+      "pmid": "43024742",
+      "title": "Effect of airway assistant training on intubation time during simulated prehospital airway management: A pilot study.",
+      "abstract": "**OBJECTIVES**: Challenging airways are common in the out-of-hospital setting, where delays or failure to secure the airway can result in significant morbidity and mortality. Therefore, this pilot study aimed to determine whether training paramedics in the role of airway assistant improves intubation time during a simulated regurgitating airway using suction-assisted laryngoscopy and airway decontamination (SALAD).\n\n**METHODS**: Twelve qualified paramedics were randomly allocated to one of two groups (n\u2009=\u20096) and paired with intensive care paramedics (ICPs). Airway assistants in Group 1 completed a one-hour airway assistant training program, whereas airway assistants in Group 2 received no training. Participants completed a standardized, timed simulation using a continuously regurgitating mannequin designed to replicate the challenges of out-of-hospital intubation. The primary outcome was time to successful intubation, defined as passage of the endotracheal tube through the vocal cords with cuff inflation.\n\n**RESULTS**: Airway assistant training significantly reduced intubation time. The untrained group recorded a median intubation time of 102.5\u2009seconds (IQR 36), compared with 53\u2009seconds (IQR 19) in the trained group. Group comparisons demonstrated a statistically significant reduction in intubation time (\n\n**CONCLUSIONS**: In this pilot study, training paramedics to perform the airway assistant role significantly reduced intubation time in a simulated regurgitating airway. These preliminary findings suggest that incorporating structured airway assistant training into prehospital education programs may improve airway management performance in challenging environments. Given the small sample size and simulated setting, larger studies are required to confirm these findings and determine whether the observed benefits translate to clinical practice.",
+      "journal": "Prehosp Emerg Care",
+      "authors": [
+        "Bogaerts C",
+        "Micalos PS",
+        "Deravin LM"
+      ],
+      "date": "2026 Nov 13",
+      "doi": "10.1080/10903127.2026.2761043",
+      "tier": "filtered",
+      "topics": [
+        "Prehospital"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "prehospital",
+          "strength": "strong",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43024742/"
+    },
+    {
+      "pmid": "43019680",
+      "title": "Intraoperative visualization with 3D fluoroscopy for posterior pelvic fixation is associated with lower cumulative imaging-related radiation exposure.",
+      "abstract": "**INTRODUCTION**: Achieving optimal screw positioning in posterior pelvic ring (PR) fracture fixation is critical for fracture stability and safety. Formerly, our institution used intraoperative plain-film fluoroscopy followed by postoperative computed tomography (CT) to assess fracture reduction and screw placement. Introduction of the 3D mobile C-arm enables immediate volumetric intraoperative assessment, may improve intraoperative visualization, and may alter conventional imaging requirements. This study compared cumulative imaging-related radiation exposure between cases performed with intraoperative 3D fluoroscopy (3DF) against standard intraoperative plain-film fluoroscopy (2DF), including postoperative CT utilization.\n\n**METHODS**: A retrospective review was conducted on patients treated for posterior PR fractures at a level 1 trauma center between 2014 and 2023. Utilization of 3DF or plain-film fluoroscopy, and any intraoperative screw changes were documented. Rates and details of postoperative complications and subsequent reoperations were recorded for patients with >\u202f3 months follow-up. Radiation doses for 3DF, 2DF, and postoperative CT were extracted from radiology reports.\n\n**RESULTS**: Among 245 patients (mean age 47.2, 52.2% male) undergoing fixation for posterior PR fractures, 89 (36.3%) had 3DF intraoperatively, while 156 (63.7%) had 2DF. 27 patients (8 3DF, 19 2DF, p\u202f=\u202f0.443) had screws changed intraoperatively, primarily to modify screw path (n\u202f=\u202f16, 59.3%), to achieve better purchase/reduction (n\u202f=\u202f5, 18.5%), to modify screw size (n\u202f=\u202f3, 11.1%), to change screw type (n\u202f=\u202f2, 7.4%), and failure to advance screw (n\u202f=\u202f1, 3.7%). Mean radiation dose for the 3DF group was significantly lower (179.2\u202fmGy vs 526.1\u202fmGy, p\u202f<\u202f0.001). When excluding postoperative CT dose (n\u202f=\u202f194), intraoperative-only radiation remained lower with 3DF (median 79.1 (IQR 51.5-148.7) vs 318.0 (IQR 71.6-751.5) mGy; p\u202f<\u202f0.001). Among 119 patients with >\u202f3 months follow-up, reoperation was less frequent with 3DF (9.5% vs 31.2%, p\u202f=\u202f0.012), predominantly for symptomatic implant removal.\n\n**DISCUSSION AND CONCLUSION**: Intraoperative 3DF was associated with lower cumulative radiation exposure compared to traditional fluoroscopy with routine postoperative CT, and intraoperative dose alone was also lower. Reoperation was less frequent in the 3DF group, but most reoperations were implant removals for symptomatic or planned indications. These findings highlight the potential of 3DF as a practical radiation efficient quality assurance tool in posterior pelvic fixation.",
+      "journal": "Injury",
+      "authors": [
+        "Tse S",
+        "Chinweze RO",
+        "Velasco-Castro J",
+        "Andring N",
+        "Jbeily E",
+        "Robinson C",
+        "Saade A",
+        "Simister S",
+        "Campbell ST",
+        "Fitzpatrick E",
+        "Lee MA",
+        "Saiz AM",
+        "Soles GL"
+      ],
+      "date": "2026 Nov 04",
+      "doi": "10.1016/j.injury.2026.113886",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Pelvic",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "pelvic ring",
+          "strength": "weak",
+          "topic": "Pelvic"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43019680/"
+    },
+    {
+      "pmid": "43019616",
+      "title": "Effect modification by arterial pH on the association between extracorporeal cardiopulmonary resuscitation and neurological outcomes after out-of-hospital cardiac arrest with shockable rhythm: A multicenter registry study.",
+      "abstract": "**BACKGROUND**: Arterial pH on emergency department (ED) arrival predicts outcomes after out-of-hospital cardiac arrest (OHCA), but its effect on the association between extracorporeal cardiopulmonary resuscitation (ECPR) and neurological outcomes is unclear. We evaluated this association in patients with an initial shockable rhythm and assessed whether pH modified it.\n\n**METHODS**: We retrospectively analyzed the Korean Cardiac Arrest Research Consortium registry. Adults with presumed cardiac-origin OHCA, an initial shockable rhythm, ED cardiopulmonary resuscitation, and arterial blood gas data measured after ED arrival were included. Exposure was ECPR initiated in the ED; the primary outcome was favorable neurological outcome at discharge (Cerebral Performance Category 1-2). Arterial pH was categorized as low (\u22646.85), medium (>6.85 and\u202f<7.05), or high (\u22657.05). Multivariable logistic regression assessed ECPR-by-pH interaction, with optimal 1:2 propensity score matching as a sensitivity analysis.\n\n**RESULTS**: Of 2183 patients, 213 (9.8%) received ECPR and 154 (7.1%) had a favorable neurological outcome. The association between ECPR and favorable outcome differed across pH categories (p for interaction\u202f=\u202f0.004): adjusted odds ratio (aOR) 7.34 (95% confidence interval [CI], 2.84-18.98) in the low-pH group, 2.07 (95% CI, 1.06-4.03) in the medium-pH group, and 0.85 (95% CI, 0.37-1.94) in the high-pH group. The propensity score-matched analysis showed a similar pattern (p for interaction\u202f=\u202f0.036).\n\n**CONCLUSIONS**: Initial arterial pH modified the association between ECPR and neurological outcome after OHCA with an initial shockable rhythm. The association was strongest at low pH and not observed at high pH. Arterial pH may inform ECPR evaluation but should not determine treatment thresholds.",
+      "journal": "Am J Emerg Med",
+      "authors": [
+        "Park HA",
+        "Park J",
+        "Hwang SY",
+        "Yoon H",
+        "Lee GT",
+        "Park JE",
+        "Chang H",
+        "Kim M",
+        "Maeng SJ"
+      ],
+      "date": "2026 Oct 30",
+      "doi": "10.1016/j.ajem.2026.10.013",
+      "tier": "filtered",
+      "topics": [
+        "Cardiac Arrest"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "ECPR",
+          "strength": "weak",
+          "topic": "Cardiac Arrest"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43019616/"
+    },
+    {
+      "pmid": "43019615",
+      "title": "Defining organized cardiac motion and cardiac standstill in cardiac arrest using point of care ultrasound: A Delphi study.",
+      "abstract": "**AIM**: There are no widely accepted definitions of organized cardiac motion (OCM) and cardiac standstill (CS) using point-of-care ultrasound (POCUS) during cardiac arrest. We aimed to define these terms and provide guidance on the clinical application of these findings.\n\n**METHODS**: Statements defining OCM and CS were developed by a steering committee of experts after a comprehensive literature review aided by a librarian. A diverse panel of 20 experts was convened. Using Delphi methodology, the panel came to a consensus on definitions of OCM and CS after three rounds of voting.\n\n**RESULTS**: The panelists voted on 64 total statements pertaining to OCM and CS in cardiac arrest: 29 defining OCM, 23 defining cardiac standstill, and 12 examining clinical implications of OCM and CS. We defined OCM as coordinated contraction with change in left ventricular chamber size. Coordinated contraction with any change of the right ventricle may also be used if visualization of the left ventricle was not possible. Ventricular fibrillation, agonal motion, and isolated valvular movement were deemed not consistent with OCM. Cardiac standstill was defined as including the absence of all cardiac motion or the presence of isolated valvular movement alone. The panel recommended that POCUS can guide cardiac arrest resuscitation, and that these definitions are applicable to pediatric patients and the prehospital setting.\n\n**CONCLUSION**: The expert panelists established consensus definitions of OCM and CS during cardiac arrest. These definitions can guide further research into POCUS use during cardiac arrest and aid ongoing efforts to standardize its use.",
+      "journal": "Am J Emerg Med",
+      "authors": [
+        "Gartner S",
+        "Woodard C",
+        "Warren J",
+        "Scott S",
+        "McLean T",
+        "Hull A",
+        "Huang R",
+        "Lam SHF",
+        "Burleson SL",
+        "Farcas A",
+        "Gaspari R",
+        "Guttman J",
+        "Harel-Sterling M",
+        "Kwon Y",
+        "Melton M",
+        "Prevalska I",
+        "Rayburn D",
+        "Soucy Z",
+        "Thomas JL",
+        "Toney AG",
+        "Tovar Hirashima E",
+        "Kessler R",
+        "Tucker R"
+      ],
+      "date": "2026 Nov 03",
+      "doi": "10.1016/j.ajem.2026.11.002",
+      "tier": "filtered",
+      "topics": [
+        "Imaging",
+        "Prehospital"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "POCUS",
+          "strength": "weak",
+          "topic": "Imaging"
+        },
+        {
+          "keyword": "prehospital",
+          "strength": "weak",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43019615/"
+    },
     {
       "pmid": "43019463",
       "title": "Prehospital Advanced Airway Management in Traumatic Out-of-Hospital Cardiac Arrest: A Nationwide Cohort Study Using Time-Dependent Propensity Score Sequential Matching.",
@@ -4852,15 +5010,15 @@
     {
       "pmid": "42950975",
       "title": "Traumatic Emergency Thoracotomy for Resuscitation in Shock (TETRiS): a national service evaluation of resuscitative thoracotomy practice outside the operating theatre.",
-      "abstract": "**BACKGROUND**: Resuscitative thoracotomy (RT) is performed in patients with traumatic cardiac arrest or peri-arrest to treat potentially reversible causes of circulatory collapse. Optimal patient selection and timing remain uncertain, and existing evidence is largely retrospective, often excluding prehospital deaths. This prospective service evaluation examined contemporary RT practice and outcomes across a national major trauma system, including prehospital and emergency department settings.\n\n**METHODS**: Prospective 12-month observational study across 20 UK Helicopter Emergency Medical Services and 26 Major Trauma Centre Emergency Departments, using the PHOTON, TERN, and NaTRIC research networks.\n\n**RESULTS**: A total of 116 patients underwent RT, of which 82 (70.7%) were performed prehospital. Median age was 30 years, 97 patients (83.6%) were male, and 81 (69.8%) sustained penetrating injury. Suspected cardiac tamponade was the most common indication for RT (72/116 [62.1%]), although operative findings demonstrated exsanguinating haemorrhage in 82 patients (70.7%). Overall, 50 patients (43.1%) achieved return of spontaneous circulation and eight (6.9%) survived to hospital discharge. Survival was strongly associated with pathophysiological cause, duration of arrest, and physiological state at the time of intervention, with substantially better outcomes observed in patients with cardiac tamponade than exsanguination. Patients undergoing emergency department RT demonstrated shorter arrest durations, more favourable physiology, and higher survival than those undergoing prehospital RT. There were no survivors beyond 10 minutes of traumatic cardiac arrest.\n\n**CONCLUSION**: In this prospective national evaluation of RT practice, outcomes were strongly associated with the pathophysiological cause and duration of arrest, and the residual physiology present at the time of intervention. The most favourable outcomes were observed in patients with cardiac tamponade and those undergoing RT before irreversible physiological deterioration.",
+      "abstract": "**BACKGROUND**: Resuscitative thoracotomy (RT) is performed in patients with traumatic cardiac arrest or peri-arrest to treat potentially reversible causes of circulatory collapse. Optimal patient selection and timing remain uncertain, and existing evidence is largely retrospective, often excluding prehospital deaths. This prospective service evaluation examined contemporary RT practice and outcomes across a national major trauma system, including prehospital and emergency department settings.\n\n**METHODS**: Prospective 12-month observational study across 20 UK Helicopter Emergency Medical Services and 26 Major Trauma Centre Emergency Departments, using the PHOTON, TERN, and NaTRIC research networks.\n\n**RESULTS**: A total of 116 patients underwent RT, of which 82 (70.7%) were performed prehospital. Median age was 30\u00a0years, 97 patients (83.6%) were male, and 81 (69.8%) sustained penetrating injury. Suspected cardiac tamponade was the most common indication for RT (72/116 [62.1%]), although operative findings demonstrated exsanguinating haemorrhage in 82 patients (70.7%). Overall, 50 patients (43.1%) achieved return of spontaneous circulation and eight (6.9%) survived to hospital discharge. Survival was strongly associated with pathophysiological cause, duration of arrest, and physiological state at the time of intervention, with substantially better outcomes observed in patients with cardiac tamponade than exsanguination. Patients undergoing emergency department RT demonstrated shorter arrest durations, more favourable physiology, and higher survival than those undergoing prehospital RT. There were no survivors beyond 10\u00a0min of traumatic cardiac arrest.\n\n**CONCLUSION**: In this prospective national evaluation of RT practice, outcomes were strongly associated with the pathophysiological cause and duration of arrest, and the residual physiology present at the time of intervention. The most favourable outcomes were observed in patients with cardiac tamponade and those undergoing RT before irreversible physiological deterioration.",
       "journal": "Resuscitation",
       "authors": [
         "Ramage L",
         "Tucker H",
-        "Marsden ME",
+        "Marsden MER",
         "Wohlgemut JM",
         "Naeem S",
-        "Christian M",
+        "Christian MD",
         "Davenport R",
         "Perkins ZB"
       ],
@@ -8872,330 +9030,6 @@
       "keyword_matches": [],
       "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/42892217/"
-    },
-    {
-      "pmid": "42888097",
-      "title": "Penetrating renal trauma in a high-complexity Latin American centre: Management patterns and renal preservation, 2013-2025 - a retrospective cohort study.",
-      "abstract": "**BACKGROUND**: Contemporary renal-trauma practice rests on blunt-predominant cohorts from high-income trauma systems, and penetrating renal injury remains under-described. We characterised the management and outcomes of penetrating renal trauma at a high-complexity Latin American centre, with blunt injury as internal comparator, and examined how practice changed over 13 years.\n\n**METHODS**: Retrospective cohort of 161 consecutive adults (\u226518 years) treated between February 2013 and July 2025, classified by mechanism. Management, nephrectomy and in-hospital outcomes are reported descriptively as n (%) and median [IQR]. Testing was confined to three pre-specified questions: whether nephrectomy differed by mechanism; whether it differed by mechanism among patients taken to open surgery; and whether it changed over time. Two-sided exact p values were obtained by doubling the one-sided probability.\n\n**RESULTS**: Thirty-four injuries (21%) were penetrating (27 gunshot, 6 stab, 1 unspecified) and 126 (78%) blunt. Among penetrating injuries, 13 (38%) were managed non-operatively, 3 (9%) with angioembolisation and 18 (53%) with open surgery. Non-operative management was used up to AAST grade IV and failed in none, with no reintervention, nephrectomy or renal complication; angioembolisation preserved every treated kidney. Twelve of the 34 penetrating injuries (35%) ended in nephrectomy versus 5 of 126 blunt (4%; p\u202f<\u202f0.001), and every nephrectomy in the cohort followed open surgery. Among the patients taken to open surgery, however, nephrectomy was equally frequent in the two groups (12 of 18 vs 5 of 9; p\u202f=\u202f0.88), so renal loss tracked the decision to operate rather than intraoperative salvageability. High-grade (AAST IV-V) injury was similarly frequent by mechanism (41% vs 29%). Within penetrating injuries, open surgery fell from 15 of 24 in 2013-2019-3 of 10 in 2020-2025, and nephrectomy from 11 of 24-1 of 10, with a stable mechanism mix.\n\n**CONCLUSIONS**: Selective non-operative management and angioembolisation preserved every kidney in which they were used, including after penetrating injury, and renal loss followed the decision to operate rather than the mechanism itself. These data support extending physiology-guided, kidney-preserving management to penetrating renal injury.",
-      "journal": "Injury",
-      "authors": [
-        "Londo\u00f1o Barrientos M",
-        "Arroyo P",
-        "Bernal C",
-        "Bran JD",
-        "Gallego DAG",
-        "Toro DAM",
-        "L\u00f3pez CAD"
-      ],
-      "date": "2026 Oct 15",
-      "doi": "10.1016/j.injury.2026.113793",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Penetrating"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "penetrating injury",
-          "strength": "weak",
-          "topic": "Penetrating"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42888097/"
-    },
-    {
-      "pmid": "42887485",
-      "title": "Surgeon preferences and educational gaps in the treatment of complex distal radius fractures in Latin America.",
-      "abstract": "**PURPOSE**: Distal radius fractures are among the most common skeletal injuries, yet their optimal treatment remains controversial. Variability in surgical decision-making has been observed among surgeons. This study aimed to identify treatment preferences among Latin American orthopaedic surgeons with different training backgrounds and levels of experience in the management of complex distal radius fractures.\n\n**METHODS**: A two-part questionnaire was distributed to orthopaedic and hand surgeons across Latin America. The first section collected demographic data, and the second section presented 7 clinical scenarios involving complex distal radius fractures. Multivariate analysis using multinomial logistic regression was performed to assess the influence of age and fellowship training on treatment decision-making, with results expressed as odds ratios. P-values <\u202f0.05 were considered statistically significant.\n\n**RESULTS**: A total of 617 completed questionnaires were analyzed. Most respondents were male orthopaedic surgeons with fellowship training in orthopaedic trauma or hand surgery. Most surgeons reported managing 10-25 distal radius fracture cases annually as the lead surgeon and had access to both anatomical angle-stable volar plates and fragment-specific implants. Older surgeons tended to favor more traditional techniques, whereas those with hand surgery fellowship training were more likely to adopt advanced fixation strategies and a broader range of surgical approaches.\n\n**CONCLUSION**: Surgeon age and fellowship training in hand surgery were the most influential factors in treatment decision-making for complex distal radius fractures. These findings highlight an opportunity for AO Trauma Latin America to expand educational offerings focused on the treatment of complex distal radius fractures.",
-      "journal": "Injury",
-      "authors": [
-        "Arroyo Berezowsky C",
-        "Garc\u00eda Gomez A",
-        "Celeita Medina DC"
-      ],
-      "date": "2026 Nov 1",
-      "doi": "10.1016/j.injury.2026.113746",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Orthopaedic"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "orthopaedic trauma",
-          "strength": "weak",
-          "topic": "Orthopaedic"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42887485/"
-    },
-    {
-      "pmid": "42886860",
-      "title": "Trends in mortality rates in hypotensive pediatric trauma patients undergoing emergent trauma laparotomy.",
-      "abstract": "**BACKGROUND**: Massive hemorrhage remains the leading cause of preventable death after pediatric trauma. Emergent trauma laparotomy (ETL) is a common operation to obtain hemorrhage control. Mortality rates for adult patients in hemorrhagic shock requiring ETL remain high and unchanged. Information on mortality rates after ETL in pediatric patients is limited. We sought to evaluate trends in mortality rates for pediatric ETL patients.\n\n**METHODS**: The National Trauma Data Bank (NTDB) was queried from 2007 to 2023. Patients aged 0 to 18 years old were included if they underwent ETL. ETL was defined as laparotomy within 1 hour of arrival. Hypotension was defined as a systolic blood pressure <90\u00a0mm\u00a0Hg on arrival. The primary outcome was annual hospital mortality rates for hypotensive patients requiring ETL. Secondary outcomes included annual 24-hour mortality rates for both hypotensive and all patients requiring ETL. Mortality rates were compared in 5-year cohorts to reduce annual variability.\n\n**RESULTS**: A total of 11,374 patients underwent ETL. The majority of patients were male (79%; n=78,963/11,374). Most patients were between the ages of 12 and 17 (84%; n=9,565/11,374), followed by ages 5 to 11 (11%; n=1,227/11,374), then ages 0 to 4 (5%; n=582/11,374). Penetrating injuries predominated (69%; n=7,866/11,374). The hospital mortality rate for all patients was 18.3% (n=2,079/11,374). Of patients who died, 74% were within 24 hours of arrival (n=1,533/2,079). Overall, 19% (n=2,125/11,374) were hypotensive on arrival. For hypotensive patients, the 24-hour and hospital mortality rates were 30% (n=641/2,125) and 45.9% (n=976/2,125). There was year-to-year variability in rates of hospital mortality of hypotensive patients through the study period (p<0.001). However, the average mortality rates from 2007 to 2011 (45%; n=293/645) and 2019 to 2023 (42%; n=266/638) were unchanged (p=0.95).\n\n**CONCLUSIONS**: Pediatric trauma patients with exsanguinating hemorrhage requiring ETL continue to suffer high rates of mortality. These findings underscore the urgent need for targeted research and performance improvement.\n\n**LEVEL OF EVIDENCE**: Prognostic and Epidemiological; Level III.",
-      "journal": "J Trauma Acute Care Surg",
-      "authors": [
-        "Barnes E",
-        "Uhlich R",
-        "Budny B",
-        "Dice H",
-        "Brady J",
-        "Hu P"
-      ],
-      "date": "2026 Oct 16",
-      "doi": "10.1097/TA.0000000000005217",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "Haemorrhage",
-        "Paediatric",
-        "Penetrating",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "haemorrhagic shock",
-          "strength": "weak",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "massive haemorrhage",
-          "strength": "weak",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "penetrating injury",
-          "strength": "weak",
-          "topic": "Penetrating"
-        },
-        {
-          "keyword": "paediatric trauma",
-          "strength": "strong",
-          "topic": "Paediatric"
-        },
-        {
-          "keyword": "preventable death",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42886860/"
-    },
-    {
-      "pmid": "42886858",
-      "title": "Opioid prescribing and hospital outcomes after trauma in patients with substance use disorder: An analysis of the michigan trauma quality improvement project.",
-      "abstract": "**BACKGROUND**: Trauma patients frequently have comorbid substance use disorders (SUD), which may complicate pain management and increase the risk of opioid-related adverse outcomes after discharge. We hypothesized that trauma patients with SUD would be prescribed more opioids at discharge than those without SUD.\n\n**METHODS**: We retrospectively analyzed a cohort of adult trauma patients across the state from 2022 to 2025 using a statewide collaborative database. Primary outcomes were opioid prescription at discharge (yes/no) and amount prescribed standardized to oxycodone 5\u00a0mg pills. A multivariable approach assessed risk-adjusted differences in outcomes among patients with SUD versus without SUD.\n\n**RESULTS**: Among 29,805 total patients, 8,672 (29.1%) had a diagnosis of SUD. 71.2% of patients with SUD received a discharge opioid prescription, compared with 59.6% of patients without SUD (p<0.001). After adjustment, the predicted probability of receiving an opioid prescription at discharge was 64.2% (95% CI, 63.1%-65.2%) for patients with SUD and 62.5% (95% CI, 62.0%-63.1%) for those without. Among patients that received a prescription, those with SUD were prescribed 21.2 pills of 5\u00a0mg oxycodone, corresponding to an adjusted difference of 1.6 additional pills (95% CI, 0.89-2.31; p<0.001) compared with those without. Prescribing patterns also differed by race and ethnicity: Hispanic or Latino patients were 5.4-percentage points more likely to receive an opioid prescription than non-Hispanic or Latino patients, while, among prescription recipients, Black patients received 3.56 fewer pills than White patients.\n\n**CONCLUSIONS**: Our findings demonstrate that patients with SUD received opioids more frequently and in greater amounts at discharge, yet absolute differences were small in magnitude and may not represent clinically meaningful differences. Differences in prescribing by race and ethnicity were larger in magnitude and warrant further investigation.\n\n**LEVEL OF EVIDENCE**: Prognostic and epidemiological; Level III.",
-      "journal": "J Trauma Acute Care Surg",
-      "authors": [
-        "Stathakios J",
-        "Tsai RN",
-        "Lai Y",
-        "Gunaseelan V",
-        "Brummett C",
-        "Chapman AJ",
-        "Waljee J",
-        "Hemmila MR",
-        "Bicket MC"
-      ],
-      "date": "2026 Oct 16",
-      "doi": "10.1097/TA.0000000000005202",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "trauma quality",
-          "strength": "strong",
-          "topic": "Systems/QI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42886858/"
-    },
-    {
-      "pmid": "42886856",
-      "title": "In older adults, \"mild\" by GCS does not mean low risk: Multicenter study of 1,157 patients with mild TBI and acute subdural hematoma.",
-      "abstract": "**BACKGROUND**: Acute traumatic subdural hematoma (SDH) is the most common intracranial injury in mild TBI (mTBI), particularly in older adults. However, the relationship of patient and brain computed tomography (CT) characteristics with outcomes remains poorly described in a contemporary cohort. This study aims to characterize outcomes in younger and older adults with mTBI and isolated acute SDH.\n\n**METHODS**: This was a 10-center, retrospective cohort study of adult traumas with emergency department Glasgow Coma Scale (GCS) 13 to 15 and acute traumatic SDH on initial brain CT ('22-'23). Trauma registry, EHR, and Picture Archiving and Communication System (PACS) data were collected through automated and manual methods. The primary outcome was total mortality (TM=death+hospice discharge); the sample was stratified by 18 to 64 versus older than or equal to 65 years. Multivariable backward selection logistic regression examined 21 demographic, injury, and brain CT covariates.\n\n**RESULTS**: In total, 1,157 patients were included (18-64 y: 28%; \u226565 y: 72%; 58% transferred in). Median [IQR] non-head ISS was 1 [1-5] in 18 to 64 years, and 1 [1-2] in older than or equal to 65 years. Ten percent had neurosurgical intervention (18-64 y: 8%; \u226565 y: 11%). TM was higher in older than or equal to 65 years than 18 to 64 years (10% vs. 3%). Compared with older than or equal to 65 years, 18 to 64 years were discharged home more frequently (78% vs. 51%) and to hospice less frequently (2% vs. 7%). In 18 to 64 years, factors associated with TM were race, advance directive, functional dependence, ISS, more midline shift, and thicker SDH (too few TMs for adjusted models). In older than or equal to 65 years, factors independently associated with TM were advance directive (aOR [95% CI]: 11.8 [2.9-49.0]), male sex (3.0 [1.3-7.0]), midline shift (1.8 [1.3-2.6]), shock index (1.5 [1.1-2.1]), and worsening SDH on follow-up CT (2.9 [1.3-6.6]).\n\n**CONCLUSIONS**: Despite presenting as \"mild\", these data highlight that older adults with SDH have high TM and should continue to receive the highest-level care with timely goals-of-care discussions. The association between advance directives and TM should be interpreted within the context of baseline vulnerability and preinjury treatment preferences, not as a biological mortality predictor.\n\n**LEVEL OF EVIDENCE**: Level III, prognostic/epidemiological.",
-      "journal": "J Trauma Acute Care Surg",
-      "authors": [
-        "Orlando A",
-        "Mazumder H",
-        "Harbour LF",
-        "Fakhry SM"
-      ],
-      "date": "2026 Oct 16",
-      "doi": "10.3109/02699052.2014.945959",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "Systems/QI",
-        "TBI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "subdural haematoma",
-          "strength": "strong",
-          "topic": "TBI"
-        },
-        {
-          "keyword": "trauma registry",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42886856/"
-    },
-    {
-      "pmid": "42886574",
-      "title": "Prehospital Risk Stratification for Early Transfusion in Pediatric Trauma: A National Trauma Data Bank Analysis.",
-      "abstract": "**OBJECTIVES**: Pediatric criteria remain limited for identifying injured children who may benefit from early blood transfusion for hemorrhagic shock. This study evaluated whether emergency medical services (EMS)-observable variables in a national trauma registry could identify children at risk for early hospital blood transfusion.\n\n**METHODS**: We conducted an observational retrospective cohort study using the National Trauma Data Bank (2017-2020). Among 391,126 records for patients aged 1-15\u2009years, we included children transported by EMS directly from the scene to a participating trauma center after excluding burn injuries, interfacility transfers, and missing pre-identified EMS variables (systolic blood pressure, heart rate, or Glasgow Coma Scale [GCS]). The primary outcome was any blood product administered within 4\u2009h of emergency department arrival. Five prespecified EMS-observable predictors composed the model: age-adjusted hypotension, age-adjusted tachycardia, GCS \u2264 14, penetrating mechanism, and prehospital traumatic cardiac arrest. We fit a multivariable logistic regression and a classification and regression tree (CART) using an 80/20 stratified train-validation split. Missing data sensitivity analyses included multiple imputation and CART refitting in the broader eligible cohort.\n\n**RESULTS**: Among 79,764 children, 2,634 (3.3%) received early transfusion in the hospital. All five predictors were independently associated with early transfusion, led by GCS \u2264 14 (adjusted odds ratio [aOR] 8.38; 95% confidence interval [CI], 7.61-9.22), penetrating mechanism (aOR 5.87; 95% CI, 5.28-6.51), and age-adjusted hypotension (aOR 5.39; 95% CI, 4.74-6.13). In the validation cohort, CART analysis stratified patients into low-, intermediate-, and high-risk tiers comprising 77.0%, 19.7%, and 3.3% of patients, respectively. Early-transfusion rates were 1.2%, 6.1%, and 36.7% across these tiers. The high-risk tier accounted for 36.8% of all early transfusion events. Using the high-risk tier as a decision threshold, sensitivity was 36.8%, specificity 97.8%, positive predictive value 36.7%, and negative predictive value 97.8%.\n\n**CONCLUSIONS**: Five EMS-observable features, including age-adjusted hypotension, age-adjusted tachycardia, GCS \u2264 14, penetrating mechanism, and prehospital traumatic cardiac arrest, identified a small subgroup of pediatric trauma patients with substantially elevated risk of early hospital transfusion. This parsimonious framework may inform prospective validation of prehospital transfusion criteria.",
-      "journal": "Prehosp Emerg Care",
-      "authors": [
-        "Su J",
-        "Donofrio-Odmann JJ",
-        "Guyette FX",
-        "Studnek J",
-        "Magill C",
-        "Kothari KM",
-        "Browne LR",
-        "Triolo B",
-        "Shah MI"
-      ],
-      "date": "2026 Oct 21",
-      "doi": "10.1080/10903127.2026.2750457",
-      "tier": "filtered",
-      "topics": [
-        "Burns",
-        "Cardiac Arrest",
-        "General Trauma",
-        "Haemorrhage",
-        "Paediatric",
-        "Prehospital",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "trauma centre",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "haemorrhagic shock",
-          "strength": "weak",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "blood product",
-          "strength": "weak",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "blood transfusion",
-          "strength": "weak",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "burn injury",
-          "strength": "weak",
-          "topic": "Burns"
-        },
-        {
-          "keyword": "paediatric trauma",
-          "strength": "strong",
-          "topic": "Paediatric"
-        },
-        {
-          "keyword": "prehospital",
-          "strength": "strong",
-          "topic": "Prehospital"
-        },
-        {
-          "keyword": "trauma registry",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "traumatic cardiac arrest",
-          "strength": "weak",
-          "topic": "Cardiac Arrest"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42886574/"
-    },
-    {
-      "pmid": "42885480",
-      "title": "A Mixed Methods Evaluation of a Model of Care for Domestic Violence Within the Emergency Department.",
-      "abstract": "**OBJECTIVE**: To describe the scope and extent of the Domestic Violence (DV) Model of Care at Campbelltown Emergency Department (ED). We detail patient population characteristics, means of identifying victim-survivors, care provided, and factors associated with social work review.\n\n**METHODS**: This mixed-methods evaluation utilised (1) retrospective audits of medical records of patients admitted to Campbelltown ED in 2024, who (a) responded affirmatively on the DV Routine Screening (DVRS) tool, and/or (b) were reviewed by social work relating to DV; and (2) semi-structured interviews with 19 clinicians and support workers about their understanding of and role within the model of care. Descriptive analyses quantified the scope and characteristics of the DV patient population and care provision; logistic regression identified factors associated with DVRS-identified patients seeing social work. Thematic analysis of interview data supplemented audit findings.\n\n**RESULTS**: In 2024, 249 ED patients responded affirmatively to the DVRS tool (DV identified prior for 52.2%), and 231 patients were reviewed by social work relating to DV. Victim-survivors were identified through DVRS tool use, explicit disclosure, referral from community partners, and clinician judgement. Transfer to the ED short stay unit facilitated safety and trauma/violence-informed care, including social work consultation for 49.8% of identified victim-survivors. Explicit disclosure or help-seeking, presenting concerns, and child safety risks were associated with seeing social work; however, presentation day/time was not.\n\n**CONCLUSIONS**: This evaluation demonstrates that a comprehensive ED model of care, employing multiple means of identifying victim-survivors, is able to facilitate trauma/violence-informed psychosocial care alongside medical management for patients experiencing DV.",
-      "journal": "Emerg Med Australas",
-      "authors": [
-        "Haq A",
-        "Allison KR",
-        "Rhodes H",
-        "Coorey CP",
-        "Edmiston N"
-      ],
-      "date": "2026 Oct 1",
-      "doi": "10.1177/15248380261467492",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42885480/"
     }
   ]
 }
