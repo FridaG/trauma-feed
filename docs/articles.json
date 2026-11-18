@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-17T02:42:24.029134Z",
-  "total_articles": 237,
+  "generated": "2026-11-18T01:57:53.353328Z",
+  "total_articles": 239,
   "all_topics": [
     "Abdominal",
     "Burns",
@@ -378,6 +378,298 @@
     "Cochrane Database Syst Rev": "filtered"
   },
   "articles": [
+    {
+      "pmid": "43044058",
+      "title": "A Mobile Application Improves Paramedic Performance in Simulated Trauma Care: A Crossover Randomized Controlled Trial.",
+      "abstract": "**OBJECTIVES**: Clinical performance during prehospital trauma care varies among emergency medical services (EMS) clinicians, particularly during high-stress critical responses. We developed a mobile application providing real-time access to local treatment protocols, decision support tools, and instructional procedure videos to supplement standard practice. We evaluated whether use of the application improved paramedic performance during simulated trauma scenarios.\n\n**METHODS**: We conducted a crossover randomized controlled trial between July 2025 and February 2026 comparing standard care alone with standard care plus the mobile application during two high-fidelity trauma simulations (one adult and one pediatric). Paramedics, working in pairs, were block randomized to one of four sequences, varying both the scenario order and the application use. Performance was assessed using predefined critical actions; completing all critical actions was required to successfully complete the scenario. A generalized linear mixed model with a binomial distribution and logit link function was used for each paramedic pair to estimate the adjusted odds ratio (OR) for successfully completing a scenario with or without the application.\n\n**RESULTS**: Of 112 paramedics, 98 (88%) participated, forming 49 pairs. One pair withdrew before study completion, leaving 48 pairs for analysis. For scenarios using the application, 17/48 (35.4%) successfully completed the scenario compared to 3/48 (6.3%) for scenarios not using the application, adjusted odds 8.28 (95% CI 2.21-31.09). Among scenarios using the application, 10/25 (40%) adult scenarios and 7/23 (30.4%) pediatric scenarios met successful completion criteria compared to 3/23 (13%) adult and 0/25 (0%) pediatric with standard practice alone. User experience survey results demonstrated that participating paramedics assessed the application as being practical to use and valuable for clinical care.\n\n**CONCLUSIONS**: Use of the mobile decision support application improves odds of performing high-quality clinical care in simulated trauma patient scenarios. Further studies are needed to evaluate performance and usability in a field environment.",
+      "journal": "Prehosp Emerg Care",
+      "authors": [
+        "Whitfield D",
+        "Toy J",
+        "Banjo E",
+        "Cheng T",
+        "Rodzik R",
+        "Bosson N",
+        "Warren J",
+        "Wilhelm K",
+        "Arab B",
+        "Stone M",
+        "Goolsby C"
+      ],
+      "date": "2026 Nov 17",
+      "doi": "10.1080/10903127.2026.2765894",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Prehospital"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "prehospital trauma",
+          "strength": "weak",
+          "topic": "Prehospital"
+        },
+        {
+          "keyword": "prehospital",
+          "strength": "weak",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43044058/"
+    },
+    {
+      "pmid": "43044057",
+      "title": "Five-Year Experience with Automated Head Up Cardiopulmonary Resuscitation for Out-of-Hospital Cardiac Arrest.",
+      "abstract": "**OBJECTIVES**: Automated head-up position cardiopulmonary resuscitation (AHUP-CPR), the combination of a head and thorax positioning device, active compression-decompression CPR, and an impedance threshold device, lowers intracranial pressure and increases cerebral blood flow and neurologically favorable survival in animal models versus conventional CPR (C-CPR).\n\n**METHODS**: This prospective, observational, investigator-initiated registry study reports 5-year multi-center outcomes after out-of-hospital cardiac arrest (OHCA) from areas served by emergency medical services (EMS) agencies that implemented AHUP-CPR as their routine first-responder standard of care. Adults with non-traumatic OHCA were initially treated with immediate conventional (C-CPR) followed by rapid transition to AHUP-CPR. The primary study focus was on patients who survived to hospital discharge with favorable neurological function (HD-FN). Additional analyses included assessment of sustained return of spontaneous circulation (ROSC), survival to hospital discharge (HD), outcomes based upon the presenting rhythm, and impact of covariates on HD-FN.\n\n**RESULTS**: Ten EMS agencies serving 1.5 million people across nine U.S. states contributed data to the AHUP-CPR Registry. A total of 3,709 OHCA patients met enrollment criteria. Across five years, (2020-2024), the average (\u00b1 SD) interval from 9-1-1 call receipt-to-professional CPR was 9.62\u2009\u00b1\u20095.78\u2009min. Incidence of ROSC, HD, and HD-FN were 29.5%, 13.1%, and 10.5%, respectively. The incidence of HD-FN for patients presenting with a shockable rhythm meeting Utstein criteria, pulseless electrical activity, or asystole were 33.9%, 11.8%, and 2.0%, respectively. Among 391 neurologically favorable survivors, 91% had a Cerebral Performance Category score of 1 (normal or near normal brain function) at HD. The average age of the survivors was 56.8\u2009\u00b1\u200916.3 years. Age, interval from 9-1-1 call to professional CPR, witnessed status, and initial rhythm were the most significant predictors of HD-FN using multivariable Poisson regression.\n\n**CONCLUSIONS**: In this 5-year observational registry study, use of AHUP-CPR for the treatment of OHCA was associated with survival to HD of 13.1% and HD-FN of 10.5% in the overall cohort, which comprised patients presenting in shockable rhythms, PEA, and asystole. Drawn from 3,709 OHCA patients treated across diverse EMS systems, these findings provide the largest clinical practice-based characterization to date of the outcomes associated with early transition to AHUP-CPR.",
+      "journal": "Prehosp Emerg Care",
+      "authors": [
+        "Bachista K",
+        "Holley J",
+        "Goodloe J",
+        "Siegel L",
+        "Duval S",
+        "Emanuelson L",
+        "Crawford E",
+        "Salverda B",
+        "Debaty G",
+        "White S",
+        "Davis B",
+        "Simon L",
+        "DeVries RS",
+        "Reynolds J",
+        "Sposeto A",
+        "Cox M",
+        "Smith C",
+        "Segond N",
+        "Williamson C",
+        "Cole J",
+        "Grizzard E",
+        "Quinn R",
+        "Pourzand P",
+        "Pepe P",
+        "Moore J"
+      ],
+      "date": "2026 Nov 17",
+      "doi": "10.1080/10903127.2026.2762131",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "traumatic",
+          "strength": "weak",
+          "topic": "General Trauma"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43044057/"
+    },
+    {
+      "pmid": "43044053",
+      "title": "Prehospital Resource Utilization After Video-Assisted Versus Telephone-Only Emergency Calls: A Post Hoc Analysis of the CAM-VISION Cluster Randomized Clinical Trial.",
+      "abstract": "**OBJECTIVES**: To examine whether video assistance during emergency calls reduced actual prehospital resource utilization across the complete response pathway compared with telephone-only calls.\n\n**METHODS**: This post hoc analysis included 18,745 calls from the cluster-randomized CAM-VISION parent trial (NCT05742412; 8,124 video; 10,621 telephone only). Outcomes were assessed at call level according to telecommunicator allocation and included unit dispatch, pathway progression, number of units, and cumulative unit time. Effects were estimated with 95% confidence intervals (CIs) accounting for clustering by telecommunicator.\n\n**RESULTS**: Initial unit dispatch occurred in 69.4% of video-group calls and 73.9% of telephone-only calls (risk difference, -4.5 percentage points; 95% confidence intervals (CI) (-10.0 to 1.0). Among calls with no unit initially dispatched, subsequent unit dispatch was uncommon (5.1% vs 5.5%). Across the complete response pathway, 71.0% versus 75.3% received at least 1 unit (risk difference, -4.4 percentage points; 95% CI, -9.6 to 0.8), and 69.3% versus 73.8% had a unit reach the scene (risk difference, -4.5 percentage points; 95% CI, -10.0 to 1.0). More than 1 unit was dispatched in 23.3% versus 25.0%. Mean units per call were 1.005 versus 1.054 (mean difference, -0.049; 95% CI, -0.148 to 0.049); mean cumulative unit time was 52.8 versus 54.3\u2009minutes (mean difference, -1.5; 95% CI, -6.2 to 3.1). Overall, differences in initial dispatch were concentrated in ambulance use.\n\n**CONCLUSIONS**: No statistically significant absolute differences in conventional prehospital resource utilization were observed. Point estimates were consistently lower in the video group, primarily through fewer initial dispatches, and subsequent dispatch did not materially offset this numerical difference.",
+      "journal": "Prehosp Emerg Care",
+      "authors": [
+        "Gude MF"
+      ],
+      "date": "2026 Nov 17",
+      "doi": "10.1080/10903127.2026.2765392",
+      "tier": "filtered",
+      "topics": [
+        "Prehospital"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "prehospital",
+          "strength": "strong",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43044053/"
+    },
+    {
+      "pmid": "43043762",
+      "title": "Is Social Vulnerability Associated with Discharge Disposition After Trauma Laparotomy?",
+      "abstract": "**BACKGROUND**: Social vulnerability may influence rehabilitation discharge after trauma independent of functional recovery needs. We evaluated whether neighborhood-level social vulnerability was associated with rehabilitation discharge and whether this association persisted when discharge appropriateness was assessed using objective mobility scores.\n\n**STUDY DESIGN**: This retrospective, single-center cohort study included adult trauma laparotomy patients receiving physical therapy from 01/2020-06/2023. Social vulnerability was assessed using the social vulnerability index (SVI) and area deprivation index (ADI). Rehabilitation appropriateness was defined using an Activity Measure for Post-Acute Care (AM-PAC) score \u226416. Primary and secondary outcomes were rehabilitation discharge and mobility-informed rehabilitation appropriateness, respectively. Associations were evaluated using binomial regression adjusted for prespecified covariates.\n\n**RESULTS**: Among 572 patients, 119 (20.8%) were discharged to rehabilitation, and 103 (18%) had AM-PAC scores \u226416. Median SVI was 0.75 and ADI was 63.0. Greater social vulnerability was associated with lower odds of rehabilitation discharge (SVI: aOR 0.17, 95% CI 0.06-0.53, P<0.01), whereas ADI was not (aOR 0.99, 95% CI 0.98-1.00, P=0.21). When accounting for AM-PAC scores, neither SVI (aOR 1.06, 95% CI 0.39-2.88, P=0.91) nor ADI (aOR 0.99, 95% CI 0.99-1.01, P=0.27) was associated with appropriate rehabilitation discharge.\n\n**CONCLUSIONS**: Greater social vulnerability was associated with lower rehabilitation discharge rates after trauma laparotomy, but not with mobility-informed rehabilitation discharge. Incorporating objective mobility assessments into discharge planning may help identify rehabilitation needs while limiting the influence of social factors.",
+      "journal": "J Am Coll Surg",
+      "authors": [
+        "Rieger WD",
+        "Fajemisin MO",
+        "Martinez Ugarte S",
+        "Green RW",
+        "Kim S",
+        "Mankiewicz KA",
+        "Kao LS"
+      ],
+      "date": "2026 Nov 17",
+      "doi": "10.1097/XCS.0000000000002295",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43043762/"
+    },
+    {
+      "pmid": "43043438",
+      "title": "Association of Walch glenoid morphology and fracture patterns in proximal humeral fractures.",
+      "abstract": "**PURPOSE**: Proximal humeral fracture (PHF) assessment focuses on fracture pattern, bone quality, and patient factors, whereas glenoid morphology-central to biomechanics in glenohumeral arthritis and instability-is overlooked. We hypothesized that glenoid morphology consistent with Walch type B (posterior decentring) is independently associated with complex, tuberculum-involving PHFs.\n\n**METHODS**: This single-centre, retrospective cohort study analysed 919 patients with a PHF and shoulder computed tomography (CT). Two blinded shoulder-subspecialized orthopedic trauma surgeons independently classified all cases; agreement was quantified with Cohen's \u03ba. Fractures were classified by the Neer and AO/OTA systems and glenoid morphology by the Walch classification. The primary outcome-tuberculum involvement (Neer IV/V)-was analysed by multivariable logistic regression adjusted for age at trauma, sex, and osteoarthritis.\n\n**RESULTS**: The cohort comprised 919 patients (72.6% female; median age at trauma 69 years). The Walch distribution in this CT-selected cohort was type A 42.7%, B 54.4%, C 2.7%, and D 0.2%; osteoarthritis was present in 59.5%. Walch agreement was moderate (\u03ba\u2009=\u20090.53), with disagreement concentrated at the A1\u2194B1 decentring boundary (p\u2009<\u20090.001). Walch type B was independently associated with tuberculum involvement (adjusted OR 2.07, 95% CI 1.56-2.74; adjusted RR 1.30, 95% CI 1.17-1.45; both p\u2009<\u20090.001) and with greater AO/OTA fracture complexity (adjusted ordinal OR 1.60, p\u2009<\u20090.001). Female sex was independently associated with the outcome (adjusted OR 1.44, 95% CI 1.05-1.97, p\u2009=\u20090.023); age and osteoarthritis were not significant.\n\n**CONCLUSION**: In this CT-selected study population, glenoid morphology consistent with Walch type B was independently associated with complex, tuberculum-involving proximal humeral fractures. The association was statistically robust but clinically modest (AUC 0.62), and Walch type B morphology represented one of several correlates of fracture pattern rather than a standalone predictor. Glenoid morphology may therefore be worth recording during CT and fracture-pattern assessment; these hypothesis-generating findings are not sufficient to modify current treatment algorithms, but support the inclusion of glenoid parameters in future risk models and prospective studies.\n\n**LEVEL OF EVIDENCE**: Level III retrospective cohort study prognostic study.",
+      "journal": "Eur J Trauma Emerg Surg",
+      "authors": [
+        "\u00d6zbek H",
+        "Mayor J",
+        "Aktas G",
+        "G\u00e4nsslen A",
+        "Oberth\u00fcr S",
+        "Sehmisch S",
+        "Winkelmann M",
+        "Clausen JD"
+      ],
+      "date": "2026 Nov 17",
+      "doi": "10.1016/j.jse.2007.12.006",
+      "tier": "core",
+      "topics": [
+        "General Trauma",
+        "Orthopaedic"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "orthopaedic trauma",
+          "strength": "weak",
+          "topic": "Orthopaedic"
+        },
+        {
+          "keyword": "humeral fracture",
+          "strength": "weak",
+          "topic": "Orthopaedic"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43043438/"
+    },
+    {
+      "pmid": "43043325",
+      "title": "Ultrasound-Guided Suprascapular Nerve Block Versus Intravenous Fentanyl for Analgesia in Patients Presenting to the Emergency Department With Traumatic Scapular Fractures.",
+      "abstract": "**STUDY OBJECTIVE**: To compare the analgesic efficacy and safety of ultrasound-guided suprascapular nerve block with intravenous fentanyl in patients with traumatic scapular fractures.\n\n**METHODS**: We conducted an open-label randomized controlled pilot trial in the emergency department (ED) of a Level I trauma center in North India. Adults with traumatic scapular fractures and Defense and Veterans Pain Rating Scale scores of 7 and higher, were randomly assigned to ultrasound-guided suprascapular nerve block or intravenous fentanyl (1 \u03bcg/kg). Pain scores were assessed at baseline and 30, 60, 120, 240, and 360 minutes. Secondary outcomes included rescue analgesia and adverse events.\n\n**RESULTS**: Sixty patients were randomly assigned to the 2 groups. Median baseline pain score was 10 in both groups. Pain scores were consistently lower with suprascapular nerve block, with median scores of 3 (interquartile [IQR] 2 to 5) versus 7 (IQR 6 to 8) at 30 minutes. Between-group differences were 4 (95% confidence interval [CI], 3 to 4) at 30 and 60 minutes, 2 (95% CI, 2 to 2) at 120 and 240 minutes, and 1 (95% CI, 1 to 2) at 360 minutes. Rescue analgesia was less frequent with suprascapular nerve block (13% versus 79%; risk difference, -66% [95% CI, 47.5 to 85.2]). Drowsiness was more common with fentanyl (12 versus 2 participants); hypotension occurred in 1 fentanyl recipient and paresthesia in 1 suprascapular nerve block recipient.\n\n**CONCLUSION**: In this pilot randomized trial, ultrasound-guided suprascapular nerve block provided greater and sustained pain relief, reduced rescue analgesia, and fewer systemic adverse effects than intravenous fentanyl in adults with traumatic scapular fractures. Larger multicenter trials are needed to confirm these findings and evaluate cumulative opioid use and longer-term outcomes.",
+      "journal": "Ann Emerg Med",
+      "authors": [
+        "Chanda A",
+        "Bhoi S",
+        "Sinha TP",
+        "Gopinath B",
+        "Sahu AK",
+        "Gangdev A"
+      ],
+      "date": "2026 Nov 16",
+      "doi": "10.1016/j.annemergmed.2026.09.009",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43043325/"
+    },
+    {
+      "pmid": "43040541",
+      "title": "Trauma undertriage at a University Hospital in North Norway: the need to look beyond mechanism of injury.",
+      "abstract": "**BACKGROUND**: Early multidisciplinary management through trauma team activation (TTA) improves outcomes for severely injured patients. Previous studies at the University Hospital of North Norway (UNN) Troms\u00f8 conducted in 2006 and 2013, using Injury Severity Score (ISS)\u2009\u2265\u200916 as reference, found high rates of undertriage at 32% and 28% respectively. The aim of this study was to assess the current undertriage at UNN Troms\u00f8 using both ISS\u2009\u2265\u200916 and the New Injury Severity Score (NISS)\u2009\u2265\u200916 as reference.\n\n**METHODS**: We retrospectively reviewed trauma patients admitted to UNN Troms\u00f8 in 2018 and 2023. The study included all patients met with TTA as well as all severely injured patients that did not receive TTA during the period. Data were obtained from the local trauma registry and electronic medical records. Undertriage was defined as patients with ISS\u2009\u2265\u200916 and no TTA, and NISS\u2009\u2265\u200916 and no TTA.\n\n**RESULTS**: A total of 527 trauma patients were included. Undertriage based on ISS was 15% overall for 2018 and 2023. When NISS\u2009\u2265\u200916 was applied, the undertriage increased to 18% (31/171). A total of 63% of undertriaged patients fulfilled one or more national TTA criteria but was not admitted with TTA. Low-energy falls were the predominant mechanism of injury (73%) among undertriaged patients. A total of 70% of undertriaged patients had single region injuries, and 40% had organ failure.\n\n**CONCLUSIONS**: The undertriage rate at UNN Troms\u00f8 was 15% in 2018 and 2023, still exceeding the recommended level of <\u20095% according to American College of Surgeons-Committee on Trauma. Undertriage appears largely related to the system's non-compliance with trauma criteria, and injuries sustained in low-energy trauma mechanisms. Use of NISS identifies a larger group of potentially undertriaged patients, including more patients with organ failure who may benefit from TTA.",
+      "journal": "Scand J Trauma Resusc Emerg Med",
+      "authors": [
+        "H\u00f8nsi SF",
+        "Dehli T",
+        "Lauritzen H",
+        "Skjesol H",
+        "Bakke HK"
+      ],
+      "date": "2026 Aug 19",
+      "doi": "10.1016/j.injury.2020.11.007",
+      "tier": "core",
+      "topics": [
+        "General Trauma",
+        "Prehospital",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "injury severity",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "trauma team",
+          "strength": "weak",
+          "topic": "Prehospital"
+        },
+        {
+          "keyword": "trauma registry",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43040541/"
+    },
+    {
+      "pmid": "43038945",
+      "title": "Is it necessary to distally lock all pertrochanteric cephalo-medullary fixation in the geriatric population?",
+      "abstract": "",
+      "journal": "Injury",
+      "authors": [
+        "Ali M",
+        "Locke E",
+        "Buckley R"
+      ],
+      "date": "2026 Nov 13",
+      "doi": "10.1016/j.injury.2026.113903",
+      "tier": "filtered",
+      "topics": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43038945/"
+    },
     {
       "pmid": "43038421",
       "title": "Cost-effectiveness of paramedic-administered prehospital thrombolysis for ST elevation myocardial infarction.",
@@ -3876,7 +4168,7 @@
     {
       "pmid": "42976233",
       "title": "The Accuracy and Precision of Gravity-Driven Infusions.",
-      "abstract": "**OBJECTIVES**: When infusion pumps are unavailable in the prehospital setting, clinicians must estimate fluid flow by counting drops in a drip chamber. We aimed to assess the accuracy and precision of gravity-driven infusions and to estimate the magnitude of inaccuracy and imprecision attributable to human and non-human factors.\n\n**METHODS**: We recruited 55 paramedics to participate in structured, experimental, simulated study under controlled laboratory conditions, in which each participant set nine drip rates as accurately as possible on a standardized setup. Measurements of flow were made visually (drip rate) and volumetrically (delivered fluid). Volumetric measurements were used to represent overall error, visual measurements were used to represent human error, and the difference was used to represent non-human error. We measured accuracy (percentage error) and precision (mean absolute deviation) using the natural log of error factor to represent the multiplicative decomposition of human and non-human error additively. Mixed effect models were used to assess accuracy and precision across targeted drip rates.\n\n**RESULTS**: Inaccuracy and imprecision varied by targeted drip rate. Overall inaccuracy ranged from -45.3% (95%CI, -52.7% to -36.8%) to 5.8% (95%CI, -8.5% to 22.3%). Human inaccuracy ranged from -38.8% (95%CI, -46.0% to -30.8%) to 44.1% (95%CI, 27.1% to 63.4%). Non-human inaccuracy ranged from -26.7% (95%CI, -30.1% to -23.2%) to -6.8% (95%CI -11.1% to -2.3%). Imprecision was primarily driven by human factors. The degree of human variation between trial participants ranged from 24.2% (95%CI, 15.3% to 33.7%) to 43.7% (95%CI, 33.4% to 54.9%) across targeted rates. The targeted drip rate of 1gtt/s was more accurate than the pool of all other targeted rates (absolute error 31.1% versus 48.5%). Targeted drip rates of whole numbers were more accurate than targeted drip rates of fractional numbers (absolute error 40.7% versus 54.1%). Targeted drip rates below 1gtt/s were more accurate than rates above 1gtt/s (absolute error 35.3% versus 63.1%).\n\n**CONCLUSIONS**: Gravity-driven fluid delivery exhibits inaccuracy and imprecision, which varies by targeted rate. While potentially modifiable human factors may improve the accuracy of this technique, non-human error contributes substantially to inaccuracy. There is a need to assess whether this inaccuracy and imprecision adversely affect patient outcomes.",
+      "abstract": "**OBJECTIVES**: When infusion pumps are unavailable in the prehospital setting, clinicians must estimate fluid flow by counting drops in a drip chamber. We aimed to assess the accuracy and precision of gravity-driven infusions and to estimate the magnitude of inaccuracy and imprecision attributable to human and non-human factors.\n\n**METHODS**: We recruited 55 paramedics to participate in a structured, experimental, simulated study under controlled laboratory conditions, in which each participant set nine drip rates as accurately as possible on a standardized setup. Measurements of flow were made visually (drip rate) and volumetrically (delivered fluid). Volumetric measurements were used to represent overall error, visual measurements were used to represent human error, and the difference was used to represent non-human error. We measured accuracy (percentage error) and precision (mean absolute deviation) using the natural log of error factor to represent the multiplicative decomposition of human and non-human error additively. Mixed effect models were used to assess accuracy and precision across targeted drip rates.\n\n**RESULTS**: Inaccuracy and imprecision varied by targeted drip rate. Overall inaccuracy ranged from -45.3% (95%CI, -52.7% to -36.8%) to 5.8% (95%CI, -8.5% to 22.3%). Human inaccuracy ranged from -38.8% (95%CI, -46.0% to -30.8%) to 44.1% (95%CI, 27.1% to 63.4%). Non-human inaccuracy ranged from -26.7% (95%CI, -30.1% to -23.2%) to -6.8% (95%CI -11.1% to -2.3%). Imprecision was primarily driven by human factors. The degree of human variation between trial participants ranged from 24.2% (95%CI, 15.3% to 33.7%) to 43.7% (95%CI, 33.4% to 54.9%) across targeted rates. The targeted drip rate of 1gtt/s was more accurate than the pool of all other targeted rates (absolute error 31.1% versus 48.5%). Targeted drip rates of whole numbers were more accurate than targeted drip rates of fractional numbers (absolute error 40.7% versus 54.1%). Targeted drip rates below 1gtt/s were more accurate than rates above 1gtt/s (absolute error 35.3% versus 63.1%).\n\n**CONCLUSIONS**: Gravity-driven fluid delivery exhibits inaccuracy and imprecision, which varies by targeted rate. While potentially modifiable human factors may improve the accuracy of this technique, non-human error contributes substantially to inaccuracy. There is a need to assess whether this inaccuracy and imprecision adversely affect patient outcomes.",
       "journal": "Prehosp Emerg Care",
       "authors": [
         "Spigner MF",
@@ -3888,7 +4180,7 @@
         "Shah MN",
         "Gussick M"
       ],
-      "date": "2026 Nov 03",
+      "date": "2026 Nov 17",
       "doi": "10.1080/10903127.2026.2757796",
       "tier": "filtered",
       "topics": [
@@ -5850,20 +6142,43 @@
     {
       "pmid": "42949037",
       "title": "Micromobility Injury Patterns and Resource Use in US Trauma Centers.",
-      "abstract": "",
+      "abstract": "**BACKGROUND**: Micromobility-related injuries increasingly contribute to trauma care, but differences in injury patterns and resource use across bicycle, e-bike, and e-scooter injuries remain incompletely characterized. We compared injury severity, injury patterns, and resource use among injured riders presenting to participating trauma centers.\n\n**STUDY DESIGN**: We queried the American College of Surgeons National Trauma Data Bank (2023-2024) for injured bicycle, e-bike, and e-scooter riders \u226518 years. The primary outcome was severe injury (Injury Severity Score \u226516). Secondary outcomes included serious regional injuries (Abbreviated Injury Scale \u22653), craniofacial fractures, operative and critical care resource use, and in-hospital mortality.\n\n**RESULTS**: Among 47,102 injured riders, 32,100 (68%) rode bicycles, 8,744 (19%) e-bikes, and 6,258 (13%) e-scooters. Compared with bicycle riders, e-scooter riders had lower risk of severe injury (aRR 0.93, 95% CI 0.87-0.99) but higher risk of serious head/neck injury (aRR 1.10, 95% CI 1.04-1.17). Risks of serious chest (aRR 0.77, 95% CI 0.71-0.82) and extremities/pelvic girdle injuries (aRR 0.92, 95% CI 0.86-0.99), emergency surgery (aRR 0.66, 95% CI 0.50-0.87), early transfusion (aRR 0.71, 95% CI 0.54-0.94), and in-hospital mortality (aRR 0.78, 95% CI 0.64-0.94) were lower. Helmet use was associated with lower craniofacial fracture risk, most strongly among e-scooter riders (aRR 0.49, 95% CI 0.41-0.58).\n\n**CONCLUSIONS**: Among injured riders presenting to participating trauma centers, e-scooter injuries were associated with lower overall severity and resource use than bicycle injuries but greater serious head/neck injury risk. Helmet use was associated with lower craniofacial fracture risk, supporting continued helmet promotion.",
       "journal": "J Am Coll Surg",
-      "authors": [],
+      "authors": [
+        "Abbasi B",
+        "Chu PW",
+        "Carlisle MN",
+        "Leng L",
+        "Hakam N",
+        "Afanador-Jimenez A",
+        "Frankiewicz M",
+        "Wang R",
+        "Myrga JM",
+        "Breyer BN"
+      ],
       "date": "2026 Nov 17",
       "doi": "10.1097/XCS.0000000000002203",
       "tier": "filtered",
       "topics": [
-        "General Trauma"
+        "Facial/Neck",
+        "General Trauma",
+        "Systems/QI"
       ],
       "keyword_matches": [
         {
           "keyword": "trauma",
           "strength": "strong",
           "topic": "General Trauma"
+        },
+        {
+          "keyword": "injury severity",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "neck injury",
+          "strength": "weak",
+          "topic": "Facial/Neck"
         }
       ],
       "has_strong_match": true,
@@ -8825,205 +9140,6 @@
       ],
       "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/42902330/"
-    },
-    {
-      "pmid": "42901741",
-      "title": "Diagnostic accuracy of a prehospital 0/1-hour point of care high-sensitivity troponin testing pathway.",
-      "abstract": "",
-      "journal": "Emerg Med J",
-      "authors": [
-        "Body R",
-        "Gilman J",
-        "Alghamdi A",
-        "Carlton E",
-        "Cooper JG",
-        "Cook E",
-        "Siriwardena AN",
-        "Phillips J",
-        "Thompson A",
-        "Bell S",
-        "Kirby K",
-        "Rosser A",
-        "Peel J",
-        "Hann M"
-      ],
-      "date": "2026 Oct 20",
-      "doi": "10.1136/emermed-2026-216120",
-      "tier": "filtered",
-      "topics": [
-        "Prehospital"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "prehospital",
-          "strength": "strong",
-          "topic": "Prehospital"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42901741/"
-    },
-    {
-      "pmid": "42901627",
-      "title": "Woman With Traumatic Visual Decrease.",
-      "abstract": "",
-      "journal": "Ann Emerg Med",
-      "authors": [
-        "Xie M",
-        "Wang B",
-        "Liu G",
-        "Yao B"
-      ],
-      "date": "2026 Nov 1",
-      "doi": "10.1016/j.annemergmed.2026.05.012",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "traumatic",
-          "strength": "strong",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42901627/"
-    },
-    {
-      "pmid": "42901371",
-      "title": "Fatigue, anxiety and depression 12 months after out-of-hospital cardiac arrest: a population based cohort study.",
-      "abstract": "**AIM**: To determine the prevalence and factors associated with fatigue, anxiety, and depression 12\u00a0months after out-of-hospital cardiac arrest (OHCA); examine their associations with health-related quality of life (HRQoL) and functional recovery; and compare symptom burden with population norms.\n\n**METHODS**: This prospective, population-based cohort study included adults (\u226518\u00a0years) who received EMS-attempted resuscitation and survived to hospital discharge following non-traumatic OHCA in Victoria, Australia, between July 2019 and June 2022. Survivors were identified from a statewide OHCA registry and completed a 12-month telephone interview. Primary outcomes were fatigue (Modified Fatigue Impact Scale), anxiety and depression (Hospital Anxiety and Depression Scale). Secondary outcomes included HRQoL (EQ-5D, SF-12), functional recovery (GOSE), living arrangement, and return to work.\n\n**RESULTS**: Of 1068 eligible 12-month survivors, 728 (68.2%) completed follow-up (median age 61\u00a0years; 555 [76.2%] male). Fatigue was reported by 35.8% (250/699), anxiety by 22.6% (162/716), and depression by 18.0% (129/716). Higher symptom burden was associated with lower EQ-5D and SF-12 scores, worse GOSE outcomes (all p\u00a0<\u00a00.001) and reduced return-to-work rates. Compared with population norms, survivors reported greater fatigue (SMD 0.64; 95%CI, 0.50-0.78; p\u00a0<\u00a00.001), and depression (SMD, 0.12; 95%CI, 0.02-0.21; p\u00a0=\u00a00.02) but lower anxiety (SMD, -0.27; 95%CI, -0.35 to -0.18; p\u00a0<\u00a00.001). In adjusted models, younger age, preexisting anxiety or depression, diabetes and initial non-shockable arrest were associated with higher symptom burden, whereas EMS-witnessed arrests were associated with lower symptom burden.\n\n**CONCLUSIONS**: Fatigue, anxiety, and depression were common at 12\u00a0months after OHCA and are associated with poorer recovery. Fatigue exceeded population norms and may be an under-recognised component of cardiac arrest survivorship.",
-      "journal": "Resuscitation",
-      "authors": [
-        "Okyere DO",
-        "Nehme E",
-        "Bray J",
-        "Dainty KN",
-        "Dantanarayana A",
-        "Nehme Z"
-      ],
-      "date": "2026 Oct 20",
-      "doi": "10.1016/j.resuscitation.2026.111359",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "traumatic",
-          "strength": "weak",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42901371/"
-    },
-    {
-      "pmid": "42901370",
-      "title": "Regional implementation of a prehospital advanced life support program with video-assisted physician direction and outcomes after out-of-hospital cardiac arrest.",
-      "abstract": "**BACKGROUND**: The smart advanced life support (SALS) program was introduced to provide prehospital advanced life support under real-time video-assisted physician direction for out-of-hospital cardiac arrest (OHCA). This study evaluated the association between regional SALS implementation and OHCA outcomes.\n\n**METHODS**: This retrospective cohort study used difference-in-differences and event-study analyses with data from the OHCA surveillance system in South Korea and included adult OHCA cases (aged \u226519\u00a0years) from 2\u00a0years before through 4\u00a0years after SALS implementation in August 2015. The exposure was region-level implementation of SALS. Outcomes were the prehospital time interval, prehospital return of spontaneous circulation (ROSC), survival to discharge, and favorable neurological outcome. Pre- to post-implementation changes were compared between regions with and without SALS.\n\n**RESULTS**: A total of 129,207 cases were included. SALS regions had greater increases in the prehospital time interval (4.12\u00a0min; 95% confidence interval [CI], 2.91-5.33) and prehospital ROSC (1.35 percentage points; 95% CI, 0.56-2.15) than regions without SALS. No significant additional improvements were observed in survival to discharge (-0.35 percentage points; 95% CI, -1.31 to 0.62) or favorable neurological outcome (-0.35 percentage points; 95% CI, -1.08 to 0.37). Event-study analyses suggested differential pre-intervention trends for prehospital time, but not for the other outcomes.\n\n**CONCLUSION**: SALS regions showed greater increases in prehospital time and prehospital ROSC without significant improvements in survival to discharge or favorable neurological outcome, but the finding for prehospital time should be interpreted cautiously because differential pre-intervention trends were observed.",
-      "journal": "Resuscitation",
-      "authors": [
-        "Choi Y"
-      ],
-      "date": "2026 Oct 20",
-      "doi": "10.1016/j.resuscitation.2026.111362",
-      "tier": "filtered",
-      "topics": [
-        "Prehospital"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "prehospital",
-          "strength": "strong",
-          "topic": "Prehospital"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42901370/"
-    },
-    {
-      "pmid": "42897986",
-      "title": "Moderate and Severe Traumatic Brain Injury Outcomes-A 20\u2009Year (2002-2021) Analysis.",
-      "abstract": "**OBJECTIVE**: Although recognised as a leading cause of death and disability, it is unclear whether current treatment strategies have improved outcomes from blunt moderate to severe traumatic brain injuries (msTBI) due to a lack of available epidemiological data. This study sought to determine if in-hospital mortality and early functional outcomes of msTBI patients have changed over 20\u2009years. Early functional outcomes were determined through the surrogate measure of the proportion of patients discharged directly to home.\n\n**METHODS**: A longitudinal cohort study using The Alfred Health Trauma Registry data. Subjects were aged 16-70\u2009years with blunt msTBI (Head Abbreviated Injury Scale 3-5) admitted to The Alfred Trauma Service between 1 January 2002 and 31 December 2021.\n\n**RESULTS**: A total of 8222 patients presented with msTBI over the period, with 692 deaths (8.5%). Unadjusted in-hospital mortality decreased from 12.1% in 2002 to 4.0% in 2021 (OR 0.96, 95% CI 0.95-0.97, p\u2009<\u20090.001). Sensitivity analysis demonstrated a statistically significant reduction in the odds of death even after adjusting for injury severity (OR 0.96, 95% CI 0.93-0.99, p\u2009<\u20090.0001). The proportion of patients discharged to home increased from 30.6% to 60.8% over the period (OR 1.05, 95% CI 1.04-1.06, p\u2009<\u20090.001).\n\n**CONCLUSION**: There was a reduction in in-hospital mortality and an increase in the proportion discharged home for adults\u00a0hospitalised with msTBI at The Alfred Hospital over the last two decades. These results foster optimism for the care of neurotrauma patients, but further research is required to identify the modifiable factors associated with these improved outcomes.",
-      "journal": "Emerg Med Australas",
-      "authors": [
-        "Xiao Y",
-        "Kim Y",
-        "O'Reilly G",
-        "Rosenfeld JV",
-        "Green M",
-        "Jithoo R",
-        "Tee J",
-        "Sceriha N",
-        "Udy A",
-        "Kimmel L",
-        "Buntting C",
-        "Mathew J",
-        "Fitzgerald MC"
-      ],
-      "date": "2026 Oct 1",
-      "doi": "10.1111/1742-6723.70374",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Systems/QI",
-        "TBI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "injury severity",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "traumatic brain injury",
-          "strength": "strong",
-          "topic": "TBI"
-        },
-        {
-          "keyword": "trauma registry",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42897986/"
-    },
-    {
-      "pmid": "42897659",
-      "title": "Bezoar ileus in patients with previous abdominal surgery: an observational comparison of conservative and surgical management.",
-      "abstract": "**BACKGROUND**: Evidence on the management of bezoar ileus in patients who have already undergone abdominal surgery is limited. We reviewed conservative and surgical pathways in clinically selected patients, with particular attention to patient selection criteria and how each pathway was defined.\n\n**METHODS**: We reviewed 80 patients with CT-confirmed bezoar ileus and previous abdominal surgery who were treated between January 2010 and December 2021. Twenty-six completed conservative treatment, and 54 underwent surgery. In practice, conservative treatment was used for clinically stable patients without peritonitis or CT signs suggesting ischaemia, perforation or closed-loop obstruction, provided that close clinical monitoring was possible. Conservative treatment included bowel rest, intravenous fluids, electrolyte correction, symptom-directed medication and nasogastric decompression when needed. Failure was defined by clinical deterioration, persistent or worsening obstruction, inability to tolerate oral intake, or new radiological concern. The primary outcome was clinical resolution during the index admission. Secondary outcomes were hospitalisation, in-hospital mortality, postoperative complications and readmission after discharge.\n\n**RESULTS**: The treatment groups were not equivalent at baseline. Patients treated surgically more often had gastric bezoars (18/54, 33.3% vs. 0/26, p\u2009=\u20090.002), multiple bezoars (18/54, 33.3% vs. 1/26, 3.8%, p\u2009=\u20090.009) and greater small-bowel dilatation (median 4.0\u00a0cm vs. 3.4\u00a0cm, p\u2009=\u20090.014). All 26 patients in the conservative pathway completed the index admission without operation, although routine radiological confirmation of resolution was not performed. Median hospitalisation was 4 days (IQR 4-5) in the surgical group and 7 days (6-8) in the conservative group (p\u2009<\u20090.001); this difference should be interpreted in the context of clinical selection and local practice. Postoperative complications occurred in 11/54 surgical patients (20.4%), including two deaths from pulmonary embolism. Among discharged patients, readmission did not differ significantly between groups (13/52, 25.0% after surgery vs. 5/26, 19.2% after conservative treatment; p\u2009=\u20090.776). Exploratory regression findings were treated as hypothesis-generating only.\n\n**CONCLUSIONS**: Conservative treatment may be feasible in selected stable patients with bezoar ileus after previous abdominal surgery. Surgery remains appropriate for patients with peritonitis, suspected ischaemia, perforation or closed-loop obstruction, clinical deterioration, or failure of conservative management. Because treatment was not protocolised and the groups differed at baseline, the findings should be read as observational and hypothesis-generating, not as evidence that either strategy is superior.",
-      "journal": "World J Emerg Surg",
-      "authors": [
-        "Muhtaro\u011flu A",
-        "\u00d6zdemi\u0307r K",
-        "C\u00fcn\u00fck ES",
-        "Ye\u015fi\u0307lsancak M",
-        "Cant\u00fcrk A\u00d6",
-        "Akin E",
-        "Altintoprak F"
-      ],
-      "date": "2026 Jul 22",
-      "doi": "10.1155/2013/298392",
-      "tier": "core",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42897659/"
     }
   ]
 }
