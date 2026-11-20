@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-19T01:34:08.555920Z",
-  "total_articles": 255,
+  "generated": "2026-11-20T01:32:11.555877Z",
+  "total_articles": 262,
   "all_topics": [
     "Abdominal",
     "Burns",
@@ -378,6 +378,571 @@
     "Cochrane Database Syst Rev": "filtered"
   },
   "articles": [
+    {
+      "pmid": "43056497",
+      "title": "Plasma eMTBR-tau as a Biomarker for Chronic Traumatic Encephalopathy Tau Tangle Neuropathology.",
+      "abstract": "**IMPORTANCE**: Chronic traumatic encephalopathy (CTE) is a neurodegenerative disease that cannot accurately be diagnosed during life due to the absence of in vivo biomarkers for CTE neuropathology.\n\n**OBJECTIVE**: To evaluate plasma endogenously cleaved microtubule-binding region tau (eMTBR-tau) as a candidate biomarker for CTE tau tangle neuropathology.\n\n**DESIGN, SETTING, AND PARTICIPANTS**: This case series included 21 former American-style football players who completed a blood draw as part of participation in clinical research at Boston University beginning April 17, 2008, and who subsequently died, donated their brain, and had completed autopsy by October 9, 2026.\n\n**EXPOSURES**: Plasma eMTBR-tau nucleic acid-linked immunosandwich assay single-plex immunoassay and plasma phosphorylated tau 217 (p-tau217) (SP-X n\u2009=\u200920; Elecsys n\u2009=\u20091).\n\n**MAIN OUTCOMES AND MEASURES**: CTE status and stage. Cumulative neuropathologic tau burden scores ranged from 0 to 33 (higher scores indicate tau burden; 0, no tau burden).\n\n**RESULTS**: Among 21 male brain donors (median age at blood draw, CTE positive: 68 years [IQR, 61-77]; CTE negative: 49 years [IQR, 47-56]), 18 had a neuropathologic diagnosis of CTE. Of these participants, 16 had a diagnosis of high-stage CTE (stage IV\u2009=\u20098, stage III\u2009=\u20098); and 2, of low-stage CTE (stage II\u2009=\u20091, stage I\u2009=\u20091). Five CTE-positive participants had intermediate or high Alzheimer disease neuropathologic change (ADNC). Plasma eMTBR-tau concentration was significantly higher in CTE-positive participants (median, 0.019 pg/mL [IQR, 0.004-0.030]) compared with CTE-negative participants (0.001 pg/mL [IQR, 0.001-0.001]; \u03b2\u2009=\u20091.61 [95% CI, 0.51-2.70]). Plasma eMTBR-tau concentrations were highest among CTE-positive participants with comorbid ADNC (0.082 pg/mL [IQR, 0.059-0.131]) and intermediate among those with high-stage CTE without ADNC (n\u2009=\u200911; median, 0.009 pg/mL [IQR, 0.004-0.021]). Plasma eMTBR-tau concentration was significantly higher in high-stage CTE (median, 0.021 pg/mL [IQR, 0.006-0.038]) compared with low-stage CTE (median, 0.001 pg/mL [IQR, 0.001-0.002]; \u03b2\u2009=\u20091.79 [95% CI, 0.45-3.13]) or no CTE (median, 0.001 pg/mL [IQR, 0.001-0.001]; \u03b2\u2009=\u20091.78 [95% CI, 0.85-2.71]). Differences remained significant after exclusion of 5 cases with comorbid ADNC. Plasma eMTBR-tau concentration was associated with higher cumulative neuropathologic tau burden score across 11 brain regions (\u03b2\u2009=\u20090.71 [95% CI, 0.38-1.05]). Plasma p-tau217 concentration was positively associated with eMTBR-tau (\u03b2\u2009=\u20090.68 [95% CI, 0.32-1.04]) but was not associated with CTE. P-tau217 concentrations were in the negative range (n\u2009=\u200911) or intermediate range (n\u2009=\u20095) for participants without ADNC copathology. Four participants with ADNC had p-tau217 concentrations in the positive range; and 1, in the intermediate range.\n\n**CONCLUSIONS AND RELEVANCE**: Participants with high-stage CTE had higher concentrations of plasma eMTBR-tau than those with low-stage or no CTE; concentrations were highest among those with CTE and comorbid ADNC. Plasma eMTBR-tau may represent a feasible biomarker candidate for high-stage CTE tau tangle neuropathology. Larger autopsy and clinical validation studies are needed to establish overall diagnostic accuracy and specificity of plasma eMTBR-tau for CTE neuropathology, in addition to the associated prognostic and clinical implications.",
+      "journal": "JAMA",
+      "authors": [
+        "Miner AE",
+        "Stein TD",
+        "McKee AC",
+        "Mez J",
+        "Asken BM",
+        "Singh A",
+        "Hanley D",
+        "Zetterberg H",
+        "Goostrey K",
+        "Nosek SB",
+        "Labonte J",
+        "Nowinski CJ",
+        "Daneshvar DH",
+        "Tanner JA",
+        "Tripodis Y",
+        "Young A",
+        "Abdolmohammadi B",
+        "Morisaki K",
+        "Roebuck M",
+        "Palmisano JN",
+        "Martin B",
+        "Nosheny R",
+        "Shenton ME",
+        "Cummings JL",
+        "Reiman EM",
+        "Stern RA",
+        "Rabinovici GD",
+        "Ashton NJ",
+        "Alosco ML"
+      ],
+      "date": "2026 Nov 19",
+      "doi": "10.1001/jama.2026.24780",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "traumatic",
+          "strength": "strong",
+          "topic": "General Trauma"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43056497/"
+    },
+    {
+      "pmid": "43056149",
+      "title": "What's Blood Got to Do with It? Identifying MPDS\u00ae Dispatch Codes Most Commonly Associated with Prehospital Blood Administration.",
+      "abstract": "**OBJECTIVES**: This study aimed to identify Medical Priority Dispatch System (MPDS\u00ae) codes most frequently associated with prehospital blood utilization.\n\n**METHODS**: We examined Delaware's prehospital blood database to determine dispatch codes where low titer group O positive whole blood (LTOWB) was administered. We calculated the number of blood units under each dispatch code within the study period (May 2023- February 2026). Using this data, we identified the MPDS\u00ae codes associated with the highest number of blood units, including the top five codes overall, top medical codes, and as well as blood utilization rates for penetrating versus blunt traumas.\n\n**RESULTS**: The most frequent blood utilization came from the following dispatch codes: 29D02 (traffic collision, high mechanism) 32 patients, 27D04G (penetrating trauma with central wounds) 32 patients, 29D02M (auto versus pedestrian) 28 patients, 29D05 (traffic collision with entrapment) 24 patients, and 29D02L (auto versus bicycle/motorcycle) 20 patients. These five dispatch codes accounted for 29% of all prehospital LTOWB utilized within the 33-month study period. Analyzing blood utilization for non-traumatic dispatch codes revealed: 21D04/21D04M (dangerous hemorrhage, medical) 18 patients, 21D03/21D03M (hemorrhage, not alert, medical) 13 patients, 9E01/M9E01/M9E02 (cardiac or respiratory arrest/death, not breathing) 13 patients, and 21D05/21D05M (hemorrhage, abnormal breathing, medical) 7 patients. These four dispatch codes accounted for 11% (51 patients) of LTOWB utilization. When performing odds ratio analysis to determine odds of blood administration, we found 27D04G, 29D02M, and 29D02L to be statistically significant with 95% confidence intervals of [0.35- 0.87], [2.42- 5.72], [1.47- 3.91], and odds ratios of 0.55, 3.72, and 2.40, respectively. Additionally, our analysis demonstrated that patients with MPDS\u00ae coding for penetrating trauma with a delta level priority (27D) have higher likelihood of prehospital blood administration than delta priority high mechanism traffic incidents (29D). This comparison showed an OR of 10.40 that blood would be given to the penetrating trauma patient with a 95% confidence interval of [7.93- 13.66].\n\n**CONCLUSIONS**: Specific MPDS\u00ae codes are strongly associated with prehospital blood utilization. Identifying these patterns offers a unique opportunity for emergency medical services systems to implement automatic blood dispatch protocols based on dispatch code.",
+      "journal": "Prehosp Emerg Care",
+      "authors": [
+        "Khan S",
+        "Malani E",
+        "Eisenman J",
+        "Matthews P",
+        "Burch K",
+        "Dworkin M",
+        "Starr-Leach K",
+        "Aber D",
+        "Conrad J",
+        "Dattoli J",
+        "Sebastianelli E",
+        "Snyder R",
+        "Rosenbaum R"
+      ],
+      "date": "2026 Nov 19",
+      "doi": "10.1080/10903127.2026.2767093",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Haemorrhage",
+        "Penetrating",
+        "Prehospital"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "penetrating trauma",
+          "strength": "weak",
+          "topic": "Penetrating"
+        },
+        {
+          "keyword": "prehospital blood",
+          "strength": "strong",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "prehospital",
+          "strength": "strong",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43056149/"
+    },
+    {
+      "pmid": "43056078",
+      "title": "Prolonged Onboard Storage of Red Blood Cells in Ground Ambulances for Prehospital Transfusion: A Real-World Study.",
+      "abstract": "**OBJECTIVES**: Permanent onboard storage of red blood cells (RBC) units could facilitate timely prehospital transfusion but may expose blood products to cumulative transport-related mechanical stress. We evaluated the quality of RBC units stored continuously in operational ground ambulances under real-world emergency medical service conditions.\n\n**METHODS**: In this randomized controlled experimental study of RBC units, leukoreduced RBC units were randomly assigned to continuous onboard ambulance storage from day 7 to day 42 (\n\n**RESULTS**: All RBC units remained below the European regulatory hemolysis threshold of 0.8% at day 42. Hemolysis was higher in ambulance-stored units at day 28 (Hodges-Lehmann difference, +0.043 percentage points; 95% confidence interval (CI), 0.010-0.076; \n\n**CONCLUSIONS**: Continuous onboard RBC storage in operational ground ambulances maintained all units within regulatory hemolysis limits through day 42. However, higher hemolysis and late divergence in SME accumulation suggest that prolonged ambulance exposure may influence RBC storage quality. These findings provide preliminary support for the feasibility of continuous onboard RBC storage, particularly earlier in the storage period, but do not establish equivalence with conventional blood bank storage.",
+      "journal": "Prehosp Emerg Care",
+      "authors": [
+        "Daniel Y",
+        "Derkenne C",
+        "Vavasseur M",
+        "Javaudin O",
+        "Corcostegui SP",
+        "Lely P",
+        "Pons S",
+        "Giannuzzo A",
+        "Vest P",
+        "Giaume L",
+        "Jost D",
+        "Dussiot M",
+        "Miron de l'Espinay A",
+        "Martinaud C",
+        "Rozec B",
+        "Amireault P",
+        "Travers S"
+      ],
+      "date": "2026 Nov 19",
+      "doi": "10.1080/10903127.2026.2755973",
+      "tier": "filtered",
+      "topics": [
+        "Haemorrhage",
+        "Prehospital"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "blood product",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "prehospital",
+          "strength": "strong",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43056078/"
+    },
+    {
+      "pmid": "43055937",
+      "title": "Early arthroplasty versus conversion arthroplasty after failed PFNA in elderly patients with unstable intertrochanteric fractures: a multicenter matched cohort study.",
+      "abstract": "**PURPOSE**: In our study, the clinical and functional outcomes of early arthroplasty versus late conversion arthroplasty approaches were compared in individuals over 75 years of age who underwent PFNA for complex intertrochanteric fractures but whose treatment failed.\n\n**METHODS**: This multicenter, retrospective cohort study analyzed data from 136 patients treated between January 2023 and March 2025. The cohort consisted of 62 patients who underwent conversion arthroplasty after failed PFNA fixation and 74 patients who received primary early arthroplasty. Demographic characteristics, surgical parameters, complications, and functional and rehabilitation outcomes were compared between groups.\n\n**RESULTS**: Early arthroplasty was associated with significantly better six-month functional outcomes, including higher Parker mobility and Merle d'Aubign\u00e9 scores. The early arthroplasty group also demonstrated shorter times to effective weight-bearing and recovery of walking distance. Perioperative transfusion requirements and systemic complication rates were higher in the PFNA conversion group. However, the time to recovery of unassisted gait did not differ significantly between groups.\n\n**CONCLUSION**: Conclusion In elderly patients over 75 years of age with unstable intertrochanteric fractures, early arthroplasty was associated with better short-term functional outcomes, earlier effective weight-bearing and recovery of walking distance, and fewer systemic complications than conversion arthroplasty following failed PFNA. However, these findings should be interpreted in the context of the retrospective design and the functional deterioration that occurred between initial PFNA and subsequent conversion surgery. Primary arthroplasty may be a reasonable option in carefully selected patients with fracture patterns, poor bone quality, or clinical characteristics associated with a high risk of fixation failure.",
+      "journal": "Eur J Trauma Emerg Surg",
+      "authors": [
+        "\u00c7i\u00e7ek AC",
+        "Aksay MF",
+        "Ayg\u00fcn \u00dc",
+        "\u015eenocak E",
+        "Hala\u00e7 O",
+        "Toy S"
+      ],
+      "date": "2026 Nov 19",
+      "doi": "10.1016/j.arth.2023.01.057",
+      "tier": "core",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43055937/"
+    },
+    {
+      "pmid": "43055685",
+      "title": "Prehospital Trauma Compendium: Prehospital Management of Pediatric Traumatic Out-of-Hospital Circulatory Arrest - A Joint Position Statement and Resource Document of NAEMSP, ACS-COT, ACEP, and AAP.",
+      "abstract": "In 2014 the National Association of EMS Physicians (NAEMSP), American College of Surgeons Committee on Trauma (ACS-COT), American College of Emergency Physicians (ACEP), and American Academy of Pediatrics (AAP) published the first joint position statement discussing withholding and discontinuing resuscitation attempts for pediatric traumatic out-of-hospital circulatory arrest (TOHCA). Since then, the body of literature addressing pediatric TOHCA has evolved and evidence has grown that demonstrates the nearly uniformly poor prognosis of children who suffer circulatory arrest in the prehospital setting as a result of trauma. To support emergency medical services (EMS) clinicians in their approach to these high-acuity, low-frequency, and challenging cases, this project aimed to update guidance regarding decisions to withhold or discontinue resuscitation efforts for pediatric traumatic circulatory arrest. NAEMSP, ACEP, ACS-COT, and AAP recommend:EMS resuscitation of pediatric TOHCA should:Prioritize prompt identification of patients who may benefit from transport to definitive care at trauma centers when safe and appropriate. On-scene resuscitation should be balanced against the potential benefit of transfer to a proximate trauma center.Emphasize the identification of reversible causes of traumatic circulatory arrest and timely use of clinically indicated life-saving interventions (LSIs) within the EMS clinician's scope of practice. These include:External hemorrhage control with direct pressure, wound packing, and tourniquetsAirway management using the least-invasive airway interventions required to achieve and maintain airway patency, oxygenation, and adequate ventilation.Chest decompression if clinical concern for tension pneumothorax. Empiric bilateral decompression is not recommended in the absence of suspected thoracic trauma.External chest compressions and ventilations have a larger role in pediatric TOHCA resuscitation than in adult TOHCA resuscitation, with children frequently having TOHCA secondary to head injury, hypoxia and other non-hemorrhagic mechanisms. Cardiopulmonary resuscitation (CPR) should be provided when the cause of circulatory arrest is unclear.Epinephrine is of lower priority than other LSIs.Consider point of care ultrasound (POCUS) to guide decisions to withhold or discontinue resuscitation efforts.Resuscitation attempts may be withheld in pediatric TOHCA patients with:Injuries that are incompatible with life (e.g., decapitation, hemi-corpectomy, incineration).Evidence of prolonged circulatory arrest (e.g., rigor mortis, dependent lividity, decomposition).Advanced care planning documents that indicate Do Not Resuscitate (DNR)/ Do Not Attempt Resuscitation (DNAR)/Allow Natural Death medical orders.Resuscitation attempts may be discontinued in pediatric TOHCA patients who:Have no return of spontaneous circulation after provision of at least 15\u2009minutes of high-quality CPR in addition to performance of other lifesaving interventions directed at treating potentially reversible causes of pediatric TOHCA. Longer durations of CPR, up to 30\u2009minutes, may be considered for patients with positive predictors of survival such as organized rhythm, witnessed arrest, bystander CPR, or with proximate access to a trauma center.Have known predictors of very low probability of survival such as penetrating trauma without proximate access to a trauma center, asystole, unwitnessed arrest, or lack of bystander CPR.Protocols guiding decisions to withhold or discontinue resuscitation of pediatric TOHCA benefit from oversight by EMS physicians in collaboration with pediatric experts and local or regional trauma system stakeholders. Implementation of such protocols for pediatric patients benefits from involvement of community stakeholders including family representatives, law enforcement, medical examiner, and child fatality review committees.Considerations for protocol implementation include local resource availability, EMS clinician and public safety, psychosocial support to surviving family members and emergency responders, and dignified handling of the deceased patient.Training needs for EMS clinicians include techniques to communicate with family members regarding the death of a child and understanding the clinician's own response to this low-frequency, high-emotion experience.",
+      "journal": "Prehosp Emerg Care",
+      "authors": [
+        "Anders JF",
+        "Harris MI",
+        "Adelgais KM",
+        "Remick KE",
+        "Cicero MX",
+        "Nagler J",
+        "Jaeger L",
+        "Knoles C",
+        "Pappas PA",
+        "Vaughan E"
+      ],
+      "date": "2026 Nov 19",
+      "doi": "10.1080/10903127.2026.2660751",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Imaging",
+        "Penetrating",
+        "Prehospital",
+        "Systems/QI",
+        "TBI",
+        "Thoracic"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "penetrating trauma",
+          "strength": "weak",
+          "topic": "Penetrating"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "pneumothorax",
+          "strength": "weak",
+          "topic": "Thoracic"
+        },
+        {
+          "keyword": "head injury",
+          "strength": "weak",
+          "topic": "TBI"
+        },
+        {
+          "keyword": "POCUS",
+          "strength": "weak",
+          "topic": "Imaging"
+        },
+        {
+          "keyword": "prehospital trauma",
+          "strength": "strong",
+          "topic": "Prehospital"
+        },
+        {
+          "keyword": "prehospital",
+          "strength": "strong",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43055685/"
+    },
+    {
+      "pmid": "43055546",
+      "title": "Prevalence and Characteristics of Coma in Latin American Critical Care Units: The COMA LATAM Study.",
+      "abstract": "**OBJECTIVES**: To determine the point prevalence of coma across Latin American critical care units, characterize its etiology, and explore short-term outcomes.\n\n**DESIGN**: Multinational, cross-sectional point prevalence study with exploratory 14-day follow-up assessment.\n\n**SETTING**: Three hundred ninety-two hospitals across 19 Latin American countries, including ICUs, intermediate care units, neurocritical care units, cardiovascular ICUs, and trauma ICUs.\n\n**PATIENTS**: Adult patients (\u2265 18 yr) meeting the Coma Epidemiology, Evaluation, and Therapy care survey (COME-TOGETHER) criteria on May 28, 2024. Patients under deep sedation or pharmacological coma induction were excluded unless the coma state preceded pharmacological intervention.\n\n**INTERVENTIONS**: None (observational study).\n\n**MEASUREMENTS AND MAIN RESULTS**: Among 8305 critically ill patients, 1145 met coma criteria (point prevalence 13.8%), with country-specific rates ranging from 5.1% to 36.8%. Individual patient data were available for 729 patients (63.7%). Traumatic brain injury was the leading individual cause (24.8%), followed by hypoxic-anoxic brain injury (14.6%) and intracerebral hemorrhage (13.5%). When categorized by pathophysiology, vascular causes predominated (48.6%), followed by traumatic brain injury (24.8%) and other causes (26.6%). Age-stratified analysis revealed trauma predominantly affecting younger patients, while cerebrovascular causes predominated in older groups. Among patients with 14-day follow-up data (29% of cohort), mortality was 29.2%, with 67.7% of survivors recovering from coma. Only the Charlson Comorbidity Index was independently associated with implementation of life-sustaining therapy limitations (adjusted odds ratio, 1.22; 95% CI, 1.15-1.30; p < 0.001).\n\n**CONCLUSIONS**: Coma affects nearly one in seven ICU beds across Latin America, with substantial country variation and distinct age-dependent etiology patterns. The significant burden highlights the need for targeted prevention strategies and specialized neurocritical care resources throughout the region.",
+      "journal": "Crit Care Med",
+      "authors": [
+        "Giglio A",
+        "Reccius A",
+        "Ferre A",
+        "Pino M",
+        "Carvajal C",
+        "Ciarrochi N",
+        "Vences M",
+        "Mejia-Mantilla J",
+        "Carrizosa J",
+        "Crespo M",
+        "Heredia-Orbegoso GO",
+        "Flecha J",
+        "Melgarejo D",
+        "Pichardo-Vi\u00f1as M",
+        "Perez C",
+        "Paranhos J",
+        "Orellana-Jimenez C",
+        "Heredia J",
+        "Mora J",
+        "Fischer D",
+        "Aguilera S",
+        "Suarez JI"
+      ],
+      "date": "2026 Nov 19",
+      "doi": "10.1097/CCM.0000000000007440",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "TBI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic brain injury",
+          "strength": "weak",
+          "topic": "TBI"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43055546/"
+    },
+    {
+      "pmid": "43055541",
+      "title": "Trauma Clinician Perspectives on Geriatric-Centered Trauma Care: A Qualitative Study.",
+      "abstract": "**BACKGROUND**: Despite national geriatric trauma guidelines, care delivery varies across trauma centers, and existing quality measures may not capture outcomes important to older injured adults. We examined clinician perspectives on geriatric-centered care structures, processes, and implementation barriers.\n\n**STUDY DESIGN**: We conducted a descriptive, exploratory qualitative study of US trauma clinicians between September 2022 and December 2024. Semi-structured interviews explored geriatric trauma care delivery and clinician-reported outcomes. Transcripts underwent deductive analysis using the Donabedian quality framework and inductive thematic analysis using an adapted socioecological model.\n\n**RESULTS**: Twenty-six clinicians from 23 trauma centers participated; 22 (85%) were surgeons, 25 (96%) practiced at Level I trauma centers, and 24 (92%) worked in academic hospitals. Participants identified 7 geriatric-centered structures, 21 care processes, and 11 outcomes considered important for assessing geriatric trauma care. Four themes emerged: variation in geriatric care structures and pathways across hospitals; financial, staffing, and organizational constraints; evolving professional identity and ownership of geriatric trauma care; and gaps in measuring outcomes important to older adults. Although clinicians described implementing selected components of national guidelines, no common comprehensive care model emerged. Participants emphasized that conventional hospital-based metrics inadequately capture postdischarge recovery, particularly functional status, independence, and quality of life.\n\n**CONCLUSIONS**: Trauma clinicians reported substantial variation in geriatric-centered care, shaped by institutional resources, organizational priorities, and professional culture. Limited measurement of patient-centered, longitudinal outcomes constrains evaluation of geriatric trauma care. Incorporating functional recovery and quality of life into trauma quality assessment may help identify effective care structures and processes.",
+      "journal": "J Am Coll Surg",
+      "authors": [
+        "Dhanani H",
+        "Tabata-Kelly M",
+        "Cooper Z",
+        "Jarman MP"
+      ],
+      "date": "2026 Nov 19",
+      "doi": "10.1097/XCS.0000000000002305",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "trauma quality",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43055541/"
+    },
+    {
+      "pmid": "43055509",
+      "title": "A Novel Surgical Technique for Post-traumatic Syringomyelia Progressing to the Medulla Oblongata: Evidence of Upward Drainage of Central Canal Fluid Within the Spinal Cord: Corrigendum.",
+      "abstract": "",
+      "journal": "Neurosurgery",
+      "authors": [
+        "Yuan C",
+        "Xiong Z",
+        "Lv H",
+        "Ding C",
+        "Xia P",
+        "Xue H",
+        "Zhan H",
+        "Li M",
+        "Du Y",
+        "Zhang C",
+        "Liu Z",
+        "Wang K",
+        "Duan W",
+        "Wang Z",
+        "Wang X",
+        "Wu H",
+        "Chen Z",
+        "Jian F",
+        "Guan J"
+      ],
+      "date": "2026 Nov 19",
+      "doi": "10.1227/neu.0000000000004227",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "traumatic",
+          "strength": "strong",
+          "topic": "General Trauma"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43055509/"
+    },
+    {
+      "pmid": "43053187",
+      "title": "Endotracheal intubation practices, success rates and adverse events in four Dutch emergency departments: a multicentre retrospective study.",
+      "abstract": "**BACKGROUND**: Endotracheal intubation in the emergency department (ED) is a high-risk intervention associated with significant complications. Contemporary European data on emergency airway management remain limited, and no published data are available from the Netherlands. This study aimed to describe endotracheal intubation practices, success rates, and adverse events in four Dutch EDs.\n\n**METHODS**: We conducted a multicentre retrospective cohort study of patients undergoing endotracheal intubation in four teaching hospital EDs in the Netherlands between January 2019 and December 2023. Patients were identified using procedure registrations, diagnostic codes, billing information and disposition records. Trained abstractors collected standardized data on patient characteristics, indications, provider characteristics, intubation techniques, medications, first-pass success and adverse events.\n\n**RESULTS**: A total of 1250 intubations were included. The most common indication was post-return of spontaneous circulation (ROSC) after cardiac arrest (47%), followed by neurologic pathology (14%), cardiac arrest (12%), respiratory insufficiency (8%), intoxication (8%), and trauma (5%). Emergency medicine and intensive care physicians performed most intubations. Videolaryngoscopy was the primary technique in 89.5% of cases, and etomidate was the most frequently used induction agent (73.5%). The overall first-pass success rate was 93.8% and did not differ by provider specialty or level of training. Adverse events occurred in 181 patients (14.5%), with hypotension (6.5%) and desaturation (4.7%) being most common. Increasing age (OR 1.07 per year, 95% CI 1.04-1.10) and cardiac pathology as indication for intubation (OR 3.50, 95% CI 1.03-11.88) were associated with hypotension. A higher body mass index (OR 1.08 per point, 95% CI 1.03-1.13), younger age (OR 0.98 per year, 95% CI 0.96-1.00, p\u2009=\u20090.022) and multiple intubations attempts (OR 2.9, 95% CI 1.12-7.33) were associated with desaturation. Lower pre-intubation oxygen saturation was associated with peri-intubation cardiac arrest (OR 0.96 per point, 95% CI 0.92-0.99).\n\n**CONCLUSIONS**: This study provides the first multicentre description of emergency airway management in Dutch EDs and demonstrates a distinctive emergency intubation population, characterised by a high proportion of post-ROSC intubations. Contemporary practice was characterised by widespread adoption of videolaryngoscopy, frequent use of etomidate, and high first-pass success rates. Peri-intubation hypotension and desaturation remained common and represent important targets for quality improvement.\n\n**TRIAL REGISTRATION**: clinicaltrials.gov NCT06374030.",
+      "journal": "Scand J Trauma Resusc Emerg Med",
+      "authors": [
+        "Veldhuis PB",
+        "Labberton M",
+        "Schuiling MJ",
+        "Romijn D",
+        "Van Den Heijkant TC",
+        "Arns A",
+        "Lameijer H"
+      ],
+      "date": "2026 Aug 22",
+      "doi": "10.1016/j.bj.2023.100656",
+      "tier": "core",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43053187/"
+    },
+    {
+      "pmid": "43052529",
+      "title": "Predicting mortality in pediatric cases with severe traumatic brain injury: is the Eppendorf-Cologne Scale more reliable than Glasgow Coma Scale?",
+      "abstract": "**PURPOSE**: Severe traumatic brain injury (TBI) in children is a major cause of morbidity and mortality, requiring reliable tools for early assessment and prognosis. While the Glasgow Coma Scale (GCS) is the standard neurological evaluation tool, it has limitations in pediatric patients. The Eppendorf-Cologne Scale (ECS), originally developed for adults, emphasizes pupil size, reactivity, and motor response and may offer advantages in children.\n\n**METHODS**: This multicenter cohort study analyzed TraumaRegister DGU\n\n**RESULTS**: Among the cohort, 2,582 patients (44.1%) had severe TBI and 476 (8.1%) died in hospital. GCS showed slightly higher accuracy for predicting severe TBI (AUROC 0.778, 95% CI 0.766-0.791) than ECS (AUROC 0.745, 95% CI 0.731-0.758). For mortality prediction, ECS performed marginally better (AUROC 0.943, 95% CI 0.929-0.957) than GCS (AUROC 0.910, 95% CI 0.896-0.924). Mortality rates were 90% in the worst ECS category and 55% in the worst GCS category.\n\n**CONCLUSION**: GCS showed higher discrimination for severe TBI, whereas ECS showed higher discrimination for in-hospital mortality among patients with severe TBI. ECS may provide complementary prognostic information, but its clinical utility and role alongside GCS require prospective evaluation.",
+      "journal": "Eur J Trauma Emerg Surg",
+      "authors": [
+        "Middelkamp M",
+        "Lefering R",
+        "Czorlich P",
+        "Emami P"
+      ],
+      "date": "2026 Nov 18",
+      "doi": "10.1186/s13054-014-0476-2",
+      "tier": "core",
+      "topics": [
+        "General Trauma",
+        "TBI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "traumatic",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic brain injury",
+          "strength": "strong",
+          "topic": "TBI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43052529/"
+    },
+    {
+      "pmid": "43052526",
+      "title": "Blunt anatomical cardiac injury (BACI) - lessons from a single trauma center cohort.",
+      "abstract": "**INTRODUCTION**: Patients with anatomical damage to the heart after blunt trauma are rarely seen in hospital settings due to their elevated prehospital mortality. The aim of this study is to review our center experience with this entity.\n\n**METHODS**: After institutional research board approval, a local Trauma Databank search (Qatar National Trauma Registry) was performed from 2016 to 2025. Cases presented with blunt trauma and anatomical changes to pericardium or heart, detected in imaging or surgery, in patients above 13 years old were diagnosed as blunt anatomical cardiac injury - BACI and included.\n\n**RESULTS**: Amongst 17542 blunt trauma cases admitted to our Trauma Center during the study period, 15 patients (0.09% incidence) met the inclusion/exclusion criteria. All patients were males, with average age of 43 years (ranges 26-75), with ISS of 32 (ranges 10-75). The most common mechanism of injury was pedestrian struck (5cases -33%). Hypotension at trauma room assessment was common (8 cases\u2009-\u200953% of patients) and 8 patients (53%) required surgery. FAST, echocardiogram and computed tomography were used as diagnostic tools. The patients presented in 4 anatomical patterns: (a) intracardiac/valve damage; (b) pericardial effusion; (c) pericardial laceration and (d) cardiac rupture. Three patients (20%) died, all during emergent surgery and sustaining cardiac rupture.\n\n**CONCLUSION**: BACI is uncommonly seen at Emergency Departments and carries elevated early mortality in cases with cardiac rupture, requiring high index of suspicion for diagnosis. Different clinical presentations of BACI were observed and described in this series. Further studies with larger number of patients are needed to further clarify possible differences in severity, surgical requirement and mortality according to the BACI structural presentation.",
+      "journal": "Eur J Trauma Emerg Surg",
+      "authors": [
+        "Spencer Netto F",
+        "Afifi I",
+        "ElMenyar A",
+        "Alahmad M",
+        "Khan N",
+        "Kloub A",
+        "Abdelrahman H",
+        "AlHassani A",
+        "AlMadani A",
+        "Peralta R",
+        "Rizoli S",
+        "AlThani H"
+      ],
+      "date": "2026 Nov 18",
+      "doi": "10.1016/j.injury.2023.111303",
+      "tier": "core",
+      "topics": [
+        "General Trauma",
+        "Prehospital",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "blunt trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "strong",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "prehospital",
+          "strength": "weak",
+          "topic": "Prehospital"
+        },
+        {
+          "keyword": "trauma registry",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43052526/"
+    },
+    {
+      "pmid": "43051254",
+      "title": "Management of Traumatic Pneumothorax in the Emergency Department: A Two-Centre Retrospective Cohort Study.",
+      "abstract": "**OBJECTIVE**: To describe clinical characteristics, initial emergency department (ED) management strategy (conservative or chest drain) and outcomes of patients who present to the ED with traumatic pneumothorax.\n\n**METHODS**: Retrospective cohort study of patients aged 14\u2009years and older with an ED diagnosis of traumatic pneumothorax between January 2023 and March 2025 in two EDs. Pleural intervention was defined as needle decompression, thoracostomy, or chest drain. Descriptive data are reported, and logistic regression was used to identify predictors of ED-initiated chest drain insertion.\n\n**RESULTS**: Of 339 eligible patients, 50 had a pre-hospital pleural intervention, of which 27 had chest drains inserted to formalise (finger) thoracostomy or needle decompression. A further 58 patients received an ED-initiated chest drain, for a total of 85 ED chest drains (25.1%). Of the 231 (68.1%) who were initially managed conservatively, 53 received a drain during their hospital stay, primarily as part of surgical management. The majority (71.9%) of drains were large-bore (\u2265\u200924 Fr). Predictors of ED-initiated pleural drainage were: pneumothorax size >\u200935\u2009mm (aOR 41.0, 95% CI 16.4-102) and presence of haemothorax (aOR 6.3, 95% CI 2.5-15.8). Thirty-six drained patients (22.8%) had a recorded complication. In-hospital mortality was 5.6%.\n\n**CONCLUSIONS**: Two-thirds of patients with traumatic pneumothorax were initially managed without drainage before departing the ED. Later drainage frequently reflected operative or broader trauma management rather than clinical deterioration. Pneumothorax size and haemothorax were independent factors associated with ED-initiated drainage. The predominance of large-bore drains and frequency of complications identify opportunities for structured selective management and drain-selection pathways.",
+      "journal": "Emerg Med Australas",
+      "authors": [
+        "MacIvor L",
+        "Rice S",
+        "Wickstone C",
+        "Dunstan L",
+        "Jennings S",
+        "Keijzers G"
+      ],
+      "date": "2026 Dec 1",
+      "doi": "10.1111/1742-6723.70401",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Thoracic"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "haemothorax",
+          "strength": "weak",
+          "topic": "Thoracic"
+        },
+        {
+          "keyword": "pneumothorax",
+          "strength": "strong",
+          "topic": "Thoracic"
+        },
+        {
+          "keyword": "thoracostomy",
+          "strength": "weak",
+          "topic": "Thoracic"
+        },
+        {
+          "keyword": "chest drain",
+          "strength": "weak",
+          "topic": "Thoracic"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43051254/"
+    },
     {
       "pmid": "43050661",
       "title": "Acute Respiratory Distress Syndrome.",
@@ -1373,7 +1938,7 @@
         "Mendes JJ"
       ],
       "date": "2026 Nov 16",
-      "doi": "10.1016/j.medine.2025.502165",
+      "doi": "10.1186/s12873-025-01324-7",
       "tier": "core",
       "topics": [
         "General Trauma",
@@ -2683,8 +3248,8 @@
     },
     {
       "pmid": "43008211",
-      "title": "Pooled prevalence of infectious diseases among first responders in the prehospital setting: A systematic review with meta-analysis by occupation.",
-      "abstract": "**OBJECTIVES**: First responders often work in unpredictable, uncontrolled environments, where exposure to infected patients and contaminated environments heighten the risk of communicable disease transmission. Their higher infection prevalence compared with the general population has driven the implementation of personal protective equipment, vaccination requirements, safety protocols, and infection prevention education. The aim of this systematic review and meta-analysis was to estimate the pooled prevalence of infections among first responders in the prehospital workers including paramedics, emergency medical technicians, patient transport staff, firefighters, police, and police officers.\n\n**METHODS**: Embase, CINAHL, Web of Science and PUBMED/Medline were systematically searched. Pooled prevalence estimates were calculated using random-effects models with restricted maximum likelihood estimation, with Freeman-Tukey double-arcsine transformation and back-transformation to the original prevalence scale. Heterogeneity was assessed using I\u00b2, \u03c4\u00b2, and 95% prediction intervals. Meta-regression was used to examine potential sources of between-study heterogeneity, and small-study effects and potential publication bias were assessed using funnel plots and Egger's regression test. Risk of bias was investigated using the AXIS tool.\n\n**RESULTS**: Following the initial search, 34,874 articles were identified, of which 88 were full-text screened. Of these, 22 studies representing 19,188 first responders were included in this systematic review. The pooled prevalences of hepatitis B and C were 6.2% (95% CI 4.5%-8.2%) and 1.8% (95% CI 0.9%-2.9%), respectively. Around 4% (95% CI 2.6%- 5.9%) of the first responders had MRSA colonisation. Current or past infection with COVID-19 among non-vaccinated first responders was 13.6% (95% CI 4.8%- 25.9%), which reduced to 7.3% (95% CI 3.6%- 12%) after exclusion of studies with high risk of bias. Of the known study characteristics, geographic region significantly contributed to heterogeneity, explaining 36.7% of between-study variance, \n\n**CONCLUSIONS**: Infectious disease prevalence varied across pathogens, occupations, and geographical settings among first responders. These findings should be interpreted in light of substantial heterogeneity and limitations in the available evidence but may help inform infection prevention, occupational health policy, vaccination strategies, and future research in first responder services.",
+      "title": "Pooled Prevalence of Infectious Diseases Among First Responders in the Prehospital Setting: A Systematic Review With Meta-Analysis by Occupation.",
+      "abstract": "**OBJECTIVES**: First responders often work in unpredictable, uncontrolled environments, where exposure to infected patients and contaminated environments heighten the risk of communicable disease transmission. Their higher infection prevalence compared with the general population has driven the implementation of personal protective equipment, vaccination requirements, safety protocols, and infection prevention education. The aim of this systematic review and meta-analysis was to estimate the pooled prevalence of infections among first responders in the prehospital workers including paramedics, emergency medical technicians, patient transport staff, firefighters, police, and police officers.\n\n**METHODS**: Embase, CINAHL, Web of Science, and PUBMED/Medline were systematically searched. Pooled prevalence estimates were calculated using random-effects models with restricted maximum likelihood estimation, with Freeman-Tukey double-arcsine transformation and back-transformation to the original prevalence scale. Heterogeneity was assessed using \n\n**RESULTS**: Following the initial search, 34,874 articles were identified, of which 88 were full-text screened. Of these, 22 studies representing 19,188 first responders were included in this systematic review. The pooled prevalences of hepatitis B and C were 6.2% (95% CI 4.5%-8.2%) and 1.8% (95% CI 0.9%-2.9%), respectively. Around 4% (95% CI 2.6%-5.9%) of the first responders had MRSA colonization. Current or past infection with COVID-19 among non-vaccinated first responders was 13.6% (95% CI 4.8%-25.9%), which reduced to 7.3% (95% CI 3.6%-12%) after exclusion of studies with high risk of bias. Of the known study characteristics, geographic region significantly contributed to heterogeneity, explaining 36.7% of between-study variance, \n\n**CONCLUSIONS**: Infectious disease prevalence varied across pathogens, occupations, and geographical settings among first responders. These findings should be interpreted in light of substantial heterogeneity and limitations in the available evidence but may help inform infection prevention, occupational health policy, vaccination strategies, and future research in first responder services.",
       "journal": "Prehosp Emerg Care",
       "authors": [
         "Alahmari H",
@@ -2695,7 +3260,7 @@
         "Milazzo A",
         "Mnatzaganian G"
       ],
-      "date": "2026 Nov 10",
+      "date": "2026 Nov 19",
       "doi": "10.1080/10903127.2026.2759763",
       "tier": "filtered",
       "topics": [
@@ -5030,8 +5595,8 @@
     },
     {
       "pmid": "42971311",
-      "title": "Long-Term Survival Following Extracorporeal Cardiopulmonary Resuscitation: A Two-Center Five-Year Analysis.",
-      "abstract": "Randomized trials have shown short-term benefit of extracorporeal cardiopulmonary resuscitation (ECPR) for refractory out-of-hospital cardiac arrest (OHCA), but the long-term durability of survival and neurological recovery after hospital discharge remains poorly defined. We performed a retrospective cohort study of consecutive patients discharged alive after ECPR for refractory VT/VF OHCA from two academic centers (University of Minnesota, USA, and Charles University, Prague) from January 2013 through December 2022. The primary outcome was 5-year survival. Secondary outcomes included neurological status by Cerebral Performance Category (CPC) and associations of age and discharge disposition with long-term outcomes. Among 728 patients treated with ECPR, 211 (29.0%) survived to discharge; 138 from Minnesota and 73 from Prague. Median follow-up was 3.9 years; 68 patients (32%) completed 5 years. No patients were lost to follow-up. Among hospital survivors, 76.9% and 67.2% were alive at 1 and 5 years, respectively, with most deaths occurring within 90 days of discharge. CPC 1-2 was present in 78.7% at discharge and remained high among survivors beyond 1 year (93.4%-94.2%). Five-year survival declined by age from 91.6% for those between 18-39 years to 52.9% for >70 years. Discharge disposition also strongly stratified long-term prognosis. Among patients discharged alive after ECPR for refractory OHCA, long-term survival was substantial, with approximately two-thirds alive at 5 years with favorable CPC in most. Younger age and discharge home or to acute rehabilitation identified subgroups with particularly favorable prognosis. These findings support the long-term durability of benefit among selected patients treated within established ECPR systems of care.",
+      "title": "Long-term survival following extracorporeal cardiopulmonary resuscitation: a two-center five-year analysis.",
+      "abstract": "Randomized trials have shown short-term benefit of extracorporeal cardiopulmonary resuscitation (ECPR) for refractory out-of-hospital cardiac arrest (OHCA), but the long-term durability of survival and neurological recovery after hospital discharge remains poorly defined. We performed a retrospective cohort study of consecutive patients discharged alive after ECPR for refractory VT/VF OHCA from two academic centers (University of Minnesota, USA, and Charles University, Prague) from January 2013 through December 2022. The primary outcome was 5-year survival. Secondary outcomes included neurological status by Cerebral Performance Category (CPC) and associations of age and discharge disposition with long-term outcomes. Among 728 patients treated with ECPR, 211 (29.0%) survived to discharge; 138 from Minnesota and 73 from Prague. Median follow-up was 3.9\u00a0years; 68 patients (32%) completed 5\u00a0years. No patients were lost to follow-up. Among hospital survivors, 76.9% and 67.2% were alive at 1 and 5\u00a0years, respectively, with most deaths occurring within 90\u00a0days of discharge. CPC 1-2 was present in 78.7% at discharge and remained high among survivors beyond 1\u00a0year (93.4-94.2%). Five-year survival declined by age from 91.6% for those between 18-39\u00a0years and 52.9% for >70\u00a0years. Discharge disposition also strongly stratified long-term prognosis. Among patients discharged alive after ECPR for refractory OHCA, long-term survival was substantial, with approximately two-thirds alive at 5\u00a0years with favorable CPC in most. Younger age and discharge home or to acute rehabilitation identified subgroups with particularly favorable prognosis. These findings support the long-term durability of benefit among selected patients treated within established ECPR systems of care.",
       "journal": "Resuscitation",
       "authors": [
         "Alexy T",
@@ -5044,7 +5609,7 @@
         "Bruen C",
         "Elliott A",
         "Gurevich S",
-        "Yannopoulos NJ",
+        "Yannopoulos NJP",
         "Bartos JA",
         "Belohlavek J",
         "Yannopoulos D"
@@ -9478,241 +10043,6 @@
       ],
       "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/42909495/"
-    },
-    {
-      "pmid": "42905143",
-      "title": "Guideline adherence in helicopter versus ground emergency medical services: an indication-based analysis of 129,783 patients from the TraumaRegister DGU",
-      "abstract": "**BACKGROUND**: Helicopter emergency medical services (HEMS) are associated with higher intervention rates and improved access to specialized trauma centers compared with ground emergency medical services (GEMS). However, it remains unclear whether these differences reflect increased intervention intensity alone or more consistent implementation of guideline-recommended care. This study aimed to compare rates of selected guideline-recommended prehospital trauma interventions between HEMS and GEMS using a nationwide trauma registry.\n\n**METHODS**: This retrospective multicenter cohort study was based on data from the TraumaRegister DGU\n\n**RESULTS**: Patients transported by HEMS were younger and more severely injured than those transported by GEMS (mean ISS 23.5 vs. 20.8; ISS\u2009\u2265\u200916: 72.9% vs. 65.4%) and more frequently presented with impaired consciousness and shock. Across all predefined indication-based subgroups, HEMS was associated with higher rates of the evaluated interventions, including advanced airway management in patients with impaired consciousness (96.5% vs. 82.9%), overall chest tube placement in patients with thoracic injuries consistent with pneumothorax (50.5% vs. 40.9%), with substantially higher rates of prehospital chest tube placement in HEMS (14.0% vs. 5.5%), pelvic stabilization in patients with pelvic injuries of AIS severity 3-5 (56.7% vs. 44.0%), cervical spine immobilization in cervical spine injuries (84.1% vs. 77.7%), and tranexamic acid administration in suspected major bleeding (48.7% vs. 22.8%).\n\n**CONCLUSION**: In this nationwide trauma registry analysis, HEMS was consistently associated with higher rates of selected guideline-related interventions across predefined indication-based subgroups. By focusing on patients with predefined guideline-related indications, the present study aimed to improve comparability between HEMS and GEMS beyond crude intervention frequencies. Nevertheless, the observed differences should be interpreted in the context of the observational study design and residual indication-related confounding. Higher intervention rates do not necessarily indicate superior guideline adherence or quality of care in individual patients.\n\n**LEVEL OF EVIDENCE**: III, retrospective comparative cohort study.",
-      "journal": "Eur J Trauma Emerg Surg",
-      "authors": [
-        "Faul P",
-        "Hagebusch P",
-        "Lefering R",
-        "Schweigkofler U",
-        "Aras I",
-        "Egert A",
-        "Koch DA"
-      ],
-      "date": "2026 Oct 21",
-      "doi": "10.1007/s00068-026-03367-2",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "Haemorrhage",
-        "Prehospital",
-        "Systems/QI",
-        "Thoracic"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "pneumothorax",
-          "strength": "weak",
-          "topic": "Thoracic"
-        },
-        {
-          "keyword": "tranexamic acid",
-          "strength": "weak",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "prehospital trauma",
-          "strength": "weak",
-          "topic": "Prehospital"
-        },
-        {
-          "keyword": "helicopter emergency",
-          "strength": "weak",
-          "topic": "Prehospital"
-        },
-        {
-          "keyword": "HEMS",
-          "strength": "weak",
-          "topic": "Prehospital"
-        },
-        {
-          "keyword": "prehospital",
-          "strength": "weak",
-          "topic": "Prehospital"
-        },
-        {
-          "keyword": "trauma registry",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42905143/"
-    },
-    {
-      "pmid": "42905142",
-      "title": "Preoperative prevalence and risk factors for thromboembolic events following tibial plateau fractures: a retrospective analysis of an underestimated risk.",
-      "abstract": "**BACKGROUND**: Tibial plateau fractures (TPF) are complex intra-articular injuries carrying a high risk of deep vein thrombosis (DVT), muscular vein thrombosis (MVT) and pulmonary embolism (PE). Preoperative thrombosis is frequently clinically silent yet may cause serious complications, whereas its detection delays definitive surgery. This study assessed the prevalence and risk factors of preoperative venous thromboembolic events (VTE) in surgically treated TPF before and after implementation of routine duplex ultrasound screening.\n\n**METHODS**: In this retrospective single-centre study at a level 1 trauma centre, all adult patients surgically treated for traumatic TPF (AO 41B/C) between January 2015 and August 2025 were reviewed (547 patients, 554 fractures). Until August 2020 duplex ultrasound (DUS) was performed only on clinical suspicion; from August 2020 onward routine preoperative DUS was progressively implemented. VTE were confirmed by DUS or CT angiography. Prevalences are reported per fracture and patient characteristics per patient; regression analyses were performed at fracture level, except for the patient-related model.\n\n**RESULTS**: With DUS restricted to clinical suspicion (cohort A; 246 fractures), the detected prevalence of preoperative VTE was 3.7% (95% CI 1.9-6.8) and that of DVT 2.4% (1.1-5.2). Under routine screening (cohort B; 205 screened fractures) it was 20.0% (15.1-26.0) and 17.1% (12.5-22.8), respectively, 82.9% of DVT being distal. Given the different diagnostic strategies, this reflects the higher diagnostic yield of screening rather than a true increase in VTE. In cohort B, 28 of 41 VTE (68.3%) and 24 of 35 DVT (68.6%) were clinically silent. Two patients had in-hospital cardiac arrest from PE: one died from a DVT undetected before screening was introduced, the other had an asymptomatic DVT identified by screening. VTE was independently associated with pre-existing therapeutic anticoagulation (adjusted OR 2.96, 95% CI 1.10-7.98) and with the duration of external fixation (adjusted OR 1.11 per day, 1.02-1.20). High-grade closed soft-tissue injury (adjusted OR 2.41, 1.07-5.45), polytrauma (adjusted OR 2.24, 1.07-4.68) and initial external fixation (univariable OR 3.60, 1.76-7.35) were also associated with VTE, but none remained significant after accounting for fixation duration (adjusted OR 1.42, 0.52-3.89; 1.96, 0.76-5.05; 0.62, 0.12-3.27), i.e. risk was driven by time in the fixator rather than by external fixation as such.\n\n**CONCLUSIONS**: Surgically treated TPF carry a substantial burden of preoperative VTE, and routine DUS reveals a high proportion of clinically silent thrombosis that would otherwise remain undetected. Severe closed soft-tissue injury, pre-existing therapeutic anticoagulation and, above all, the duration of external fixation may help to identify patients at increased risk. As two diagnostic rather than two treatment strategies were compared, the study cannot determine whether screening improves outcomes or reduces PE; prospective evaluation of structured screening and risk-adapted thromboprophylaxis is warranted.",
-      "journal": "Eur J Trauma Emerg Surg",
-      "authors": [
-        "Herold J",
-        "Lorenz ED",
-        "Eymann H",
-        "Lohse F",
-        "Kamin K",
-        "Walther EJ",
-        "M\u00e4der M",
-        "Panchyrz I",
-        "Werth S",
-        "Weiss N",
-        "Kleber C",
-        "Schaser KD"
-      ],
-      "date": "2026 Oct 21",
-      "doi": "10.3238/arztebl.m2025.0075",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "polytrauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "trauma centre",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42905142/"
-    },
-    {
-      "pmid": "42904944",
-      "title": "Cluster Versus Individual Randomization in Prehospital, Emergency and Critical Care Trials: A Meta-Epidemiological Study.",
-      "abstract": "**OBJECTIVES**: Cluster-randomized clinical trials (cRCTs) are pooled with individually randomized clinical trials (iRCTs) in meta-analyses. However, cRCTs are associated with methodological characteristics potentially inducing systematic differences compared with iRCTs. In acute settings, trial inclusion is time-sensitive, exacerbating inclusion-based biases. We conducted a meta-epidemiological study to assess deviations in effect estimates between cRCTs and iRCTs in these settings.\n\n**DATA SOURCES**: A systematic literature search was conducted in PubMed and Embase.\n\n**DATA SELECTION**: We screened and identified all meta-analyses in prehospital, emergency, or critical care within the last decade that included at least one cRCT and one iRCT.\n\n**DATA EXTRACTION**: Data were extracted in duplicate from the meta-analyses. If overlapping trials were identified, results were pooled. The primary outcome was mortality; the secondary outcome comprised length-of-stay- or days-alive-type outcomes.\n\n**DATA SYNTHESIS**: Using absolute ln(odds ratio [OR]) for mortality and absolute Hedges' g for the secondary outcome, mean differences (MDs) in effect estimates between cRCTs and iRCTs were analyzed using mixed regression models, presented with 95% CIs. We identified 94 eligible meta-analyses; 44.7% reported on randomization type (cRCT or iRCT). We included 65 meta-analyses in quantitative analyses, encompassing 212 randomized clinical trials (39 cRCTs and 173 iRCTs) and 315,276 patients. No statistically significant difference in absolute ln(OR) for mortality between cRCTs and iRCTs was found (MD, -0.110; 95% CI, -0.093 to 0.313). For length-of-stay- or days-alive-type outcomes, a significant difference in absolute Hedges' g was found (MD, -0.202; 95% CI, -0.392 to -0.012).\n\n**CONCLUSIONS**: A systematic difference between cRCTs and iRCTs in length-of-stay- or days-alive-type outcomes, but not mortality, was identified, with cRCTs reporting smaller effect size magnitudes than iRCTs. With under half of identified meta-analyses reporting on randomization modality, these results highlight the need for improved transparency and statistical consideration of randomization type in future meta-analyses in prehospital, emergency, and critical care.",
-      "journal": "Crit Care Med",
-      "authors": [
-        "L\u00f8nstrup S",
-        "Petersen PL",
-        "Bruun NH",
-        "Klitgaard TL",
-        "Schj\u00f8rring OL"
-      ],
-      "date": "2026 Oct 21",
-      "doi": "10.4103/tjem.tjem_355_22",
-      "tier": "filtered",
-      "topics": [
-        "Prehospital"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "prehospital",
-          "strength": "strong",
-          "topic": "Prehospital"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42904944/"
-    },
-    {
-      "pmid": "42904921",
-      "title": "Pediatric Clinical Interventions and Adverse Safety Events Among Emergency Medical Services Encounters in Agencies With and Without a Pediatric Emergency Care Coordinator: An Observational Study.",
-      "abstract": "**OBJECTIVES**: The purpose of this study was to compare the frequency and types of adverse safety events (ASEs) and potential harm in a diverse population of pediatric emergency medical services (EMS) encounters. As a secondary aim we evaluated the association between prehospital pediatric emergency care coordinators (PECCs) in EMS agencies on the frequency, type and harm severity of ASEs.\n\n**METHODS**: This was a cross-sectional study of EMS and hospital records for children <18 years who received care from 15 EMS agencies from 2019 to 2023, using a validated ASE chart review tool. Frequency and types of ASEs associated with three different categories of clinical interventions (procedures, medication, and fluid administration) were captured. ASEs were assigned to three severities of harm: Harm Unlikely, Mild Temporary Harm, or Permanent/Severe Harm. EMS Physicians verified ASEs and harm severity.\n\n**RESULTS**: There were 2219 records included in the analysis, 995 from PECC agencies (44.8%). Median patient age was 12.5 years (IQR 6-15). In total, 551 (55.4%; CI: 52.3, 58.5) PECC agency patients had a procedure compared to 328 patients of agencies without a PECC (26.8%; CI: 24.3, 29.3; p < 0.001). Compared to non-PECC agency patients, PECC agency patients were more likely to receive medications (23.4% vs 7.7%, p< 0.001) and receive intravenous fluids (12.9% vs 4.6%, p< 0.001). In total, 290 ASEs were identified, the most frequent of which was the failure to perform a procedure or administer a medication or fluids (43.1%, CI: 37.4, 48.8). There were differences between PECC and non-PECC agencies in the frequency of ASEs in procedures (13.7% vs, 20.0%, p\u2009=\u20090.003). The assigned severity of ASE Mild Temporary and Permanent/Severe Harm was lower for procedures in PECC versus non-PECC agencies, respectively (28.6%, CI: 29.5, 48.5 and 63.3%, 95% CI: 69.6, 88.4, p < 0.001).\n\n**CONCLUSIONS**: Compared to non-PECC agency care, pediatric care by PECC agencies was associated with more procedures, medication and fluid administration, but fewer ASEs for procedures and lower severity of harm when an ASE occurred. These results indicate that the PECC role may be associated with increased interventions and a reduction in harm associated with procedural care.",
-      "journal": "Prehosp Emerg Care",
-      "authors": [
-        "Cicero MX",
-        "Baird J",
-        "Auerbach M",
-        "Brown L",
-        "Jarabana S",
-        "Adelgais K"
-      ],
-      "date": "2026 Oct 21",
-      "doi": "10.1080/10903127.2026.2752064",
-      "tier": "filtered",
-      "topics": [
-        "Prehospital"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "prehospital",
-          "strength": "weak",
-          "topic": "Prehospital"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42904921/"
-    },
-    {
-      "pmid": "42902959",
-      "title": "Prognostic Value of Thromboelastography Parameters for Early Trauma-Induced Coagulopathy in Severely Injured Patients: A Retrospective Cohort Study.",
-      "abstract": "**BACKGROUND AND IMPORTANCE**: Early trauma-induced coagulopathy (eTIC) is a major contributor to hemorrhage-related mortality after severe trauma. Viscoelastic testing using thromboelastography (TEG) has been increasingly implemented in trauma resuscitation; however, its prognostic value compared with conventional coagulation testing remains uncertain.\n\n**OBJECTIVES**: We evaluated the ability of TEG parameters to detect eTIC, hypofibrinogenemia, and hyperfibrinolysis in severely injured trauma patients. In addition, we assessed their prognostic performance for transfusion requirements and mortality compared with conventional laboratory parameters.\n\n**DESIGN**: Retrospective single-center cohort study.\n\n**SETTINGS AND PARTICIPANTS**: Severely injured adult trauma patients admitted to the resuscitation room of a Level I trauma center, between January 2019 and October 2024 were screened.\n\n**OUTCOME MEASURES AND ANALYSIS**: Primary outcomes were detection of eTIC (INR >\u20091.2), severe coagulopathy (INR >\u20091.5), hypofibrinogenemia (<\u2009200\u2009mg/dL), and thrombocytopenia (<\u2009100,000/\u03bcL). Secondary outcomes included the ability of coagulation parameters to predict the need for transfusion of \u2265\u20095\u2009units of packed red blood cells within the first 24\u2009h after admission and in-hospital mortality.\n\n**RESULTS**: A total of 262 patients were included; median ISS was 29 (IQR 23-41), and in-hospital mortality was 22.8%. eTIC was present in 31.5% of patients. TEG parameters showed moderate discriminatory performance for coagulopathy detection. For eTIC, maximum amplitude achieved an AUC of 0.73, while R-time achieved an AUC of 0.65. Predictive performance improved for severe coagulopathy, with R-time reaching an AUC of 0.81. Hyperfibrinolysis (LY30\u2009>\u20097%) was uncommon (6.9%). Conventional laboratory parameters, particularly INR, consistently outperformed TEG-derived parameters for prediction of transfusion requirements (AUC 0.85) and mortality (AUC 0.79).\n\n**CONCLUSION**: In severely injured trauma patients, conventional coagulation testing, particularly INR, demonstrated superior prognostic performance compared with individual TEG parameters. Viscoelastic testing may provide complementary information but did not replace standard laboratory testing for prediction of transfusion needs or mortality in this cohort.\n\n**TRIAL REGISTRATION**: ClinicalTrials.gov identifier: NCT07186712.",
-      "journal": "Acad Emerg Med",
-      "authors": [
-        "Honnef G",
-        "Zoidl P",
-        "Hallmann B",
-        "Missmann M",
-        "Eichinger M",
-        "Niederer M",
-        "Zajic P"
-      ],
-      "date": "2026 Oct 1",
-      "doi": "10.1097/SLA.0b013e3182658180",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Haemorrhage",
-        "Prehospital",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "trauma centre",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "trauma-induced coagulopathy",
-          "strength": "strong",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "thromboelastography",
-          "strength": "strong",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "packed red blood cells",
-          "strength": "weak",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "trauma resuscitation",
-          "strength": "weak",
-          "topic": "Prehospital"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42902959/"
     }
   ]
 }
