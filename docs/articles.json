@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-21T00:59:39.299860Z",
-  "total_articles": 243,
+  "generated": "2026-11-22T00:00:03.512119Z",
+  "total_articles": 246,
   "all_topics": [
     "Abdominal",
     "Burns",
@@ -379,6 +379,118 @@
   },
   "articles": [
     {
+      "pmid": "43064595",
+      "title": "Does CT seatbelt sign, traumatic abdominal wall hernia or body habitus predict injuries and patient outcomes following a restrained motor vehicle collision? A New Zealand cohort study.",
+      "abstract": "**AIMS**: to assess for associations between CT seatbelt sign (CTSBS), traumatic abdominal wall hernia and central adiposity with the severity of injury and subsequent management following a restrained motor vehicle collision.\n\n**METHODS**: Included patients were all major trauma patients (with an injury severity score \u226512), who were involved in a motor vehicle collision (MVC) and were restrained by a seatbelt, presenting to Christchurch Hospital between July 1st, 2018, and June 30th, 2023. Clinical data was collected prospectively by the Trauma team nursing staff at the time of injury and throughout the patient's admission. Original trauma CT imaging either performed at Christchurch hospital or the presenting hospitals were re-reviewed by a trauma specialist radiologist, as well as a post part 2 FRANZCR final year radiology trainee. The presence of a seatbelt sign, injuries and central adiposity were calculated from these images. Both univariable and multivariable analyses were performed.\n\n**RESULTS**: After exclusions 316 patients were included in the study. For CTSBS, there was Statistically higher incidence and grade of organ injury in both the thoracic and abdominal compartments except for large thoracic and abdominal vascular injuries, spinal injuries and pelvic injuries. Multivariable analysis demonstrated 10.41 times higher rates of death when CTSBS is present albeit with just 11 deaths. Outcomes were also worse when CTSBS was present; Injury severity score (13% higher), number of operating sessions (15% higher), length of ICU stay (64% higher) and hospital stay (32% higher). Regarding traumatic abdominal wall hernias, there was a higher incidence of any intra-abdominal organ injury (p\u202f=\u202f0.042), as well as a higher incidence of GI tract (p\u202f<\u202f0.001) and mesenteric injuries (p\u202f<\u202f0.001). Regarding central adiposity, there was no significant difference of any of the measured outcomes when looking at different central adiposity groups except for number of operating sessions (p\u202f=\u202f0.012).\n\n**CONCLUSION**: The presence of a CTSBS or traumatic abdominal wall hernias are associated with a higher rate of organ injury and worse outcomes. Radiologists should include these signs in their reports. Differences in central adiposity have no significant associations with outcomes as the result of a restrained MVC.",
+      "journal": "Injury",
+      "authors": [
+        "Rouse D",
+        "Shekkeris A",
+        "Lauchlan R",
+        "McCombie A"
+      ],
+      "date": "2026 Nov 11",
+      "doi": "10.1016/j.injury.2026.113901",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Imaging",
+        "Prehospital",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "major trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "injury severity",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "trauma CT",
+          "strength": "weak",
+          "topic": "Imaging"
+        },
+        {
+          "keyword": "trauma team",
+          "strength": "weak",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43064595/"
+    },
+    {
+      "pmid": "43064503",
+      "title": "When drowning surveillance misses the mechanism.",
+      "abstract": "",
+      "journal": "Emerg Med J",
+      "authors": [
+        "Bellini T",
+        "Parri N",
+        "Buratti S",
+        "Spiga G",
+        "Moscatelli A"
+      ],
+      "date": "2026 Nov 20",
+      "doi": "10.1136/emermed-2026-216575",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "drowning",
+          "strength": "strong",
+          "topic": "General Trauma"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43064503/"
+    },
+    {
+      "pmid": "43064337",
+      "title": "Total gastric and intragastric air volumes in immediate post-resuscitation whole-body computed tomography after out-of-hospital cardiac arrest: Association with airway management, aspiration, diaphragmatic position and initial blood gas analysis.",
+      "abstract": "**BACKGROUND**: Gastric distension (GD) may occur during cardiopulmonary resuscitation (CPR), but quantitative human data after out-of-hospital cardiac arrest (OHCA) remain limited. We quantified gastric volumes after OHCA and explored associations with prehospital airway strategy, CT-defined aspiration, diaphragmatic position, and initial blood gases.\n\n**METHODS**: This retrospective single-center study included OHCA patients undergoing post-resuscitation whole-body computed tomography (CT) within 180 minutes of emergency department (ED) admission between January 1, 2020, and March 31, 2025. Total gastric volume (TGV) and intragastric air volume (GAV) were quantified by CT volumetry.\n\n**RESULTS**: Of 255 identified patients, 120 underwent CT within 180 minutes. Median TGV was 594 mL and correlated strongly with GAV (p < 0.001). Among patients with an advanced airway at ED arrival, neither TGV (p = 0.20) nor GAV (p = 0.24) differed significantly between the tracheal airway (TA; n = 87) and supraglottic airway (SGA; n = 28) groups. CT-defined aspiration was numerically more frequent with SGA than TA (78.6% vs. 57.5%; OR 2.7; p = 0.071), whereas neither TGV nor GAV was associated with CT-defined aspiration. Weak positive correlations were observed between initial pCO\n\n**CONCLUSION**: Gastric volumes were high in this selected post-OHCA immediate CT (< 180 minutes) cohort. No significant differences were detected according to recorded prehospital airway strategy, and gastric volume was not associated with CT-defined aspiration. Mechanisms and clinical consequences remain uncertain and require prospective studies before preventive/ therapeutic implications can be established.",
+      "journal": "Resuscitation",
+      "authors": [
+        "van der Laan M",
+        "Jessen R",
+        "Bergrath S",
+        "Ringelstein A",
+        "Reichel KL",
+        "R\u00f6dler JV"
+      ],
+      "date": "2026 Nov 19",
+      "doi": "10.1016/j.resuscitation.2026.111399",
+      "tier": "filtered",
+      "topics": [
+        "Prehospital"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "prehospital",
+          "strength": "weak",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43064337/"
+    },
+    {
       "pmid": "43062117",
       "title": "Frequency of On-Scene Goal-Directed Field Interventions for Pediatric Out-of-Hospital Cardiac Arrest in a Regional System of Care.",
       "abstract": "**OBJECTIVES**: Early on-scene resuscitation improves outcomes from pediatric non-traumatic out-of-hospital cardiac arrest (OHCA); however, for pediatric patients, the early evacuation strategy remains commonplace. We sought to determine the frequency of goal-directed interventions initiated by paramedics prior to transport for pediatric patients with OHCA in a regional emergency medical services (EMS) system.\n\n**METHODS**: In this retrospective observational study and cross-sectional analysis, we analyzed the Cardiac Arrest Registry to Enhance Survival (CARES) and linked electronic patient care reports (ePCR) data for patients aged <15 years treated by EMS for nontraumatic OHCA in Los Angeles (LA) County from January 2021 to December 2022. The primary outcome was the frequency of goal-directed therapies administered on scene prior to transport, which we defined as defibrillation for shockable rhythms and administration of epinephrine and fluid resuscitation for non-shockable rhythms. We also tabulated descriptive statistics regarding arrest characteristics, scene times, frequency of other prehospital treatments, and patient outcomes.\n\n**RESULTS**: Among 176 eligible pediatric OHCA cases analyzed in CARES, 112 (64%) were male, the median age was 10 months (IQR 3-51), and 162 (92%) had an initial non-shockable rhythm. Of these, 156 patients were successfully linked to electronic patient care report (ePCR) records for analyses of prehospital interventions. Among 143 patients with non-shockable rhythms, EMS administered epinephrine before transport in 58 (41%) and fluids in 12 (8%). Among 13 patients with shockable rhythms, EMS delivered defibrillation before transport in 11 (85%). Bag-valve-mask (BVM) use was documented in 80 (51%) patients, although its timing relative to scene departure could not be determined. Median on-scene time was 10\u2009minutes (IQR 5-18). Ten patients (6%) survived to hospital discharge, including 6 (3%) with a favorable neurologic outcome.\n\n**CONCLUSIONS**: In this regional EMS system, fewer than half of patients with non-shockable rhythms received a dose of epinephrine and fewer than one in ten received intravenous fluids prior to transport, whereas most patients with shockable rhythms were defibrillated on scene. Further work is needed to identify barriers to timely delivery of on-scene resuscitative interventions.",
@@ -714,7 +826,7 @@
         "Alosco ML"
       ],
       "date": "2026 Nov 19",
-      "doi": "10.1001/jama.2026.24780",
+      "doi": "10.1186/s13195-021-00928-y",
       "tier": "filtered",
       "topics": [
         "General Trauma"
