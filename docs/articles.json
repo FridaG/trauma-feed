@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-24T04:31:17.928766Z",
+  "generated": "2026-11-25T03:15:32.019667Z",
   "total_articles": 220,
   "all_topics": [
     "Abdominal",
@@ -379,6 +379,356 @@
   },
   "articles": [
     {
+      "pmid": "43076807",
+      "title": "Higher Quality Temperature Control Is Associated With Improved Outcomes Following Out-of-Hospital Cardiac Arrest: A Multicenter Validation Study.",
+      "abstract": "**STUDY OBJECTIVE**: Hypothermic temperature control has not consistently demonstrated a neuroprotective effect, resulting in heterogeneity of use in clinical practice. We evaluated temperature control quality across 4 institutions and its association with clinical outcomes.\n\n**METHODS**: Retrospective analysis of institutional registry data collected between 2021 and 2024 in survivors of out-of-hospital cardiac arrest (OHCA) with Glasgow Coma Scale Motor score less than 6 from 4 academic centers with established cardiac arrest programs. Eligible patients included those 18 years of age or older, treated with hypothermic temperature control (33-36\u00b0C) using a feedback-controlled device, and admitted to an intensive care unit (ICU). A temperature control quality score (0-6) was assigned for each patient. The primary outcome was survival to hospital discharge. The secondary outcome was good neurologic outcome at hospital discharge, defined as a Cerebral Performance Category (CPC) score of 1-2. Univariable and multivariable logistic regressions quantified the relationship between quality of temperature control, as an ordinal variable, and outcomes.\n\n**RESULTS**: Among 356 included patients, most were male (N=224, 62.9%) with mean (standard deviation [SD]) age 58.1 (15.2) years. Most suffered a nonshockable arrest (N=262, 73.6%) and did not receive layperson CPR (N=225, 63.2%). Median [IQR] Pittsburgh Cardiac Arrest Category score was 4 [3,4], mean (SD) lactate 9.1 (4.1) mmol/L, and pH 7.09 (0.17). Median [IQR] preinduction time was 2.3 [1.5 to 3.5] hours and 150 (42.1%) were treated with early neuromuscular blockade. Adjusting for confounders in the multivariable model, an increase of one-point in the temperature control quality score was associated with improved survival at hospital discharge (odds ratio [OR] 1.32; 95% confidence interval [CI], 1.07 to 1.64). A one-point increase in the quality score also resulted in a shift towards lower (improved) CPC score (OR 1.28; 95% CI, 0.05 to 1.55). The direction of effect was consistent across all centers.\n\n**CONCLUSION**: In unresponsive survivors of OHCA, an increase in temperature control quality was associated with improved survival and better neurologic outcome; however, confounding by site, injury severity, or perceived prognosis is possible. Lack of temperature control parameter standardization may influence efficacy and practice variability within pragmatic-design clinical trials possibly contributed to neutral trial results. Prospective trials evaluating the importance of temperature control quality and the population most likely to benefit from hypothermic temperature control are essential.",
+      "journal": "Ann Emerg Med",
+      "authors": [
+        "Beekman R",
+        "McCarthy W",
+        "Nguyen C",
+        "Tam J",
+        "Case N",
+        "Elmer J",
+        "Roy S",
+        "Suliman M",
+        "Beiser DG",
+        "Helwagen E",
+        "Sircelij V",
+        "Coulter D",
+        "Nassal MM",
+        "Salhi HE",
+        "Wira C",
+        "Perman SM",
+        "Gilmore EJ"
+      ],
+      "date": "2026 Nov 23",
+      "doi": "10.1016/j.annemergmed.2026.09.026",
+      "tier": "filtered",
+      "topics": [
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "injury severity",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43076807/"
+    },
+    {
+      "pmid": "43076225",
+      "title": "Prehospital Antibiotics for Patients With Suspected Sepsis: Research Summary.",
+      "abstract": "",
+      "journal": "JAMA",
+      "authors": [],
+      "date": "2026 Nov 24",
+      "doi": "10.1001/jama.2026.25756",
+      "tier": "filtered",
+      "topics": [
+        "Prehospital"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "prehospital",
+          "strength": "strong",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43076225/"
+    },
+    {
+      "pmid": "43076208",
+      "title": "Prehospital Fluid Resuscitation for Patients With Suspected Sepsis: The PITSTOP-Fluids Factorial Randomized Clinical Trial.",
+      "abstract": "**IMPORTANCE**: Early resuscitation with intravenous fluids is recommended for patients with sepsis.\n\n**OBJECTIVE**: To determine the effect of liberal vs more conservative fluid resuscitation strategies in the ambulance on mortality among patients with suspected sepsis.\n\n**DESIGN, SETTING, AND PARTICIPANTS**: Multicenter, 2 \u00d7 2 factorial randomized clinical trial conducted by 4 paramedic services and their destination hospitals in Ontario, Canada. Participants were adults with suspected sepsis, defined as suspected infection, fever (\u226538.0 \u00b0C), and hypotension (systolic blood pressure [SBP] <100 mm Hg), and obtainable intravenous access. Patients were enrolled between March 23, 2020, and August 20, 2025, with last follow-up in December 2025.\n\n**INTERVENTION**: Patients were randomized to receive liberal fluids (up to 2 L of normal saline regardless of subsequent SBP) or usual care (fluids only when SBP <90 mm Hg and stopped when SBP \u2265100 mm Hg) during prehospital care and until transfer of care in the emergency department. (Patients were additionally randomized to receive ceftriaxone vs placebo; analysis of which is reported separately.).\n\n**MAIN OUTCOMES AND MEASURES**: The primary outcome was hospital mortality, defined as death prior to hospital discharge up to day 90. There were 17 secondary outcomes, including all-cause mortality at 90 days, hospitalization, intensive care unit admission, mechanical ventilation, vasopressor therapy, dialysis, and total fluids infused within 24 hours of hospital arrival.\n\n**RESULTS**: Among 1686 randomized patients, 1669 were eligible and 1646 were included in the primary outcome analysis (830 in the liberal fluids group and 816 in the usual fluids group). The median age of patients was 76 (IQR, 63-85) years and 938 (57.0%) were male. Most patients in both groups received a fluid bolus (826/848 [97.4%] in the liberal fluids group; 700/821 [85.3%] in the usual fluids group) during transport, but patients in the liberal fluids group received a larger volume (median, 1500 mL [IQR, 1000-2000 mL]) vs 500 mL [IQR, 175-800 mL] in the usual fluids group; difference, 910.1 mL [95% CI, 857.3-962.9 mL]). Hospital mortality was 149/830 (18.0%) in the liberal fluids group and 149/816 (18.3%) in the usual fluids group (risk ratio, 0.98 [95% CI, 0.80-1.20]; unadjusted risk difference, -0.3 [95% CI, -4.0 to 3.4]; P\u2009=\u2009.82). Among the 17 secondary outcomes, all were similar between groups. Adverse events, including pulmonary edema during transport, were infrequent in both groups.\n\n**CONCLUSIONS AND RELEVANCE**: A more liberal fluid resuscitation strategy for the prehospital management of patients with suspected sepsis did not reduce mortality compared with more restrictive usual care.\n\n**TRIAL REGISTRATION**: ClinicalTrials.gov Identifier: NCT03068741.",
+      "journal": "JAMA",
+      "authors": [
+        "Scales DC",
+        "Rogowsky A",
+        "Seymour CW",
+        "Burry L",
+        "Christenson J",
+        "Daneman N",
+        "Drennan IR",
+        "Hillier M",
+        "Jenneson S",
+        "Klein G",
+        "Mazzulli T",
+        "Moran P",
+        "Morris AM",
+        "Morrison LJ",
+        "Pinto R",
+        "Rubenfeld GD",
+        "Stenstrom R",
+        "Verbeek PR",
+        "Cheskes S"
+      ],
+      "date": "2026 Nov 24",
+      "doi": "10.1001/jama.2026.25614",
+      "tier": "filtered",
+      "topics": [
+        "Prehospital"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "prehospital",
+          "strength": "strong",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43076208/"
+    },
+    {
+      "pmid": "43076185",
+      "title": "Prehospital Fluid Resuscitation for Patients With Suspected Sepsis: Research Summary.",
+      "abstract": "",
+      "journal": "JAMA",
+      "authors": [],
+      "date": "2026 Nov 24",
+      "doi": "10.1001/jama.2026.25735",
+      "tier": "filtered",
+      "topics": [
+        "Prehospital"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "prehospital",
+          "strength": "strong",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43076185/"
+    },
+    {
+      "pmid": "43076168",
+      "title": "Prehospital Antibiotics for Patients With Suspected Sepsis: The PITSTOP-Antibiotics Factorial Randomized Clinical Trial.",
+      "abstract": "**IMPORTANCE**: Early treatment with antibiotics is considered an important intervention to reduce mortality for patients with sepsis.\n\n**OBJECTIVE**: To determine the effect of earlier treatment with antibiotics in the ambulance on 90-day mortality compared with usual treatment in the emergency department.\n\n**DESIGN, SETTING, AND PARTICIPANTS**: This multicenter, 2\u2009\u00d7\u20092 factorial randomized, placebo-controlled trial was conducted among 4 paramedic services and their destination hospitals in Ontario, Canada. Participants were adults with suspected sepsis, defined as suspected infection, fever (\u226538.0 \u00b0C), and hypotension (systolic blood pressure <100 mm Hg). Patients were enrolled between March 23, 2020, and August 20, 2025, with final follow-up in December 2025.\n\n**INTERVENTIONS**: Patients were randomized to receive 1 g of intramuscular ceftriaxone or placebo (and to receive liberal fluids vs usual fluids; reported separately) during prehospital care in the ambulance. All patients could receive open-label antibiotics in the emergency department.\n\n**MAIN OUTCOMES AND MEASURES**: The primary outcome was hospital mortality, defined as death prior to hospital discharge to day 90. There were 17 secondary outcomes, including all-cause mortality at 90 days, hospitalization, intensive care unit admission, use of mechanical ventilation, use of dialysis, positive culture results, and antibiotics within 24 hours of hospital arrival.\n\n**RESULTS**: Among 2091 randomized patients, 2048 were eligible for the primary analysis, with 1026 randomized to receive ceftriaxone and 1022 randomized to receive placebo. The median (IQR) age of patients was 75 (62-85) years and 1162 (56.7%) were males. The mean (SD) time from paramedic arrival at patient to administration of study drug was 37 (36) minutes in the ceftriaxone group and 39 (55) minutes in the placebo group. Most patients (735 of 795 [92.5%] in the ceftriaxone group and 730 of 792 [92.2%] in placebo group) were treated with antibiotics in the hospital after a mean (SD) of 247.3 (207.7) minutes after paramedic arrival among patients in the ceftriaxone group and 252.8 (218.0) minutes among the placebo group. The rate of hospital mortality was 182 of 1009 (18.0%) in the ceftriaxone group and 186 of 1011 (18.4%) in the placebo group (risk ratio, 0.97 [95% CI, 0.81-1.17]; P\u2009=\u2009.77). Of 17 secondary outcomes, all were similar between the groups.\n\n**CONCLUSIONS AND RELEVANCE**: Among patients with suspected sepsis on evaluation by paramedics, earlier treatment with antibiotics in the ambulance did not reduce mortality compared with usual care provided in the emergency department.\n\n**TRIAL REGISTRATION**: ClinicalTrials.gov Identifier: NCT03068741.",
+      "journal": "JAMA",
+      "authors": [
+        "Scales DC",
+        "Rogowsky A",
+        "Seymour CW",
+        "Burry L",
+        "Christenson J",
+        "Daneman N",
+        "Drennan IR",
+        "Hillier M",
+        "Jenneson S",
+        "Klein G",
+        "Mazzulli T",
+        "Moran P",
+        "Morris AM",
+        "Morrison LJ",
+        "Pinto R",
+        "Rubenfeld GD",
+        "Stenstrom R",
+        "Verbeek PR",
+        "Cheskes S"
+      ],
+      "date": "2026 Nov 24",
+      "doi": "10.1001/jama.2026.25627",
+      "tier": "filtered",
+      "topics": [
+        "Prehospital"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "prehospital",
+          "strength": "strong",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43076168/"
+    },
+    {
+      "pmid": "43074051",
+      "title": "Effect of the calming anxiety and relaxation emergency (Abdominal) surgery (CARES) program on patients' pre- and postoperative anxiety management and outcomes: a prospective quasi-experimental study.",
+      "abstract": "**BACKGROUND**: Patients undergoing emergency abdominal surgery often have limited time to prepare. This may lead to anxiety, which can adversely affect postoperative recovery. A structured intervention, Calming Anxiety and Relaxation for Emergency (Abdominal) Surgery (CARES) program, was developed to address this concern.\n\n**METHODS**: In this prospective quasi-experimental study, the effects of the CARES program on pre- and postoperative anxiety were evaluated among adult patients undergoing emergency abdominal surgery at a regional hospital in Hong Kong. Participants were allocated to either the intervention group (IG) or the control group (CG) based on bed availability. The IG received the CARES program (pre- and postoperative counseling sessions plus daily self-practiced body-mind exercises for five consecutive days) in addition to usual care, while the CG received usual care alone. Pre- and postoperative anxiety and postoperative pain were measured using a visual analog scale and analyzed over time using a generalized estimating equation model. Postoperative analgesic consumption, time to first flatus, and length of hospital stay were compared between the groups using independent t-tests or Mann-Whitney U tests. All analyses adhered to the intention-to-treat principle.\n\n**RESULTS**: A total of 120 participants were enrolled and allocated equally to the IG and CG (n\u2009=\u200960 per group). The overall discontinuation rate was 3.33%. Compared with the CG, the IG demonstrated significantly lower anxiety immediately before transfer to the operating theatre (\u03b2 = -1.67; 95% confidence interval [CI]: -2.18 to -\u20091.15; p < .01) and on postoperative days one (\u03b2 = -1.29; 95% CI: -2.30 to -\u20090.27; p = .01) and three (\u03b2 = -1.47; 95% CI: -2.58 to -\u20090.35; p = .01). Additionally, the IG demonstrated a significantly shorter time to first postoperative flatus (p = .01) and length of hospital stay (p = .02). No significant between-group differences were observed in postoperative pain reduction or analgesic consumption.\n\n**CONCLUSION**: The CARES program was found to be feasible for clinical implementation and significantly reduced pre- and postoperative anxiety, time to first postoperative flatus, and length of hospital stay in patients undergoing emergency abdominal surgery.\n\n**TRIAL REGISTRATION**: Chinese Clinical Trial Registry (NO. ChiCTR2300076274) on September 28, 2023.",
+      "journal": "World J Emerg Surg",
+      "authors": [
+        "Tse WLW",
+        "Cheung YSS",
+        "Cheng HY"
+      ],
+      "date": "2026 Aug 31",
+      "doi": "10.1186/s12913-020-05434-9",
+      "tier": "core",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43074051/"
+    },
+    {
+      "pmid": "43073135",
+      "title": "An evaluation of the variability in the number of high-level trauma centers per million people in major metropolitan areas in the United States.",
+      "abstract": "**INTRODUCTION**: The number of High-Level Trauma Centers (HLTCs) (Level I or II) per million people in major metropolitan areas is variable. The purpose of this study was to describe that variability and to determine if it was correlated with certain metropolitan area characteristics.\n\n**METHODS**: A cross-sectional study of metropolitan areas with populations \u2265\u202f2 million was performed using United States census data. The number of HLTCs per million people was calculated. The correlation between the number of HLTCs per million and the following variables was evaluated for: population density, race, land area, median household income, employment rate, uninsured rate, poverty rate, and public health insurance coverage rate. The association between State Certificate of Need (CON) laws for new trauma center development and HLTC per million, proportion of for-profit hospitals, and proportion of teaching hospitals was also evaluated.\n\n**RESULTS**: There were 35 metropolitan areas identified with a population of 2000,000 or more. The median number of HLTCs per million people was 1.51 (IQR 1.06-1.79) and ranged from 0.43 in Cincinnati to 3.93 in Chicago. The median ratio of level 1 to level 2 trauma centers located in each metropolitan area was 1.0 (IQR 0.5-1.7) and ranged from 0.25 to 5.0. Areas in states with a CON (n\u202f=\u202f22), compared to those without a CON (n\u202f=\u202f13), had a higher median percentile of teaching hospitals (100% vs. 76.9%, p\u202f=\u202f0.01) and no observed difference in the median number of HLTCs per million (1.4 vs. 1.6, p\u202f=\u202f0.5) or median percentile of for-profit HLTCs (0.0% vs. 10.0%, p\u202f=\u202f0.65). The number of HLTCs per million was found to be negatively correlated with uninsured rates (R -0.33, p\u202f=\u202f0.04) and was not correlated with population density, land area, race, median household income, employment rate, poverty rate, or the public health insurance coverage rate (p\u202f>\u202f0.05).\n\n**CONCLUSIONS**: The number of HLTCs per million across major metropolitan areas varied widely. Metropolitan areas in states with a CON had a higher proportion of teaching hospitals.\n\n**LEVEL OF EVIDENCE**: Cross-sectional study, Level IV.",
+      "journal": "Injury",
+      "authors": [
+        "Wohl RB",
+        "York WY",
+        "Moore EE",
+        "Ahn J",
+        "Schenker ML",
+        "Parry JA"
+      ],
+      "date": "2026 Nov 19",
+      "doi": "10.1016/j.injury.2026.113907",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43073135/"
+    },
+    {
+      "pmid": "43072323",
+      "title": "Molecular, histopathological, and biomechanical evaluation of cutaneous wound healing following topical application of xenogenic leukocyte- and platelet-rich plasma (L-PRP) in a rat excisional model.",
+      "abstract": "This study evaluated the effects of topical application of a xenogenic leukocyte- and platelet-rich fibrin (L-PRF) membrane on cutaneous wound healing in a rat excisional wound model. Forty-five adult male Sprague-Dawley rats were randomly assigned to L-PRF-treated, positive control (Mupirocin Ointment), and negative control groups. Full-thickness dorsal skin wounds were created, and treatments were applied for seven consecutive days. Wound healing was assessed through hydroxyproline content, expression of vascular endothelial growth factor (VEGF) and platelet-derived growth factor-B (PDGF-B), histopathology, and biomechanical testing. The L-PRF-treated group showed significantly higher hydroxyproline levels on days 7 and 14 compared with both control groups (p\u202f<\u202f0.05). VEGF and PDGF-B expression was significantly upregulated, particularly during the early healing phase. Histopathological examination demonstrated improved granulation tissue formation, neovascularization, collagen maturation, and re-epithelialization by day 14 (p\u202f<\u202f0.05). Biomechanical analysis revealed significantly greater yield point and ultimate tensile strength in L-PRF-treated wounds compared with controls (p\u202f<\u202f0.05). Topical application of xenogenic L-PRF enhanced cutaneous wound healing by promoting angiogenesis, collagen synthesis, tissue remodeling, and mechanical strength. These findings support the potential of L-PRF as a regenerative biomaterial for improving wound repair.",
+      "journal": "Injury",
+      "authors": [
+        "Shaikhzadeh A",
+        "Naeini AT",
+        "Bigham-Sadegh A",
+        "Ebadi A",
+        "Nazifi S",
+        "Hosseinzadeh S"
+      ],
+      "date": "2026 Nov 13",
+      "doi": "10.1016/j.injury.2026.113805",
+      "tier": "filtered",
+      "topics": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43072323/"
+    },
+    {
+      "pmid": "43072322",
+      "title": "Motorcycle gas-tank associated pelvic trauma: A scoping review of reported injury patterns, management and outcomes.",
+      "abstract": "**BACKGROUND**: Motorcycle gas-tank contact has been implicated in pelvic ring injury, often as part of a broader polytrauma presentation. This scoping review mapped reported injury morphology, associated injuries, management and outcomes according to the strength of tank-contact evidence.\n\n**METHODS**: This scoping review was conducted in accordance with PRISMA-ScR guidance. MEDLINE/PubMed, Embase, Scopus and Web of Science databases were searched from inception to 20 September 2026. English-language clinical and forensic reports linking gas-tank contact to individually extractable pelvic ring injuries were included. Aggregate studies provided separate contextual evidence. Four contact-evidence tiers were grouped into higher-certainty and lower-certainty or inferred contact. Findings were synthesised descriptively using assessable denominators.\n\n**RESULTS**: Twenty studies reported 27 patients: 10 with higher-certainty and 17 with lower-certainty evidence of gas tank contact. Posterior-ring involvement was documented in 92% (22/24) of assessable patients while combined anterior-posterior injury occurred in 75% (18/24) assessable patients. Urinary, genital or perineal/scrotal/groin injury was documented in all patients in each group. Definitive pelvic fixation was reported in 15 patients with status unreported in 9 patients. Three deaths were reported. Follow-up was reported in 52% (14/27) of patients; mean follow-up was 8.3 months.\n\n**CONCLUSION**: Published gas tank-associated cases show recurring combined anterior-posterior pelvic ring disruption with adjacent genital or perineal trauma. Although selective reporting and uncertain contact attribution prevent confirmation of a gas tank-specific mechanism, these findings highlight the extent of pelvic ring involvement and associated soft-tissue injury. These findings provide an anatomical basis for future studies linking injury morphology with independently documented road traffic collision mechanisms.",
+      "journal": "Injury",
+      "authors": [
+        "DI HH",
+        "Paraic C",
+        "Thomas M",
+        "Marzanne B",
+        "John Q",
+        "Michael L",
+        "Brendan O",
+        "Martin K"
+      ],
+      "date": "2026 Nov 20",
+      "doi": "10.1016/j.injury.2026.113923",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Pelvic"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "polytrauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "pelvic ring",
+          "strength": "weak",
+          "topic": "Pelvic"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43072322/"
+    },
+    {
+      "pmid": "43072321",
+      "title": "Presentation and treatment differences between upper extremity and lower extremity fracture-related infections.",
+      "abstract": "**INTRODUCTION**: Fracture-related infection (FRI) presents a significant challenge with high rates of treatment failure and subsequent complication rates. To develop more effective and specific therapies for FRI, the purpose of this study is to analyze presentation, treatment, and outcomes of upper vs. lower extremity FRI, which were hypothesized to have distinct clinical profiles.\n\n**METHODS**: Retrospective cohort at a Level 1 Trauma Center. Adult patients with operatively managed FRI from 2013 to 2020 with at least 6 months follow-up were included. Total operations, operations to clear infection, implant exchange, retention, and removal were compared between upper and lower extremity FRIs.\n\n**RESULTS**: One hundred forty-six patients were included. Forty-six had upper extremity FRI; 100 had lower extremity FRI. Mean follow-up was 2.7 years (SD 3.2). Lower extremity FRIs were significantly more likely to present with higher-grade soft tissue impairments (I) (p\u202f=\u202f0.010). Implant failure at presentation was more common in upper extremity FRI compared to lower extremity FRI (41.3% vs. 15.0%, p\u202f=\u202f0.001). Upper extremity FRI were more likely to be infected with C. acnes (17% vs. 0%, p\u202f<\u202f0.001). Patients with upper extremity FRI had a lower median number of reoperations until FRI resolution (2 (1-3) vs. 3 (2-4), p\u202f=\u202f0.006). Debridement, antibiotics, and implant retention, removal, and exchange were performed similarly in upper vs. lower extremity FRI.\n\n**CONCLUSION**: Causative bacteria, presentation characteristics and operative interventions required were different between upper and lower extremity FRIs. Upper and lower extremity FRIs exhibit distinct clinical profiles and prospective studies may be useful to compare extremity-specific treatment protocols.\n\n**LEVEL OF EVIDENCE**: III.",
+      "journal": "Injury",
+      "authors": [
+        "McIlwain RN",
+        "Litten RM",
+        "Alcaide D",
+        "Yeager M",
+        "Wilson AL",
+        "Carter K",
+        "Malhotra A",
+        "Johnson JP",
+        "Spitler CA"
+      ],
+      "date": "2026 Nov 19",
+      "doi": "10.1016/j.injury.2026.113922",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43072321/"
+    },
+    {
+      "pmid": "43072057",
+      "title": "The national diagnostic landscape of acute pelvic and lower abdominal pain in reproductive-age women presenting to U.S. emergency departments.",
+      "abstract": "**STUDY OBJECTIVE**: To characterize the national distribution of emergency department (ED) diagnoses among reproductive-age women presenting with pelvic or lower abdominal pain and describe the frequency of selected time-sensitive diagnoses and ED disposition.\n\n**METHODS**: We conducted a retrospective, cross-sectional analysis of the National Hospital Ambulatory Medical Care Survey (NHAMCS) ED public-use files from 2018 through 2022. We included female patients aged 18 to 49\u202fyears whose first-listed reason for visit was pelvic pain (reason-for-visit code 17751) or lower-abdominal pain (15452), excluding trauma-related visits. The primary outcome was the distribution of the first-listed ED diagnosis. Secondary outcomes included selected time-sensitive diagnoses, disposition, and documented diagnostic evaluation and treatment. Analyses incorporated NHAMCS survey weights, strata, and primary sampling units to generate nationally representative estimates.\n\n**RESULTS**: Among 86,864 sampled ED visits, 411 met the primary cohort definition, representing an estimated 637,594 visits annually (95% CI, 536,466-738,723). A nonspecific abdominal or pelvic pain diagnosis was the most common first-listed diagnosis (42.5%; 95% CI, 36.4%-48.9%), followed by urinary tract infection (11.1%) and ovarian cyst (8.5%). Most other individual time-sensitive diagnoses were statistically unreliable because of small sampled counts. Overall, 91.3% of visits resulted in discharge and 6.9% in admission. Diagnostic services were ordered or provided in 97.9% of visits. Visits receiving a nonspecific diagnosis had a similar mean number of diagnostic services as visits receiving another coded diagnosis (5.7 vs 5.7; P\u202f=\u202f.89) and were more likely to include imaging (78.6% vs 62.1%; difference, 16.5 percentage points; 95% CI, 4.2-28.8; P\u202f=\u202f.009). In a sensitivity cohort in which pelvic or lower-abdominal pain appeared in any reason-for-visit field (n\u202f=\u202f740), the principal pattern persisted, with nonspecific diagnoses accounting for 31.4% of visits.\n\n**CONCLUSIONS**: Among reproductive-age women presenting to U.S. EDs with pelvic or lower abdominal pain, nonspecific abdominal or pelvic pain was the most common final diagnosis, while individual time-sensitive diagnoses were uncommon and most patients were discharged. The frequent use of documented diagnostic services among visits ending in a nonspecific diagnosis suggests that diagnostic uncertainty often persists despite substantial ED evaluation. These national estimates provide epidemiologic context for a diagnostically challenging ED presentation and may inform future research in diagnostic reasoning, imaging, and clinical decision support.",
+      "journal": "Am J Emerg Med",
+      "authors": [
+        "Petelinsek S",
+        "Kelner R",
+        "Hughes PG"
+      ],
+      "date": "2026 Nov 18",
+      "doi": "10.1016/j.ajem.2026.11.028",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43072057/"
+    },
+    {
       "pmid": "43071733",
       "title": "Antithrombin III outperforms fresh frozen plasma and improves memory recovery after severe isolated traumatic brain injury.",
       "abstract": "**BACKGROUND**: Fresh frozen plasma (FFP) administered after severe isolated traumatic brain injury (TBI) has been shown to affect subsequent neurological recovery. One component of FFP, antithrombin III (AT3), demonstrates anti-inflammatory effects on the injured brain and may be a key FFP element that supports post-TBI recovery. We hypothesized that AT3 better improves cognition following severe, isolated TBI when compared with FFP.\n\n**METHODS**: Male CD1 mice (n=29) underwent sham craniectomy (S) or craniectomy followed by severe TBI via controlled cortical impact. Mice received saline (placebo, P), FFP (10\u00a0mL/kg), or AT3 (250\u00a0IU/kg) 30 minutes after injury. Morris water maze exercises on days 6 to 14 characterized cued/spatial learning and memory. Decreased latency/distance and increased frequency/duration across four zones [zone 5 (escape platform), zone 6/zone 7 (concentric circular areas surrounding zone 5)], and zone 1 (quadrant containing zone 5) indicated superior learning and memory. The Garcia Neurological Test (GNT) allowed scoring of global animal neurological function following surgery on days 1 to 14.\n\n**RESULTS**: Mice treated with FFP or AT3 had consistent improvements in GNT scores back to sham levels across all the post-TBI experimental period from day 1 through 14 (p<0.01). Cued learning was unaffected by FFP or AT3. Spatial learning was consistently worsened by FFP but not by AT3, which, in comparison, demonstrated reduced latency to zones 5, 6, and 7 (p<0.01). FFP had no effect on memory, but AT3 consistently improved memory, decreasing latency to zones 1, 5, 6, and 7 (p<0.01) and increasing frequency into zones 1, 6, and 7 (p<0.01). There were no differences in brain or lung edema between groups.\n\n**CONCLUSION**: FFP after severe TBI improves global neurological recovery but appears to worsen spatial learning. Instead, AT3 confers better neurological recuperation, particularly through improved memory recovery. Further inquiry is warranted to identify beneficial and deleterious components of commonly transfused FFP to enhance recovery after severe blunt TBI.",
@@ -560,7 +910,7 @@
         "Estcourt LJ"
       ],
       "date": "2026 Nov 23",
-      "doi": "10.1002/14651858.CD009072.pub4",
+      "doi": "10.1055/s-0042-1757897",
       "tier": "filtered",
       "topics": [
         "Haemorrhage"
@@ -8222,474 +8572,6 @@
       ],
       "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/42947661/"
-    },
-    {
-      "pmid": "42945813",
-      "title": "Association between transfer pathways and functional outcomes in severe trauma patients: a cohort study using the PATOS registry.",
-      "abstract": "**OBJECTIVE**: Optimal transport strategies for severe trauma remain debated, particularly in Asia. We evaluated the association between interhospital transfer and functional outcome and its consistency across Asian trauma systems.\n\n**METHODS**: This cohort study used the Pan-Asian Trauma Outcome Study (PATOS) registry. We analyzed patients with severe trauma (Injury Severity Score\u202f>\u202f15) in South Korea, Malaysia, and Vietnam (2015-2022). The exposure was interhospital transfer (Transfer) versus direct transport to a definitive-care hospital (Direct). The primary outcome was a favorable functional outcome (modified Rankin Scale \u22643). The primary model was a country fixed-effect logistic regression estimating the total effect; country-specific estimates and a transport-pathway \u00d7 country interaction were pre-specified.\n\n**RESULTS**: Of 9857 patients (Direct, n\u202f=\u202f6725; Transfer, n\u202f=\u202f3132; 89.2% of transfers in South Korea), a favorable functional outcome occurred in 4701/6403 (73.4%) versus 1830/2991 (61.2%). Transfer was associated with lower odds overall (adjusted odds ratio [aOR] 0.86, 95% confidence interval [CI] 0.78-0.95), but estimates differed by country (South Korea 1.06, 0.95-1.18; Malaysia 0.53, 0.36-0.80; Vietnam 0.17, 0.11-0.25; interaction P\u202f<\u202f0.001; I\n\n**CONCLUSION**: Interhospital transfer was associated with a lower likelihood of a favorable functional outcome, but this was not uniform across the three trauma systems and was dominated by Korean data, in which no association was observed. These findings require confirmation in analyses anchored at injury or first medical contact.",
-      "journal": "Am J Emerg Med",
-      "authors": [
-        "Nakagawa K",
-        "Sagisaka R",
-        "Morioka D",
-        "Kimura R",
-        "Komine T",
-        "Chiang WC",
-        "Do Shin S",
-        "Jamaluddin SF",
-        "Huy LB",
-        "Tanaka H"
-      ],
-      "date": "2026 Oct 20",
-      "doi": "10.1016/j.ajem.2026.10.021",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "injury severity",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42945813/"
-    },
-    {
-      "pmid": "42945812",
-      "title": "Injury patterns and early operative demand in a combined military and civilian casualty cohort: A single-centre study from the first 11\u202fweeks of the 2023 Israel-Hamas war.",
-      "abstract": "**INTRODUCTION**: Modern asymmetric warfare and large-scale terror attacks produce distinctive wounding patterns that differ from conventional state-on-state conflict and impose specific early demands on receiving trauma systems. The 7 October 2023 attack on southern Israel and the ensuing war generated a compressed surge of combined civilian and military casualties. We characterized injury patterns and linked them to early in-hospital resource use at a single tertiary trauma centre across the opening weeks of the conflict.\n\n**METHODS**: We performed a retrospective descriptive cohort study of 192 consecutive trauma casualties admitted between 7 October and 24 December 2023. Demographics, mechanism of injury, injured anatomical regions, Injury Severity Score (ISS) and acute interventions were abstracted from the institutional trauma dataset. Mechanism and anatomical categories were not mutually exclusive. Variables were summarised as medians (IQR) or counts (percentages); missing data were not imputed and percentages were computed over non-missing observations.\n\n**RESULTS**: Casualties were young (median age 24\u202fyears, IQR 21-35) and predominantly male (84.4%). Penetrating (43.2%) and shrapnel (31.2%) mechanisms predominated, followed by acoustic trauma (12.0%). Extremities were most often injured (lower limb 41.7%, upper limb 35.4%); 68.8% had at least one extremity injury and 37.0% had two or more injured regions. Median ISS was 9 (IQR 4-16); 26.5% of those with a recorded ISS had ISS \u226516. Blast and crush carried the highest median ISS (25 and 16). Early resource use was substantial: 23.4% required emergency surgery via direct emergency-room-to-operating-room transfer, 10.9% mechanical ventilation and 5.2% packed red-cell transfusion.\n\n**CONCLUSIONS**: This extremity-predominant, penetrating-and-shrapnel profile, with a small but disproportionately severe blast and crush subgroup and frequent acoustic trauma, translated into early demand for emergency surgery, ventilation and transfusion. These patterns support resourcing limb-salvage and damage-control surgery, blood-bank and intensive-care readiness, and audiologic follow-up in military and mass-casualty trauma planning.",
-      "journal": "Am J Emerg Med",
-      "authors": [
-        "Sasson I",
-        "Chaushu H",
-        "Ungar OJ"
-      ],
-      "date": "2026 Oct 20",
-      "doi": "10.1016/j.ajem.2026.10.022",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "injury severity",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "trauma centre",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42945812/"
-    },
-    {
-      "pmid": "42945810",
-      "title": "Prehospital factors associated with calcium derangements upon arrival to the trauma center from scene - A subanalysis of a multicenter prospective study.",
-      "abstract": "**BACKGROUND**: Existing data suggests that hypocalcemia may be a factor in the lethal diamond of trauma. This could offer a potential opportunity for prehospital interventions to address these derangements. We performed a preplanned secondary analysis of data from a prospective multicenter study on calcium derangements in hemorrhage patients upon arrival at trauma centers.\n\n**METHODS**: We conducted a prospective multicenter observational study of trauma patients admitted at the highest level of activation for three participating centers where an ionized calcium level was measured upon arrival. Data from the prehospital records were collected from the Emergency Medical Services reports. We compared study variables between patients who were hypocalcemic, eucalcemic, and hypercalcemic.\n\n**RESULTS**: There were 1270 participants enrolled in our primary study, of whom 1047 arrived by EMS from the scene meeting inclusion for this analysis. Of these, 235 were hypocalcemic and 39 were hypercalcemic upon arrival. Patients with calcium derangements had lower survival compared to patients without derangements. Of those who were hypocalcemic, 32.8% received prehospital blood products, compared to 25.6% of those who were hypercalcemic upon arrival. There were 5 (12.8%) who were hypercalcemic that received prehospital calcium, potentially indicating iatrogenic hypercalcemia. Elevated prehospital shock indices were associated with both derangements. Of the 718 who received no fluids or blood, 116 (16.1%) were hypocalcemic and 27 (3.7%) were hypocalcemic with 2 hypercalcemic participants receiving calcium. Of those 136 that received a blood product prehospital, 77 were hypocalcemic (56.6%) with 1 receiving calcium, and 10 (7.4%) were hypercalcemic with 3 receiving calcium, and the remaining were eucalcemic with 4 (2.9%) receiving calcium.\n\n**CONCLUSIONS**: Both hypocalcemia and hypercalcemia occurred in the setting of blood product and no blood product administration. Our study suggests that currently available assessment methods are inadequate for predicting the presence of a calcium derangement, both high and low.\n\n**CLINICALTRIALS**: gov registration: NCT05885256.",
-      "journal": "Am J Emerg Med",
-      "authors": [
-        "Schauer SG",
-        "Nicholson SE",
-        "Rizzo JA",
-        "Wright FL",
-        "Arana AA",
-        "April MD",
-        "Bynum JA",
-        "Cheng AC",
-        "Fisher AD",
-        "Gurney JM",
-        "Jenkins DH",
-        "Kirkwood BJ",
-        "Long BJ",
-        "Bebarta VS",
-        "Cap AP"
-      ],
-      "date": "2026 Sep 23",
-      "doi": "10.1016/j.ajem.2026.09.029",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Haemorrhage",
-        "Prehospital",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "trauma centre",
-          "strength": "strong",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "blood product",
-          "strength": "weak",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "prehospital blood",
-          "strength": "weak",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "prehospital",
-          "strength": "strong",
-          "topic": "Prehospital"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42945810/"
-    },
-    {
-      "pmid": "42945746",
-      "title": "The blunt truth: The role of marijuana in PTSD after intentional traumatic injury.",
-      "abstract": "**BACKGROUND**: Survivors of interpersonal violence experience high rates of post-traumatic stress disorder (PTSD), and rates of marijuana use are rising among young adults. There is however, limited understanding of marijuana use patterns among survivors of interpersonal violence with PTSD. We evaluated relationships between PTSD and marijuana use following injury and hypothesized that PTSD-positive patients would report elevated follow-up marijuana use.\n\n**METHODS**: Between 10/2019 and 7/1/2024, we prospectively collected data on patient demographics, PTSD, substance use (including marijuana), and PROMIS-29 quality of life domains for adult trauma patients admitted to an urban, academic, level-1 trauma center. Participants were screened at baseline and at 6- or 12-month follow-up. Injury characteristics were collected from the institutional trauma registry. Among the intentionally injured, we compared patients by follow-up PTSD screening results. We excluded patients who screened positive for PTSD at baseline. Using multivariable logistic regression we assessed relationships between follow-up PTSD and marijuana use, including demographic and injury characteristics as covariates. Our primary outcome was dichotomized follow-up marijuana use.\n\n**RESULTS**: Of 105 participants injured by intentional trauma with complete follow-up data, 69 screened negative for PTSD at baseline and therefore were included in this analysis. Patients who screened positive for PTSD at follow-up had greater marijuana use at baseline (29% vs 3%, p\u202f=\u202f0.002) and follow-up (42% vs 13%, p\u202f=\u202f0.007), and worse PROMIS-29 scores in all domains (p\u202f\u2264\u202f0.01), compared to PTSD-negative patients. In multivariable analysis, screening positive for PTSD was associated with 7.1 times greater odds of marijuana use at follow-up (p\u202f=\u202f0.007, CI:1.7, 29.5).\n\n**CONCLUSIONS**: PTSD and marijuana use were closely associated in survivors of interpersonal violence. Screening efforts should account for marijuana use specifically. Routine screening for marijuana use could improve recognition of psychological challenges after trauma and could help identify patients at risk for development of PTSD.\n\n**LEVEL OF EVIDENCE**: Level III, prognostic/epidemiological.",
-      "journal": "Injury",
-      "authors": [
-        "Kern JA",
-        "Wilson C",
-        "Joshi SA",
-        "Ghio M",
-        "O'Neill K",
-        "Reese J",
-        "Babb R",
-        "Emili P",
-        "Williams A",
-        "Seamon MJ",
-        "Kaufman EJ"
-      ],
-      "date": "2026 Oct 23",
-      "doi": "10.1016/j.injury.2026.113789",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "trauma centre",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "trauma registry",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42945746/"
-    },
-    {
-      "pmid": "42945745",
-      "title": "Peripheral nerve blocks reduce opioid requirements in the first 24\u202fh following surgical fixation of acute tibial shaft fractures.",
-      "abstract": "**OBJECTIVES**: To evaluate the effect of peripheral nerve blocks (PNB) on postoperative opioid use, length of stay (LOS), and incidence of acute compartment syndrome (ACS) in patients presenting with acute tibial shaft fractures treated with intramedullary nail (IMN) fixation.\n\n**METHODS**: Design: Retrospective cohort study Setting: Level 1 Academic Trauma Center from 2018 to 2022. Patient Selection Criteria: Patients aged 18-79 years with acute AO/OTA 42A-C tibial shaft fractures treated with IMN within 7 days of injury Outcome Measures and Comparisons: The primary outcome was postoperative opioid use, measured in morphine milligram equivalents (MME), during hospital stay, up to a maximum of 72\u202fh after surgery. Patients who received a preoperative PNB were compared to those who did not receive a block. Secondary outcomes included postoperative LOS and incidence of ACS.\n\n**RESULTS**: 246 patients were eligible for analysis of which 78 (32%) received a PNB (PNB=yes) and 168 (68%) did not (PNB=no). Mean MME were significantly lower in the PNB=yes group compared to the PNB=no group at 24\u202fh (73 vs. 138, p\u202f<\u202f0.001). Controlling for age, Injury Severity Score (ISS), and time to surgery, a multivariable regression model demonstrated a 36% reduction in MME per hour for patients that received PNBs. There were 3 cases of ACS in PNB=No and 1 in PNB=Yes. All 3 patients without a PNB were diagnosed within 2 days of surgery and underwent uncomplicated fasciotomies. One patient with a PNB re-presented to the hospital 5 days postoperatively, underwent fasciotomies, and was found to have anterior and lateral compartment necrosis.\n\n**CONCLUSION**: PNBs for select acute tibial shaft fractures treated with IMN were associated with decreased opioid requirements in the first 24\u202fh after surgery. No effect was noted beyond 24\u202fh after surgery. Extreme vigilance is essential in patients with tibia fractures to monitor for ACS, especially when PNB is utilized.",
-      "journal": "Injury",
-      "authors": [
-        "Khan UA",
-        "Quigley C",
-        "Schulman M",
-        "Holland J",
-        "Ghidei S",
-        "Kim A",
-        "Schulman J",
-        "Gaski G",
-        "Hymes RA"
-      ],
-      "date": "2026 Oct 15",
-      "doi": "10.1016/j.injury.2026.113778",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Orthopaedic",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "injury severity",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "trauma centre",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "compartment syndrome",
-          "strength": "weak",
-          "topic": "Orthopaedic"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42945745/"
-    },
-    {
-      "pmid": "42945744",
-      "title": "The downside of the pull-up: A 10-year national analysis of emergency department visits, 2015-2024.",
-      "abstract": "**BACKGROUND**: To characterize the epidemiology and clinical patterns of injuries related to pull-up and chin-up bars in a nationally representative emergency department (ED) dataset.\n\n**METHODS**: Retrospective cross-sectional analysis of the U.S. Consumer Product Safety Commission National Electronic Injury Surveillance System from January 1, 2015, to December 31, 2024. Cases were identified using product code 3277 with narrative filters for \"pull-up,\" \"chin-up,\" and \"doorway bar,\" excluding barbells and playground equipment. NEISS sampling weights produced national estimates. Annual totals with 95 % confidence intervals were calculated and reported. Injury characteristics were summarized by age group, body region, diagnosis, location, disposition, and a narrative-derived mechanism category (fall, struck by bar, slip or detachment, other).\n\n**RESULTS**: An estimated 40,987 ED visits were attributed to pull-up bar injuries, averaging about 4000 per year, with a peak in 2024 (5421; 95 % CI, 5315-5527). Patients were predominantly male (66.1 %) with a bimodal age distribution centered on children 5-14 years and adults 18-34 years. Craniofacial trauma predominated, with head and face together comprising nearly one-half of presentations, followed by upper-extremity involvement, including shoulder, wrist, and forearm. Laceration, internal head injury, and fracture were the leading diagnoses, with sprain or strain and contusion also frequent. Most incidents occurred in the home, and 93.8 % of patients were treated and released. Falls were the most common mechanism, followed by struck-by events and a subset explicitly involving bar slip or detachment.\n\n**CONCLUSIONS**: Pull-up bar injuries constitute a consistent national burden of craniofacial and upper-extremity trauma concentrated in youth and young adults, largely managed nonoperatively in acute care settings. Improved recognition of exercise-associated injury mechanisms may assist diagnostic accuracy and reduce the burden on emergency and orthopedic services.",
-      "journal": "Injury",
-      "authors": [
-        "Shabbir R",
-        "Layton B",
-        "Kang Z",
-        "Kim B",
-        "Rehman S",
-        "Galos DK"
-      ],
-      "date": "2026 Oct 24",
-      "doi": "10.1016/j.injury.2026.113804",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "TBI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "head injury",
-          "strength": "weak",
-          "topic": "TBI"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42945744/"
-    },
-    {
-      "pmid": "42945743",
-      "title": "How the cause of surgical delay affects mortality in fragility hip fractures: A cohort study.",
-      "abstract": "**BACKGROUND**: Prompt surgery for fragility hip fractures is a cornerstone of care and a key metric within the Best Practice Tariff (BPT) in the United Kingdom. Yet, since 2011, time to theatre has steadily increased, BPT adherence has fallen, and paradoxically, mortality has reduced. It is still unclear if surgical delay is an independent predictor of mortality. Emerging evidence suggests that the causes of surgical delays may be more important determinants of mortality than the delay itself.\n\n**METHODS**: A cohort study of 1769 hip fracture patients above the age of 60 was conducted in a single centre in England. This study collected demographic data, timing to theatre (<36\u202fh vs \u226536\u202fh), reasons for any delays, 30-day mortality and 1-year mortality between March 2020 and December 2024.\n\n**RESULTS**: The most common cause of delay was insufficient theatre capacity (N\u202f=\u202f365, 20.6%), followed by delays awaiting medical stabilisation (N\u202f=\u202f102, 5.8%). Age (\u03a7\n\n**CONCLUSIONS**: While early surgery remains beneficial, patients delayed solely due to administrative reasons did not demonstrate an associated increase in mortality. Mortality associated with operative delay was primarily associated amongst patients with concurrent acute illnesses and co-morbidities, independently increasing risk. To improve mortality, the focus must remain on pre-operative optimisation and robust orthogeriatric assessment, rather than surgical timing alone. Future iterations of the BPT may benefit from incorporating the cause of delay and physiological risk stratification to surgical timing targets to better align national incentives with clinical outcomes.",
-      "journal": "Injury",
-      "authors": [
-        "Senan R",
-        "Karthik P",
-        "Dhilon P",
-        "Howard T",
-        "Rayan F",
-        "Kirmani S",
-        "Shyamsundar S"
-      ],
-      "date": "2026 Oct 24",
-      "doi": "10.1016/j.injury.2026.113840",
-      "tier": "filtered",
-      "topics": [],
-      "keyword_matches": [],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42945743/"
-    },
-    {
-      "pmid": "42945479",
-      "title": "An anti-inflammatory melanocortin fusion polypeptide augments whole blood resuscitation of hemorrhagic shock in a rodent polytrauma model.",
-      "abstract": "**BACKGROUND**: Severe trauma induces a cytokine storm that is associated with impaired resuscitation and recovery. We investigated the impact of AQB-565, an anti-inflammatory melanocortin fusion polypeptide, as a novel treatment adjunct for whole blood resuscitation of hemorrhagic shock using a rat polytrauma shock model.\n\n**METHODS**: Hemorrhagic shock with polytrauma was induced in 64 Sprague-Dawley rats. The rats were randomized to receive one of four intravenous treatments at 15 minutes posthemorrhage (T15): saline control, AQB-565, tranexamic acid (TXA), or combined AQB-565+ TXA. The rats were given autologous transfusion of shed whole blood at 60 minutes and as needed thereafter to achieve mean arterial pressure (MAP) of 60\u00a0mm\u00a0Hg for up to 3 hours. Survival, hemodynamics, cytokine profiles, and hemorrhage volumes were compared between groups.\n\n**RESULTS**: There was a significant overall effect of treatment group on MAP (two-way rmANOVA p=0.02) that coincided with blood transfusion. MAP was significantly increased at T105 with AQB-565+TXA versus saline control (p=0.046). Inflammatory plasma cytokines, including interleukin-6, were significantly decreased with AQB-565 versus control groups (ANOVA p values \u22640.01). Seventeen (26.6%) rats died before 3 hours. There was a trend towards increased survival for treatments containing AQB-565 versus controls that was not statistically significant (Kaplan-Meier log rank p=0.06).\n\n**CONCLUSIONS**: A melanocortin pathway-activating polypeptide suppressed inflammation and improved hemodynamic response to whole blood transfusion in this hemorrhagic shock model.",
-      "journal": "J Trauma Acute Care Surg",
-      "authors": [
-        "Kim JH",
-        "Neidig LE",
-        "Ringgold KM",
-        "Han CY",
-        "DeYoung KI",
-        "St John AE",
-        "Wang X",
-        "Berenson R",
-        "Stern SA",
-        "White NJ"
-      ],
-      "date": "2026 Oct 27",
-      "doi": "10.1097/TA.0000000000005200",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "Haemorrhage"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "polytrauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "haemorrhagic shock",
-          "strength": "strong",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "tranexamic acid",
-          "strength": "weak",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "whole blood resuscitation",
-          "strength": "strong",
-          "topic": "Haemorrhage"
-        },
-        {
-          "keyword": "blood transfusion",
-          "strength": "weak",
-          "topic": "Haemorrhage"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42945479/"
-    },
-    {
-      "pmid": "42944872",
-      "title": "Addition of a McLaughlin cerclage to locking plate fixation of distal patellar pole fractures reduces interfragmentary displacement - a biomechanical human cadaveric study.",
-      "abstract": "**PURPOSE**: To investigate whether the addition of a McLaughlin cerclage to locking plate fixation of distal patellar pole fractures provides improved biomechanical construct stability and reduced interfragmentary displacement.\n\n**METHODS**: A distal patellar pole fracture was simulated in sixteen fresh-frozen human cadaveric knees by a horizontal osteotomy in the distal third of the patella. Subsequently, locking plate fixation was performed. In a randomized half of the specimens, an additional McLaughlin wire cerclage was applied. The specimens were then subjected to 3000 cycles of extension starting at 90\u00b0 of flexion under a maximum tensile load of 320\u00a0N. Using a Digital Image Correlation (DIC) system, the interfragmentary displacement between the proximal and distal fragments was measured at 1, 10, 20, 30, 50, 100, 500, 1000, 2000, and 3000 cycles. Statistical analysis was performed using repeated-measures ANOVA and Welch's unpaired t-t test at 3000 cycles.\n\n**RESULTS**: An additional McLaughlin cerclage significantly reduced interfragmentary displacement under cyclic loading in comparison to locking plate fixation alone. After 3000 cycles, displacement was 2.27\u2009\u00b1\u20091.84\u00a0mm with plate fixation alone and 0.36\u2009\u00b1\u20090.22\u00a0mm with additional McLaughlin cerclage (mean difference 1.91\u00a0mm; 95% CI 0.38-3.45\u00a0mm; p\u2009=\u20090.0215).\n\n**CONCLUSION**: An additional McLaughlin cerclage reduced interfragmentary displacement in distal patellar pole fractures. In cases of unstable distal pole patella fractures, the additional use of a McLaughlin cerclage may therefore be considered to enhance construct stability.",
-      "journal": "Eur J Trauma Emerg Surg",
-      "authors": [
-        "Deichsel A",
-        "Gro\u00dfe-Allermann A",
-        "Horst K",
-        "Kittl C",
-        "Lodde M",
-        "Gueorguiev B",
-        "Drenchev L",
-        "Skulev HK",
-        "Herbst E"
-      ],
-      "date": "2026 Oct 27",
-      "doi": "10.1016/j.injury.2020.01.028",
-      "tier": "core",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42944872/"
-    },
-    {
-      "pmid": "42944760",
-      "title": "Trauma care performance and patient outcomes - insights from a major trauma centre in Sweden.",
-      "abstract": "**PURPOSE**: Trauma is a leading cause of death among individuals under 45 years of age. Evaluating trauma system performance over time is important but inherently difficult due to concurrent changes in patient demographics, case-mix and care processes. The aim of this study was to describe temporal changes in patient demographics, injury severity and trauma care at a major trauma centre in Sweden from 2017 to 2023. We hypothesised that risk-adjusted 30-day mortality decreased and that time to computed tomography was reduced over the study period.\n\n**METHODS**: A retrospective cohort study was conducted using data from the Karolinska Trauma Registry, including all trauma patients aged\u2009>\u200915 years fulfilling criteria for full trauma team activation, admitted between January 2017 and August 2023. Multivariable logistic regression was used to assess changes in 30-day mortality over time, adjusted for age, sex, injury severity category, ASA score and injury type. Time from arrival to computed tomography was analysed by linear regression and, because the distribution was skewed, by quantile (median) regression.\n\n**RESULTS**: A total of 5,615 trauma patients were included. Over the study period, the patient population became older, and ASA scores increased, while injury severity and the proportion of penetrating injury remained unchanged. In multivariable logistic regression with 2017 as reference, the odds of 30-day mortality in 2022-2023 were lower (OR 0.61, 95% CI 0.43-0.88, P\u2009=\u20090.008) after adjusting for confounders. Median time to computed tomography decreased from 31 to 21\u00a0min; the adjusted difference in 2022-2023 compared with 2017 was -\u20097.5\u00a0min by linear regression (P\u2009=\u20090.014) and -\u200910.4\u00a0min by quantile regression (95% CI\u2009-\u200911.5 to -\u20099.2, P\u2009<\u20090.001).\n\n**CONCLUSION**: Our findings are consistent with improvements in trauma care within a mature trauma system, with shorter median time to computed tomography and lower 30-day mortality despite an aging population with increasing comorbidity. However, the specific drivers of these changes are difficult to identify, and future studies should explore how individual components of pre-hospital and in-hospital care contribute to trauma outcomes.",
-      "journal": "Eur J Trauma Emerg Surg",
-      "authors": [
-        "Eriksson J",
-        "Larsson E",
-        "Arnason B",
-        "Ohl\u00e9n D",
-        "Hedberg M",
-        "Jonsson Fagerlund M",
-        "von Oelreich E"
-      ],
-      "date": "2026 Oct 27",
-      "doi": "10.1097/MEJ.0000000000000161",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "Penetrating",
-        "Prehospital",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "major trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "injury severity",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "trauma centre",
-          "strength": "strong",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "penetrating injury",
-          "strength": "weak",
-          "topic": "Penetrating"
-        },
-        {
-          "keyword": "trauma team",
-          "strength": "weak",
-          "topic": "Prehospital"
-        },
-        {
-          "keyword": "trauma registry",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42944760/"
-    },
-    {
-      "pmid": "42937218",
-      "title": "Embolization of the middle meningeal artery for non-acute subdural hematoma.",
-      "abstract": "This is a protocol for a Cochrane review (intervention). The objectives are as follows: To evaluate the benefits and harms of the embolization of the middle meningeal artery for non-acute subdural hematoma in adults. Secondary objectives To assess equity-related issues, including sex and gender, through subgroup analyses comparing the intervention's effects between male and female subjects, between younger and older adults, and across different pre-event functional status.",
-      "journal": "Cochrane Database Syst Rev",
-      "authors": [
-        "Rico S",
-        "Escobar Liquitay CM",
-        "Garegnani L",
-        "Varela L"
-      ],
-      "date": "2026 Oct 27",
-      "doi": "10.1089/neu.2015.3983",
-      "tier": "filtered",
-      "topics": [
-        "TBI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "subdural haematoma",
-          "strength": "strong",
-          "topic": "TBI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42937218/"
     }
   ]
 }
