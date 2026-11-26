@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-25T03:15:32.019667Z",
-  "total_articles": 220,
+  "generated": "2026-11-26T02:33:11.357696Z",
+  "total_articles": 223,
   "all_topics": [
     "Abdominal",
     "Burns",
@@ -378,6 +378,631 @@
     "Cochrane Database Syst Rev": "filtered"
   },
   "articles": [
+    {
+      "pmid": "43084651",
+      "title": "Evaluation of the ACS Trauma Quality Improvement Program benchmark for intracranial pressure monitoring across trauma centers.",
+      "abstract": "**BACKGROUND**: In severe traumatic brain injury (sTBI), intracranial pressure (ICP) monitoring detects and directs management for intracranial hypertension. ICP monitoring is recommended for sTBI patients and is included as a benchmarked quality metric by the American College of Surgeons Trauma Quality Improvement Programs (ACS-TQIP), which reports annual ICP monitor usage across all participating trauma centers. We evaluated whether greater institutional ICP utilization was associated with lower center-level mortality.\n\n**METHODS**: For this retrospective observational study, adult patients aged 18 years and older meeting the ACS-TQIP definition of sTBI admitted to Level I or II trauma centers from 2013 to 2023 were identified. Patient data were aggregated by trauma center and calendar year to mirror the ACS-TQIP benchmarking framework. Annual institutional ICP monitor utilization and in-hospital mortality rates were calculated for each center-year combination. Multivariable generalized linear mixed-effects models evaluated whether centers with higher ICP monitor utilization had lower mortality after adjusting for patient demographics, injury severity, neurological status, operative intervention, injury mechanism, and hospital length of stay.\n\n**RESULTS**: Among 191,686 sTBI patients, 29,224 (15.2%) underwent ICP monitoring. ICP monitor utilization ranged from 11% to 21% during the study period with a notable increase in 2017, whereas overall mortality remained largely unchanged. Year-specific analyses demonstrated a protective association between greater ICP monitor utilization and mortality in 2015 and an association with increased mortality in 2023. After adjustment for differences in patient and institutional characteristics, higher institutional ICP monitor utilization was not associated with lower center-level mortality (odds ratio=0.99, 95% CI=0.97-1.00; P=0.128).\n\n**CONCLUSIONS**: Using over a decade of TQIP data, greater institutional ICP monitor utilization was not associated with lower mortality across ACS-TQIP centers. These findings suggest that greater institutional adoption of ICP monitoring alone may not improve center-level outcomes and support periodic reassessment of ICP monitoring as a benchmarked ACS-TQIP quality metric.\n\n**LEVEL OF EVIDENCE**: Level IV, prognostic & epidemiological.",
+      "journal": "J Trauma Acute Care Surg",
+      "authors": [
+        "Reinke SB",
+        "Solomon AJ",
+        "Adkins CF",
+        "Krzyzaniak A",
+        "Calvo RY",
+        "Peck KA",
+        "Krzyzaniak MJ",
+        "Bansal V"
+      ],
+      "date": "2026 Nov 25",
+      "doi": "10.1097/TA.0000000000005249",
+      "tier": "core",
+      "topics": [
+        "General Trauma",
+        "Systems/QI",
+        "TBI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "injury severity",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "traumatic brain injury",
+          "strength": "weak",
+          "topic": "TBI"
+        },
+        {
+          "keyword": "ICP monitoring",
+          "strength": "weak",
+          "topic": "TBI"
+        },
+        {
+          "keyword": "intracranial pressure monitoring",
+          "strength": "strong",
+          "topic": "TBI"
+        },
+        {
+          "keyword": "trauma quality",
+          "strength": "strong",
+          "topic": "Systems/QI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43084651/"
+    },
+    {
+      "pmid": "43084612",
+      "title": "Walking Wounded Blood Bank: A new donor pool or a prioritization strategy?",
+      "abstract": "",
+      "journal": "J Trauma Acute Care Surg",
+      "authors": [
+        "Pons S",
+        "Darles C",
+        "Banzet S"
+      ],
+      "date": "2026 Nov 25",
+      "doi": "10.1097/TA.0000000000005240",
+      "tier": "core",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43084612/"
+    },
+    {
+      "pmid": "43084598",
+      "title": "Secondary traumatic stress: A threat to surgeons and the patients they serve.",
+      "abstract": "Secondary traumatic stress (STS) can present with symptoms nearly identical to post-traumatic stress disorder (PTSD). However, instead of resulting from direct exposure to trauma as the victim, STS develops after repeated indirect exposure to severe injury, death, and human suffering. This can cause significant psychological distress and ultimately contribute to PTSD-like symptoms and burnout. Evidence suggests that STS is common among trauma surgeons, although its prevalence remains poorly characterized. STS should be considered an occupational hazard of trauma surgery rather than a failure of individual determination or resilience and may have important consequences for the surgical workforce and, ultimately, patient care. We argue that institutions should consider a framework that incorporates monitoring of measurable workload and trauma-related risk factors at the individual surgeon level. These factors could prompt preventive measures such as protected recovery time and confidential screening using validated tools. When psychological injury is identified, surgeons should be afforded rapid access to mental health resources and formal peer support. Existing institutional programs demonstrate that these interventions can be operationalized, but their effectiveness in preventing, identifying, and treating STS requires further study. Addressing STS must be taken seriously as an institutional responsibility if we are to protect the trauma surgery workforce while supporting the quality and sustainability of patient care.",
+      "journal": "J Trauma Acute Care Surg",
+      "authors": [
+        "Yahn C",
+        "Kang D",
+        "Allee L",
+        "Dechert T"
+      ],
+      "date": "2026 Nov 25",
+      "doi": "10.1097/TA.0000000000005239",
+      "tier": "core",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "strong",
+          "topic": "General Trauma"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43084598/"
+    },
+    {
+      "pmid": "43084539",
+      "title": "Is the H-index an adequate measure of trauma surgeon research productivity?",
+      "abstract": "The H-index is a widely used objective metric by academia to make critical decisions such as grant funding, hiring, promotion, and retention. The H-index is defined as the largest number (h) of publications that have received at least h citations. Unfortunately, the H-index presents many limitations including its inherent cumulative nature, incompatibility among specialties, its potential opaqueness to landmark research, and gender disparity among other potential threats to its validity. Alternatives to H-index that potentially address some of its core weaknesses are the relative citation ratio (RCR), fractional H-index, and the altmetric-index. The altmetric-index measures social and internet engagement rather than citations but has the advantage over H-index in providing more immediate feedback on a paper potential impact, especially among the general public. Trauma surgeons rank in the mid-to-low median H-index, driven primarily by low H-index among young faculty. H-index has value as an objective measure of research productivity, but stakeholders must understand its limitations, and it should only be used as one component of the total holistic assessment of an individual contribution to an academic surgical department.",
+      "journal": "J Trauma Acute Care Surg",
+      "authors": [
+        "Rogers FB",
+        "Guo IM",
+        "Blondeau B"
+      ],
+      "date": "2026 Nov 25",
+      "doi": "10.1097/TA.0000000000005244",
+      "tier": "core",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43084539/"
+    },
+    {
+      "pmid": "43084405",
+      "title": "Infectious complications are preceded by specific longitudinal neutrophil cell surface patterns after polytrauma: Preliminary results of a prospective analysis.",
+      "abstract": "**BACKGROUND**: Alterations in neutrophil receptors provide valuable insights into the immune response after polytrauma. Point-of-care (POC) technologies enable rapid on-site analysis of neutrophils. Previous studies demonstrated individual neutrophil surface patterns after trauma, depending on injury severity and metabolic status. We hypothesized that infectious complications after polytrauma are preceded by specific neutrophil cell surface receptor alterations.\n\n**METHODS**: A POC neutrophil analysis system (AQUIOS\u00ae Flow Cytometer) was implemented at a Level 1 trauma center. Polytrauma patients with an Injury Severity Score (ISS)\u226525 were prospectively included. Neutrophil cell surface expression of CD10, CD11b, CD64, CD62L, and CD16 was analyzed immediately after admission and after 8 hours, 24 hours, 48 hours, and 5 days. Patients were grouped according to the occurrence or absence of infectious complications.\n\n**RESULTS**: Thirty-two polytrauma patients with a median ISS of 34.5 were included in this study. Trauma sequelae included spine fractures, long bone fractures, and traumatic brain injury. During hospitalization, 13 out of 32 patients developed infectious complications. Patients who subsequently developed infectious complications showed significantly higher CD64 expression throughout the observation period, and CD62L demonstrated a trend toward higher expression. In addition, CD11b expression was elevated 8 hours after trauma.\n\n**CONCLUSIONS**: Longitudinal assessment of multiple selected neutrophil markers draws an individual neutrophil surface profile, with specific patterns associated with the development of infectious complications. This offers a promising tool for early risk stratification and identification of trauma patients vulnerable to post-traumatic infectious complications and allows for future immune-protective trauma surgery.\n\n**LEVEL OF EVIDENCE**: Prognostic and Epidemiological; Level III.",
+      "journal": "J Trauma Acute Care Surg",
+      "authors": [
+        "H\u00fcbner CT",
+        "Klingebiel FK",
+        "Kalbas Y",
+        "de Fraiture E",
+        "Shehu A",
+        "Cinelli P",
+        "Koenderman L",
+        "Pfeifer R",
+        "Hietbrink F",
+        "Pape HC",
+        "Teuben MPJ"
+      ],
+      "date": "2026 Nov 25",
+      "doi": "10.1097/TA.0000000000005211",
+      "tier": "core",
+      "topics": [
+        "General Trauma",
+        "Systems/QI",
+        "TBI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "polytrauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "injury severity",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "traumatic brain injury",
+          "strength": "weak",
+          "topic": "TBI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43084405/"
+    },
+    {
+      "pmid": "43084399",
+      "title": "Hospital volume and outcomes in after-hours emergency general surgery: a nationwide retrospective cohort study.",
+      "abstract": "**BACKGROUND**: High-volume hospitals are associated with better outcomes in some surgical fields, including emergency general surgery (EGS). However, the association of hospital volume with outcomes in after-hours EGS remains unclear. This study aimed to evaluate the association between hospital-year volume of after-hours EGS and in-hospital mortality and total healthcare costs.\n\n**METHODS**: We conducted a nationwide retrospective cohort study using the Japanese Diagnosis Procedure Combination database. We included patients aged \u226516 years who were directly admitted from outpatient settings and underwent after-hours EGS on or the day after admission between April 2014 and March 2023. The primary outcome was in-hospital mortality; the secondary outcome was total healthcare costs during hospitalization. Associations were evaluated using mixed-effects models. Hospital-year volume was analyzed continuously using natural cubic splines and categorically (1-19, 20-49, 50-99, and \u2265100 cases/year).\n\n**RESULTS**: Overall, 235,465 patients were included. In the mixed-effects logistic regression model, each 10-case increase in hospital-year volume was associated with lower in-hospital mortality (adjusted odds ratio [aOR], 0.97; 95% confidence interval [CI], 0.96-0.98; p<0.001). Spline analyses showed that the adjusted odds of in-hospital mortality generally decreased with increasing hospital-year volume, although this decline became less pronounced at higher-volume levels. Adjusted healthcare costs decreased across most of the volume range before increasing slightly at the highest levels. Compared with 1 to 19 cases/year, the aORs for in-hospital mortality were 0.77 (95% CI, 0.71-0.83), 0.72 (95% CI, 0.66-0.78), and 0.66 (95% CI, 0.59-0.74) for 20-49, 50-99, and \u2265100 cases/year, respectively (all p<0.001). The corresponding adjusted relative costs were 0.99 (95% CI, 0.99-1.00; p=0.205), 0.98 (95% CI, 0.97-0.99; p=0.001), and 0.97 (95% CI, 0.96-0.99; p<0.001).\n\n**CONCLUSIONS**: Higher hospital-year after-hours EGS volume was associated with lower in-hospital mortality and modestly lower healthcare costs. These associations varied across the volume range.\n\n**LEVEL OF EVIDENCE**: Prognostic/epidemiological; Level III.",
+      "journal": "J Trauma Acute Care Surg",
+      "authors": [
+        "Hoshi H",
+        "Akutsu T",
+        "Fushimi K",
+        "Suzuki K",
+        "Okuzawa H",
+        "Narita Y",
+        "Suzuki M",
+        "Morishita K"
+      ],
+      "date": "2026 Nov 25",
+      "doi": "10.1097/TA.0000000000005252",
+      "tier": "core",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43084399/"
+    },
+    {
+      "pmid": "43084336",
+      "title": "Identifying At-Risk Subgroups for Suboptimal Computed Tomography Imaging in Older Patients With Blunt Trauma.",
+      "abstract": "**IMPORTANCE**: Without standardized imaging algorithms for older trauma patients, there is high heterogeneity in the diagnosis of injuries in this vulnerable population.\n\n**OBJECTIVE**: To identify clinically distinct subgroups of older patients with blunt trauma and examine if any groups have a high likelihood of suboptimal computed tomography (CT) imaging.\n\n**DESIGN, SETTING, AND PARTICIPANTS**: This cohort study was a secondary analysis of the multicenter Scanning the Aged trial (November 2020 to December 2021), which included 5496 patients with blunt trauma 65 years or older from 18 trauma centers. Latent class analysis identified patient subgroups using 10 categorized indicators: origin of injury, age, Charlson Comorbidity Index, functional status, Glasgow Coma Scale score, intoxication, antiplatelet or anticoagulant use, emergency department intervention, time since injury, and Injury Severity Score. Data analysis was performed from August 2025 to February 2026.\n\n**EXPOSURE**: Latent class membership.\n\n**MAIN OUTCOMES AND MEASURES**: Suboptimal imaging (a mismatch between injuries and initial diagnostic CT performed), pan-scan utilization, and in-hospital mortality.\n\n**RESULTS**: Among 5496 patients with blunt trauma, 2990 (54.4%) were female and 2506 (45.6%) male; the median (IQR) age was 79 (71-86) years. The 4-class model was selected as the optimal solution based on a comparison of model fit indices and interpretability across competing latent class models. Class 1 (scene arrival and moderate injury, n\u2009=\u2009417; 33.1%) comprised younger patients with preserved function. Class 2 (frail with fall, n\u2009=\u2009519; 41.3%) included older adults (median [IQR] age, 84 [78-89] years) with functional dependence. Class 3 (transfer, n\u2009=\u2009219; 17.4%) was defined by transfer status. Class 4 (critical trauma, n\u2009=\u2009103; 8.2%) represented severely injured patients. Suboptimal imaging rates varied significantly across classes (from 2.5% to 11.0%), with class 3 showing nearly 4-fold higher odds (odds ratio [OR], 3.85; 95% CI, 1.67-8.90; P\u2009=\u2009.002). Class 4 had 45.6% mortality (47/103) with 16-fold higher adjusted odds of death (adjusted OR, 16.40; 95% CI, 5.40-49.81; P\u2009<\u2009.001). Pan-scan utilization ranged from 49.8% (109/219) to 70.9% (73/103) across classes, with adjusted odds not differing between all classes.\n\n**CONCLUSIONS AND RELEVANCE**: This study identified 4 distinct phenotypes of older patients with blunt trauma and varying imaging needs. Patients transferred from nontrauma centers to trauma centers demonstrated the highest risk for suboptimal imaging, highlighting care coordination gaps. Critical trauma patients had markedly elevated mortality, with a 16-fold higher adjusted odds of death. These findings may support developing targeted imaging protocols based on patient phenotype, with particular attention to patients with the highest risk of diagnostic gaps.",
+      "journal": "JAMA Surg",
+      "authors": [
+        "Mahajan A",
+        "Halkiadakis PN",
+        "Kamojjala R",
+        "Curry CW",
+        "Hafiz P",
+        "Podugu P",
+        "Dvorak JE",
+        "Gunzler D",
+        "Ho V"
+      ],
+      "date": "2026 Nov 25",
+      "doi": "10.1001/jamasurg.2026.5691",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "blunt trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "injury severity",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43084336/"
+    },
+    {
+      "pmid": "43084081",
+      "title": "Localised geographic and socioeconomic inequalities in prehospital trauma care access for road traffic collisions in England: a spatial autocorrelation analysis.",
+      "abstract": "**PURPOSE**: We examined national and local associations between socioeconomic deprivation and modelled access to major-trauma resources in England.\n\n**METHODS**: All 33,755 English Lower-layer Super Output Areas (LSOAs) were analysed. Drive-times to the nearest adult Major Trauma Centre (MTC) and from the nearest listed Helicopter Emergency Medical Service (HEMS) base were computed; flight-time from the nearest HEMS base was estimated. Police-reported killed-or-seriously-injured (KSI) collision rates (2022-2024) and Index of Multiple Deprivation (IMD) decile were assessed using global and local spatial autocorrelation. KSI collisions involved at least one killed or seriously injured casualty.\n\n**RESULTS**: Population-based KSI collision rates were spatially clustered (Global Moran's I\u2009=\u20090.207, p\u2009=\u20090.001), while national associations between deprivation and access were weak (bivariate Moran's I\u2009=\u20090.117, 0.023 and -\u20090.016 for MTC drive-time, HEMS-base road time and flight-time). National median times were 16.4, 20.9 and 4.9\u00a0min, respectively. Local analysis identified 1,101 LSOAs (3.4% of 32,747 with valid IMD data) simultaneously more deprived and access-poor across all three measures. Their median own-area times were 56.8, 42.2 and 10.4\u00a0min. This subgroup had a higher population-based KSI collision rate than the remainder of the valid-IMD sample (Welch's t\u2009=\u20098.1, p\u2009<\u20090.001), persisting in a rural-only analysis.\n\n**CONCLUSION**: England showed no national deprivation gradient in access to major-trauma resources. Local analysis identified areas where greater deprivation, slower modelled access and higher KSI collision rates coincided, providing candidates for investigation and service planning.",
+      "journal": "Eur J Trauma Emerg Surg",
+      "authors": [
+        "Hartley-Hawkins L",
+        "Thompson E",
+        "Guishard J"
+      ],
+      "date": "2026 Nov 25",
+      "doi": "10.1111/j.0016-7363.2006.00682.x",
+      "tier": "core",
+      "topics": [
+        "General Trauma",
+        "Prehospital",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "major trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "prehospital trauma",
+          "strength": "strong",
+          "topic": "Prehospital"
+        },
+        {
+          "keyword": "helicopter emergency",
+          "strength": "weak",
+          "topic": "Prehospital"
+        },
+        {
+          "keyword": "HEMS",
+          "strength": "weak",
+          "topic": "Prehospital"
+        },
+        {
+          "keyword": "prehospital",
+          "strength": "strong",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43084081/"
+    },
+    {
+      "pmid": "43084055",
+      "title": "Hidden in plain sight: a comprehensive analysis of missed rib fractures across five anatomic sectors of the chest wall.",
+      "abstract": "**PURPOSE**: Missed rib fractures on initial chest CT are common and under-reported. We quantified the number, location and severity of rib fractures missed on initial radiologist review compared with a trauma surgeon's systematic secondary review.\n\n**METHODS**: This retrospective study included patients with rib fractures at three affiliated trauma centers (2023-2024). Trauma surgeons re-reviewed initial chest CT scans using the Sucher-Lim Taxonomy for Acute Rib Fractures (SL-TARF) and compared findings with the original radiologist report. Patients younger than 18 years, with non-acute fractures, not admitted, without CT imaging for review, or without an SL-TARF map recorded by the time of data collection were excluded.\n\n**RESULTS**: Among 943 patients (mean age 63\u2009\u00b1\u200919 years; 37.4% ground-level falls), 415 (44%) had at least one missed rib fracture. Of 5,588 fractures on secondary review (4,215 reported initially), 1,373 (24.6%) were missed. By sector, missed fractures were costochondral (25.7%), anterior (21.9%), lateral (20.4%), posterior (17.9%) and paravertebral (14.1%). Most were Type 1 (incomplete; 69.1%), then Type 2 (19.2%) and Type 3 (11.7%). Patients with a missed fracture more often had\u2009\u2265\u20097 fractures on the initial report (26.0% vs. 19.1%, p = .011) and flail chest on secondary review (20.0% vs. 6.3%, p < .001).\n\n**CONCLUSIONS**: Missed rib fractures occur throughout the rib cage rather than in a single region. Trauma surgeon secondary review of chest CT identifies missed fractures at rates comparable to prior post-mortem or repeat-imaging studies. These findings do not, by themselves, justify a change in practice; larger studies are under way.",
+      "journal": "Eur J Trauma Emerg Surg",
+      "authors": [
+        "Sucher JF",
+        "Arrington T",
+        "Lim H",
+        "Mina A",
+        "Sholem S",
+        "Beall K",
+        "McNeal M",
+        "Balcome C",
+        "Hallaway B",
+        "Faliks B",
+        "Dzandu J",
+        "Barletta JF",
+        "Mangram A"
+      ],
+      "date": "2026 Nov 25",
+      "doi": "10.1148/rg.2017160100",
+      "tier": "core",
+      "topics": [
+        "General Trauma",
+        "Thoracic"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "rib fracture",
+          "strength": "strong",
+          "topic": "Thoracic"
+        },
+        {
+          "keyword": "flail chest",
+          "strength": "weak",
+          "topic": "Thoracic"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43084055/"
+    },
+    {
+      "pmid": "43084054",
+      "title": "Failure of intramedullary nailing in pertrochanteric femur fractures - A retrospective analysis of 383 patients over a 5.5-year period.",
+      "abstract": "**PURPOSE**: Pertrochanteric femoral fractures are a rising health and economic burden in ageing societies. Intramedullary nailing is standard treatment, yet implant failure remains a serious complication. This study evaluated patient, fracture and surgical factors associated with implant failure.\n\n**METHODS**: This single-centre retrospective cohort study included adults who underwent primary intramedullary nailing for AO/OTA 31A1.2, 31A1.3, 31A2.2 and 31A2.3 pertrochanteric fractures at Evangelisches Krankenhaus Oldenburg, a Level I trauma centre in Oldenburg, Germany, between 1 January 2019 and 31 July 2024. Demographic, clinical and radiographic data were extracted from electronic records and imaging archives. Variables included age, sex, documented osteoporosis, AO/OTA classification, reduction quality and tip-apex distance. Implant failure, including cut-out, migration or loosening was the primary endpoint. Associations were tested using Chi-square and multivariable logistic regression.\n\n**RESULTS**: A total of 383 patients (mean age 80.3 years; 70% women) met inclusion criteria. Osteoporosis was documented in 59%. Implant failure occurred in 4.4% (n\u2009=\u200917), pseudarthrosis in 1.0% (n\u2009=\u20094) and revision surgery in 5.5% (n\u2009=\u200921). In the bivariate Chi-square analysis, fracture morphology was the only parameter significantly associated with implant failure (p\u2009<\u20090.001). In multivariable logistic regression, the model was significant (p\u2009=\u20090.012; Nagelkerke R\u00b2 = 0.202). Female sex (OR 5.82, p\u2009=\u20090.038) and fracture morphology (p\u2009=\u20090.026) were independent predictors.\n\n**CONCLUSION**: Fracture morphology described by the AO/OTA classification emerged as the strongest predictor of implant failure after intramedullary nailing of pertrochanteric fractures. Unstable subtypes require careful preoperative planning and follow-up. Female sex was also independently associated with implant failure.\n\n**LEVEL OF EVIDENCE**: Level III, retrospective cohort study (Oxford 2011).\n\n**TRIAL REGISTRATION**: German Clinical Trials Register (DRKS), DRKS00024627, retrospectively registered on 29 March 2021.",
+      "journal": "Eur J Trauma Emerg Surg",
+      "authors": [
+        "Kankel FE",
+        "Rademann S",
+        "Vukelic N",
+        "Pieske O"
+      ],
+      "date": "2026 Nov 25",
+      "doi": "10.1007/s00068-020-01514-x",
+      "tier": "core",
+      "topics": [
+        "General Trauma",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43084054/"
+    },
+    {
+      "pmid": "43083901",
+      "title": "Fragility-associated nonunion represents a distinct biological phenotype compared with trauma-associated nonunion: a retrospective cohort study of 213 consecutive cases.",
+      "abstract": "**PURPOSE**: Long bone nonunion is conventionally treated as a uniform disease entity. We hypothesized that nonunion arises through distinct biological pathways, with a fragility-associated phenotype driven by systemic biological vulnerability differing fundamentally from a trauma-associated phenotype driven by local soft tissue compromise and infection.\n\n**METHODS**: Retrospective cohort study of 213 consecutive long bone nonunions treated at a Level 1 trauma center (2007-2018). Patients were classified as fragility-associated (age\u2009\u2265\u200965 years and/or documented osteoporosis; n\u2009=\u200951, 23.9%) or non-fragility/trauma-associated (n\u2009=\u2009162, 76.1%). Groups were compared regarding demographics, comorbidity profiles, fracture characteristics, infection rates, operative burden, laboratory parameters, and treatment strategies. Multivariate logistic regression was performed to evaluate independent predictors of septic nonunion and high revision burden.\n\n**RESULTS**: The fragility phenotype was characterized by significantly higher comorbidity burden (3.2\u2009\u00b1\u20091.6 vs. 1.8\u2009\u00b1\u20091.6; p\u2009<\u20090.001), cardiovascular disease (90.2% vs. 41.4%; p\u2009<\u20090.001), renal insufficiency (25.5% vs. 3.7%; p\u2009<\u20090.001), elevated CRP (median 11.5 vs. 4.0\u00a0mg/L; p\u2009=\u20090.012), and higher ASA classification (ASA\u2009\u2265\u2009III: 39.2% vs. 19.1%; p\u2009=\u20090.006). The trauma-associated phenotype showed higher rates of open fractures (25.3% vs. 13.7%), polytrauma (27.8% vs. 9.8%; p\u2009=\u20090.014), and nicotine use (47.5% vs. 11.8%; p\u2009<\u20090.001). On multivariate analysis, fragility was not an independent predictor of septic nonunion (OR 1.07, 95% CI 0.44-2.61; p\u2009=\u20090.886) or high revision burden (OR 0.88, 95% CI 0.28-2.75; p\u2009=\u20090.829), while open fracture (OR 3.34, 95% CI 1.40-7.99; p\u2009=\u20090.007) and septic nonunion (OR 25.17, 95% CI 9.14-69.29; p\u2009<\u20090.001) were the dominant risk factors.\n\n**CONCLUSION**: Fragility-associated and trauma-associated nonunions represent distinct clinical phenotypes. The fragility phenotype is driven by systemic biological vulnerability but does not confer increased infection or reconstructive burden. These findings support phenotype-specific approaches to nonunion prevention and treatment.",
+      "journal": "Eur J Trauma Emerg Surg",
+      "authors": [
+        "Walter N",
+        "Georgievski G",
+        "El Khassawna T",
+        "Biehl C",
+        "Heiss C",
+        "Rupp M"
+      ],
+      "date": "2026 Nov 25",
+      "doi": "10.1016/j.injury.2020.06.050",
+      "tier": "core",
+      "topics": [
+        "General Trauma",
+        "Orthopaedic",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "polytrauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "open fracture",
+          "strength": "weak",
+          "topic": "Orthopaedic"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43083901/"
+    },
+    {
+      "pmid": "43082057",
+      "title": "Staged Brachialis to Anterior Interosseous Nerve Transfer With Graft for Recovery of Grasp in the Tetraplegic Patient: A Case Series.",
+      "abstract": "**BACKGROUND AND OBJECTIVES**: Cervical spinal cord injury often results in loss of hand function, a top functional priority in this population. Nerve transfers have become a reliable intervention for restoring hand function. Limited nerve donors in the forearm have led to the use of the brachialis (BRA) branch of the musculocutaneous nerve to reinnervate the anterior interosseous nerve (AIN) to recover finger flexion. Relatively poor outcomes have been previously reported, potentially due to axon loss from proximal interconnecting fascicles. Our objective was to review a case series of single-surgeon outcomes using 2 variations of the BRA-AIN transfer that address this limitation.\n\n**METHODS**: A single-center retrospective case series of BRA-AIN transfer was performed through either (1) a direct coaptation performed in elbow flexion followed by progressive extension or (2) an indirect, 2-stage, interpositional graft. Candidate screening consisted of physical examination and electrodiagnostics to determine the absence of volitional finger flexion and preserved BRA innervation. Manual muscle testing using Medical Research Council grading was the primary outcome.\n\n**RESULTS**: Twenty patients (ages 18-72 years) with a C5/6 motor level underwent BRA-AIN on 28 limbs with a minimum 12-month follow-up. The median time from injury to surgery was 20.5 months. The primary outcome was Medical Research Council strength for flexor digitorum profundus of the second digit (FDP2) or flexor pollicis longus (FPL). M3 strength was achieved in 22 patients (79%) for FDP2 and 20 (71%) for FPL. Most patients (79%) underwent an indirect transfer, and FDP2 and flexor digitorum profundus of the third digit achieved functional strength (M \u2265 3) in 18 patients (82%) of this group compared with 4 (67%) of direct repairs. FPL achieved functional strength in 15 patients (68%) of the indirect repairs compared with 5 (83%) of direct.\n\n**CONCLUSION**: These variations of the BRA-AIN nerve transfer provide improved outcomes by circumventing interconnecting fascicles to deliver more axons to the intended targets.",
+      "journal": "Neurosurgery",
+      "authors": [
+        "Herring EZ",
+        "Upton S",
+        "Sten M",
+        "Magee G",
+        "Brooks A",
+        "Mandeville R",
+        "Brown JM",
+        "Bazarek S"
+      ],
+      "date": "2026 Nov 25",
+      "doi": "10.1227/ons.0000000000001938",
+      "tier": "filtered",
+      "topics": [
+        "Spine"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "spinal cord injury",
+          "strength": "weak",
+          "topic": "Spine"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43082057/"
+    },
+    {
+      "pmid": "43079532",
+      "title": "Diagnostic accuracy, characteristics and survival of children with trauma in HEMS: a retrospective multi-centre observational study.",
+      "abstract": "**BACKGROUND**: Trauma is a leading cause of death in children. Paediatric patients comprise only a small fraction of HEMS missions. Little is known about the diagnostic accuracy of prehospital and in-hospital diagnoses in a large physician-staffed HEMS.\n\n**METHODS**: This observational multicentre study included paediatric trauma patients\u2009\u2264\u200916 years treated by the Swiss Air-Rescue between 28/10/2021 and 20/08/2024. We included all primary missions with a National Advisory Committee for Aeronautics (NACA) score of \u2265\u20093 (i.e. moderate to severe trauma) transported to three paediatric trauma centres or declared dead on-scene. Data were obtained from the HEMS database and the hospital discharge report. The primary outcome was diagnostic accuracy between the prehospital and in-hospital diagnoses, measured with Cohen's kappa. Secondary outcomes included patient characteristics, interventions, and survival.\n\n**RESULTS**: We screened 1,531 eligible missions, of which 282 met inclusion criteria. Median age was 8.3 [IQR 3.5-12.1] years, and 163 (57.8%) were male. Most missions had a NACA score of 3 [IQR 3-4] and were during the daytime (90.4%). Ten patients were declared dead on-scene. Tracheal intubation was performed in 7.5% of the patients. Cohen's kappa of the diagnostic accuracy between prehospital and in-hospital diagnoses was 0.64 (95%CI 0.58-0.70). Polytrauma was underdiagnosed; in contrast, injuries to the extremity, pelvis and traumatic brain injury were overdiagnosed. Overall survival to hospital discharge and at 1 year after trauma was 92.2%.\n\n**CONCLUSIONS**: Paediatric trauma in this cohort was characterised by a high incidence of high-velocity injuries. The prehospital diagnosis correlated substantially with the in-hospital diagnosis, supporting the clinical value of HEMS physicians to correctly triage paediatric patients. Documentation of vital signs was heterogeneous. Hospital survival and 1-year survival were high in this cohort. However, polytrauma remained underdiagnosed and should be targeted to improve prehospital care for paediatric trauma.\n\n**TRIAL REGISTRATION**: N/A.",
+      "journal": "Scand J Trauma Resusc Emerg Med",
+      "authors": [
+        "Roehl M",
+        "Weber L",
+        "Klug J",
+        "Voit B",
+        "Albrecht R",
+        "Both CP",
+        "Riva T",
+        "Pietsch U",
+        "Fuchs A"
+      ],
+      "date": "2026 Aug 28",
+      "doi": "10.1007/s00268-022-06852-y",
+      "tier": "core",
+      "topics": [
+        "General Trauma",
+        "Paediatric",
+        "Prehospital",
+        "TBI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "polytrauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic brain injury",
+          "strength": "weak",
+          "topic": "TBI"
+        },
+        {
+          "keyword": "paediatric trauma",
+          "strength": "weak",
+          "topic": "Paediatric"
+        },
+        {
+          "keyword": "HEMS",
+          "strength": "strong",
+          "topic": "Prehospital"
+        },
+        {
+          "keyword": "prehospital",
+          "strength": "weak",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43079532/"
+    },
+    {
+      "pmid": "43079514",
+      "title": "Severity ranking of immunocompromise conditions for patients undergoing emergency surgery: an outcomes-based reassessment of the 2021 consensus classification system published in the World Journal of Emergency Surgery.",
+      "abstract": "**BACKGROUND**: In 2021, the World Journal of Emergency Surgery published consensus guidelines classifying immunocompromised patients with acute abdomen into \"mild-moderate\" and \"severe\" immune deficiency categories to standardize perioperative risk assessment and guide surgical decision-making. We assessed whether published mortality and complication data are consistent with this classification.\n\n**METHODS**: We conducted a structured literature review of PubMed and MEDLINE (2000-2025) for studies reporting mortality and complications in adult immunocompromised patients undergoing emergency colectomy, cholecystectomy, appendectomy, or small bowel resection, with a non-immunocompromised control group. Of the fifteen immunocompromising conditions in the classification, three were excluded for confounding or insufficient data (burns, trauma, post-splenectomy) and two pairs combined (symptomatic HIV/AIDS with CD4\u2009<\u2009200 cells/mm\n\n**RESULTS**: The guidelines classified five conditions as severe (neutropenia, steroid use, HIV\u2009<\u2009200 cells/mm\n\n**CONCLUSION**: Observed procedure-specific mortality and complication data do not consistently support the 2021 consensus severity ranking: four of the ten conditions were discordant with their assigned classification. This analysis suggests reconsidering uremia and advanced age as severe, and malignancy and transplant as mild-moderate. Because immunocompromise severity may influence whether and when patients undergo surgery, these findings highlight a priority for evidence-based refinement of severity ranking in emergency general surgery.",
+      "journal": "World J Emerg Surg",
+      "authors": [
+        "Kennedy GE",
+        "Allen GI",
+        "Davidson GH",
+        "Liu C",
+        "Hantouli MN",
+        "Flum DR"
+      ],
+      "date": "2026 Sep 01",
+      "doi": "10.4049/jimmunol.1500861",
+      "tier": "core",
+      "topics": [
+        "General Trauma"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43079514/"
+    },
+    {
+      "pmid": "43077990",
+      "title": "Micromobility\u202fcrashes: A review of the demographics, risk factors, injury patterns, and preventative strategies.",
+      "abstract": "Micromobility device use has rapidly expanded since the last several decades,\u202flargely driven\u202fby their flexibility and utility for short-distance travel. This growth has been accompanied by a corresponding rise in the rate of\u202fmicromobility-related injuries and fatalities, yet the demographic patterns, risk factors, and injury characteristics associated with these incidents\u202fremain\u202fincompletely characterized. This narrative review synthesizes current evidence on micromobility user demographics, injury patterns, and modifiable risk factors and evaluates proposed strategies for improving rider and pedestrian safety. Injured riders are\u202fpredominantly young\u202fand male, with alcohol use, helmet non-use, excessive speed, and nighttime riding as the most consistently\u202fidentified\u202frisk factors. These behaviors\u202ffrequently\u202fco-occur and may have compounding effects on injury severity. Falls represent the most common injury mechanism, though collisions with motor vehicles are associated with disproportionately severe outcomes, including traumatic brain injury. Injury rates and patterns vary meaningfully by device type, though comparisons across studies are complicated by inconsistent exposure measurements and the lack of a universally standardized definition of micromobility devices. Existing legislation on impaired riding, helmet use, and sidewalk riding varies widely across jurisdictions. Emerging evidence from cities that have implemented targeted regulatory interventions, including speed and nighttime restrictions,\u202fsuggests\u202fthat policy measures can meaningfully reduce injury incidence. Reducing the burden of micromobility-related injuries will require a coordinated, multifaceted approach integrating improved injury surveillance,\u202fappropriate infrastructure, rider and public education, and evidence-based policy implementation.",
+      "journal": "Injury",
+      "authors": [
+        "Villasi W",
+        "Korman A",
+        "Hakim T",
+        "Oginski D",
+        "Burstein J",
+        "Pfaff AC"
+      ],
+      "date": "2026 Nov 20",
+      "doi": "10.1016/j.injury.2026.113921",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Systems/QI",
+        "TBI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "traumatic",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "injury severity",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "traumatic brain injury",
+          "strength": "weak",
+          "topic": "TBI"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43077990/"
+    },
     {
       "pmid": "43076807",
       "title": "Higher Quality Temperature Control Is Associated With Improved Outcomes Following Out-of-Hospital Cardiac Arrest: A Multicenter Validation Study.",
@@ -7874,7 +8499,7 @@
         "Citerio G"
       ],
       "date": "2026 Nov 1",
-      "doi": "10.1586/eri.09.22",
+      "doi": "10.21203/rs.3.rs-3412001/v1",
       "tier": "filtered",
       "topics": [
         "General Trauma",
@@ -8093,485 +8718,6 @@
       ],
       "has_strong_match": true,
       "link": "https://pubmed.ncbi.nlm.nih.gov/42951818/"
-    },
-    {
-      "pmid": "42950975",
-      "title": "Traumatic Emergency Thoracotomy for Resuscitation in Shock (TETRiS): a national service evaluation of resuscitative thoracotomy practice outside the operating theatre.",
-      "abstract": "**BACKGROUND**: Resuscitative thoracotomy (RT) is performed in patients with traumatic cardiac arrest or peri-arrest to treat potentially reversible causes of circulatory collapse. Optimal patient selection and timing remain uncertain, and existing evidence is largely retrospective, often excluding prehospital deaths. This prospective service evaluation examined contemporary RT practice and outcomes across a national major trauma system, including prehospital and emergency department settings.\n\n**METHODS**: Prospective 12-month observational study across 20 UK Helicopter Emergency Medical Services and 26 Major Trauma Centre Emergency Departments, using the PHOTON, TERN, and NaTRIC research networks.\n\n**RESULTS**: A total of 116 patients underwent RT, of which 82 (70.7%) were performed prehospital. Median age was 30\u00a0years, 97 patients (83.6%) were male, and 81 (69.8%) sustained penetrating injury. Suspected cardiac tamponade was the most common indication for RT (72/116 [62.1%]), although operative findings demonstrated exsanguinating haemorrhage in 82 patients (70.7%). Overall, 50 patients (43.1%) achieved return of spontaneous circulation and eight (6.9%) survived to hospital discharge. Survival was strongly associated with pathophysiological cause, duration of arrest, and physiological state at the time of intervention, with substantially better outcomes observed in patients with cardiac tamponade than exsanguination. Patients undergoing emergency department RT demonstrated shorter arrest durations, more favourable physiology, and higher survival than those undergoing prehospital RT. There were no survivors beyond 10\u00a0min of traumatic cardiac arrest.\n\n**CONCLUSION**: In this prospective national evaluation of RT practice, outcomes were strongly associated with the pathophysiological cause and duration of arrest, and the residual physiology present at the time of intervention. The most favourable outcomes were observed in patients with cardiac tamponade and those undergoing RT before irreversible physiological deterioration.",
-      "journal": "Resuscitation",
-      "authors": [
-        "Ramage L",
-        "Tucker H",
-        "Marsden MER",
-        "Wohlgemut JM",
-        "Naeem S",
-        "Christian MD",
-        "Davenport R",
-        "Perkins ZB"
-      ],
-      "date": "2026 Oct 28",
-      "doi": "10.1016/j.resuscitation.2026.111371",
-      "tier": "filtered",
-      "topics": [
-        "Cardiac Arrest",
-        "General Trauma",
-        "Penetrating",
-        "Prehospital",
-        "Systems/QI",
-        "Thoracic"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "major trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "trauma centre",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "thoracotomy",
-          "strength": "strong",
-          "topic": "Thoracic"
-        },
-        {
-          "keyword": "cardiac tamponade",
-          "strength": "weak",
-          "topic": "Thoracic"
-        },
-        {
-          "keyword": "penetrating injury",
-          "strength": "weak",
-          "topic": "Penetrating"
-        },
-        {
-          "keyword": "helicopter emergency",
-          "strength": "weak",
-          "topic": "Prehospital"
-        },
-        {
-          "keyword": "prehospital",
-          "strength": "weak",
-          "topic": "Prehospital"
-        },
-        {
-          "keyword": "traumatic cardiac arrest",
-          "strength": "weak",
-          "topic": "Cardiac Arrest"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42950975/"
-    },
-    {
-      "pmid": "42950707",
-      "title": "Opportunistic assessment of bone quality using CT-derived hounsfield units in postmenopausal women with femoral trochanteric fractures.",
-      "abstract": "**BACKGROUND**: CT-derived Hounsfield unit (HU) measurements may provide an opportunistic assessment of bone density when dual-energy X-ray absorptiometry (DXA) is difficult to obtain during acute treatment of femoral trochanteric fractures. We compared three femoral-head regions of interest (ROIs) and explored their ability to identify markedly low total hip bone mineral density (BMD).\n\n**METHODS**: This single-center retrospective study included 87 women aged \u2265\u202f65 years with AO/OTA type 31A1 (excluding A1.1) or 31A2 femoral trochanteric fractures treated with intramedullary nailing. Admission CT HU values were measured in three femoral-head ROIs on coronal and axial images and compared with contralateral hip DXA T-scores measured approximately 1 week after surgery. Pearson correlations and receiver operating characteristic (ROC) analyses were performed. The prespecified total hip T-score thresholds were \u2264\u202f-2.5 and \u2264\u202f-3.3; the latter was used as an operational definition of markedly low BMD in this study.\n\n**RESULTS**: Coronal whole-femoral-head HU values (ROI 1) showed a moderate correlation with total hip T-scores (r\u202f=\u202f0.569). For the \u2264\u202f-2.5 threshold, 74 women met the criterion and only 13 did not; the ROI 1 coronal AUC was 0.841. For the \u2264\u202f-3.3 threshold, 51 women met the criterion and 36 did not. A coronal ROI 1 threshold of <\u202f158.7 HU had an AUC of 0.765 (95% CI, 0.660-0.870), sensitivity of 84.3% (43/51), and specificity of 66.7% (24/36) for identifying a total hip T-score \u2264\u202f-3.3.\n\n**CONCLUSION**: Whole-femoral-head HU values were moderately associated with DXA-derived T-scores in this cohort. Admission CT may help flag patients with markedly low BMD, but the threshold showed limited specificity and requires external validation. Its effect on surgical decisions or clinical outcomes was not assessed.",
-      "journal": "Injury",
-      "authors": [
-        "Terada C",
-        "Yokoo S"
-      ],
-      "date": "2026 Oct 24",
-      "doi": "10.1016/j.injury.2026.113822",
-      "tier": "filtered",
-      "topics": [],
-      "keyword_matches": [],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42950707/"
-    },
-    {
-      "pmid": "42950706",
-      "title": "Thoracic irrigation in managing traumatic hemothorax: A concise review of techniques and practice variations.",
-      "abstract": "**BACKGROUND**: Retained hemothorax following tube thoracostomy occurs in up to one-third of thoracic trauma patients, often necessitating additional interventions. Thoracic irrigation has emerged as a potential adjunct to improve pleural drainage. The objective of this concise review is to evaluate the role of thoracic irrigation in the management of traumatic hemothorax by highlighting current standards of care and variations in techniques.\n\n**METHODS**: This review searched five search engines, screening studies published before September 26, 2025. Studies focusing on thoracic irrigation in the setting of trauma and hemothorax were included.\n\n**RESULTS**: A total of six studies were included. Thoracic irrigation in the management of traumatic hemothorax showed significantly lower odds of secondary intervention (OR: 0.16, p\u202f<\u202f0.001) and shorter hospital length of stay (7 days vs. 9, p\u202f=\u202f0.04) in patients who received thoracic irrigation compared with standard chest tube drainage. Most patients underwent irrigation using medium to large-bore tubes, although one study showed no association between tube size and outcomes. Patients receiving \u2265\u202f1000 milliliters (mL) of irrigation had more hospital-free days compared to those receiving <\u202f1000\u202fmL (p\u202f=\u202f0.007), while another study found no significant differences.\n\n**CONCLUSION**: Thoracic irrigation shows promise as an adjunct to tube thoracostomy in managing post-traumatic hemothorax, with evidence of reduced retained collections, fewer secondary interventions, and shorter hospital stays. Studies are needed to achieve standardized thoracic irrigation techniques and develop more comprehensive and consistent evidence-based guidelines.",
-      "journal": "Injury",
-      "authors": [
-        "Indorewala Y",
-        "Prashar S",
-        "Nishida C",
-        "Nasef Y",
-        "Othman Y",
-        "Haddadi M",
-        "Elkbuli A"
-      ],
-      "date": "2026 Oct 24",
-      "doi": "10.1016/j.injury.2026.113830",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Thoracic"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "haemothorax",
-          "strength": "strong",
-          "topic": "Thoracic"
-        },
-        {
-          "keyword": "thoracostomy",
-          "strength": "weak",
-          "topic": "Thoracic"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42950706/"
-    },
-    {
-      "pmid": "42950705",
-      "title": "Do radiographic surrogates of pre-bend appropriateness influence outcomes after titanium elastic nailing in pediatric femoral mid-shaft fractures?",
-      "abstract": "**PURPOSE**: To investigate whether radiographic technical parameters reflecting pre-bend appropriateness are associated with radiographic and clinical outcomes after titanium elastic nailing (TEN) in pediatric femoral mid-shaft fractures.\n\n**METHODS**: This retrospective cohort included 85 children aged 5-11 years treated with TEN between 2015 and 2025. Constructs were classified as criteria-met (n\u202f=\u202f38) or criteria-unmet (n\u202f=\u202f47) using nail symmetry, a bend apex-fracture apex distance ratio \u2264\u202f10%, and a metaphyseal spread ratio \u2265\u202f50%. Separate exploratory multivariable models evaluated the composite classification and its components, adjusting for clinical and technical covariates.\n\n**RESULTS**: Median coronal angulation was lower in the criteria-met group (2.0\u00b0 vs 5.0\u00b0; p\u202f=\u202f0.005). The adjusted mean difference (criteria-unmet minus criteria-met) was 3.42\u00b0 (95% CI 0.98-5.87; p\u202f=\u202f0.007). Other group comparisons were inconclusive. Exploratory component analysis associated greater spread with greater limb length discrepancy (3.61\u202fmm per increase of 10 %age points; 95% CI 1.81-5.40; q\u202f=\u202f0.002), although technical parameters were highly correlated. The complication risk ratio for criteria-unmet versus criteria-met constructs was 1.41 (95% CI 0.45-4.48).\n\n**CONCLUSION**: Meeting the study-specific radiographic criteria was associated with lower coronal angulation, but its clinical importance remains uncertain. Overlapping criteria, correlated technical parameters, and limited precision preclude conclusions of equivalence or definitive independent effects.",
-      "journal": "Injury",
-      "authors": [
-        "Sar\u0131ta\u015f TB",
-        "Y\u00fccel MH",
-        "Parlak S",
-        "Ar\u0131c\u0131 V",
-        "Tan A",
-        "Yal\u00e7\u0131nkaya A",
-        "Terzi E",
-        "\u015eahin A",
-        "Ert\u00fcrk C"
-      ],
-      "date": "2026 Oct 24",
-      "doi": "10.1016/j.injury.2026.113838",
-      "tier": "filtered",
-      "topics": [],
-      "keyword_matches": [],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42950705/"
-    },
-    {
-      "pmid": "42950704",
-      "title": "Scapular fracture and risk of great vessel injury in geriatric blunt trauma: A TQIP analysis.",
-      "abstract": "**INTRODUCTION**: Scapular fractures are markers of high-energy blunt thoracic trauma and may indicate severe intrathoracic injury. Despite the substantial mortality linked with great vessel injuries (GVI), data specifically examining scapular fracture and GVI in the geriatric population remain limited. We hypothesized that scapular fracture, particularly when accompanied by concomitant thoracic fractures, is independently associated with GVI in geriatrics with blunt trauma.\n\n**METHODS**: We conducted a retrospective cohort study using the American College of Surgeons Trauma Quality Improvement Program (ACS-TQIP) database (2017-2023). Patients aged \u2265\u202f65 years with a blunt mechanism of injury and AIS severity 2-5 in the neck, thorax, or upper extremity were included. GVI was defined using specific AIS codes for major thoracic and cervical vessels. Multivariable logistic regression evaluated association between scapular fracture patterns and GVI, including isolated scapular fractures, those with concomitant sternal, rib or flail chest fractures. Models adjusted for age, sex, race, mechanism, ISS, shock index, and modified frailty index. Vessel-specific analyses were also performed. Primary outcome was GVI. Secondary outcomes were mortality and LOS.\n\n**RESULTS**: A total of 677,134 patients were included. Median age was 76 [70-82] years; 54.1% were female. Scapular fractures were identified in 5.0% of patients and GVI in 0.7%. In multivariable regression, isolated scapular fracture was associated with lower odds of GVI (aOR 0.783, 95% CI 0.704-0.871, p\u202f<\u202f0.001), while scapular fracture with sternal fracture was associated with significantly higher odds (aOR 1.423, 95% CI 1.122-1.806, p\u202f=\u202f0.004). Among vessel-specific analyses, subclavian artery injury demonstrated the highest association with scapular fracture (aOR 1.527, 95% CI 1.113-2.094, p\u202f=\u202f0.009). GVI was associated with markedly higher in-hospital mortality (25.1% vs. 4.2%; OR 7.726, 95% CI 7.234-8.251, p\u202f<\u202f0.001).\n\n**CONCLUSION**: In geriatric blunt trauma, isolated scapular fracture is not an independent predictor of GVI. After a fall, a scapular fracture without a sternal fracture does not by itself suggest a missed vascular injury. In contrast, combined scapular and sternal fractures represent a high-risk pattern that warrants a heightened index of suspicion and a low threshold for CT angiography, with particular attention to the subclavian vessels.\n\n**LEVEL OF EVIDENCE**: Prognostic/Epidemiologic; Level III.",
-      "journal": "Injury",
-      "authors": [
-        "Peisepar M",
-        "Rafieezadeh A",
-        "Prabhakaran K",
-        "Nair H",
-        "Kannichamy V",
-        "Harikrishnan S",
-        "Shnaydman I",
-        "Kirsch J",
-        "Froula G",
-        "Carlson A",
-        "Bronstein M",
-        "Zangbar B"
-      ],
-      "date": "2026 Oct 24",
-      "doi": "10.1016/j.injury.2026.113835",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Systems/QI",
-        "Thoracic",
-        "Vascular"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "blunt trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "flail chest",
-          "strength": "weak",
-          "topic": "Thoracic"
-        },
-        {
-          "keyword": "vascular injury",
-          "strength": "weak",
-          "topic": "Vascular"
-        },
-        {
-          "keyword": "trauma quality",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42950704/"
-    },
-    {
-      "pmid": "42950703",
-      "title": "Early fecal diversion versus no initial diversion in blunt open pelvic fractures: A systematic review and meta-analysis of pelvic infection and mortality.",
-      "abstract": "**BACKGROUND**: The benefit of routine early fecal diversion in blunt open pelvic fractures remains uncertain. We examined its association with pelvic infection and short-term mortality.\n\n**METHODS**: MEDLINE/PubMed, Embase, Scopus, Web of Science Core Collection, and CENTRAL were searched from inception through 12 August 2026, with citation searching. Comparative observational studies were synthesized using crude risk ratios (RRs), REML random-effects models, modified Hartung-Knapp confidence intervals, and Mantel-Haenszel sensitivity analyses without continuity correction. Two reviewers independently selected studies, extracted data, and assessed ROBINS-I risk of bias and GRADE certainty.\n\n**RESULTS**: Eighteen observational comparative reports were retained. Potential cohort overlap prevented a valid unique overall participant total. Eight cohorts contributed to broad pelvic infection (171 participants; seven estimable): RR 0.78 (95% CI 0.35-1.70; I\u00b2=19.6%). The stricter outcome-definition analysis included five cohorts (88 participants; four estimable): RR 0.72 (95% CI 0.07-6.97). Excluding two author-reported infected hematomas through an existing replacement sensitivity gave RR 0.84 (95% CI 0.34-2.05). Eight mortality cohorts (236 participants) yielded RR 0.82 (95% CI 0.33-2.07; I\u00b2=19.0%). Post-2006 evidence remained inconclusive for infection (three cohorts; RR 0.74, 95% CI 0.009-58.85) and mortality (five cohorts; RR 1.19, 95% CI 0.27-5.26). Diversion was preferentially used in patients with more severe injuries. All reports had Serious or Critical risk of bias; certainty was very low.\n\n**CONCLUSIONS**: Available evidence does not establish a reduction in pelvic infection or short-term mortality with routine early diversion. Confounding, inconsistent outcome ascertainment, and imprecision prevent causal conclusions or exclusion of benefit in selected high-risk injuries.",
-      "journal": "Injury",
-      "authors": [
-        "Ferrari F",
-        "Ancieta MDH",
-        "Laura LYS",
-        "Botti M"
-      ],
-      "date": "2026 Oct 26",
-      "doi": "10.1016/j.injury.2026.113828",
-      "tier": "filtered",
-      "topics": [],
-      "keyword_matches": [],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42950703/"
-    },
-    {
-      "pmid": "42950702",
-      "title": "Orthopedic trauma in patients with opioid use disorder: Current concepts in perioperative management.",
-      "abstract": "**BACKGROUND**: Opioid use disorder (OUD) is an important challenge in orthopedic trauma, where acute injury intersects with preexisting opioid exposure, tolerance, complex pain, and barriers to continuity of addiction treatment. OUD has been associated with higher rates of complications, readmission, and treatment disruption, yet OUD-specific perioperative management remains inconsistently incorporated into orthopedic trauma practice. This review synthesizes the epidemiology, outcomes, and perioperative management evidence for this population.\n\n**METHODS**: A clinically oriented current concepts review synthesized peer-reviewed literature, prioritizing studies published from 2013 onward. PubMed and Embase were searched, supplemented by Google Scholar, Semantic Scholar, and manual review of reference lists from relevant articles. Studies examining perioperative outcomes, multimodal analgesia, and management of medications for OUD (MOUD) relevant to orthopedic trauma were included; studies limited to pediatric, elderly, or prenatal populations were excluded.\n\n**RESULTS**: Preinjury opioid exposure is common among orthopedic trauma patients, whereas formally diagnosed OUD is less prevalent, affecting approximately 1% of operative trauma patients and up to 2.3% of patients with open lower-extremity fractures. OUD and opioid-related disorders are associated with higher rates of infection, nonunion, revision, prolonged hospitalization, and readmission. Consensus guidance and observational evidence support continuation of evidence-based MOUD, individualized opioid supplementation, multimodal nonopioid analgesia, regional anesthesia when appropriate, and early coordination with addiction and acute pain services. Guideline-based approaches to postoperative opioid prescribing, tapering, and patient education are also summarized.\n\n**CONCLUSIONS**: Orthopedic trauma patients with OUD require individualized, multidisciplinary perioperative care. The strongest available evidence supports preservation of OUD treatment, multimodal analgesia, early addiction and pain consultation, and coordinated discharge planning rather than either opioid avoidance or opioid-only treatment. The review concludes with the authors' recommendations for the operating surgeon, including in-hospital and outpatient tapering plans, management of requests for additional opioids, and patient education.",
-      "journal": "Injury",
-      "authors": [
-        "Stout JW",
-        "Keenan J",
-        "Rehman S"
-      ],
-      "date": "2026 Oct 24",
-      "doi": "10.1016/j.injury.2026.113824",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Orthopaedic"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "orthopaedic trauma",
-          "strength": "strong",
-          "topic": "Orthopaedic"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42950702/"
-    },
-    {
-      "pmid": "42950555",
-      "title": "Latent class phenotypes and emergency department disposition for patients with traumatic subdural hematoma and midline shift.",
-      "abstract": "**BACKGROUND**: Guidelines recommend surgical evacuation for traumatic subdural hematoma (SDH) with >5\u202fmm midline shift (MLS), but emergency department (ED) triage varies between the operating room (OR) and the intensive care unit (ICU). We investigated whether ED disposition to the OR versus ICU was associated with differences in outcomes and whether distinct patient phenotypes modified these associations.\n\n**METHODS**: We retrospectively identified adult patients from the ACS TQIP dataset with traumatic SDH, MLS >5\u202fmm, and ED disposition to either the ICU or OR. We defined patient phenotypes using latent class analysis (LCA) and investigated associations between ED disposition and outcomes (inpatient mortality, favorable discharge) using risk-adjusted hierarchical logistic regression. We tested for interaction between patient phenotype and ED disposition and repeated these analyses among patients undergoing an ICU stay \u22651\u202fday and cranial surgery.\n\n**RESULTS**: Among 9582 patients, 29% (N\u202f=\u202f2794) were triaged to the OR. Two LCA-informed phenotypes emerged: class 1 (older-mild injury) and class 2 (younger-severe injury). There was an interaction between ED disposition and patient phenotype, such that younger-severe patients had lower mortality with OR triage (P\u202f<\u202f0.001). In the subgroup of 4573 patients (48%) with \u22651\u202fday of ICU stay who underwent cranial surgery, there was a significant interaction between OR triage and the older-mild phenotype indicating increased mortality (P\u202f=\u202f0.003).\n\n**CONCLUSIONS**: For traumatic SDH with MLS >5\u202fmm, triage the OR was associated with improved outcomes only among younger, severely-injured patients, while older, mildly-injured patients may benefit from early ICU stabilization. These findings support phenotype-guided ED triage strategies to optimize outcomes.",
-      "journal": "Am J Emerg Med",
-      "authors": [
-        "Vattipally VN",
-        "Elshareif M",
-        "Hao C",
-        "Kramer P",
-        "Jo J",
-        "Suarez JI",
-        "Haut ER",
-        "Sakran JV",
-        "Huang J",
-        "Bettegowda C"
-      ],
-      "date": "2026 Oct 12",
-      "doi": "10.1016/j.ajem.2026.10.007",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "TBI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "traumatic",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "subdural haematoma",
-          "strength": "strong",
-          "topic": "TBI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42950555/"
-    },
-    {
-      "pmid": "42949698",
-      "title": "Fatal Opioid-Like Toxidrome Associated With a 7-Hydroxymitragynine Kratom Product.",
-      "abstract": "Kratom (Mitragyna speciosa) use has increased in the United States, with the market shifting from traditional leaf preparations to concentrated products containing concentrated or chemically processed alkaloids such as 7-hydroxymitragynine (7-HMG) and mitragynine pseudoindoxyl. These formulations may deliver supraphysiologic opioid-receptor agonist doses with poorly characterized toxicity. A 42-year-old man was found dead at home after reportedly ingesting 3 tablets of a commercial \"7-HMG\" product and several beers. Postmortem examination revealed purge fluid at the mouth and nose, severe bilateral pulmonary edema, distended bladder, and no evidence of trauma or injection drug use. Quantitative analysis of the remaining tablet showed 29 mg 7-HMG and 0.58 mg mitragynine pseudoindoxyl, with minimal mitragynine. Postmortem blood contained 37.3 ng/mL 7-HMG and 76 ng/mL mitragynine pseudoindoxyl, whereas gabapentin and other medications were present at subtherapeutic concentrations. Compared with an estimated 1 to 4.5 mg 7-HMG in a typical high dose of dried kratom leaf powder, this ingestion delivered approximately 87 mg 7-HMG (19-fold to 87-fold greater 7-HMG exposure than a high-dose botanical leaf preparation). Given the high \u03bc-opioid receptor activity of 7-HMG and its in vivo conversion to the even more potent opioid agonist mitragynine pseudoindoxyl, the postmortem findings are most consistent with a fatal opioid-like toxidrome associated with exposure to concentrated kratom alkaloids. This case illustrates the emerging risk posed by new kratom-branded products containing purified or chemically enriched alkaloids at doses far exceeding traditional preparations.",
-      "journal": "Ann Emerg Med",
-      "authors": [
-        "Gerona R",
-        "Ellison R",
-        "Conners R",
-        "Bissessar R"
-      ],
-      "date": "2026 Oct 27",
-      "doi": "10.1016/j.annemergmed.2026.08.746",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42949698/"
-    },
-    {
-      "pmid": "42949696",
-      "title": "Associations Between Diagnostic Blood-Based Biomarkers and Neuroimaging Findings in Mild Traumatic Brain Injury.",
-      "abstract": "**STUDY OBJECTIVE**: Mild traumatic brain injury (mTBI) is a prevalent and resource-intensive injury in the emergency department (ED). The blood-based biomarkers glial fibrillary acidic protein (GFAP) and ubiquitin c-terminal hydrolase L1 (UCH-L1) have demonstrated diagnostic potential for acute structural brain injury. Our objective was to clinically validate a US Food and Drug Administration-approved plasma test to aid in the identification of intracranial injury in patients with mTBI presenting to the ED and assess its integration with existing protocols.\n\n**METHODS**: This single-center validation study enrolled 104 adult patients with suspected mTBI undergoing head computed tomography (CT) for evaluation between October 2023 and June 2024 at a Level I trauma center. Peripheral blood draw was completed within 12 hours postinjury and processed at the hospital clinical laboratory. Sensitivity, specificity, and predictive values for the test were calculated and compared with a standard clinical decision rule (Canadian Head CT Rule). ED length of stay and diagnostic turnaround times were examined.\n\n**RESULTS**: Within the cohort (n=104), 83 patients had elevated biomarker levels (GFAP >30 pg/mL or UCH-L1 >360 pg/mL), and 11 patients had intracranial injury identified on CT. The combination plasma test demonstrated high sensitivity (0.91 [95% confidence interval {CI} 0.59 to 1.00]) but low specificity (0.22 [95% CI 0.14 to 0.31]) for predicting intracranial injury on CT with low positive predictive value (0.12 [95% CI 0.06 to 0.21]) and high negative predictive value (0.95 [95% CI 0.76 to 1.00]). These findings are consistent with prior studies (pooled sensitivity 0.97 [95% CI 0.95 to 0.98]; specificity 0.28 [95% CI 0.23 to 0.34]). False-positive cases (78%) were older than true-negative cases (median 72 years [interquartile range (IQR) 54 to 83] versus 58.5 years [IQR 38.25 to 66]). Median turnaround time for the GFAP/UCH-L1 test was 2 hours faster than head CT (1.09 hours [IQR 0.87 to 1.65] versus 3.28 hours [IQR 2.37 to 4.70]).\n\n**CONCLUSIONS**: Blood biomarkers for mTBI have potential as an initial rule-out tool for intracranial injury prior to obtaining CT imaging; however, large multicenter studies are needed to clarify its impact on ED resource utilization, length of stay, and acute and long-term costs and benefits to patients and health care systems.",
-      "journal": "Ann Emerg Med",
-      "authors": [
-        "Pandey S",
-        "Chen Y",
-        "Yue JK",
-        "Jain S",
-        "Sun X",
-        "Eagle SR",
-        "Colwell CB",
-        "Wu AHB",
-        "Manley GT",
-        "Madhok DY"
-      ],
-      "date": "2026 Oct 27",
-      "doi": "10.1016/j.annemergmed.2026.08.731",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Systems/QI",
-        "TBI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "trauma centre",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "traumatic brain injury",
-          "strength": "strong",
-          "topic": "TBI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42949696/"
-    },
-    {
-      "pmid": "42949037",
-      "title": "Micromobility Injury Patterns and Resource Use in US Trauma Centers.",
-      "abstract": "**BACKGROUND**: Micromobility-related injuries increasingly contribute to trauma care, but differences in injury patterns and resource use across bicycle, e-bike, and e-scooter injuries remain incompletely characterized. We compared injury severity, injury patterns, and resource use among injured riders presenting to participating trauma centers.\n\n**STUDY DESIGN**: We queried the American College of Surgeons National Trauma Data Bank (2023-2024) for injured bicycle, e-bike, and e-scooter riders \u226518 years. The primary outcome was severe injury (Injury Severity Score \u226516). Secondary outcomes included serious regional injuries (Abbreviated Injury Scale \u22653), craniofacial fractures, operative and critical care resource use, and in-hospital mortality.\n\n**RESULTS**: Among 47,102 injured riders, 32,100 (68%) rode bicycles, 8,744 (19%) e-bikes, and 6,258 (13%) e-scooters. Compared with bicycle riders, e-scooter riders had lower risk of severe injury (aRR 0.93, 95% CI 0.87-0.99) but higher risk of serious head/neck injury (aRR 1.10, 95% CI 1.04-1.17). Risks of serious chest (aRR 0.77, 95% CI 0.71-0.82) and extremities/pelvic girdle injuries (aRR 0.92, 95% CI 0.86-0.99), emergency surgery (aRR 0.66, 95% CI 0.50-0.87), early transfusion (aRR 0.71, 95% CI 0.54-0.94), and in-hospital mortality (aRR 0.78, 95% CI 0.64-0.94) were lower. Helmet use was associated with lower craniofacial fracture risk, most strongly among e-scooter riders (aRR 0.49, 95% CI 0.41-0.58).\n\n**CONCLUSIONS**: Among injured riders presenting to participating trauma centers, e-scooter injuries were associated with lower overall severity and resource use than bicycle injuries but greater serious head/neck injury risk. Helmet use was associated with lower craniofacial fracture risk, supporting continued helmet promotion.",
-      "journal": "J Am Coll Surg",
-      "authors": [
-        "Abbasi B",
-        "Chu PW",
-        "Carlisle MN",
-        "Leng L",
-        "Hakam N",
-        "Afanador-Jimenez A",
-        "Frankiewicz M",
-        "Wang R",
-        "Myrga JM",
-        "Breyer BN"
-      ],
-      "date": "2026 Nov 17",
-      "doi": "10.1097/XCS.0000000000002203",
-      "tier": "filtered",
-      "topics": [
-        "Facial/Neck",
-        "General Trauma",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "injury severity",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "neck injury",
-          "strength": "weak",
-          "topic": "Facial/Neck"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42949037/"
-    },
-    {
-      "pmid": "42947661",
-      "title": "Prehospital Analgesia in Trauma: A Systematic Review of Current Evidence.",
-      "abstract": "**OBJECTIVES**: Pain management is integral to prehospital trauma care. However, due to multiple challenges, pain is frequently undertreated despite important physiologic and psychologic implications. Among these challenges is uncertainty regarding the safety and effectiveness of pharmacologic agents administered enroute. We aimed to evaluate the level of evidence for the safety and effectiveness of prehospital pharmacologic analgesia for acutely injured adult trauma patients.\n\n**METHODS**: An electronic database search of PUBMED, Google Scholar, Cochrane Library, Embase and Scopus for studies that reported on safety and/or effectiveness of prehospital pharmacologic analgesia for acutely injured adults (aged >\u200915\u2009years) from January 1st, 2014, to January 1st, 2026. Non-original studies, paediatric studies, studies of non-pharmacologic agents or non-systemic administration (e.g., topical) were excluded.\n\n**RESULTS**: Seventeen studies, involving 17,115 patients, met the inclusion criteria. The studies consisted of 6 randomized controlled trials, 5 retrospective cohort studies, one retrospective comparative study, one retrospective observational study, two prospective observational studies, one prospective cohort study and one non-randomized clinical trial. Agents included opioids, ketamine, methoxyflurane and paracetamol. Apart from one study of opioid therapy, no drug-attributed serious adverse events were reported. Minor adverse effects such as nausea, dizziness, dysphoria, agitation and drowsiness were common. All agents demonstrated effectiveness to varying levels.\n\n**CONCLUSIONS**: Current evidence demonstrates an overall favourable safety and effectiveness profile of prehospital analgesia for adult trauma patients. However, considering the wide prehospital prevalence of injury-related pain, evidence is limited by scope, methodology and variations of treatment protocols.",
-      "journal": "Emerg Med Australas",
-      "authors": [
-        "Alkoby-Meshulam L",
-        "Shahar C",
-        "Jacob R",
-        "Ben-Eli D",
-        "Berant R",
-        "Trotzky D",
-        "Samuel N"
-      ],
-      "date": "2026 Dec 1",
-      "doi": "10.1111/1742-6723.70385",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Prehospital"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "prehospital trauma",
-          "strength": "weak",
-          "topic": "Prehospital"
-        },
-        {
-          "keyword": "prehospital",
-          "strength": "strong",
-          "topic": "Prehospital"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42947661/"
     }
   ]
 }
