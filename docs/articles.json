@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-26T02:33:11.357696Z",
-  "total_articles": 223,
+  "generated": "2026-11-27T02:33:14.945852Z",
+  "total_articles": 222,
   "all_topics": [
     "Abdominal",
     "Burns",
@@ -378,6 +378,363 @@
     "Cochrane Database Syst Rev": "filtered"
   },
   "articles": [
+    {
+      "pmid": "43097697",
+      "title": "Loss of plasminogen activator inhibitor-1 activity during liquid plasma storage is associated with increased fibrinolysis in response to tissue plasminogen activator.",
+      "abstract": "**BACKGROUND**: In trauma, hyperfibrinolysis influences the need for massive transfusion and mortality. Tissue plasminogen activator (tPA) sensitivity increases during whole blood storage despite rising plasminogen activator inhibitor-1 (PAI-1) activity. Liquid plasma demonstrates preserved fibrinogen function in storage, but fibrinolytic regulation in stored liquid plasma remains undescribed.\n\n**METHODS**: Liquid plasma tails (n = 28) were obtained and stored at 4 \u00b0C. Thromboelastography was challenged with 75 ng/mL exogenous tPA at three storage time points (day 1-3, 7-10, and 28) to assess resistance to fibrinolysis. PAI-1 activity was measured through a modified enzyme-linked immunosorbent assay (ELISA) that captures only active PAI-1 utilizing immobilized active urokinase. Statistical analysis included two-way analysis of variance (ANOVA) and Spearman correlation. Significance was set at p <0.05.\n\n**RESULTS**: Aging liquid plasma units demonstrated a significant, progressive increase in fibrinolysis (LY30) in response to tPA over time (p = 0.008). Alpha angle gradually increased, and maximum amplitude remained stable with storage. PAI-1 activity decreased with storage (p < 0.001) and inversely correlated with tPA-thromboelastography LY30 (Spearman r = -0.40, p = 0.04).\n\n**CONCLUSIONS**: Stored liquid plasma demonstrates declining PAI-1 activity, increased tPA-mediated fibrinolysis, and preserved clot strength, highlighting differences in fibrinolytic regulation compared with previously reported findings in stored whole blood. Further investigation into fibrinolytic regulation for the spectrum of blood products during storage and the implications for trauma resuscitation is warranted.\n\n**LEVEL OF EVIDENCE**: Basic Science.",
+      "journal": "J Trauma Acute Care Surg",
+      "authors": [
+        "Barmettler NK",
+        "Maginot ER",
+        "Gawargi FI",
+        "White CM",
+        "Hamed M",
+        "Clegg AA",
+        "Moody TB",
+        "Goodman N",
+        "Koepsell S",
+        "Williams S",
+        "Bobr A",
+        "Moore EE",
+        "Moore HB",
+        "Moore PK",
+        "Henry R",
+        "Barrett CD"
+      ],
+      "date": "2026 Nov 26",
+      "doi": "10.1097/TA.0000000000005243",
+      "tier": "core",
+      "topics": [
+        "General Trauma",
+        "Haemorrhage",
+        "Prehospital"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "massive transfusion",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "thromboelastography",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "blood product",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "fibrinogen",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "trauma resuscitation",
+          "strength": "weak",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43097697/"
+    },
+    {
+      "pmid": "43097167",
+      "title": "Non-operative management of penetrating abdominal trauma in a low-volume environment: a single center experience.",
+      "abstract": "**INTRODUCTION**: High-volume trauma centers report that selective non-operative management (NOM) in patients suffering from penetrating abdominal trauma (PAT) is a safe approach. Switzerland is a low-volume environment for PAT. We hypothesize that despite the low number of PAT cases, NOM is a feasible approach with comparable outcomes to those in high incidence environments for PAT.\n\n**METHODS**: Retrospective analysis of patients aged\u2009>\u200916 years who were treated for PAT between January 1, 2013, and December 31, 2023 at a Level I trauma and academic tertiary referral center in a low-volume environment for PAT. The primary endpoint was the failure rate of NOM. Successful NOM was defined as completion of NOM without the need for surgical intervention. Secondary endpoints included the rates of non-therapeutic operations, hospital length of stay and mortality.\n\n**RESULTS**: In total, 57 patients were eligible, with 36 (63.1%) stab wounds (SW), 14 (24.6%) gunshot wounds (GSW) and seven (12.3%) impalements. Median age was 35 years (IQR 24-56) and 73.7% were male. Median ISS was 16 (IQR 4-25). In 28 patients (49.1%) NOM was attempted (23 SW, 1 GSW, 4 impalements). In these patients, median ISS was 4 (IQR 1-16.5), wound localizations were the anterior abdomen in 18 patients (64.3%), the back in 5 patients (17.9%) and the left flank in 4 patients (14.3%). A total of ten patients (35.7%) with NOM were treated as outpatients. In this small cohort there was no instance where this treatment approach had to be changed. In 29 patients (50.9%) primary operative management (POM) was performed (13 SW, 13 GSW, three impalements). Median ISS was 20 (IQR 15-32). There was one non-therapeutic laparotomy and two non-therapeutic laparoscopies. One patient died during surgery due to exsanguination caused by a high-grade liver injury with concomitant lesion of the Vena cava.\n\n**CONCLUSION**: Selective NOM in patients suffering from PAT appears to be a feasible treatment strategy with favorable outcomes also in a low-volume environment. However, established treatment algorithms, similar to high-volume centers, are required. Possible outpatient care is resource sparing and therefore increasingly important, however, further research is required to investigate its safety and patient selection.",
+      "journal": "Eur J Trauma Emerg Surg",
+      "authors": [
+        "Wistehube S",
+        "Dohner E",
+        "M\u00fcller M",
+        "Schn\u00fcriger B"
+      ],
+      "date": "2026 Nov 26",
+      "doi": "10.1007/s002689900168",
+      "tier": "core",
+      "topics": [
+        "General Trauma",
+        "Penetrating"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "gunshot wound",
+          "strength": "weak",
+          "topic": "Penetrating"
+        },
+        {
+          "keyword": "stab wound",
+          "strength": "weak",
+          "topic": "Penetrating"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43097167/"
+    },
+    {
+      "pmid": "43097133",
+      "title": "Splenic artery embolization versus operative management in traumatic splenic injury: a nationwide trend analysis and hospital-level comparison from Germany, 2019-2025.",
+      "abstract": "The spleen is the most frequently injured solid abdominal organ in blunt trauma, and its management has evolved substantially over recent decades towards non-operative strategies. Splenic artery embolization (SAE) is recommended by current guidelines as the preferred interventional approach in hemodynamically stable patients with higher-grade splenic injury. Despite this recommendation, national data on SAE utilization in Germany are rare and temporal trends as well as the influence of hospital size on treatment choice have not been systematically described. Nationwide German inpatient data were retrospectively analyzed using the InEK DatenBrowser (datenbrowser.inek.org), covering treatment years 2019 to 2025. All inpatient cases with traumatic splenic injury as the primary diagnosis (ICD-10-GM S36.00-S36.04, S36.08) were identified. Operative management was defined by OPS codes 5-413.* and 5-419.*, SAE by a combination of six OPS codes for selective embolization (particles, coils, and liquid agents). Non-operative management (NOM) comprised all remaining cases. Hospital bed-size categories served as proxies for care level and interventional radiology (IR) infrastructure. A chi-squared test assessed the association between hospital size and SAE utilization. A total of 14,422 inpatient splenic trauma cases were identified between 2019 and 2025 (mean 2,060 per year). SAE cases increased from 50 (4.3% of interventional cases) in 2019 to 81 (6.9%) in 2025, representing a 62% relative increase. Operative case volume remained stable throughout (-\u20090.9%). Hospital size was a highly significant determinant of SAE utilization (p\u2009<\u20090.001). SAE was effectively absent in hospitals with fewer than 150 beds, reached 2.6-2.7% in regional and secondary care centers, and 14.8% in maximal care and university hospitals. SAE utilization has increased by 62% in Germany between 2019 and 2025, yet remains substantially below guideline recommendations across all hospital categories. The absolute increase in SAE rate corresponded to 1.25% points as a proportion of all splenic trauma cases (95% CI 0.2-2.3 pp). The finding that even major centers with established IR achieved an SAE rate of 14.8% of interventional splenic trauma cases points to persistent structural and process-related barriers. These data support targeted efforts to integrate SAE pathways systematically into certified trauma center care.",
+      "journal": "Eur J Trauma Emerg Surg",
+      "authors": [
+        "Schurr LA",
+        "Thiedemann C",
+        "Schlitt HJ",
+        "Scharf G",
+        "Wagner BJ"
+      ],
+      "date": "2026 Nov 26",
+      "doi": "10.1016/j.jss.2026.04.016",
+      "tier": "core",
+      "topics": [
+        "Abdominal",
+        "General Trauma",
+        "Systems/QI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "traumatic",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "blunt trauma",
+          "strength": "weak",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "trauma centre",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "splenic injury",
+          "strength": "strong",
+          "topic": "Abdominal"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43097133/"
+    },
+    {
+      "pmid": "43087029",
+      "title": "When prehospital resuscitation attempts are unsuccessful: care for the relatives following termination of treatment in out-of-hospital cardiac arrest.",
+      "abstract": "**BACKGROUND**: Nearly 5,000 out-of-hospital cardiac arrests occur annually in Denmark. Three in four take place in the patient's home, often witnessed by relatives. In 60-70% of out-of-hospital cardiac arrests, the patient dies at the scene despite treatment. This study investigates the relatives\u00b4 perspective when resuscitation is unsuccessful, identifying their needs with a view to enhancing the quality of care provided to those left behind when resuscitation attempts are unsuccessful.\n\n**METHOD**: Fifteen semi-structured interviews were conducted with relatives who were present during the resuscitation attempts at out-of-hospital cardiac arrests where the patient was declared dead at the scene. The interviews were recorded and transcribed. Data were analysed using Systematic Text Condensation.\n\n**RESULTS**: Three phases were identified, each with distinct needs of the relatives. Initially, the guidance from the Emergency Medical Dispatch Centre was highly valued. Once community first responders or prehospital staff arrived, two main and contrasting responses emerged: a need to withdraw from the event or a desire to personally assist in the treatment. After unsuccessful resuscitation, compassionate and unhurried communication was considered crucial.\n\n**CONCLUSION**: The study highlights how relatives' needs shift across the phases of unsuccessful prehospital resuscitation. Community first responders fulfil an important emotional support role beyond providing basic life support. Individually tailored and transparent communication with the relatives during and after resuscitation can ease the psychological impact of the shift from the resuscitation phase, where the relatives may have hope, to the phase of termination of resuscitation attempts and the subsequent pronouncement of death of their relative.",
+      "journal": "Scand J Trauma Resusc Emerg Med",
+      "authors": [
+        "Skovbo A",
+        "J\u00f8rck CL",
+        "Huniche L",
+        "Binderup LG",
+        "Smith MA",
+        "Mikkelsen S",
+        "Bruun H"
+      ],
+      "date": "2026 Sep 02",
+      "doi": "10.1016/j.jen.2023.07.001",
+      "tier": "core",
+      "topics": [
+        "Prehospital"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "prehospital",
+          "strength": "strong",
+          "topic": "Prehospital"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43087029/"
+    },
+    {
+      "pmid": "43085292",
+      "title": "Prehospital whole blood warming and trauma-induced coagulopathy in combat casualties: A retrospective cohort study.",
+      "abstract": "**INTRODUCTION**: Trauma-induced coagulopathy (TIC) causes significant morbidity and mortality in severely injured casualties. While low-titer group O whole blood (LTOWB) is increasingly used for prehospital resuscitation, the clinical value of active prehospital blood warming remains uncertain. We evaluated whether warmed LTOWB reduced TIC on emergency department (ED) arrival.\n\n**METHODS**: We conducted a retrospective cohort study of combat casualties receiving prehospital LTOWB between October 27, 2023, and January 19, 2025 using linked data from the Israel Defense Forces Medical Corps Prehospital Trauma Registry and the Israeli National Trauma Registry. Patients were categorized by LTOWB administration method: active warming versus cold blood. The primary outcome was TIC on ED arrival (international normalized ratio\u202f\u2265\u202f1.2). Multivariable logistic regression evaluated the association between warmed LTOWB and TIC, adjusting for prehospital shock, injury severity, severe head injury, transfusion volume, and acidosis on ED arrival.\n\n**RESULTS**: Of 275 casualties receiving prehospital LTOWB, 209 were included: 61 received warmed and 148 cold LTOWB. The median age was 23\u202fyears, and most patients sustained severe or critical injuries. TIC occurred in 54 patients (25.8%), including 13 (21.3%) receiving warmed and 41 (27.7%) receiving cold LTOWB. After adjustment, warmed LTOWB was not associated with lower odds of TIC (aOR 1.07; 95% CI, 0.45-2.49). Warming was also not associated with reduced massive transfusion or improved 24-h or 30-day survival.\n\n**CONCLUSION**: Among combat casualties receiving prehospital LTOWB, active blood warming was not associated with reduced TIC on ED arrival. Larger studies are needed to clarify its clinical role.",
+      "journal": "Am J Emerg Med",
+      "authors": [
+        "Talmon O",
+        "Sharon S",
+        "Amir T",
+        "Eidelman P",
+        "Dym I",
+        "Radomislensky I",
+        "Akler D",
+        "Bendor CD",
+        "Gershgoren H",
+        "Khanchin G",
+        "Raz A",
+        "Shapiro A",
+        "Epstein D"
+      ],
+      "date": "2026 Nov 20",
+      "doi": "10.1016/j.ajem.2026.11.030",
+      "tier": "filtered",
+      "topics": [
+        "General Trauma",
+        "Haemorrhage",
+        "Prehospital",
+        "Systems/QI",
+        "TBI"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "trauma",
+          "strength": "strong",
+          "topic": "General Trauma"
+        },
+        {
+          "keyword": "injury severity",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        },
+        {
+          "keyword": "massive transfusion",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "trauma-induced coagulopathy",
+          "strength": "strong",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "prehospital blood",
+          "strength": "weak",
+          "topic": "Haemorrhage"
+        },
+        {
+          "keyword": "head injury",
+          "strength": "weak",
+          "topic": "TBI"
+        },
+        {
+          "keyword": "prehospital trauma",
+          "strength": "weak",
+          "topic": "Prehospital"
+        },
+        {
+          "keyword": "prehospital",
+          "strength": "strong",
+          "topic": "Prehospital"
+        },
+        {
+          "keyword": "trauma registry",
+          "strength": "weak",
+          "topic": "Systems/QI"
+        }
+      ],
+      "has_strong_match": true,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43085292/"
+    },
+    {
+      "pmid": "43084973",
+      "title": "Injuries among in-school adolescents in Africa, the Caribbean, and Pacific Nations: Cross-regional findings from the global school-based student health survey.",
+      "abstract": "**BACKGROUND**: Serious adolescent injuries, defined as injuries requiring medical treatment or causing \u2265\u202f1\u202fday of missed activities, remain a major global concern. However, few studies compare culturally diverse world regions. Africa, the Caribbean, and Pacific Nations (PNs) were selected to capture variation in social-ecological contexts and violence exposure.\n\n**METHODS**: Global School-based Student Health Survey (GSHS) 2017 data from school-attending adolescents aged 11-18 in Africa (n\u202f=\u202f5756), the Caribbean (n\u202f=\u202f5536), and PNs (n\u202f=\u202f5288) were analyzed. Multivariable logistic regression estimated associations between serious injuries and demographic, psychological, behavioral, and environmental factors.\n\n**RESULTS**: Suicide attempts, being physically attacked, and involvement in fights were the most consistent correlates across regions. Marginal effects showed that violence-related exposures increased injury probability by 8-19%, while suicide attempts increased risk by 7-8%. Other associations differed by region: age (Africa, Caribbean), sex and alcohol use (Caribbean, PNs), and bullying and food insecurity (Africa, PNs).\n\n**IMPLICATIONS**: Findings underscore the need for culturally relevant, region-specific school-based interventions addressing violence, mental health, and social determinants such as food insecurity.\n\n**CONCLUSIONS**: Serious injuries are common across all three regions and tightly linked to psychosocial distress and violence. Targeted global and regional strategies are urgently needed to reduce injury burden and promote adolescent health equity.",
+      "journal": "Injury",
+      "authors": [
+        "MohammadNamdar M",
+        "Wilson ML"
+      ],
+      "date": "2026 Nov 19",
+      "doi": "10.1016/j.injury.2026.113916",
+      "tier": "filtered",
+      "topics": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43084973/"
+    },
+    {
+      "pmid": "43084972",
+      "title": "Treatment of unstable intertrochanteric fractures in elderly patients using anterior compression augmented tension-band wiring combined with primary hemiarthroplasty.",
+      "abstract": "**BACKGROUND**: This study investigated the efficacy of anterior-compression augmented tension-band wiring combined with primary hemiarthroplasty (aTBW+PHA) for unstable intertrochanteric fractures in elderly fragility-fracture patients. While intramedullary nailing and dynamic hip screw fixation constitute the standard-of-care for most intertrochanteric fractures, high complication rates including trochanteric fragment displacement, non-union, and re-operation remain a concern in severely unstable, osteoporotic fractures. For this high-risk elderly subgroup, aTBW\u202f+\u202fPHA aims to achieve robust greater-trochanter fragment fixation and facilitate early postoperative functional recovery.\n\n**METHODS**: This retrospective study enrolled 105 consecutive eligible patients treated between January 2015 and May 2022 with minimum postoperative follow-up of 24\u202fmonths. According to the location and displacement direction of greater-trochanter fracture lines, individualized steel-wire winding strategies of aTBW were applied. Perioperative outcomes including operative time, intraoperative blood loss, hospital stay, time to initial partial weight-bearing, fracture-healing status and implant-related complications were recorded. Hip function was assessed using the Harris Hip Score (HHS).\n\n**RESULTS**: Mean follow-up was 28.6\u202f\u00b1\u202f5.8\u202fmonths (range, 24-38\u202fmonths). Mean operative time was 65.74\u202f\u00b1\u202f10.80\u202fmin (range, 55-95\u202fmin); mean intraoperative blood loss was 238.42\u202f\u00b1\u202f25.01\u202fmL (range, 150-380\u202fmL). Mean hospital stay was 9.50\u202f\u00b1\u202f1.64\u202fdays (range: 6-11\u202fdays). Patients commenced walker-assisted partial weight-bearing at a mean of 2.9\u202fdays postoperatively (range, 1-5\u202fdays). Four postoperative complications occurred: one deep-vein thrombosis, one greater-trochanter non-union, one prosthetic dislocation, and one steel-wire breakage (3.8% overall complication rate). The HHS improved significantly from preoperative 30.2\u202f\u00b1\u202f6.2 points to 90.5\u202f\u00b1\u202f8.7 points at final follow-up.\n\n**CONCLUSIONS**: aTBW\u202f+\u202fPHA achieves favourable clinical outcomes in elderly patients with fragility-related unstable intertrochanteric fractures. Individualized anterior-compression augmented tension-band wiring, tailored to greater-trochanter fracture-line morphology, provides reliable fixation of trochanteric fragments. Further comparative clinical studies are warranted.",
+      "journal": "Injury",
+      "authors": [
+        "Ye J",
+        "Ying L",
+        "Zhu Z",
+        "Chen H",
+        "Chen Z"
+      ],
+      "date": "2026 Nov 03",
+      "doi": "10.1016/j.injury.2026.113870",
+      "tier": "filtered",
+      "topics": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43084972/"
+    },
+    {
+      "pmid": "43084971",
+      "title": "Reported mortality benefit of early surgery not reproduced in hip fracture with myocardial injury.",
+      "abstract": "**INTRODUCTION**: A post hoc substudy of the HIP ATTACK trial reported a large mortality benefit for accelerated surgery in patients with hip fracture and myocardial injury. We aimed to determine whether that benefit is reproduced at scale.\n\n**PATIENTS AND METHODS**: Retrospective cohort study in a federated network of 112 United States health care organisations, with index events from 25 March 2006-25 March 2026. Patients had a proximal femoral fracture with same-date acute myocardial infarction or troponin I of 0.04\u202f\u00b5g/L or greater, and underwent surgery. Windows of 0-1, >\u202f1-2, >\u202f2-3, and >\u202f3 days were compared pairwise for all-cause mortality after 1:1 propensity score matching and, separately, stratified by procedure.\n\n**RESULTS**: Across cohorts totalling 25,707 patients, no comparison at any time point showed a significant advantage for earlier surgery, with or without procedure stratification. At 3 months, confidence intervals excluded an early advantage above 1.7 percentage points; the reported benefit was 12. In 8184 matched pairs one day apart, 3-month mortality was identical (risk difference, 0.0%; 95% confidence interval, -1.2-1.2). More than 68% had death, infarction, stroke, or heart failure by 12 months. Survival appeared better beyond 3 days, but procedure stratification removed 22-45% of it, and those patients had survived an interval containing 30% of deaths among never-operated patients.\n\n**CONCLUSIONS**: The mortality benefit reported for early surgery in patients with troponin elevation was not reproduced at scale: earlier surgery within the first 3 days conferred no survival advantage. Better survival beyond 3 days reflects procedure mix and survival to surgery, not a benefit of waiting. Clinicians should consider cardiac assessment and optimisation before surgery when it can be completed within the first 3 days.",
+      "journal": "Injury",
+      "authors": [
+        "Almaat A",
+        "Elnaggar A",
+        "Hilo AK",
+        "Abdalla O",
+        "Boutany M",
+        "Alqasmi H",
+        "Jawich B",
+        "Abdelnour D",
+        "Almaat W",
+        "Suhrawardy A",
+        "Shafau AL",
+        "Darwiche H",
+        "Little B",
+        "Vaidya R"
+      ],
+      "date": "2026 Nov 19",
+      "doi": "10.1016/j.injury.2026.113915",
+      "tier": "filtered",
+      "topics": [
+        "Orthopaedic"
+      ],
+      "keyword_matches": [
+        {
+          "keyword": "femoral fracture",
+          "strength": "weak",
+          "topic": "Orthopaedic"
+        }
+      ],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43084971/"
+    },
+    {
+      "pmid": "43084970",
+      "title": "Late-presenting lateral humeral condyle fractures (LHC) in children: A treatment algorithm and clinical outcomes.",
+      "abstract": "**BACKGROUND**: Lateral humeral condyle (LHC) fractures in children are commonly misdiagnosed or insufficiently treated. Management remains controversial for fractures presenting more than 3 weeks after injury.\n\n**MATERIALS AND METHODS**: This prospective case series included 30 children with LHC fractures presenting more than 3 weeks after injury (21 boys and 9 girls; mean age at diagnosis, 8.6 years). Treatments included nonoperative management (4 patients), \"in-situ\" fixation (2 patients), open reduction and internal fixation (11 patients), corrective osteotomy (11 patients) and excision of bony spur (2 patients). Final radiographs were investigated for bone healing, avascular necrosis, elbow deformities and growth disturbances. Outcome analysis included standard clinical assessment and functional scoring (Dhillon score and Mayo Elbow Performance Score), in addition to plain radiographs. The management plan was revised at the end of the study.\n\n**RESULTS**: The mean time from injury to presentation was 21.72 months. The mean follow-up was 25.06 months (range: 12-75). Complications were observed in 2 patients (6.6%). One patient had a recurrent cubitus varus deformity after previous correction, and another had a limitation of range of motion. At the latest follow-up, pain and functional scores improved in 29 of 30 patients (96.6%) compared with the baseline. ROM arc increased on average by 20 \u00b0 (p\u202f=\u202f0.01). Pronation and supination were normal in all patients. MEPS increased on average from 60 points at baseline to 95 points at the latest follow-up visit (p\u202f<\u202f0.001), while Dhillon score improved on average from 4.79 to 7.27 points (p\u202f<\u202f0.001).\n\n**CONCLUSION**: Management of late-presenting LHC fractures should focus on fragment viability, \u200edisplacement, and stability, not just chronicity. ORIF remains viable for extremely late cases. \u200eRigid fixation supports early rehabilitation. Further multicenter studies are needed to refine \u200eguidelines.\u200e.",
+      "journal": "Injury",
+      "authors": [
+        "Hussein AM",
+        "Safoury YA",
+        "Abdel-Ghani H",
+        "Kotb MA"
+      ],
+      "date": "2026 Nov 18",
+      "doi": "10.1016/j.injury.2026.113920",
+      "tier": "filtered",
+      "topics": [],
+      "keyword_matches": [],
+      "has_strong_match": false,
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43084970/"
+    },
     {
       "pmid": "43084651",
       "title": "Evaluation of the ACS Trauma Quality Improvement Program benchmark for intracranial pressure monitoring across trauma centers.",
@@ -1092,7 +1449,7 @@
         "Cheskes S"
       ],
       "date": "2026 Nov 24",
-      "doi": "10.1001/jama.2026.25614",
+      "doi": "10.1097/CCM.0000000000004664",
       "tier": "filtered",
       "topics": [
         "Prehospital"
@@ -1156,7 +1513,7 @@
         "Cheskes S"
       ],
       "date": "2026 Nov 24",
-      "doi": "10.1001/jama.2026.25627",
+      "doi": "10.1097/CCM.0000000000004664",
       "tier": "filtered",
       "topics": [
         "Prehospital"
@@ -1492,7 +1849,7 @@
         "Shen C"
       ],
       "date": "2026 Nov 23",
-      "doi": "10.1038/s41591-022-01772-9",
+      "doi": "10.1111/eci.13994",
       "tier": "core",
       "topics": [
         "General Trauma",
@@ -3079,8 +3436,8 @@
     },
     {
       "pmid": "43044725",
-      "title": "RescQ",
-      "abstract": "**BACKGROUND**: Bystanders to out-of-hospital cardiac arrest (OHCA) are at significant risk of psychological distress, yet no standardised support pathway exists for them in the UK. RescQ\u2122 is a digital-first bystander support pathway embedded within regional prehospital and cardiac arrest care services.\n\n**AIM**: To evaluate the feasibility of embedding RescQ\u2122 into routine emergency medical services (EMS) practice leading to appropriate contact with bystanders involved in OHCA. Secondary aims were to describe digital access, demand for liaison officer (LO) support, identification of younger bystanders, and EMS clinician acceptability.\n\n**METHODS**: Prospective one-year regional service evaluation of RescQ\u2122 across Essex, UK. Bystanders involved in eligible OHCA events were registered by EMS clinicians and provided with immediate access to secure digital resources. Bystanders could self-refer for additional support through LO.\n\n**RESULTS**: During the one-year evaluation, 220 of 432 eligible OHCA incidents had at least one bystander identified and the incident entered into the RescQ\u2122 pathway, representing an incident-level capture rate of 50.9%. Across these incidents, 298 bystanders were identified, of whom 260 eligible adults were registered with RescQ\u2122. Of registered adult bystanders, 96.2% accessed the digital resources at least once. Among all identified bystanders, 30/298 (10.1%) were aged under 18 years. Approximately 10% of registered bystanders self-referred for additional personalised LO support. Among 25 EMS clinician survey respondents who had used RescQ\n\n**CONCLUSION**: RescQ\u2122 demonstrated the feasibility of identifying and supporting bystanders following OHCA through a digitally enabled pathway, achieving incident-level capture above the pre-specified feasibility threshold and high website access among registered adults. These findings support further multi-region evaluation of implementation, sustainability and scalability across different EMS systems.",
+      "title": "RescQ\u2122: One-year implementation and feasibility results of a digitally enabled support pathway for bystanders of out-of-hospital cardiac arrest.",
+      "abstract": "**BACKGROUND**: Bystanders to out-of-hospital cardiac arrest (OHCA) are at significant risk of psychological distress, yet no standardised support pathway exists for them in the UK. RescQ\u2122 is a digital-first bystander support pathway embedded within regional prehospital and cardiac arrest care services.\n\n**AIM**: To evaluate the feasibility of embedding RescQ\u2122 into routine emergency medical services (EMS) practice leading to appropriate contact with bystanders involved in OHCA. Secondary aims were to describe digital access, demand for liaison officer (LO) support, identification of younger bystanders, and EMS clinician acceptability.\n\n**METHODS**: Prospective one-year regional service evaluation of RescQ\u2122 across Essex, UK. Bystanders involved in eligible OHCA events were registered by EMS clinicians and provided with immediate access to secure digital resources. Bystanders could self-refer for additional support through LO.\n\n**RESULTS**: During the one-year evaluation, 220 of 432 eligible OHCA incidents had at least one bystander identified and the incident entered into the RescQ\u2122 pathway, representing an incident-level capture rate of 50.9%. Across these incidents, 298 bystanders were identified, of whom 260 eligible adults were registered with RescQ\u2122. Of registered adult bystanders, 96.2% accessed the digital resources at least once. Among all identified bystanders, 30/298 (10.1%) were aged under 18\u00a0years. Approximately 10% of registered bystanders self-referred for additional personalised LO support. Among 25 EMS clinician survey respondents who had used RescQ\u2122 in clinical practice, ratings indicated acceptability.\n\n**CONCLUSION**: RescQ\u2122 demonstrated the feasibility of identifying and supporting bystanders following OHCA through a digitally enabled pathway, achieving incident-level capture above the pre-specified feasibility threshold and high website access among registered adults. These findings support further multi-region evaluation of implementation, sustainability and scalability across different EMS systems.",
       "journal": "Resuscitation",
       "authors": [
         "Sajjad U",
@@ -3635,7 +3992,7 @@
         "Locke E",
         "Buckley R"
       ],
-      "date": "2026 Nov 13",
+      "date": "2026 Dec 1",
       "doi": "10.1016/j.injury.2026.113903",
       "tier": "filtered",
       "topics": [],
@@ -4026,7 +4383,7 @@
         "Lehmann W",
         "Weiser L"
       ],
-      "date": "2026 Nov 12",
+      "date": "2026 Dec 1",
       "doi": "10.1016/j.injury.2026.113884",
       "tier": "filtered",
       "topics": [
@@ -4136,7 +4493,7 @@
         "Saiz AM",
         "Soles GL"
       ],
-      "date": "2026 Nov 04",
+      "date": "2026 Dec 1",
       "doi": "10.1016/j.injury.2026.113886",
       "tier": "filtered",
       "topics": [
@@ -4500,7 +4857,7 @@
         "Stewart B",
         "Gyedu A"
       ],
-      "date": "2026 Oct 24",
+      "date": "2026 Dec 1",
       "doi": "10.1016/j.injury.2026.113829",
       "tier": "filtered",
       "topics": [
@@ -4527,7 +4884,7 @@
         "Kuhls DA",
         "McNickle AG"
       ],
-      "date": "2026 Nov 06",
+      "date": "2026 Dec 1",
       "doi": "10.1016/j.injury.2026.113894",
       "tier": "filtered",
       "topics": [
@@ -4570,7 +4927,7 @@
         "Dheenadhayalan J",
         "Rajasekaran S"
       ],
-      "date": "2026 Nov 05",
+      "date": "2026 Dec 1",
       "doi": "10.1016/j.injury.2026.113882",
       "tier": "filtered",
       "topics": [
@@ -4609,7 +4966,7 @@
         "Peksoy F",
         "Kama\u015fak K"
       ],
-      "date": "2026 Nov 07",
+      "date": "2026 Dec 1",
       "doi": "10.1016/j.injury.2026.113893",
       "tier": "filtered",
       "topics": [
@@ -4637,7 +4994,7 @@
         "Perdue P",
         "Zuelzer D"
       ],
-      "date": "2026 Nov 06",
+      "date": "2026 Dec 1",
       "doi": "10.1016/j.injury.2026.113898",
       "tier": "filtered",
       "topics": [
@@ -4670,7 +5027,7 @@
         "Goverman J",
         "Haik J"
       ],
-      "date": "2026 Nov 01",
+      "date": "2026 Dec 1",
       "doi": "10.1016/j.injury.2026.113866",
       "tier": "filtered",
       "topics": [
@@ -4699,7 +5056,7 @@
         "Liebergall M",
         "Weill Y"
       ],
-      "date": "2026 Oct 25",
+      "date": "2026 Dec 1",
       "doi": "10.1016/j.injury.2026.113843",
       "tier": "filtered",
       "topics": [
@@ -4864,7 +5221,7 @@
         "Mattox KL",
         "Dumas RP"
       ],
-      "date": "2026 Nov 06",
+      "date": "2026 Dec 1",
       "doi": "10.1016/j.injury.2026.113897",
       "tier": "filtered",
       "topics": [
@@ -4902,7 +5259,7 @@
         "Alc\u00e1zar P\u00e9rez \u00c1",
         "Gonz\u00e1lez Rojo P"
       ],
-      "date": "2026 Nov 05",
+      "date": "2026 Dec 1",
       "doi": "10.1016/j.injury.2026.113885",
       "tier": "filtered",
       "topics": [
@@ -4945,7 +5302,7 @@
         "Sprauge S",
         "Gitajn IL"
       ],
-      "date": "2026 Nov 06",
+      "date": "2026 Dec 1",
       "doi": "10.1016/j.injury.2026.113890",
       "tier": "filtered",
       "topics": [
@@ -4993,7 +5350,7 @@
         "Pialat JB",
         "Stacoffe N"
       ],
-      "date": "2026 Nov 06",
+      "date": "2026 Dec 1",
       "doi": "10.1016/j.injury.2026.113891",
       "tier": "filtered",
       "topics": [
@@ -5024,7 +5381,7 @@
         "Prina A",
         "Schir\u00f2 GR"
       ],
-      "date": "2026 Nov 06",
+      "date": "2026 Dec 1",
       "doi": "10.1016/j.injury.2026.113895",
       "tier": "filtered",
       "topics": [
@@ -5329,7 +5686,7 @@
         "Lin Y",
         "Huang Z"
       ],
-      "date": "2026 Oct 29",
+      "date": "2026 Dec 1",
       "doi": "10.1016/j.injury.2026.113827",
       "tier": "filtered",
       "topics": [
@@ -5698,7 +6055,7 @@
         "Aoki M",
         "Shimizu M"
       ],
-      "date": "2026 Nov 03",
+      "date": "2026 Dec 1",
       "doi": "10.1016/j.injury.2026.113871",
       "tier": "filtered",
       "topics": [
@@ -5815,7 +6172,7 @@
         "Shah A",
         "Boriani F"
       ],
-      "date": "2026 Oct 27",
+      "date": "2026 Dec 1",
       "doi": "10.1016/j.injury.2026.113853",
       "tier": "filtered",
       "topics": [
@@ -5847,7 +6204,7 @@
         "Egol KA",
         "Konda SR"
       ],
-      "date": "2026 Nov 01",
+      "date": "2026 Dec 1",
       "doi": "10.1016/j.injury.2026.113865",
       "tier": "filtered",
       "topics": [],
@@ -5870,7 +6227,7 @@
         "Patterson B",
         "Vallier HA"
       ],
-      "date": "2026 Nov 04",
+      "date": "2026 Dec 1",
       "doi": "10.1016/j.injury.2026.113877",
       "tier": "filtered",
       "topics": [
@@ -5903,7 +6260,7 @@
         "Mauffrey C",
         "David G"
       ],
-      "date": "2026 Nov 05",
+      "date": "2026 Dec 1",
       "doi": "10.1016/j.injury.2026.113889",
       "tier": "filtered",
       "topics": [
@@ -5933,7 +6290,7 @@
         "Cook JL",
         "Crist BD"
       ],
-      "date": "2026 Nov 04",
+      "date": "2026 Dec 1",
       "doi": "10.1016/j.injury.2026.113878",
       "tier": "filtered",
       "topics": [],
@@ -5959,7 +6316,7 @@
         "Li M",
         "Chen H"
       ],
-      "date": "2026 Nov 04",
+      "date": "2026 Dec 1",
       "doi": "10.1016/j.injury.2026.113875",
       "tier": "filtered",
       "topics": [],
@@ -5982,7 +6339,7 @@
         "de Camargo Leonhardt M",
         "Santos Silva JD"
       ],
-      "date": "2026 Nov 05",
+      "date": "2026 Dec 1",
       "doi": "10.1016/j.injury.2026.113876",
       "tier": "filtered",
       "topics": [
@@ -6007,7 +6364,7 @@
         "Yoon YC",
         "Song HK"
       ],
-      "date": "2026 Nov 03",
+      "date": "2026 Dec 1",
       "doi": "10.1016/j.injury.2026.113872",
       "tier": "filtered",
       "topics": [
@@ -6048,7 +6405,7 @@
         "Di Donato M",
         "Collie A"
       ],
-      "date": "2026 Nov 04",
+      "date": "2026 Dec 1",
       "doi": "10.1016/j.injury.2026.113839",
       "tier": "filtered",
       "topics": [],
@@ -6336,7 +6693,7 @@
         "Tatman LM",
         "Mitchell PM"
       ],
-      "date": "2026 Nov 04",
+      "date": "2026 Dec 1",
       "doi": "10.1016/j.injury.2026.113874",
       "tier": "filtered",
       "topics": [
@@ -6801,7 +7158,7 @@
         "Ludwig SC",
         "Jauregui JJ"
       ],
-      "date": "2026 Oct 31",
+      "date": "2026 Dec 1",
       "doi": "10.1016/j.injury.2026.113807",
       "tier": "filtered",
       "topics": [],
@@ -6820,7 +7177,7 @@
         "Kim JY",
         "Jung E"
       ],
-      "date": "2026 Nov 03",
+      "date": "2026 Dec 1",
       "doi": "10.1016/j.injury.2026.113848",
       "tier": "filtered",
       "topics": [
@@ -6945,7 +7302,7 @@
         "Liang B",
         "Song X"
       ],
-      "date": "2026 Oct 28",
+      "date": "2026 Dec 1",
       "doi": "10.1016/j.injury.2026.113820",
       "tier": "filtered",
       "topics": [
@@ -6993,7 +7350,7 @@
         "Yazaki N",
         "Yamamoto M"
       ],
-      "date": "2026 Oct 31",
+      "date": "2026 Dec 1",
       "doi": "10.1016/j.injury.2026.113855",
       "tier": "filtered",
       "topics": [],
@@ -7014,7 +7371,7 @@
         "Wang Q",
         "Shao X"
       ],
-      "date": "2026 Oct 30",
+      "date": "2026 Dec 1",
       "doi": "10.1016/j.injury.2026.113825",
       "tier": "filtered",
       "topics": [
@@ -7056,7 +7413,7 @@
         "Zargar S",
         "Mughal I"
       ],
-      "date": "2026 Nov 01",
+      "date": "2026 Dec 1",
       "doi": "10.1016/j.injury.2026.113850",
       "tier": "filtered",
       "topics": [
@@ -7086,7 +7443,7 @@
         "Parmar Y",
         "Orchard J"
       ],
-      "date": "2026 Oct 31",
+      "date": "2026 Dec 1",
       "doi": "10.1016/j.injury.2026.113814",
       "tier": "filtered",
       "topics": [
@@ -7447,7 +7804,7 @@
         "Kocaer \u00d6",
         "Bozkurt O"
       ],
-      "date": "2026 Oct 22",
+      "date": "2026 Dec 1",
       "doi": "10.1016/j.injury.2026.113798",
       "tier": "filtered",
       "topics": [],
@@ -7470,7 +7827,7 @@
         "Schweser KM",
         "Crist BD"
       ],
-      "date": "2026 Oct 29",
+      "date": "2026 Dec 1",
       "doi": "10.1016/j.injury.2026.113845",
       "tier": "filtered",
       "topics": [],
@@ -7495,7 +7852,7 @@
         "Awad A",
         "Wiesel O"
       ],
-      "date": "2026 Oct 30",
+      "date": "2026 Dec 1",
       "doi": "10.1016/j.injury.2026.113837",
       "tier": "filtered",
       "topics": [
@@ -7537,7 +7894,7 @@
         "Ellis JD",
         "Beltran MJ"
       ],
-      "date": "2026 Oct 08",
+      "date": "2026 Dec 1",
       "doi": "10.1016/j.injury.2026.113762",
       "tier": "filtered",
       "topics": [
@@ -7735,7 +8092,7 @@
         "Sommer C",
         "Oh JK"
       ],
-      "date": "2026 Oct 24",
+      "date": "2026 Dec 1",
       "doi": "10.1016/j.injury.2026.113847",
       "tier": "filtered",
       "topics": [],
@@ -7759,7 +8116,7 @@
         "Angus T",
         "Mehta V"
       ],
-      "date": "2026 Oct 24",
+      "date": "2026 Dec 1",
       "doi": "10.1016/j.injury.2026.113849",
       "tier": "filtered",
       "topics": [
@@ -7796,7 +8153,7 @@
         "Harris B",
         "Benson E"
       ],
-      "date": "2026 Oct 24",
+      "date": "2026 Dec 1",
       "doi": "10.1016/j.injury.2026.113852",
       "tier": "filtered",
       "topics": [
@@ -7828,7 +8185,7 @@
         "Nagano F",
         "Matsumoto A"
       ],
-      "date": "2026 Oct 28",
+      "date": "2026 Dec 1",
       "doi": "10.1016/j.injury.2026.113833",
       "tier": "filtered",
       "topics": [],
@@ -7851,7 +8208,7 @@
         "Okubo Y",
         "Miyachi T"
       ],
-      "date": "2026 Oct 27",
+      "date": "2026 Dec 1",
       "doi": "10.1016/j.injury.2026.113794",
       "tier": "filtered",
       "topics": [
@@ -7904,7 +8261,7 @@
         "Hamza D",
         "Elkbuli A"
       ],
-      "date": "2026 Oct 27",
+      "date": "2026 Dec 1",
       "doi": "10.1016/j.injury.2026.113816",
       "tier": "filtered",
       "topics": [
@@ -7938,7 +8295,7 @@
         "Farahani MK",
         "Raei M"
       ],
-      "date": "2026 Oct 25",
+      "date": "2026 Dec 1",
       "doi": "10.1016/j.injury.2026.113831",
       "tier": "filtered",
       "topics": [],
@@ -7959,7 +8316,7 @@
         "Kulshrestha S",
         "Iyengar KP"
       ],
-      "date": "2026 Oct 28",
+      "date": "2026 Dec 1",
       "doi": "10.1016/j.injury.2026.113826",
       "tier": "filtered",
       "topics": [],
@@ -7981,7 +8338,7 @@
         "Tasigiorgos S",
         "Harats M"
       ],
-      "date": "2026 Oct 24",
+      "date": "2026 Dec 1",
       "doi": "10.1016/j.injury.2026.113834",
       "tier": "filtered",
       "topics": [
@@ -8010,7 +8367,7 @@
         "Erdman MK",
         "Christiano A"
       ],
-      "date": "2026 Oct 24",
+      "date": "2026 Dec 1",
       "doi": "10.1016/j.injury.2026.113782",
       "tier": "filtered",
       "topics": [
@@ -8341,383 +8698,6 @@
       "keyword_matches": [],
       "has_strong_match": false,
       "link": "https://pubmed.ncbi.nlm.nih.gov/42958307/"
-    },
-    {
-      "pmid": "42956713",
-      "title": "Rural Pathologies: A Late Presentation Special.",
-      "abstract": "Patients in rural and remote Australia often present later and with more advanced disease compared to major and regional cities. Drawing on experience as a junior doctor in the Cape and in rural emergency departments, this article explores how geographic isolation, limited resources, health literacy challenges and inequities in access shape these presentations. Cases include a critically unwell patient managed overnight in a makeshift intensive care bay when weather delayed retrieval, a family of young children with Norwegian Scabies, and a partial finger amputation complicated by weekend staffing shortages. The article reviews Australian evidence on sepsis, scabies and its link to rheumatic heart disease and trauma outcomes, all of which tend to be more challenging to manage. Timely care in rural and remote communities depends on early recognition, clear communication and close collaboration between rural generalists, FACEMs, retrieval services and specialist teams.",
-      "journal": "Emerg Med Australas",
-      "authors": [
-        "Botha NC"
-      ],
-      "date": "2026 Dec 1",
-      "doi": "10.1111/1742-6723.70381",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42956713/"
-    },
-    {
-      "pmid": "42956476",
-      "title": "Predictors of 30-day mortality and complications following surgical treatment of pathologic hip fractures.",
-      "abstract": "Pathologic hip fractures present complex challenges and are associated with higher postoperative complication rates and mortality compared with non-pathologic fractures. This study aimed to compare 30-day outcomes between pathologic and non-pathologic hip fracture patients and identify factors associated with 30-day mortality and postoperative complications among patients with pathologic hip fractures using the National Surgical Quality Improvement Program database. A retrospective analysis was conducted from 2006 to 2023. Patients aged \u2265\u202f18 years undergoing hip fracture surgery were included. Patients with non-pathologic hip fractures were compared with those with pathologic hip fractures. Univariate analyses and multivariable logistic regression models were used to identify factors associated with pathologic hip fracture 30-day mortality and complications. Among 204,675 hip fracture patients, 6159 (2.9%) had pathologic hip fractures. Patients with pathologic hip fractures had higher rates of 30-day mortality (7.8% vs. 5.1%, p\u202f<\u202f0.001), any postoperative complication (35.3% vs. 30.2%, p\u202f<\u202f0.001), cardiac/transfusion complications (27.5% vs. 22.2%, p\u202f<\u202f0.001), renal complications (0.5% vs. 0.3%, p\u202f=\u202f0.017), and venous thromboembolic complications (3.4% vs. 1.7%, p\u202f<\u202f0.001). Infectious complications and neurological complications were not significantly different between groups. In multivariable analyses, prominent protective factors associated with decreased 30-day mortality included absence of disseminated cancer (aOR 0.4, p\u202f<\u202f0.001), independent functional status (aOR 0.2, p\u202f<\u202f0.001), and absence of sepsis history (aOR 0.4, p\u202f=\u202f0.02). Thrombocytopenia (aOR 1.9, p\u202f<\u202f0.001) and anemia (aOR 1.9, p\u202f<\u202f0.001) were prominent risk factors for 30-day mortality. Thrombocytopenia and anemia were also significant risk factors for any complications and cardiac/transfusion complications. These findings underscore the importance of comprehensive preoperative assessment and multidisciplinary care to optimize outcomes for patients with pathologic hip fractures. Patients with multiple risk factors for adverse postoperative morbidity and mortality should receive appropriately tailored care.",
-      "journal": "Injury",
-      "authors": [
-        "Thomas G",
-        "Njoku-Austin CO",
-        "Almeida ND",
-        "Sinha S",
-        "Schrand TV",
-        "Mirvish A",
-        "Singh AK",
-        "Hoogervorst P"
-      ],
-      "date": "2026 Oct 24",
-      "doi": "10.1016/j.injury.2026.113854",
-      "tier": "filtered",
-      "topics": [],
-      "keyword_matches": [],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42956476/"
-    },
-    {
-      "pmid": "42956475",
-      "title": "Video-assisted resident education is associated with improved ankle joint reduction: A prospective controlled study.",
-      "abstract": "**BACKGROUND**: Proper fracture reduction and splinting technique is critical for soft tissue protection and fracture stability in the acute management of ankle fractures. However, residency education for acute ankle fracture reduction and splinting techniques remains poorly standardized and streamlined. This study evaluated the effect of implementing a video-assisted ankle fracture management education program administered to first-year orthopaedic residents on ankle joint reduction and splint quality.\n\n**METHODS**: This was a prospective controlled study conducted at a single level I trauma center. All consecutive ankle fractures (OTA/AO: 4F, 44) requiring the placement of a bivalved short leg cast or AO splint from January 1, 2019, to June 30th, 2022 were included. Exclusion criteria included skeletal immaturity, missing imaging, delayed fracture presentation more than two weeks from injury, concurrent ipsilateral injury/polytrauma interfering with ankle reduction, open fracture, or ankle fractures treated without an AO splint or cast. The primary outcome was joint reduction quality defined as radiographic post-reduction tibiofibular overlap, tibiofibular clear space, and medial clear space. Secondary outcomes included splint padding thickness and ankle dorsiflexion angle to assess splint quality.\n\n**RESULTS**: A total of 280 consecutive ankle fracture cases were included for evaluation of splint quality: 111 in the intervention group (mean age 46; [range 14-92]; 44% female) versus 169 in the control group (mean age 44; [range 14-90]; 41% female). Comparable injury severity was observed between groups. In the supination-external rotation IV (SER4) and type IV-equivalent (SER4e) subgroup, there was significant improvement in joint reduction quality in the intervention group as compared to control (55% versus 36%, respectively; Risk Ratio: 1.52, [95% CI: 1.03-2.25], p\u202f=\u202f0.04). In the entire cohort, splint padding thickness was not significantly improved in the intervention group (p\u202f>\u202f0.05), however, there was a significant increase in the percentage of ankles splinted in an appropriately dorsiflexed position (p\u202f=\u202f0.03).\n\n**CONCLUSIONS**: Implementation of video-assisted ankle fracture management education program was associated with improvements in overall ankle joint reduction quality. While the clinical significance of the improvements observed in ankle reduction remains yet to be established, orthopaedic surgery residency programs should consider incorporating video technique guides into their educational curricula.\n\n**LEVEL OF EVIDENCE**: Level II, Therapeutic Study.",
-      "journal": "Injury",
-      "authors": [
-        "Bilodeau RE",
-        "Hall AJ",
-        "Como M",
-        "Cautela F",
-        "Rowe J",
-        "Joseph D",
-        "Reddy RP",
-        "Hogan MV",
-        "Forsh D",
-        "Seneviratne A",
-        "Cong T"
-      ],
-      "date": "2026 Oct 24",
-      "doi": "10.1016/j.injury.2026.113823",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Orthopaedic",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "polytrauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "injury severity",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "trauma centre",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        },
-        {
-          "keyword": "open fracture",
-          "strength": "weak",
-          "topic": "Orthopaedic"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42956475/"
-    },
-    {
-      "pmid": "42956442",
-      "title": "Disparities in investigation of physical abuse among trauma patients.",
-      "abstract": "**BACKGROUND**: Physical abuse is a significant public health issue in the United States, leading to poor health outcomes such as chronic illness, depression, and substance abuse. Research regarding how the medical system addresses physical abuse in the overall adult population is scarce. The objective of this study was to assess disparities in investigation of physical abuse among adult trauma patients.\n\n**METHODS**: This is a retrospective analysis of the 2017-2019 American College of Surgeons-Trauma Quality Program database. This study included all adult patients (\u226518\u202fyears) who had a report of physical abuse by the medical team to authorities. Chi square and multivariate analysis were applied where appropriate to assess which characteristics showed disparities in investigation rate.\n\n**RESULTS**: On univariate analysis, there were disparities with regard to age, mechanism, race, ethnicity, payment method, and mental health or substance use disorder. On multivariate analysis, male sex, non-penetrating trauma, age\u202f\u226570, American Indian race, and presence of a mental health disorder were associated with decreased odds of investigation. Non-elderly adult patients made up a disproportionate amount of abuse victims.\n\n**CONCLUSIONS**: This study shows significant disparities in the escalation of a physical abuse report to an official investigation in the trauma setting. The authors recommend increased advocacy and resource allocation for these vulnerable populations in the clinical setting as well as further research regarding to what extent patient choice versus discretion of authorities influences these disparities. The authors also recommend a larger research focus on non-elderly adult victims of abuse.",
-      "journal": "Am J Emerg Med",
-      "authors": [
-        "Tarantino B",
-        "Buck M",
-        "Alicea J",
-        "Hancock D",
-        "Shah K"
-      ],
-      "date": "2026 Oct 23",
-      "doi": "10.1016/j.ajem.2026.10.027",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Penetrating",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "penetrating trauma",
-          "strength": "weak",
-          "topic": "Penetrating"
-        },
-        {
-          "keyword": "trauma quality",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42956442/"
-    },
-    {
-      "pmid": "42955320",
-      "title": "Ventilator-associated pneumonia after traumatic brain injury: a timing-sensitive ecological framework of neuroimmune-pulmonary vulnerability.",
-      "abstract": "**BACKGROUND**: Ventilator-associated pneumonia (VAP) is frequent after traumatic brain injury (TBI), but its biological meaning and outcome impact remain incompletely defined. Traditional models emphasise mechanical ventilation, aspiration, colonisation, endotracheal tube biofilm, and hospital pathogens. These mechanisms remain essential, but they do not fully explain the early clustering, heterogeneous susceptibility, changing bacteriology, and variable mortality effect observed after TBI.\n\n**MAIN TEXT**: Severe brain injury creates an early vulnerable host state through impaired consciousness and airway protection, neuroimmune dysregulation, autonomic and endocrine activation, altered pulmonary immune surveillance, and, in many patients, extracranial trauma, shock, transfusion, or thoracic injury. These processes interact with ventilation, antibiotic pressure, and rapid respiratory microbiome disruption. Early VAP may reflect abrupt loss of control after injury and intubation, whereas late VAP may reflect persistent or secondary failure driven by biofilm maturation, antibiotic selection, multidrug-resistant pathogens, and intensive care unit (ICU)-acquired immune dysfunction. Clinically, VAP consistently prolongs ventilation, ICU stay, antibiotic exposure, and resource use, while its independent effect on mortality is phenotype- and context-dependent.\n\n**CONCLUSIONS**: This model proposes a timing-sensitive ecological framework in which established mechanisms may converge early and with particular clinical intensity after severe TBI, creating a vulnerable host-microbe state that may lower the threshold for clinically apparent infection. Future studies should distinguish isolated TBI from polytrauma, compare TBI with other acute brain injuries and non-neurological ventilated populations, and incorporate dynamic immune, microbial, and trajectory-based outcomes.\n\n**HIGHLIGHTS**: VAP after TBI should be viewed as a timing-sensitive interaction between ventilator exposure and early host vulnerability, not as a distinct disease entity or as a pneumonia pathway unique to traumatic brain injury. The TBI-focused contribution lies in the early convergence of otherwise non-unique mechanisms: impaired airway control, aspiration risk, neuroimmune-endocrine activation, treatment exposure, dysbiosis, and extracranial injury burden, rather than in any single TBI-specific mechanism. Isolated TBI and TBI with polytrauma are biologically different phenotypes and should be separated in future studies. Early and late VAP may represent different phases of loss of pulmonary host-microbe containment; this distinction is probabilistic rather than TBI-specific in itself and requires validation in TBI-stratified cohorts. Mortality remains clinically relevant but context-dependent; VAP more consistently modifies recovery trajectory, ventilator dependence, ICU stay, antibiotic exposure, and possibly neurological recovery.",
-      "journal": "Intensive Care Med",
-      "authors": [
-        "Martin-Loeches I",
-        "Povoa P",
-        "Robba C",
-        "Bandera A",
-        "Guglielmi A",
-        "Citerio G"
-      ],
-      "date": "2026 Nov 1",
-      "doi": "10.21203/rs.3.rs-3412001/v1",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "TBI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "polytrauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic brain injury",
-          "strength": "strong",
-          "topic": "TBI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42955320/"
-    },
-    {
-      "pmid": "42955129",
-      "title": "24-hour risk updating for major ICU complications after severe trauma: a prospective cohort study.",
-      "abstract": "**PURPOSE**: Conventional trauma prognostic models rely primarily on admission data and cannot account for subsequent physiological response to treatment. We evaluated whether routinely collected physiological information available at 24\u00a0h provides incremental prognostic information for major intensive care unit (ICU) complications in severely injured patients.\n\n**METHODS**: We conducted a prospective cohort of adults with severe trauma (Injury Severity Score [ISS]\u2009\u2265\u200915) admitted to the ICU between January 2024 and April 2025. The primary outcome was a composite of major respiratory, hemodynamic, renal, or septic complications during the ICU course. TRISS was compared with an admission ridge model incorporating ISS, Glasgow Coma Scale, hemoglobin, lactate, and international normalized ratio, and a 24-h updated ridge model additionally incorporating 24-h lactate and change in creatinine. Performance was internally validated with 1,000 bootstrap resamples.\n\n**RESULTS**: Among 109 patients, median ISS was 29 (IQR 20-38), and 73 (67.0%) developed major ICU complications. Optimism-corrected AUCs were 0.788 for TRISS, 0.873 for the admission model, and 0.887 for the 24-h updated model; Brier scores were 0.178, 0.140, and 0.131. Compared with the admission model, the 24-h updated model improved performance (\u0394AUC 0.016, 95% bootstrap interval 0.004-0.030; \u0394Brier\u2009-\u20090.010, -\u20090.017 to -\u20090.005). Twenty-four-hour lactate and creatinine change were the strongest contributors to the update.\n\n**CONCLUSION**: In severely injured ICU patients, incorporating physiological evolution during the first 24\u00a0h refined admission-based prognostic assessment. Lactate and creatinine trajectories provided incremental information for major ICU complications during the ICU course. External validation is required before clinical implementation.",
-      "journal": "Eur J Trauma Emerg Surg",
-      "authors": [
-        "Sanchez C",
-        "Cachafeiro L",
-        "Millan P",
-        "Polo E",
-        "Garcia L",
-        "Sarmiento C",
-        "Vejo J",
-        "Lopez A",
-        "Graciani E",
-        "Quintana M",
-        "Sanchez M"
-      ],
-      "date": "2026 Oct 29",
-      "doi": "10.1007/s00068-026-03374-3",
-      "tier": "core",
-      "topics": [
-        "General Trauma",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "injury severity",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42955129/"
-    },
-    {
-      "pmid": "42954428",
-      "title": "Maternity versus non-maternity healthcare settings for the diagnosis of gestational diabetes or diabetes in pregnancy.",
-      "abstract": "**RATIONALE**: Substantial uncertainty exists regarding how healthcare system factors, especially care setting types, affect the uptake and implementation of gestational diabetes or diabetes in pregnancy screening in practice. Evidence suggests that the care environment may influence diagnostic processes.\n\n**OBJECTIVES**: To assess the effectiveness of maternity and non-maternity healthcare settings for the diagnosis of gestational diabetes mellitus or diabetes in pregnancy.\n\n**SEARCH METHODS**: We searched CENTRAL, MEDLINE, Embase, and Cumulative Index to Nursing and Allied Health Literature (CINAHL) for randomised controlled trials (RCTs) up to April 2026, and for controlled non-randomised studies of interventions (NRSIs) up to December 2025. We also searched CENTRAL to identify ongoing trials.\n\n**ELIGIBILITY CRITERIA**: We included RCTs and planned to include cluster-RCTs and NRSIs, but we did not find any. Eligible participants were pregnant women being screened for gestational diabetes mellitus (GDM) or diabetes in pregnancy. We defined maternity healthcare settings as those specialising in care for pregnant, birthing, and postpartum individuals, with appropriate screening protocols, and non-maternity healthcare settings as general medical environments lacking a focus on pregnancy and women's care. We considered any screening format (e.g. risk-factor-based screening) and any diagnostic test (e.g. one- and two-step oral glucose tolerance tests (OGTT)).\n\n**OUTCOMES**: Critical health service outcomes were compliance with screening and follow-up guidelines, diagnosis of gestational diabetes or diabetes in pregnancy, maternal emergency department visits during pregnancy, maternal antenatal hospitalisation, length of maternal hospitalisation, length of neonatal hospitalisation, and care accessibility. Critical maternal outcomes included hypertensive disorders, maternal death, intensive care admissions, hyperglycaemia requiring pharmacological treatment, infections, and postpartum glucose intolerance, including progression to diabetes, within 15 years after birth. Critical child-related outcomes encompassed perinatal death, neonatal intensive care admissions, preterm birth, neonatal hypoglycaemia, large-for-gestational-age, shoulder dystocia, and birth trauma. Further critical and important outcomes not included in the summary of findings tables can be found in the full text.\n\n**RISK OF BIAS**: We used the Cochrane RoB 2 tool to assess bias in the RCTs. We had planned to use ROBINS-I version 2 to assess bias in the NRSIs if we had identified any.\n\n**SYNTHESIS METHODS**: We used standard Cochrane methodology. We planned to synthesise results for each outcome using meta-analysis where possible (inverse-variance or Mantel-Haenszel approaches; fixed-effect model). We used GRADE to assess the certainty of the evidence for each outcome.\n\n**INCLUDED STUDIES**: We included one RCT with 781 participants: 390 were randomised to screening in a maternity healthcare setting and 391 were randomised to screening in a non-maternity healthcare setting. Except for screening compliance, trialists evaluated all outcomes using a per-protocol analysis instead of by original randomised groups. This approach created substantial disparities in sample sizes between settings and largely nullified the methodological protections typically provided by a randomised design. The trial evaluated screening for GDM only. We did not identify any ongoing studies or studies awaiting classification.\n\n**SYNTHESIS OF RESULTS**: Health service outcomes Screening in a maternity healthcare setting may increase compliance with screening and follow-up guidelines (risk ratio (RR) 1.69, 95% confidence interval (CI) 1.53 to 1.87; 781 participants) and may improve care accessibility, assessed as time to access antenatal diabetes care, measured in days (mean difference (MD) -4.70, 95% CI -6.03 to -3.37; 690 participants), both with low-certainty evidence. We are very uncertain about the effect of screening in a maternity healthcare setting versus a non-maternity healthcare setting on diagnosis of gestational diabetes or diabetes in pregnancy (RR 1.10, 95% CI 0.60 to 2.01; 690 participants; very low-certainty evidence) and length of neonatal hospitalisation (MD 0.04, 95% CI -0.57 to 0.65; 690 participants; very low-certainty evidence). No direct evidence was available on screening for diabetes in pregnancy as distinct from GDM. No data were reported on maternal emergency department visits, maternal antenatal hospitalisation, length of maternal hospitalisations, and costs. Maternal outcomes We are very uncertain about the effect of screening in a maternity healthcare setting versus a non-maternity healthcare setting on pre-eclampsia (RR 1.24, 95% CI 0.56 to 2.75; 690 participants; very low-certainty evidence). The following outcomes were not reported: eclampsia, HELLP syndrome, maternal death, admission to intensive care, hyperglycaemia requiring pharmacological treatment, infections, and postpartum glucose intolerance. Child-related outcomes We are very uncertain about the effect of screening in a maternity healthcare setting versus a non-maternity healthcare setting on: stillbirth or foetal death (RR 0.91, 95% CI 0.08 to 9.93), admission to neonatal intensive care (RR 1.01, 95% CI 0.59 to 1.71), preterm birth (RR 1.06, 95% CI 0.41 to 2.71), neonatal hypoglycaemia (RR 0.91, 95% CI 0.23 to 3.59), large-for-gestational-age (RR 0.73, 95% CI 0.51 to 1.04), shoulder dystocia (RR 0.15, 95% CI 0.01 to 3.70), and birth trauma (RR 0.91, 95% CI 0.08 to 9.93), all with 690 participants each and very low-certainty evidence. An effect estimate for neonatal death was not estimable (maternity setting: 0/475; non-maternity setting: 0/215).\n\n**AUTHORS' CONCLUSIONS**: There is insufficient evidence to determine whether screening for gestational diabetes or diabetes in pregnancy in maternity healthcare settings compared with non-maternity healthcare settings improves health service, maternal, or child-related outcomes. Low-certainty evidence from a single study indicates that screening in maternity healthcare settings may result in a reduction in time to access antenatal diabetes care and may increase compliance. The effects on other outcomes remain unknown. Conducting studies using intention-to-treat analyses could bridge existing research gaps, enhancing effect estimates and certainty.\n\n**FUNDING**: This Cochrane review was funded by the World Health Organization (WHO) and the UNDP-UNFPA-UNICEF-WHO-World Bank Special Programme of Research, Development and Research Training in Human Reproduction (HRP).\n\n**REGISTRATION**: Protocol available via PROSPERO: https://www.crd.york.ac.uk/PROSPERO/view/CRD420251108692.",
-      "journal": "Cochrane Database Syst Rev",
-      "authors": [
-        "Cryns N",
-        "Schroer J",
-        "Noel-Storr AH",
-        "Franco JV",
-        "Jahanfar S",
-        "Messer S",
-        "Zorger AM",
-        "\u00c7olakkeskin \u00dc",
-        "Widyaningsih SA",
-        "Mullins E",
-        "Gibbs KD",
-        "Skoetz N",
-        "Wagner C"
-      ],
-      "date": "2026 Oct 29",
-      "doi": "10.1016/j.ijgo.2016.01.013",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42954428/"
-    },
-    {
-      "pmid": "42953945",
-      "title": "Predictors of Return to Work Following Major Trauma in New Zealand.",
-      "abstract": "**OBJECTIVE**: This study aimed to identify physical and psychological predictors of return to work (RTW) in a cohort of major trauma patients in New Zealand.\n\n**METHODS**: A retrospective cohort study was conducted at Christchurch Hospital involving patients identified from the New Zealand Major Trauma Registry. Full-time workers (n\u2009=\u2009130) who sustained major trauma between 2016 and 2020 completed self-reported questionnaires assessing post-injury work capacity, PTSD (PCL-5), anxiety and depression (HADS) and perceived social support (MSPSS). Univariable and multivariable analyses were performed to determine predictors of decreased RTW following injury.\n\n**RESULTS**: Older age, longer hospital length of stay (LOS) and ICU admission were all significantly associated with decreased RTW in the univariable analysis. Probable anxiety and depression were also significantly associated with decreased RTW, while meeting PTSD thresholds did not yield a significant association. In the final multivariable analysis, older age (OR 1.08, p\u2009<\u20090.01), longer LOS (OR 1.04, p\u2009=\u20090.048) and those with probable depression (OR 5.29, p\u2009=\u20090.01) were significantly associated with decreased RTW.\n\n**CONCLUSIONS**: Probable depression is a strong, independent psychological predictor of reduced RTW following major trauma. These findings highlight the need for integrated post-trauma care models that incorporate routine psychological screening and early intervention to address both the physical and psychological needs of patients suffering from major trauma.",
-      "journal": "Emerg Med Australas",
-      "authors": [
-        "Finlayson D",
-        "Logan S",
-        "Jemberie D",
-        "Quinn N",
-        "Joyce LR",
-        "Wakeman C",
-        "McCombie A"
-      ],
-      "date": "2026 Dec 1",
-      "doi": "10.1016/j.rehab.2025.101972",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "major trauma",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "trauma registry",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42953945/"
-    },
-    {
-      "pmid": "42951894",
-      "title": "Variation in Pediatric Extracorporeal Cardiopulmonary Resuscitation Survival After In-Hospital Cardiac Arrest: Development and Validation of a Survival Model for Risk-Standardized Survival Rates: An Analysis of the Extracorporeal Life Support Organization Registry.",
-      "abstract": "**OBJECTIVES**: To develop and internally validate a multivariable prediction model for survival to hospital discharge after pediatric extracorporeal cardiopulmonary resuscitation (ECPR) for in-hospital cardiac arrest (IHCA), and to use this model to derive risk-standardized survival rates (RSSRs) and quantify between-hospital variation in outcomes.\n\n**DESIGN**: Retrospective multicenter cohort study.\n\n**SETTING**: Hospitals contributing to the Extracorporeal Life Support Organization (ELSO) registry between 2020 and 2023.\n\n**PATIENTS**: Children (< 18 yr) treated with ECPR for IHCA.\n\n**INTERVENTIONS**: None.\n\n**MEASUREMENTS AND MAIN RESULTS**: Eligible patients were identified from the ELSO Registry and split into derivation (N = 1060) and validation (N = 317) cohorts using a hospital-stratified split to preserve within-hospital clustering. Survival prediction models were derived using penalized logistic regression with the least absolute shrinkage and selection operator. A full-event model incorporating 14 routinely available clinical variables demonstrated fair discrimination (area under the curve, 0.728 in the derivation cohort and 0.678 in the validation cohort) and good calibration (observed-to-expected ratio, 0.995; Brier score, 0.222 in the validation cohort). This model was embedded in a multilevel logistic regression model to generate hospital-level RSSRs for centers reporting five or more ECPR cases. Between-hospital variation was quantified using the median odds ratio, which was 1.30 (95% CI, 1.11-1.93), indicating significant differences in survival likelihood between centers after adjusting for patient-level risk.\n\n**CONCLUSIONS**: In a large, international cohort of pediatric ECPR patients, we developed and internally validated a clinically interpretable model for survival to hospital discharge. The model performance as a discriminator likely limits its use as a standalone tool for clinical decision-making. However, strong internal calibration allowed for determination of hospital-level RSSRs, which revealed significant inter-hospital variability. These findings demonstrate the feasibility of developing a risk-adjustment model capable of estimating hospital-level RSSRs. Additional external validation and evaluation of residual case-mix differences are needed before such models can be used for benchmarking across pediatric ECPR centers.",
-      "journal": "Crit Care Med",
-      "authors": [
-        "Loaec M",
-        "Himebauch AS",
-        "Balcarcel D",
-        "Reilly JP",
-        "Feng R",
-        "Regan M",
-        "Thiagarajan R",
-        "Bembea MM",
-        "Lasa JJ",
-        "Kilbaugh TJ",
-        "Sutton RM",
-        "Morgan RW"
-      ],
-      "date": "2026 Oct 29",
-      "doi": "10.1097/CCM.0000000000007383",
-      "tier": "filtered",
-      "topics": [
-        "Cardiac Arrest"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "ECPR",
-          "strength": "weak",
-          "topic": "Cardiac Arrest"
-        }
-      ],
-      "has_strong_match": false,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42951894/"
-    },
-    {
-      "pmid": "42951818",
-      "title": "Ischemic severity rather than ischemic time is associated with major limb complications in traumatic popliteal artery injury: A retrospective case series.",
-      "abstract": "**PURPOSE**: Although prolonged ischemic time is considered a key determinant of limb loss in traumatic popliteal artery injury (PAI), it does not fully explain the variability in clinical outcomes. This study aimed to evaluate whether ischemic severity at presentation is associated with major limb complications in PAI.\n\n**METHODS**: We retrospectively reviewed patients with blunt PAI treated at a single trauma center between 2013 and 2025. Ischemic severity was assessed using the Rutherford classification and the presence of collateral circulation on computed tomography angiography (CTA). Patients were categorized into mild ischemia (Rutherford grade I-II) and severe ischemia (Rutherford grade III). Outcomes included extensive soft tissue defects requiring reconstruction and amputation.\n\n**RESULTS**: Twenty-one limbs were included. Thirteen limbs were classified as mild ischemia and eight as severe ischemia. Collateral circulation was preserved in 17 limbs and absent in 4 limbs. The time to arterial reconstruction was comparable between groups. No major soft tissue complications occurred in the mild ischemia group. In contrast, 5 of 8 limbs with Rutherford grade III developed extensive soft tissue defects (p\u202f=\u202f0.006). Absence of collateral circulation was also strongly associated with adverse outcomes, with all limbs without collateral flow developing major soft tissue complications (p\u202f=\u202f0.002), despite a shorter time to revascularization.\n\n**CONCLUSION**: Ischemic severity at presentation, particularly Rutherford grade III and absence of collateral circulation on CTA, is associated with major limb complications in traumatic PAI, whereas ischemic time alone may be insufficient to predict outcomes.",
-      "journal": "Injury",
-      "authors": [
-        "Izawa Y",
-        "Futamura K",
-        "Nishida M"
-      ],
-      "date": "2026 Oct 24",
-      "doi": "10.1016/j.injury.2026.113842",
-      "tier": "filtered",
-      "topics": [
-        "General Trauma",
-        "Systems/QI"
-      ],
-      "keyword_matches": [
-        {
-          "keyword": "trauma",
-          "strength": "weak",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "traumatic",
-          "strength": "strong",
-          "topic": "General Trauma"
-        },
-        {
-          "keyword": "trauma centre",
-          "strength": "weak",
-          "topic": "Systems/QI"
-        }
-      ],
-      "has_strong_match": true,
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42951818/"
     }
   ]
 }
